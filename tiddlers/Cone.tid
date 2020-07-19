@@ -1,0 +1,19 @@
+created: 20200719183734885
+modified: 20200719183853215
+tags: Area
+title: Cone
+type: text/vnd.tiddlywiki
+
+A cone shoots out from you in a quarter circle on the grid.
+
+When you aim a cone, the first square of that cone must share an edge with your space if you’re aiming orthogonally, or it must touch a corner of your space if you’re aiming diagonally. 
+
+If you’re Large or larger, the first square can run along the edge of any square of your space. 
+
+You can’t aim a cone so that it overlaps your space. 
+
+The cone extends out for a number of feet, widening as it goes, as shown in the Areas diagram. 
+
+For instance, when a green dragon uses its breath weapon, it breathes a cone of poisonous gas that originates at the edge of one square of its space and affects a quarter-circle area 30 feet on each edge.
+
+If you make a cone originate from someone or something else, follow these same rules, with the first square of the cone using an edge or corner of that creature or object’s space instead of your own.

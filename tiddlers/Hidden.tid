@@ -1,0 +1,19 @@
+created: 20200626164119743
+modified: 20200627202714651
+tags: Condition
+title: Hidden
+type: text/vnd.tiddlywiki
+
+While you’re hidden from a creature, that creature knows the space you’re in but can’t tell precisely where you are.
+
+You typically become hidden by using [[Stealth]] to [[Hide]].
+
+When [[Seek]]ing a creature using only [[Imprecise]] senses, it remains hidden, rather than observed. 
+
+A creature you’re hidden from is [[Flat-Footed]] to you, and it must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect. If it fails, it doesn't affect the you, though the actions it used are still expended—as well as any spell slots, costs, and other resources. 
+
+A creature remains flat-footed to you even if it successfully targets you.
+
+Area effects aren’t subject to this flat check.
+
+A creature might be able to use the [[Seek]] action to try to observe you.

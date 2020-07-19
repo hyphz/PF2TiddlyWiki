@@ -1,0 +1,11 @@
+created: 20200627194927321
+modified: 20200627194953713
+tags: Action Reaction
+title: Ferocity
+type: text/vnd.tiddlywiki
+
+''Trigger'' The monster is reduced to 0 HP. 
+
+The monster avoids being knocked out and remains at 1 HP, but its [[Wounded]] value increases by 1. 
+
+When it is wounded 3, it can no longer use this ability.

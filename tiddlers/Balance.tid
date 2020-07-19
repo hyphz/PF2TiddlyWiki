@@ -1,0 +1,21 @@
+a-actions: 1
+a-crit: You move up to your Speed.
+a-fail: You must remain stationary to keep your balance (wasting the action) or you fall. If you fall, your turn ends.
+a-fumble: You fall and your turn ends.
+a-hit: You move up to your Speed, treating it as [[Difficult Terrain]] (every 5 feet costs 10 feet of movement).
+a-skill: Acrobatics
+created: 20200702215550048
+modified: 20200702220442459
+tags: Action Move Untrained
+title: Balance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in a square that contains a narrow surface, uneven ground, or another similar feature.
+
+You move across a narrow surface or uneven ground, attempting an [[Acrobatics]] check against its Balance DC. 
+
+You are [[Flat-Footed]] while on a narrow surface or uneven ground //unless you have [[Steady Balance]]//.
+
+{{||ActionSuccessTable}}
+
+//If you have [[Steady Balance]], then whenever you roll a success using the Balance action, you get a critical success instead.//

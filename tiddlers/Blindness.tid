@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719164244708
+m-area: 
+m-components: Somatic, Verbal
+m-duration: Varies
+m-level: 3
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200719164540118
+s-crit: The target is unaffected.
+s-fail: The target is blinded for 1 minute.
+s-fumble: The target is blinded permanently.
+s-hit: The target is blinded until its next turn begins.
+tags: Incapacitation Necromancy Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+title: Blindness
+turn-stn: Wears off if the target's save was a success.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You blind the target. 
+
+The effect is determined by the target’s [[Fortitude]] save. 
+
+The target then becomes temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}

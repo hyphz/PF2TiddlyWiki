@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200704182421305
+modified: 20200704182558024
+tags: Action Move
+title: Mount
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
+
+You move onto the creature and ride it. 
+
+//If you have the [[Ride]] feat, the creature skips its next turn and acts as a [[Minion]] under your control on your next turn. If you don't, you have to use [[Command an Animal]] to tell the mount what to do.//
+
+If you’re already mounted, you can instead use this action to dismount, moving off the mount into a space adjacent to it.

@@ -1,0 +1,16 @@
+a-actions: 2
+created: 20200626204814954
+modified: 20200626205035662
+tags: Action Concentrate Activity
+title: Ready
+type: text/vnd.tiddlywiki
+
+You prepare to use an action that will occur outside your turn. 
+
+Choose a single [[Action]] or [[Free]] action you can use, and designate a trigger. You can’t Ready a free action that already has a trigger.
+
+Your turn then ends. 
+
+If the trigger you designated occurs before the start of your next turn, you can use the chosen action as a [[Reaction]] (provided you still meet the requirements to use it). 
+
+If you have a multiple attack penalty and your readied action is an [[Attack]] action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it’s not your turn.

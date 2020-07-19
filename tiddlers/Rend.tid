@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200627200821223
+modified: 20200627200948141
+tags: Action
+title: Rend
+type: text/vnd.tiddlywiki
+
+A Rend entry lists a [[Strike]] the monster has. 
+
+''Requirements'' The monster hit the same enemy with two consecutive [[Strike]]s of the listed type in the same round. 
+
+The monster automatically deals that Strike’s damage again to the enemy.

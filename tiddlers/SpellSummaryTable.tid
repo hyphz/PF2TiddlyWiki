@@ -1,0 +1,14 @@
+created: 20200627214018361
+modified: 20200718212649416
+tags: 
+title: SpellSummaryTable
+type: text/vnd.tiddlywiki
+
+|!Level|{{!!m-level}}|
+|!Components|{{!!m-components}}|
+|!Time|{{!!m-time}}|
+|!Range|{{!!m-range}}|
+|!Area|{{!!m-area}}|
+|!Target|{{!!m-targets}}|
+|!Save|{{!!m-save}}|
+|!Duration|{{!!m-duration}}|

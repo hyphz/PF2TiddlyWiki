@@ -1,0 +1,54 @@
+created: 20200627215200073
+m-components: Somatic, Verbal
+m-level: 4
+m-range: You
+m-save: None (Beneficial)
+m-targets: You
+modified: 20200627222703872
+tags: Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Aerial Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You harness your mastery of primal forces to reshape your body into a Medium flying animal battle form. 
+
+When you cast this spell, choose bat, bird, pterosaur, or wasp. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form’s Size or statistics. 
+
+While in this form, you gain the [[Animal]] trait. 
+
+You gain [[Low-Light Vision]].
+
+You can Dismiss the spell. 
+
+You gain the following statistics and abilities regardless of which battle form you choose, depending on the level to which the spell was Heightened:
+
+| !Level | !AC | !Size | !Temp HP | !Attack Modifier | !Damage Bonus | !Acrobatics | !Fly Speed Bonus |
+| 4 | 18+your level | Medium | 5 | +16 | +5 | +16 | 0 |
+| 5 | 18+your level | Large | 10 | +18 | +8 | +20 | +10' |
+| 6 | 21+your level | Huge | 15 | +21 | +4 | +23 | +15' |
+
+You ignore your armor's check penalty and Speed reduction when in your aerial form.
+
+The unarmed melee attacks specific to the battle form you choose are the only attacks you
+can use. You’re trained with them. These attacks are [[Dexterity]] based (for the purpose of the clumsy condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead.
+
+If your own [[Acrobatics]] modifier is higher than the one for your form, you can use it instead.
+
+The bonus given to your Fly speed is a status bonus.
+
+If you cast the spell at level 6, you additionally gain 10' reach and damage dice are doubled, including for [[Persistent Damage]].
+
+If you are made larger by casting the spell, you must have enough room to expand into or the spell is lost.
+
+You also gain specific abilities based on the form you choose:
+
+* ''Bat'' Speed 20 feet, fly Speed 30 feet; precise echolocation 40 feet; Melee [one-action] fangs, Damage 2d8 piercing; Melee [one-action] wing ([[Agile]]), Damage 2d6 bludgeoning.
+
+* ''Bird'' Speed 10 feet, fly Speed 50 feet; Melee [one-action] beak, Damage 2d8 piercing; Melee [one-action] talon (agile), Damage 1d10 slashing.
+
+* ''Pterosaur'' Speed 10 feet, fly Speed 40 feet; imprecise scent 30 feet; Melee [one-action] beak, Damage 3d6 piercing.
+
+* ''Wasp'' Speed 20 feet, fly Speed 40 feet; Melee [one-action] stinger, Damage 1d8 piercing plus 1d6 persistent poison.
+
+{{BattleFormRestrictions}}

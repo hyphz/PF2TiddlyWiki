@@ -1,0 +1,19 @@
+a-actions: 1
+a-crit: You throw your enemy’s defenses against you entirely off. The target is [[Flat-Footed]] against melee attacks that you attempt against it until the end of your next turn.
+a-defense: Perception
+a-fumble: Your feint backfires. You are [[Flat-Footed]] against melee attacks the target attempts against you until the end of your next turn.
+a-hit: Your foe is fooled, but only momentarily. The target is [[Flat-Footed]] against the next melee attack that you attempt against it before the end of your current turn.
+a-skill: Deception
+created: 20200705231653232
+modified: 20200705231952967
+tags: Action Mental Trained
+title: Feint
+turn-euc: Target's flat-footed status ends on a regular success.
+turn-eun: Target's flat-footed status ends on a critical success.
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are within melee reach of the opponent you attempt to Feint.
+
+With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a [[Deception]] check against that opponent’s [[Perception]] DC.
+
+{{||ActionSuccessTable}}

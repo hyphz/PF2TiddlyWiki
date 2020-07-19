@@ -1,0 +1,25 @@
+created: 20200626201721376
+modified: 20200702141259129
+tags: Condition
+title: Prone
+type: text/vnd.tiddlywiki
+
+You’re lying on the ground. 
+
+You are [[Flat-Footed]] and take a –2 circumstance penalty to attack rolls. //(You aren't Flat-Footed while Prone if you have [[Nimble Crawl]] and are legendary in [[Acrobatics]].)//
+
+The only [[Move]] actions you can use while you’re prone are [[Crawl]] and [[Stand]]. 
+
+Standing up ends the prone condition. 
+
+You can [[Take Cover]] while prone to hunker down and gain cover against ranged attacks, even if you don’t have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain flat-footed).
+
+If you would be knocked prone while you’re [[Climb]]ing or [[Fly]]ing, you [[Fall]]. You can’t be knocked prone when [[Swim]]ming.
+
+//You can use an action to voluntarily [[Drop Prone]].//
+
+//You usually fall prone if knocked [[Unconscious]].//
+
+//You can [[Kip Up]] to stand as a free action. This isn't a Move action, so it doesn't break the rule above.//
+
+

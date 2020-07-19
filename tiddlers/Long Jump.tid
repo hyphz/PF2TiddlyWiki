@@ -1,0 +1,25 @@
+a-actions: 2
+a-fail: You Leap normally.
+a-fumble: You Leap normally, but then fall and land [[Prone]].
+a-hit: Increase the maximum horizontal distance you Leap to the desired distance.
+a-skill: Athletics
+created: 20200704174346099
+modified: 20200706215929193
+tags: Action Untrained
+title: Long Jump
+type: text/vnd.tiddlywiki
+
+You [[Stride]], then make a horizontal [[Leap]] and attempt an [[Athletics]] check to increase the length of your jump. 
+
+//If you have [[Quick Jump]], you can Long Jump as a single action but you don't Stride.//
+
+The DC of the Athletics check is equal to the total distance in feet you’re attempting to move during your Leap (so you’d need to succeed at a DC 20 check to Leap 20 feet). You can’t Leap
+farther than your Speed. This DC might be increased or decreased due to the situation, as determined by the GM.
+
+If you didn’t Stride at least 10 feet, or if you attempt to jump in a different direction than your Stride, you automatically fail your check //unless you have [[Quick Jump]]//. 
+
+//If you have [[Wall Jump]], you can jump a second time off a wall as a single action.//
+
+//If you have [[Cloud Jump]], you jump a number of feet equal to the DC you roll ''tripled'', limited to your Speed times the number of actions you spent jumping.//
+
+{{||ActionSuccessTable}}

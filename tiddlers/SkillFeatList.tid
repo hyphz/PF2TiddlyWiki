@@ -1,0 +1,13 @@
+created: 20200702142122585
+modified: 20200702215953425
+tags: 
+title: SkillFeatList
+type: text/vnd.tiddlywiki
+
+''Feats for this skill:''
+
+<ul>
+<$list filter="[tag[Feat]field:feat-skill<currentTiddler>]">
+<li><$link to=<<currentTiddler>> /></li>
+</$list>
+</ul>

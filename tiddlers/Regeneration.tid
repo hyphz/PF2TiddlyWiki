@@ -1,0 +1,13 @@
+created: 20200627200702475
+modified: 20200627200808030
+tags: Ability
+title: Regeneration
+type: text/vnd.tiddlywiki
+
+This monster regains the listed number of Hit Points each round at the beginning of its turn. 
+
+Its [[Dying]] condition never increases beyond dying 3 as long as its regeneration is active. 
+
+If it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. 
+
+//The regeneration is deactivated// before applying any damage of a listed type, //so// that damage //can// kill the monster by bringing it to dying 4.

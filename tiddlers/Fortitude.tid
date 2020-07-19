@@ -1,0 +1,22 @@
+created: 20200627193359105
+modified: 20200712164248339
+tags: Save
+title: Fortitude
+type: text/vnd.tiddlywiki
+
+//A Fortitude save is used to avoid negative effects by toughing them out.//
+
+//Fortitude is governed by [[Constitution]].//
+
+//Being [[Drained]], [[Fatigued]], [[Sickened]] or [[Frightened]] reduces your Fortitude rolls.//
+
+//Fortitude saves are used://
+
+* //To avoid being damaged by being [[Constrict]]ed.//
+* //To prevent a creature you are [[Immobilizing|Immobilized]] from being moved.//
+* //To recover from being [[Sickened]].//
+
+{{||DefenseList}}
+
+{{||SpellSaveList}}
+

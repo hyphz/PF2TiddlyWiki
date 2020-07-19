@@ -1,0 +1,15 @@
+a-hit: You fall gently, taking no damage from the fall.
+a-skill: Acrobatics
+created: 20200704181453415
+modified: 20200704181545210
+tags: Action Reaction
+title: Arrest a Fall
+type: text/vnd.tiddlywiki
+
+''Trigger'' You fall.
+
+''Requirements'' You have a fly Speed.
+
+You attempt an [[Acrobatics]] check to slow your fall. The DC is typically 15, but it might be higher due to air turbulence or other circumstances.
+
+{{||ActionSuccessTable}}

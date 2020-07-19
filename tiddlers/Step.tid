@@ -1,0 +1,13 @@
+created: 20200626205601320
+modified: 20200630092827345
+tags: Action Move
+title: Step
+type: text/vnd.tiddlywiki
+
+''Requirements:'' Your Speed is at least 10 feet.
+
+You carefully move 5 feet. 
+
+Unlike most types of movement, Stepping doesn’t trigger reactions, such as [[Attack of Opportunity]], that can be triggered by move actions or upon leaving or entering a square.
+
+You can’t Step into [[Difficult Terrain]] //unless you have [[Feather Step]]//, and you can't Step using a Speed other than your land Speed.

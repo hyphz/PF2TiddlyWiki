@@ -1,0 +1,44 @@
+a-actions: 1
+a-crit: As success, plus you learn something subtler.
+a-fumble: You misidentify the creature.
+a-hit: You learn one of the creature's best-known attributes.
+a-skill: Arcana Crafting Nature Occultism Religion Society
+created: 20200712163529156
+modified: 20200712164036622
+tags: General Concentrate Secret Action Untrained Implied
+title: Identify Creature
+type: text/vnd.tiddlywiki
+
+//Identifying a creature is technically a special case of [[Recall Knowledge]] but it is listed here as a separate action because it is frequently referred to.//
+
+A character who successfully identifies a creature learns one of its best-known attributes—such as a troll’s regeneration (and the fact that it can be stopped by acid or fire) or a manticore’s tail spikes. 
+
+On a critical success, the character also learns something subtler, like a demon’s weakness or the trigger for one of the creature’s reactions.
+
+The skill used to identify a creature usually depends on that creature’s trait, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use Occultism to identify them without any DC adjustment, while Society is harder. 
+
+| !Creature Trait | !Skill |
+|Aberration| Occultism|
+|Animal| Nature|
+|Astral| Occultism|
+|Beast| Arcana, Nature|
+|Celestial| Religion|
+|Construct| Arcana, Crafting|
+|Dragon| Arcana|
+|Elemental| Arcana, Nature|
+|Ethereal| Occultism|
+|Fey| Nature|
+|Fiend| Religion|
+|Fungus| Nature|
+|Humanoid| Society|
+|Monitor| Religion|
+|Ooze| Occultism|
+|Plant| Nature|
+|Spirit| Occultism|
+|Undead| Religion|
+
+Lore skills can also be used to identify their specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).
+
+//The DC is usually based on the creature's level and [[Rarity Modifier]].//
+
+{{||ActionSuccessTable}}

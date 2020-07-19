@@ -1,0 +1,14 @@
+created: 20200702143521130
+feat-level: 7
+feat-skill: Athletics
+feat-spre: M
+modified: 20200702143607765
+tags: Feat General Skill
+title: Quick Climb
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Master in [[Athletics]].
+
+When [[Climb]]ing, you move 5 more feet on a success and 10 more feet on a critical success, to a maximum of your Speed.
+
+If you’re legendary in Athletics, you gain a climb Speed equal to your Speed.

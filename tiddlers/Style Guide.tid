@@ -1,0 +1,85 @@
+created: 20200719181046315
+modified: 20200719184120938
+title: Style Guide
+type: text/vnd.tiddlywiki
+
+!! Text
+
+Text taken directly from rulebooks should be in plain font.
+
+Text taken from official errata should be __underlined__.
+
+Text added by authors should be //italicised//.
+
+Each key point should be made in a separate isolated paragraph. Follow-up discussion can be included in a paragraph with the point it refers to.
+
+Official material may be re-ordered in order to clarify it.
+
+!! Titles
+
+Tiddler titles should correspond to the name of the item in official material.
+
+Tiddler titles should use the same capitalization as in official material, unless official material shows the title only in capitals. In that case, tiddler titles should be in title case, with the first letter of each word capitalised with the exception of standard prepositions like "of", "to", etc.
+
+Tiddler titles should not be plural.
+
+Tiddler titles should not begin with "The".
+
+!! Links
+
+Any referenced topic in text should be linked to the appropriate tiddler unless it is a negative example (ie, Fortitude should not be linked if it is mention in the context of ''not'' being allowed a Fortitude save)
+
+Text that needs to be capitalised in order to become a tiddler link may be so capitalised. There is no need to create a renamed link just in order to keep capitalisation.
+
+Key rules should usually be reciprocally linked and explained in annotations.
+
+!! Tags
+
+<<tag Action>> should be used for actions, that a player can invoke on their turn. These should usually have at least an ``a-actions`` field and include the ``ActionSummary`` template.
+
+<<tag Spell>> should be used for spells. These should also be tagged for school, components, game tags, and <<tag Manipulate>> or <<tag Concentrate>> as appropriate for their components. These should have at least a ``m-level`` field and probably more. (M was supposed to stand for "magic". Sorry.) They should include the ``SpellSummaryTable`` template.
+
+
+!! Fields
+
+Notes:
+
+* ``a-crit``, etc, fields are for successes on action rolls. ``s-crit``, etc, are for saves. If in doubt, use a- if a crit is better for the ''user'' of the effect, and s- if it is worse for the user and better for the target.
+* If using ``a-crit``, etc, add the ``ActionSuccessTable`` transclude to lay out the results. If using ``s-crit``, etc, add ``SaveSuccessTable``.
+
+| !TW field | !Meaning |
+| a-actions | Number of actions taken by an action/activity. |
+| a-crit | Effect on a critical success on an action roll (not a save). |
+| a-hit | Effect on a success on an action roll. |
+| a-fail | Effect on a failure on an action roll. |
+| a-fumble | Effect on a critical failure on an action roll. |
+| a-defense | Value that provides a save or target DC for an action roll. |
+| a-hands | Number of free hands required for an action. |
+| a-skill | Skill(s) used for an action. |
+| a-subactions | Subsidiary actions for an action. |
+| a-time | Time (if extended) needed for an action (eg, 10 minutes, not 3 actions - use a-actions for that). |
+| a-tool | Object needed to perform an action. |
+| feat-class | Class a feat is associated with, if any. |
+| feat-level | Level of a feat. |
+| feat-skill | Skill associated with a feat. |
+| feat-spre | Letter for skill prerequisite level to take feat. |
+| m-area | Area of spell. |
+| m-components | Spell components. |
+| m-duration | Duration of spell. |
+| m-level | Level of spell. |
+| m-range | Range of spell. |
+| m-save | Saving throw used for spell, as source of DC. |
+| m-targets | Target specification for a spell. |
+| m-time | Time (if extended) needed for casting a spell. |
+| s-crit | Effect on a critical success on a save |
+| s-hit | Effect on a success on a save |
+| s-fail | Effect on a failure on a save |
+| s-fumble | Effect on a critical failure on a save |
+| skill-stat | Associated statistic for a skill |
+| splat-class | Associated class for a splat |
+| turn-etc | Effect at the ''E''nd of the ''T''arget's ''C''urrent turn, or their turn immediately after being hit with the effect. |
+| turn-etn | Effect at the ''E''nd of the ''T''arget's ''N''ext turn |
+| turn-euc | Effect at the ''E''nd of the ''U''ser's ''C''urrent turn |
+| turn-eun | Effect at the ''E''nd of the ''U''ser's ''N''ext turn |
+| turn-stn | Effect at the ''S''tart of the ''T''arget's ''N''ext turn |
+| turn-sun | Effect at the ''S''tart of the ''U''ser's ''N''ext turn |

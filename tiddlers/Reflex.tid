@@ -1,0 +1,19 @@
+created: 20200627194000564
+modified: 20200712164211819
+tags: Save
+title: Reflex
+type: text/vnd.tiddlywiki
+
+//A Reflex save is used to avoid negative effects by dodging them.//
+
+//Reflex is governed by [[Dexterity]].//
+
+//Being [[Clumsy]], [[Fatigued]], [[Sickened]], [[Frightened]] or [[Unconscious]] reduces your Reflex rolls.//
+
+//Being in [[Cover]] increases your Reflex rolls.//
+
+//[[Armor]] can limit your Dexterity modifier which in turn can reduce your Reflex.//
+
+{{||DefenseList}}
+
+{{||SpellSaveList}}

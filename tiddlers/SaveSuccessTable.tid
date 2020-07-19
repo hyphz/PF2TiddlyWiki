@@ -1,0 +1,10 @@
+created: 20200627195219806
+modified: 20200627195233698
+tags: 
+title: SaveSuccessTable
+type: text/vnd.tiddlywiki
+
+|!Critical Success|{{!!s-crit}}|
+|!Success|{{!!s-hit}}|
+|!Failure|{{!!s-fail}}|
+|!Critical Failure|{{!!s-fumble}}|

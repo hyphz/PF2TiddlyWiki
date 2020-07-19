@@ -1,0 +1,20 @@
+created: 20200710193651039
+m-components: Material, Somatic, Verbal
+m-duration: 1 hour
+m-level: 3
+m-range: 120 feet
+m-save: Will
+m-targets: 1 animal
+m-time: 1 minute
+modified: 20200710194819590
+tags: Spell Material Somatic Verbal Concentrate Manipulate Primal Divination Mental
+title: Animal Vision
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You tap into the target's senses, allowing you to see, hear, and otherwise sense whatever it senses for the spell's duration. 
+
+If the target wishes to prevent you from doing so, it can attempt a [[Will]] save, negating the spell on a success, but most animals don't bother to do so. 
+
+While tapping into the target's senses, you can't use your own body's senses, but you can change back and forth from your body's senses to the target's senses using a single action, which has the [[Concentrate]] trait.

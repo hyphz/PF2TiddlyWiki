@@ -1,0 +1,12 @@
+created: 20200702193635079
+feat-level: 7
+feat-skill: Intimidation
+feat-spre: M
+modified: 20200702193722790
+tags: General Feat Skill
+title: Terrified Retreat
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Master in [[Intimidation]].
+
+When you critically succeed at the [[Demoralize]] action, if the target’s level is lower than yours, the target is [[Fleeing]] for 1 round.

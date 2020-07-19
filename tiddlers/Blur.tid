@@ -1,0 +1,15 @@
+created: 20200719175655444
+m-components: Somatic, Verbal
+m-duration: 1 minute
+m-range: Touch
+m-targets: 1 creature
+modified: 20200719180006078
+tags: Illusion Visual Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+title: Blur
+type: text/vnd.tiddlywiki
+
+The target’s form appears blurry. 
+
+It becomes [[Concealed]]. 
+
+As the nature of this effect still leaves the target’s location obvious, the target can’t use this concealment to [[Hide]] or [[Sneak]]. 

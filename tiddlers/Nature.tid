@@ -1,0 +1,14 @@
+created: 20200630143757420
+modified: 20200712162629642
+skill-stat: Wisdom
+tags: Skill
+title: Nature
+type: text/vnd.tiddlywiki
+
+''Key Ability'' [[Wisdom]].
+
+You know a great deal about the natural world, and you command and train animals and magical beasts.
+
+{{||SkillActionList}}
+
+{{||SkillFeatList}}

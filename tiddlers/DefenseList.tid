@@ -1,0 +1,12 @@
+created: 20200706220203026
+modified: 20200706221629422
+tags: 
+title: DefenseList
+type: text/vnd.tiddlywiki
+
+''This is used to defend against:''
+<ul>
+<$list filter="[field:a-defense<currentTiddler>sort[]]">
+<li><$link to=<<currentTiddler>> /></li>
+</$list>
+</ul>

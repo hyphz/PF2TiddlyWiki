@@ -1,0 +1,19 @@
+a-actions: 1
+a-crit: The target agrees to your request without qualifications.
+a-fail: The target refuses the request, though they might propose an alternative that is less extreme.
+a-fumble: Not only does the target refuse the request, but their attitude toward you decreases by one step due to the temerity of the request.
+a-hit: The target agrees to your request, but they might demand added provisions or alterations to the request.
+a-skill: Diplomacy
+created: 20200705232740858
+modified: 20200705232941184
+tags: Auditory Concentrate Linguistic Mental Action
+title: Request
+type: text/vnd.tiddlywiki
+
+You can make a request of a creature that’s [[Friendly]] or [[Helpful]] to you. 
+
+You must couch the request in terms that the target would accept given their current attitude toward you. 
+
+The GM sets the [[Diplomacy]] DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
+
+{{||ActionSuccessTable}}

@@ -1,0 +1,12 @@
+created: 20200627200411715
+modified: 20200627200505686
+tags: Ability
+title: Light Blindness
+type: text/vnd.tiddlywiki
+
+As long as the monster is in an area of bright light, it’s [[Dazzled]].
+
+When first exposed to bright light, the monster is [[Blinded]] until the end of its next turn. 
+
+After this exposure, light doesn’t blind the monster again until after it spends 1 hour in darkness. //(It does still dazzle it.)//
+

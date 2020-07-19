@@ -1,0 +1,27 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200718211959572
+m-area: 
+m-components: 
+m-duration: 
+m-level: 
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200718212451447
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+title: SpellFieldTemplate
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+
+{{||SaveSuccessTable}}
+{{||ActionSuccessTable}}

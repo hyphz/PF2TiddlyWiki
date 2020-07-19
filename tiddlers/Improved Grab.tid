@@ -1,0 +1,11 @@
+created: 20200627200055679
+modified: 20200627200152046
+tags: Action Free
+title: Improved Grab
+type: text/vnd.tiddlywiki
+
+The monster can use [[Grab]] as a free action. 
+
+The monster still needs to spend an action to extend the duration for monsters it has already grabbed.
+
+{{Grab}}

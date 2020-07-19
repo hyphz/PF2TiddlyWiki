@@ -1,0 +1,25 @@
+a-defense: Perception
+a-fail: The creature can tell you’re not who you claim to be.
+a-fumble: The creature can tell you’re not who you claim to be, and it recognizes you if it would know you without a disguise.
+a-hit: You trick the creature into thinking you’re the person you’re disguised as. You might have to attempt a new check if your behavior changes.
+a-skill: Deception
+a-tool: Disguise Kit
+created: 20200705231252324
+modified: 20200706214538096
+tags: Action Concentrate Exploration Manipulate Secret
+title: Impersonate
+type: text/vnd.tiddlywiki
+
+You create a disguise to pass yourself off as someone or something you are not. 
+
+Assembling a convincing disguise takes 10 minutes and requires a [[Disguise Kit]]. A simpler, quicker disguise might do the job if you’re not trying to imitate a specific individual, at the GM’s discretion. //If you have [[Quick Disguise]], it takes less time.//
+
+In most cases, creatures have a chance to detect your deception only if they use the [[Seek]] action to attempt Perception checks against your Deception DC. 
+
+If you attempt to directly interact with someone while disguised, the GM rolls a secret Deception check for you against that creature’s Perception DC instead. 
+
+If you’re disguised as a specific individual, the GM might give creatures you interact with a circumstance bonus based on how well they know the person you’re imitating, or the GM might roll a secret Deception check even if you aren’t directly interacting with others.
+
+//If you have [[Courtly Graces]] and are pretending to be a noble, you can use [[Society]] instead of [[Deception]].//
+
+{{||ActionSuccessTable}}

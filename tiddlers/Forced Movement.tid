@@ -1,0 +1,9 @@
+created: 20200704175039712
+modified: 20200704175103499
+tags: Rule
+title: Forced Movement
+type: text/vnd.tiddlywiki
+
+When an effect forces you to move, or if you start falling, the distance you move is defined by the effect that moved you, not by your Speed. 
+
+Because you’re not acting to move, this doesn’t trigger reactions triggered by movement.

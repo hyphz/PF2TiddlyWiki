@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719163956655
+m-area: 
+m-components: Somatic, Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: You and allies in the area
+m-time: 
+modified: 20200719164120771
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Enchantment Mental Spell Divine Occult Somatic Verbal Manipulate Concentrate
+title: Bless
+type: text/vnd.tiddlywiki
+
+Blessings from beyond help your companions strike true.
+
+You and your allies in the area gain a +1 status bonus to attack rolls. 
+
+Once per turn, starting the turn after you cast bless, you can use [[a single action|Expand Emanation]], which has the [[Concentrate]] trait, to increase the emanation’s radius by 5 feet. 
+
+Bless can [[Counteract]] [[Bane]].

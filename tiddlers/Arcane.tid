@@ -1,0 +1,20 @@
+created: 20200627225247881
+modified: 20200719203105767
+tags: Tradition
+title: Arcane
+type: text/vnd.tiddlywiki
+
+Arcane spellcasters use logic and rationality to categorize the magic inherent in the world around them. 
+
+Because of its far-reaching approach, the arcane tradition has the broadest spell list, though it’s generally poor at affecting the spirit or the soul. 
+
+[[Wizard]]s are the most iconic arcane spellcasters, poring over tomes and grimoires, though arcane [[Sorcerer]]s study the secrets of their blood to unlock the power within themselves.
+
+<$list filter="1 2 3 4 5 6 7 8 9 10" variable="level">
+''Level <<level>> Arcane Spells''
+<ul>
+<$list filter="[tag[Spell]tag[Arcane]field:m-level<level>]">
+<li><$link/></li>
+</$list>
+</ul>
+</$list>

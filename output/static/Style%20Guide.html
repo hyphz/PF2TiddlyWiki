@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="5.1.22" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="static.css">
+<title>Style Guide: Pathfinder 2e Reference — a non-linear personal web notebook</title>
+</head>
+<body class="tc-body">
+
+<section class="tc-story-river">
+<p><div class="tc-tiddler-frame tc-tiddler-view-frame tc-tiddler-exists " data-tags="" data-tiddler-title="Style Guide"><div class="tc-tiddler-title"><div class="tc-titlebar"><span class="tc-tiddler-controls"><span class=" tc-reveal"><button aria-label="more" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fmore-tiddler-actions" title="More actions"></button><div class=" tc-reveal" hidden="true"></div></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="edit" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fedit" title="Edit this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="close" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclose" title="Close this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span></span><span><span class="tc-tiddler-title-icon" style="fill:;"></span><h2 class="tc-title">Style Guide</h2></span></div><div class="tc-tiddler-info tc-popup-handle tc-reveal" hidden="true"></div></div><div class=" tc-reveal" hidden="true"></div>
+<div class=" tc-reveal"><div class="tc-subtitle"><a class="tc-tiddlylink tc-tiddlylink-missing" href=".html"></a>19th July 2020 at 7:41pm</div></div><div class=" tc-reveal">
+<div class="tc-tags-wrapper"></div>
+</div>
+
+<div class="tc-tiddler-body tc-reveal"><h2 class="">Text</h2><p>Text taken directly from rulebooks should be in plain font.</p><p>Text taken from official errata should be <u>underlined</u>.</p><p>Text added by authors should be <em>italicised</em>.</p><p>Each key point should be made in a separate isolated paragraph. Follow-up discussion can be included in a paragraph with the point it refers to.</p><p>Official material may be re-ordered in order to clarify it.</p><h2 class="">Titles</h2><p>Tiddler titles should correspond to the name of the item in official material.</p><p>Tiddler titles should use the same capitalization as in official material, unless official material shows the title only in capitals. In that case, tiddler titles should be in title case, with the first letter of each word capitalised with the exception of standard prepositions like &quot;of&quot;, &quot;to&quot;, etc.</p><p>Tiddler titles should not be plural.</p><p>Tiddler titles should not begin with &quot;The&quot;.</p><h2 class="">Links</h2><p>Any referenced topic in text should be linked to the appropriate tiddler unless it is a negative example (ie, Fortitude should not be linked if it is mention in the context of <strong>not</strong> being allowed a Fortitude save)</p><p>Text that needs to be capitalised in order to become a tiddler link may be so capitalised. There is no need to create a renamed link just in order to keep capitalisation.</p><p>Key rules should usually be reciprocally linked and explained in annotations.</p><h2 class="">Tags</h2><p><span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#333333;
+color:#333333;">
+Action
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span> should be used for actions, that a player can invoke on their turn. These should usually have at least an <code>a-actions</code> field and include the <code>ActionSummary</code> template.</p><p><span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#333333;
+color:#333333;">
+Spell
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span> should be used for spells. These should also be tagged for school, components, game tags, and <span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#333333;
+color:#333333;">
+Manipulate
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span> or <span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#333333;
+color:#333333;">
+Concentrate
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span> as appropriate for their components. These should have at least a <code>m-level</code> field and probably more. (M was supposed to stand for &quot;magic&quot;. Sorry.) They should include the <code>SpellSummaryTable</code> template.</p><h2 class="">Fields</h2><p>Notes:</p><ul><li><code>a-crit</code>, etc, fields are for successes on action rolls. <code>s-crit</code>, etc, are for saves. If in doubt, use a- if a crit is better for the <strong>user</strong> of the effect, and s- if it is worse for the user and better for the target.</li><li>If using <code>a-crit</code>, etc, add the <code>ActionSuccessTable</code> transclude to lay out the results. If using <code>s-crit</code>, etc, add <code>SaveSuccessTable</code>.</li></ul><table><tbody><tr class="evenRow"><th align="center">TW field</th><th align="center">Meaning</th></tr><tr class="oddRow"><td align="center">a-actions</td><td align="center">Number of actions taken by an action/activity.</td></tr><tr class="evenRow"><td align="center">a-crit</td><td align="center">Effect on a critical success on an action roll (not a save).</td></tr><tr class="oddRow"><td align="center">a-hit</td><td align="center">Effect on a success on an action roll.</td></tr><tr class="evenRow"><td align="center">a-fail</td><td align="center">Effect on a failure on an action roll.</td></tr><tr class="oddRow"><td align="center">a-fumble</td><td align="center">Effect on a critical failure on an action roll.</td></tr><tr class="evenRow"><td align="center">a-defense</td><td align="center">Value that provides a save or target DC for an action roll.</td></tr><tr class="oddRow"><td align="center">a-hands</td><td align="center">Number of free hands required for an action.</td></tr><tr class="evenRow"><td align="center">a-skill</td><td align="center">Skill(s) used for an action.</td></tr><tr class="oddRow"><td align="center">a-subactions</td><td align="center">Subsidiary actions for an action.</td></tr><tr class="evenRow"><td align="center">a-time</td><td align="center">Time (if extended) needed for an action (eg, 10 minutes, not 3 actions - use a-actions for that).</td></tr><tr class="oddRow"><td align="center">a-tool</td><td align="center">Object needed to perform an action.</td></tr><tr class="evenRow"><td align="center">feat-class</td><td align="center">Class a feat is associated with, if any.</td></tr><tr class="oddRow"><td align="center">feat-level</td><td align="center">Level of a feat.</td></tr><tr class="evenRow"><td align="center">feat-skill</td><td align="center">Skill associated with a feat.</td></tr><tr class="oddRow"><td align="center">feat-spre</td><td align="center">Letter for skill prerequisite level to take feat.</td></tr><tr class="evenRow"><td align="center">m-area</td><td align="center">Area of spell.</td></tr><tr class="oddRow"><td align="center">m-components</td><td align="center">Spell components.</td></tr><tr class="evenRow"><td align="center">m-duration</td><td align="center">Duration of spell.</td></tr><tr class="oddRow"><td align="center">m-level</td><td align="center">Level of spell.</td></tr><tr class="evenRow"><td align="center">m-range</td><td align="center">Range of spell.</td></tr><tr class="oddRow"><td align="center">m-save</td><td align="center">Saving throw used for spell, as source of DC.</td></tr><tr class="evenRow"><td align="center">m-targets</td><td align="center">Target specification for a spell.</td></tr><tr class="oddRow"><td align="center">m-time</td><td align="center">Time (if extended) needed for casting a spell.</td></tr><tr class="evenRow"><td align="center">s-crit</td><td align="center">Effect on a critical success on a save</td></tr><tr class="oddRow"><td align="center">s-hit</td><td align="center">Effect on a success on a save</td></tr><tr class="evenRow"><td align="center">s-fail</td><td align="center">Effect on a failure on a save</td></tr><tr class="oddRow"><td align="center">s-fumble</td><td align="center">Effect on a critical failure on a save</td></tr><tr class="evenRow"><td align="center">skill-stat</td><td align="center">Associated statistic for a skill</td></tr><tr class="oddRow"><td align="center">splat-class</td><td align="center">Associated class for a splat</td></tr><tr class="evenRow"><td align="center">turn-etc</td><td align="center">Effect at the <strong>E</strong>nd of the <strong>T</strong>arget's <strong>C</strong>urrent turn, or their turn immediately after being hit with the effect.</td></tr><tr class="oddRow"><td align="center">turn-etn</td><td align="center">Effect at the <strong>E</strong>nd of the <strong>T</strong>arget's <strong>N</strong>ext turn</td></tr><tr class="evenRow"><td align="center">turn-euc</td><td align="center">Effect at the <strong>E</strong>nd of the <strong>U</strong>ser's <strong>C</strong>urrent turn</td></tr><tr class="oddRow"><td align="center">turn-eun</td><td align="center">Effect at the <strong>E</strong>nd of the <strong>U</strong>ser's <strong>N</strong>ext turn</td></tr><tr class="evenRow"><td align="center">turn-stn</td><td align="center">Effect at the <strong>S</strong>tart of the <strong>T</strong>arget's <strong>N</strong>ext turn</td></tr><tr class="oddRow"><td align="center">turn-sun</td><td align="center">Effect at the <strong>S</strong>tart of the <strong>U</strong>ser's <strong>N</strong>ext turn</td></tr></tbody></table></div>
+
+
+
+
+
+<table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+</div>
+
+</p>
+</section>
+</body>
+</html>

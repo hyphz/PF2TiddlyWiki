@@ -1,0 +1,10 @@
+created: 20200706234331197
+modified: 20200706234402150
+tags: [[Weapon Trait]]
+title: Propulsive
+type: text/vnd.tiddlywiki
+
+You add half your [[Strength]] modifier (if positive) to damage rolls with a propulsive ranged
+weapon. 
+
+If you have a negative Strength modifier, you add your full Strength modifier instead //(which will reduce the damage, because you are adding a negative number)//.

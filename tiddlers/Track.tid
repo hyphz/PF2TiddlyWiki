@@ -1,0 +1,22 @@
+a-actions: 1
+a-fail: You lose the trail but can try again after a 1-hour delay.
+a-fumble: You lose the trail and can’t try again for 24 hours.
+a-hit: You find the trail or continue to follow the one you’re already following.
+a-skill: Survival
+created: 20200706230544631
+modified: 20200706230747985
+tags: Action Concentrate Exploration Move Trained
+title: Track
+type: text/vnd.tiddlywiki
+
+You follow tracks, moving at up to half your travel Speed. 
+
+After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour. 
+
+In some cases, you might Track in an encounter. In this case, Track is a single action and doesn’t have the exploration trait, but you might need to roll more often because you’re in a tense situation.
+
+The GM determines how often you must attempt this check. You attempt your [[Survival]] check when you start Tracking, once every hour you continue tracking, and any time something significant changes in the trail. 
+
+The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground. //If whatever you are tracking used [[Cover Tracks]], their [[Survival]] DC is used instead if it is higher.//
+
+{{||ActionSuccessTable}}

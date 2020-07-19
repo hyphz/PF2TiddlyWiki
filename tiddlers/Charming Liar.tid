@@ -1,0 +1,18 @@
+created: 20200630085205375
+feat-level: 1
+feat-skill: Diplomacy
+feat-spre: T
+modified: 20200630090438084
+tags: Feat General Skill
+title: Charming Liar
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Deception]].
+
+Your charm allows you to win over those you lie to. 
+
+When you get a critical success using the [[Lie]] action, the target’s attitude toward you improves by one step, as though you’d succeeded at using [[Diplomacy]] to [[Make an Impression]]. 
+
+This works only once per conversation, and if you critically succeed against multiple targets using the same result, you choose one creature’s attitude to improve. 
+
+You must be lying to impart seemingly important information, inflate your status, or ingratiate yourself, which trivial or irrelevant lies can’t achieve.

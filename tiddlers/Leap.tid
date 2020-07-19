@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20200626204718167
+modified: 20200702143457519
+tags: Action Move
+title: Leap
+type: text/vnd.tiddlywiki
+
+You take a careful, short jump. 
+
+You can Leap up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. 
+
+//If you have [[Powerful Leap]], you can leap 5' further.//
+
+You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap, or a 10-foot gap if your Speed is 30 feet or more).
+
+If you Leap vertically, you can move up to 3 feet vertically and 5 feet horizontally onto an elevated surface. 
+
+//If you have [[Powerful Leap]], you can leap up to 5 feet vertically.//
+
+Jumping a greater distance requires using the [[Athletics]] skill.

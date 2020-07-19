@@ -1,0 +1,16 @@
+a-actions: 1
+a-fail: Your maneuver fails. The GM chooses if you simply can’t move or if some other detrimental effect happens. The outcome should be appropriate for the maneuver you attempted (for instance, being blown off course if you were trying to fly against a strong wind).
+a-fumble: As failure, but the consequence is more dire.
+a-hit: You succeed at the maneuver.
+a-skill: Acrobatics
+created: 20200702220408648
+modified: 20200702220716654
+tags: Move Action Trained
+title: Maneuver in Flight
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have a fly Speed.
+
+You try a difficult maneuver while flying. Attempt an [[Acrobatics]] check. The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
+
+{{||ActionSuccessTable}}

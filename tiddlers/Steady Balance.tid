@@ -1,0 +1,18 @@
+created: 20200702151302754
+feat-level: 1
+feat-skill: Acrobatics
+feat-spre: T
+modified: 20200702151359694
+tags: Feat General Skill
+title: Steady Balance
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Acrobatics]].
+
+You can keep your balance easily, even in adverse conditions.
+
+Whenever you roll a success using the [[Balance]] action, you get a critical success instead. 
+
+You’re not [[Flat-Footed]] while attempting to Balance on narrow surfaces and uneven ground. 
+
+Thanks to your incredible balance, you can attempt an Acrobatics check instead of a Reflex save to [[Grab an Edge]].

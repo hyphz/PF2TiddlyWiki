@@ -1,0 +1,17 @@
+created: 20200630091705646
+feat-level: 1
+feat-skill: Lore
+feat-spre: T
+modified: 20200630091802574
+tags: Feat General Skill
+title: Experienced Professional
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Lore]].
+
+You carefully safeguard your professional endeavors to prevent disaster. 
+
+When you use Lore to [[Earn Income]], if you roll a critical failure, you instead get a failure. 
+
+If you’re an expert in Lore, you gain twice as much income from a failed check to Earn Income,
+unless it was originally a critical failure.

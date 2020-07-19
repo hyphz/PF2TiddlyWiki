@@ -1,0 +1,16 @@
+a-actions: 1
+a-tool: A shield
+created: 20200704205140299
+modified: 20200719185548892
+tags: Action
+title: Raise a Shield
+turn-sun: Circumstance bonus to AC wears off.
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a [[Shield]].
+
+You position your shield to protect yourself. 
+
+When you have Raised a Shield, you gain its listed circumstance bonus to [[AC]].
+
+Your shield remains raised until the start of your next turn.

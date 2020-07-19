@@ -1,0 +1,10 @@
+created: 20200626203426967
+modified: 20200626203851826
+tags: 
+title: ActionSuccessTable
+type: text/vnd.tiddlywiki
+
+|!Critical Success|{{!!a-crit}}|
+|!Success|{{!!a-hit}}|
+|!Failure|{{!!a-fail}}|
+|!Critical Failure|{{!!a-fumble}}|

@@ -1,0 +1,26 @@
+a-actions: 1
+a-crit: You push your opponent up to 10 feet away from you. You can [[Stride]] after it, but you must move the same distance and in the same direction.
+a-defense: Fortitude
+a-fumble: You lose your balance, fall, and land [[Prone]]. //If you shoved using a weapon, you can choose to drop it instead.//
+a-hands: 1
+a-hit: You push your opponent back 5 feet. You can [[Stride]] after it, but you must move the same distance and in the same direction.
+a-skill: Athletics
+created: 20200704174728528
+modified: 20200719163036497
+tags: Action Untrained
+title: Shove
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have at least one hand free. The target can’t be more than one size larger than you //unless you have [[Titan Wrestler]], in which case they can be two or three sizes bigger depending on your proficiency in Athletics.//
+
+You push an opponent away from you. 
+
+Attempt an [[Athletics]] check against your opponent’s [[Fortitude]] DC.
+
+{{||ActionSuccessTable}}
+
+A weapon with the Shove trait can be used to Shove with the [[Athletics]] skill even if you don’t have a free hand. 
+
+This uses the weapon’s reach (if different from your own) and adds the weapon’s item bonus to attack rolls as an item bonus to the Athletics check. 
+
+If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.

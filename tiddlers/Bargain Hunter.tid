@@ -1,0 +1,16 @@
+created: 20200630084220101
+feat-level: 1
+feat-skill: Diplomacy
+feat-spre: T
+modified: 20200630085603317
+tags: Feat General Skill
+title: Bargain Hunter
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Diplomacy]].
+
+You can [[Earn Income]] using Diplomacy, spending your days hunting for bargains and reselling at a profit. 
+
+You can also spend time specifically sniffing out a great bargain on an item; this works as if you were using Earn Income with Diplomacy, except instead of gaining money, you purchase the item at a discount equal to the money you would have gained, gaining the item for free if your earned income equals or exceeds its cost. 
+
+If you select Bargain Hunter during character creation at 1st level, you start play with an additional 2 gp.

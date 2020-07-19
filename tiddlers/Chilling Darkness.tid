@@ -1,0 +1,38 @@
+a-crit: The target takes double damage.
+a-defense: AC
+a-fail: //The target takes no damage.//
+a-fumble: 
+a-hit: The target takes full damage.
+created: 20200719202757150
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 120 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200719202949184
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Attack Cold Darkness Evocation Evil Spell Divine Somatic Verbal Manipulate Concentrate
+title: Chilling Darkness
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shoot an utterly cold ray of darkness tinged with unholy energy. 
+
+Make a ranged spell attack against the target. 
+
+You deal 5d6 cold damage, plus 5d6 evil damage if the target is a celestial.
+
+If the ray passes through an area of magical light or targets a creature affected by magical light, chilling darkness attempts to [[Counteract]] the light. 
+
+If you need to determine whether the ray passes through an area of light, draw a line between yourself and the spell’s target.
+
+''Heightened (+1)'' The cold damage increases by 2d6, and the evil damage against celestials increases by 2d6.
+
+{{||ActionSuccessTable}}

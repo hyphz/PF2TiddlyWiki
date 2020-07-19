@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200711180516708
+feat-class: Wizard
+feat-level: 1
+modified: 20200711180817730
+tags: Feat Class Action Concentrate Metamagic Wizard
+title: Reach Spell
+type: text/vnd.tiddlywiki
+
+You can extend the range of your spells. 
+
+If the next action you use is to [[Cast a Spell]] that has a range, increase that spell’s range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, you extend its range to 30 feet.

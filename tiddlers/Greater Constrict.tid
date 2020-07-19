@@ -1,0 +1,15 @@
+a-actions: 1
+a-defense: Fortitude
+created: 20200627195551766
+modified: 20200706220432060
+tags: Action
+title: Greater Constrict
+type: text/vnd.tiddlywiki
+
+The monster deals the listed amount of damage to any number of creatures [[Grabbed]] or [[Restrained]] by it. 
+
+Each of those creatures can attempt a basic [[Fortitude]] save with the listed DC. 
+
+A creature that fails this save falls [[Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute.
+
+//Ordinary [[Constrict]] has the same effect but without the danger of falling unconscious.//

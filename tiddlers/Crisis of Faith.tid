@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719214253900
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200719214537249
+s-crit: The target is unaffected.
+s-fail: The target takes full damage; if the target can cast divine spells, it's [[Stupefied]] 1 for 1 round.
+s-fumble: The target takes double damage, is [[Stupefied]] 1 for 1 round, and can't cast divine spells for 1 round.
+s-hit: The target takes half damage.
+tags: Enchantment Mental Spell Divine Somatic Verbal Manipulate Concentrate
+title: Crisis of Faith
+turn-eun: Target's stupefaction and blocked casting wear off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+You assault the target’s faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. 
+
+The effects are determined by its [[Will]] save.
+
+To many deities, casting this spell on a follower of your own deity without significant cause is [[Anathema]].
+
+''Heightened (+1)'' The damage increases by 2d6 (or by 2d8 if the target is a divine spellcaster).
+
+{{||SaveSuccessTable}}

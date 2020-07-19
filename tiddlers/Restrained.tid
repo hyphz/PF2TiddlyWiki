@@ -1,0 +1,13 @@
+created: 20200626202001377
+modified: 20200626202053061
+tags: Condition
+title: Restrained
+type: text/vnd.tiddlywiki
+
+You’re tied up and can barely move, or a creature has you pinned. 
+
+You have the [[Flat-Footed]] and [[Immobilized]] conditions. 
+
+You can’t use any actions with the [[Attack]] or [[Manipulate]] traits except to attempt to [[Escape]] or [[Force Open]] your bonds. 
+
+[[Restrained]] overrides [[Grabbed]].

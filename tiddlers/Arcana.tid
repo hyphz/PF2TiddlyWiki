@@ -1,0 +1,14 @@
+created: 20200630093249875
+modified: 20200712162400650
+skill-stat: Intelligence
+tags: Skill
+title: Arcana
+type: text/vnd.tiddlywiki
+
+''Key Ability'' [[Intelligence]].
+
+Arcana measures how much you know about arcane magic and creatures.
+
+{{||SkillActionList}}
+
+{{||SkillFeatList}}

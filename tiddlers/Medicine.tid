@@ -1,0 +1,15 @@
+created: 20200630143700060
+modified: 20200712162616937
+skill-stat: Wisdom
+tags: Skill
+title: Medicine
+type: text/vnd.tiddlywiki
+
+''Key Ability'' [[Wisdom]].
+
+You can patch up wounds and help people recover from diseases and poisons.
+
+{{||SkillActionList}}
+
+{{||SkillFeatList}}
+

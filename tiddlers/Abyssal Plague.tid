@@ -1,0 +1,24 @@
+created: 20200627213912614
+m-components: Somatic, Verbal
+m-level: 5
+m-range: Touch
+m-save: Fortitude
+m-targets: 1 creature
+modified: 20200627220511706
+s-crit: The target is unaffected.
+s-fail: The target is afflicted with Abyssal Plague at stage 1.
+s-fumble: The target is afflicted with Abyssal Plague at stage 2.
+s-hit: The target takes 2 [[Evil]] damage per spell level, and takes a -2 status penalty to saves against Abyssal Plague for 1 day or until the target contracts it, whichever comes first.
+tags: Spell Attack Chaotic Disease Evil Necromancy Divine Occult Somatic Verbal Concentrate Manipulate
+title: Abyssal Plague
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your touch afflicts the target with Abyssal Plague, which siphons fragments of their soul away to empower the Abyss.
+
+The effect is based on the target's Fortitude save.
+
+{{||SaveSuccessTable}}
+
+Abyssal Plague (disease); Level 9. The target can’t recover from the drained condition from Abyssal plague until the disease is cured. Stage 1 drained 1 (1 day); Stage 2 drained increases by 2 (1 day).

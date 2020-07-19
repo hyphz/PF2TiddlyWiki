@@ -1,0 +1,22 @@
+created: 20200718211759842
+m-area: 5 foot [[Emanation]]
+m-components: Somatic, Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: Will
+m-targets: Enemies in the area
+modified: 20200718212618470
+tags: Spell Divine Occult Enchantment Mental Somatic Verbal Manipulate Concentrate
+title: Bane
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fill the minds of your enemies with doubt. 
+
+Targets that fail their [[Will]] saves take a –1 status penalty to attack rolls as long as they are in the area. 
+
+Once per turn, starting the turn after you cast bane, you can use a single action, which has the [[Concentrate]] trait, to increase the emanation’s radius by 5 feet and force enemies in the area that weren’t yet affected to attempt another saving throw. 
+
+Bane can counteract [[Bless]].

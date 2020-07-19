@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719213702714
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: "0 feet" (Touch?)
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200719213850167
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Arcane Divine Primal Spell Conjuration Water Somatic Verbal Manipulate Concentrate
+title: Create Water
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+As you cup your hands, water begins to flow forth from them.
+
+You create 2 gallons of water. 
+
+If no one drinks it, it evaporates after 1 day.

@@ -1,0 +1,14 @@
+created: 20200701090450875
+feat-level: 1
+feat-skill: Intimidation
+feat-spre: T
+modified: 20200701090557808
+tags: Feat General Skill
+title: Intimidating Glare
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Intimidation]].
+
+You can [[Demoralize]] with a mere glare. 
+
+When you do, Demoralize loses the [[Auditory]] trait and gains the [[Visual]] trait, and you don’t take a penalty if the creature doesn’t understand your language.

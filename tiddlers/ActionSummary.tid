@@ -1,0 +1,17 @@
+created: 20200712160439668
+modified: 20200712162535594
+tags: 
+title: ActionSummary
+type: text/vnd.tiddlywiki
+
+<table>
+<tr><th>Actions</th><td>
+<$list filter="[all[current]tag[Reaction]]">Reaction</$list>
+<$list filter="[all[current]tag[Free]]">Free</$list>
+{{!!a-actions}}</td></tr>
+<tr><th>Free Hands</th><td>{{!!a-hands}}</td></tr>
+<tr><th>Skill</th><td><$list filter="[all[current]list[!!a-skill]]"><$link to=<<currentTiddler>>/>&nbsp;</$list></td></tr>
+<tr><th>Defense</th><td><$link to={{!!a-defense}} /></td></tr>
+<tr><th>Tool</th><td>{{!!a-tool}}</td></tr>
+<tr><th>Sub-actions</th><td>{{!!a-subactions}}</td></tr>
+</table>

@@ -1,0 +1,18 @@
+created: 20200702193508983
+feat-level: 1
+feat-skill: Stealth
+feat-spre: T
+modified: 20200702193622404
+tags: Feat General Skill
+title: Terrain Stalker
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Stealth]].
+
+Select one type of difficult terrain from the following list: rubble, snow, or underbrush. 
+
+While [[Undetected]] by all non-allies in that type of terrain, you can [[Sneak]] without attempting a Stealth check as long as you move no more than 5 feet and do not move within 10 feet of an enemy at any point during your movement. 
+
+This also allows you to automatically approach creatures to within 15 feet while [[Avoiding Notice]] during exploration as long as they aren’t actively [[Search]]ing or on guard.
+
+You can select this feat multiple times. Each time, choose a different type of terrain.

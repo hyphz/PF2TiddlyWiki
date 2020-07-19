@@ -1,0 +1,14 @@
+created: 20200630093327572
+modified: 20200702222331693
+skill-stat: Strength
+tags: Skill
+title: Athletics
+type: text/vnd.tiddlywiki
+
+''Key Ability'' [[Strength]].
+
+Athletics allows you to perform deeds of physical prowess. When you use the [[Escape]] basic action, you can use your Athletics modifier instead of your unarmed attack modifier.
+
+{{||SkillActionList}}
+
+{{||SkillFeatList}}

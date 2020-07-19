@@ -1,0 +1,25 @@
+a-crit: //If you have [[Charming Liar]], the target believes your lie and their attitude improves by one step, once per conversation.//
+a-defense: Perception
+a-fail: The target doesn’t believe your lie and gains a +4 circumstance bonus against your attempts to Lie for the duration of your conversation. The target is also more likely to be suspicious of you in the future.
+a-hit: The target believes your lie.
+a-skill: Deception
+created: 20200705231504170
+modified: 20200705232253294
+tags: Action Auditory Concentrate Linguistic Mental Secret
+title: Lie
+type: text/vnd.tiddlywiki
+
+You try to fool someone with an untruth. 
+
+Doing so takes at least 1 round, or longer if the lie is elaborate. 
+
+You roll a single [[Deception]] check and compare it against the [[Perception]] DC of every creature you are trying to fool. //If they have [[Lie to Me]], they can use their Deception DC instead if it is better.//
+
+The GM might give them a circumstance bonus based on the situation and the nature of the lie you are trying to tell. Elaborate or highly unbelievable lies are much harder to get a creature to believe than simpler and more believable lies, and some lies are so big that it’s impossible to get anyone to believe them.
+
+At the GM’s discretion, if a creature initially believes your lie, it might attempt a Perception check later to [[Sense Motive]] against your Deception DC to realize it’s a lie. This usually happens if the creature discovers enough evidence to counter your statements.
+
+{{||ActionSuccessTable}}
+
+//If you have [[Confabulator]], the bonus the target gets based on previous failed attempts to lie is reduced.//
+

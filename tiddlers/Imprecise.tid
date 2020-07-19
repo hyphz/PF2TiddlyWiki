@@ -1,0 +1,15 @@
+created: 20200627201657914
+modified: 20200627201853250
+tags: Term
+title: Imprecise
+type: text/vnd.tiddlywiki
+
+Hearing is an imprecise sense //for most creatures// —it cannot detect the full range of detail that a precise sense can. 
+
+You can usually sense a creature automatically with an imprecise sense, but it has the [[Hidden]] condition instead of the [[Observed]] condition. 
+
+It might be [[Undetected]] by you if it’s using [[Stealth]] or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the [[Seek]] basic action to detect the creature. 
+
+At best, an imprecise sense can be used to make an undetected creature (or one you didn’t even know was there) merely hidden—it can’t make the creature observed.
+
+Pathfinder’s rules assume //by default// that a given creature has hearing as its only imprecise sense.

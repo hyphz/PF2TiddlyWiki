@@ -1,0 +1,22 @@
+created: 20200630084728436
+feat-level: 2
+feat-skill: Nature
+feat-spre: E
+modified: 20200630150152475
+tags: Downtime General Skill Feat
+title: Bonded Animal
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Expert in [[Nature]].
+
+You forge strong connections with animals. 
+
+You can spend 7 days of downtime trying to bond with a normal animal (not a companion or other special animal). 
+
+After this duration, attempt a DC 20 [[Nature]] check. If successful, you bond with the animal. 
+
+The animal is permanently [[Helpful]] to you, unless you do something egregious to break your bond. A helpful animal is easier to direct, as described under [[Command an Animal]].
+
+Bonding with a new animal ends any previous bond you had.
+
+You can’t have both a bonded animal and an animal companion (though you can have both a bonded animal and a familiar).

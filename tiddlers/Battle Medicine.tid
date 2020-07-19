@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20200630084503782
+feat-level: 1
+feat-skill: Medicine
+feat-spre: T
+modified: 20200630085526355
+tags: Feat General Healing Manipulate Skill Action
+title: Battle Medicine
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Medicine]].
+
+You can patch up yourself or an adjacent ally, even in combat.
+
+Attempt a Medicine check with the same DC as for [[Treat Wounds]] and provide the corresponding amount of healing.
+
+As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. 
+
+The target is then temporarily immune to your Battle Medicine for 1 day.

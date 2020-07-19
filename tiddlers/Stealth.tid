@@ -1,0 +1,14 @@
+created: 20200630145114756
+modified: 20200711181322008
+skill-stat: Dexterity
+tags: Skill
+title: Stealth
+type: text/vnd.tiddlywiki
+
+''Key Ability'' [[Dexterity]].
+
+You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item.
+
+{{||SkillActionList}}
+
+{{||SkillFeatList}}

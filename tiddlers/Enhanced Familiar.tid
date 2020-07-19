@@ -1,0 +1,15 @@
+created: 20200711181407107
+feat-class: Wizard
+feat-level: 2
+modified: 20200711181500478
+tags: Ability Class Feat Wizard
+title: Enhanced Familiar
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' A [[Familiar]].
+
+You infuse your familiar with additional magical energy. 
+
+You can select four familiar or master abilities each day, instead of two.
+
+''Special'' If your arcane thesis is [[Improved Familiar Attunement]], your familiar’s base number of familiar abilities, before adding any extra abilities from the arcane thesis, is four.

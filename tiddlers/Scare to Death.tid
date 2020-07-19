@@ -1,0 +1,26 @@
+a-actions: 1
+a-crit: The target must succeed at a [[Fortitude]] save against your Intimidation DC or die. If the target succeeds at its save, it becomes [[Frightened]] 2 and is [[Fleeing]] for 1 round; it suffers no effect on a critical success.
+a-defense: Will
+a-fail: The target becomes [[Frightened]] 1.
+a-fumble: The target is unaffected.
+a-hit: The target becomes [[Frightened]] 2.
+created: 20200702145831102
+feat-level: 15
+feat-skill: Intimidation
+feat-spre: L
+modified: 20200704180726090
+tags: Feat General Skill Death Emotion Fear Incapacitation Action
+title: Scare to Death
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Legendary in [[Intimidation]].
+
+You can frighten foes so much, they might die. 
+
+Attempt an Intimidation check against the [[Will]] DC of a living creature within 30 feet of you that you sense or observe and who can sense or observe you. 
+
+If the target can’t hear you or doesn’t understand the language you are speaking, you take a –4 circumstance penalty. 
+
+The creature is temporarily immune for 1 minute.
+
+{{||ActionSuccessTable}}

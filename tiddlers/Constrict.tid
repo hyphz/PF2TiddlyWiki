@@ -1,0 +1,13 @@
+a-actions: 1
+a-defense: Fortitude
+created: 20200627184033837
+modified: 20200706220345193
+tags: Action
+title: Constrict
+type: text/vnd.tiddlywiki
+
+The monster deals the listed amount of damage to any number of creatures [[Grabbed]] or [[Restrained]] by it. 
+
+Each of those creatures can attempt a basic [[Fortitude]] save with the listed DC.
+
+//[[Greater Constrict]] resembles Constrict but creatures who fail the basic save also fall unconscious.//

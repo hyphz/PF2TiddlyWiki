@@ -1,0 +1,15 @@
+created: 20200630143030975
+modified: 20200704181242282
+skill-stat: Intelligence
+tags: Skill
+title: Crafting
+type: text/vnd.tiddlywiki
+
+''Key Ability'' [[Intelligence]].
+
+You can use this skill to create, understand, and repair items.
+
+{{||SkillActionList}}
+
+{{||SkillFeatList}}
+

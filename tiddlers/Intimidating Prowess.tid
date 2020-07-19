@@ -1,0 +1,14 @@
+created: 20200701090634892
+feat-level: 2
+feat-skill: Intimidation
+feat-spre: E
+modified: 20200701090824340
+tags: Feat General Skill
+title: Intimidating Prowess
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Strength]] 16, Expert in [[Intimidation]].
+
+In situations where you can physically menace the target when you [[Coerce]] or [[Demoralize]], you gain a +1 circumstance bonus to your [[Intimidation]] check and you ignore the penalty for not sharing a language. 
+
+If your Strength score is 20 or higher and you are a master in Intimidation, this bonus increases to +2.

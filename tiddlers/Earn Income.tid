@@ -1,0 +1,56 @@
+a-crit: You do outstanding work. Gain the amount of currency listed for the task level + 1 and your proficiency rank.
+a-fail: You do shoddy work and get paid the bare minimum for your time. Gain the amount of currency listed in the failure column for the task level. The GM will likely reduce how long you can continue at the task.
+a-fumble: You earn nothing for your work and are fired immediately. You can’t continue at the task. Your reputation suffers, potentially making it difficult for you to find rewarding jobs in that community in the future.
+a-hit: You do competent work. Gain the amount of currency listed for the task level and your proficiency rank.
+a-skill: Crafting Lore Performance
+created: 20200702212727215
+modified: 20200712163009219
+tags: Action Downtime Trained
+title: Earn Income
+type: text/vnd.tiddlywiki
+
+You use one of your skills to make money during downtime. 
+
+The GM assigns a task level representing the most lucrative job available. You can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can attempt to find better work than the initial offerings, though this takes time and requires using the [[Diplomacy]] skill to [[Gather Information]], doing some research, or socializing.
+
+When you take on a job, the GM secretly sets the DC of your skill check. After your first day of work, you roll to determine your earnings. You gain an amount of income based on your result, the task’s level, and your proficiency rank.
+
+You can continue working at the task on subsequent days without needing to roll again. For each day you spend after the first, you earn the same amount as the first day, up until the task’s completion. 
+
+The GM determines how long you can work at the task. Most tasks last a week or two, though some can take months or even years.
+
+Using [[Crafting]], you can work at producing common items for the market. It’s usually easy to find work making basic items whose level is 1 or 2 below your settlement’s level. Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full price. These opportunities don’t occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.
+
+You //can// apply the practical benefits of one of your [[Lore]] specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there’s high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you’re attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant’s scale to buy and sell valuables in a market.
+
+You //can use [[Performance]] to// perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level. Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.
+
+When Earning Income, you might be able to spend days of downtime to prepare for your task, which adjusts the DC of the skill check. This might involve rehearsing a play, studying a topic, and so on. The GM determines how long preparation takes and how much the DC changes. This is most useful when you’re trying a task that’s higher level than you; otherwise such tasks have an increased DC!
+
+When a task you’re doing is complete, or if you stop in the middle of one, you normally have to find a new task if you want to keep Earning Income. For instance, if you quit your job working at the docks, you’ll need to find another place of employment instead of picking up where you left off. This usually takes 1 day or more of downtime looking for leads on new jobs.
+
+However, you might pause a task due to an adventure or event that wouldn’t prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn’t been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can’t try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check.
+
+|!Task Level|!Failure|!Trained|!Expert|!Master|!Legendary|
+|0| 1 cp| 5 cp| 5 cp| 5 cp| 5 cp|
+|1| 2 cp| 2 sp| 2 sp| 2 sp| 2 sp|
+|2| 4 cp| 3 sp| 3 sp| 3 sp| 3 sp|
+|3| 8 cp| 5 sp| 5 sp| 5 sp| 5 sp|
+|4| 1 sp| 7 sp| 8 sp| 8 sp| 8 sp|
+|5| 2 sp| 9 sp| 1 gp| 1 gp| 1 gp|
+|6| 3 sp| 1 gp, 5 sp| 2 gp| 2 gp| 2 gp|
+|7| 4 sp| 2 gp| 2 gp, 5 sp| 2 gp, 5 sp| 2 gp, 5 sp|
+|8| 5 sp| 2 gp, 5 sp| 3 gp| 3 gp| 3 gp|
+|9| 6 sp| 3 gp| 4 gp| 4 gp| 4 gp|
+|10| 7 sp| 4 gp| 5 gp| 6 gp| 6 gp|
+|11| 8 sp| 5 gp| 6 gp| 8 gp| 8 gp|
+|12| 9 sp| 6 gp| 8 gp| 10 gp| 10 gp|
+|13| 1 gp| 7 gp| 10 gp| 15 gp| 15 gp|
+|14| 1 gp, 5 sp| 8 gp| 15 gp| 20 gp| 20 gp|
+|15| 2 gp| 10 gp| 20 gp| 28 gp| 28 gp|
+|16| 2 gp, 5 sp| 13 gp| 25 gp| 36 gp| 40 gp|
+|17| 3 gp| 15 gp| 30 gp| 45 gp| 55 gp|
+|18| 4 gp| 20 gp| 45 gp| 70 gp| 90 gp|
+|19| 6 gp| 30 gp| 60 gp| 100 gp| 130 gp|
+|20| 8 gp| 40 gp| 75 gp| 150 gp| 200 gp|
+|20 (critical success)| —| 50 gp| 90 gp| 175 gp| 300 gp|

@@ -1,0 +1,27 @@
+created: 20200630150103358
+modified: 20200702143148805
+title: Skill
+type: text/vnd.tiddlywiki
+
+The following are skills and their governing abilities:
+
+<table>
+<tr><th>Skill</th><th>Governing Ability</th></tr>
+<$list filter="[tag[Skill]!tag[Feat]sort[]]">
+<$set name="stat" tiddler=<<currentTiddler>> field="skill-stat">
+<tr><td><$link to=<<currentTiddler>>/></td><td><$link to=<<stat>>/></td></tr>
+</$set>
+</$list>
+</table>
+
+The Skill trait is also used to indicate Skill Feats, which are as follows:
+
+<table>
+<tr><th>Skill Feat</th><th>Skill</th></tr>
+<$list filter = "[tag[Skill]tag[Feat]sort[]]">
+<$set name="skill" tiddler=<<currentTiddler>> field="feat-skill">
+<tr><td><$link to=<<currentTiddler>>/></td><td><$link to=<<skill>>/></td></tr>
+</$set>
+</$list>
+</table>
+

@@ -1,0 +1,16 @@
+created: 20200702144309131
+feat-level: 1
+feat-skill: Crafting
+feat-spre: T
+modified: 20200702144406745
+tags: Feat General Skill
+title: Quick Repair
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Crafting]].
+
+You take 1 minute to [[Repair]] an item. 
+
+If you’re a master in Crafting, it takes 3 actions. 
+
+If you’re legendary, it takes 1 action.

@@ -1,0 +1,16 @@
+a-actions: 1
+a-crit: You open the door, window, container, or gate and can avoid damaging it in the process.
+a-fumble: Your attempt jams the door, window, container, or gate shut, imposing a –2 circumstance penalty on future attempts to Force it Open.
+a-hit: You break the door, window, container, or gate open, and the door, window, container, or gate gains the broken condition. If it’s especially sturdy, the GM might have it take damage but not be broken.
+a-skill: Athletics
+created: 20200702222135062
+modified: 20200706215822471
+tags: Attack Action Untrained
+title: Force Open
+type: text/vnd.tiddlywiki
+
+Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls.
+
+Without a crowbar, prying something open takes a –2 item penalty to the [[Athletics]] check to Force Open.
+
+{{||ActionSuccessTable}}

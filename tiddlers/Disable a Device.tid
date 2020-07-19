@@ -1,0 +1,22 @@
+a-actions: 2
+a-crit: You disable the device, or you achieve two successes toward disabling a complex device. You leave no trace of your tampering, and you can rearm the device later, if that type of device can be rearmed.
+a-fumble: You trigger the device.
+a-hit: You disable the device, or you achieve one success toward disabling a complex device.
+a-skill: Thievery
+created: 20200706231627538
+modified: 20200706231807592
+tags: Action Trained Manipulate
+title: Disable a Device
+type: text/vnd.tiddlywiki
+
+''Requirements'' Some devices require you to use [[Thieves’ Tools]] when disabling them.
+
+This action allows you to disarm a trap or another complex device. 
+
+Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. 
+
+Thieves’ tools are helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.
+
+Your [[Thievery]] check result determines how much progress you make. //The DC is determined by the device being disabled.//
+
+{{||ActionSuccessTable}}

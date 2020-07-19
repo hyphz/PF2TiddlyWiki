@@ -1,0 +1,16 @@
+created: 20200702141643504
+feat-level: 1
+feat-skill: Thievery
+feat-spre: T
+modified: 20200702141805430
+tags: Feat Skill General
+title: Pickpocket
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Thievery]].
+
+You can [[Steal]] or [[Palm an Object]] that’s closely guarded, such as in a pocket, without taking the –5 penalty. 
+
+You can’t steal objects that would be extremely noticeable or time consuming to remove (like worn shoes or armor or actively wielded objects). 
+
+If you’re a master in Thievery, you can attempt to Steal from a creature in combat or otherwise on guard. When doing so, Stealing requires 2 manipulate actions instead of 1, and you take a –5 penalty.

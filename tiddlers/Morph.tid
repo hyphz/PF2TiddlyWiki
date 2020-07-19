@@ -1,0 +1,15 @@
+created: 20200627222239602
+modified: 20200627222330024
+tags: Trait
+title: Morph
+type: text/vnd.tiddlywiki
+
+Spells that slightly alter a creature’s form have the morph trait. 
+
+Any [[Strike]]s specifically granted by a morph effect are [[Magical]]. 
+
+You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to [[Counteract]] the first.
+
+Your morph effects might also end if you are [[Polymorph]]ed and the polymorph effect invalidates or overrides your morph effect. For instance, a morph that gave you wings would be dismissed if you polymorphed into a form that had wings of its own (though if your new form lacked wings, you’d keep the wings from your morph). 
+
+The GM determines which morph effects can be used together and which can’t.

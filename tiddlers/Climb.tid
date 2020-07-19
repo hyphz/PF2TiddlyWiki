@@ -1,0 +1,21 @@
+a-actions: 1
+a-crit: You move up, across, or safely down the incline for 5 feet plus 5 feet per 20 feet of your land Speed (a total of 10 feet for most PCs).
+a-fumble: You fall. If you began the climb on stable ground, you fall and land [[Prone]].
+a-hands: 2
+a-hit: You move up, across, or safely down the incline for 5 feet per 20 feet of your land Speed (a total of 5 feet for most PCs, minimum 5 feet if your Speed is below 20 feet).
+a-skill: Athletics
+created: 20200702221839493
+modified: 20200706215849127
+tags: Action Move Untrained
+title: Climb
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have both hands free //(or just one hand if you have [[Combat Climber]])//.
+
+You move up, down, or across an incline. Unless it’s particularly easy, you must attempt an [[Athletics]] check. The GM determines the DC based on the nature of the incline and environmental circumstances. You’re [[Flat-Footed]] unless you have a climb Speed //or [[Combat Climber]]//.
+
+//You can use [[Tumble Through]] to climb though an opponent's square.//
+
+{{||ActionSuccessTable}}
+
+If you have [[Quick Climb]], you move 5 more feet on a success and 10 more feet on a critical success, to a maximum of your Speed.

@@ -1,0 +1,13 @@
+created: 20200626164525402
+modified: 20200626164611860
+tags: Condition
+title: Observed
+type: text/vnd.tiddlywiki
+
+Anything in plain view is observed by you. 
+
+If a creature takes measures to avoid detection, such as by using [[Stealth]] to [[Hide]], it can become [[Hidden]] or [[Undetected]] instead of observed. 
+
+If you have another precise sense instead of or in addition to sight, you might be able to observe a creature or object using that sense instead. 
+
+You can observe a creature only with [[Precise]] senses.  When [[Seek]]ing a creature using only imprecise senses, it remains [[Hidden]], rather than [[Observed]].

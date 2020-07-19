@@ -1,0 +1,28 @@
+a-crit: Counteract the target if its counteract level is no more than 3 levels higher than your effect’s counteract level.
+a-fail: Counteract the target if its counteract level is lower than your effect’s counteract level.
+a-fumble: You fail to counteract the target.
+a-hit: Counteract the target if its counteract level is no more than 1 level higher than your effect’s counteract level.
+created: 20200719184805973
+modified: 20200719204158210
+tags: Rule
+title: Counteract
+type: text/vnd.tiddlywiki
+
+Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. 
+
+Successfully counteracting an effect ends it unless noted otherwise.
+
+When attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target’s DC. 
+
+For spells //that are used to counteract//, the counteract check modifier is your spellcasting ability modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks. 
+
+What you can counteract depends on the check result, the target’s //counteract// level, //and the level of the effect you are counteracting with//. 
+
+| !Effect type | !DC | !Counteract Level |
+| Affliction | Per stat block | Affliction's level / 2, rounded up |
+| Spell | Caster's DC | Spell's level |
+| Other | GM decides based on standard level DC | Effect or creature's level / 2, rounded up |
+
+//[[Chromatic Wall]] can't be counteracted normally.//
+
+{{||ActionSuccessTable}}

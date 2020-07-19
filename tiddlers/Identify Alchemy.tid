@@ -1,0 +1,18 @@
+a-crit: You misidentify the item as another item of the GM’s choice.
+a-fail: You fail to identify the item but can try again.
+a-hit: You identify the item and the means of activating it.
+a-skill: Crafting
+a-tool: Alchemist's Tools
+created: 20200705230557951
+modified: 20200705230753477
+tags: Concentrate Exploration Secret Action
+title: Identify Alchemy
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have [[Alchemist’s Tools]].
+
+You can identify the nature of an alchemical item with 10 minutes of testing using alchemist’s tools. 
+
+If your attempt is interrupted in any way, you must start over.
+
+{{||ActionSuccessTable}}

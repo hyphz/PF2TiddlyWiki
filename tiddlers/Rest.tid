@@ -1,0 +1,34 @@
+created: 20200718214612222
+modified: 20200719183629589
+tags: Rule
+title: Rest
+type: text/vnd.tiddlywiki
+
+You perform at your best when you take enough time to rest and prepare. 
+
+Once every 24 hours, you can take a period of rest (typically 8 hours), after which you regain Hit Points equal to your [[Constitution]] modifier (minimum 1) times your level, and you might recover from or improve certain conditions (including [[Fatigued]], [[Doomed]] and [[Drained]]). 
+
+Each full 24-hour period a character spends resting during [[Downtime]] allows them to recover double what they would for an 8-hour rest. They must spend this time resting in a comfortable and secure location, typically in bed.
+
+If they spend significantly longer in bed rest—usually from a few days to a week of downtime—they recover from all damage and most nonpermanent conditions. Characters affected by [[Disease]]s, long-lasting [[Poisons]], or similar [[Affliction]]s might need to continue attempting saves during downtime. Some curses, permanent injuries, and other situations that require magic or special care to remove don’t end automatically during long-term rest.
+
+If you rest without any shelter or comfort, the GM may reduce the healing by half, to a minimum of 1 HP.
+
+Sleeping in armor results in poor rest that leaves you [[Fatigued]], or prevents you recovering from being fatigued if you already were. 
+
+The 8 hours of rest do not need to be consecutive. //Characters interrupted, or taking a watch shift, during their rest may go back to sleep without resetting the clock.//
+
+If characters are attacked while sleeping, all characters roll initiative with those who are sleeping taking a -4 for being [[Unconscious]]. They do not automaticaly wake up, but may make a [[Perception]] check to be woken by noise. 
+
+If you go more than 16 hours without resting, you become [[Fatigued]] (you cannot recover from this until you rest at least 6 continuous hours).
+
+After you rest, you make your daily preparations, which takes around 1 hour. You can prepare only if you’ve rested, and only once per day. Preparing includes the following:
+
+* Spellcasters regain spell slots, and prepared spellcasters choose spells to have available that day.
+* Focus Points, other abilities that refresh during your preparations, and abilities that can be used only a certain number of times per day, including magic item uses, are reset.
+* You don armor and equip weapons and other gear.
+* You invest up to 10 worn magic items to gain their benefits for the day.
+
+If a spell’s duration says it lasts until your next daily preparations, on the next day you can refrain from preparing a new spell in that spell’s slot. (If you are a spontaneous caster, you can instead expend a spell slot during your preparations.) Doing so extends the spell’s duration until your next daily preparations. This effectively Sustains the Spell over a long period of time. If you prepare a new spell in the slot (or don’t expend a spell slot), the spell ends. You can’t do this if the spell didn’t come from one of your spell slots. 
+
+//There is no specific rules statement that daily preparations must be made immediately after completing a rest, although it is generally assumed so.//

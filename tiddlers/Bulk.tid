@@ -1,0 +1,23 @@
+created: 20200706233227618
+modified: 20200706233356392
+title: Bulk
+type: text/vnd.tiddlywiki
+
+Carrying especially heavy or unwieldy items can make it more difficult for you to move, as can overloading yourself with too much gear. 
+
+The Bulk value of an item reflects how difficult the item is to handle, representing its size, weight, and general awkwardness. 
+
+If you have a high [[Strength]] score, you usually don’t need to worry about Bulk unless you’re carrying numerous substantial items.
+
+You can carry an amount of Bulk equal to 5 plus your Strength modifier without penalty; if you carry more, you gain the [[Encumbered]] condition. You can’t hold or carry more Bulk than 10 plus your Strength modifier.
+
+Items can have a number to indicate their Bulk value, or they can be light (indicated by an L) or negligible (indicated by a —) for the purpose of determining Bulk. For instance, full plate armor is 4 Bulk, a longsword is 1 Bulk, a dagger or scroll is light, and a piece of chalk is negligible. 
+
+Ten light items count as 1 Bulk, and you round down fractions (so 9 light items count as 0 Bulk, and 11 light items count as 1 Bulk). 
+
+Items of negligible Bulk don’t count toward Bulk unless you try to carry vast numbers of them, as determined by the GM.
+
+As a general rule, an item that weighs 5 to 10 pounds is 1 Bulk, an item weighing less than a few ounces is negligible, and anything in between is light. 
+
+Particularly awkward or unwieldy items might have higher Bulk values. For example, a 10-foot pole isn’t heavy, but its length makes it difficult for you to move while you have one on your person, so its Bulk is 1. Items made for larger or smaller creatures have greater or lesser Bulk.
+

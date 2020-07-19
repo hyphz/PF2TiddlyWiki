@@ -1,0 +1,8 @@
+created: 20200706233014568
+modified: 20200706233035974
+title: Action
+type: text/vnd.tiddlywiki
+
+Actions represent the basic things a character can do during their turn.
+
+By default, you can take 3 actions each turn.

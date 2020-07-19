@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200718213126236
+m-area: 
+m-components: Somatic, Verbal
+m-duration: 1 day
+m-level: 3
+m-range: 30 feet
+m-save: 
+m-targets: 1 mindless undead creature with a level no greater than bind undead's spell level
+m-time: 
+modified: 20200718213229378
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Necromancy Arcane Divine Occult Somatic Verbal Manipulate Concentrate
+title: Bind Undead
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+With a word of necromantic power, you seize control of the target. 
+
+It gains the [[Minion]] trait. 
+
+If you or an ally uses any hostile actions against the target, the spell ends.

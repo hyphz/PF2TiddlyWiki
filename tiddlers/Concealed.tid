@@ -1,0 +1,15 @@
+created: 20200626162621334
+modified: 20200627204501954
+tags: Condition
+title: Concealed
+type: text/vnd.tiddlywiki
+
+While you are concealed from a creature, such as in a thick fog, you are difficult for that creature to see. You can still be observed, but you’re tougher to target. 
+
+A creature that you’re concealed from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect. If the check fails, the attack, spell, or effect doesn’t affect you.
+
+Area effects aren’t subject to this flat check. 
+
+//If a creature with vision as their only precise sense is [[Dazzled]], all creatures are concealed to them.//
+
+//Creatures with [[Low-Light Vision]] ignore concealment from being in dim light.//

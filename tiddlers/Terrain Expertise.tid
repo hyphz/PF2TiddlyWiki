@@ -1,0 +1,17 @@
+created: 20200702193354263
+feat-level: 1
+feat-skill: Survival
+feat-spre: T
+modified: 20200702193442034
+tags: General Feat Skill
+title: Terrain Expertise
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Survival]].
+
+Your experience in navigating a certain type of terrain makes you supremely confident while doing so. 
+
+You gain a +1 circumstance bonus to Survival checks in one of the following types of terrain, chosen when you select this feat: aquatic, arctic, desert, forest, mountain, plains, sky, swamp,
+or underground.
+
+You can select this feat more than once, choosing a different type of terrain each time.

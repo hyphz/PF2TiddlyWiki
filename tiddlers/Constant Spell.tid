@@ -1,0 +1,9 @@
+created: 20200627183954795
+modified: 20200627184022471
+tags: Ability
+title: Constant Spell
+type: text/vnd.tiddlywiki
+
+A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. 
+
+If a constant spell gets [[Counteract]]ed, the monster can reactivate it by spending the normal spellcasting actions the spell requires.

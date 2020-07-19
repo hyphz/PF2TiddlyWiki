@@ -1,0 +1,16 @@
+created: 20200627231021575
+m-components: Somatic, Verbal
+m-duration: 5 minutes
+m-level: 4
+m-range: Touch
+m-targets: 1 creature
+modified: 20200627231252546
+tags: Spell Air Transmutation Divine Primal Somatic Verbal Concentrate Manipulate
+title: Air Walk
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target can walk on air as if it were solid ground. 
+
+It can ascend and descend in this way at a maximum of a 45-degree angle.

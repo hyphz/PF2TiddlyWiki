@@ -1,0 +1,8 @@
+created: 20200719184642054
+modified: 20200719184754623
+title: Poison
+type: text/vnd.tiddlywiki
+
+Poisons are a form of [[Affliction]].
+
+Unlike other forms of Affliction, poison has an effect if you are re-exposed to the same poison while already under its effects. Failing a save against a re-exposure increases the stage by 1, or 2 on a critical failure. It does not extend the maximum duration.

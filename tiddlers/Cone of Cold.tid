@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719211238653
+m-area: 60 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200719211420712
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Cold Evocation Arcane Primal Somatic Verbal Manipulate Concentrate Spell
+title: Cone of Cold
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Icy cold rushes forth from your hands. 
+
+You deal 12d6 cold damage to creatures in the area.
+
+//They can attempt a basic [[Reflex]] save.//
+
+''Heightened (+1)'' The damage increases by 2d6.

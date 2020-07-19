@@ -1,0 +1,16 @@
+created: 20200702145733407
+feat-level: 2
+feat-skill: Medicine
+feat-spre: E
+modified: 20200706232840246
+tags: General Feat Skill
+title: Robust Recovery
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Expert in [[Medicine]].
+
+You learned folk medicine to help recover from diseases and poison, and using it diligently has made you especially resilient.
+
+When you [[Treat Disease]] or a [[Treat Poison]], or someone else uses one of these actions on you, increase the circumstance bonus granted on a success to +4.
+
+If the result of the patient’s saving throw is a success, the patient gets a critical success.

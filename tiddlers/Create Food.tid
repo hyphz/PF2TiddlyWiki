@@ -1,0 +1,45 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719213023256
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 1 hour
+modified: 20200719213617738
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Arcane Divine Primal Somatic Verbal Conjuration Spell Manipulate Concentrate
+title: Create Food
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create enough food to feed six <<tag Medium>>creatures for a day. 
+
+This food is bland and unappealing, but it is nourishing.
+
+After 1 day, if no one has eaten the food, it decays and becomes inedible. 
+
+Most <<tag Small>> creatures eat one-quarter as much as a Medium creature (one-sixteenth as much for most <<tag Tiny>> creatures), and most <<tag Large>> creatures eat 10 times as much (100 times as much for <<tag Huge>> creatures and so on).
+
+''Heightened (4th)'' You can feed 12 Medium creatures.
+
+''Heightened (6th)'' You can feed 50 Medium creatures.
+
+''Heightened (8th)'' You can feed 200 Medium creatures.
+
+| !Level | !Tiny | !Small | !Medium | !Large | !Huge |
+| 2 | 96 | 24 | 6 | 0 | 0 |
+| 4 | 192 | 48 | 12 | 1 | 0 |
+| 6 | 800 | 200 | 50 | 5 | 0 |
+| 8 | 3200 | 800 | 200 | 20 | 2 |
+

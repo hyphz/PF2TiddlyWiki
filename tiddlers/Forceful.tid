@@ -1,0 +1,9 @@
+created: 20200706233942319
+modified: 20200706234000454
+tags: [[Weapon Trait]]
+title: Forceful
+type: text/vnd.tiddlywiki
+
+This weapon becomes more dangerous as you build momentum. 
+
+When you attack with it more than once on your turn, the second attack gains a circumstance bonus to damage equal to the number of weapon damage dice, and each subsequent attack gains a circumstance bonus to damage equal to double the number of weapon damage dice.

@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719210232448
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the end of the target's next turn
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200719210449452
+s-crit: 
+s-fail: For the first action on its next turn, the creature must use a single action to do as you command.
+s-fumble: The target must use all its actions on its next turn to obey your command.
+s-hit: The creature is unaffected.
+tags: Auditory Enchantment Linguistic Mental Arcane Divine Occult Somatic Verbal Spell Manipulate Concentrate
+title: Command
+turn-etn: Effect wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shout a command that’s hard to ignore. 
+
+You can command the target to approach you, run away (as if it had the [[Fleeing]] condition), release what it’s holding, [[Drop Prone]], or stand in place. 
+
+It can’t [[Delay]] or take any reactions until it has obeyed your command. 
+
+The effects depend on the target’s [[Will]] save.
+
+''Heightened (5th)'' You can target up to 10 creatures.
+
+{{||SaveSuccessTable}}

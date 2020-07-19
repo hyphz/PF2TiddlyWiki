@@ -1,0 +1,10 @@
+created: 20200630083628162
+feat-level: 1
+modified: 20200630083759189
+tags: Feat General
+title: Armor Proficiency
+type: text/vnd.tiddlywiki
+
+You become trained in [[Light Armor]]. If you already were trained in light armor, you gain training in [[Medium Armor]]. If you were trained in both, you become trained in [[Heavy Armor]].
+
+You can select this feat more than once. Each time, you become trained in the next type of armor above.

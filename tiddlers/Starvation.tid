@@ -1,0 +1,11 @@
+created: 20200718215435953
+modified: 20200718215507223
+tags: Rule
+title: Starvation
+type: text/vnd.tiddlywiki
+
+Typically characters eat and drink enough to survive comfortably. 
+
+When they can’t, they’re [[Fatigued]] until they do. 
+
+After 1 day + a creature’s [[Constitution]] modifier without food, it takes 1 damage each day that can’t be healed until it sates its hunger.

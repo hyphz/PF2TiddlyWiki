@@ -1,0 +1,20 @@
+created: 20200627225327587
+modified: 20200719214844876
+tags: Tradition
+title: Divine
+type: text/vnd.tiddlywiki
+
+The power of the divine is steeped in faith, the unseen, and belief in a power source from beyond the Material Plane. 
+
+[[Cleric]]s are the most iconic divine spellcasters, beseeching the gods to grant them their magic. Divine [[Sorcerer]]s can use the blood of their celestial or fiendish ancestors as a divine conduit, and [[Champion]]s call upon their gods to grant them martial prowess through divine guidance.
+
+Divine spells are identified using [[Religion]].
+
+<$list filter="1 2 3 4 5 6 7 8 9 10" variable="level">
+''Level <<level>> Divine Spells''
+<ul>
+<$list filter="[tag[Spell]tag[Divine]field:m-level<level>]">
+<li><$link/></li>
+</$list>
+</ul>
+</$list>

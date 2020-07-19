@@ -1,0 +1,25 @@
+a-actions: 1
+a-crit: Your performance impresses the observers, and they’re likely to share stories of your ability.
+a-fail: Your performance falls flat.
+a-fumble: You demonstrate only incompetence.
+a-hit: You prove yourself, and observers appreciate the quality of your performance.
+a-skill: Performance
+created: 20200706223940902
+modified: 20200706224650643
+tags: Action Concentrate Untrained
+title: Perform
+type: text/vnd.tiddlywiki
+
+When making a brief performance—one song, a quick dance, or a few jokes—you use the Perform action //with the [[Performance]] skill.//
+
+This action is most useful when you want to prove your capability or impress someone quickly. 
+
+Performing rarely has an impact on its own, but it might influence the DCs of subsequent [[Diplomacy]] checks against the observers—or even change their attitudes — if the GM sees fit.
+
+//If you have [[Fascinating Performance]], you can use Perform to inflict the [[Fascinated]] condition on an observer by beating their [[Will]] DC.//
+
+Performing gains additional traits based on the type of performance you do, as follows:
+
+{{PerformanceTraits}}
+
+{{||ActionSuccessTable}}

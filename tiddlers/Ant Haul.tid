@@ -1,0 +1,16 @@
+created: 20200710193651039
+m-components: Somatic, Verbal
+m-duration: 8 hours
+m-level: 1
+m-range: Touch
+m-targets: 1 creature
+modified: 20200710194953682
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Primal Transmutation
+title: Ant Haul
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You reinforce the target's musculoskeletal system to bear more weight. 
+
+The target can carry 3 more Bulk than normal before becoming encumbered and up to a maximum of 6 more Bulk.

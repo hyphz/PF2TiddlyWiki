@@ -1,0 +1,44 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719212332943
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: Unlimited
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200719212815908
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Light Spell Arcane Divine Occult Primal Material Somatic Verbal
+title: Continual Flame
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A magical flame springs up from the object, as bright as a [[Torch]]. {{Torch}}
+ 
+
+It doesn’t need oxygen, react to water, or generate heat.
+
+//The material component for the spell is ruby dust. The required value depends on the level. The casting level makes no difference except to how hard the spell is to [[Counteract]].//
+
+| !Level | !Cost |
+| 2 | 6 gp |
+| 3 | 16 gp |
+| 4 | 30 gp |
+| 5 | 60 gp |
+| 6 | 120 gp |
+| 7 | 270 gp |
+| 8 | 540 gp |
+| 9 | 1350 gp |
+| 10 | 3350 gp |
+
+

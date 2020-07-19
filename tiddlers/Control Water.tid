@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719212839245
+m-area: 50 feet long by 50 feet wide
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 500 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200719212949631
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Water Arcane Primal Somatic Verbal Manipulate Concentrate Spell
+title: Control Water
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+By imposing your will upon the water, you can raise or lower the level of water in the chosen area by 10 feet. 
+
+<<tag Water>>creatures in the area are subjected to the effects of [[Slow]].
+

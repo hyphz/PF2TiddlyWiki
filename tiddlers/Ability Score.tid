@@ -1,0 +1,11 @@
+created: 20200627193107181
+modified: 20200630150053041
+title: Ability Score
+type: text/vnd.tiddlywiki
+
+//An Ability Score is one of the six basic value used to calculate your character's modifiers.//
+
+//The Ability Scores are://
+
+<$list filter="[tag[Ability Score]]" />
+

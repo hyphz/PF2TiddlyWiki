@@ -1,0 +1,17 @@
+created: 20200626163608455
+modified: 20200718214053799
+tags: Condition
+title: Fatigued
+type: text/vnd.tiddlywiki
+
+You’re tired and can’t summon much energy. 
+
+You take a –1 status penalty to [[AC]] and saving throws ([[Fortitude]], [[Reflex]], [[Will]]).
+
+While exploring, you can’t choose an exploration activity.
+
+You recover from fatigue after a full night’s rest.
+
+//You become Fatigued if you fail to [[Subsist]] in an environment without food or shelter.//
+
+//You become Fatigued if you [[Sustain a Spell]] for more than 10 minutes, unless the spell has a longer maximum duration.//

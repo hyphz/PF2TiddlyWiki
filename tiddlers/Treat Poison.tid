@@ -1,0 +1,19 @@
+a-actions: 1
+a-crit: You grant the creature a +4 circumstance bonus to its next saving throw against the poison.
+a-fumble: Your efforts cause the creature to take a –2 circumstance penalty to its next save against the poison.
+a-hit: You grant the creature a +2 circumstance bonus to its next saving throw against the poison.
+a-skill: Medicine
+a-tool: Healer's Tools
+created: 20200706222343972
+modified: 20200706222511696
+tags: Action Manipulate Trained
+title: Treat Poison
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have [[Healer's Tools]].
+
+You treat a patient to prevent the spread of poison. 
+
+Attempt a [[Medicine]] check against the poison’s DC. 
+
+After you attempt to Treat a Poison for a creature, you can’t try again until after the next time that creature attempts a save against the poison.

@@ -1,0 +1,9 @@
+created: 20200627224614540
+modified: 20200627224727393
+tags: Trait
+title: Attack
+type: text/vnd.tiddlywiki
+
+Actions with the Attack trait can affect and be affected by your [[Multiple Attack Penalty]].
+
+//You can't use an [[Open]] action after an [[Attack]] action in the same turn.//

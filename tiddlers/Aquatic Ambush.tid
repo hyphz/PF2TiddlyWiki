@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200627182855669
+modified: 20200627182946628
+tags: Action
+title: Aquatic Ambush
+type: text/vnd.tiddlywiki
+
+''Requirements'' The monster is [[hiding|Hidden]] in water and a creature that hasn’t detected it is within the listed number of feet. 
+
+The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. 
+
+Once the creature is in reach, the monster makes a [[Strike]] against it. The creature is [[Flat-Footed]] against this Strike.

@@ -1,0 +1,16 @@
+a-defense: Will
+created: 20200627195041000
+modified: 20200706220527171
+s-crit: The creature is unaffected by the presence.
+s-fail: The creature is [[Frightened]] 2.
+s-fumble: The creature is [[Frightened]] 4.
+s-hit: The creature is [[Frightened]] 1.
+tags: Ability Aura Emotion Fear Mental
+title: Frightful Presence
+type: text/vnd.tiddlywiki
+
+A creature that first enters the area must attempt a [[Will]] save. 
+
+Regardless of the result of the saving throw, the creature is temporarily immune to this monster’s Frightful Presence for 1 minute.
+
+{{||SaveSuccessTable}}

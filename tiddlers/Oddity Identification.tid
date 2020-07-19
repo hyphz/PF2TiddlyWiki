@@ -1,0 +1,14 @@
+created: 20200702141505193
+feat-level: 1
+feat-skill: Occultism
+feat-spre: T
+modified: 20200702141627289
+tags: Feat General Skill
+title: Oddity Identification
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Occultism]].
+
+You have a sense for spells that twist minds or reveal secrets. 
+
+You gain a +2 circumstance bonus to [[Occultism]] checks to [[Identify Magic]] with the [[Mental]], [[Possession]], [[Prediction]], or [[Scrying]] traits.

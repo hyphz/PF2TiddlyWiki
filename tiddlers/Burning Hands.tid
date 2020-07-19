@@ -1,0 +1,17 @@
+created: 20200719182936267
+m-area: 15 foot [[Cone]]
+m-components: Somatic Verbal
+m-level: 1
+m-save: Reflex
+modified: 20200719183112630
+tags: Evocation Fire Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+title: Burning Hands
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Gouts of flame rush from your hands. 
+
+You deal 2d6 fire damage to creatures in the area.
+
+''Heightened (+1)'' The damage increases by 2d6.

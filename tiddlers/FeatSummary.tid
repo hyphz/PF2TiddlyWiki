@@ -1,0 +1,23 @@
+created: 20200712160917173
+modified: 20200712162331295
+tags: 
+title: FeatSummary
+type: text/vnd.tiddlywiki
+
+<table>
+<tr><th>Feat Type</th><td>
+<$list filter="[all[current]tag[Class]]">Class</$list>
+<$list filter="[all[current]tag[Skill]]">Skill</$list>
+</td></tr>
+<tr><th>Level</th><td>{{!!feat-level}}</td></tr>
+<$list filter="[all[current]tag[Skill]]">
+<tr><th>Skill</th><td>{{!!feat-skill}}</td></tr>
+<tr><th>Requirement</th><td>{{!!feat-spre}}
+<$transclude tiddler="TraitSummaryLongName" index={{!!feat-spre}} />
+</td></tr>
+</$list>
+<$list filter="[all[current]tag[Class]]">
+<tr><th>Class</th><td>{{!!feat-class}}</td></tr>
+</$list>
+</table>
+

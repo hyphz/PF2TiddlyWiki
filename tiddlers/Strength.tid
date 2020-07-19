@@ -1,0 +1,17 @@
+created: 20200627192353171
+modified: 20200702212355444
+tags: [[Ability Score]]
+title: Strength
+type: text/vnd.tiddlywiki
+
+Strength measures your character’s physical power.
+
+Strength is important if your character plans to engage in hand-to-hand combat. 
+
+Your Strength modifier gets added to melee damage rolls and determines how much your character can carry.
+
+You can carry an amount of [[Bulk]] equal to 5 plus your Strength modifier without penalty; if you carry more, you gain the encumbered condition. You can’t hold or carry more Bulk than 10 plus your Strength modifier. If you are carrying more weight than you can manage, you're [[Encumbered]].
+
+//Strength governs [[Athletics]].//
+
+//Being [[Enfeebled]], [[Sickened]] or [[Frightened]] reduces your Strength rolls.//

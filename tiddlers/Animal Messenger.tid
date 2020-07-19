@@ -1,0 +1,22 @@
+created: 20200710193651039
+m-components: Material, Somatic, Verbal
+m-duration: Until delivered
+m-level: 2
+m-range: 120 feet
+m-time: 1 minute
+modified: 20200710194144423
+tags: Spell Material Somatic Verbal Concentrate Manipulate Primal
+title: Animal Messenger
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You offer a gift of food, and an ordinary Tiny wild animal within range approaches to eat it. 
+
+You imprint the image, direction, and distance of an obvious place or landmark well known to you within the animal. 
+
+Optionally, you can attach a small object or note up to light Bulk to it. 
+
+The animal does its best to reach the destination; if it makes it there, it waits nearby until the duration expires, allowing other nonhostile creatures to approach it and remove the attached object.
+
+If there are no Tiny wild animals in range, the spell is lost.

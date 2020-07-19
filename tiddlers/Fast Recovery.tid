@@ -1,0 +1,17 @@
+created: 20200630092528328
+modified: 20200630092615709
+tags: Feat General
+title: Fast Recovery
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Constitution]] 14.
+
+Your body quickly bounces back from afflictions. 
+
+You regain twice as many Hit Points from resting. 
+
+Each time you succeed at a Fortitude save against an ongoing [[Disease]] or [[Poison]], you reduce its stage by 2, or by 1 against a virulent disease or poison.
+
+Each critical success you achieve against an ongoing disease or poison reduces its stage by 3, or by 2 against a virulent disease or poison. 
+
+In addition, you reduce the severity of your [[Drained]] condition by 2 when you rest for a night instead of by 1.

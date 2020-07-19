@@ -1,0 +1,12 @@
+created: 20200712164119183
+modified: 20200712164253165
+tags: 
+title: SpellSaveList
+type: text/vnd.tiddlywiki
+
+''And to save against these spells:''
+<ul>
+<$list filter="[field:m-save<currentTiddler>sort[]]">
+<li><$link to=<<currentTiddler>> /></li>
+</$list>
+</ul>

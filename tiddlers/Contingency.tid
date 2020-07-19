@@ -1,0 +1,48 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200719212026382
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 24 hours
+m-level: 7
+m-range: 
+m-save: 
+m-targets: 
+m-time: 10 minutes
+modified: 20200719212240272
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Abjuration Arcane Material Somatic Verbal Manipulate Concentrate Spell
+title: Contingency
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You prepare a spell that will trigger later. 
+
+While casting contingency, you also cast another spell of 4th level or lower with a casting time of no more than 3 actions. 
+
+This companion spell must be one that can affect you. 
+
+You must make any decisions for the spell when you cast contingency, such as choosing a damage type for [[Resist Energy]]. 
+
+During the casting, choose a [[Trigger]] under which the spell will be cast, using the same restrictions as for the trigger of a [[Ready]] action. 
+
+Once contingency is cast, you can cause the companion spell to come into effect as a reaction with that trigger. 
+
+It affects only you, even if it would affect more creatures. 
+
+If you define complicated conditions, as determined by the GM, the trigger might fail. 
+
+If you cast contingency again, the newer casting supersedes the older.
+
+''Heightened (8th)'' You can choose a spell of 5th level or lower.
+
+''Heightened (9th)'' You can choose a spell of 6th level or lower.
+
+''Heightened (10th)'' You can choose a spell of 7th level or lower.

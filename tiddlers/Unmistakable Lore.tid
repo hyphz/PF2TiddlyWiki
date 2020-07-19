@@ -1,0 +1,16 @@
+created: 20200702194903714
+feat-level: 2
+feat-skill: Lore
+feat-spre: E
+modified: 20200702194954832
+tags: General Skill Feat
+title: Unmistakable Lore
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Expert in [[Lore]].
+
+You never get information about your areas of expertise wrong.
+
+When you [[Recall Knowledge]] using any Lore subcategory in which you’re trained, if you roll a critical failure, you get a failure instead. 
+
+If you’re a master in a Lore subcategory, on a critical success, you gain even more information or context than usual.

@@ -1,0 +1,15 @@
+created: 20200711180020592
+feat-class: Wizard
+feat-level: 1
+modified: 20200712160552783
+tags: Feat Wizard Class Action Reaction Abjuration Arcane
+title: Counterspell
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature [[Casts a Spell|Cast a Spell]] that you have prepared.
+
+When a foe Casts a Spell and you can see its manifestations, you can use your own magic to disrupt it. 
+
+You expend a prepared spell to counter the triggering creature’s casting of that same spell. You lose your spell slot as if you had cast the triggering spell. 
+
+You then attempt to [[Counteract]] the triggering spell.

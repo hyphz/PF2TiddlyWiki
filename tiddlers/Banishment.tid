@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200718212159746
+m-area: 
+m-components: Somatic, Verbal
+m-duration: 
+m-level: 5
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature that isn't on its home plane
+m-time: 
+modified: 20200718212423065
+s-crit: The target resists being banished and you are [[Stunned]] 1.
+s-fail: The target is banished.
+s-fumble: The target is banished and can’t return by any means to the plane it’s banished from for 1 week.
+s-hit: The target resists being banished.
+tags: Spell Abjuration Incapacitation Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+title: Banishment
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send the target back to its home plane. 
+
+The target must attempt a [[Will]] save. 
+
+You can spend an extra action while [[Casting this Spell|Cast a Spell]] and add a material component to give the creature a –2 circumstance penalty to its save. The component must be a specially gathered object that is anathema to the creature, and not from a spell component pouch. 
+
+This spell fails if you aren’t on your home plane when you cast it.
+
+''Heightened (9th)'' You can target up to 10 creatures. The extra material component affects targets to which it is anathema.
+
+{{||SaveSuccessTable}}

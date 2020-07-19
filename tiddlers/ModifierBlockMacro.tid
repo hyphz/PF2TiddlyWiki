@@ -1,0 +1,22 @@
+created: 20200707221717495
+mod-testblock: Hello
+modified: 20200719174916637
+tags: 
+title: ModifierBlockMacro
+type: text/vnd.tiddlywiki
+
+\define ModifierBlock(for:"")
+Hello
+<$set name="x" value=<<__for__>> >
+<$set name="mfield" filter="[title<x>lowercase[]addprefix[mod-]]">
+<<dumpvariables>>
+<table>
+<$list filter="[all[tiddlers]has<mfield>]">
+<tr><th><<currentTiddler>></th><td><$view field=<<mfield>> /></td></tr>
+</$list>
+</table>
+</$set>
+</$set>
+</table>
+\end
+

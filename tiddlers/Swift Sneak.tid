@@ -1,0 +1,16 @@
+created: 20200702193245538
+feat-level: 7
+feat-skill: Stealth
+feat-spre: M
+modified: 20200718213411162
+tags: Feat General Skill
+title: Swift Sneak
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Master in [[Stealth]].
+
+You can move your full Speed when you [[Sneak]]. 
+
+You can use Swift Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
+
+//When you take the [[Avoid Notice]] exploration activity, you can move at full Speed rather than half.//

@@ -1,0 +1,15 @@
+created: 20200702193837737
+feat-level: 1
+modified: 20200702194043878
+tags: Feat General
+title: Toughness
+type: text/vnd.tiddlywiki
+
+You can withstand more punishment than most before succumbing. 
+
+Increase your maximum Hit Points by your level.
+
+//This is recalculated whenever your level increases; ie, you gain 1 extra hit point per level.//
+
+__The DC of your [[Recovery Check]]s is equal to 9 plus your [[Dying]] value.__
+

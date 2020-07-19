@@ -1,0 +1,11 @@
+created: 20200627222017370
+modified: 20200627222229476
+tags: Trait
+title: Concentrate
+type: text/vnd.tiddlywiki
+
+An action with this trait requires a degree of mental concentration and discipline.
+
+//You can't use an action with the Concentrate trait while raging unless the action also has the [[Rage]] trait.//
+
+//You can't use a Concentrate action while [[Fascinated]] unless it relates to the object of your fascination.//

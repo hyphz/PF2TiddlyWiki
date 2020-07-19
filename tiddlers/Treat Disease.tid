@@ -1,0 +1,22 @@
+a-crit: You grant the creature a +4 circumstance bonus to its next saving throw against the disease.
+a-fumble: Your efforts cause the creature to take a –2 circumstance penalty to its next save against the disease.
+a-hit: You grant the creature a +2 circumstance bonus to its next saving throw against the disease.
+a-skill: Medicine
+a-tool: Healer's Tools
+created: 20200706222205695
+modified: 20200706223049156
+tags: Downtime Manipulate Action Trained
+title: Treat Disease
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have [[Healer’s Tools]].
+
+You spend at least 8 hours caring for a diseased creature. 
+
+Attempt a [[Medicine]] check against the disease’s DC. 
+
+After you attempt to Treat a Disease for a creature, you can’t try again until after that creature’s next save against the disease.
+
+//If you have [[Ward Medic]], you can treat several targets at the same time.//
+
+{{||ActionSuccessTable}}

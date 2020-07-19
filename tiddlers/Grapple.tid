@@ -1,0 +1,28 @@
+a-actions: 1
+a-crit: Your opponent is [[Restrained]] until the end of your next turn unless you move or your opponent [[Escape]]s.
+a-defense: Fortitude
+a-fail: You fail to grab your opponent. If you already had the opponent grabbed or restrained using a Grapple, those conditions on that creature end.
+a-fumble: If you already had the opponent grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[Prone]].
+a-hands: 1
+a-hit: Your opponent is [[Grabbed]] until the end of your next turn unless you move or your opponent [[Escape]]s.
+a-skill: Athletics
+created: 20200702222720703
+modified: 20200719170638169
+tags: Attack Action [[Weapon Trait]]
+title: Grapple
+turn-eun: A target stops being grabbed or restrained if the grab was not maintained.
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have at least one free hand. Your target cannot be more than one size larger than you //unless you have [[Titan Wrestler]] in which case it can be two or three sizes larger, based on your Athletics.//
+
+You attempt to grab an opponent with your free hand.  You can also Grapple to keep your hold on a creature you already grabbed.
+
+Attempt an [[Athletics]] check against their [[Fortitude]] DC.
+
+{{||ActionSuccessTable}}
+
+A weapon with the Grapple trait can be used to Grapple with the [[Athletics]] skill even if you don’t have a free hand. 
+
+This uses the weapon’s reach (if different from your own) and adds the weapon’s item bonus to attack rolls as an item bonus to the Athletics check. 
+
+If you critically fail a check to Grapple using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.

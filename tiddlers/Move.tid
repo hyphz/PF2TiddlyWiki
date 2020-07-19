@@ -1,0 +1,15 @@
+created: 20200630144707041
+modified: 20200630144745455
+tags: Trait
+title: Move
+type: text/vnd.tiddlywiki
+
+An action with this trait involves moving from one space to another.
+
+Some reactions and free actions are triggered by a creature using an action with the move trait. The most notable example is [[Attack of Opportunity]]. 
+
+Actions with the move trait can trigger reactions or free actions throughout the course of the distance traveled. Each time you exit a square (or move 5 feet if not using a grid) within a creature’s reach, your movement triggers those reactions and free actions (although no more than once per move action for a given reacting creature). 
+
+If you use a move action but don’t move out of a square, the trigger instead happens at the end of that action or ability.
+
+Some actions, such as [[Step]], specifically state they don’t trigger reactions or free actions based on movement.

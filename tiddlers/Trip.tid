@@ -1,0 +1,20 @@
+a-actions: 1
+a-crit: The target falls and lands [[Prone]] and takes 1d6 bludgeoning damage.
+a-defense: Reflex
+a-fumble: You lose your balance and fall and land [[Prone]].
+a-hands: 1
+a-hit: The target falls and lands [[Prone]].
+a-skill: Athletics
+created: 20200704175915130
+modified: 20200706220004894
+tags: Action Attack Untrained
+title: Trip
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have at least one hand free. Your target can’t be more than one size larger than you //unless you have [[Titan Wrestler]], in which case it can be two or three sizes larger depending on your proficiency in Athletics.//
+
+You try to knock an opponent to the ground. 
+
+Attempt an [[Athletics]] check against the target’s [[Reflex]] DC.
+
+{{||ActionSuccessTable}}

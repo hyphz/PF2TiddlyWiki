@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200708194720537
+feat-class: Alchemist
+feat-level: 2
+modified: 20200708194941995
+tags: Feat Class Alchemist Action Concentrate Manipulate
+title: Revivifying Mutagen
+type: text/vnd.tiddlywiki
+
+While under the effect of a mutagen, you can metabolize that mutagen’s power to heal yourself. 
+
+This uses a single action, which has the [[Concentrate]] and [[Manipulate]] traits. 
+
+Once the action is complete, you regain 1d6 Hit Points for every 2 item levels of the mutagen (minimum 1d6), but the mutagen’s duration immediately ends, even if you are under the effect of [[Persistent Mutagen]].
