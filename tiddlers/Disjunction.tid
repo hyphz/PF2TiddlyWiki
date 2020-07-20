@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720222249882
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 9
+m-range: 120 feet
+m-save: 
+m-targets: 1 magic item
+m-time: 
+modified: 20200720222357480
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Abjuration Arcane Primal Verbal Somatic Spell Concentrate Manipulate
+title: Disjunction
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Crackling energy disjoins the target. 
+
+You attempt to [[Counteract]] it. 
+
+If you succeed, it’s deactivated for 1 week. 
+
+On a critical success, it’s destroyed. 
+
+If it’s an artifact or similar item, you automatically fail.

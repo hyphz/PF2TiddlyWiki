@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720205604938
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 5
+m-range: Touch
+m-save: 
+m-targets: 1 living creature touched
+m-time: 
+modified: 20200720205709009
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Abjuration Divine Occult Primal Spell Somatic Verbal Manipulate Concentrate
+title: Death Ward
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shield a creature from the ravages of negative energy.
+
+It receives a +4 status bonus to saves against <<tag Death>>and <<tag Negative>>effects, gains negative resistance 10, and suppresses the effects of the [[Doomed]] condition.

@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720211124061
+m-area: 30 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200720211243835
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Detection Divination Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+title: Detect Scrying
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+By tapping into trace divinatory auras, you detect the presence of <<tag Scrying>>effects in the area. 
+
+If detect scrying is higher level than a scrying effect, you gain a glimpse of the scrying creature and learn its approximate distance and direction.
+
+''Heightened (6th)'' The duration is until the next time you make your [[daily preparations|Rest]].
+

@@ -3,7 +3,8 @@ a-hit: If you’re trying to stabilize, the creature loses the dying condition (
 a-skill: Medicine
 a-tool: Healer's Tools
 created: 20200706221852974
-modified: 20200706222106543
+modified: 20200720215928645
+modified-by: Medicine
 tags: Action Untrained Manipulate
 title: Administer First Aid
 type: text/vnd.tiddlywiki

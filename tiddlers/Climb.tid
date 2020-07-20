@@ -5,7 +5,8 @@ a-hands: 2
 a-hit: You move up, across, or safely down the incline for 5 feet per 20 feet of your land Speed (a total of 5 feet for most PCs, minimum 5 feet if your Speed is below 20 feet).
 a-skill: Athletics
 created: 20200702221839493
-modified: 20200706215849127
+modified: 20200720214057082
+modified-by: Athletics
 tags: Action Move Untrained
 title: Climb
 type: text/vnd.tiddlywiki

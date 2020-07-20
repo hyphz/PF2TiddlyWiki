@@ -1,6 +1,10 @@
 a-actions: 1
 created: 20200626205915399
-modified: 20200626210134170
+mod-ac: Can give a +4 circumstance bonus.
+mod-hide: Can give a +4 circumstance bonus.
+mod-reflex: Can give a +4 circumstance bonus.
+mod-sneak: Can give a +4 circumstance bonus.
+modified: 20200720215255849
 tags: Action
 title: Take Cover
 type: text/vnd.tiddlywiki

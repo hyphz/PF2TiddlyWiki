@@ -12,7 +12,7 @@ m-range: Touch
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200719212815908
+modified: 20200720202754410
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -23,7 +23,7 @@ type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
 
-A magical flame springs up from the object, as bright as a [[Torch]]. {{Torch}}
+A magical flame springs up from the object, as bright as a [[Torch]]. {{TorchLight}}
  
 
 It doesn’t need oxygen, react to water, or generate heat.

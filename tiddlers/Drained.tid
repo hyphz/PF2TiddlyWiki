@@ -1,5 +1,6 @@
 created: 20200626163114597
-modified: 20200630092658660
+mod-constitution: Reduces Constitution by the condition value.
+modified: 20200720214615195
 tags: Condition
 title: Drained
 type: text/vnd.tiddlywiki

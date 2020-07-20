@@ -1,5 +1,11 @@
 created: 20200627192818031
-modified: 20200630145619308
+mod-medicine: Key ability for this skill.
+mod-nature: Key ability for this skill.
+mod-perception: Key ability.
+mod-religion: Key ability for this skill.
+mod-survival: Key ability for this skill.
+mod-will: Key ability for this save.
+modified: 20200720221843767
 tags: [[Ability Score]]
 title: Wisdom
 type: text/vnd.tiddlywiki

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720210652289
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 object or creature
+m-time: 
+modified: 20200720210815048
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Detection Divination Spell Divine Primal Somatic Verbal Manipulate Concentrate
+title: Detect Poison
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You detect whether a creature is venomous or poisonous, or if an object is poison or has been poisoned. 
+
+You do not ascertain whether the target is poisonous in multiple ways, nor do you learn the type or types of poison. 
+
+Certain //common// substances, like lead and alcohol, are //technically// poisons and so mask other poisons.
+
+''Heightened (2nd)'' You learn the number and types of poison.

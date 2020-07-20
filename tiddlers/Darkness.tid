@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720203005199
+m-area: 20 foot [[Burst]]
+m-components: Material Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200720203220935
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Darkness Evocation Spell Arcane Divine Occult Primal Material Somatic Verbal Concentrate Manipulate
+title: Darkness
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a shroud of darkness that prevents light from penetrating or emanating within the area. 
+
+Light does not enter the area and any non-magical light sources, such as a [[Torch]] or [[Lantern]], do not emanate any light while inside the area, even if their light radius would extend beyond the darkness.
+
+This also suppresses magical light of your darkness spell’s level or lower. Light can’t pass through, so creatures in the area can’t see outside. From outside, it appears as a globe of pure darkness.
+
+''Heightened (4th)'' Even creatures with [[Darkvision]] (but not [[Greater Darkvision]]) can barely see through the darkness. They treat targets seen through the darkness as [[Concealed]].
+

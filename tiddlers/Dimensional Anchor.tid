@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720211530976
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 4
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200720211834494
+s-crit: The target is unaffected.
+s-fail: The effect's duration is 10 minutes.
+s-fumble: The effect's duration is 1 hour.
+s-hit: The effect's duration is 1 minute.
+tags: Abjuration Spell Arcane Divine Occult Somatic Verbal Manipulate Concentrate
+title: Dimensional Anchor
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You interfere with the target’s ability to teleport and travel between dimensions. 
+
+Dimensional anchor attempts to [[Counteract]] any <<tag Teleportation>> effect, or any effect that would move the target to a different plane. 
+
+The duration is determined by the target’s Will save.
+
+{{||SaveSuccessTable}}
+

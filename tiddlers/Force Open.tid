@@ -4,7 +4,8 @@ a-fumble: Your attempt jams the door, window, container, or gate shut, imposing 
 a-hit: You break the door, window, container, or gate open, and the door, window, container, or gate gains the broken condition. If it’s especially sturdy, the GM might have it take damage but not be broken.
 a-skill: Athletics
 created: 20200702222135062
-modified: 20200706215822471
+modified: 20200720214441154
+modified-by: Athletics
 tags: Attack Action Untrained
 title: Force Open
 type: text/vnd.tiddlywiki

@@ -1,6 +1,10 @@
 created: 20200627194511500
-modified: 20200627202136604
-tags: Ability Sense
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 2
+m-targets: You
+modified: 20200720203729364
+tags: Ability Sense Spell Divination Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
 title: Darkvision
 type: text/vnd.tiddlywiki
 
@@ -9,3 +13,13 @@ A creature with darkvision can see perfectly well in areas of darkness and dim l
 Some forms of magical darkness, such as a 4th-level [[Darkness]] spell, block normal darkvision. 
 
 A creature with [[Greater Darkvision]], however, can see through even these forms of magical darkness.
+
+!! Spell
+
+{{||SpellSummaryTable}}
+
+The Darkvision spell grants you darkvision for the duration.
+
+''Heightened (3rd)'' The spell’s range is touch and it targets 1 willing creature.
+
+''Heightened (5th)'' The spell’s range is touch and it targets 1 willing creature. The duration is until the next time you make your [[daily preparations|Rest]].

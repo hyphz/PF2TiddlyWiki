@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720221703271
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-perception: Gives a circumstance bonus to detect lies.
+modified: 20200720221806958
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Divination Mental Revelation Spell Arcane Divine Occult Somatic Verbal Manipulate Concentrate
+title: Discern Lies
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Falsehoods ring in your ears like discordant notes. 
+
+You gain a +4 status bonus to [[Perception]] checks when someone [[Lie]]s.

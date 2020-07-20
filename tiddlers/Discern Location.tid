@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720221903015
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 8
+m-range: Unlimited
+m-save: 
+m-targets: 1 creature or object
+m-time: 10 minutes
+modified: 20200720222021609
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Detection Divination Arcane Divine Occult Material Somatic Verbal Spell Manipulate Concentrate
+title: Discern Location
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You learn the name of the target’s exact location (including the building, community, and country) and plane of existence.
+
+You can target a creature only if you’ve seen it in person, have one of its significant belongings, or have a piece of its body. 
+
+To target an object, you must have touched it or have a fragment of it. 
+
+Discern location automatically overcomes protections against detection and divination of lower level than this spell, even if they would normally have a chance to block it.

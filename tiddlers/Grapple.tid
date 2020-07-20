@@ -7,7 +7,8 @@ a-hands: 1
 a-hit: Your opponent is [[Grabbed]] until the end of your next turn unless you move or your opponent [[Escape]]s.
 a-skill: Athletics
 created: 20200702222720703
-modified: 20200719170638169
+modified: 20200720214505571
+modified-by: Athletics Fortitude
 tags: Attack Action [[Weapon Trait]]
 title: Grapple
 turn-eun: A target stops being grabbed or restrained if the grab was not maintained.

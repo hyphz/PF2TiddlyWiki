@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720221208068
+m-area: 
+m-components: Material Somatic
+m-duration: 10 minutes
+m-level: 8
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200720221325302
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Illusion Spell Arcane Occult Material Somatic Manipulate Concentrate
+title: Disappearance
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shroud a creature from others’ senses. 
+
+The target becomes [[Undetected]], not just to sight but to all senses, allowing the target to count as [[Invisible]] no matter what precise and imprecise senses an observer might have. 
+
+It’s still possible for a creature to find the target by [[Seek]]ing, looking for disturbed dust, hearing gaps in the sound spectrum, or finding some other way to discover the presence of an otherwise-undetectable creature.

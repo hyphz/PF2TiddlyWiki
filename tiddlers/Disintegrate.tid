@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720222045715
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 6
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 1 creature or unattended object
+m-time: 
+modified: 20200720222239913
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Arcane Somatic Verbal Spell Concentrate Manipulate
+title: Disintegrate
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fire a green ray at your target. 
+
+Make a spell attack. 
+
+//On a hit, // you deal 12d10 damage, and the target must attempt a basic [[Fortitude]] save. On a critical hit, treat the save result as one degree worse. 
+
+A creature reduced to 0 HP is reduced to fine powder; its gear remains.
+
+An object you hit is destroyed (no save), regardless of Hardness, unless it’s an artifact or similarly hard to destroy.
+
+A single casting can destroy no more than a 10-foot cube of matter. 
+
+This automatically destroys any force construct, such as a [[Wall of Force]].
+
+''Heightened (+1)'' The damage increases by 2d10.

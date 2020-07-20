@@ -13,9 +13,9 @@ m-save: Will
 m-targets: 
 m-time: 
 mod-attack: -1 status for the duration on a failed save.
-modified: 20200719201822068
+modified: 20200720221121049
 s-crit: The creature is unaffected.
-s-fail: Any [[Emotion]] effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by calm emotions.
+s-fail: Any [[Emotion]] effects that would affect the creature are suppressed and the creature can't use [[Hostile Action]]s. If the target is subject to hostility from any other creature, it ceases to be affected by calm emotions.
 s-fumble: As failure, but hostility doesn’t end the effect.
 s-hit: Calming urges impose a -1 status penalty to the creature's attack rolls.
 tags: Emotion Incapacitation Mental Divine Occult Spell Somatic Verbal Manipulate Concentrate Enchantment

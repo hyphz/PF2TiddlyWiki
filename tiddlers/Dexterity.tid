@@ -1,5 +1,10 @@
 created: 20200627192509753
-modified: 20200630145544325
+mod-ac: Used to calculate base AC.
+mod-acrobatics: Key ability for this skill.
+mod-reflex: Key ability for this save.
+mod-stealth: Key ability for this skill.
+mod-thievery: Key ability for this skill.
+modified: 20200720215047313
 tags: [[Ability Score]]
 title: Dexterity
 type: text/vnd.tiddlywiki

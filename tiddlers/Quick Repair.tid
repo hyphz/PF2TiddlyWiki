@@ -2,7 +2,8 @@ created: 20200702144309131
 feat-level: 1
 feat-skill: Crafting
 feat-spre: T
-modified: 20200702144406745
+mod-repair: Reduces the time taken to repair.
+modified: 20200720220835828
 tags: Feat General Skill
 title: Quick Repair
 type: text/vnd.tiddlywiki

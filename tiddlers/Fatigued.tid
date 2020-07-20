@@ -1,5 +1,8 @@
 created: 20200626163608455
-modified: 20200718214053799
+mod-fortitude: Gives -1 status to saves.
+mod-reflex: Gives -1 status to saves.
+mod-will: Gives -1 status to saves.
+modified: 20200720214828500
 tags: Condition
 title: Fatigued
 type: text/vnd.tiddlywiki

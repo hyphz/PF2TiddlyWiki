@@ -463,13 +463,29 @@ Error message and password prompt
 
 <li>Crisis of Faith</li>
 
+<li>Crusade</li>
+
+<li>Crushing Despair</li>
+
+<li>Dancing Lights</li>
+
+<li>Darkness</li>
+
 <li>Darkvision</li>
+
+<li>Daze</li>
 
 <li>Dazzled</li>
 
 <li>Deadly</li>
 
 <li>Deafened</li>
+
+<li>Deafness</li>
+
+<li>Death Knell</li>
+
+<li>Death Ward</li>
 
 <li>Debilitation</li>
 
@@ -485,19 +501,43 @@ Error message and password prompt
 
 <li>Demoralize</li>
 
-<li>Detect Magic (Activity)</li>
+<li>Detect Alignment</li>
+
+<li>Detect Magic</li>
+
+<li>Detect Poison</li>
+
+<li>Detect Scrying</li>
 
 <li>Dexterity</li>
 
 <li>Diehard</li>
 
+<li>Dimension Door</li>
+
+<li>Dimensional Anchor</li>
+
+<li>Dimensional Lock</li>
+
+<li>Dinosaur Form</li>
+
 <li>Diplomacy</li>
 
 <li>Disable a Device</li>
 
+<li>Disappearance</li>
+
 <li>Disarm</li>
 
+<li>Discern Lies</li>
+
+<li>Discern Location</li>
+
 <li>Disease</li>
+
+<li>Disintegrate</li>
+
+<li>Disjunction</li>
 
 <li>Dismiss</li>
 
@@ -677,6 +717,10 @@ Error message and password prompt
 
 <li>Indifferent</li>
 
+<li>InheritModTest</li>
+
+<li>InheritModTest1</li>
+
 <li>Intelligence</li>
 
 <li>Interact</li>
@@ -812,6 +856,8 @@ Error message and password prompt
 <li>Paralyzed</li>
 
 <li>Parry</li>
+
+<li>Perception</li>
 
 <li>Perform</li>
 
@@ -1068,6 +1114,8 @@ Error message and password prompt
 <li>Toggle Animal Vision</li>
 
 <li>Torch</li>
+
+<li>TorchLight</li>
 
 <li>Toughness</li>
 
@@ -10856,7 +10904,7 @@ You can add only one additive to a single alchemical item, and attempting to add
 You can typically use actions with the additive trait only when you’re creating an infused alchemical item, and some can be used only with the [[Quick Alchemy]] action. 
 </pre>
 </div>
-<div a-fumble="If you were trying to stabilize, the creature’s dying value increases by 1. If you were trying to stop bleeding, it immediately takes an amount of damage equal to its persistent bleed damage." a-hit="If you’re trying to stabilize, the creature loses the dying condition (but remains [[Unconscious]]). If you’re trying to stop bleeding, the creature attempts a flat check to end the bleeding." a-skill="Medicine" a-tool="Healer's Tools" created="20200706221852974" modified="20200706222106543" tags="Action Untrained Manipulate" title="Administer First Aid" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-fumble="If you were trying to stabilize, the creature’s dying value increases by 1. If you were trying to stop bleeding, it immediately takes an amount of damage equal to its persistent bleed damage." a-hit="If you’re trying to stabilize, the creature loses the dying condition (but remains [[Unconscious]]). If you’re trying to stop bleeding, the creature attempts a flat check to end the bleeding." a-skill="Medicine" a-tool="Healer's Tools" created="20200706221852974" modified="20200720215928645" modified-by="Medicine" tags="Action Untrained Manipulate" title="Administer First Aid" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' You have [[Healer’s Tools]].
 
 You perform first aid on an adjacent creature that is [[Dying]] or bleeding //(has [[Persistent Damage]] with type &quot;bleed&quot;)//. 
@@ -10997,7 +11045,7 @@ A creature aware of the alarm must succeed at a Stealth check against the spell�
 
 ''Heightened (3rd)'' You can specify criteria for which creatures sound the alarm spell—for instance, orcs or masked people.</pre>
 </div>
-<div created="20200629193449821" feat-level="1" feat-skill="Crafting" feat-spre="T" modified="20200630150139483" tags="General Skill Feat" title="Alchemical Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200629193449821" feat-level="1" feat-skill="Crafting" feat-spre="T" mod-craft="Can craft alchemical items." modified="20200720220549560" tags="General Skill Feat" title="Alchemical Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Crafting]].
 
 You can use the [[Craft]] activity to create [[Alchemical]] items. 
@@ -11014,12 +11062,12 @@ Like other familiars, your alchemical familiar assists you in your laboratory an
 
 The [[Familiar]] uses your [[Intelligence]] modifier to determine its [[Perception]], [[Acrobatics]], and [[Stealth]] modifiers.</pre>
 </div>
-<div created="20200706235343626" feat-class="Alchemist" feat-level="1" feat-skill="Crafting" feat-spre="T" modified="20200706235455898" tags="Feat Ability Class Alchemist" title="Alchemical Savant" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200706235343626" feat-class="Alchemist" feat-level="1" feat-skill="Crafting" feat-spre="T" mod-identify_alchemy="Allows identification as a single action." modified="20200720220657587" tags="Feat Ability Class Alchemist" title="Alchemical Savant" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Crafting]].
 
 You can identify alchemical items quickly. 
 
-When using the [[Crafting]] skill to [[Identify Alchemy]] on an alchemical item you hold, you can do so as a single action, which has the [[Concentrate]] and [[Manipulate]] traits, instead of spending 10 minutes. 
+When using the [[Crafting]] skill to [[Identify Alchemy]] on an alchemical item you hold, you can do so as a single action, which has the &lt;&lt;tag Concentrate&gt;&gt;and &lt;&lt;tag Manipulate&gt;&gt;traits, instead of spending 10 minutes. 
 
 If you have the formula for the item you are attempting to identify, you gain a +2 circumstance bonus to your check, and if you roll a critical failure, you get a failure instead.</pre>
 </div>
@@ -11183,7 +11231,7 @@ The monster moves up to its swim Speed + 10 feet toward the triggering creature,
 Once the creature is in reach, the monster makes a [[Strike]] against it. The creature is [[Flat-Footed]] against this Strike.
 </pre>
 </div>
-<div created="20200630093249875" modified="20200712162400650" skill-stat="Intelligence" tags="Skill" title="Arcana" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200630093249875" modified="20200720220215647" skill-stat="Intelligence" tags="Skill" title="Arcana" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Key Ability'' [[Intelligence]].
 
 Arcana measures how much you know about arcane magic and creatures.
@@ -11271,7 +11319,7 @@ Athletics allows you to perform deeds of physical prowess. When you use the [[Es
 {{||SkillFeatList}}
 </pre>
 </div>
-<div a-skill="Crafting" created="20200706233547896" modified="20200706233618073" tags="Action Implied Exploration" title="Attach a Weapon" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-skill="Crafting" created="20200706233547896" modified="20200720220520425" modified-by="Crafting" tags="Action Implied Exploration" title="Attach a Weapon" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>An attached weapon can be affixed to an item with 10 minutes of work and a successful DC 10 Crafting check; this includes the time needed to remove the weapon from a previous item, if necessary. </pre>
 </div>
 <div created="20200706233504064" modified="20200706233542026" tags="[[Weapon Trait]]" title="Attached" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -11597,7 +11645,7 @@ Once per turn, starting the turn after you cast bless, you can use [[a single ac
 Bless can [[Counteract]] [[Bane]].
 </pre>
 </div>
-<div created="20200626162250604" modified="20200626162529250" tags="Condition" title="Blinded" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626162250604" modified="20200720205012476" tags="Condition" title="Blinded" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can’t see. 
 
 All normal terrain is [[Difficult Terrain]] to you. 
@@ -11606,7 +11654,7 @@ You can’t detect anything using vision.
 
 You automatically critically fail [[Perception]] checks that require you to be able to see, and if vision is your only precise sense, you take a –4 status penalty to [[Perception]] checks. 
 
-You are immune to [[Visual]] effects. 
+You are immune to &lt;&lt;tag Visual&gt;&gt;effects. 
 
 Blinded overrides [[Dazzled]].</pre>
 </div>
@@ -11747,7 +11795,7 @@ You can’t burrow through rock or other substances denser than dirt unless you 
 
 For instance, when you cast fireball, it detonates at the corner of a square within 500 feet of you and creates a 20-foot burst, meaning it extends out 20 feet in every direction from the corner of the square you chose, affecting each creature whose space (or even one square of its space) is within the burst.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719200630727" m-area="10 foot [[Burst]]" m-components="Somatic, Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 1 minute" m-level="2" m-range="120 feet" m-save="Will" m-targets="" m-time="" mod-attack="-1 status for the duration on a failed save." modified="20200719201822068" s-crit="The creature is unaffected." s-fail="Any [[Emotion]] effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by calm emotions." s-fumble="As failure, but hostility doesn’t end the effect." s-hit="Calming urges impose a -1 status penalty to the creature's attack rolls." tags="Emotion Incapacitation Mental Divine Occult Spell Somatic Verbal Manipulate Concentrate Enchantment" title="Calm Emotions" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719200630727" m-area="10 foot [[Burst]]" m-components="Somatic, Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 1 minute" m-level="2" m-range="120 feet" m-save="Will" m-targets="" m-time="" mod-attack="-1 status for the duration on a failed save." modified="20200720221121049" s-crit="The creature is unaffected." s-fail="Any [[Emotion]] effects that would affect the creature are suppressed and the creature can't use [[Hostile Action]]s. If the target is subject to hostility from any other creature, it ceases to be affected by calm emotions." s-fumble="As failure, but hostility doesn’t end the effect." s-hit="Calming urges impose a -1 status penalty to the creature's attack rolls." tags="Emotion Incapacitation Mental Divine Occult Spell Somatic Verbal Manipulate Concentrate Enchantment" title="Calm Emotions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You forcibly calm creatures in the area, soothing them into a nonviolent state; each creature must attempt a [[Will]] save.
@@ -11996,7 +12044,7 @@ You create an invisible floating eye at a location within range (even if it’s 
 
 The eye can’t move, but you can see in all directions from that point as if using your normal visual senses.</pre>
 </div>
-<div a-actions="1" a-crit="You move up, across, or safely down the incline for 5 feet plus 5 feet per 20 feet of your land Speed (a total of 10 feet for most PCs)." a-fumble="You fall. If you began the climb on stable ground, you fall and land [[Prone]]." a-hands="2" a-hit="You move up, across, or safely down the incline for 5 feet per 20 feet of your land Speed (a total of 5 feet for most PCs, minimum 5 feet if your Speed is below 20 feet)." a-skill="Athletics" created="20200702221839493" modified="20200706215849127" tags="Action Move Untrained" title="Climb" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" a-crit="You move up, across, or safely down the incline for 5 feet plus 5 feet per 20 feet of your land Speed (a total of 10 feet for most PCs)." a-fumble="You fall. If you began the climb on stable ground, you fall and land [[Prone]]." a-hands="2" a-hit="You move up, across, or safely down the incline for 5 feet per 20 feet of your land Speed (a total of 5 feet for most PCs, minimum 5 feet if your Speed is below 20 feet)." a-skill="Athletics" created="20200702221839493" modified="20200720214057082" modified-by="Athletics" tags="Action Move Untrained" title="Climb" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' You have both hands free //(or just one hand if you have [[Combat Climber]])//.
 
 You move up, down, or across an incline. Unless it’s particularly easy, you must attempt an [[Athletics]] check. The GM determines the DC based on the nature of the incline and environmental circumstances. You’re [[Flat-Footed]] unless you have a climb Speed //or [[Combat Climber]]//.
@@ -12047,7 +12095,7 @@ You can [[Dismiss]] the spell.
 ''Heightened (+1)'' The damage increases by 1d8.
 </pre>
 </div>
-<div created="20200626162537396" modified="20200626162605825" tags="Condition" title="Clumsy" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626162537396" mod-dexterity="Gives status penalty to Dexterity equal to condition value." modified="20200720215112768" tags="Condition" title="Clumsy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Your movements become clumsy and inexact. 
 
 Clumsy always includes a value. You take a status penalty equal to the condition value to [[Dexterity]]-based checks and DCs, including [[AC]], [[Reflex]] saves, ranged attack rolls, and skill checks using [[Acrobatics]], [[Stealth]], and [[Thievery]].</pre>
@@ -12271,7 +12319,7 @@ The GM decides the DC based on the difficulty of the favor and the figure’s pr
 
 If a constant spell gets [[Counteract]]ed, the monster can reactivate it by spending the normal spellcasting actions the spell requires.</pre>
 </div>
-<div created="20200627192553249" modified="20200630150035673" tags="[[Ability Score]]" title="Constitution" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200627192553249" mod-fortitude="Key ability for this save." mod-hitpoints="Affects level based hit point modifier." modified="20200720214548312" tags="[[Ability Score]]" title="Constitution" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Constitution measures your character’s overall health and stamina. 
 
 Constitution is an important statistic for all characters, especially those who fight in close combat.
@@ -12316,10 +12364,10 @@ If you cast contingency again, the newer casting supersedes the older.
 
 ''Heightened (10th)'' You can choose a spell of 7th level or lower.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719212332943" m-area="" m-components="Material Somatic Verbal" m-duration="Unlimited" m-level="2" m-range="Touch" m-save="" m-targets="" m-time="" modified="20200719212815908" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Evocation Light Spell Arcane Divine Occult Primal Material Somatic Verbal" title="Continual Flame" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719212332943" m-area="" m-components="Material Somatic Verbal" m-duration="Unlimited" m-level="2" m-range="Touch" m-save="" m-targets="" m-time="" modified="20200720202754410" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Evocation Light Spell Arcane Divine Occult Primal Material Somatic Verbal" title="Continual Flame" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
-A magical flame springs up from the object, as bright as a [[Torch]]. {{Torch}}
+A magical flame springs up from the object, as bright as a [[Torch]]. {{TorchLight}}
  
 
 It doesn’t need oxygen, react to water, or generate heat.
@@ -12433,7 +12481,7 @@ You don't need to attempt a [[Survival]] check to cover your tracks, but anyone 
 
 In some cases, you might Cover Tracks in an encounter. In this case, Cover Tracks is a single action and doesn’t have the exploration trait.</pre>
 </div>
-<div a-crit="Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amount based on your level + 1 and your proficiency rank in Crafting." a-fail="You fail to complete the item. You can salvage the raw materials you supplied for their full value. If you want to try again, you must start over." a-fumble="You fail to complete the item. You ruin 10% of the raw materials you supplied, but you can salvage the rest. If you want to try again, you must start over." a-hit="Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amount based on your level and your proficiency rank." a-skill="Crafting" created="20200705230159620" modified="20200705230548909" tags="Action Exploration Manipulate" title="Craft" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amount based on your level + 1 and your proficiency rank in Crafting." a-fail="You fail to complete the item. You can salvage the raw materials you supplied for their full value. If you want to try again, you must start over." a-fumble="You fail to complete the item. You ruin 10% of the raw materials you supplied, but you can salvage the rest. If you want to try again, you must start over." a-hit="Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amount based on your level and your proficiency rank." a-skill="Crafting" created="20200705230159620" modified="20200720220614634" modified-by="Crafting" tags="Action Exploration Manipulate" title="Craft" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can make an item from raw materials. 
 
 You need the [[Alchemical Crafting]] skill feat to create alchemical items, the [[Magical Crafting]] skill feat to create magic items, and the [[Snare Crafting]] feat to create snares.
@@ -12474,7 +12522,7 @@ The only exceptions are requirements that add to the item’s cost, including ca
 
 The GM decides whether you can ignore a requirement.</pre>
 </div>
-<div created="20200630143030975" modified="20200704181242282" skill-stat="Intelligence" tags="Skill" title="Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200630143030975" modified="20200720220228376" skill-stat="Intelligence" tags="Skill" title="Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Key Ability'' [[Intelligence]].
 
 You can use this skill to create, understand, and repair items.
@@ -12570,7 +12618,7 @@ It is obviously temporarily conjured, and thus can’t be sold or passed off as 
 ''Heightened (5th)'' The item is metal and can include &lt;&lt;tag Common&gt;&gt;minerals, like feldspar or quartz.
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719214253900" m-area="" m-components="Somatic Verbal" m-duration="" m-level="3" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" modified="20200719214537249" s-crit="The target is unaffected." s-fail="The target takes full damage; if the target can cast divine spells, it's [[Stupefied]] 1 for 1 round." s-fumble="The target takes double damage, is [[Stupefied]] 1 for 1 round, and can't cast divine spells for 1 round." s-hit="The target takes half damage." tags="Enchantment Mental Spell Divine Somatic Verbal Manipulate Concentrate" title="Crisis of Faith" turn-eun="Target's stupefaction and blocked casting wear off." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719214253900" m-area="" m-components="Somatic Verbal" m-duration="" m-level="3" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" mod-cast_a_spell="Can shut down casting of Divine spells." modified="20200720221015563" s-crit="The target is unaffected." s-fail="The target takes full damage; if the target can cast divine spells, it's [[Stupefied]] 1 for 1 round." s-fumble="The target takes double damage, is [[Stupefied]] 1 for 1 round, and can't cast divine spells for 1 round." s-hit="The target takes half damage." tags="Enchantment Mental Spell Divine Somatic Verbal Manipulate Concentrate" title="Crisis of Faith" turn-eun="Target's stupefaction and blocked casting wear off." type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 You assault the target’s faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. 
 
@@ -12583,13 +12631,92 @@ To many deities, casting this spell on a follower of your own deity without sign
 {{||SaveSuccessTable}}
 </pre>
 </div>
-<div created="20200627194511500" modified="20200627202136604" tags="Ability Sense" title="Darkvision" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720201926217" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="9" m-range="60 feet" m-save="Will" m-targets="Up to 4 creatures" m-time="" modified="20200720202150476" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Uncommon Enchantment Linguistic Mental Divine Somatic Verbal Manipulate Concentrate" title="Crusade" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You issue a divine mandate to the targets. 
+
+You pronounce a cause. It can be to attain an item, claim a patch of land, slay a creature, war with a group, or be entirely peaceful.
+
+Your cause can’t force the targets to harm one another or themselves. 
+
+The targets become completely dedicated to that cause, depending on their levels. They choose their own actions, but they favor direct action over inaction or indirect action.
+
+* ''13th or Lower'' The target is so dedicated to the cause that it pursues the cause to the death (unless you say otherwise).
+* ''14th'' The target is dedicated to the cause, but the spell ends for the target if it’s reduced to half its maximum Hit Points or fewer. 
+* ''15th'' As 14th, plus the target can attempt a [[Will]] save at the end of each of its turns to end the spell for itself.
+
+The spell ends for all creatures if you or one of your allies uses a hostile action against a target, or when the cause is completed. 
+
+The GM might determine this spell has alignment traits befitting the cause.
+
+''Heightened (10th)'' The level for each category increases by 2.
+
+// The meaning of the 10 minute duration is not clear. //</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720202204946" m-area="30 foot [[Cone]]" m-components="Somatic Verbal" m-duration="1 or more rounds" m-level="5" m-range="" m-save="Will" m-targets="" m-time="" modified="20200720202428859" s-crit="The creature is unaffected." s-fail="As success, but the //duration for which the target must make saves to avoid being slowed 1// is 1 minute." s-fumble="As failure, and the creature is automatically slowed 1 for 1 minute." s-hit="For 1 round, the creature can't use reactions and must attempt another save at the start of its turn; on a failure, it is [[Slowed]] 1 for that turn as it sobs uncontrollably." tags="Spell Emotion Enchantment Mental Arcane Occult Somatic Verbal Manipulate Concentrate" title="Crushing Despair" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You inflict despair on creatures in the area. 
+
+The effects for each creature are determined by its [[Will]] save.
+
+''Heightened (7th)'' The area increases to a 60-foot cone.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720202532890" m-area="" m-components="Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]]" m-level="" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200720202732046" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Cantrip Evocation Light Spell Arcane Occult Primal Somatic Verbal Manipulate Concentrate" title="Dancing Lights" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create up to four floating lights, no two of which are more than 10 feet apart. 
+
+Each sheds light like a [[Torch]]. {{TorchLight}}
+
+When you [[Sustain the Spell|Sustain a Spell]], you can move any number of lights up to 60
+feet. Each light must remain within 120 feet of you and within 10 feet of all others, or it winks out.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720203005199" m-area="20 foot [[Burst]]" m-components="Material Somatic Verbal" m-duration="1 minute" m-level="2" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200720203220935" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Darkness Evocation Spell Arcane Divine Occult Primal Material Somatic Verbal Concentrate Manipulate" title="Darkness" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create a shroud of darkness that prevents light from penetrating or emanating within the area. 
+
+Light does not enter the area and any non-magical light sources, such as a [[Torch]] or [[Lantern]], do not emanate any light while inside the area, even if their light radius would extend beyond the darkness.
+
+This also suppresses magical light of your darkness spell’s level or lower. Light can’t pass through, so creatures in the area can’t see outside. From outside, it appears as a globe of pure darkness.
+
+''Heightened (4th)'' Even creatures with [[Darkvision]] (but not [[Greater Darkvision]]) can barely see through the darkness. They treat targets seen through the darkness as [[Concealed]].
+
+</pre>
+</div>
+<div created="20200627194511500" m-components="Somatic Verbal" m-duration="1 hour" m-level="2" m-targets="You" modified="20200720203729364" tags="Ability Sense Spell Divination Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate" title="Darkvision" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A creature with darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. 
 
 Some forms of magical darkness, such as a 4th-level [[Darkness]] spell, block normal darkvision. 
 
 A creature with [[Greater Darkvision]], however, can see through even these forms of magical darkness.
-</pre>
+
+!! Spell
+
+{{||SpellSummaryTable}}
+
+The Darkvision spell grants you darkvision for the duration.
+
+''Heightened (3rd)'' The spell’s range is touch and it targets 1 willing creature.
+
+''Heightened (5th)'' The spell’s range is touch and it targets 1 willing creature. The duration is until the next time you make your [[daily preparations|Rest]].</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720204550121" m-area="" m-components="Somatic Verbal" m-duration="1 round" m-level="1" m-range="60 feet" m-save="Will" m-targets="1 creature" m-time="" modified="20200720204703689" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Cantrip Spell Enchantment Mental Nonlethal Arcane Divine Occult Somatic Verbal Manipulate Concentrate" title="Daze" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You cloud the target’s mind and daze it with a mental jolt.
+
+The jolt deals mental damage equal to your spellcasting ability modifier; the target must attempt a basic [[Will]] save. 
+
+If the target critically fails the save, it is also [[Stunned]] 1.
+
+''Heightened (+2)'' The damage increases by 1d6.</pre>
 </div>
 <div created="20200626162846731" modified="20200626162907292" tags="Condition" title="Dazzled" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Your eyes are overstimulated. 
@@ -12607,19 +12734,51 @@ For instance, a rapier with a greater striking rune deals 2d8 extra piercing dam
 
 An ability that changes the size of the weapon’s normal damage dice doesn’t change the size of its deadly die.</pre>
 </div>
-<div created="20200626162919189" modified="20200702150641649" tags="Condition" title="Deafened" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626162919189" modified="20200720204739250" tags="Condition" title="Deafened" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can’t hear. 
 
 You automatically critically fail [[Perception]] checks that require you to be able to hear. 
 
 You take a –2 status penalty to [[Perception]] checks for [[Initiative]] and checks that involve sound but also rely on other senses. 
 
-If you perform an action with the [[Auditory]] trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. 
+If you perform an action with the &lt;&lt;tag Auditory&gt;&gt;trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. 
 
-You are immune to [[Auditory]] effects.
+You are immune to &lt;&lt;tag Auditory&gt;&gt;effects.
 
 //You could use [[Read Lips]] or [[Sign Language]] to communicate with others while deafened.//
 </pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720205151494" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="30 feet" m-save="Fortitude" m-targets="1 creature" m-time="" modified="20200720205404628" s-crit="The target is unaffected." s-fail="The target is [[Deafened]] for 10 minutes." s-fumble="The target is [[Deafened]] permanently." s-hit="The target is [[Deafened]] for 1 round." tags="Necromancy Spell Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate" title="Deafness" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+The target loses hearing.
+
+It must attempt a [[Fortitude]] save. 
+
+The target is then temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720205422901" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="Touch" m-save="Will" m-targets="1 living creature that has 0 HP" m-time="" modified="20200720205545085" s-crit="The target is unaffected." s-fail="The target dies." s-fumble="" s-hit="The target's [[Dying]] value increases by 1." tags="Attack Death Necromancy Spell Divine Occult Somatic Verbal Manipulate Concentrate" title="Death Knell" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You snuff the life out of a creature on the brink of death. 
+
+The target must attempt a [[Will]] save. 
+
+If this spell kills it, you gain 10 temporary HP and a +1 status bonus to attack and damage rolls
+for 10 minutes.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720205604938" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="5" m-range="Touch" m-save="" m-targets="1 living creature touched" m-time="" modified="20200720205709009" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Abjuration Divine Occult Primal Spell Somatic Verbal Manipulate Concentrate" title="Death Ward" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shield a creature from the ravages of negative energy.
+
+It receives a +4 status bonus to saves against &lt;&lt;tag Death&gt;&gt;and &lt;&lt;tag Negative&gt;&gt;effects, gains negative resistance 10, and suppresses the effects of the [[Doomed]] condition.</pre>
 </div>
 <div created="20200627223123487" modified="20200627223139673" tags="Trait" title="Debilitation" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Debilitations apply conditions and other negative effects to a creature. When the creature is affected by a new debilitation, any previous one it was affected by ends.</pre>
@@ -12635,7 +12794,7 @@ You can trick and mislead others using disguises, lies, and other forms of subte
 
 </pre>
 </div>
-<div a-crit="You understand the true meaning of the text." a-fail="You can’t understand the text and take a –2 circumstance penalty to further checks to decipher it." a-fumble="You believe you understand the text on that page, but you have in fact misconstrued its message." a-hit="You understand the true meaning of the text. If it was a coded document, you know the general meaning but might not have a word-for-word translation." a-skill="Arcana Occultism Religion Society" created="20200702212523758" modified="20200712162857832" tags="Action Exploration Secret Concentrate Trained" title="Decipher Writing" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="You understand the true meaning of the text." a-fail="You can’t understand the text and take a –2 circumstance penalty to further checks to decipher it." a-fumble="You believe you understand the text on that page, but you have in fact misconstrued its message." a-hit="You understand the true meaning of the text. If it was a coded document, you know the general meaning but might not have a word-for-word translation." a-skill="Arcana Occultism Religion Society" created="20200702212523758" modified="20200720220428256" modified-by="Arcana Occultism Religion Society" tags="Action Exploration Secret Concentrate Trained" title="Decipher Writing" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You attempt to decipher complicated writing or literature on an obscure topic. 
 
 This usually takes 1 minute per page of text, but might take longer (typically an hour per page for decrypting ciphers or the like). 
@@ -12691,14 +12850,79 @@ Regardless of your result, the target is temporarily immune to your attempts to 
 
 {{||ActionSuccessTable}}</pre>
 </div>
-<div created="20200718213532103" modified="20200718213612330" tags="Activity Exploration Concentrate" title="Detect Magic (Activity)" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>You cast [[Detect Magic]] at regular intervals. 
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720205748335" m-area="30 foot [[Emanation]]" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="" m-save="" m-targets="" m-time="" modified="20200720210221941" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Detection Divination Divine Occult Somatic Verbal Spell Manipulate Concentrate" title="Detect Alignment" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Your eyes glow as you sense aligned auras. 
+
+Choose &lt;&lt;tag Chaotic&gt;&gt;, &lt;&lt;tag Evil&gt;&gt;, &lt;&lt;tag Good&gt;&gt;, or &lt;&lt;tag Lawful&gt;&gt;. You detect auras of that alignment. 
+
+You receive no information beyond presence or absence. 
+
+You can choose not to detect creatures or effects you’re aware have that alignment.
+
+Only creatures of 6th level or higher—unless divine spellcasters, &lt;&lt;tag Undead&gt;&gt;, or beings from the Outer Sphere—have alignment auras.
+
+''Heightened (2nd)'' You learn each aura’s location and strength.
+
+The strength of an alignment aura depends on the level of the creature, item, or spell. 
+
+The auras of undead, clerics and other divine spellcasters with a patron deity, and creatures from the Outer Sphere are one step stronger than normal (faint instead of none, for example).
+
+|!Creature or Item Level|!Spell or Effect Level|!Aura Strength|
+|0–5|—|None|
+|6–10|0–3|Faint|
+|11–15|4–7|Moderate|
+|16–20|8–9|Powerful|
+|21+|10|Overwhelming|
+
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720210341804" m-area="30 foot [[Emanation]]" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="" m-save="" m-targets="" m-time="" modified="20200720210625947" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Cantrip Spell Detection Divination Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate Activity Exploration" title="Detect Magic" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You send out a pulse that registers the presence of magic.
+
+You receive no information beyond the presence or absence of magic.
+
+You can choose to ignore magic you’re fully aware of, such as the magic items and ongoing spells of you and your allies.
+
+You detect &lt;&lt;tag Illusion&gt;&gt;magic only if that magic’s effect has a lower level than the level of your detect magic spell. However, items that have an illusion aura but aren’t deceptive in appearance (such as an invisibility potion) typically are detected normally.
+
+When used as an exploration activity, you cast [[Detect Magic]] at regular intervals. 
 
 You move at half your travel speed or slower. 
 
-You have no chance of accidentally overlooking a magic aura at a travel speed up to 300 feet per minute, but must be traveling no more than 150 feet per minute to detect magic auras before the party moves into them.</pre>
+You have no chance of accidentally overlooking a magic aura at a travel speed up to 300 feet per minute, but must be traveling no more than 150 feet per minute to detect magic auras before the party moves into them.
+
+''Heightened (3rd)'' You learn the school of magic for the highest level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.
+
+''Heightened (4th)'' As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don’t learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).
+</pre>
 </div>
-<div created="20200627192509753" modified="20200630145544325" tags="[[Ability Score]]" title="Dexterity" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720210652289" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="30 feet" m-save="" m-targets="1 object or creature" m-time="" modified="20200720210815048" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Detection Divination Spell Divine Primal Somatic Verbal Manipulate Concentrate" title="Detect Poison" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You detect whether a creature is venomous or poisonous, or if an object is poison or has been poisoned. 
+
+You do not ascertain whether the target is poisonous in multiple ways, nor do you learn the type or types of poison. 
+
+Certain //common// substances, like lead and alcohol, are //technically// poisons and so mask other poisons.
+
+''Heightened (2nd)'' You learn the number and types of poison.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720211124061" m-area="30 foot [[Emanation]]" m-components="Somatic Verbal" m-duration="1 hour" m-level="4" m-range="" m-save="" m-targets="" m-time="" modified="20200720211243835" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Detection Divination Spell Arcane Occult Somatic Verbal Manipulate Concentrate" title="Detect Scrying" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+By tapping into trace divinatory auras, you detect the presence of &lt;&lt;tag Scrying&gt;&gt;effects in the area. 
+
+If detect scrying is higher level than a scrying effect, you gain a glimpse of the scrying creature and learn its approximate distance and direction.
+
+''Heightened (6th)'' The duration is until the next time you make your [[daily preparations|Rest]].
+
+</pre>
+</div>
+<div created="20200627192509753" mod-ac="Used to calculate base AC." mod-acrobatics="Key ability for this skill." mod-reflex="Key ability for this save." mod-stealth="Key ability for this skill." mod-thievery="Key ability for this skill." modified="20200720215047313" tags="[[Ability Score]]" title="Dexterity" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Dexterity measures your character’s agility, balance, and reflexes. 
 
 Dexterity is important if your character plans to make attacks with ranged weapons or use [[Stealth]] to surprise foes. 
@@ -12716,6 +12940,75 @@ Your Dexterity modifier is also added to your character’s [[AC]] and [[Reflex]
 <pre>It takes more to kill you than most. 
 
 You die from the [[Dying]] condition at dying 5, rather than dying 4.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720211358454" m-area="" m-components="Somatic Verbal" m-duration="" m-level="4" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200720211500454" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Conjuration Teleportation Arcane Occult Somatic Verbal Spell Manipulate Concentrate" title="Dimension Door" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Opening a door that bypasses normal space, you instantly transport yourself and any items you’re wearing and holding from your current space to a clear space within range you can
+see. 
+
+If this would bring another creature with you—even if you’re carrying it in an extradimensional container—the spell is lost.
+
+''Heightened (5th)'' The range increases to 1 mile. You don’t need to be able to see your destination, as long as you have been there in the past and know its relative location and distance from you. You are temporarily immune for 1 hour.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720211530976" m-area="" m-components="Somatic Verbal" m-duration="Varies" m-level="4" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" modified="20200720211834494" s-crit="The target is unaffected." s-fail="The effect's duration is 10 minutes." s-fumble="The effect's duration is 1 hour." s-hit="The effect's duration is 1 minute." tags="Abjuration Spell Arcane Divine Occult Somatic Verbal Manipulate Concentrate" title="Dimensional Anchor" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You interfere with the target’s ability to teleport and travel between dimensions. 
+
+Dimensional anchor attempts to [[Counteract]] any &lt;&lt;tag Teleportation&gt;&gt; effect, or any effect that would move the target to a different plane. 
+
+The duration is determined by the target’s Will save.
+
+{{||SaveSuccessTable}}
+
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720211958246" m-area="60 foot [[Burst]]" m-components="Somatic Verbal" m-duration="1 day" m-level="7" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200720212207294" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Abjuration Arcane Divine Occult Somatic Verbal Manipulate Concentrate Spell" title="Dimensional Lock" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create a shimmering barrier that attempts to [[Counteract]] &lt;&lt;tag Teleportation&gt;&gt;effects and planar travel into or out of the area, including items that allow access to extradimensional spaces (such as a [[Bag of Holding]]. 
+
+Dimensional lock tries to [[Counteract]] any attempt to &lt;&lt;tag Summon&gt;&gt;a creature into the area but doesn’t stop the creature from departing when the summoning ends.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720212236573" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="4" m-range="" m-save="" m-targets="" m-time="" modified="20200720212958687" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Primal Somatic Verbal Manipulate Concentrate" title="Dinosaur Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You channel the primal forces of nature to transform into a [[Large]] animal battle form, specifically that of a powerful and terrifying dinosaur. 
+
+You must have space to expand or the spell is lost.
+
+When you cast this spell, choose ankylosaurus, brontosaurus, deinonychus, stegosaurus, triceratops, or tyrannosaurus. You can decide the specific type of animal, but this has no effect on the form’s Size or statistics. 
+
+While in this form, you gain the &lt;&lt;tag Animal&gt;&gt; and &lt;&lt;tag Dinosaur&gt;&gt;traits. 
+
+You can [[Dismiss]] the spell.
+
+You gain the following statistics and abilities regardless of which battle form you choose:
+
+* AC = 18 + your level. Ignore your armor’s check penalty and Speed reduction.
+* 15 temporary Hit Points.
+* [[Low-Light Vision]] and [[Imprecise]] [[Scent]] 30 feet.
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +16, and your damage bonus is +9. These attacks are [[Strength]] based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+* [[Athletics]] modifier of +18, unless your own modifier is higher.
+
+You also gain specific abilities based on the form you choose:
+
+* ''Ankylosaurus'' Speed 25 feet; Melee [one-action] tail ([[Backswing]], reach 10 feet), Damage 2d6 bludgeoning; Melee [one-action] foot, Damage 2d6 bludgeoning. //These are the ones that look like giant armadilloes.//
+* ''Brontosaurus'' Speed 25 feet; Melee [one-action] tail (reach 15 feet), Damage 2d6 bludgeoning; Melee [one-action] foot, Damage 2d8 bludgeoning. //These are the big smooth vegetarian ones.//
+* ''Deinonychus'' Speed 40 feet; Melee [one-action] talon ([[Agile]]), Damage 2d4 piercing plus 1 persistent bleed; Melee [one-action] jaws, Damage 1d10 piercing. //These look a bit like the velociraptors out of that movie.//
+* ''Stegosaurus'' Speed 30 feet; Melee [one-action] tail (reach 10 feet), Damage 2d8 piercing. //These are the ones with the big spikes down their backs.//
+* ''Triceratops'' Speed 30 feet; Melee [one-action] horn, Damage 2d8 piercing, plus 1d6  persistent bleed on a critical hit; Melee [one-action] foot, Damage 2d6 bludgeoning. //These are the ones with the rhino-like flap above their head and big horns.// 
+* ''Tyrannosaurus'' Speed 30 feet; Melee [one-action] jaws ([[Deadly]], reach 10 feet), Damage 1d12 piercing; Melee [one-action] tail (reach 10 feet), Damage 1d10 bludgeoning. //These are the huge ones with tiny little claws. The &quot;Rex&quot; being missing doesn't make any difference.//
+
+''Heightened (5th)'' Your battle form is [[Huge]] and your attacks have 15-foot reach, or 20-foot reach if they started with 15-foot reach. You instead gain 20 temporary HP, an attack modifier of +18, a damage bonus of +6, double the damage dice, and Athletics +21.
+
+''Heightened (7th)'' Your battle form is [[Gargantuan]] and your attacks have 20-foot reach, or 25-foot reach if they started with 15-foot reach. You instead gain AC = 21 + your level, 25 temporary HP, an attack modifier of +25, a damage bonus of +15, double the damage dice, and Athletics +25.
+
+{{BattleFormRestrictions}}
+
+</pre>
 </div>
 <div created="20200630143129523" modified="20200705233053141" skill-stat="Charisma" tags="Skill" title="Diplomacy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Key Ability'' [[Charisma]].
@@ -12740,7 +13033,17 @@ Your [[Thievery]] check result determines how much progress you make. //The DC i
 
 {{||ActionSuccessTable}}</pre>
 </div>
-<div a-actions="1" a-crit="You knock the item out of the opponent’s grasp. It falls to the ground in the opponent’s space." a-defense="Reflex" a-fumble="You lose your balance and become [[Flat-Footed]] until the start of your next turn." a-hands="1" a-hit="You weaken your opponent’s grasp on the item. Until the start of that creature’s turn, attempts to Disarm the opponent of that item gain a +2 circumstance bonus, and the target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item." a-skill="Athletics" created="20200704180305038" modified="20200719162924378" tags="Action Attack Trained [[Weapon Trait]]" title="Disarm" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720221208068" m-area="" m-components="Material Somatic" m-duration="10 minutes" m-level="8" m-range="Touch" m-save="" m-targets="1 creature" m-time="" modified="20200720221325302" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Illusion Spell Arcane Occult Material Somatic Manipulate Concentrate" title="Disappearance" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shroud a creature from others’ senses. 
+
+The target becomes [[Undetected]], not just to sight but to all senses, allowing the target to count as [[Invisible]] no matter what precise and imprecise senses an observer might have. 
+
+It’s still possible for a creature to find the target by [[Seek]]ing, looking for disturbed dust, hearing gaps in the sound spectrum, or finding some other way to discover the presence of an otherwise-undetectable creature.
+</pre>
+</div>
+<div a-actions="1" a-crit="You knock the item out of the opponent’s grasp. It falls to the ground in the opponent’s space." a-defense="Reflex" a-fumble="You lose your balance and become [[Flat-Footed]] until the start of your next turn." a-hands="1" a-hit="You weaken your opponent’s grasp on the item. Until the start of that creature’s turn, attempts to Disarm the opponent of that item gain a +2 circumstance bonus, and the target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item." a-skill="Athletics" created="20200704180305038" modified="20200720214320781" modified-by="Athletics Reflex" tags="Action Attack Trained [[Weapon Trait]]" title="Disarm" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' You have at least one hand free. The target can’t be more than one size larger than you.
 
 You try to knock something out of an opponent’s grasp.
@@ -12757,12 +13060,64 @@ If you critically fail a check to Disarm using the weapon, you can drop the weap
 
 On a critical success, you still need a free hand if you want to take the item.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720221703271" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="4" m-range="" m-save="" m-targets="" m-time="" mod-perception="Gives a circumstance bonus to detect lies." modified="20200720221806958" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Divination Mental Revelation Spell Arcane Divine Occult Somatic Verbal Manipulate Concentrate" title="Discern Lies" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Falsehoods ring in your ears like discordant notes. 
+
+You gain a +4 status bonus to [[Perception]] checks when someone [[Lie]]s.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720221903015" m-area="" m-components="Material Somatic Verbal" m-duration="" m-level="8" m-range="Unlimited" m-save="" m-targets="1 creature or object" m-time="10 minutes" modified="20200720222021609" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Detection Divination Arcane Divine Occult Material Somatic Verbal Spell Manipulate Concentrate" title="Discern Location" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You learn the name of the target’s exact location (including the building, community, and country) and plane of existence.
+
+You can target a creature only if you’ve seen it in person, have one of its significant belongings, or have a piece of its body. 
+
+To target an object, you must have touched it or have a fragment of it. 
+
+Discern location automatically overcomes protections against detection and divination of lower level than this spell, even if they would normally have a chance to block it.
+</pre>
+</div>
 <div created="20200627194631715" modified="20200627194701697" tags="Affliction" title="Disease" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>When a creature is exposed to a monster’s disease, it attempts a [[Fortitude]] save or succumbs to the disease. 
 
 The level of a disease is the level of the monster inflicting the disease. 
 
 The disease follows the rules for [[Affliction]]s.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720222045715" m-area="" m-components="Somatic Verbal" m-duration="" m-level="6" m-range="120 feet" m-save="Fortitude" m-targets="1 creature or unattended object" m-time="" modified="20200720222239913" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Evocation Arcane Somatic Verbal Spell Concentrate Manipulate" title="Disintegrate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You fire a green ray at your target. 
+
+Make a spell attack. 
+
+//On a hit, // you deal 12d10 damage, and the target must attempt a basic [[Fortitude]] save. On a critical hit, treat the save result as one degree worse. 
+
+A creature reduced to 0 HP is reduced to fine powder; its gear remains.
+
+An object you hit is destroyed (no save), regardless of Hardness, unless it’s an artifact or similarly hard to destroy.
+
+A single casting can destroy no more than a 10-foot cube of matter. 
+
+This automatically destroys any force construct, such as a [[Wall of Force]].
+
+''Heightened (+1)'' The damage increases by 2d10.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720222249882" m-area="" m-components="Somatic Verbal" m-duration="" m-level="9" m-range="120 feet" m-save="" m-targets="1 magic item" m-time="" modified="20200720222357480" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Abjuration Arcane Primal Verbal Somatic Spell Concentrate Manipulate" title="Disjunction" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Crackling energy disjoins the target. 
+
+You attempt to [[Counteract]] it. 
+
+If you succeed, it’s deactivated for 1 week. 
+
+On a critical success, it’s destroyed. 
+
+If it’s an artifact or similar item, you automatically fail.</pre>
 </div>
 <div a-actions="1" created="20200706232927451" modified="20200706232949851" tags="Action Concentrate" title="Dismiss" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You end one spell effect or magic item effect. 
@@ -12809,7 +13164,7 @@ When you die, you’re no longer doomed.
 
 Your doomed value decreases by 1 each time you get a full night’s rest.</pre>
 </div>
-<div created="20200626163114597" modified="20200630092658660" tags="Condition" title="Drained" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626163114597" mod-constitution="Reduces Constitution by the condition value." modified="20200720214615195" tags="Condition" title="Drained" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>When a creature successfully drains you of blood or life force, you become less healthy. 
 
 Drained always includes a value. You take a status penalty equal to your drained value on [[Constitution]]-based checks, such as [[Fortitude]] saves. 
@@ -12909,7 +13264,7 @@ Because the sides of a target’s space are used as the starting point for the e
 
 While you’re encumbered, you’re [[Clumsy]] 1 and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can’t reduce your Speed below 5 feet.</pre>
 </div>
-<div created="20200626163359115" modified="20200626163420088" tags="Condition" title="Enfeebled" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626163359115" mod-strength="Reduces Strength by the condition value." modified="20200720213555666" tags="Condition" title="Enfeebled" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You’re physically weakened. 
 
 Enfeebled always includes a value. When you are enfeebled, you take a status penalty equal to the condition value to [[Strength]]-based rolls and DCs, including Strength-based melee attack rolls, Strength-based damage rolls, and [[Athletics]] checks.</pre>
@@ -12948,7 +13303,7 @@ You can select four familiar or master abilities each day, instead of two.
 
 ''Special'' If your arcane thesis is [[Improved Familiar Attunement]], your familiar’s base number of familiar abilities, before adding any extra abilities from the arcane thesis, is four.</pre>
 </div>
-<div a-actions="1" a-crit="You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target. You can then [[Stride]] up to 5 feet." a-fumble="You don’t get free, and you can’t attempt to Escape again until your next turn." a-hit="You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target." created="20200626204324236" modified="20200627182413880" tags="Action Attack" title="Escape" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" a-crit="You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target. You can then [[Stride]] up to 5 feet." a-fumble="You don’t get free, and you can’t attempt to Escape again until your next turn." a-hit="You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target." created="20200626204324236" modified="20200720214952865" modified-by="[[Unarmed Attack]] Athletics Thievery Acrobatics" tags="Action Attack" title="Escape" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You attempt to escape from being [[Grabbed]], [[Immobilized]], or [[Restrained]]. 
 
 Choose one creature, object, spell effect, hazard, or other impediment imposing any of those conditions on you.
@@ -13055,7 +13410,7 @@ If you’re an expert in Performance, you can fascinate up to four observers; if
 <div created="20200627194906541" modified="20200627194919994" tags="Ability" title="Fast Healing" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A monster with this ability regains the given number of [[Hit Points]] each round at the beginning of its turn.</pre>
 </div>
-<div created="20200630092528328" modified="20200630092615709" tags="Feat General" title="Fast Recovery" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200630092528328" mod-disease="Increases the effectiveness of saves." mod-drained="Increases the effectiveness of saves." mod-poison="Increases the effectiveness of saves." modified="20200720214726660" tags="Feat General" title="Fast Recovery" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' [[Constitution]] 14.
 
 Your body quickly bounces back from afflictions. 
@@ -13073,7 +13428,7 @@ In addition, you reduce the severity of your [[Drained]] condition by 2 when you
 
 On a critical hit, the weapon’s damage die increases to that die size instead of the normal die size, and the weapon adds one additional damage die of the listed size.</pre>
 </div>
-<div created="20200626163608455" modified="20200718214053799" tags="Condition" title="Fatigued" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626163608455" mod-fortitude="Gives -1 status to saves." mod-reflex="Gives -1 status to saves." mod-will="Gives -1 status to saves." modified="20200720214828500" tags="Condition" title="Fatigued" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You’re tired and can’t summon much energy. 
 
 You take a –1 status penalty to [[AC]] and saving throws ([[Fortitude]], [[Reflex]], [[Will]]).
@@ -13213,7 +13568,7 @@ Each time your proficiency rank in Survival increases, double the number of addi
 
 Multiple smaller creatures or creatures with significantly smaller appetites than a human are counted as a single creature for this feat, and larger creatures or those with significantly greater appetites each count as multiple creatures. The GM determines how much a non-human creature needs to eat.</pre>
 </div>
-<div a-actions="1" a-crit="You open the door, window, container, or gate and can avoid damaging it in the process." a-fumble="Your attempt jams the door, window, container, or gate shut, imposing a –2 circumstance penalty on future attempts to Force it Open." a-hit="You break the door, window, container, or gate open, and the door, window, container, or gate gains the broken condition. If it’s especially sturdy, the GM might have it take damage but not be broken." a-skill="Athletics" created="20200702222135062" modified="20200706215822471" tags="Attack Action Untrained" title="Force Open" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" a-crit="You open the door, window, container, or gate and can avoid damaging it in the process." a-fumble="Your attempt jams the door, window, container, or gate shut, imposing a –2 circumstance penalty on future attempts to Force it Open." a-hit="You break the door, window, container, or gate open, and the door, window, container, or gate gains the broken condition. If it’s especially sturdy, the GM might have it take damage but not be broken." a-skill="Athletics" created="20200702222135062" modified="20200720214441154" modified-by="Athletics" tags="Attack Action Untrained" title="Force Open" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls.
 
 Without a crowbar, prying something open takes a –2 item penalty to the [[Athletics]] check to Force Open.
@@ -13343,7 +13698,7 @@ If you grab the edge or handhold, you can then [[Climb]] up using [[Athletics]].
 
 If you attempt a [[Manipulate]] action while grabbed, you must succeed at a DC 5 flat check or it is lost; roll the check after spending the action, but before any effects are applied.</pre>
 </div>
-<div a-actions="1" a-crit="Your opponent is [[Restrained]] until the end of your next turn unless you move or your opponent [[Escape]]s." a-defense="Fortitude" a-fail="You fail to grab your opponent. If you already had the opponent grabbed or restrained using a Grapple, those conditions on that creature end." a-fumble="If you already had the opponent grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[Prone]]." a-hands="1" a-hit="Your opponent is [[Grabbed]] until the end of your next turn unless you move or your opponent [[Escape]]s." a-skill="Athletics" created="20200702222720703" modified="20200719170638169" tags="Attack Action [[Weapon Trait]]" title="Grapple" turn-eun="A target stops being grabbed or restrained if the grab was not maintained." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" a-crit="Your opponent is [[Restrained]] until the end of your next turn unless you move or your opponent [[Escape]]s." a-defense="Fortitude" a-fail="You fail to grab your opponent. If you already had the opponent grabbed or restrained using a Grapple, those conditions on that creature end." a-fumble="If you already had the opponent grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[Prone]]." a-hands="1" a-hit="Your opponent is [[Grabbed]] until the end of your next turn unless you move or your opponent [[Escape]]s." a-skill="Athletics" created="20200702222720703" modified="20200720214505571" modified-by="Athletics Fortitude" tags="Attack Action [[Weapon Trait]]" title="Grapple" turn-eun="A target stops being grabbed or restrained if the grab was not maintained." type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' You have at least one free hand. Your target cannot be more than one size larger than you //unless you have [[Titan Wrestler]] in which case it can be two or three sizes larger, based on your Athletics.//
 
 You attempt to grab an opponent with your free hand.  You can also Grapple to keep your hold on a creature you already grabbed.
@@ -13521,16 +13876,18 @@ You can Hustle only for a number of minutes equal to your [[Constitution]] modif
 
 If you are in a group that is Hustling, use the lowest Constitution modifier among everyone to determine how fast the group can Hustle together.</pre>
 </div>
-<div a-crit="You misidentify the item as another item of the GM’s choice." a-fail="You fail to identify the item but can try again." a-hit="You identify the item and the means of activating it." a-skill="Crafting" a-tool="Alchemist's Tools" created="20200705230557951" modified="20200705230753477" tags="Concentrate Exploration Secret Action" title="Identify Alchemy" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="You misidentify the item as another item of the GM’s choice." a-fail="You fail to identify the item but can try again." a-hit="You identify the item and the means of activating it." a-skill="Crafting" a-tool="Alchemist's Tools" created="20200705230557951" modified="20200720220732768" modified-by="Crafting" tags="Concentrate Exploration Secret Action" title="Identify Alchemy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' You have [[Alchemist’s Tools]].
 
 You can identify the nature of an alchemical item with 10 minutes of testing using alchemist’s tools. 
+
+//Make a [[Crafting]] check.//
 
 If your attempt is interrupted in any way, you must start over.
 
 {{||ActionSuccessTable}}</pre>
 </div>
-<div a-actions="1" a-crit="As success, plus you learn something subtler." a-fumble="You misidentify the creature." a-hit="You learn one of the creature's best-known attributes." a-skill="Arcana Crafting Nature Occultism Religion Society" created="20200712163529156" modified="20200712164036622" tags="General Concentrate Secret Action Untrained Implied" title="Identify Creature" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" a-crit="As success, plus you learn something subtler." a-fumble="You misidentify the creature." a-hit="You learn one of the creature's best-known attributes." a-skill="Arcana Crafting Nature Occultism Religion Society" created="20200712163529156" modified="20200720220459799" modified-by="Arcana Crafting Nature Occultism Religion Society" tags="General Concentrate Secret Action Untrained Implied" title="Identify Creature" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>//Identifying a creature is technically a special case of [[Recall Knowledge]] but it is listed here as a separate action because it is frequently referred to.//
 
 A character who successfully identifies a creature learns one of its best-known attributes—such as a troll’s regeneration (and the fact that it can be stopped by acid or fire) or a manticore’s tail spikes. 
@@ -13575,8 +13932,8 @@ The GM sets the DC for your check. Cursed or esoteric subjects usually have high
 {{||ActionSuccessTable}}
 </pre>
 </div>
-<div created="20200626164308936" modified="20200626164331894" tags="Condition" title="Immobilized" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>You can’t use any action with the [[Move]] trait. 
+<div created="20200626164308936" modified="20200720204830836" tags="Condition" title="Immobilized" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>You can’t use any action with the &lt;&lt;tag Move&gt;&gt;trait. 
 
 If you’re immobilized by something holding you in place and an external force would move you out of your space, the force must succeed at a check against either the DC of the effect holding you in place or the relevant defense (usually [[Fortitude]] DC) of the monster holding you in place.</pre>
 </div>
@@ -13679,7 +14036,13 @@ that character.
 
 Assume a creature’s attitude to a given character is indifferent unless specified otherwise.</pre>
 </div>
-<div created="20200627192729335" modified="20200630145718394" tags="[[Ability Score]]" title="Intelligence" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200720193656761" mod-test="Level1" modified="20200720200835048" tags="" title="InheritModTest" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre></pre>
+</div>
+<div created="20200720200512359" mod-inheritmodtest="Level2" modified="20200720201458111" tags="" title="InheritModTest1" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre></pre>
+</div>
+<div created="20200627192729335" mod-arcana="Key ability for this skill." mod-crafting="Key ability for this skill." mod-lore="Key ability for this skill." mod-occultism="Key ability for this skill." mod-society="Key ability for this skill." modified="20200720220341572" tags="[[Ability Score]]" title="Intelligence" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Intelligence measures how well your character can learn and reason. 
 
 A high Intelligence allows your character to analyze situations and understand patterns, and it means they can become trained in additional skills and might be able to master additional languages.
@@ -13767,7 +14130,7 @@ When mounted, if you moved at least 10 feet on the action before your attack, ad
 
 In addition, while mounted, you can wield the weapon in one hand, changing the damage die to the listed value.</pre>
 </div>
-<div created="20200701185048034" feat-level="7" feat-skill="Acrobatics" feat-spre="M" modified="20200701185335644" tags="Feat General Skill Action Free" title="Kip Up" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200701185048034" feat-level="7" feat-skill="Acrobatics" feat-spre="M" modified="20200720204937943" tags="Feat General Skill Action Free MCIR" title="Kip Up" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Master in [[Acrobatics]].
 
 You stand up. 
@@ -14004,7 +14367,7 @@ If you didn’t Stride at least 10 feet, or if you attempt to jump in a differen
 {{||ActionSuccessTable}}
 </pre>
 </div>
-<div created="20200630143444867" modified="20200712162605587" skill-stat="Intelligence" tags="Skill" title="Lore" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200630143444867" modified="20200720220239466" skill-stat="Intelligence" tags="Skill" title="Lore" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Key Ability'' [[Intelligence]].
 
 You have specialized information on a narrow topic.
@@ -14030,7 +14393,7 @@ If there’s any doubt whether a Lore skill applies to a specific topic or actio
 
 It ignores the [[Concealed]] condition due to dim light.</pre>
 </div>
-<div created="20200701223930883" feat-level="2" feat-skill="Crafting" feat-spre="E" modified="20200701224023955" tags="Feat General Skill" title="Magical Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200701223930883" feat-level="2" feat-skill="Crafting" feat-spre="E" mod-craft="Can craft magic items." modified="20200720220816502" tags="Feat General Skill" title="Magical Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Expert in [[Crafting]].
 
 You can [[Craft]] magic items, though some have other requirements. 
@@ -14156,26 +14519,33 @@ You can never have more than one misfortune effect alter a single roll. If multi
 If a fortune effect and a misfortune effect would apply to the same roll, the two cancel
 each other out, and you roll normally. </pre>
 </div>
-<div created="20200707221717495" mod-testblock="Hello" modified="20200719174916637" tags="" title="ModifierBlockMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>\define ModifierBlock(for:&quot;&quot;)
-Hello
+<div created="20200707221717495" mod-testblock="Hello" modified="20200720215617970" tags="$:/tags/Macro" title="ModifierBlockMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\define innermodifierblock(for:&quot;&quot;)
 &lt;$set name=&quot;x&quot; value=&lt;&lt;__for__&gt;&gt; &gt;
-&lt;$set name=&quot;mfield&quot; filter=&quot;[title&lt;x&gt;lowercase[]addprefix[mod-]]&quot;&gt;
-&lt;&lt;dumpvariables&gt;&gt;
-&lt;table&gt;
+&lt;$set name=&quot;mfield&quot; filter=&quot;[title&lt;x&gt;lowercase[]split[ ]join[_]addprefix[mod-]]&quot;&gt;
 &lt;$list filter=&quot;[all[tiddlers]has&lt;mfield&gt;]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;&lt;&lt;currentTiddler&gt;&gt;&lt;/th&gt;&lt;td&gt;&lt;$view field=&lt;&lt;mfield&gt;&gt; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;&lt;$link/&gt;&lt;/th&gt;&lt;td&gt;&lt;&lt;x&gt;&gt;&lt;/td&gt;&lt;td&gt;&lt;$view field=&lt;&lt;mfield&gt;&gt; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;$macrocall $name=&quot;innermodifierblock&quot; for=&lt;&lt;currentTiddler&gt;&gt; /&gt;
 &lt;/$list&gt;
-&lt;/table&gt;
+&lt;$list filter=&quot;[list[!!modified-by]]&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;$link/&gt;&lt;/th&gt;&lt;td&gt;&lt;&lt;x&gt;&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;$macrocall $name=&quot;innermodifierblock&quot; for=&lt;&lt;currentTiddler&gt;&gt; /&gt;
+&lt;/$list&gt;
 &lt;/$set&gt;
 &lt;/$set&gt;
+\end
+
+\define ModifierBlock(for:&quot;&quot;)
+&lt;table&gt;
+&lt;$macrocall $name=&quot;innermodifierblock&quot; for=&lt;&lt;__for__&gt;&gt; /&gt;
 &lt;/table&gt;
 \end
 
 </pre>
 </div>
-<div created="20200719174428066" modified="20200719175005317" tags="" title="ModifierBlockTest" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;&lt;ModifierBlock test&gt;&gt;
+<div created="20200719174428066" modified="20200720213351101" tags="" title="ModifierBlockTest" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$macrocall $name=&quot;ModifierBlock&quot; for=&lt;&lt;currentTiddler&gt;&gt; /&gt;
+
 
 </pre>
 </div>
@@ -14302,7 +14672,7 @@ You can observe a creature only with [[Precise]] senses.  When [[Seek]]ing a cre
 &lt;/ul&gt;
 &lt;/$list&gt;</pre>
 </div>
-<div created="20200630143949113" modified="20200712162640867" skill-stat="Intelligence" tags="Skill" title="Occultism" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200630143949113" modified="20200720220254700" skill-stat="Intelligence" tags="Skill" title="Occultism" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Key Ability'' [[Intelligence]].
 
 You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures.
@@ -14392,6 +14762,10 @@ Your senses still function, but only in the areas you can perceive without movin
 <pre>This weapon can be used defensively to block attacks. 
 
 While wielding this weapon, if your proficiency with it is trained or better, you can spend an [[Interact]] action to position your weapon defensively, gaining a +1 circumstance bonus to AC until the start of your next turn.</pre>
+</div>
+<div created="20200720221816331" modified="20200720221830607" title="Perception" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>Perception isn't a skill, but it behaves like one with a key ability of [[Wisdom]].
+</pre>
 </div>
 <div a-actions="1" a-crit="Your performance impresses the observers, and they’re likely to share stories of your ability." a-fail="Your performance falls flat." a-fumble="You demonstrate only incompetence." a-hit="You prove yourself, and observers appreciate the quality of your performance." a-skill="Performance" created="20200706223940902" modified="20200706224650643" tags="Action Concentrate Untrained" title="Perform" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>When making a brief performance—one song, a quick dance, or a few jokes—you use the Perform action //with the [[Performance]] skill.//
@@ -14579,12 +14953,12 @@ Because a press action requires a multiple attack penalty, you can’t use one w
 &lt;/ul&gt;
 &lt;/$list&gt;</pre>
 </div>
-<div created="20200626201721376" modified="20200702141259129" tags="Condition" title="Prone" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626201721376" modified="20200720204904295" tags="Condition" title="Prone" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You’re lying on the ground. 
 
 You are [[Flat-Footed]] and take a –2 circumstance penalty to attack rolls. //(You aren't Flat-Footed while Prone if you have [[Nimble Crawl]] and are legendary in [[Acrobatics]].)//
 
-The only [[Move]] actions you can use while you’re prone are [[Crawl]] and [[Stand]]. 
+The only &lt;&lt;tag Move&gt;&gt;actions you can use while you’re prone are [[Crawl]] and [[Stand]]. 
 
 Standing up ends the prone condition. 
 
@@ -14672,7 +15046,7 @@ You [[Recognize Spell]]s swiftly.
 
 Once per round, you can Recognize a Spell using a skill in which you’re a master as a free action.</pre>
 </div>
-<div created="20200702144309131" feat-level="1" feat-skill="Crafting" feat-spre="T" modified="20200702144406745" tags="Feat General Skill" title="Quick Repair" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200702144309131" feat-level="1" feat-skill="Crafting" feat-spre="T" mod-repair="Reduces the time taken to repair." modified="20200720220835828" tags="Feat General Skill" title="Quick Repair" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Crafting]].
 
 You take 1 minute to [[Repair]] an item. 
@@ -14768,7 +15142,7 @@ If the trigger you designated occurs before the start of your next turn, you can
 
 If you have a multiple attack penalty and your readied action is an [[Attack]] action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it’s not your turn.</pre>
 </div>
-<div a-actions="1" a-crit="You recall the knowledge accurately and gain additional information or context." a-fumble="You recall incorrect information or gain an erroneous or misleading clue." a-hit="You recall the knowledge accurately or gain a useful clue about your current situation." a-skill="Arcana Crafting Lore Medicine Nature Occultism Religion Society" created="20200702215036006" modified="20200712163228989" tags="General Concentrate Secret Action Untrained" title="Recall Knowledge" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" a-crit="You recall the knowledge accurately and gain additional information or context." a-fumble="You recall incorrect information or gain an erroneous or misleading clue." a-hit="You recall the knowledge accurately or gain a useful clue about your current situation." a-skill="Arcana Crafting Lore Medicine Nature Occultism Religion Society" created="20200702215036006" modified="20200720215948060" modified-by="Arcana Crafting Lore Medicine Nature Occultism Religion Society" tags="General Concentrate Secret Action Untrained" title="Recall Knowledge" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You attempt a skill check to try to remember a bit of knowledge regarding a topic related to that skill. 
 
 The GM determines the DCs for such checks and which skills apply.
@@ -14789,7 +15163,7 @@ The GM rolls a secret [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]] che
 
 {{||ActionSuccessTable}}</pre>
 </div>
-<div created="20200627194000564" modified="20200712164211819" tags="Save" title="Reflex" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200627194000564" modified="20200720214354670" tags="Save" title="Reflex" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>//A Reflex save is used to avoid negative effects by dodging them.//
 
 //Reflex is governed by [[Dexterity]].//
@@ -14932,7 +15306,7 @@ Once the action is complete, you regain 1d6 Hit Points for every 2 item levels o
 
 Any animal you’re mounted on acts on your turn, like a [[Minion]]. If you [[Mount]] an animal in the middle of an encounter, it skips its next turn and then acts on your next turn. </pre>
 </div>
-<div created="20200702145733407" feat-level="2" feat-skill="Medicine" feat-spre="E" modified="20200706232840246" tags="General Feat Skill" title="Robust Recovery" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200702145733407" feat-level="2" feat-skill="Medicine" feat-spre="E" mod-treat_disease="Increases bonus on success to +4." mod-treat_poison="Increases bonus on success to +4." modified="20200720215608103" tags="General Feat Skill" title="Robust Recovery" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Expert in [[Medicine]].
 
 You learned folk medicine to help recover from diseases and poison, and using it diligently has made you especially resilient.
@@ -15072,7 +15446,7 @@ This uses the weapon’s reach (if different from your own) and adds the weapon�
 If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 </pre>
 </div>
-<div created="20200626202102225" modified="20200626202136539" tags="Condition" title="Sickened" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626202102225" mod-charisma="Reduces Charisma by the condition value." mod-constitution="Reduces Constitution by the condition value." mod-dexterity="Reduces Dexterity by the condition value." mod-intelligence="Reduces Intelligence by the condition value." mod-strength="Reduces Strength by the condition value." mod-wisdom="Reduces Wisdom by the condition value." modified="20200720213832015" tags="Condition" title="Sickened" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You feel ill. 
 
 Sickened always includes a value. You take a status penalty equal to this value on all your checks and DCs. 
@@ -15183,7 +15557,7 @@ Creatures within that area have the [[Concealed]] condition, and all other creat
 
 The smoke lasts for 1 minute or until dissipated by a strong wind.</pre>
 </div>
-<div created="20200702150905910" feat-level="1" feat-skill="Crafting" feat-spre="T" modified="20200702150954605" tags="Feat General Skill" title="Snare Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200702150905910" feat-level="1" feat-skill="Crafting" feat-spre="T" mod-craft="Can craft snares." modified="20200720220916890" tags="Feat General Skill" title="Snare Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Crafting]].
 
 You can use the [[Craft]] activity to create [[Snare]]s. 
@@ -15213,7 +15587,7 @@ You don’t get to roll against a creature if, at the end of your movement, you 
 
 For a ranged attack with a thrown weapon, that weapon must also be an agile or finesse weapon.</pre>
 </div>
-<div created="20200630145014223" modified="20200706224623261" skill-stat="Intelligence" tags="Skill" title="Society" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200630145014223" modified="20200720220302257" skill-stat="Intelligence" tags="Skill" title="Society" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Key Ability'' [[Intelligence]].
 
 You understand the people and systems that make civilization run, and you know the historical events that make societies what they are today. Further, you can use that knowledge to navigate the complex physical, societal, and economic workings of settlements.
@@ -15407,7 +15781,7 @@ You can use your Society modifier instead of your Diplomacy modifier to [[Gather
 
 In any settlement you frequent regularly, you can use the [[Recall Knowledge]] action with Society to know the same sorts of information that you could discover with Diplomacy to Gather Information. The DC is usually significantly higher, but you know the information without spending time gathering it. If you fail to recall the information, you can still subsequently attempt to Gather Information normally.</pre>
 </div>
-<div created="20200627192353171" modified="20200702212355444" tags="[[Ability Score]]" title="Strength" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200627192353171" mod-athletics="Key ability for this skill." modified="20200720213854047" tags="[[Ability Score]]" title="Strength" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Strength measures your character’s physical power.
 
 Strength is important if your character plans to engage in hand-to-hand combat. 
@@ -15453,7 +15827,7 @@ Stunned might also have a duration instead of a value, such as “stunned for 1 
 
 Stunned overrides [[Slowed]]. If the duration of your stunned condition ends while you are slowed, you count the actions lost to the stunned condition toward those lost to being slowed. So, if you were stunned 1 and slowed 2 at the beginning of your turn, you would lose 1 action from stunned, and then lose only 1 additional action by being slowed, so you would still have 1 action remaining to use that turn.</pre>
 </div>
-<div created="20200626202436812" modified="20200626202518452" tags="Condition" title="Stupefied" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626202436812" mod-cast_a_spell="Gives risk of disruption on flat check." mod-charisma="Gives status penalty of condition value." mod-intelligence="Gives status penalty of condition value." mod-wisdom="Gives status penalty of condition value." modified="20200720215842895" tags="Condition" title="Stupefied" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Your thoughts and instincts are clouded. 
 
 Stupefied always includes a value. You take a status penalty equal to this value on [[Intelligence]]-, [[Wisdom]]-, and [[Charisma]]-based checks and DCs, including [[Will]] saving throws, spell attack rolls, spell DCs, and skill checks that use these ability scores. 
@@ -15690,7 +16064,7 @@ If you end your turn in water and haven’t succeeded at a Swim action that turn
 
 </pre>
 </div>
-<div a-actions="1" created="20200626205915399" modified="20200626210134170" tags="Action" title="Take Cover" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" created="20200626205915399" mod-ac="Can give a +4 circumstance bonus." mod-hide="Can give a +4 circumstance bonus." mod-reflex="Can give a +4 circumstance bonus." mod-sneak="Can give a +4 circumstance bonus." modified="20200720215255849" tags="Action" title="Take Cover" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements:'' You are benefiting from cover, are near a feature that allows you to take cover, or are [[Prone]].
 
 You press yourself against a wall or duck behind an obstacle to take better advantage of [[Cover]]. 
@@ -15774,8 +16148,11 @@ You can attempt to [[Disarm]], [[Grapple]], [[Shove]], or [[Trip]] creatures up 
 
 While tapping into the target's senses, you can't use your own body's senses, but you can change back and forth from your body's senses to the target's senses using a single action, which has the Concentrate trait. </pre>
 </div>
-<div created="20200719212703663" modified="20200719212734124" title="Torch" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>A torch sheds bright light in a 20-foot radius (and [[Dim Light]] to the next 20 feet). It can be used as an improvised weapon that deals 1d4 bludgeoning damage plus 1 fire damage.</pre>
+<div created="20200719212703663" modified="20200720202724173" title="Torch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{TorchLight}} It can be used as an improvised weapon that deals 1d4 bludgeoning damage plus 1 fire damage.</pre>
+</div>
+<div created="20200720202714637" modified="20200720202716240" title="TorchLight" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>A torch sheds bright light in a 20-foot radius (and [[Dim Light]] to the next 20 feet).</pre>
 </div>
 <div created="20200702193837737" feat-level="1" modified="20200702194043878" tags="Feat General" title="Toughness" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can withstand more punishment than most before succumbing. 
@@ -15816,7 +16193,7 @@ If you’re expert, master, or legendary in Nature, you might be able to train m
 {{||ActionSuccessTable}}
 </pre>
 </div>
-<div created="20200629190146242" modified="20200719215051421" tags="$:/tags/ViewTemplate" title="TraitSummaryViewTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200629190146242" modified="20200720213427790" tags="$:/tags/ViewTemplate" title="TraitSummaryViewTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$list filter=&quot;[all[current]tag[Action]]&quot;&gt;
 {{||ActionSummary}}
 &lt;/$list&gt;
@@ -15906,8 +16283,10 @@ If you’re expert, master, or legendary in Nature, you might be able to train m
 &lt;$list filter=&quot;[all[current]tag[Visual]]&quot;&gt;
 &lt;tr&gt;&lt;th&gt;[[Visual]]&lt;/th&gt;&lt;td&gt;This works only against creatures that can see it and are not [[Blinded]].&lt;/td&gt;&lt;/tr&gt;
 &lt;/$list&gt;
+&lt;/table&gt;
 
-&lt;/table&gt;</pre>
+&lt;$macrocall $name=&quot;ModifierBlock&quot; for=&lt;&lt;currentTiddler&gt;&gt; /&gt;
+</pre>
 </div>
 <div created="20200627223542809" modified="20200627224206924" tags="" title="TraitWarnings" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$list filter=&quot;[[HelloThereMissing]is[missing]then[yes]]&quot; /&gt;
@@ -15923,7 +16302,7 @@ The monster can attempt to Trample the same creature only once in a single use o
 The monster deals the damage of the listed [[Strike]], but trampled creatures can attempt a basic [[Reflex]] save at the listed DC.
 </pre>
 </div>
-<div a-crit="You grant the creature a +4 circumstance bonus to its next saving throw against the disease." a-fumble="Your efforts cause the creature to take a –2 circumstance penalty to its next save against the disease." a-hit="You grant the creature a +2 circumstance bonus to its next saving throw against the disease." a-skill="Medicine" a-tool="Healer's Tools" created="20200706222205695" modified="20200706223049156" tags="Downtime Manipulate Action Trained" title="Treat Disease" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="You grant the creature a +4 circumstance bonus to its next saving throw against the disease." a-fumble="Your efforts cause the creature to take a –2 circumstance penalty to its next save against the disease." a-hit="You grant the creature a +2 circumstance bonus to its next saving throw against the disease." a-skill="Medicine" a-tool="Healer's Tools" created="20200706222205695" modified="20200720215744110" modified-by="Medicine" tags="Downtime Manipulate Action Trained" title="Treat Disease" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' You have [[Healer’s Tools]].
 
 You spend at least 8 hours caring for a diseased creature. 
@@ -16378,7 +16757,7 @@ Add 5 feet to the length of a cone or line that is normally 15 feet long or smal
 {{||SpellSaveList}}
 </pre>
 </div>
-<div created="20200627192818031" modified="20200630145619308" tags="[[Ability Score]]" title="Wisdom" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200627192818031" mod-medicine="Key ability for this skill." mod-nature="Key ability for this skill." mod-perception="Key ability." mod-religion="Key ability for this skill." mod-survival="Key ability for this skill." mod-will="Key ability for this save." modified="20200720221843767" tags="[[Ability Score]]" title="Wisdom" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Wisdom measures your character’s common sense, awareness, and intuition. 
 
 Your Wisdom modifier is added to your [[Perception]] and [[Will]] saving throws.

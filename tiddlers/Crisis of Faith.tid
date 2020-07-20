@@ -12,7 +12,8 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200719214537249
+mod-cast_a_spell: Can shut down casting of Divine spells.
+modified: 20200720221015563
 s-crit: The target is unaffected.
 s-fail: The target takes full damage; if the target can cast divine spells, it's [[Stupefied]] 1 for 1 round.
 s-fumble: The target takes double damage, is [[Stupefied]] 1 for 1 round, and can't cast divine spells for 1 round.

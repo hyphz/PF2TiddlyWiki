@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720205151494
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200720205404628
+s-crit: The target is unaffected.
+s-fail: The target is [[Deafened]] for 10 minutes.
+s-fumble: The target is [[Deafened]] permanently.
+s-hit: The target is [[Deafened]] for 1 round.
+tags: Necromancy Spell Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+title: Deafness
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target loses hearing.
+
+It must attempt a [[Fortitude]] save. 
+
+The target is then temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}

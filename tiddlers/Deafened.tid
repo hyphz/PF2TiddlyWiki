@@ -1,5 +1,5 @@
 created: 20200626162919189
-modified: 20200702150641649
+modified: 20200720204739250
 tags: Condition
 title: Deafened
 type: text/vnd.tiddlywiki
@@ -10,8 +10,8 @@ You automatically critically fail [[Perception]] checks that require you to be a
 
 You take a –2 status penalty to [[Perception]] checks for [[Initiative]] and checks that involve sound but also rely on other senses. 
 
-If you perform an action with the [[Auditory]] trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. 
+If you perform an action with the <<tag Auditory>>trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. 
 
-You are immune to [[Auditory]] effects.
+You are immune to <<tag Auditory>>effects.
 
 //You could use [[Read Lips]] or [[Sign Language]] to communicate with others while deafened.//

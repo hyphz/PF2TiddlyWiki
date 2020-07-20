@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200720202204946
+m-area: 30 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 1 or more rounds
+m-level: 5
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200720202428859
+s-crit: The creature is unaffected.
+s-fail: As success, but the //duration for which the target must make saves to avoid being slowed 1// is 1 minute.
+s-fumble: As failure, and the creature is automatically slowed 1 for 1 minute.
+s-hit: For 1 round, the creature can't use reactions and must attempt another save at the start of its turn; on a failure, it is [[Slowed]] 1 for that turn as it sobs uncontrollably.
+tags: Spell Emotion Enchantment Mental Arcane Occult Somatic Verbal Manipulate Concentrate
+title: Crushing Despair
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You inflict despair on creatures in the area. 
+
+The effects for each creature are determined by its [[Will]] save.
+
+''Heightened (7th)'' The area increases to a 60-foot cone.
+
+{{||SaveSuccessTable}}

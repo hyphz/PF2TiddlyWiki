@@ -1,8 +1,9 @@
 created: 20200719174428066
-modified: 20200719175005317
+modified: 20200720213351101
 tags: 
 title: ModifierBlockTest
 type: text/vnd.tiddlywiki
 
-<<ModifierBlock test>>
+<$macrocall $name="ModifierBlock" for=<<currentTiddler>> />
+
 

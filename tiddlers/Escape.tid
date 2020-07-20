@@ -3,7 +3,8 @@ a-crit: You get free and remove the grabbed, immobilized, and restrained conditi
 a-fumble: You don’t get free, and you can’t attempt to Escape again until your next turn.
 a-hit: You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target.
 created: 20200626204324236
-modified: 20200627182413880
+modified: 20200720214952865
+modified-by: [[Unarmed Attack]] Athletics Thievery Acrobatics
 tags: Action Attack
 title: Escape
 type: text/vnd.tiddlywiki

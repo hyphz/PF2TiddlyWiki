@@ -1,5 +1,11 @@
 created: 20200626202102225
-modified: 20200626202136539
+mod-charisma: Reduces Charisma by the condition value.
+mod-constitution: Reduces Constitution by the condition value.
+mod-dexterity: Reduces Dexterity by the condition value.
+mod-intelligence: Reduces Intelligence by the condition value.
+mod-strength: Reduces Strength by the condition value.
+mod-wisdom: Reduces Wisdom by the condition value.
+modified: 20200720213832015
 tags: Condition
 title: Sickened
 type: text/vnd.tiddlywiki

@@ -4,7 +4,8 @@ a-fumble: You fail to complete the item. You ruin 10% of the raw materials you s
 a-hit: Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amount based on your level and your proficiency rank.
 a-skill: Crafting
 created: 20200705230159620
-modified: 20200705230548909
+modified: 20200720220614634
+modified-by: Crafting
 tags: Action Exploration Manipulate
 title: Craft
 type: text/vnd.tiddlywiki

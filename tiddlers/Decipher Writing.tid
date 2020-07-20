@@ -4,7 +4,8 @@ a-fumble: You believe you understand the text on that page, but you have in fact
 a-hit: You understand the true meaning of the text. If it was a coded document, you know the general meaning but might not have a word-for-word translation.
 a-skill: Arcana Occultism Religion Society
 created: 20200702212523758
-modified: 20200712162857832
+modified: 20200720220428256
+modified-by: Arcana Occultism Religion Society
 tags: Action Exploration Secret Concentrate Trained
 title: Decipher Writing
 type: text/vnd.tiddlywiki

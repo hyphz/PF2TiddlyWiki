@@ -1,5 +1,6 @@
 created: 20200626162537396
-modified: 20200626162605825
+mod-dexterity: Gives status penalty to Dexterity equal to condition value.
+modified: 20200720215112768
 tags: Condition
 title: Clumsy
 type: text/vnd.tiddlywiki
