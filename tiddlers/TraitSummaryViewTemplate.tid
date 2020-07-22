@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200720213427790
+modified: 20200722214606482
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -32,6 +32,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Exploration]]">
 <tr><th>[[Exploration]]</th><td>This can only be used in Exploration Mode, not Encounter Mode (ie, not combat).</td></tr>
+</$list>
+<$list filter="[all[current]tag[Fire]]">
+<tr><th>[[Fire]]</th><td>You can't use this underwater.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Flourish]]">
 <tr><th>[[Flourish]]</th><td>You can only use 1 Flourish per turn.</td></tr>
@@ -88,7 +91,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Uncommon]]</th><td>You can't normally gain this by character advancement.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Verbal]]">
-<tr><th>[[Verbal]]</th><td>You must normally be able to speak loudly to cast this spell.</td></tr>
+<tr><th>[[Verbal]]</th><td>You must normally be able to speak loudly to cast this spell, and you lose all your air if you use this while holding your breath.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Visual]]">
 <tr><th>[[Visual]]</th><td>This works only against creatures that can see it and are not [[Blinded]].</td></tr>

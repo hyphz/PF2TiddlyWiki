@@ -1,0 +1,12 @@
+created: 20200722203449749
+mod-flat-footed: You're flat-footed on uneven ground.
+modified: 20200722203652705
+tags: Rule
+title: Uneven Ground
+type: text/vnd.tiddlywiki
+
+Uneven ground is an area unsteady enough that you need to [[Balance]] or risk falling [[Prone]] and possibly injuring yourself, depending on the specifics of the uneven ground. 
+
+You are [[Flat-Footed]] on uneven ground. 
+
+Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a [[Reflex]] save (with the same DC as the Acrobatics check to [[Balance]]) or fall prone.

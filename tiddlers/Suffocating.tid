@@ -1,0 +1,13 @@
+created: 20200722210015837
+mod-unconscious: You can't recover from being unconscious due to suffocation without air.
+modified: 20200722210107528
+title: Suffocating
+type: text/vnd.tiddlywiki
+
+You can’t recover from being [[Unconscious]] and must attempt a DC 20 [[Fortitude]] save at the end of each of your turns. 
+
+On a failure, you take 1d10 damage, and on a critical failure, you die. 
+
+On each check after the first, the DC increases by 5 and the damage by 1d10; these increases are cumulative. 
+
+Once your access to air is restored, you stop suffocating and are no longer Unconscious (unless you're at 0 Hit Points).

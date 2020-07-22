@@ -2,7 +2,8 @@ a-actions: 1
 a-defense: Perception
 a-skill: Stealth
 created: 20200706225143950
-modified: 20200719183353705
+modified: 20200722204608726
+modified-by: Stealth
 tags: Action Secret Untrained
 title: Hide
 type: text/vnd.tiddlywiki

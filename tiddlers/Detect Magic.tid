@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200720210625947
+modified: 20200722211250544
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -36,6 +36,8 @@ When used as an exploration activity, you cast [[Detect Magic]] at regular inter
 You move at half your travel speed or slower. 
 
 You have no chance of accidentally overlooking a magic aura at a travel speed up to 300 feet per minute, but must be traveling no more than 150 feet per minute to detect magic auras before the party moves into them.
+
+This activity doesn’t enable characters to automatically find every single magical aura or object during travel. Hazards that require a minimum proficiency can’t be found with detect magic, nor can illusions of equal or higher level than the spell.
 
 ''Heightened (3rd)'' You learn the school of magic for the highest level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.
 

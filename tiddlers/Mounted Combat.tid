@@ -1,0 +1,23 @@
+created: 20200722205037412
+mod-cover: You have lesser cover if your mount would be in the way of an attack.
+mod-reflex: You take -2 circumstance to Reflex when mounted.
+modified: 20200722205303383
+tags: Rule
+title: Mounted Combat
+type: text/vnd.tiddlywiki
+
+You can ride some creatures into combat. 
+
+As noted in the [[Mount]] specialty basic action, your mount needs to be at least one size larger than you and willing. 
+
+Your mount acts on your initiative. 
+
+You must use the [[Command an Animal]] action to get your mount to spend its actions. If you don’t, the animal wastes its actions. For example, if you are mounted on a horse and you make three attacks, your horse would remain stationary since you didn’t command it. If you instead spent your first action to Command an Animal and succeeded, you could get your mount to [[Stride]]. You could spend your next action to attack or to command the horse to attack, but not both.
+
+If you have the [[Ride]] general feat, you succeed automatically when you Command an Animal that’s your mount. 
+
+When you’re mounted, attackers can target either you or your mount. Anything that affects multiple creatures (such as an area) affects both of you as long as you’re both in the area. 
+
+You are in an attacker’s reach or range if any square of your mount is within reach or range. Because your mount is larger than you and you share its space, you have lesser cover against attacks targeting you when you’re mounted if the mount would be in the way.
+
+Because you can’t move your body as freely while you’re riding a mount, you take a –2 circumstance penalty to Reflex saves while mounted. Additionally, the only move action you can use is the Mount action to dismount.

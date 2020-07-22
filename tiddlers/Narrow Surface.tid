@@ -1,0 +1,12 @@
+created: 20200722203326814
+mod-flat-footed: You're flat footed on a narrow surface.
+modified: 20200722204214855
+tags: Rule
+title: Narrow Surface
+type: text/vnd.tiddlywiki
+
+A narrow surface is so precariously thin that you need to [[Balance]] (see [[Acrobatics]]) or risk falling. 
+
+Even on a success, you are [[Flat-Footed]] on a narrow surface.
+
+Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a [[Reflex]] save (with the same DC as the Acrobatics check to Balance) or fall.
