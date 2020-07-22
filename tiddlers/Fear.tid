@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722200936056
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200722201156065
+s-crit: The target is unaffected.
+s-fail: The target is [[Frightened]] 2.
+s-fumble: The target is [[Frightened]] 3 and [[Fleeing]] for 1 round.
+s-hit: The target is [[Frightened]] 1.
+tags: Emotion Enchantment Fear Mental Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate Spell
+title: Fear
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You plant fear in the target; it must attempt a [[Will]] save.
+
+''Heightened (3rd)'' You can target up to five creatures.
+
+{{||SaveSuccessTable}}

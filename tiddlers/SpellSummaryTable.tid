@@ -1,12 +1,12 @@
 created: 20200627214018361
-modified: 20200718212649416
+modified: 20200722193111373
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
 
 |!Level|{{!!m-level}}|
 |!Components|{{!!m-components}}|
-|!Time|{{!!m-time}}|
+|!Cast Time|{{!!m-time}}|
 |!Range|{{!!m-range}}|
 |!Area|{{!!m-area}}|
 |!Target|{{!!m-targets}}|

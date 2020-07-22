@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722193547767
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 1 hour
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: Up to 1 gallon of non-magical water or up to 5 pounds of food
+m-time: 1 minute
+modified: 20200722193723418
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Transmutation Divine Primal Material Somatic Verbal Concentrate Manipulate
+title: Enhance Victuals
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transform the target into delicious fare, changing water into wine or another fine beverage or enhancing the food’s taste and ingredients to make it a gourmet treat.
+
+Prior to the transformation, the spell attempts to [[Counteract]] any <<tag Poison>>s in the food or water. 
+
+The food turns back to normal if not consumed before the duration expires, though any poisons that were counteracted are still gone.
+
+''Heightened (+1)'' The number of gallons of water you can target increases by 1, or the number of pounds of food you can target increases by 5.

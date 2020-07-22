@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722191740050
+m-area: 60 foot [[Burst]]
+m-components: Arcane Divine Primal
+m-duration: 
+m-level: 7
+m-range: 500 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200722192110510
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Cold Darkness Necromancy Negative Spell Arcane Divine Primal Somatic Verbal Manipulate Concentrate
+title: Eclipse Burst
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to creatures and objects in the area, plus 8d4 additional negative damage to living creatures. 
+
+Creatures and objects in the area must attempt a //basic// Reflex save. //On a critical failure, creatures are also [[Blinded]] by the darkness for an unlimited duration.//
+
+If the globe overlaps with an area of magical <<tag Light>>or affects a creature affected by magical light, eclipse burst attempts to [[Counteract]] the light effect.
+
+''Heightened (+1)'' The cold damage increases by 1d10 and the negative damage against the living increases by 1d4.

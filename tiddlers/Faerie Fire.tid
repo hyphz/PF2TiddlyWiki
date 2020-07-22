@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722200139395
+m-area: 10 foot [[Burst]]
+m-components: Divine Occult Primal
+m-duration: 5 minutes
+m-level: 2
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+mod-concealed: Prevents a creature becoming concealed unless invisible.
+mod-invisible: Makes an invisible creature only Concealed, not undetected.
+modified: 20200722200420313
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Light Spell Divine Occult Primal Somatic Verbal Manipulate Concentrate
+title: Faerie Fire
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+All creatures in the area when you cast the spell are limned in colorful, heatless fire of a color of your choice for the duration. 
+
+Visible creatures can’t be [[Concealed]] while affected by faerie fire. 
+
+If the creatures are [[Invisible]], they are [[Concealed]] while affected by faerie fire, rather than being [[Undetected]].

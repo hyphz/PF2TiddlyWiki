@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722200621191
+m-area: 100 foot [[Burst]]
+m-components: Material Somatic Verbal
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 5
+m-range: Touch
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200722200909537
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Illusion Arcane Occult Material Somatic Verbal Concentrate Manipulate Spell
+title: False Vision
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a false image that fools any attempts to scry on an area. 
+
+Any <<tag Scrying>>spell sees, hears, smells, and otherwise detects whatever you wish within the area, rather than what is actually in the area. 
+
+You can [[Sustain the Spell|Sustain a Spell]] each round to change the illusion as you desire, including playing out a complex scene. 
+
+If the scrying spell is of a higher level than false vision, the scryer can attempt a [[Perception]] check to disbelieve the illusion, though even if they’re successful, they can’t learn what’s truly going on in the area.

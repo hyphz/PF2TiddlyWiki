@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722195905820
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: Varies
+m-level: 10
+m-range: 100 feet
+m-save: Will
+m-targets: Up to 5 creatures
+m-time: 
+modified: 20200722200112688
+s-crit: The target doesn’t believe the statement, and it knows you tried to trick it.
+s-fail: The target believes the statement for a duration of 1 week.
+s-fumble: The target believes the statement with unlimited duration.
+s-hit: The target doesn’t believe the statement or realize you tried to trick it.
+tags: Enchantment Incapacitation Mental Occult Material Somatic Verbal Concentrate Manipulate Spell
+title: Fabricated Truth
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Choose a single statement you want the targets to believe. The fact could be narrow, such as “a dragon is circling overhead and wants to kill me”; wide-reaching, such as “all humanoids are disguised abominations”; or conceptual, such as “if I don’t live a kinder life, I’ll be punished in the afterlife.” 
+
+The targets’ experiences color how they react to this “truth” and how their behavior changes. If the statement changes what they perceive, they treat the change as a sudden revelation.
+
+The effect of the spell depends on the targets’ [[Will]] saves. 
+
+If a target is already subject to fabricated truth, your spell tries to [[Counteract]] it. If the counteract check fails, the outcome of the target’s saving throw can’t be worse than a success.
+
+{{||SaveSuccessTable}}

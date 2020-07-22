@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722192953895
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 24 hours
+m-level: 7
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 1 minute
+modified: 20200722193501510
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Abjuration Spell Arcane Divine Occult Primal Material Somatic Verbal Manipulate Concentrate
+title: Energy Aegis
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You protect the target with a powerful, long-lasting energy barrier. 
+
+The target gains resistance 5 to <<tag Acid>>, <<tag Cold>>, <<tag Electricity>>, <<tag Fire>>, <<tag Force>>, <<tag Negative>>, <<tag Positive>>, and <<tag Sonic>>damage.
+
+''Heightened (9th)'' The resistances increase to 10.

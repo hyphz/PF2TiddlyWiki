@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722200452529
+m-area: 
+m-components: Somatic Verbal
+m-duration: 8 hours
+m-level: 
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200722200533314
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Necromancy Arcane Occult Somatic Verbal Manipulate Concentrate
+title: False Life
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a reservoir of vitality from necromantic energy, gaining a number of temporary Hit Points equal to 6 plus your spellcasting ability modifier.
+
+''Heightened (+1)'' The temporary Hit Points increase by 3.
