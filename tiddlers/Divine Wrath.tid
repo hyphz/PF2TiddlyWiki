@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722111241363
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200722111440438
+s-crit: The creature is unaffected.
+s-fail: The creatures takes full damage and is [[Sickened]] 1.
+s-fumble: The creature takes full damage and is [[Sickened]] 2. While it is sickened, it is also [[Slowed]] 1.
+s-hit: The creature takes half damage.
+tags: Evocation Spell Divine Somatic Verbal Manipulate Concentrate
+title: Divine Wrath
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You can channel the fury of your deity against foes of opposed alignment. 
+
+Choose an alignment your deity has (<<tag Chaotic>>, <<tag Evil>>, <<tag Good>>, or <<tag Lawful>>). You can’t cast this spell if you don’t have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. 
+
+You deal 4d10 damage of the alignment you chose; each creature in the area must attempt a [[Fortitude]] save. 
+
+Creatures that match the alignment you chose are unaffected. 
+
+Those that neither match nor oppose it treat the result of their saving throw as one degree better.
+
+{{||SaveSuccessTable}}

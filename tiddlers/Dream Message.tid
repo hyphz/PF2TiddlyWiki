@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722113453731
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 day
+m-level: 3
+m-range: Planetary
+m-save: 
+m-targets: 1 creature you know by name and have met in person
+m-time: 
+modified: 20200722113614864
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Enchantment Mental Arcane Divine Occult Somatic Verbal Manipulate Spell Concentrate
+title: Dream Message
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send a message to your target’s dream. 
+
+The message is one-way, up to 1 minute of speech (roughly 150 words). 
+
+If the target is asleep, they receive the message instantly. If not, they receive it the next time they sleep. 
+
+As soon as they receive it, the spell ends, and you know the message was sent.
+
+''Heightened (4th)'' You can target up to 10 creatures you know by name and have met in person. You must send the same message to all of them; the spell ends for each creature individually.

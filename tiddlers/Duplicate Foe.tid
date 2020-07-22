@@ -1,0 +1,45 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722114049012
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 7
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 enemy of level 15 or lower
+m-time: 
+modified: 20200722114445857
+s-crit: You fail to create a duplicate.
+s-fail: The duplicate works as described.
+s-fumble: 
+s-hit: The duplicate deals half damage with its Strikes and the duration is reduced to a maximum of 2 rounds.
+tags: Spell Conjuration Arcane Occult Material Somatic Verbal Manipulate Concentrate
+title: Duplicate Foe
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You try to create a temporary duplicate of an enemy to fight on your behalf. 
+
+The target can attempt a [[Fortitude]] save to disrupt the spell. 
+
+The duplicate appears in an unoccupied space adjacent to the target and has the target’s attack modifier, [[AC]], saving throw modifiers, [[Perception]], and skill modifiers, but it
+has only 70 [[Hit Points]] and lacks the target’s special abilities, including immunities, resistances, and weaknesses. 
+
+It has no magic items except weapon potency runes.
+
+The duplicate gains the <<tag Minion>>trait, and it can only [[Stride]] and [[Strike]]. 
+
+Its Strikes deal the target’s normal damage but don’t apply added effects, since it doesn’t have special abilities. 
+
+The spell automatically ends if the duplicate’s Hit Points drop to 0.
+
+The duplicate attacks your enemies to the best of its abilities. You can also try to give it additional instructions; when you [[Sustain the Spell|Sustain a Spell]], you can also Command a Minion as part of your action, but the GM determines whether the duplicate follows your command. //This may be an error as there is no "Command a Minion" action.//
+
+The duplicate is unstable, so each turn after it takes its actions, it loses 4d6 Hit Points. It’s not a living creature, and it can never regain its lost Hit Points in any way.
+
+{{||SaveSuccessTable}}

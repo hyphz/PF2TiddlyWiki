@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722113311307
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 8
+m-range: Planetary
+m-save: 
+m-targets: Up to 12 creatures you know by name and have met in person
+m-time: 10 minutes
+modified: 20200722113524368
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Illusion Mental Sleep Arcane Occult Somatic Verbal Manipulate Concentrate Spell
+title: Dream Council
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+When you Cast this Spell, any targets—including you—can choose to immediately fall asleep. The spell ends for any creatures that don’t choose to fall asleep. 
+
+Sleepers join a shared dream, where they can communicate with one another as though they were in the same room. 
+
+Individual targets leave this shared dream upon awakening, and if all the targets awaken, the spell ends.

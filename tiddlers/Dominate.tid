@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722112105300
+m-area: 
+m-components: 
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 6
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200722112348020
+s-crit: The target is unaffected.
+s-fail: The target follows your orders but can attempt a [[Will]] save at the end of each of its turns. On a success, the spell ends.
+s-fumble: As a failure, but the target recieves a new save only if you give it a new order that is against its nature, such as killing its allies.
+s-hit: The target is [[Stunned]] 1 as it fights off your commands.
+tags: Uncommon Enchantment Incapacitation Mental Spell Arcane Occult Somatic Verbal
+title: Dominate
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You take command of the target, forcing it to obey your orders.
+
+The effect depends on its [[Will]] save.
+
+If you issue an obviously self-destructive order, the target doesn’t act until you issue a new order. 
+
+//This does not give the target the Controlled status.//
+
+''Heightened (10th)'' The duration is unlimited.
+
+{{||SaveSuccessTable}}

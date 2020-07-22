@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722104755004
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 <<tag Undead>>creature
+m-time: 
+modified: 20200722104922096
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Necromancy Positive Spell Cantrip Divine Primal Somatic Verbal Manipulate Concentrate
+title: Disrupt Undead
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You lance the target with energy. 
+
+You deal 1d6 <<tag Positive>>damage plus your spellcasting ability modifier. 
+
+The target must attempt a basic [[Fortitude]] save. 
+
+If the creature critically fails the save, it is also enfeebled 1 for 1 round.
+
+''Heightened (+1)'' The damage increases by 1d6.
+

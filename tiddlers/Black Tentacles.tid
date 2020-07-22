@@ -1,5 +1,5 @@
 a-crit: 
-a-defense: Fortitude
+a-defense: 
 a-fail: 
 a-fumble: 
 a-hit: 
@@ -9,10 +9,10 @@ m-components: Material, Somatic, Verbal
 m-duration: 1 minute
 m-level: 5
 m-range: 120 feet
-m-save: 
+m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200719163455552
+modified: 20200722114540074
 s-crit: 
 s-fail: 
 s-fumble: 

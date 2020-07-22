@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722104628648
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 120 feet
+m-save: 
+m-targets: 1 spell effect or unattended magic item
+m-time: 
+modified: 20200722104734870
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Abjuration Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+title: Dispel Magic
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You unravel the magic behind a spell or effect. 
+
+Attempt a [[Counteract]] check against the target. 
+
+If you succeed against a spell effect, you counteract it. 
+
+If you succeed against a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn’t change the item’s non-magical properties.
+
+If the target is an artifact or similar item, you automatically fail.

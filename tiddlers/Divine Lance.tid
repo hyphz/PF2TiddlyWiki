@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722110550854
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: AC
+m-targets: 1 creature
+m-time: 
+modified: 20200722110742117
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Attack Evocation Somatic Verbal Manipulate Concentrate Spell Cantrip
+title: Divine Lance
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You unleash a beam of divine energy. 
+
+Choose an alignment your deity has (<<tag Chaotic>>, <<tag Evil>>, <<tag Good>>, or <<tag Lawful>>). You can’t cast this spell if you don’t have a deity or if your deity is true neutral. The spell gains the trait of the alignment you chose.
+
+Make a ranged spell attack roll against the target’s [[AC]]. 
+
+On a hit, the target takes damage of the chosen alignment type equal to 1d4 + your spellcasting ability modifier (double damage on a critical hit). 
+
+''Heightened (+1)'' The damage increases by 1d4.

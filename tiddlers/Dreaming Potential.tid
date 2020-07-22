@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722113645238
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 8 hours
+m-level: 5
+m-range: Touch
+m-save: 
+m-targets: 1 willing sleeping creature
+m-time: 10 minutes
+modified: 20200722113800360
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Enchantment Mental Occult Material Somatic Verbal Spell Manipulate Concentrate
+title: Dreaming Potential
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You draw the target into a lucid dream where it can explore the endless possibilities of its own potential within the everchanging backdrop of its dreamscape. 
+
+If it sleeps the full 8 hours uninterrupted, when it wakes, it counts as having spent a day of downtime [[Retraining]], though it can’t use dreaming potential for any retraining that would require either an instructor or specialized knowledge it can’t access within the dream.

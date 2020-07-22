@@ -1,0 +1,41 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722105127241
+m-area: 10 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 8
+m-range: 
+m-save: Will
+m-targets: Allies in the area
+m-time: 
+mod-ac: Gives status bonus.
+mod-fortitude: Gives status bonus.
+mod-reflex: Gives status bonus.
+mod-sustain_a_spell: Aura expands when sustained.
+mod-will: Gives status bonus.
+modified: 20200722105444428
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Abjuration Spell Divine Somatic Verbal Manipulate Concentrate
+title: Divine Aura
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Divine power wards the targets, granting each a +1 status bonus to [[AC]] and saves while in the area.
+
+Choose an alignment your deity has (<<tag Chaotic>>, <<tag Evil>>, <<tag Good>>, or <<tag Lawful>>). You can’t cast this spell if you don’t have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. 
+
+The bonuses granted by the spell increase to +2 against attacks by—and effects created by—creatures with an alignment opposite to the spell (lawful if you chose chaotic, evil if you chose good). 
+
+These bonuses increase to +4 against effects created by such creatures that attempt to impose the [[Controlled]] condition on a target of your divine aura, as well as against attacks made by creatures summoned by anything opposite in alignment to your divine aura.
+
+When a creature of opposite alignment hits a target with a melee attack, the creature must succeed at a [[Will]] save or be [[Blinded]] for 1 minute. It’s then temporarily immune for 1 minute.
+
+The first time you [[Sustain the Spell|Sustain a Spell]] each round, the divine aura’s radius grows 10 feet.
