@@ -1,0 +1,15 @@
+created: 20200723190953067
+modified: 20200723191037083
+tags: Rule
+title: Advanced Alchemy
+type: text/vnd.tiddlywiki
+
+During your [[daily preparations|Rest]], after producing new infused reagents, you can spend batches of those infused reagents to create infused alchemical items. 
+
+You don’t need to attempt a [[Crafting]] check to do this, and you ignore both the number of days typically required to create the items and any alchemical reagent requirements.
+
+Your advanced alchemy level is equal to your level. 
+
+For each batch of infused reagents you spend, choose an alchemical item of your advanced alchemy level or lower that’s in your formula book, and make a batch of two of that item. 
+
+These items have the <<tag Infused>> trait and remain potent for 24 hours or until your next daily preparations, whichever comes first.

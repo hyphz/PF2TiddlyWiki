@@ -1,0 +1,12 @@
+created: 20200723211329833
+mod-rage: Lets you take a Rage action at the time you Rage.
+modified: 20200723211416741
+tags: Action Barbarian Free
+title: Mighty Rage
+type: text/vnd.tiddlywiki
+
+''Trigger'' You use the [[Rage]] action on your turn.
+
+Use an action that has the <<tag Rage>> trait. 
+
+Alternatively, you can increase the actions of the triggering Rage to 2 to instead use a 2-action activity with the rage trait.

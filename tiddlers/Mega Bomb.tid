@@ -1,0 +1,30 @@
+a-actions: 1
+a-defense: Reflex
+created: 20200723210233642
+feat-class: Alchemist
+feat-fpre: [[Expanded Splash]]
+feat-level: 20
+modified: 20200723210509367
+tags: Action Alchemist Class Feat Additive
+title: Mega Bomb
+type: text/vnd.tiddlywiki
+
+''Additive 3''.
+
+''Prerequisites'' [[Expanded Splash]].
+
+Requirements You are holding an <<tag Infused>>alchemical bomb you crafted, with a level at least 3 lower than your advanced alchemy level.
+
+You add an incredibly powerful additive to a held bomb to create a mega bomb, greatly increasing its area and power.
+
+You use an [[Interact]] action to throw the mega bomb, rather than Strike, and you don’t make an attack roll. 
+
+The mega bomb affects creatures in a 30-foot-radius burst, centered within 60 feet of you. 
+
+The bomb deals damage as if each creature were the primary target, with a basic [[Reflex]] save.
+
+On a failed save, a creature also takes any extra effects that affect a primary target (such as [[Flat-Footed]] from [[Bottled Lightning)]]. 
+
+While all targets in the area take splash damage as primary targets, there is no further splash beyond that area. 
+
+If your next action after creating a mega bomb isn’t an Interact action to throw it, the mega bomb denatures and loses all effects.

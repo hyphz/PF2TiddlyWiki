@@ -1,0 +1,19 @@
+created: 20200723202423691
+feat-class: Alchemist
+feat-level: 10
+mod-elixir_of_life: Lets created elixirs ease fear and paralysis.
+mod-quick_alchemy: Lets elixirs ease fear and paralysis. (Additive 2)
+modified: 20200723203003190
+tags: Feat Class Alchemist Additive Action Free
+title: Merciful Elixir
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per round
+
+''Trigger'' You craft an [[Elixir of Life]] using [[Quick Alchemy]], and that elixir is at least 2 levels lower than your advanced alchemy level.
+
+''Additive 2''.
+
+You mix a special additive into your elixir that calms the drinker’s body and mind. 
+
+The elixir of life attempts to [[Counteract]] one <<tag Fear>> effect or one effect imposing the [[Paralyzed]] condition on the drinker.

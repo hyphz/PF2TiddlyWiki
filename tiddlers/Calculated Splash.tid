@@ -1,0 +1,11 @@
+created: 20200723184902488
+feat-class: Alchemist
+feat-level: 4
+modified: 20200723184942300
+tags: Feat Alchemist Class
+title: Calculated Splash
+type: text/vnd.tiddlywiki
+
+You have calculated all the angles to maximize a bomb’s splash. 
+
+When you throw an alchemical bomb with the <<tag Splash>> trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 0) instead of the normal amount.

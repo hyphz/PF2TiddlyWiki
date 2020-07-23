@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Strike
+created: 20200723213449707
+feat-class: Barbarian
+feat-level: 2
+modified: 20200723213556850
+tags: Barbarian Class Feat Action Rage
+title: Furious Finish
+type: text/vnd.tiddlywiki
+
+Desperate to finish the fight, you pour all your rage into one final blow. 
+
+Make a [[Strike]]. 
+
+If it hits, you gain a circumstance bonus to damage equal to the number of rounds remaining in your Rage (maximum 10). 
+
+After this Strike, your Rage immediately ends, and you are [[Fatigued]] until you rest for at least 10 minutes.

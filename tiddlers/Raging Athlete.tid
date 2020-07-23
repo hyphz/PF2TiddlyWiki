@@ -1,0 +1,19 @@
+created: 20200723214928660
+feat-class: Barbarian
+feat-level: 4
+feat-skill: Athletics
+feat-spre: E
+mod-high_jump: Lowers DC by 10 when raging.
+mod-leap: Leap distance increases by 5 feet.
+mod-long_jump: Lowers DC by 10 when raging.
+mod-rage: Improves climbing, swimming and jumping when raging.
+modified: 20200723215407480
+tags: Barbarian Class Feat
+title: Raging Athlete
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' expert in [[Athletics]].
+
+Physical obstacles can’t hold back your fury. 
+
+While you are raging, you gain a climb Speed and swim Speed equal to your land Speed, the DC of [[High Jump]]s and [[Long Jump]]s decreases by 10, and your [[Leap]] distance increases by 5 feet when you jump horizontally and by 2 feet when you jump vertically.

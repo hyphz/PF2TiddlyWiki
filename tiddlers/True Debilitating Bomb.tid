@@ -1,0 +1,17 @@
+created: 20200723203859927
+feat-class: Alchemist
+feat-fpre: [[Greater Debilitating Bomb]]
+feat-level: 14
+mod-greater_debilitating_bomb: Adds more effect options and demotes some saves.
+modified: 20200723204034540
+tags: Alchemist Class Feat
+title: True Debilitating Bomb
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Greater Debilitating Bomb
+
+Ever inventive, you have discovered increasingly devastating ways for your bombs to impede and hamper your foes. 
+
+When you use [[Debilitating Bomb]], add the following to the list of effects you can choose from: [[Enfeebled]] 2, [[Stupefied]] 2, or a –15-foot status penalty to Speeds. 
+
+If you instead apply one of the effects listed in Debilitating Bomb, the target avoids the effect only if the result of its saving throw is a critical success.

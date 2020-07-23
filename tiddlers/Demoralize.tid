@@ -4,7 +4,8 @@ a-defense: Will
 a-hit: The target becomes [[Frightened]] 1.
 a-skill: Intimidation
 created: 20200706221301428
-modified: 20200706221443134
+modified: 20200723212530226
+modified-by: Intimidation
 tags: Auditory Action Concentrate Emotion Mental Untrained
 title: Demoralize
 type: text/vnd.tiddlywiki

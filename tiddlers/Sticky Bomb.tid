@@ -1,0 +1,20 @@
+created: 20200723201246028
+feat-class: Alchemist
+feat-level: 8
+mod-quick_alchemy: Lets you add persistent damage to bombs (additive 2)
+modified: 20200723201525049
+tags: Alchemist Additive Feat Class Action Free
+title: Sticky Bomb
+type: text/vnd.tiddlywiki
+
+''Frequency'' Once per round.
+
+''Trigger'' You use [[Quick Alchemy]] to craft an alchemical bomb, and that bomb’s level is at least 2 levels lower than your [[Advanced Alchemy]] level.
+
+''Additive 2''.
+
+You mix in an additive to make your bomb’s contents adhere to the target and continue to deal damage. 
+
+A creature that takes a direct hit from one of your sticky bombs also takes persistent damage equal to and of the same type as the bomb’s splash damage. 
+
+If the bomb already deals persistent damage, combine the two amounts.

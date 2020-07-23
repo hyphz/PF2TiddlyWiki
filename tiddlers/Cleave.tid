@@ -1,0 +1,14 @@
+a-subactions: Strike
+created: 20200723220748464
+feat-class: Barbarian
+feat-level: 6
+modified: 20200723220854723
+tags: Barbarian Class Feat Rage Action Reaction
+title: Cleave
+type: text/vnd.tiddlywiki
+
+''Trigger'' Your melee [[Strike]] kills a creature or knocks it [[Unconscious]], and another foe is adjacent to that creature.
+
+You swing clear through one foe and into another. 
+
+Make a melee Strike against the second foe.

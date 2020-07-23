@@ -1,0 +1,15 @@
+created: 20200723202128781
+feat-class: Alchemist
+feat-fpre: [[Debilitating Bomb]]
+feat-level: 10
+mod-debilitating_bomb: Upgrades available list of effects.
+modified: 20200723202310529
+tags: Alchemist Class Feat
+title: Greater Debilitating Bomb
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' [[Debilitating Bomb]].
+
+You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. 
+
+When you use [[Debilitating Bomb]], add the following to the list you can choose from: [[Clumsy]] 1, [[Enfeebled]] 1, [[Stupefied]] 1, or –10-foot status penalty to Speeds.

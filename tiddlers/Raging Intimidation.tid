@@ -1,0 +1,15 @@
+created: 20200723212223831
+feat-class: Barbarian
+feat-level: 1
+mod-intimidating_glare: Grants this automatically and gives it the rage trait.
+mod-scare_to_death: Grants this automatically and gives it the rage trait.
+modified: 20200723212456078
+tags: Barbarian Class Feat
+title: Raging Intimidation
+type: text/vnd.tiddlywiki
+
+Your fury fills your foes with fear. 
+
+While you are raging, your [[Demoralize]] and [[Scare to Death]] actions gain the <<tag Rage>> trait, allowing you to use them while raging. 
+
+As soon as you meet the prerequisites for the skill feats [[Intimidating Glare]] and [[Scare to Death]], you gain these feats.

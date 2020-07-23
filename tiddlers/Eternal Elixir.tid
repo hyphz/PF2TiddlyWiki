@@ -1,0 +1,19 @@
+created: 20200723204117044
+feat-class: Alchemist
+feat-fpre: [[Extend Elixir]]
+feat-level: 16
+mod-extend_elixir: Allows an elixir to last indefinately.
+modified: 20200723204250249
+tags: Alchemist Class Feat
+title: Eternal Elixir
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' [[Extend Elixir]].
+
+Your body readily accepts and retains minor changes. 
+
+When you drink one of your alchemical items that has the <<tag Elixir>> and <<tag Infused>> traits and a duration of 1 minute or more, you can make the elixir’s duration indefinite. 
+
+You can do so only if the elixir’s level is half your level or lower. 
+
+If you later consume a different elixir and make it indefinite, the effect of the previous indefinite elixir ends.

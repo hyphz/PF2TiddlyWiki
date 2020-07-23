@@ -1,0 +1,15 @@
+created: 20200723203138100
+feat-class: Alchemist
+feat-fpre: [[Far Lobber]]
+feat-level: 12
+mod-concealed: Can make flat check succeed when bombing a creature.
+modified: 20200723203341906
+tags: Alchemist Class Feat
+title: Uncanny Bombs
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' [[Far Lobber]].
+
+You lob bombs unerringly, despite obstructions or distance.
+
+When you throw an alchemical item with the <<tag Bomb>> trait, its [[Range Increment]] increases to 60 feet, you reduce any circumstance bonus to the target’s [[AC]] from cover by 1, and you automatically succeed at the flat check when targeting a [[Concealed]] creature.

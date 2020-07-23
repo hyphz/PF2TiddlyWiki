@@ -1,0 +1,13 @@
+created: 20200723185722543
+feat-class: Alchemist
+feat-level: 4
+mod-quick_alchemy: Items stay potent until the end of your next turn.
+modified: 20200723185827455
+tags: Alchemist Feat Class
+title: Enduring Alchemy
+turn-eun: Created items lose their potency.
+type: text/vnd.tiddlywiki
+
+You’ve learned how to make your personal energy last just a little bit longer when quickly brewing ad hoc concoctions.
+
+When using [[Quick Alchemy]] to create an alchemical tool or elixir, that tool or elixir remains potent until the end of your next turn, instead of losing its potency at the start of your next turn.

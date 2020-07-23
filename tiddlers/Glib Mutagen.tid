@@ -1,0 +1,14 @@
+created: 20200723203404046
+feat-class: Alchemist
+feat-level: 14
+mod-silvertongue_mutagen: Allows mutagen to benefit social checks and transcend language.
+modified: 20200723203643215
+tags: Alchemist Class Feat
+title: Glib Mutagen
+type: text/vnd.tiddlywiki
+
+Your [[Silvertongue Mutagen]] transcends languages and plausibility. 
+
+When affected by a silvertongue mutagen you have created, you ignore circumstance penalties to [[Deception]], [[Diplomacy]], [[Intimidation]], and [[Performance]] checks. 
+
+In addition, your words transcend linguistic barriers; everyone listening to you speak hears your words as if you were speaking in their own language (though you do not actually speak that language, nor does this ability allow you to understand any additional languages).

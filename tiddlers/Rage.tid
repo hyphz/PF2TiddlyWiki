@@ -1,0 +1,27 @@
+a-actions: 1
+a-class: Barbarian
+created: 20200723210941794
+modified: 20200723212134924
+tags: Action Barbarian Concentrate Emotion Mental
+title: Rage
+type: text/vnd.tiddlywiki
+
+''Requirements'' You aren’t [[Fatigued]] or raging //and you haven't raged in the past minute.//
+
+You tap into your inner fury and begin raging. 
+
+You gain a number of temporary Hit Points equal to your level plus your [[Constitution]] modifier. 
+
+This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[Unconscious]], whichever comes first. 
+
+You can’t voluntarily stop raging. 
+
+While you are raging:
+
+* You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is <<tag Agile>>.
+* You take a –1 penalty to [[AC]].
+* You can’t use actions with the <<tag Concentrate>>trait unless they also have the <<tag Rage>> trait. You can [[Seek]] while raging.
+
+After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can’t Rage again for 1 minute.
+
+You can't use actions with the <<tag Rage>> trait unless you're raging, and they end automatically when you stop raging.

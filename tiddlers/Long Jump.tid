@@ -4,7 +4,8 @@ a-fumble: You Leap normally, but then fall and land [[Prone]].
 a-hit: Increase the maximum horizontal distance you Leap to the desired distance.
 a-skill: Athletics
 created: 20200704174346099
-modified: 20200706215929193
+modified: 20200723215245581
+modified-by: Athletics Leap
 tags: Action Untrained
 title: Long Jump
 type: text/vnd.tiddlywiki

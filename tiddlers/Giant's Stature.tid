@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20200723221421115
+feat-class: Barbarian
+feat-level: 6
+feat-sppre: [[Giant Instinct]]
+modified: 20200723222634752
+tags: Barbarian Instinct Polymorph Primal Rage Transmutation Action Feat
+title: Giant's Stature
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Giant Instinct]].
+
+''Requirements'' You are Medium or smaller.
+
+You grow to incredible size. 
+
+You become <<tag Large>>, increasing your reach by 5 feet and gaining the [[Clumsy]] 1 condition until you stop raging. 
+
+Your equipment grows with you.

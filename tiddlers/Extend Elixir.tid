@@ -1,0 +1,11 @@
+created: 20200723202830666
+feat-class: Alchemist
+feat-level: 12
+modified: 20200723203032156
+tags: Class Alchemist Feat
+title: Extend Elixir
+type: text/vnd.tiddlywiki
+
+Integrating your own personal energy into the elixirs you create causes them to affect you for longer. 
+
+When you consume one of your alchemical items that has the <<tag Elixir>>and <<tag Infused>>traits and a duration of 1 minute or longer, that elixir’s duration is doubled.

@@ -1,0 +1,18 @@
+created: 20200723205048359
+feat-class: Alchemist
+feat-level: 18
+mod-craft: Lets you craft potions as alchemical items.
+modified: 20200723205214092
+tags: Alchemist Class Feat
+title: Improbable Elixirs
+type: text/vnd.tiddlywiki
+
+Your mastery of alchemical secrets enables you to replicate effects most believe can be achieved only via magic. 
+
+Select a number of <<tag Potion>>s equal to your [[Intelligence]] modifier (minimum 1) of 9th level or lower. 
+
+You gain formulas to [[Craft]] these potions as alchemical items with the <<tag Elixir>> trait. 
+
+When Crafting these alchemical elixirs, you can substitute alchemical reagents for an equal value of magical components, and you can use alchemist’s tools instead of any other required tool kits. Other than that, the formula does not change. 
+
+Once you’ve chosen the potion formulas, they can’t be changed.

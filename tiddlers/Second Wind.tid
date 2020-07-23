@@ -1,0 +1,12 @@
+created: 20200723214112456
+feat-class: Barbarian
+feat-level: 2
+mod-rage: You can Rage in quick succession but become fatigued.
+modified: 20200723214247189
+tags: Barbarian Class Feat
+title: Second Wind
+type: text/vnd.tiddlywiki
+
+You can enter a second rage, but afterward you need to catch your breath. 
+
+You can [[Rage]] without waiting for 1 minute after the previous Rage (or 1 round, with [[Quick Rage]]), but when you end this second Rage, you’re [[Fatigued]] until you rest for 10 minutes.

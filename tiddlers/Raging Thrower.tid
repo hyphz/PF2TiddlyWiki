@@ -1,0 +1,16 @@
+created: 20200723212704568
+feat-class: Barbarian
+feat-level: 1
+mod-brutal_critical: Lets this be applied to thrown weapon attacks.
+mod-devastator: Lets this be applied to thrown weapon attacks.
+mod-rage: Lets this be applied to thrown weapon attacks.
+modified: 20200723212840331
+tags: Barbarian Class Feat
+title: Raging Thrower
+type: text/vnd.tiddlywiki
+
+Thrown weapons become especially deadly in your fury. 
+
+You apply the additional damage from [[Rage]] to your thrown weapon attacks. 
+
+If you have the [[Brutal Critical]] feat or the [[Devastator]] class feature, apply their benefits to thrown weapon attacks.

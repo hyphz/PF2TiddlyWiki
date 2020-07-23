@@ -1,0 +1,12 @@
+created: 20200723213338509
+feat-class: Barbarian
+feat-level: 2
+mod-rage: Gives you scent as a sense when raging.
+modified: 20200723213420654
+tags: Barbarian Class Feat
+title: Acute Scent
+type: text/vnd.tiddlywiki
+
+When you [[Rage]], your sense of smell improves. 
+
+You gain imprecise scent with a range of 30 feet.

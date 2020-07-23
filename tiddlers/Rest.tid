@@ -1,5 +1,5 @@
 created: 20200718214612222
-modified: 20200719183629589
+modified: 20200723205010792
 tags: Rule
 title: Rest
 type: text/vnd.tiddlywiki
@@ -25,6 +25,7 @@ If you go more than 16 hours without resting, you become [[Fatigued]] (you canno
 After you rest, you make your daily preparations, which takes around 1 hour. You can prepare only if you’ve rested, and only once per day. Preparing includes the following:
 
 * Spellcasters regain spell slots, and prepared spellcasters choose spells to have available that day.
+* //Alchemists produce new [[Infused Reagents]] and perform [[Advanced Alchemy]]. They lose their previous infused reagents and lose and end non-permanent effects of <<tag Infused>> items. [[Persistent Mutagen]]s wear off.//
 * Focus Points, other abilities that refresh during your preparations, and abilities that can be used only a certain number of times per day, including magic item uses, are reset.
 * You don armor and equip weapons and other gear.
 * You invest up to 10 worn magic items to gain their benefits for the day.

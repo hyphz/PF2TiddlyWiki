@@ -1,0 +1,12 @@
+created: 20200723191410078
+feat-class: Alchemist
+feat-level: 8
+mod-quick_alchemy: Lets you change item's save DC to your class DC.
+modified: 20200723191505038
+tags: Alchemist Class Feat
+title: Powerful Alchemy
+type: text/vnd.tiddlywiki
+
+Alchemical items you create on the fly are particularly potent.
+
+When you use [[Quick Alchemy]] to create an <<tag Infused>> alchemical item that allows a saving throw, you can change its DC to your class DC.

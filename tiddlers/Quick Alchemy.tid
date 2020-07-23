@@ -1,0 +1,20 @@
+a-actions: 1
+a-class: Alchemist
+a-hands: 1
+a-tool: Alchemist's Tools
+created: 20200723185140278
+modified: 20200723185457883
+tags: Action Alchemist Manipulate
+title: Quick Alchemy
+turn-sun: Created items lose their potency.
+type: text/vnd.tiddlywiki
+
+''Cost'' 1 batch of Infused Reagents
+
+''Requirements'' Alchemist's Tools, the formula for the item you're creating, and a free hand.
+
+You swiftly mix up a short-lived alchemical item to use at a moment’s notice. 
+
+You create a single alchemical item of your advanced alchemy level or lower that’s in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [[Crafting]] check.
+
+This item has the <<tag Infused>>trait, but it remains potent only until the start of your next turn.

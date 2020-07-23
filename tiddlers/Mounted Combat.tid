@@ -1,7 +1,7 @@
 created: 20200722205037412
 mod-cover: You have lesser cover if your mount would be in the way of an attack.
 mod-reflex: You take -2 circumstance to Reflex when mounted.
-modified: 20200722205303383
+modified: 20200723184412010
 tags: Rule
 title: Mounted Combat
 type: text/vnd.tiddlywiki
@@ -13,6 +13,8 @@ As noted in the [[Mount]] specialty basic action, your mount needs to be at leas
 Your mount acts on your initiative. 
 
 You must use the [[Command an Animal]] action to get your mount to spend its actions. If you don’t, the animal wastes its actions. For example, if you are mounted on a horse and you make three attacks, your horse would remain stationary since you didn’t command it. If you instead spent your first action to Command an Animal and succeeded, you could get your mount to [[Stride]]. You could spend your next action to attack or to command the horse to attack, but not both.
+
+For an intelligent mount (such as a pegasus or unicorn), use the standard rules for mounted combat, but instead of attempting a check to Command an Animal, the rider uses the same number of actions to ask the creature to do what they want. As the GM, you determine whether the creature does as requested and whether [[Diplomacy]] checks or the like are needed. It’s recommended you disallow humanoid creatures and most other bipeds as mounts, especially if they are PCs. If you choose to allow this anyway, either the rider or mount should use at least one hand to hold onto the other, and both should spend an action on each of their turns to remain mounted.
 
 If you have the [[Ride]] general feat, you succeed automatically when you Command an Animal that’s your mount. 
 

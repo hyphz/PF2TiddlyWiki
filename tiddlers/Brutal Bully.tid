@@ -1,0 +1,19 @@
+created: 20200723220445466
+feat-class: Barbarian
+feat-level: 6
+feat-skill: Athletics
+feat-spre: E
+mod-disarm: Adds extra bludgeoning damage when raging.
+mod-grapple: Adds extra bludgeoning damage when raging.
+mod-shove: Adds extra bludgeoning damage when raging.
+mod-trip: Adds extra bludgeoning damage when raging.
+modified: 20200723220657051
+tags: Barbarian Class Feat
+title: Brutal Bully
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Expert in [[Athletics]].
+
+You push your foes around and leave bruises. 
+
+While raging, when you successfully [[Disarm]], [[Grapple]], [[Shove]], or [[Trip]] a foe, you deal that foe bludgeoning damage equal to your [[Strength]] modifier; add this to the damage from a critical success to Trip.

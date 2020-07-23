@@ -1,0 +1,12 @@
+created: 20200723215714251
+feat-class: Barbarian
+feat-level: 4
+mod-rage: Lets you Rage when you take damage.
+modified: 20200723215813003
+tags: Barbarian Class Feat Rage Action Reaction
+title: Wounded Rage
+type: text/vnd.tiddlywiki
+
+''Trigger'' You take damage and are capable of entering a rage.
+
+You roar in pain, awakening the rage within you. You [[Rage]].

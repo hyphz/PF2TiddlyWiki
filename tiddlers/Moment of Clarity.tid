@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200723212901155
+mod-rage: Can let you use Concentrate actions while Raging.
+modified: 20200723213104783
+tags: Barbarian Feat Class Concentrate Rage Action
+title: Moment of Clarity
+turn-euc: Ability to use non-rage Concentrate action ends.
+type: text/vnd.tiddlywiki
+
+You push back your rage for a moment in order to think clearly. 
+
+Until the end of this turn, you can use actions with the <<tag Concentrate>>trait even if those actions don’t have the <<tag Rage>>trait.

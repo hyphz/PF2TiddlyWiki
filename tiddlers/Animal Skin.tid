@@ -1,0 +1,17 @@
+created: 20200723215904232
+feat-class: Barbarian
+feat-level: 6
+feat-sppre: Animal Instinct
+mod-rage: Reverses AC penalty and improves Dex cap.
+modified: 20200723220138343
+tags: Barbarian Instinct Morph Primal Transmutation Class Feat
+title: Animal Skin
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Animal Instinct]].
+
+Your proficiency in unarmored defense increases to expert.
+
+While you are raging and unarmored, your skin transforms into a thick hide resembling your animal’s skin. You gain a +1 status bonus to [[AC]] instead of taking a –1 penalty to AC; if you have the [[Greater Juggernaut]] class feature, this status bonus increases to +2. 
+
+The thickness of your hide gives you a [[Dexterity]] modifier cap to your AC of +3.

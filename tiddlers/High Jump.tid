@@ -5,7 +5,8 @@ a-fumble: You don’t Leap at all, and instead you fall prone in your space.
 a-hit: Increase the maximum vertical distance to 5 feet.
 a-skill: Athletics
 created: 20200702223304964
-modified: 20200706215910578
+modified: 20200723215156893
+modified-by: Athletics
 tags: Action Untrained
 title: High Jump
 type: text/vnd.tiddlywiki

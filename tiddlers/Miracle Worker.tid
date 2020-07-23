@@ -1,0 +1,16 @@
+created: 20200723205439622
+feat-class: Alchemist
+feat-level: 18
+mod-elixir_of_life: Allows True Elixir of Life to restore the dead.
+modified: 20200723205715629
+tags: Alchemist Class Feat
+title: Miracle Worker
+type: text/vnd.tiddlywiki
+
+''Frequency'' once every 10 minutes.
+
+Your alchemical mastery can resuscitate the recently slain.
+
+You can administer a true [[Elixir of Life]] to a creature who has been dead for no more than 2 rounds. 
+
+When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[Wounded]] 1.

@@ -1,0 +1,13 @@
+a-actions: 1
+created: 20200723222015117
+feat-class: Barbarian
+feat-level: 6
+feat-sppre: [[Spirit Instinct]]
+modified: 20200723222612897
+tags: Barbarian Divine Instinct Necromancy Rage Action Feat Class
+title: Spirits' Interference
+type: text/vnd.tiddlywiki
+
+You call forth protective spirits to ward off ranged attacks. 
+
+Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 flat check or the attack misses with no effect.

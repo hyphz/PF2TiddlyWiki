@@ -1,13 +1,14 @@
+a-subactions: Strike
 created: 20200627183002759
-modified: 20200627183303694
+modified: 20200723220404237
 tags: Action Reaction
 title: Attack of Opportunity
 type: text/vnd.tiddlywiki
 
-''Trigger'' A creature within the monster’s reach uses a [[Manipulate]] action or a [[Move]] action, makes a ranged attack, or leaves a square during a move action it’s using. 
+''Trigger'' A creature within the monster’s reach uses a <<tag Manipulate>>action or a <<tag Move>>action, makes a ranged attack, or leaves a square during a move action it’s using. 
 
 The creature attempts a melee [[Strike]] against the triggering creature. 
 
-If the attack is a critical hit and the trigger was a manipulate action, the creature disrupts that action. 
+If the attack is a critical hit and the trigger was a <<tag Manipulate>>action, the creature disrupts that action. 
 
-This Strike doesn’t count toward the user’s multiple attack penalty, and its multiple attack penalty doesn’t apply to this Strike.
+This Strike doesn’t count toward the user’s [[Multiple Attack Penalty]], and its multiple attack penalty doesn’t apply to this Strike.

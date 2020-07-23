@@ -1,0 +1,21 @@
+a-actions: 2
+a-defense: Reflex
+created: 20200723220947665
+feat-class: Barbarian
+feat-level: 6
+modified: 20200723221259935
+tags: Arcane Barbarian Concentrate Evocation Instinct Rage Action Class Feat
+title: Dragon's Rage Breath
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Dragon Instinct]].
+
+''Requirements'' You haven’t used this ability since you last Raged.
+
+You breathe deeply and exhale powerful energy in a 30-foot [[Cone]] or 60-foot [[Line]], dealing 1d6 damage per level. 
+
+The area and damage type match those of your dragon. 
+
+If you used this ability in the last hour, the area and the damage are halved (15-foot cone or 30-foot line; 1d6 damage for every 2 levels).
+
+Each creature in the area must attempt a basic [[Reflex]] save.

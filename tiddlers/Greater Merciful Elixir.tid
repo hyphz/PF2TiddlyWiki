@@ -1,0 +1,15 @@
+created: 20200723203649378
+feat-class: Alchemist
+feat-fpre: [[Merciful Elixir]]
+feat-level: 14
+mod-merciful_elixir: Allows elixir to counteract more conditions.
+modified: 20200723203825234
+tags: Feat Alchemist Class
+title: Greater Merciful Elixir
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' [[Merciful Elixir]].
+
+Your additives contain panaceas that can remedy a plethora of maladies. 
+
+When you use [[Merciful Elixir]], your elixir can instead attempt to [[Counteract]] the [[Blinded]], [[Deafened]], [[Sickened]], or [[Slowed]] condition.
