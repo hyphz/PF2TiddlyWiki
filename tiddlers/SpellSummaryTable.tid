@@ -1,5 +1,5 @@
 created: 20200627214018361
-modified: 20200722193111373
+modified: 20200724223134582
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
@@ -10,5 +10,5 @@ type: text/vnd.tiddlywiki
 |!Range|{{!!m-range}}|
 |!Area|{{!!m-area}}|
 |!Target|{{!!m-targets}}|
-|!Save|{{!!m-save}}|
+|!Save|<$link to={{!!m-save}} />|
 |!Duration|{{!!m-duration}}|

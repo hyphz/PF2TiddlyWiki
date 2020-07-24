@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724232945196
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 4
+m-range: Touch
+m-save: 
+m-targets: 1 creature touched
+m-time: 
+mod-escape: Gives auto success against lower level effects than the spell.
+mod-grabbed: Allows auto Escape success against lower level effects.
+mod-immobilized: Allows auto Escape success against lower level effects.
+mod-restrained: Allows auto Escape success against lower level effects.
+mod-speed: Disables circumstance penalties.
+modified: 20200724233234920
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Abjuration Arcane Divine Primal Somatic Verbal Concentrate Manipulate
+title: Freedom of Movement
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You repel effects that would hinder a creature or slow its movement. 
+
+While under this spell’s effect, the target ignores effects that would give them a circumstance penalty to Speed. 
+
+When they attempt to [[Escape]] an effect that has them [[Immobilized]], [[Grabbed]], or [[Restrained]], they automatically succeed unless the effect is magical and of a higher level than the freedom of movement spell.

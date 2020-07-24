@@ -1,5 +1,5 @@
 created: 20200719183734885
-modified: 20200719183853215
+modified: 20200724225305942
 tags: Area
 title: Cone
 type: text/vnd.tiddlywiki
@@ -17,3 +17,14 @@ The cone extends out for a number of feet, widening as it goes, as shown in the 
 For instance, when a green dragon uses its breath weapon, it breathes a cone of poisonous gas that originates at the edge of one square of its space and affects a quarter-circle area 30 feet on each edge.
 
 If you make a cone originate from someone or something else, follow these same rules, with the first square of the cone using an edge or corner of that creature or object’s space instead of your own.
+
+//Measure the distance to the target in the standard way, with every other diagonal square counted as 10'.// 
+
+//This has the effect that cones become ''less'' wide at the very end of their range.//
+
+//If the cone originates at the corner of a square, targets not in the quadrant of the area bounded by that corner cannot be affected. //
+
+//If the cone originates at the edge of a square, targets only reached by moving parallel to that edge more often than away from it cannot be affected. //
+
+//A cone's width at a given point is ''not'' equal to the distance of the centre from the point of origin. (That's that other game.)//
+ 

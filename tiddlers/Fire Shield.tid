@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724224148540
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200724224300556
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Evocation Fire Arcane Primal Somatic Verbal Manipulate Concentrate
+title: Fire Shield
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You wreathe yourself in ghostly flames, gaining <<tag Cold>>[[Resistance]] 5. 
+
+Additionally, adjacent creatures that hit you with a melee attack, as well as creatures that touch you or hit you with an unarmed attack, take 2d6 fire damage each time they do.
+
+''Heightened (+2)'' The cold resistance increases by 5, and the fire damage increases by 1d6.

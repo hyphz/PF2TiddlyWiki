@@ -1,0 +1,11 @@
+created: 20200724232811324
+modified: 20200724232917213
+tags: Action Reaction Implied
+title: Activate Foresight
+type: text/vnd.tiddlywiki
+
+''Trigger'' The target of //your// [[Foresight]] //spell// defends against a hostile creature or other danger. 
+
+If the hostile creature or danger forces the target to roll dice (a saving throw, for example), the target rolls twice and uses the higher result, and this spell gains the <<tag Fortune>>trait. 
+
+If the hostile creature or danger is rolling against the target (an attack roll or skill check, for example), that hostile creature or danger rolls twice and uses the lower result, and this spell gains the <<tag Misfortune>>trait.

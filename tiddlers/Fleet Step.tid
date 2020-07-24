@@ -1,0 +1,27 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724225854088
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200724225933065
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Transmutation Arcane Primal Somatic Verbal
+title: Fleet Step
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You gain a +30-foot status bonus to your Speed.
+

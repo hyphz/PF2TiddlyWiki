@@ -1,0 +1,19 @@
+created: 20200724230123349
+modified: 20200724230400648
+tags: School
+title: Illusion
+type: text/vnd.tiddlywiki
+
+Illusions create the semblance of something real, fooling the eyes, ears, and other senses. 
+
+They almost always have the <<tag Mental>> trait, and depending on how the illusion is perceived, they might also have the <<tag Auditory>> or <<tag Visual>> trait.
+
+Sometimes illusions allow an affected creature a chance to disbelieve the spell, which lets the creature effectively ignore the spell if it succeeds at doing so. 
+
+This usually happens when a creature [[Seek]]s or otherwise spends actions to engage with the illusion, comparing the result of its Perception check (or another check or saving throw, at the GM’s discretion) to the caster’s spell DC. 
+
+Mental illusions typically provide rules in the spell’s description for disbelieving the effect (often allowing the affected creature to attempt a Will save).
+
+If the illusion is <<tag Visual>>, and a creature interacts with the illusion in a way that would prove it is not what it seems, the creature might know that an illusion is present, but it still can’t ignore the illusion without successfully disbelieving it. For instance, if a character is pushed through the illusion of a door, they will know that the door is an illusion, but they still can’t see through it. 
+
+Disbelieving an illusion makes it and those things it blocks seem hazy and indistinct, so even in the case where a visual illusion is disbelieved, it may, at the GM’s discretion, block vision enough to make those on the other side [[Concealed]].

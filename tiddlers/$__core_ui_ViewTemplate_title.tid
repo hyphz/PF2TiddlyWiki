@@ -1,5 +1,5 @@
 created: 20200722215251349
-modified: 20200722222358112
+modified: 20200724230904078
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/title
 type: text/vnd.tiddlywiki
@@ -38,7 +38,7 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 <$list filter="[all[current]tag[Reaction]]">
 <$transclude tiddler="ReactionIcon"/>
 </$list>
-<$list filter="[all[current]list[!!m-components]count[]compare:number:eq[1]]">
+<$list filter="[all[current]!tag[Reaction]list[!!m-components]count[]compare:number:eq[1]]">
 <$transclude tiddler="OneAction"/>
 </$list>
 <$list filter="[all[current]list[!!m-components]count[]compare:number:eq[2]]">

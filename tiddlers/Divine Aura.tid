@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: Allies in the area
 m-time: 
-mod-ac: Gives status bonus.
-mod-fortitude: Gives status bonus.
-mod-reflex: Gives status bonus.
+mod-ac: Gives +1/+2 status.
+mod-fortitude: Gives +1/+2 status.
+mod-reflex: Gives +1/+2 status.
 mod-sustain_a_spell: Aura expands when sustained.
-mod-will: Gives status bonus.
-modified: 20200722105444428
+mod-will: Gives +1/+2 status.
+modified: 20200724232422323
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724225707407
+m-area: 1 5-foot square
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 2
+m-range: 30 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200724225838703
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Fire Arcane Primal Somatic Verbal Concentrate Manipulate Spell
+title: Flaming Sphere
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a sphere of flame in a square within range. 
+
+The sphere must be supported by a solid surface, such as a stone floor. 
+
+The sphere deals 3d6 fire damage to each creature in the square where it first appears; each creature must attempt a basic [[Reflex]] save. 
+
+On subsequent rounds, you can [[Sustain this Spell|Sustain a Spell]], leaving the sphere in its square or rolling it to another square within range and dealing 3d6 fire damage; each creature in its square must attempt a basic Reflex save.
+
+Creatures that succeed at their save take no damage (instead of half).
+
+''Heightened (+1)'' The damage increases by 1d6.

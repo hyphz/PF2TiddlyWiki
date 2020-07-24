@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724231948488
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 ally and 1 enemy
+m-time: 
+mod-ac: Gives +1/+2 status against a specific enemy.
+mod-fortitude: Gives +1/+2 status against a specific enemy.
+mod-reflex: Gives +1/+2 status against a specific enemy.
+mod-will: Gives +1/+2 status against a specific enemy.
+modified: 20200724232149151
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Abjuration Cantrip Divine Occult Somatic Verbal Concentrate Manipulate
+title: Forbidding Ward
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You ward an ally against the attacks and hostile spells from the target enemy. 
+
+The target ally gains a +1 status bonus to [[Armor Class|AC]] and saving throws against the target enemy’s attacks, spells, and other effects.
+
+''Heightened (6th)'' The status bonus increases to +2.

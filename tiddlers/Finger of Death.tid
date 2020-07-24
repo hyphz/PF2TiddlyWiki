@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724223822072
+m-area: 
+m-components: Divine Primal
+m-duration: 
+m-level: 7
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20200724223933514
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Death Necromancy Divine Primal Spell Somatic Verbal Manipulate Concentrate
+title: Finger of Death
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You point your finger toward the target and speak a word of slaying. 
+
+You deal 70 <<tag Negative>>damage to the target //with a basic [[Fortitude]] save//. 
+
+If the damage from finger of death reduces the target to 0 Hit Points, the target dies instantly.
+
+''Heightened (+1)'' The damage increases by 10.

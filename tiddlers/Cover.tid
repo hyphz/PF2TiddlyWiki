@@ -1,9 +1,9 @@
 created: 20200722204342518
 mod-ac: Gives a circumstance bonus to AC.
 mod-hide: Having standard or greater cover is enough to Hide.
-mod-reflex: Gives a bonus to Reflex saves against area effects.
-mod-stealth: Gives a bonus to Stealth checks to avoid detection.
-modified: 20200722204956166
+mod-reflex: Gives +2/+4 circumstance saves against area effects.
+mod-stealth: Gives +2/+4 circumstance to checks to avoid detection.
+modified: 20200724232342934
 tags: Rule
 title: Cover
 type: text/vnd.tiddlywiki

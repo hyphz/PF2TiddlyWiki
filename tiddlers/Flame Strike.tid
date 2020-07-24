@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724225534193
+m-area: 10-foot radius, 40-foot-tall cylinder
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200724225654471
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Evocation Fire Divine Somatic Verbal Manipulate Concentrate
+title: Flame Strike
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call a rain of divine fire that plummets down from above, dealing 8d6 fire damage //with a basic [[Reflex]] save.// 
+
+Because the flame is infused with divine energy, creatures in the area apply only half their usual
+fire resistance. 
+
+Creatures that are immune to fire, instead of gaining the usual benefit of immunity, treat the results of their saving throws as one degree of success better.
+
+''Heightened (+1)'' The damage increases by 2d6.

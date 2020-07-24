@@ -12,10 +12,10 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-mod-fortitude: Gives status bonus against spells.
-mod-reflex: Gives status bonus against spells.
-mod-will: Gives status bonus against spells.
-modified: 20200722111147712
+mod-fortitude: Gives +1 status bonus against spells.
+mod-reflex: Gives +1 status bonus against spells.
+mod-will: Gives +1 status bonus against spells.
+modified: 20200724232253571
 s-crit: 
 s-fail: 
 s-fumble: 

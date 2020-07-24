@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724223400744
+m-area: 20-foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 6
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200724223602869
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Healing Necromancy Positive Somatic Verbal Divine Primal Concentrate Manipulate
+title: Field of Life
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A field of positive energy fills the area, exuding warmth and rejuvenating those within. 
+
+Each living creature that starts its turn in the area regains 1d8 Hit Points, and any <<tag Undead>>creature that starts its turn in the area takes 1d8 positive damage.
+
+''Heightened (8th)'' The healing and damage increase to 1d10.
+
+''Heightened (9th)'' The healing and damage increase to 1d12.

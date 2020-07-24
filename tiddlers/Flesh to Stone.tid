@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724231028027
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 6
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 1 creature made of flesh
+m-time: 
+mod-slowed: A creature slowed to 0 actions by this spell turns to stone permanently.
+modified: 20200724231528533
+s-crit: The target is unaffected.
+s-fail: The target is [[Slowed]] 1 and must attempt a Fortitude save at the end of each of its turns. This ongoing save has the <<tag Incapacitation>>trait //(so creatures of higher level promote their saving throws)//. On a failed save, the slowed condition increases by 1 (or 2 on a critical failure). A successful save reduces the Slowed condition by 1. When a creature is unable to act due to the slowed condition from Flesh to Stone, the creature is petrified permanently. The spell ends if the creature is petrified or the slowed condition is removed.
+s-fumble: As failure, but the target is initially slowed 2.
+s-hit: The target is [[Slowed]] 1 for 1 round.
+tags: Spell Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Flesh to Stone
+turn-etn: A target turning into stone must save to see if they continue.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You try to turn the target’s flesh into stone. 
+
+The target must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724222554963
+m-area: 
+m-components: Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 1 falling creature
+m-time: 
+modified: 20200724230913263
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Abjuration Arcane Primal Verbal Reaction Concentrate
+title: Feather Fall
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You cause the air itself to arrest a fall. 
+
+The target’s fall slows to 60 feet per round, and the portion of the fall during the spell’s duration doesn’t count when calculating [[Falling]] damage. 
+
+If the target reaches the ground while the spell is in effect, it takes no damage from the fall. 
+
+The spell ends as soon as the target lands.

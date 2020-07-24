@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200724222801218
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 6
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200724223023156
+s-crit: The target is unaffected.
+s-fail: The target is [[Stupefied]] 4 with an unlimited duration.
+s-fumble: The target's intellect is permanently reduced below that of an animal, and it threats its [[Charisma]],[[Intelligence]], and [[Wisdom]] modifiers as -5. It loses all class abilities that require mental faculties, including all spellcasting. If the target is a PC, they become an NPC under the GM's control.
+s-hit: The target is [[Stupefied]] 2 for 1 round.
+tags: Spell Curse Enchantment Incapacitation Mental Arcane Occult Somatic Verbal Concentrate Manipulate
+title: Feeblemind
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You dramatically reduce the target's mental faculties. The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}
+
