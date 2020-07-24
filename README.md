@@ -3,12 +3,34 @@ TiddlyWiki based reference to Pathfinder 2e OGL material.
 
 The objective of this repository is to build a PF2 reference, similar to the Archives of Nethys, within TiddlyWiki.
 
-This has the benefit of being accessible locally and quickly in multiple compatible formats, and having high levels of support for semantic and intelligent searches, 
-and clarification of rules as well as official material.
+## Why bother, when there's already Nethys/Easytool/etc?
 
-It can be used in one of three ways:
+There are two advantages to using TiddlyWiki:
 
-1. Install TiddlyWiki itself from npm (`npm -g install tiddlywiki`) then run it in the top directory. This will host the TiddlyWiki locally and is needed to be able to edit it.
-2. Open `output/index.html` in a web browser. This stores the entire reference in one file. This can be saved on your mobile device, copied around, etc., and freely used as a single file reference for all topics in the system. You can also import this into TiddlyWiki hosts such as _TiddlyDesktop_ and _Quine_. If you don't import it into another tool, you can view everything but not save any edits you make.
-3. Open the HTML files in `output/static`. These are the individual references, but this method does not allow search or other more sophisticated features.
+* The entire database is stored in a single .HTML file. This can then be used anywhere where there's a web browser, or loaded into standard apps for manipulating TiddlyWikis.
+* The TiddlyWiki engine has very strong support for semantic annotations on pages - in other words, for allowing the wiki to understand the meanings of pages as well as just the text. This allows intelligent searches, like "all Barbarian feats above level 1" to be much more easily expressed.
+
+In addition, a core goal of this reference is to make the rules more readable by two methods:
+
+* Increasing the spacing of rules so that each key rule is a separate paragraph, making it much easier to "scan" to discover all rules - as is often necessary when looking things up quickly during a game.
+* Collapsing backreferences. For example, in most references, the text on Step reads: "You can't step into difficult terrain." This one reads: "You can't step into difficult terrain unless you have Feather Step." Unless you happen to read through the entire section on Feats, you won't notice that modification. TiddlyWiki's database mechanic can help greatly in doing this, but ultimately it's a matter of writing.
+
+## Sounds good! How do I do the thing?
+
+If you just want to use the reference, just download `output/index.html`. This stores the entire reference and is completely self-contained. You can copy it, put it on the cloud, stick it on mobile devices, and so on.
+
+Note that if you use the reference this way, your edits will **not** be saved, so this can't be used for contributing or updating the reference.
+
+## And if I want to contribute?
+
+If you want to contribute, you'll need to:
+
+1. Install Node.js from `https://nodejs.org/en/`.
+2. Install TiddlyWiki from npm (`npm -g install tiddlywiki`).
+3. Clone the repository into a suitable directory, let's say `PF2TiddlyWiki`.
+4. From the parent of that directory, run `tiddlywiki PF2TiddlyWiki --listen`.
+5. Open `localhost:8080` in a web browser.
+
+Your edits will now be saved into the `.tid` files, and you can make changes, then commit and pull request the GitHub repository in the normal way. When you're done, you can just Ctrl-C or otherwise halt the TiddlyWiki process; it doesn't cache edits, so just gunning it won't lose any changes.
+
 
