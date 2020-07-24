@@ -31,6 +31,11 @@ If you want to contribute, you'll need to:
 4. From the parent of that directory, run `tiddlywiki PF2TiddlyWiki --listen`.
 5. Open `localhost:8080` in a web browser.
 
-Your edits will now be saved into the `.tid` files, and you can make changes, then commit and pull request the GitHub repository in the normal way. When you're done, you can just Ctrl-C or otherwise halt the TiddlyWiki process; it doesn't cache edits, so just gunning it won't lose any changes.
+Your edits will now be saved into the `.tid` files, and you can make changes. When you're done,
+
+1. Hit Ctrl-C to end the tiddlywiki process (it doesn't cache anything so it's ok to just halt it).
+2. Run `tiddlywiki PF2TiddlyWiki --build` to regenerate the single file and static versions.
+3. Commit and pull request the GitHub repository in the normal way. 
+
 
 
