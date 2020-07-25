@@ -3,7 +3,8 @@ a-fumble: You continue to fall, and if you’ve fallen 20 feet or more before yo
 a-hit: If you have at least one hand free, you grab the edge or handhold, stopping your fall. You still take damage from the distance fallen so far, but you treat the fall as though it were 20 feet shorter. If you have no hands free, you continue to fall as if you had failed the check.
 a-skill: Reflex
 created: 20200704182040369
-modified: 20200722203752186
+modified: 20200725144903128
+modified-by: Reflex
 tags: Action Reaction Manipulate
 title: Grab an Edge
 type: text/vnd.tiddlywiki

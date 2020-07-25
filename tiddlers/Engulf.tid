@@ -1,11 +1,11 @@
 a-actions: 2
 created: 20200627194714115
-modified: 20200627194853230
+modified: 20200725163754070
 tags: Action Activity
 title: Engulf
 type: text/vnd.tiddlywiki
 
-The monster [[Strides]] up to double its Speed and can move through the spaces of any creatures in its path. 
+The monster [[Stride]]s up to double its Speed and can move through the spaces of any creatures in its path. 
 
 Any creature of the monster’s size or smaller whose space the monster moves through can attempt a [[Reflex]] save with the listed DC to avoid being engulfed. A creature unable to act automatically critically fails this save. 
 

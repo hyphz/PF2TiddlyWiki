@@ -5,7 +5,8 @@ a-fumble: You fall and your turn ends.
 a-hit: You move up to your Speed, treating it as [[Difficult Terrain]] (every 5 feet costs 10 feet of movement).
 a-skill: Acrobatics
 created: 20200702215550048
-modified: 20200702220442459
+modified: 20200725144711011
+modified-by: Acrobatics
 tags: Action Move Untrained
 title: Balance
 type: text/vnd.tiddlywiki

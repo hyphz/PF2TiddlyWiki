@@ -5,7 +5,8 @@ a-fumble: You’re spotted! You’re [[Observed]] by the creature throughout you
 a-hit: You’re undetected by the creature during your movement and remain undetected by the creature at the end of it. You become observed as soon as you do anything other than [[Hide]], [[Sneak]], or [[Step]]. If you attempt to [[Strike]] a creature, the creature remains [[Flat-Footed]] against that attack, and you then become [[Observed]]. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check. If you speak or make a deliberate loud noise, you become [[Hidden]] instead of undetected. If a creature uses Seek and you become [[Hidden]] to it as a result, you must Sneak if you want to become undetected by that creature again.
 a-skill: Stealth
 created: 20200706225629414
-modified: 20200719183514702
+modified: 20200725145152954
+modified-by: Stealth
 tags: Action Move Secret Untrained
 title: Sneak
 type: text/vnd.tiddlywiki

@@ -1,7 +1,7 @@
 created: 20200710224149451
 m-duration: 1 minute
 m-level: 2
-modified: 20200710224452787
+modified: 20200725164249349
 tags: Spell Somatic Verbal Primal Concentrate Manipulate Polymorph Transmutation
 title: Animal Form
 type: text/vnd.tiddlywiki
@@ -15,6 +15,7 @@ While in this form, you gain the [[Animal]] trait.
 You can Dismiss the spell.
 
 You gain the following statistics and abilities regardless of which battle form you choose:
+
 * AC = 16 + your level. Ignore your armor’s check penalty and Speed reduction.
 * 5 temporary Hit Points.
 * [[Low-Light Vision]] and imprecise scent 30 feet.

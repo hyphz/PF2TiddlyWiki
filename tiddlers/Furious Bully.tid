@@ -1,0 +1,17 @@
+created: 20200725164322214
+feat-class: Barbarian
+feat-level: 8
+feat-skill: Athletics
+feat-spre: M
+modified: 20200725164853656
+tags: Barbarian Class Feat
+title: Furious Bully
+type: text/vnd.tiddlywiki
+
+You bully foes across the battlefield. 
+
+While raging, you gain a +2 circumstance bonus to [[Athletics]] checks for <<tag Attack>> actions. 
+
+Affected actions are:
+
+<$list filter="[tag[Attack]a-skill[Athletics]]"/>

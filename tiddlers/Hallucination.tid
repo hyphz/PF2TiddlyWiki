@@ -1,0 +1,41 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725151504879
+m-area: 
+m-components: Material Somatic
+m-duration: 1 hour
+m-level: 5
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200725151802279
+s-crit: The creature is unaffected.
+s-fail: The creature perceives what you chose until it disbelieves.
+s-fumble: The creature perceives what you chose until it disbelieves, and it trusts its false senses, taking a –4 circumstance penalty to saves to disbelieve.
+s-hit: The creature perceives what you chose until it disbelieves, but it knows what the hallucination is.
+tags: Illusion Incapacitation Mental Arcane Occult Spell Material Somatic Concentrate Manipulate
+title: Hallucination
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target consistently detects one thing as another, can’t detect something that’s there, or detects something that’s not there, though it doesn’t alter their beliefs. 
+
+You choose which of these effects applies, and you determine the specifics of the hallucination. For example, you could make the target see all elves as humans, be unable to detect the presence of their brother, see their beloved pocket watch on their person even when it isn’t, or
+see a tower in the center of town. 
+
+The target can attempt an initial [[Will]] save, with effects below.
+
+They also receive a Will save to disbelieve the hallucination every time they [[Seek]] or directly interact with the hallucination. For example, the target could attempt to disbelieve the hallucination each time they interacted with an elf, bumped into their brother accidentally, tried to check their pocket watch, or studied the tower. 
+
+The target can attempt to disbelieve with a large circumstance bonus in situations determined by the GM, such as if the target attempted to climb the nonexistent tower.
+
+''Heightened (6th)'' Choose to either target up to 10 creatures or change the spell’s duration to "until the next time you make your [[daily preparations|Rest]]."
+
+''Heightened (8th)'' Choose to either target any number of creatures or change the spell’s duration to unlimited.
+
+{{||SaveSuccessTable}}

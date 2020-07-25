@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725150825059
+m-area: 
+m-components: Verbal
+m-duration: Until the start of your next turn
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200725151109513
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Cantrip Divination Divine Occult Primal Verbal Concentrate
+title: Guidance
+turn-eun: Effect wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You ask for divine guidance, granting the target a +1 status bonus to one attack roll, Perception check, saving throw, or skill check the target attempts before the duration ends. 
+
+The target chooses which roll to use the bonus on before rolling.
+
+If the target uses the bonus, the spell ends. 
+
+Either way, the target is then temporarily immune for 1 hour.

@@ -4,7 +4,8 @@ a-fumble: As failure, plus you expend half the materials.
 a-hit: You expend the materials and learn the spell.
 a-skill: Arcana Religion Occultism Nature
 created: 20200702214645291
-modified: 20200712163138562
+modified: 20200725142116866
+modified-by: Arcana Religion Occultism Nature
 tags: Concentrate Exploration Action Trained
 title: Learn a Spell
 type: text/vnd.tiddlywiki

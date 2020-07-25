@@ -4,7 +4,8 @@ a-fumble: You earn nothing for your work and are fired immediately. You can’t 
 a-hit: You do competent work. Gain the amount of currency listed for the task level and your proficiency rank.
 a-skill: Crafting Lore Performance
 created: 20200702212727215
-modified: 20200712163009219
+modified: 20200725144846946
+modified-by: Crafting Lore Performance
 tags: Action Downtime Trained
 title: Earn Income
 type: text/vnd.tiddlywiki

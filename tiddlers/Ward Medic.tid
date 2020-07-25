@@ -2,7 +2,9 @@ created: 20200702211751346
 feat-level: 2
 feat-skill: Medicine
 feat-spre: E
-modified: 20200702211903848
+mod-treat_disease: Allows treating 2/4/8 targets.
+mod-treat_wounds: Allows treating 2/4/8 targets.
+modified: 20200725143208298
 tags: Feat General Skill
 title: Ward Medic
 type: text/vnd.tiddlywiki

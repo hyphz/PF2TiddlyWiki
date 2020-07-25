@@ -4,7 +4,8 @@ a-hit: The target regains 2d8 Hit Points, and its [[Wounded]] condition is remov
 a-skill: Medicine
 a-tool: Healer's Tools
 created: 20200706222543905
-modified: 20200706223027709
+modified: 20200725145329254
+modified-by: Medicine
 tags: Action Exploration Manipulate Healing
 title: Treat Wounds
 type: text/vnd.tiddlywiki

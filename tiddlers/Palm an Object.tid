@@ -4,7 +4,8 @@ a-fail: The creature notices you Palming the Object, and the GM determines the c
 a-hit: The creature does not notice you Palming the Object.
 a-skill: Thievery
 created: 20200706230827190
-modified: 20200706231014877
+modified: 20200725144953132
+modified-by: Thievery
 tags: Action Manipulate Untrained
 title: Palm an Object
 type: text/vnd.tiddlywiki

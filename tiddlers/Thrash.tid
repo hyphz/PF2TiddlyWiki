@@ -1,0 +1,17 @@
+a-actions: 1
+a-defense: Fortitude
+created: 20200725170106730
+feat-class: Barbarian
+feat-level: 8
+modified: 20200725170214618
+tags: Action Barbarian Rage Feat Class
+title: Thrash
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have a foe [[Grabbed]].
+
+You thrash the grabbed foe around. 
+
+It takes bludgeoning damage equal to your [[Strength]] modifier plus your ferocious specialization damage plus your Rage damage. 
+
+The foe must attempt a basic [[Fortitude]] save against your class DC.

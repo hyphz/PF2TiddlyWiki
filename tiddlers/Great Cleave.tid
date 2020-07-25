@@ -1,0 +1,15 @@
+created: 20200725170802730
+feat-class: Barbarian
+feat-fpre: Cleave
+feat-level: 10
+mod-cleave: Lets you continue cleaving more than once.
+modified: 20200725170915826
+tags: Barbarian Skill Feat Rage
+title: Great Cleave
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' [[Cleave]].
+
+Your fury carries your weapon through multiple foes. 
+
+When you Cleave, if your Strike also kills or knocks the target unconscious, you can continue to make melee Strikes until you make a Strike that doesn’t kill or knock a creature unconscious, or until there are no creatures adjacent to the most recent creature you attacked while Cleaving, whichever comes first.

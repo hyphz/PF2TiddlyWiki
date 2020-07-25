@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725140507626
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 4
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+mod-lie: Gives +4 status and halves circumstance penalties.
+mod-perception: Gives +4 status to DCs to sense lies.
+modified: 20200725140705879
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Enchantment Mental Spell Occult Somatic Verbal Concentrate Manipulate
+title: Glibness
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Falsehoods pass your lips as smoothly as silk. 
+
+You gain a +4 status bonus to [[Deception]] checks to [[Lie]] and against Perception checks to discern if you are telling the truth, and you add your level even if you’re untrained. 
+
+If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty or increase by half.
+

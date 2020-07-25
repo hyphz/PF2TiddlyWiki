@@ -5,7 +5,8 @@ a-hit: You open the lock, or you achieve one success toward opening a complex lo
 a-skill: Thievery
 a-tool: Thieves' Tools
 created: 20200706231939332
-modified: 20200706232202287
+modified: 20200725145045265
+modified-by: Thievery
 tags: Action Manipulate Trained
 title: Pick a Lock
 type: text/vnd.tiddlywiki

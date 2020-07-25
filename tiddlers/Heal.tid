@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725152911514
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: Varies
+m-save: Fortitude
+m-targets: 1 willing living creature or 1 undead creature
+m-time: 
+modified: 20200725153112246
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Healing Necromancy Positive Divine Primal Spell Somatic Verbal Material Concentrate Manipulate
+title: Heal
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You channel positive energy to heal the living or damage the undead. 
+
+If the target is a willing living creature, you restore 1d8 Hit Points. 
+
+If the target is <<tag Undead>>, you deal that amount of <<tag Positive>> damage to it, and it gets a basic [[Fortitude]] save. 
+
+The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.
+
+{{OneAction}} (somatic) The spell has a range of touch.
+
+{{TwoAction}} (verbal, somatic) The spell has a range of 30 feet. If you’re healing a living creature, increase the Hit Points restored by 8.
+
+{{ThreeAction}} (material, somatic, verbal) You disperse positive energy in a 30-foot [[Emanation]]. This targets all living and undead creatures in the burst.
+
+''Heightened (+1)'' The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.

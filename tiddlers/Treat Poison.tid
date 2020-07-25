@@ -5,7 +5,8 @@ a-hit: You grant the creature a +2 circumstance bonus to its next saving throw a
 a-skill: Medicine
 a-tool: Healer's Tools
 created: 20200706222343972
-modified: 20200706222511696
+modified: 20200725145317593
+modified-by: Medicine
 tags: Action Manipulate Trained
 title: Treat Poison
 type: text/vnd.tiddlywiki

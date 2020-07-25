@@ -1,0 +1,16 @@
+a-actions: 2
+a-subactions: Stride
+created: 20200725170449500
+feat-class: Barbarian
+feat-level: 10
+modified: 20200725170559582
+modified-by: Stride
+tags: Barbarian Rage Class Feat Action Move
+title: Furious Sprint
+type: text/vnd.tiddlywiki
+
+You rush forward. 
+
+[[Stride]] up to five times your Speed in a straight line. 
+
+You can increase the number of actions this activity takes to 3 to Stride up to eight times your Speed in a straight line instead.

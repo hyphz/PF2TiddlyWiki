@@ -7,12 +7,12 @@ created: 20200722105644458
 m-area: 40 foot [[Emanation]]
 m-components: Somatic Verbal
 m-duration: Varies
-m-level: 
+m-level: 7
 m-range: 40 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200722110140194
+modified: 20200725144427155
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is [[Enfeebled]] 2 for 1 minute.
 s-fumble: The creature takes double damage and is [[Enfeebled]] 2 for 1 minute. On your home plane, a creature that critically fails is banished with the effect of a failed [[Banishment]] save. A 10th-level creature or lower must attempt a [[Will]] save. On a failure, it’s [[Paralyzed]] for 1 minute; on a critical failure, it dies.

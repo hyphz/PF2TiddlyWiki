@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200724230537976
+modified: 20200725154551781
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -14,6 +14,9 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Additive]]">
 <tr><th>[[Additive]]</th><td>One per alchemy item, increases item level by the given amount.</td></tr>
 </$list>
+<$list filter="[all[current]tag[Air]]">
+<tr><th>[[Air]]</th><td>This may not work in vacuum or without air.</td></tr>
+</$list>
 <$list filter="[all[current]tag[Arcane]]">
 <tr><th>[[Arcane]]</th><td>This spell can be identified using [[Arcana]].</td></tr>
 </$list>
@@ -22,6 +25,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Auditory]]">
 <tr><th>[[Auditory]]</th><td>This works only against creatures that can hear it and are not [[Deafened]].</td></tr>
+</$list>
+<$list filter="[all[current]tag[Chaotic]]">
+<tr><th>[[Chaotic]]</th><td>Chaotic damage harms only lawful creatures.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Concentrate]]">
 <tr><th>[[Concentrate]]</th><td>You can't use this while distracted, or while raging unless it also has Rage.</td></tr>
@@ -35,6 +41,9 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Emotion]]">
 <tr><th>[[Emotion]]</th><td>This won't work on creatures with mechanical or artificial intillegence.</td></tr>
 </$list>
+<$list filter="[all[current]tag[Evil]]">
+<tr><th>[[Evil]]</th><td>Evil damage harms only good creatures.</td></tr>
+</$list>
 <$list filter="[all[current]tag[Exploration]]">
 <tr><th>[[Exploration]]</th><td>This can only be used in Exploration Mode, not Encounter Mode (ie, not combat).</td></tr>
 </$list>
@@ -47,11 +56,17 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Fortune]]">
 <tr><th>[[Fortune]]</th><td>Doesn't stack with other Fortune effects, and cancels with [[Misfortune.]]</td></tr>
 </$list>
+<$list filter="[all[current]tag[Good]]">
+<tr><th>[[Good]]</th><td>Good damage harms only evil creatures.</td></tr>
+</$list>
 <$list filter="[all[current]tag[Incapacitation]]">
 <tr><th>[[Incapacitation]]</th><td>This has reduced effect against creatures of higher level.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Illusion]]">
 <tr><th>[[Illusion]]</th><td>It may be possible to disbelieve this with [[Perception]] vs its DC.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Lawful]]">
+<tr><th>[[Lawful]]</th><td>Lawful damage harms only chaotic creatures.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Linguistic]]">
 <tr><th>[[Linguistic]]</th><td>Your target must be able to understand your language.</td></tr>

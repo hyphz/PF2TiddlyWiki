@@ -5,7 +5,8 @@ a-hit: You trick the creature into thinking you’re the person you’re disguis
 a-skill: Deception
 a-tool: Disguise Kit
 created: 20200705231252324
-modified: 20200706214538096
+modified: 20200725141002605
+modified-by: Deception
 tags: Action Concentrate Exploration Manipulate Secret
 title: Impersonate
 type: text/vnd.tiddlywiki

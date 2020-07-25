@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725135219052
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]]
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200725135452748
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Auditory Cantrip Illusion Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+title: Ghost Sound
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create an auditory illusion of simple sounds that has a maximum volume equal to four normal humans shouting.
+
+The sounds emanate from a square you designate within range. 
+
+You can’t create intelligible words or other intricate sounds (such as music).
+
+''Heightened (3rd)'' The range increases to 60 feet.
+
+''Heightened (5th)'' The range increases to 120 feet.

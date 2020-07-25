@@ -1,0 +1,29 @@
+created: 20200725144219317
+modified: 20200725165351307
+tags: 
+title: FindErrors
+type: text/vnd.tiddlywiki
+
+!! Spells with no levels
+
+<$list filter="[tag[Spell]!has[m-level]]" />
+
+!! Spells with Somatic that don't have Manipulate
+
+<$list filter="[tag[Somatic]!tag[Manipulate]]" />
+
+!! Spells with Verbal that don't have Concentrate
+
+<$list filter="[tag[Verbal]!tag[Concentrate]]" />
+
+!! Skill actions without modifier trees
+
+<$list filter="[has[a-skill]!has[modified-by]]" />
+
+!! Feats with no levels
+
+<$list filter="[tag[Feat]!has[feat-level]]" />
+
+!! Broken links
+
+<$list filter="[all[missing]sort[]]" />

@@ -4,7 +4,8 @@ a-fail: The searcher finds the object.
 a-hit: The object remains undetected.
 a-skill: Stealth
 created: 20200706224830127
-modified: 20200706224953753
+modified: 20200725144752688
+modified-by: Stealth
 tags: Action Untrained Manipulate Secret
 title: Conceal an Object
 type: text/vnd.tiddlywiki

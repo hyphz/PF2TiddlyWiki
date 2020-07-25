@@ -1,0 +1,32 @@
+a-crit: The target takes 6d6 bludgeoning damage and is knocked back 10 feet.
+a-defense: AC
+a-fail: 
+a-fumble: 
+a-hit: The target takes 3d6 bludgeoning damage and is knocked back 5 feet.
+created: 20200725161836168
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 1 creature or object
+m-time: 
+modified: 20200725162138987
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Attack Evocation Water Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Hydraulic Push
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a powerful blast of pressurized water that bludgeons the target and knocks it back. 
+
+Make a ranged spell attack roll.
+
+''Heightened (+1)'' The damage increases by 2d6.
+
+{{||ActionSuccessTable}}

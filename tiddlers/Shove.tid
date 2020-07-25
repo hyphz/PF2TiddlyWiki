@@ -6,7 +6,8 @@ a-hands: 1
 a-hit: You push your opponent back 5 feet. You can [[Stride]] after it, but you must move the same distance and in the same direction.
 a-skill: Athletics
 created: 20200704174728528
-modified: 20200719163036497
+modified: 20200725145107904
+modified-by: Athletics
 tags: Action Untrained
 title: Shove
 type: text/vnd.tiddlywiki

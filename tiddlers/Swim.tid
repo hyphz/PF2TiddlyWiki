@@ -4,7 +4,8 @@ a-fumble: You make no progress, and if you’re holding your breath, you lose 1 
 a-hit: You move through the water 5 feet, plus 5 feet per 20 feet of your land Speed (a total of 10 feet for most PCs).
 a-skill: Athletics
 created: 20200704175121196
-modified: 20200706215954988
+modified: 20200725145241272
+modified-by: Athletics
 tags: Action Move Untrained
 title: Swim
 type: text/vnd.tiddlywiki

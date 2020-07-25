@@ -2,7 +2,9 @@ created: 20200630090316998
 feat-level: 2
 feat-skill: Deception
 feat-spre: E
-modified: 20200630090412037
+mod-create_a_diversion: Reduces circumstance bonus from previous attempts.
+mod-lie: Reduces circumstance bonus from previous attempts.
+modified: 20200725141149345
 tags: Feat General Skill
 title: Confabulator
 type: text/vnd.tiddlywiki

@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200725164917422
+feat-class: Barbarian
+feat-level: 8
+modified: 20200725165007611
+tags: Feat Class Barbarian Concentrate Rage Action
+title: Renewed Vigor
+type: text/vnd.tiddlywiki
+
+You pause to recover your raging vigor. 
+
+You gain temporary [[Hit Points]] equal to half your level plus your [[Constitution]] modifier.

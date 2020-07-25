@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725134307823
+m-area: 
+m-components: Somatic Verbal
+m-duration: 5 minutes
+m-level: 4
+m-range: Touch
+m-save: 
+m-targets: 1 willing creature
+m-time: 
+mod-ac: Removes any item bonus to AC.
+mod-attack: Prevents attacking.
+mod-manipulate: Prevents Manipulate actions.
+modified: 20200725134627699
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Polymorph Transmutation Somatic Verbal Manipulate Concentrate Arcane Occult Primal
+title: Gaseous Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target transforms into a vaporous state. 
+
+In this state, the target is amorphous and loses any item bonus to [[AC]]. 
+
+It gains resistance 8 to physical damage and is immune to precision damage. 
+
+It can’t cast spells, activate items, or use actions that have the <<tag Attack>>or <<tag Manipulate>>trait.
+
+It gains a fly Speed of 10 feet and can slip through tiny cracks. 
+
+The target can [[Dismiss|Dismiss a Spell]] the spell.

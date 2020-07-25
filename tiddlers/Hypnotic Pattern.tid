@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725162442775
+m-area: 10 foot [[Burst]]
+m-components: Material Somatic
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-range: 120 feet
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200725162727689
+s-crit: 
+s-fail: The target is [[Fascinated]] by the pattern.
+s-fumble: The target is fascinated by the pattern. While it remains fascinated, it can’t use reactions.
+s-hit: The target is unaffected.
+tags: Illusion Visual Arcane Occult Material Somatic Spell Concentrate Manipulate
+title: Hypnotic Pattern
+turn-etc: Must Will save if inside the pattern.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a pattern of shifting colors that hovers in the air in a geometric cloud. 
+
+Creatures are [[Dazzled]] while inside the pattern. 
+
+In addition, a creature must attempt a Will saving throw if it is inside the pattern when you cast it, when it enters the pattern, when it ends its turn within the pattern, or if it uses a [[Seek]] or [[Interact]] action on the pattern. 
+
+A creature currently fascinated by the pattern doesn’t attempt new saves.
+
+{{||SaveSuccessTable}}
+

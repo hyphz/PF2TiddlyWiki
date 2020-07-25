@@ -4,7 +4,8 @@ a-fail: The target doesn’t believe your lie and gains a +4 circumstance bonus 
 a-hit: The target believes your lie.
 a-skill: Deception
 created: 20200705231504170
-modified: 20200705232253294
+modified: 20200725140915401
+modified-by: Deception
 tags: Action Auditory Concentrate Linguistic Mental Secret
 title: Lie
 type: text/vnd.tiddlywiki

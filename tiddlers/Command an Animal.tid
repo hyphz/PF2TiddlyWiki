@@ -5,7 +5,8 @@ a-fumble: The animal misbehaves or misunderstands, and it takes some other actio
 a-hit: The animal does as you command on its next turn.
 a-skill: Nature
 created: 20200706223114634
-modified: 20200719170259237
+modified: 20200725144740995
+modified-by: Nature
 tags: Auditory Concentrate
 title: Command an Animal
 turn-etn: The animal stops following commands.

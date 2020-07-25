@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725145955683
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200725150252945
+s-crit: The target is unaffected.
+s-fail: The target is afflicted with Goblin Pox at stage 1.
+s-fumble: The target is afflicted with Goblin Pox at stage 2.
+s-hit: The target is [[Sickened]] 1.
+tags: Attack Spell Disease Necromancy Arcane Primal Somatic Verbal Manipulate Concentrate
+title: Goblin Pox
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your touch afflicts the target with goblin pox, an irritating allergenic rash. The target must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+
+Goblin Pox (disease); Level 1. Goblins and goblin dogs are immune. 
+
+''Stage 1'' sickened 1 (1 round). 
+
+''Stage 2'' sickened 1 and slowed 1 (1 round).
+
+''Stage 3'' sickened 1 and the creature can’t reduce its sickened value below 1 (1 day).

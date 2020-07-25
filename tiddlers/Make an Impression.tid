@@ -4,7 +4,8 @@ a-fumble: The target’s attitude toward you worsens by one step.
 a-hit: The target’s attitude toward you improves by one step.
 a-skill: Diplomacy
 created: 20200705232334385
-modified: 20200706224747668
+modified: 20200725141724190
+modified-by: Diplomacy
 tags: Auditory Concentrate Exploration Linguistic Mental Action
 title: Make an Impression
 type: text/vnd.tiddlywiki

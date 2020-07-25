@@ -6,7 +6,8 @@ a-hands: 1
 a-hit: The target falls and lands [[Prone]].
 a-skill: Athletics
 created: 20200704175915130
-modified: 20200706220004894
+modified: 20200725145340756
+modified-by: Athletics
 tags: Action Attack Untrained
 title: Trip
 type: text/vnd.tiddlywiki

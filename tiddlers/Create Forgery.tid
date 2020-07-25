@@ -3,7 +3,8 @@ a-fail: The observer knows your document is a forgery.
 a-hit: The observer does not detect the forgery.
 a-skill: Society
 created: 20200706224346691
-modified: 20200706224601686
+modified: 20200725144830162
+modified-by: Society
 tags: Action Downtime Secret Trained
 title: Create Forgery
 type: text/vnd.tiddlywiki

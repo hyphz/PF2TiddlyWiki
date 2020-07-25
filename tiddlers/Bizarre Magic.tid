@@ -2,7 +2,9 @@ created: 20200630084618087
 feat-level: 7
 feat-skill: Occultism
 feat-spre: M
-modified: 20200630085504604
+mod-identify_magic: Raises DC for spells by 5.
+mod-recognize_spell: Raises DC for spells by 5.
+modified: 20200725142259057
 tags: Feat General Skill
 title: Bizarre Magic
 type: text/vnd.tiddlywiki

@@ -2,7 +2,8 @@ created: 20200701223652267
 feat-level: 1
 feat-skill: Deception
 feat-spre: T
-modified: 20200701223747810
+mod-create_a_diversion: Extends duration beyond end of round.
+modified: 20200725141216985
 tags: Feat General Skill
 title: Lengthy Diversion
 type: text/vnd.tiddlywiki

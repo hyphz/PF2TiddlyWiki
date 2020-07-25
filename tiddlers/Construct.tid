@@ -1,0 +1,13 @@
+created: 20200725155616873
+modified: 20200725155730413
+tags: Trait
+title: Construct
+type: text/vnd.tiddlywiki
+
+A construct is an artificial creature empowered by a force other than necromancy. 
+
+Constructs are often <<tag Mindless>>; they are immune to bleed damage, <<tag Death>>effects, <<tag Disease>>, <<tag Healing>>, <<tag Necromancy>>, nonlethal attacks, <<tag Poison>>, and the [[Doomed]], [[Drained]], [[Fatigued]], [[Paralyzed]], [[Sickened]], and [[Unconscious]] conditions; and they may have [[Hardness]] based on the materials used to construct their bodies. 
+
+Constructs are not living creatures, nor are they <<tag Undead>>. 
+
+When reduced to 0 Hit Points, a construct creature is destroyed.

@@ -5,12 +5,13 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Identify Magic",
         "tags": "Action Concentrate Exploration Secret Trained",
-        "modified": "20200712163103744",
+        "modified": "20200725142217158",
+        "a-time": "10 minutes",
+        "a-skill": "Arcana Religion Occultism Nature",
         "a-hit": "For an item or location, you get a sense of what it does and learn any means of activating it. For an ongoing effect (such as a spell with a duration), you learn the effect’s name and what it does. You can’t try again in hopes of getting a critical success.",
         "a-fumble": "You misidentify the magic as something else of the GM’s choice.",
         "a-fail": "You fail to identify the magic and can’t try again for 1 day.",
         "a-crit": " You learn all the attributes of the magic, including its name (for an effect), what it does, any means of activating it (for an item or location), and whether it is cursed.",
-        "a-time": "10 minutes",
-        "a-skill": "Arcana Religion Occultism Nature"
+        "modified-by": "Arcana Religion Occultism Nature"
     }
 ]

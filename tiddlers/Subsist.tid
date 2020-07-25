@@ -4,7 +4,8 @@ a-fumble: You attract trouble, eat something you shouldn’t, or otherwise worse
 a-hit: You find enough food and shelter with basic protection from the elements to provide you a subsistence living.
 a-skill: Survival Society
 created: 20200701224133052
-modified: 20200712163256067
+modified: 20200725145227361
+modified-by: Survival Society
 tags: Action Downtime Untrained
 title: Subsist
 type: text/vnd.tiddlywiki

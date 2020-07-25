@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725151831804
+m-area: 50 foot [[Burst]]
+m-components: Material Somatic Verbal
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 4
+m-range: 500 feet
+m-save: 
+m-targets: 
+m-time: 10 minutes
+modified: 20200725151949340
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Illusion Arcane Occult Primal Material Somatic Verbal Spell Manipulate Concentrate
+title: Hallucinatory Terrain
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create an illusion that causes natural terrain to look, sound, feel, and smell like a different kind of terrain. 
+
+This doesn’t disguise any structures or creatures in the area.
+
+Any creature that touches the illusion or uses the [[Seek]] action to examine it can attempt to disbelieve your illusion.
+
+''Heightened (5th)'' Your image can also disguise structures or create illusory structures (but still doesn’t disguise creatures).

@@ -4,7 +4,8 @@ a-fumble: As failure, but the consequence is more dire.
 a-hit: You succeed at the maneuver.
 a-skill: Acrobatics
 created: 20200702220408648
-modified: 20200702220716654
+modified: 20200725144941893
+modified-by: Acrobatics
 tags: Move Action Trained
 title: Maneuver in Flight
 type: text/vnd.tiddlywiki

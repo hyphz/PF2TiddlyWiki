@@ -1,8 +1,9 @@
 created: 20200630092528328
+feat-level: 1
 mod-disease: Increases the effectiveness of saves.
 mod-drained: Increases the effectiveness of saves.
 mod-poison: Increases the effectiveness of saves.
-modified: 20200720214726660
+modified: 20200725165424100
 tags: Feat General
 title: Fast Recovery
 type: text/vnd.tiddlywiki

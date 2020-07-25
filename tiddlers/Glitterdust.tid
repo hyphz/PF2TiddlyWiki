@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725143526872
+m-area: 10 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+mod-invisible: Reduces invisibilty to concealment on targets.
+modified: 20200725143904836
+s-crit: The target is unaffected.
+s-fail: The target is [[Dazzled]] for 1 minute and its invisibility is negated for 1 minute.
+s-fumble: The target is [[Blinded]] for 1 round and dazzled for 10 minutes. Its invisibility is negated for 10 minutes.
+s-hit: The target’s invisibility is negated for 2 rounds.
+tags: Evocation Spell Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Glitterdust
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Creatures in the area are outlined by glittering dust. 
+
+Each creature must attempt a Reflex save. 
+
+If a creature has its invisibility negated by this spell, it is [[Concealed]] instead of [[Invisible]]. 
+
+This applies both if the creature was already invisible and if it benefits from new invisibility effects before the end of the invisibility negation effect from this spell.
+
+{{||SaveSuccessTable}}
+

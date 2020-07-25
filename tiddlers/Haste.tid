@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725152701716
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 3
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+mod-quickened: Only allows Strike and Stride actions.
+modified: 20200725152838549
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Transmutation Spell Arcane Occult Primal Somatic Verbal Concentrate Manipulate
+title: Haste
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Magic empowers the target to act faster. 
+
+It gains the [[Quickened]] condition and can use the extra action each round only for [[Strike]] and [[Stride]] actions.
+
+''Heightened (7th)'' You can target up to 6 creatures.

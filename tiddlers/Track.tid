@@ -4,7 +4,8 @@ a-fumble: You lose the trail and can’t try again for 24 hours.
 a-hit: You find the trail or continue to follow the one you’re already following.
 a-skill: Survival
 created: 20200706230544631
-modified: 20200706230747985
+modified: 20200725145257192
+modified-by: Survival
 tags: Action Concentrate Exploration Move Trained
 title: Track
 type: text/vnd.tiddlywiki

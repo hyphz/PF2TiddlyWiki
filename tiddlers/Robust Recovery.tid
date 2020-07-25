@@ -2,9 +2,9 @@ created: 20200702145733407
 feat-level: 2
 feat-skill: Medicine
 feat-spre: E
-mod-treat_disease: Increases bonus on success to +4.
-mod-treat_poison: Increases bonus on success to +4.
-modified: 20200720215608103
+mod-treat_disease: Increases bonus on success to +4 and promotes save.
+mod-treat_poison: Increases bonus on success to +4 and promotes save.
+modified: 20200725143253346
 tags: General Feat Skill
 title: Robust Recovery
 type: text/vnd.tiddlywiki

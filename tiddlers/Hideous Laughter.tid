@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725153526332
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]]
+m-level: 2
+m-range: 30 feet
+m-save: Will
+m-targets: 1 living creature
+m-time: 
+mod-reaction: Prevents use of reactions.
+modified: 20200725153717004
+s-crit: The target is unaffected.
+s-fail: The target is slowed 1 and can’t use reactions.
+s-fumble: The target falls [[Prone]] and can’t use actions or reactions for 1 round. It then suffers the failure effects.
+s-hit: The target is plagued with uncontrollable laugher. It can’t use [[Reaction]]s.
+tags: Spell Emotion Enchantment Mental Arcane Occult Somatic Verbal Concentrate Manipulate
+title: Hideous Laughter
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target is overtaken with uncontrollable laughter. 
+
+It must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

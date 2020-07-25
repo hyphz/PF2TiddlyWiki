@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725162339379
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200725162422924
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Divination Occult Verbal Spell Concentrate
+title: Hypercognition
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You rapidly catalog and collate information relevant to your current situation. 
+
+You can instantly use up to 6 [[Recall Knowledge]] actions as part of Casting this Spell. 
+
+For these actions, you can’t use any special abilities, reactions, or free actions that trigger when you Recall Knowledge.

@@ -5,7 +5,8 @@ a-fumble: Your feint backfires. You are [[Flat-Footed]] against melee attacks th
 a-hit: Your foe is fooled, but only momentarily. The target is [[Flat-Footed]] against the next melee attack that you attempt against it before the end of your current turn.
 a-skill: Deception
 created: 20200705231653232
-modified: 20200705231952967
+modified: 20200725141017959
+modified-by: Deception
 tags: Action Mental Trained
 title: Feint
 turn-euc: Target's flat-footed status ends on a regular success.

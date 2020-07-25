@@ -2,7 +2,8 @@ created: 20200701223758328
 feat-level: 1
 feat-skill: Deception
 feat-spre: T
-modified: 20200701223846086
+mod-lie: Can use Deception instead of Perception to detect lie.
+modified: 20200725141247153
 tags: General Feat Skill
 title: Lie to Me
 type: text/vnd.tiddlywiki

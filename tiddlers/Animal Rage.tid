@@ -1,0 +1,21 @@
+a-actions: 1
+created: 20200725164107369
+feat-class: Barbarian
+feat-level: 8
+feat-sppre: Animal Instnict
+modified: 20200725164234160
+tags: Feat Barbarian Class Concentrate Instinct Polymorph Primal Rage Transmutation Action
+title: Animal Rage
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Animal Instinct]].
+
+You transform into your animal. 
+
+You gain the effects of the 3rd-level [[Animal Form]] spell except you use your own statistics, temporary Hit Points, and unarmed attacks instead of those granted by animal form. 
+
+You also retain the constant abilities of your gear. 
+
+If your animal is a frog, your tongue’s reach increases to 15 feet. 
+
+Dismissing the transformation gains the [[Rage]] trait.

@@ -4,7 +4,8 @@ a-fumble: You trigger the device.
 a-hit: You disable the device, or you achieve one success toward disabling a complex device.
 a-skill: Thievery
 created: 20200706231627538
-modified: 20200706231807592
+modified: 20200725142643743
+modified-by: Thievery
 tags: Action Trained Manipulate
 title: Disable a Device
 type: text/vnd.tiddlywiki

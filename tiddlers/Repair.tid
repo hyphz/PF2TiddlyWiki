@@ -4,7 +4,8 @@ a-hands: 2
 a-hit: You restore 5 Hit Points to the item, plus an additional 5 per proficiency rank you have in Crafting (for a total of 10 HP if you are trained, 15 HP if you’re an expert, 20 HP if you’re a master, or 25 HP if you’re legendary).
 a-skill: Crafting
 created: 20200704181020239
-modified: 20200705230229393
+modified: 20200725141947573
+modified-by: Crafting
 tags: Action Manipulate Exploration
 title: Repair
 type: text/vnd.tiddlywiki

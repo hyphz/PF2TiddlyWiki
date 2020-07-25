@@ -7,17 +7,17 @@ created: 20200724225854088
 m-area: 
 m-components: Somatic Verbal
 m-duration: 1 minute
-m-level: 
+m-level: 1
 m-range: 
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200724225933065
+modified: 20200725145935898
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Transmutation Arcane Primal Somatic Verbal
+tags: Spell Transmutation Arcane Primal Somatic Verbal Manipulate Concentrate
 title: Fleet Step
 type: text/vnd.tiddlywiki
 

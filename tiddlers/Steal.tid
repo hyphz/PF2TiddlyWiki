@@ -4,7 +4,8 @@ a-fail: The item’s bearer notices your attempt before you can take the object,
 a-hit: You steal the item without the bearer noticing, or an observer doesn’t see you take or attempt to take the item.
 a-skill: Thievery
 created: 20200706231000858
-modified: 20200706231602955
+modified: 20200725145139310
+modified-by: Thievery
 tags: Action Manipulate Untrained
 title: Steal
 type: text/vnd.tiddlywiki

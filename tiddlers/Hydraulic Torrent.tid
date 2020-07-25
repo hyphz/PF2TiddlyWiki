@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725162213680
+m-area: 60 foot [[Line]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200725162316687
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Water Spell Primal Somatic Verbal Concentrate Manipulate
+title: Hydraulic Torrent
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A swirling torrent of water manifests along a straight line, battering those that are its path and possibly pushing them away from you. 
+
+The torrent deals 8d6 bludgeoning damage.
+
+Each creature in the area must attempt a basic Fortitude save.
+
+Creatures that fail the save are also knocked back 5 feet (10 feet on a critical failure).
+
+''Heightened (+1)'' The damage increases by 2d6.

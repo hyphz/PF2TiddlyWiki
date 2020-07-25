@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725153226945
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 3
+m-range: Touch
+m-save: 
+m-targets: 1 humanoid creature
+m-time: 
+modified: 20200725153426782
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Enchantment Mental Divine Occult Somatic Verbal Spell Manipulate Concentrate
+title: Heroism
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You tap into the target’s inner heroism, granting it a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.
+
+''Heightened (6th)'' The status bonus increases to +2.
+
+''Heightened (9th)'' The status bonus increases to +3.

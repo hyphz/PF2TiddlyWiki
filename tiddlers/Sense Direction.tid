@@ -3,7 +3,8 @@ a-hit: You gain enough orientation to avoid becoming hopelessly lost. If you are
 a-skill: Survival
 a-tool: Compass
 created: 20200706230049158
-modified: 20200706230219168
+modified: 20200725145056164
+modified-by: Survival
 tags: Action Exploration Secret Untrained
 title: Sense Direction
 type: text/vnd.tiddlywiki

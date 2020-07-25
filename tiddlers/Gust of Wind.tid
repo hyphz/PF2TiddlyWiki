@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200725151134095
+m-area: 60 foot [[Line]]
+m-components: Somatic Verbal
+m-duration: Until the start of your next turn
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200725151436311
+s-crit: The creature is unaffected.
+s-fail: The creature is knocked [[Prone]]. If it was flying, it suffers the effects of critical failure instead.
+s-fumble: The creature is pushed 30 feet in the wind’s direction, knocked prone, and takes 2d6 bludgeoning damage.
+s-hit: The creature can’t move against the wind.
+tags: Air Evocation Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+title: Gust of Wind
+turn-eun: Effect ends.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A violent wind issues forth from your palm, blowing from the point where you are when you cast the spell to the line’s opposite end. 
+
+The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light [[Bulk]] or less around, and pushes larger objects. 
+
+Large or smaller creatures in the area must attempt a [[Fortitude]] save. 
+
+Large or smaller creatures that later move into the gust must attempt the save on entering.
+
+{{||SaveSuccessTable}}

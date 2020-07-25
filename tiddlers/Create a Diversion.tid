@@ -5,7 +5,8 @@ a-hit: You become [[Hidden]] to each creature whose Perception DC is less than o
 a-skill: Deception
 a-turn: euc
 created: 20200705230723826
-modified: 20200719171241204
+modified: 20200725141039168
+modified-by: Deception
 tags: Action Mental Manipulate Auditory Linguistic
 title: Create a Diversion
 turn-euc: Distraction wears off without [[Lengthy Diversion]].

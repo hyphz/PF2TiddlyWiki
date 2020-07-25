@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200725165038901
+feat-class: Barbarian
+feat-level: 8
+modified: 20200725165132678
+tags: Barbarian Class Feat Action Rage Auditory Visual
+title: Share Rage
+type: text/vnd.tiddlywiki
+
+''Requirements'' You haven’t used this ability since you last Raged.
+
+You stoke an ally’s fury. 
+
+While you are raging, one willing creature within 30 feet gains the effects of the [[Rage]] action, except it can still use <<tag Concentrate>>actions.
