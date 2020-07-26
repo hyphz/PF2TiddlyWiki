@@ -205,6 +205,8 @@ Error message and password prompt
 
 <li>Advanced Alchemy</li>
 
+<li>Advancement</li>
+
 <li>Aeon</li>
 
 <li>Aerial Form</li>
@@ -1466,6 +1468,8 @@ Error message and password prompt
 <li>SpellSummaryTable</li>
 
 <li>Spirits' Interference</li>
+
+<li>Splat</li>
 
 <li>SplatNameDict</li>
 
@@ -11484,6 +11488,69 @@ For each batch of infused reagents you spend, choose an alchemical item of your 
 
 These items have the &lt;&lt;tag Infused&gt;&gt; trait and remain potent for 24 hours or until your next daily preparations, whichever comes first.</pre>
 </div>
+<div created="20200726145035852" modified="20200726151635954" tags="Rule" title="Advancement" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! Advancement Schedule
+
+| !Feature | !Frequency | !Levels |
+| Class features | As per class | As per class |
+| Ancestry Feat | 1st, then every 4 | 1, 5, 9, 13, 17 |
+| Class Feat | 1st, 2nd, then every 2 | 1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 |
+| General Feats | 3rd, then every 4 | 3, 7, 11, 15, 19 |
+| Skill Feats | 2nd, then every 2 | 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 |
+| Skill Increase (Expert) | 3rd, 5th | |
+| Skill Increase (Master) | 7th, 9th, 11th, 13th | |
+| Skill Increase (Legendary) | 15th, 17th, 19th | |
+| Ability boost | 5th, then every 5 | 5, 10, 15, 20 |
+
+!! Incremental Advancement Table
+
+| !Level | !Advancement |
+| 1 | Basic class features, class [[Splat]], Ancestry Feat, Class Feat |
+| 2 | Class Feat, Skill Feat |
+| 3 | General Feat, Skill Increase |
+| 4 | Class Feat, Skill Feat |
+| 5 | Ability boost, Ancestry Feat, Skill Increase |
+| 6 | Class Feat, Skill Feat |
+| 7 | General Feat, Skill Increase |
+| 8 | Class Feat, Skill Feat |
+| 9 | Ancestry Feat, Skill Increase |
+| 10 | Ability boosts, Class Feat, Skill Feat |
+| 11 | General Feat, Skill Increase |
+| 12 | Class Feat, Skill Feat |
+| 13 | Ancestry Feat, Skill Increase |
+| 14 | Class Feat, Skill Feat |
+| 15 | Ability boost, General Feat, Skill Increase |
+| 16 | Class Feat, Skill Feat |
+| 17 | Ancestry Feat, Skill Increase |
+| 18 | Class Feat, Skill Feat |
+| 19 | General Feat, Skill Increase |
+| 20 | Ability boost, Class Feat, Skill Feat |
+
+!! In-place Advancement Table
+
+| !Level | !Ancestry Feats | !Class Feats | !General Feats | !Skill Feats | !Ability Boosts | !Skill increases |
+| 1 | !1 | !1 | 0 | 0 | 0 | Starting |
+| 2 | 1 | !2 | 0 | !1 | 0 | Starting |
+| 3 | 1 | 2 | !1 | 1 | 0 | !1 Expert |
+| 4 | 1 | !3 | 1 | !2 | 0 | 1  Expert |
+| 5 | !2 | 3 | 1 | 2 | !4 | !2 Expert |
+| 6 | 2 | !4 | 1 | !3 | 4 | 2 Expert |
+| 7 | 2 | 4 | !2 | 3 | 4 | !2 Expert, 1 Master |
+| 8 | 2 | !5 | 2 | !4 | 4 | 2 Expert, 1 Master |
+| 9 | !3 | 5 | 2 | 4 | 4 | !2 Expert, 2 Master |
+| 10 | 3 | !6 | 2 | !5 | !8 | 2 Expert, 2 Master |
+| 11 | 3 | 6 | !3 | 5 | 8 | !2 Expert, 3 Master |
+| 12 | 3 | !7 | 3 | !6 | 8 | 2 Expert, 3 Master |
+| 13 | !4 | 7 | 3 | 6 | 8 | !2 Expert, 4 Master |
+| 14 | 4 | !8 | 3 | !7 | 8 | 2 Expert, 4 Master |
+| 15 | 4 | 8 | !4 | 7 | !12 | !2 Expert, 4 Master, 1 Legendary |
+| 16 | 4 | !9 | 4 | !8 | 12 | 2 Expert, 4 Master, 1 Legendary |
+| 17 | !5 | 9 | 4 | 8 | 12 | !2 Expert, 4 Master, 2 Legendary |
+| 18 | 5 | !10 | 4 | !9 | 12 | 2 Expert, 4 Master, 2 Legendary |
+| 19 | 5 | 10 | !5 | 9 | 12 | !2 Expert, 4 Master, 3 Legendary |
+| 20 | 5 | !11 | 5 | !10 | !16 | 2 Expert, 4 Master, 3 Legendary |
+</pre>
+</div>
 <div created="20200725154100512" modified="20200725154118403" tags="Trait" title="Aeon" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>These monitors are the self-styled defenders of reality.
 
@@ -11652,29 +11719,48 @@ If you have the formula for the item you are attempting to identify, you gain a 
 
 Your proficiency ranks for [[Simple]] weapons and alchemical bombs increase to expert.</pre>
 </div>
-<div created="20200626210609384" modified="20200626211215098" tags="" title="Alchemist" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>|!Level|!Class|!Per|!Fort|!Ref|!Will|!Simp|!Mart|!Fist|!Light|!Bare|
-|1|T|T|X|X|T|T|U|T|T|T|
-|2|T|T|X|X|T|T|U|T|T|T|
-|3|T|T|X|X|T|T|U|T|T|T|
-|4|T|T|X|X|T|T|U|T|T|T|
-|5|T|T|X|X|T|T|U|T|T|T|
-|6|T|T|X|X|T|T|U|T|T|T|
-|7|T|T|X|X|X|X|U|T|T|T|
-|8|T|T|X|X|X|X|U|T|T|T|
-|9|X|X|X|X|X|X|U|T|T|T|
-|10|X|X|X|X|X|X|U|T|T|T|
-|11|X|X|X|M!|X|X|U|T|T|T|
-|12|X|X|X|M!|X|X|U|T|T|T|
-|13|X|X|X|M!|X|X|U|T|X|X|
-|14|X|X|X|M!|X|X|U|T|X|X|
-|15|X|X|X|M!|M!|X|U|T|X|X|
-|16|X|X|X|M!|M!|X|U|T|X|X|
-|17|X|X|X|M!|M!|X|U|T|X|X|
-|18|X|X|X|M!|M!|X|U|T|X|X|
-|19|X|X|X|M!|M!|X|U|T|M|M|
-|20|X|X|X|M!|M!|X|U|T|M|M|
+<div cls-combt="Simple Unarmed [[Alchemical Bomb]] Light Unarmored" cls-exskills="3" cls-fortitude="E" cls-hpbase="8" cls-key="Intelligence" cls-per="T" cls-reflex="E" cls-tskills="Crafting" cls-will="T" created="20200626210609384" modified="20200726152600134" tags="Class" title="Alchemist" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! Class Features
 
+| !Level | !Features |
+| 1 | [[Alchemical Crafting]], [[Infused Reagants]], [[Advanced Alchemy]], [[Quick Alchemy]], +2 Formulas |
+| 2 | +2 Formulas |
+| 3 | +2 Formulas |
+| 4 | +2 Formulas |
+| 5 | [[Field Discovery]], +2 Formulas |
+| 6 | +2 Formulas |
+| 7 | [[Alchemical Weapon Expertise]], [[Iron Will]], [[Perpetual Infusions]], +2 Formulas |
+| 8 | +2 Formulas |
+| 9 | [[Alchemical Expertise]], [[Alertness]], [[Double Brew]], +2 Formulas |
+| 10 | +2 Formulas |
+| 11 | [[Juggernaut]], [[Perpetual Potency]], +2 Formulas |
+| 12 | +2 Formulas |
+| 13 | [[Greater Field Discovery]], [[Light Armor Expertise]], [[Weapon Specialization]], +2 Formulas |
+| 14 | +2 Formulas |
+| 15 | [[Alchemical Alacrity]], [[Evasion]], +2 Formulas |
+| 16 | +2 Formulas |
+| 17 | [[Alchemical Master]], [[Perpetual Perfection]], +2 Formulas |
+| 18 | +2 Formulas |
+| 19 | [[Light Armor Mastery]],  +2 Formulas |
+| 20 |  +2 Formulas |
+
+!! Class Feats
+
+&lt;table&gt;
+&lt;tr&gt;&lt;th&gt;Level&lt;/th&gt;&lt;th&gt;Feats&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;1 2 4 6 8 10 12 14 16 18 20&quot; variable=&quot;level&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;&lt;level&gt;&gt;&lt;/th&gt;
+&lt;td&gt;
+&lt;$list filter=&quot;[tag[Feat]tag[Class]tag[Alchemist]field:feat-level&lt;level&gt;]&quot;&gt;
+&lt;$link /&gt;
+&lt;$list filter=&quot;[all[current]has[feat-fpre]]&quot;&gt;
+(Requires {{!!feat-fpre}})
+&lt;/$list&gt;
+&lt;br /&gt; 
+&lt;/$list&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/$list&gt;
+&lt;/table&gt;
 </pre>
 </div>
 <div created="20200708194424825" modified="20200708194444400" tags="Ability" title="Alertness" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -15776,7 +15862,7 @@ A creature that fails this save falls [[Unconscious]], and a creature that succe
 //Greater Darkvision allows the creature to see in magical darkness that blocks normal [[Darkvision]].//
 </pre>
 </div>
-<div created="20200723202128781" feat-class="Alchemist" feat-fpre="[[Debilitating Bomb]]" feat-level="10" mod-debilitating_bomb="Upgrades available list of effects." modified="20200723202310529" tags="Alchemist Class Feat" title="Greater Debilitating Bomb" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723202128781" feat-class="Alchemist" feat-fpre="[[Debilitating Bomb]]" feat-level="10" mod-debilitating_bomb="Upgrades available list of effects." modified="20200726152610732" tags="Alchemist Class Feat" title="Greater Debilitating Bomb" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisite'' [[Debilitating Bomb]].
 
 You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. 
@@ -18472,6 +18558,18 @@ If you are interrupted during such a swap, the original spell remains prepared a
 <pre>You call forth protective spirits to ward off ranged attacks. 
 
 Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 flat check or the attack misses with no effect.</pre>
+</div>
+<div created="20200726152716680" modified="20200726153140873" title="Splat" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>//Splats are used as a generic term for the options taken within classes.//
+
+//The particular names used for splats of particular classes are://
+
+&lt;table&gt;
+&lt;$list filter=&quot;[tag[Class]!tag[Feat]]&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;$link/&gt;&lt;/th&gt;&lt;td&gt;&lt;$view tiddler=&quot;SplatNameDict&quot; index=&lt;&lt;currentTiddler&gt;&gt; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/$list&gt;
+
+</pre>
 </div>
 <div created="20200711181711825" modified="20200711182038333" tags="" title="SplatNameDict" type="application/x-tiddler-dictionary" revision="0" bag="default">
 <pre>Alchemist:Field

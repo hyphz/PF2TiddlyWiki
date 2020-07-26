@@ -1,0 +1,14 @@
+created: 20200726152716680
+modified: 20200726153140873
+title: Splat
+type: text/vnd.tiddlywiki
+
+//Splats are used as a generic term for the options taken within classes.//
+
+//The particular names used for splats of particular classes are://
+
+<table>
+<$list filter="[tag[Class]!tag[Feat]]">
+<tr><th><$link/></th><td><$view tiddler="SplatNameDict" index=<<currentTiddler>> /></td></tr>
+</$list>
+
