@@ -2,7 +2,8 @@ created: 20200630152110603
 feat-level: 1
 feat-skill: Intimidation
 feat-spre: T
-modified: 20200630152208606
+mod-coerce: Can Coerce more targets based on proficiency.
+modified: 20200726000809080
 tags: Feat General Skill
 title: Group Coercion
 type: text/vnd.tiddlywiki

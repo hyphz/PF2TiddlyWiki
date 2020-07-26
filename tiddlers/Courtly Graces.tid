@@ -2,7 +2,9 @@ created: 20200630090811056
 feat-level: 1
 feat-skill: Society
 feat-spre: T
-modified: 20200630091012030
+mod-impersonate: Use Society to pretend to be a (non-specific) noble.
+mod-make_an_impression: Use Society to impress nobles.
+modified: 20200725235912646
 tags: Feat General Skill
 title: Courtly Graces
 type: text/vnd.tiddlywiki

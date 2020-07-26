@@ -2,7 +2,9 @@ created: 20200702192906485
 feat-level: 1
 feat-skill: Religion
 feat-spre: T
-modified: 20200702193012187
+mod-decipher_writing: Promotes fumbles to fails on religious texts or info.
+mod-recall_knowledge: Promotes fails and hits on knowledge about your faith.
+modified: 20200726003334573
 tags: Feat General Skill
 title: Student of the Canon
 type: text/vnd.tiddlywiki

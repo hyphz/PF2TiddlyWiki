@@ -2,7 +2,8 @@ created: 20200702140849824
 feat-level: 1
 feat-skill: Nature
 feat-spre: T
-modified: 20200702140944907
+mod-treat_wounds: Can use Nature instead of Medicine.
+modified: 20200726002009158
 tags: Feat General Skill
 title: Natural Medicine
 type: text/vnd.tiddlywiki

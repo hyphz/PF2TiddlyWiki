@@ -2,7 +2,8 @@ created: 20200630091018546
 feat-level: 15
 feat-skill: Crafting
 feat-spre: L
-modified: 20200630091129971
+mod-craft: Ignore requirements other than feat, level, proficiency and cost.
+modified: 20200726000005683
 tags: General Feat Skill
 title: Craft Anything
 type: text/vnd.tiddlywiki

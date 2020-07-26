@@ -2,7 +2,10 @@ created: 20200702211615652
 feat-level: 7
 feat-skill: Athletics
 feat-spre: M
-modified: 20200702211729747
+mod-high_jump: Can chain jump actions that end adjacent walls.
+mod-leap: Can chain jump actions that end adjacent walls.
+mod-long_jump: Can chain jump actions that end adjacent walls.
+modified: 20200726004255388
 tags: Feat General Skill
 title: Wall Jump
 type: text/vnd.tiddlywiki

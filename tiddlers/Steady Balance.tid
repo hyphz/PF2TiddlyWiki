@@ -2,9 +2,11 @@ created: 20200702151302754
 feat-level: 1
 feat-skill: Acrobatics
 feat-spre: T
+mod-balance: Promotes hits to crits.
+mod-grab_an_edge: Can use Acrobatics instead of Reflex.
 mod-narrow_surface: Makes you not flat-footed on narrow surfaces.
 mod-uneven_ground: Makes you not flat-footed on uneven ground.
-modified: 20200722203742481
+modified: 20200726003137232
 tags: Feat General Skill
 title: Steady Balance
 type: text/vnd.tiddlywiki

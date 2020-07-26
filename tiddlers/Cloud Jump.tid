@@ -2,7 +2,9 @@ created: 20200630085852269
 feat-level: 15
 feat-skill: Athletics
 feat-spre: L
-modified: 20200630150203892
+mod-high_jump: Use long jump calculation for jumping high.
+mod-long_jump: Triples long jump distance up to speed action limit.
+modified: 20200725235621414
 tags: General Skill Feat
 title: Cloud Jump
 type: text/vnd.tiddlywiki

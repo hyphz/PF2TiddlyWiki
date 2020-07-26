@@ -2,7 +2,9 @@ created: 20200702193508983
 feat-level: 1
 feat-skill: Stealth
 feat-spre: T
-modified: 20200725163921577
+mod-avoid_notice: Can approach creatures stealthily in preferred terrain.
+mod-sneak: Can sneak without a check in your preferred terrain.
+modified: 20200726003621838
 tags: Feat General Skill
 title: Terrain Stalker
 type: text/vnd.tiddlywiki

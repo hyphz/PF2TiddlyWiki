@@ -2,7 +2,9 @@ created: 20200702140505169
 feat-level: 2
 feat-skill: Arcana Nature Occultism Religion
 feat-spre: E
-modified: 20200702140651747
+mod-earn_income: You can "earn" discounts on learning spells.
+mod-learn_a_spell: Reduces time needed to learn spells.
+modified: 20200726001941898
 tags: Feat General Skill
 title: Magical Shorthand
 type: text/vnd.tiddlywiki

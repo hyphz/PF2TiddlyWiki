@@ -2,7 +2,8 @@ created: 20200630090130223
 feat-level: 1
 feat-skill: Athletics
 feat-spre: T
-modified: 20200630090420137
+mod-climb: Not flat-footed when climbing and need only 1 hand.
+modified: 20200725235654953
 tags: Feat General Skill
 title: Combat Climber
 type: text/vnd.tiddlywiki

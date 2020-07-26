@@ -3,7 +3,8 @@ created: 20200630084503782
 feat-level: 1
 feat-skill: Medicine
 feat-spre: T
-modified: 20200630085526355
+mod-treat_wounds: Can use this as a combat action 1/day.
+modified: 20200725235347093
 tags: Feat General Healing Manipulate Skill Action
 title: Battle Medicine
 type: text/vnd.tiddlywiki

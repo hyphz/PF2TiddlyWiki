@@ -2,7 +2,8 @@ created: 20200702144515142
 feat-level: 7
 feat-skill: Athletics
 feat-spre: M
-modified: 20200702144601203
+mod-swim: Swim +5/+10 feet further, or get swim speed if Legend.
+modified: 20200726002629035
 tags: General Feat Skill
 title: Quick Swim
 type: text/vnd.tiddlywiki

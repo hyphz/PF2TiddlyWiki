@@ -2,7 +2,11 @@ created: 20200702193731271
 feat-level: 1
 feat-skill: Athletics
 feat-spre: T
-modified: 20200702193832655
+mod-disarm: Can use on creatures 2-3 sizes larger.
+mod-grapple: Can use on creatures 2-3 sizes larger.
+mod-shove: Can use on creatures 2-3 sizes larger.
+mod-trip: Can use on creatures 2-3 sizes larger.
+modified: 20200726003725427
 tags: Feat General Skill
 title: Titan Wrestler
 type: text/vnd.tiddlywiki

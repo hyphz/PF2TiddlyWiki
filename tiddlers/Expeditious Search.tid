@@ -2,8 +2,9 @@ created: 20200630091554636
 feat-level: 7
 feat-skill: Perception
 feat-spre: M
-modified: 20200630091649299
-tags: Feat General
+mod-search: Searching takes half as long, so can move double the speed.
+modified: 20200726004708944
+tags: Feat General Skill
 title: Expeditious Search
 type: text/vnd.tiddlywiki
 

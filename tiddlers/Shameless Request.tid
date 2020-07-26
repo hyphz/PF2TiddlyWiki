@@ -2,7 +2,8 @@ created: 20200702150203554
 feat-level: 7
 feat-skill: Diplomacy
 feat-spre: M
-modified: 20200702150315298
+mod-request: Promotes fumbles to fails and reduces extreme request penalties by 2.
+modified: 20200726003007374
 tags: Feat General Skill
 title: Shameless Request
 type: text/vnd.tiddlywiki

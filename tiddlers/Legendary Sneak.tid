@@ -2,7 +2,9 @@ created: 20200701223314088
 feat-level: 15
 feat-skill: Stealth
 feat-spre: L
-modified: 20200718213451474
+mod-hide: You don't need cover or concealment.
+mod-sneak: You don't need cover or concealment.
+modified: 20200726001728879
 tags: General Feat Skill
 title: Legendary Sneak
 type: text/vnd.tiddlywiki

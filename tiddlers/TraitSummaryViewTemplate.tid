@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200725154551781
+modified: 20200726004305714
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -123,5 +123,5 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Visual]]</th><td>This works only against creatures that can see it and are not [[Blinded]].</td></tr>
 </$list>
 </table>
-
+<!-- Remove this line temporarily if mod- recursion breaks a page -->
 <$macrocall $name="ModifierBlock" for=<<currentTiddler>> />

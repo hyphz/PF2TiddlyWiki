@@ -2,7 +2,8 @@ created: 20200702143623544
 feat-level: 1
 feat-skill: Intimidation
 feat-spre: T
-modified: 20200702143710431
+mod-coerce: Takes only 1 round, not 1 minute.
+modified: 20200726002402913
 tags: Feat General Skill
 title: Quick Coercion
 type: text/vnd.tiddlywiki

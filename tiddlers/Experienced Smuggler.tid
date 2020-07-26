@@ -2,7 +2,9 @@ created: 20200630091828440
 feat-level: 1
 feat-skill: Stealth
 feat-spre: T
-modified: 20200630091930796
+mod-conceal_an_item: Use 10 as Stealth result if roll is lower.
+mod-earn_income: Get smuggling jobs earning with Underworld Lore.
+modified: 20200726000339946
 tags: General Feat Skill
 title: Experienced Smuggler
 type: text/vnd.tiddlywiki

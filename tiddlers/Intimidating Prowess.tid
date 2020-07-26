@@ -2,7 +2,9 @@ created: 20200701090634892
 feat-level: 2
 feat-skill: Intimidation
 feat-spre: E
-modified: 20200701090824340
+mod-coerce: Gain +1/+2 circumstance if you can menace target.
+mod-demoralize: Gain +1/+2 circumstance if you can menace target.
+modified: 20200726001317518
 tags: Feat General Skill
 title: Intimidating Prowess
 type: text/vnd.tiddlywiki

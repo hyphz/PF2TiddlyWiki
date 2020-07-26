@@ -2,7 +2,8 @@ created: 20200702143839071
 feat-level: 1
 feat-skill: Arcana Nature Occultism Religion
 feat-spre: T
-modified: 20200702143952282
+mod-identify_magic: Reduces time taken based on proficiency.
+modified: 20200726002448952
 tags: Feat General Skill
 title: Quick Identification
 type: text/vnd.tiddlywiki

@@ -2,7 +2,8 @@ created: 20200702144607338
 feat-level: 7
 feat-skill: Thievery
 feat-spre: M
-modified: 20200702144657767
+mod-pick_a_lock: Becomes 1 action.
+modified: 20200726002643524
 tags: Feat General Skill
 title: Quick Unlock
 type: text/vnd.tiddlywiki

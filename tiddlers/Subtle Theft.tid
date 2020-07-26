@@ -2,7 +2,10 @@ created: 20200702193020809
 feat-level: 1
 feat-skill: Thievery
 feat-spre: T
-modified: 20200702193132300
+mod-create_a_diversion: Stealing or Palming something doesn't end the diversion.
+mod-palm_an_object: Palming an object doesn't end a diversion.
+mod-steal: Stealing doesn't end a diversion and gives -2 circumstance to detecting theft.
+modified: 20200726003433693
 tags: Feat General Skill
 title: Subtle Theft
 type: text/vnd.tiddlywiki

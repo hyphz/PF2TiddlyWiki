@@ -1,9 +1,10 @@
 created: 20200630092528328
 feat-level: 1
+mod-affliction: Improves saves against disease and poison.
 mod-disease: Increases the effectiveness of saves.
 mod-drained: Increases the effectiveness of saves.
 mod-poison: Increases the effectiveness of saves.
-modified: 20200725165424100
+modified: 20200726004810308
 tags: Feat General
 title: Fast Recovery
 type: text/vnd.tiddlywiki

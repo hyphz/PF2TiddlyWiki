@@ -2,7 +2,8 @@ created: 20200630090642322
 feat-level: 2
 feat-skill: Medicine
 feat-spre: E
-modified: 20200630090732588
+mod-treat_wounds: Reduces immunity time to 10 minutes.
+modified: 20200725235815346
 tags: Feat General Skill
 title: Continual Recovery
 type: text/vnd.tiddlywiki

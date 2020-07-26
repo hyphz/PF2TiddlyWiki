@@ -2,7 +2,8 @@ created: 20200702144133751
 feat-level: 7
 feat-skill: Arcana Nature Occultism Religion
 feat-spre: M
-modified: 20200702144252627
+mod-recognize_spell: Use as a 1/round free action if Master in the related skill.
+modified: 20200726002542054
 tags: Feat General Skill
 title: Quick Recognition
 type: text/vnd.tiddlywiki

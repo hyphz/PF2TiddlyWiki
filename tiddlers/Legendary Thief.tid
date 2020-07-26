@@ -2,7 +2,8 @@ created: 20200701223530159
 feat-level: 15
 feat-skill: Thievery
 feat-spre: L
-modified: 20200701223645380
+mod-steal: You can steal wielded or worn items with penalties.
+modified: 20200726001814208
 tags: Feat General Skill
 title: Legendary Thief
 type: text/vnd.tiddlywiki

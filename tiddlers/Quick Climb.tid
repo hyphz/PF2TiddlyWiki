@@ -2,7 +2,8 @@ created: 20200702143521130
 feat-level: 7
 feat-skill: Athletics
 feat-spre: M
-modified: 20200702143607765
+mod-climb: Increases speeds by +5/+10 or gives climb speed if Legend.
+modified: 20200726002339206
 tags: Feat General Skill
 title: Quick Climb
 type: text/vnd.tiddlywiki

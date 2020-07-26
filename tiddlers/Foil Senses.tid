@@ -2,7 +2,10 @@ created: 20200630092926802
 feat-level: 7
 feat-skill: Stealth
 feat-spre: M
-modified: 20200630093034177
+mod-avoid_notice: Always allowing for special senses.
+mod-hide: Always allowing for special senses.
+mod-sneak: Always allowing for special senses.
+modified: 20200726000538377
 tags: General Skill Feat
 title: Foil Senses
 type: text/vnd.tiddlywiki

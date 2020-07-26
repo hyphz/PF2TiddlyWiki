@@ -2,7 +2,9 @@ created: 20200702141643504
 feat-level: 1
 feat-skill: Thievery
 feat-spre: T
-modified: 20200702141805430
+mod-palm_an_object: Removes -5 penalty for guarded objects.
+mod-steal: Removes -5 penalty for guarded objects and can steal in combat.
+modified: 20200726002209591
 tags: Feat Skill General
 title: Pickpocket
 type: text/vnd.tiddlywiki

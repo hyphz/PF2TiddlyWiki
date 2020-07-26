@@ -2,7 +2,8 @@ created: 20200630151651057
 feat-level: 1
 feat-skill: Survival
 feat-spre: T
-modified: 20200630152047824
+mod-subsist: Fails or fumbles become hits and increase creatures supported.
+modified: 20200726000639395
 tags: Feat General Skill
 title: Forager
 type: text/vnd.tiddlywiki

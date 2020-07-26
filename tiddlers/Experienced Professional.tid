@@ -2,7 +2,8 @@ created: 20200630091705646
 feat-level: 1
 feat-skill: Lore
 feat-spre: T
-modified: 20200630091802574
+mod-earn_income: Turns fumbles to fails and doubles fail income if Expert.
+modified: 20200726000214012
 tags: Feat General Skill
 title: Experienced Professional
 type: text/vnd.tiddlywiki

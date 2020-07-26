@@ -2,7 +2,9 @@ created: 20200702144005357
 feat-level: 1
 feat-skill: Athletics
 feat-spre: T
-modified: 20200702144102614
+mod-high_jump: Use jump without striding as 1 action.
+mod-long_jump: Use jump without striding as 1 action.
+modified: 20200726002513530
 tags: Feat General Skill
 title: Quick Jump
 type: text/vnd.tiddlywiki

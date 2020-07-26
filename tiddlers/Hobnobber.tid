@@ -2,7 +2,8 @@ created: 20200630152817217
 feat-level: 1
 feat-skill: Diplomacy
 feat-spre: T
-modified: 20200630152917143
+mod-gather_information: Takes half time and prevents fumbles if Master.
+modified: 20200726001012379
 tags: General Feat Skill
 title: Hobnobber
 type: text/vnd.tiddlywiki

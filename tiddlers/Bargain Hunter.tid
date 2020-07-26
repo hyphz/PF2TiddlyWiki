@@ -2,7 +2,8 @@ created: 20200630084220101
 feat-level: 1
 feat-skill: Diplomacy
 feat-spre: T
-modified: 20200630085603317
+mod-earn_income: You can earn income using Diplomacy.
+modified: 20200725235250960
 tags: Feat General Skill
 title: Bargain Hunter
 type: text/vnd.tiddlywiki

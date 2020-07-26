@@ -2,7 +2,8 @@ created: 20200630091945425
 feat-level: 1
 feat-skill: Survival
 feat-spre: T
-modified: 20200630092051772
+mod-track: Can track at full speed, with penalty if not Master.
+modified: 20200726000412245
 tags: General Skill Feat
 title: Experienced Tracker
 type: text/vnd.tiddlywiki

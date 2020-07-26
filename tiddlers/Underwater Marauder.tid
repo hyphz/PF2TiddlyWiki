@@ -2,7 +2,8 @@ created: 20200702194628629
 feat-level: 1
 feat-skill: Athletics
 feat-spre: T
-modified: 20200702194733284
+mod-aquatic_combat: Not flat-footed and ignore penalties for bludgeoning/slashing.
+modified: 20200726003837779
 tags: General Feat Skill
 title: Underwater Marauder
 type: text/vnd.tiddlywiki

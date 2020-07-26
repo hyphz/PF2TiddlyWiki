@@ -1,11 +1,11 @@
 created: 20200722203824703
 mod-climb: You're flat-footed while climbing an incline.
 mod-flat-footed: You're flat-footed while climbing an incline.
-modified: 20200722203931649
+modified: 20200725235723328
 tags: Rule
 title: Incline
 type: text/vnd.tiddlywiki
 
 An incline is an area so steep that you need to [[Climb]] using the Athletics skill in order to progress upward.
 
-You’re [[Flat-Footed]] when Climbing an incline.
+You’re [[Flat-Footed]] when Climbing an incline. //(You would normally be flat-footed when Climbing.)//

@@ -2,7 +2,9 @@ created: 20200702151421040
 feat-level: 1
 feat-skill: Society
 feat-spre: T
-modified: 20200702151519885
+mod-gather_information: Can use Society instead of Diplomacy.
+mod-recall_knowledge: Can use to Gather Information on streets you know.
+modified: 20200726003233690
 tags: Feat General Skill
 title: Streetwise
 type: text/vnd.tiddlywiki

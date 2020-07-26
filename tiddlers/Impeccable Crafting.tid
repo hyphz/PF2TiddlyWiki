@@ -2,7 +2,8 @@ created: 20200630152956225
 feat-level: 7
 feat-skill: Crafting
 feat-spre: M
-modified: 20200630153048989
+mod-specialty_crafting: Promotes hits to crits when crafting specialites.
+modified: 20200726001127382
 tags: Feat General Skill
 title: Impeccable Crafting
 type: text/vnd.tiddlywiki

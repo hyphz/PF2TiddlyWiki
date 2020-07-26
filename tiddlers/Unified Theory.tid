@@ -2,7 +2,10 @@ created: 20200702194750876
 feat-level: 15
 feat-skill: Arcana
 feat-spre: L
-modified: 20200702194857847
+mod-nature: Can use Arcana instead for magic related checks.
+mod-occultism: Can use Arcana instead for magic related checks.
+mod-religion: Can use Arcana instead for magic related checks.
+modified: 20200726003950053
 tags: General Skill Feat
 title: Unified Theory
 type: text/vnd.tiddlywiki

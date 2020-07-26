@@ -2,7 +2,8 @@ created: 20200702144407600
 feat-level: 1
 feat-skill: Acrobatics
 feat-spre: T
-modified: 20200702144505585
+mod-squeeze: Reduces time taken to squeeze based on proficiency.
+modified: 20200726002608086
 tags: Feat General Skill
 title: Quick Squeeze
 type: text/vnd.tiddlywiki

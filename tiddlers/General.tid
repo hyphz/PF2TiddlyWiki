@@ -1,0 +1,15 @@
+created: 20200726004416546
+modified: 20200726005034343
+tags: 
+title: General
+type: text/vnd.tiddlywiki
+
+General feats can be taken by any class and don't relate to skills.
+
+You can always take a [[Skill]] feat when you can take a general feat.
+
+<ul>
+<$list filter="[tag[General]!tag[Skill]]">
+<li><$link/></li>
+</$list>
+</ul>
