@@ -1,0 +1,8 @@
+a-actions: 1
+created: 20200726231054023
+modified: 20200726231126039
+tags: Action Implied Concentrate
+title: Move Levitated Creature
+type: text/vnd.tiddlywiki
+
+[[Levitate]]: For the duration of the spell, you can move the target up or down 10 feet with a single action, which has the <<tag Concentrate>> trait. 

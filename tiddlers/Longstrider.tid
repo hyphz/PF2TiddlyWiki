@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726232240836
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200726232355084
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Longstrider
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You lengthen your stride beyond what should be possible. 
+
+You gain a +10-foot status bonus to your Speed.
+
+''Heightened (2nd)'' The duration increases to 8 hours.

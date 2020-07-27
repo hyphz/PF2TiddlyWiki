@@ -1,0 +1,55 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726224206161
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200726224658865
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Polymorph Transmutation Primal Somatic Verbal Concentrate Manipulate
+title: Insect Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You envision a simple bug and transform into a Medium animal battle form. 
+
+When you cast this spell, choose ant, beetle, centipede, mantis, scorpion, or spider. You can decide the specific type of animal (such as such as a ladybug or scarab for beetle), but this has no effect on the form’s Size or statistics. 
+
+While in this form, you gain the <<tag Animal>> trait. 
+
+You can [[Dismiss|Dismiss a Spell]] this spell.
+
+{{BattleFormRestrictions}}
+
+You gain the following statistics and abilities regardless of which battle form you choose:
+
+* AC = 18 + your level. Ignore your armor’s check penalty and Speed reduction.
+* 10 temporary Hit Points.
+* [[Low-Light Vision]].
+* One or more attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +13, and your damage bonus is +2. These attacks are [[Strength]] based (for the purpose of the [[Enfeebled]] condition). If your unarmed attack modifier is higher, you can use it instead.
+* [[Athletics]] modifier of +13, unless your own is higher. 
+
+You also gain specific abilities based on the form you choose:
+
+* ''Ant'' Speed 30 feet, climb Speed 30 feet; Melee {{OneAction}} mandibles, Damage 2d6 bludgeoning.
+* ''Beetle'' Speed 25 feet; Melee {{OneAction}} mandibles, Damage 2d10 bludgeoning.
+* ''Centipede'' Speed 25 feet, climb Speed 25 feet; [[Darkvision]]; Melee {{OneAction}} mandibles, Damage 1d8 piercing plus 1d4 persistent poison.
+* ''Mantis'' Speed 40 feet; imprecise scent 30 feet; Melee {{OneAction}} foreleg, Damage 2d8 bludgeoning.
+* ''Scorpion'' Speed 40 feet; [[Darkvision]], imprecise [[Tremorsense]] 60 feet; Melee {{OneAction}} stinger, Damage 1d8 piercing plus 1d4 persistent poison; Melee {{OneAction}} pincer ([[Agile]]), Damage 1d6 bludgeoning.
+* ''Spider'' [[Darkvision]]; Melee {{OneAction}} fangs, Damage 1d6 piercing plus 1d4 persistent poison; Melee {{OneAction}} Speed 25 feet, climb Speed 25 feet; Ranged {{OneAction}} web (range increment 20 feet), Damage entangles the target for 1 round. //There is no description of what "entangling a target" does, but it likely makes them [[Immobilized]].//
+
+''Heightened (4th)'' Your battle form is Large, and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, attack modifier +16, damage bonus +6, and Athletics +16.
+
+Heightened (5th) Your battle form is Huge, and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, attack modifier +18, damage bonus +2 and double damage dice (including persistent damage), and Athletics +20.

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726224947633
+m-area: 10 foot [[Emanation]]
+m-components: Material Somatic
+m-duration: 10 minutes
+m-level: 3
+m-range: 
+m-save: 
+m-targets: You and any number of creatures in range //ie, area//
+m-time: 
+modified: 20200726225128095
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Illusion Arcane Occult Material Somatic Spell Manipulate Concentrate
+title: Invisibility Sphere
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You and all targets are [[Invisible]] except to each other as long as you remain within the spell’s area. 
+
+If a creature made invisible by this spell leaves the spell’s area, it becomes visible and remains so even if it returns to the spell’s area. 
+
+If any creature made invisible by this spell uses a [[Hostile Action]], the spell ends after the hostile action is completed.
+
+While exploring, it’s easy to move together slowly and remain invisible. This is untenable in a battle, however. Once an encounter begins, creatures remain invisible until at most the end of the first round, at which point the spell ends.
+
+''Heightened (5th)'' The duration increases to 1 hour.

@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726233235741
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 120 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200726233428926
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Force Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+title: Magic Missile
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send a dart of force streaking toward a creature that you can see. 
+
+It automatically hits and deals 1d4+1 <<tag Force>>damage. 
+
+For each additional action you use when Casting the Spell, increase the number of missiles you shoot by one, to a maximum of three missiles for 3 actions. 
+
+You choose the target for each missile individually. 
+
+If you shoot more than one missile at the same target, combine the damage before applying bonuses or penalties to damage, resistances, weaknesses, and so forth.
+
+//If you shoot only one missile, this spell is {{OneAction}} but it still has both Verbal and Somatic components. This is an exception to the usual rules for number of actions to cast.//
+
+''Heightened (+2)'' You shoot one additional missile with each action you spend.

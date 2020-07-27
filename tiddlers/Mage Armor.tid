@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726232409521
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the next time you make your {{daily preparations|Rest}}
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-fortitude: Gives +1/+2/+3 item bonus.
+mod-reflex: Gives +1/+2/+3 item bonus.
+mod-will: Gives +1/+2/+3 item bonus.
+modified: 20200726232628063
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Abjuration Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+title: Mage Armor
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You ward yourself with shimmering magical energy, gaining a +1 item bonus to [[AC]] and a maximum [[Dexterity]] modifier of +5. 
+
+While wearing mage armor, you use your unarmored proficiency to calculate your AC.
+
+''Heightened (4th)'' You gain a +1 item bonus to saving throws.
+
+''Heightened (6th)'' The item bonus to AC increases to +2, and you gain a +1 item bonus to saving throws.
+
+''Heightened (8th)'' The item bonus to AC increases to +2, and you gain a +2 item bonus to saving throws.
+
+''Heightened (10th)'' The item bonus to AC increases to +3, and you gain a +3 item bonus to saving throws.

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726224021938
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 9
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 corporeal creature
+m-time: 
+modified: 20200726224157822
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+title: Implosion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You crush the target by causing it to collapse in on itself, dealing 75 damage //with a basic Fortitude save//. 
+
+Each time you [[Sustain the Spell|Sustain a Spell]], you must choose a new target to be subject to the same effect. 
+
+The same creature can never be targeted more than once with a single casting of this spell. 
+
+You also can’t affect more than one creature per turn with implosion. 
+
+You can’t target a creature that’s incorporeal, gaseous, or liquid, or one that otherwise lacks a solid form.
+
+''Heightened (+1)'' The damage increases by 10.

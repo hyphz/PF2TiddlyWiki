@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726230929155
+m-area: 
+m-components: Somatic Verbal
+m-duration: 5 minutes
+m-level: 3
+m-range: Touch
+m-save: 
+m-targets: 1 unattended object or willing creature
+m-time: 
+modified: 20200726231049275
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Evocation Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+title: Levitate
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You defy gravity and levitate the target 5 feet off the ground.
+
+For the duration of the spell, you can move the target up or down 10 feet with a single action, which has the <<tag Concentrate>> trait. 
+
+A creature floating in the air from levitate takes a –2 circumstance penalty to attack rolls. 
+
+A floating creature can spend an [[Interact]] action to stabilize itself and negate this penalty for the remainder of its turn. 
+
+If the target is adjacent to a fixed object or terrain of suitable stability, it can move across the surface by climbing (if the surface is vertical, like a wall) or crawling (if the surface is horizontal, such as a ceiling). 
+
+The GM determines which surfaces can be climbed or crawled across.

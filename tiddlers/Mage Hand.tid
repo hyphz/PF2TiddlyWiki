@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726232636668
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]]
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 unattended object of light Bulk or less
+m-time: 
+mod-sustain_a_spell: Can move the object 20 feet when sustained.
+modified: 20200726232849622
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Cantrip Evocation Arcane Occult Somatic Verbal Manipulate Concentrate Spell
+title: Mage Hand
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a single magical hand, either invisible or ghostlike, that grasps the target object and moves it slowly up to 20 feet. 
+
+Because you’re levitating the object, you can move it in any direction. 
+
+When you [[Sustain the Spell|Sustain a Spell]], you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.
+
+''Heightened (3rd)'' You can target an unattended object with a [[Bulk]] of 1 or less.
+
+''Heightened (5th)'' The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.
+
+''Heightened (7th)'' The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less.

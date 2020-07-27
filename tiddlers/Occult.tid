@@ -1,5 +1,5 @@
 created: 20200627225509727
-modified: 20200719203221773
+modified: 20200726230844499
 tags: Tradition
 title: Occult
 type: text/vnd.tiddlywiki
@@ -8,11 +8,4 @@ The practitioners of occult traditions seek to understand the unexplainable, cat
 
 [[Bard]]s are the most iconic occult spellcasters, collecting strange esoterica and using their performances to influence the mind or elevate the soul, and occult [[Sorcerer]]s strive to understand the mysterious power in their blood.
 
-<$list filter="1 2 3 4 5 6 7 8 9 10" variable="level">
-''Level <<level>> Occult Spells''
-<ul>
-<$list filter="[tag[Spell]tag[Occult]field:m-level<level>]">
-<li><$link/></li>
-</$list>
-</ul>
-</$list>
+<<schoolspelllist Occult>>

@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726225424768
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-leap: Can modify leap to a fix length of 30 feet.
+modified: 20200726225638846
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Move Transmutation Spell Arcane Primal Somatic Manipulate
+title: Jump
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+//This is a spell. If you're looking for rules on just jumping normally, they're under [[Leap]], [[High Jump]] and [[Long Jump]].//
+
+Your legs surge with strength, ready to leap high and far. 
+
+You jump 30 feet in any direction without touching the ground. 
+
+You must land on a space of solid ground within 30 feet of you, or else you [[Fall|Falling]] after using your next action.
+
+''Heightened (3rd)'' The range becomes touch, the target changes to one touched creature, and the duration becomes 1 minute, allowing the target to jump as described whenever it takes the [[Leap]] action.

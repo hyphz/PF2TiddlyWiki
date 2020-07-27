@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726234333426
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 7
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200726234628604
+s-crit: The creature is unaffected.
+s-fail: The creature becomes [[Frightened]] 2 before using its action.
+s-fumble: The creature becomes [[Frightened]] 2, and its action fails and is wasted.
+s-hit: The creature is unaffected.
+tags: Emotion Fear Illusion Mental Visual Spell Arcane Occult Primal Somatic Verbal Concentrate Manipulate
+title: Mask of Terror
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target appears to be a gruesome and terrifying creature. The effect is unique to each observer, so a human viewing the target might see a demon with bloody fangs, but a demon observing the target might see a glowing angelic visage.
+
+When any creature attempts a [[Hostile Action]] against the target, the creature must attempt a [[Will]] save. 
+
+It is then temporarily immune until the end of its next turn.
+
+''Heightened (8th)'' You can target up to 5 creatures. If a creature uses a hostile action or reaction that affects multiple targets simultaneously, it needs to attempt only one save against mask of terror.
+
+//The non-heightened version does not explicitly mention reactions, but it is generally assumed that the intent is not that hostile reactions are a different class from hostile actions.//
+
+{{||SaveSuccessTable}}

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726225851675
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200726225942513
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Cantrip Detection Divination Divine Occult Primal Somatic Verbal Manipulate Concentrate
+title: Know Direction
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+In your mind’s eye, you see a path northward. 
+
+You immediately know which direction is north (if it exists at your current location).
+
+''Heightened (7th)'' You can instead know the direction to a familiar location, such as a previous home or a favorite tavern.

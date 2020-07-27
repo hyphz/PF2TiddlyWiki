@@ -1,0 +1,26 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727001525010
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 willing creature
+m-time: 
+modified: 20200727001603474
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Divination Mental Occult Somatic Verbal Concentrate Manipulate
+title: Mindlink
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You link your mind to the target’s mind and mentally impart to that target an amount of information in an instant that could otherwise be communicated in 10 minutes.

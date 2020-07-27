@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726225655503
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 30 feet
+m-save: 
+m-targets: 1 door, lock, or container
+m-time: 
+modified: 20200726225836412
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Transmutation Arcane Occult Somatic Verbal Manipulate Concentrate
+title: Knock
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You make the target easier to open. 
+
+Ktock grants a +4 status bonus to any creature that tries to open the target door, lock, or container with an [[Athletics]] or a [[Thievery]] check. //(Probably with [[Force Open]] or [[Pick a Lock]], respectively.)//
+
+You can attempt a Thievery check to open the target as part of casting knock, and you add your level even if you’re untrained.
+
+Knock [[Counteract]]s [[Lock]].

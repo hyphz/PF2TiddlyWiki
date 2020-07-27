@@ -1,0 +1,52 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727001622235
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 10
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200727002743853
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Divination Divine Material Somatic Verbal Concentrate Manipulate Spell
+title: Miracle
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You request aid directly from your divine source. 
+
+Your divine source always refuses a request out of line with its nature, and it might grant a different request (potentially more powerful or better fitting its nature) than the one you asked for. 
+
+A casting of miracle can do any of the following things.
+
+* Duplicate any <<tag Divine>> spell of 9th level or lower.
+* Duplicate any non-divine spell of 7th level or lower.
+* Produce any effect whose power level is in line with the above effects.
+* Reverse certain effects that refer to the [[Wish]] spell.
+
+The GM might allow you to try using miracle to produce greater effects than these, but doing so may be dangerous, or the spell may have only a partial effect.
+
+''Divine spells that can be duplicated:'' 
+<$list filter="[tag[Spell]tag[Divine]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[9]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>
+
+''Non-Divine spells that can be duplicated:''
+<$list filter="[tag[Spell]!tag[Divine]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[7]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>
+

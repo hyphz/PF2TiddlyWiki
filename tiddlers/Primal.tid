@@ -1,5 +1,5 @@
 created: 20200627225635944
-modified: 20200719203246603
+modified: 20200726230903390
 tags: Tradition
 title: Primal
 type: text/vnd.tiddlywiki
@@ -8,11 +8,4 @@ An instinctual connection to and faith in the world, the cycle of day and night,
 
 [[Druid]]s are the most iconic primal spellcasters, calling upon the magic of nature through deep faith and a connection to the plants and animals around them, and primal [[Sorcerer]]s call upon their fey or beast blood to harness the same natural energies.
 
-<$list filter="1 2 3 4 5 6 7 8 9 10" variable="level">
-''Level <<level>> Primal Spells''
-<ul>
-<$list filter="[tag[Spell]tag[Primal]field:m-level<level>]">
-<li><$link/></li>
-</$list>
-</ul>
-</$list>
+<<schoolspelllist Primal>>

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726224713251
+m-area: 
+m-components: Material Somatic
+m-duration: 10 minutes
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200726224834409
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Illusion Spell Arcane Occult Material Somatic Manipulate Concentrate
+title: Invisibility
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Cloaked in illusion, the target becomes [[Invisible]]. 
+
+This makes it [[Undetected]] to all creatures //who have vision as their precise sense//, though the creatures can attempt to find the target, making it [[Hidden]] to them instead. 
+
+If the target uses a [[Hostile Action]], the spell ends after that hostile action is completed.
+
+''Heightened (4th)'' The spell lasts 1 minute, but it doesn’t end if the target uses a hostile action.

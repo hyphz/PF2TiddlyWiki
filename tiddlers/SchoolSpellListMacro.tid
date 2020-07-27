@@ -1,0 +1,24 @@
+created: 20200726230528152
+modified: 20200726230752140
+tags: $:/tags/Macro
+title: SchoolSpellListMacro
+type: text/vnd.tiddlywiki
+
+\define schoolspelllist(school:"")
+<$set name="sch" value=<<__school__>> >
+<h3>Cantrips</h3>
+<ul>
+<$list filter="[tag[Spell]tag[Cantrip]tag<sch>]">
+<li><$link/></li>
+</$list>
+</ul>
+<$list filter="1 2 3 4 5 6 7 8 9 10" variable="level">
+<h3>Level <<level>> <<__school__>> Spells</h3>
+<ul>
+<$list filter="[tag[Spell]!tag[Cantrip]tag<sch>field:m-level<level>]">
+<li><$link/></li>
+</$list>
+</ul>
+</$list>
+</$set>
+\end

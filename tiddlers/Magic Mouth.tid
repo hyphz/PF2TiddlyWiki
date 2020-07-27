@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726233505988
+m-area: 
+m-components: 
+m-duration: Unlimited
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: 1 creature or object
+m-time: 
+modified: 20200726233613144
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Auditory Illusion Visual Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+title: Magic Mouth
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You specify a trigger and a message up to 25 words long. 
+
+When the specified trigger occurs within 30 feet of the target, an illusory mouth appears on the target and speaks the message, and the magic mouth spell ends.
+
+//Because the mouth is an illusion, a target immune to illusions may miss the message!//

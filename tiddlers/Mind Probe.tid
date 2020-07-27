@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727000751008
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 1 minute
+mod-sustain_a_spell: Ask another question when sustained.
+modified: 20200727001057579
+s-crit: The target is unaffected.
+s-fail: //The spell takes effect.//
+s-fumble: //The spell takes effect// and the target takes a -4 circumstance penalty to Deception checks against your questions.
+s-hit: The target is unaffected.
+tags: Spell Uncommon Divination Linguistic Mental Arcane Occult Material Somatic Verbal Concentrate Manipulate
+title: Mind Probe
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You cast your thoughts through a creature’s mind, sifting for information. 
+
+You access the target’s memories and knowledge unless it fends you off with a [[Will]] save.
+
+{{||SaveSuccessTable}}
+
+//If the spell takes effect, then// each round of the spell’s duration, you can [[Sustain the Spell|Sustain a Spell]] to ask a different question and attempt to uncover the answer. 
+
+For each question, the target can attempt a [[Deception]] check against your spell DC; if the target succeeds, you don’t learn the answer, and on a critical success, the target gives you a false answer that you believe is truthful. 
+
+Once you’ve asked the target a given question, asking it again, even with a separate casting of mind probe, produces the same result.

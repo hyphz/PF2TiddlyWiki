@@ -1,5 +1,5 @@
 created: 20200627225247881
-modified: 20200719203105767
+modified: 20200726230827382
 tags: Tradition
 title: Arcane
 type: text/vnd.tiddlywiki
@@ -10,11 +10,4 @@ Because of its far-reaching approach, the arcane tradition has the broadest spel
 
 [[Wizard]]s are the most iconic arcane spellcasters, poring over tomes and grimoires, though arcane [[Sorcerer]]s study the secrets of their blood to unlock the power within themselves.
 
-<$list filter="1 2 3 4 5 6 7 8 9 10" variable="level">
-''Level <<level>> Arcane Spells''
-<ul>
-<$list filter="[tag[Spell]tag[Arcane]field:m-level<level>]">
-<li><$link/></li>
-</$list>
-</ul>
-</$list>
+<<schoolspelllist Arcane>>

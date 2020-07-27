@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726225233762
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 object no more than 10 feet by 10 feet by 10 feet
+m-time: 
+modified: 20200726225416113
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Illusion Visual Spell Somatic Verbal Arcane Occult Manipulate Concentrate
+title: Item Facade
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You make the target object look and feel as though it were in much better or worse physical condition. 
+
+When you cast this spell, decide whether you want to make the object look decrepit or perfect. 
+
+An item made to look decrepit appears [[Broken]] and [[Shoddy]]. 
+
+An intact item made to look better appears as though it’s brand new and highly polished or well maintained. A broken item //made to look better// appears to be intact and functional.
+
+Destroyed items can’t be affected by this spell. 
+
+A creature that [[Interact]]s with the item can attempt to disbelieve the illusion.
+
+''Heightened (2nd)'' The duration is 24 hours.
+
+''Heightened (3rd)'' The duration is unlimited.

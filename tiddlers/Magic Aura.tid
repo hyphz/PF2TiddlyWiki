@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726232828450
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 object of 3 bulk or less
+m-time: 1 minute
+modified: 20200726233050266
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Illusion Arcane Occult Spell Material Somatic Verbal Concentrate Manipulate
+title: Magic Aura
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You alter the appearance of an item’s magic aura. 
+
+You can choose to have the target’s aura appear as that of common magic item of twice magic aura’s level or lower, or to have it register as being under the effects of a spell of your choice of magic aura’s level or lower. 
+
+If the target is magical, you can instead choose to have it appear as entirely non-magical.
+
+A caster using [[Detect Magic]] or study aura (//they probably mean [[Read Aura]]//) of an equal or higher spell level can attempt to disbelieve the illusion from magic aura. 
+
+Magic aura doesn’t mask the aura of spells that are 9th level or higher or of items that are 19th level or higher.
+
+''Heightened (3rd)'' You can target a creature instead of an object. When you do, you can either conceal the auras of all magic items it has or have that creature’s aura appear as if it were under the effect of a spell you know.

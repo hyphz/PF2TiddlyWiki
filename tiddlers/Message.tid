@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726235929510
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 1
+m-range: 120 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200727000149604
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Auditory Cantrip Illusion Linguistic Mental Spell Arcane Divine Occult Verbal Concentrate
+title: Message
+turn-etn: Opportunity to respond to the message ends.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You mouth words quietly, but instead of coming out of your mouth, they’re transferred directly to the ears of the target.
+
+While others can’t hear your words any better than if you normally mouthed them, the target can hear your words as if they were standing next to you. 
+
+The target can give a brief response as a reaction, or as a free action on their next turn if they wish, but they must be able to see you and be within range to do so. 
+
+If they respond, their response is delivered directly to your ear, just like the original message.
+
+//"Others can't hear your words any better than if you normally mouthed them" implies that others may be able to use [[Lip Reading]].// 
+
+''Heightened (3rd)'' The spell’s range increases to 500 feet.

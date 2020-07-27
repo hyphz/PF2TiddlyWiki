@@ -1,7 +1,7 @@
 created: 20200722205354367
 mod-cast_a_spell: You can't cast fire spells underwater.
 mod-flat-footed: You're flat-footed when underwater if you don't have a swim speed.
-modified: 20200722205529245
+modified: 20200726231729764
 tags: Rule
 title: Aquatic Combat
 type: text/vnd.tiddlywiki
@@ -14,3 +14,4 @@ Use these rules for battles in water or underwater:
 * Ranged attacks that deal bludgeoning or slashing damage automatically miss if the attacker or target is underwater, and piercing ranged attacks made by an underwater creature or against an underwater target have their range increments halved.
 * You can’t cast fire spells or use actions with the <<tag Fire>> trait underwater.
 * At the GM’s discretion, some ground-based actions might not work underwater or while floating.
+* //As written, <<tag Electricity>> effects do not conduct differently through water.//

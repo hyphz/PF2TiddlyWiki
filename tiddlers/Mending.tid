@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726235743976
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 non-magical object of light Bulk or less
+m-time: 10 minutes
+modified: 20200726235904323
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Transmutation Spell Arcane Divine Occult Primal Somatic Verbal Concentrate Manipulate
+title: Mending
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You repair the target item. 
+
+You restore 5 Hit Points per spell level to the target, potentially removing the [[Broken]] condition if this repairs it past the item’s [[Broken Threshold]]. 
+
+You can’t replace lost pieces or repair an object that’s been completely destroyed.
+
+''Heightened (2nd)'' You can target a non-magical object of 1 Bulk or less.
+
+''Heightened (3rd)'' You can target a non-magical object of 2 Bulk or less, or a magical object of 1 Bulk or less.

@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727000512908
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 8
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+mod-fortitude: Gives +4 status vs mental effects.
+mod-reflex: Gives +4 status vs mental effects.
+mod-will: Gives +4 status vs mental effects.
+modified: 20200727000714942
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Arcane Occult Somatic Verbal Concentrate Manipulate Uncommon Abjuration
+title: Mind Blank
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Powerful wards hide a creature from divination magic. 
+
+The target gains a +4 status bonus to saves against <<tag Mental>>effects.
+
+Mind Blank attempts to [[Counteract]] any <<tag Detection>>, <<tag Revelation>>, and <<tag Scrying>> effects as if its spell level were 1 higher than its actual level. 
+
+On a success, the divination effect functions normally except that it detects nothing about the target and its possessions. For instance, [[Detect Magic]] would still detect other magic in the area, but not any magic on the target.

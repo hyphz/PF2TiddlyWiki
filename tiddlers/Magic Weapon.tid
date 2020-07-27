@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726233721334
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 non-magical weapon that is unattended or wielded by you or a willing ally
+m-time: 
+modified: 20200726233818817
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Transmutation Arcane Divine Occult Somatic Verbal Concentrate Manipulate
+title: Magic Weapon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The weapon glimmers with magic and energy. 
+
+The target becomes a +1 [[Striking]] weapon, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two.

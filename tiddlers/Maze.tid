@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726235009196
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]]
+m-level: 8
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200726235349862
+s-crit: The target escapes and the spell ends.
+s-fail: The target makes no progress toward escape.
+s-fumble: The target makes no progress toward escape, and if it was on the right path, it no longer is.
+s-hit: The target is on the right path to the exit. If the target was already on the right path, it escapes the maze and the spell ends.
+tags: Conjuration Extradimensional Teleportation Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+title: Maze
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transport the target into an extradimensional maze of eldritch origin and trap it there. 
+
+Once each turn, the target can spend 1 action to attempt a [[Survival]] check or [[Perception]] check against your spell DC to escape the maze. 
+
+The possible outcomes are as follows.
+
+{{||SaveSuccessTable}}
+
+<<tag Teleportation>>magic doesn’t help the creature escape unless the magic can transport across planes, such as [[Plane Shift]].
+
+When the spell ends, either because the target escaped or the duration ran out, the target returns to the space it occupied when it was banished, or to the nearest space if the original is now filled.
+
+//Note that the target still gets 3 actions per turn and does not have to attempt to escape the maze every round. They can use their remaining actions to, for example, cast spells on themselves.//

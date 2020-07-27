@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726231524375
+m-area: 120 foot [[Line]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200726231621907
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Electricity Evocation Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Lightning Bolt
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A bolt of lightning strikes outward from your hand, dealing 4d12 <<tag Electricity>> damage //with a basic [[Reflex]] save//.
+
+''Heightened (+1)'' The damage increases by 1d12.
