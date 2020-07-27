@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727205934510
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 willing creature
+m-time: 
+mod-scent: Prevents a creature emitting any scent.
+modified: 20200727221417778
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Abjuration Somatic Verbal Arcane Primal Concentrate Manipulate
+title: Negate Aroma
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target loses its odor, preventing creatures from passively noticing its presence via smell alone, even if the creatures have precise or imprecise [[Scent]]. 
+
+A creature attempting a [[Perception]] check to [[Seek]] with scent and other senses might notice the lack of natural scent. 
+
+If the target has any abilities that result from its smell, such as an overpowering scent, those abilities are also negated.
+
+''Heightened (5th)'' The range increases to 30 feet, and you can target up to 10 creatures.

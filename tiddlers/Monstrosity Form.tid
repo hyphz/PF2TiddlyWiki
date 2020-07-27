@@ -1,0 +1,52 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727203558504
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 8
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200727204042493
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Monstrosity Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transform into the shape of a legendary monster, assuming a <<tag Huge>>battle form. 
+
+You must have enough space to expand into or the spell is lost. 
+
+When you cast this spell, choose phoenix, purple worm, or sea serpent. 
+
+While in this form, you gain the <<tag Beast>>trait (for phoenix) or the <<tag Animal>> trait (for purple worm or sea serpent). 
+
+You can [[Dismiss]] the spell.
+
+{{BattleFormRestrictions}}
+
+You gain the following statistics and abilities regardless of which battle form you choose:
+
+* AC = 20 + your level. Ignore your armor’s check penalty and Speed reduction.
+* 20 temporary Hit Points.
+* [[Darkvision]].
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +28, and you use the listed damage. These attacks are [[Strength]] based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+* [[Athletics]] modifier of +30, unless your own modifier is higher.
+
+You also gain specific abilities based on the type of monster you choose:
+
+* ''Phoenix'' Speed 30 feet, fly Speed 90 feet; Melee {{OneAction}} beak ([[Reach]] 15 feet), Damage 2d6+12 piercing plus 2d4 fire and 2d4 persistent fire; Melee {{OneAction}} talon ([[Agile]], [[Reach]] 15 feet), Damage 2d8+12 slashing; ''Shroud of Flame'' (aura, evocation, fire, primal) 20 feet. You gain an aura of fire that extends out from you. A creature that enters or ends its turn within the aura takes 2d6 fire damage. A creature can take this damage only once per turn. You can use a single action, which has the <<tag Concentrate>> trait, to activate or deactivate this aura.
+* ''Purple Worm'' Speed 40 feet, burrow Speed 30 feet, swim Speed 20 feet; Melee {{OneAction}} jaws (reach 10 feet), Damage 2d12+20 piercing; Melee {{OneAction}} stinger ([[Agile]], [[Reach]] 10 feet), Damage 2d8+15 piercing plus 2d6 persistent poison; Melee {{OneAction}} body (reach 10 feet) Damage 2d8+20 bludgeoning; ''Inexorable'' You automatically recover from the [[Paralyzed]], [[Slowed]], and [[Stunned]] conditions at the end of each of your turns. You’re also immune to being [[Immobilized]] and ignore [[Difficult Terrain]] and greater difficult terrain.
+* ''Sea Serpent'' Speed 20 feet, swim Speed 90 feet; Melee {{OneAction}} jaws (reach 15 feet), Damage 2d12+20 piercing; Melee {{OneAction}} tail (reach 25 feet), Damage 2d8+20 bludgeoning; Spine Rake {{TwoAction}} (move) You extend your spines and [[Swim]] or [[Stride]]. Each creature you’re adjacent to at any point during your movement takes 4d8+10 slashing damage (basic [[Reflex]] against your spell DC).
+
+''Heightened (9th)'' You instead gain AC = 22 + your level, 25 temporary HP, attack modifier +31, increase damage by one damage die, and Athletics +33.

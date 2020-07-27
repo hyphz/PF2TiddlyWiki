@@ -3,9 +3,8 @@ feat-level: 2
 feat-skill: Acrobatics
 feat-spre: E
 mod-crawl: You can crawl at half or full speed.
-mod-flat-footed: If legendary Acrobatics, not flat-footed while Prone.
 mod-prone: If legendary Acrobatics, not flat-footed while Prone
-modified: 20200726002059915
+modified: 20200727205844845
 tags: Feat General Skill
 title: Nimble Crawl
 type: text/vnd.tiddlywiki

@@ -1,0 +1,45 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727212343138
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 1
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200727212537943
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Polymorph Transmutation Spell Arcane Primal Somatic Verbal Concentrate Manipulate
+title: Pest Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+
+You transform into a the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. 
+
+You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form’s Size or statistics. 
+
+While in this form, you gain the <<tag Animal>>trait. 
+
+You can [[Dismiss]] the spell.
+
+{{BattleFormRestrictions}}
+
+You gain the following statistics and abilities:
+
+* AC = 15 + your level. Ignore your armor’s check penalty and Speed reduction.
+* Speed 10 feet.
+* [[Weakness]] 5 to physical damage. 
+* [[Low-Light Vision]] and imprecise [[Scent]] 30 feet.
+* [[Acrobatics]] and [[Stealth]] modifiers of +10, unless your own modifier is higher; [[Athletics]] modifier –4.
+
+''Heightened (4th)'' You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.

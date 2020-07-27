@@ -1,0 +1,52 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727215621386
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 10
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200727215747141
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Primal Divination Material Somatic Verbal Spell Concentrate Manipulate
+title: Primal Phenomenon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You request a direct intercession from the natural world.
+
+Nature always refuses unnatural requests and might grant a different request (potentially more powerful or better fitting its character) than the one you asked for. 
+
+A primal phenomenon spell can do any of the following things.
+
+* Duplicate any primal spell of 9th level or lower.
+* Duplicate any non-primal spell of 7th level or lower.
+* Produce any effect whose power level is in line with the above effects.
+* Reverse certain effects that refer to the [[Wish]] spell.
+
+At the GM’s discretion, you can try to use primal phenomenon to produce greater effects than these, but doing so may be dangerous, or the spell may have only a partial effect.
+
+''Primal spells that can be duplicated:'' 
+<$list filter="[tag[Spell]tag[Primal]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[9]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>
+
+''Non-Primal spells that can be duplicated:''
+<$list filter="[tag[Spell]!tag[Primal]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[7]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>
+

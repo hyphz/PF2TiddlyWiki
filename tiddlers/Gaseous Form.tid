@@ -15,7 +15,7 @@ m-time:
 mod-ac: Removes any item bonus to AC.
 mod-attack: Prevents attacking.
 mod-manipulate: Prevents Manipulate actions.
-modified: 20200725134627699
+modified: 20200727221505052
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -36,4 +36,4 @@ It can’t cast spells, activate items, or use actions that have the <<tag Attac
 
 It gains a fly Speed of 10 feet and can slip through tiny cracks. 
 
-The target can [[Dismiss|Dismiss a Spell]] the spell.
+The target can [[Dismiss]] the spell.

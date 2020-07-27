@@ -1,5 +1,5 @@
 created: 20200706234412514
-modified: 20200706234426331
+modified: 20200727204140235
 tags: [[Weapon Trait]]
 title: Reach
 type: text/vnd.tiddlywiki
@@ -7,3 +7,5 @@ type: text/vnd.tiddlywiki
 This weapon is long and can be used to attack creatures up to 10 feet away instead of only adjacent creatures. 
 
 For creatures that already have reach with the limb or limbs that wield the weapon, the weapon increases their reach by 5 feet.
+
+//There is no clear rules judgment on whether the extended limb or weapon of a creature with reach can be attacked using Reactions at the moment it strikes.//

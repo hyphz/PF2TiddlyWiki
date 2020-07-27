@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200722113111851
+modified: 20200727221440282
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -25,7 +25,9 @@ type: text/vnd.tiddlywiki
 
 Calling upon powerful transformative magic, you gain a <<tag Large>> dragon battle form. You must have space to expand or the spell is lost. 
 
-When you cast this spell, choose one type of chromatic or metallic dragon. While in this form, you gain the <<tag Dragon>> trait. You have hands in this battle form and can take <<tag Manipulate>> actions. You can [[Dismiss|Dismiss a Spell]] the spell.
+When you cast this spell, choose one type of chromatic or metallic dragon. While in this form, you gain the <<tag Dragon>> trait. You have hands in this battle form and can take <<tag Manipulate>> actions. 
+
+You can [[Dismiss]] the spell.
 
 //The special statistics of a battle form can be adjusted only by circumstance bonuses, status bonuses, and penalties.
 

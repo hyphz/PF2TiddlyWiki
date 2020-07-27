@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727202507367
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 2
+m-range: 30 feet
+m-save: 
+m-targets: 2 creatures or objects
+m-time: 1 minute
+modified: 20200727202643592
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Illusion Arcane Occult Somatic Verbal Manipulate Concentrate
+title: Misdirection
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You reshape the magic aura of one creature or object to resemble that of another. 
+
+You designate one target as the primary target and the other as the secondary target.
+
+Effects that would detect auras on the primary target instead detect the same types of auras from the secondary target.
+
+A creature [[reading the aura|Read Aura]] can attempt to disbelieve the illusion. 
+
+You can [[Dismiss]] the spell from up to a mile away.

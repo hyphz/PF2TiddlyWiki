@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727210712465
+m-area: 20 foot [[Burst]]
+m-components: Material Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200727210804961
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Conjuration Water Arcane Primal Material Somatic Verbal Concentrate Manipulate
+title: Obscuring Mist
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a cloud of mist. 
+
+All creatures within the mist become [[Concealed]], and all creatures outside the mist become
+concealed to creatures within it. 
+
+You can [[Dismiss]] the cloud.

@@ -12,7 +12,7 @@ m-range: Touch
 m-save: 
 m-targets: 1 container or a 10-foot-by-10-foot area
 m-time: 10 minutes
-modified: 20200725145721163
+modified: 20200727221518569
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -43,6 +43,6 @@ Glyph of warding’s duration ends when the glyph is triggered.
 
 The glyph counts as a magical trap, using your spell DC for both the Perception check to notice it and the Thievery check to disable it; both checks require the creature attempting them to be trained in order to succeed.
 
-You can [[Dismiss|Dismiss a Spell]] glyph of warding. 
+You can [[Dismiss]] glyph of warding. 
 
 The maximum number of glyphs of warding you can have active at a time is equal to your spellcasting ability modifier.

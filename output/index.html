@@ -431,6 +431,10 @@ Error message and password prompt
 
 <li>Chromatic Wall</li>
 
+<li>ChromaWall14</li>
+
+<li>ChromaWall57</li>
+
 <li>Circle of Protection</li>
 
 <li>Clairaudience</li>
@@ -1263,13 +1267,25 @@ Error message and password prompt
 
 <li>Mirror Image</li>
 
+<li>Misdirection</li>
+
 <li>Misfortune</li>
+
+<li>Mislead</li>
 
 <li>ModifierBlockMacro</li>
 
 <li>ModifierBlockTest</li>
 
+<li>Modify Memory</li>
+
 <li>Moment of Clarity</li>
+
+<li>Moment of Renewal</li>
+
+<li>Monstrosity Form</li>
+
+<li>Moon Frenzy</li>
 
 <li>Morph</li>
 
@@ -1289,19 +1305,31 @@ Error message and password prompt
 
 <li>Nature</li>
 
+<li>Nature Incarnate</li>
+
+<li>Nature's Enmity</li>
+
 <li>Necromancy</li>
+
+<li>Negate Aroma</li>
 
 <li>New Tiddler</li>
 
 <li>NextRest</li>
 
+<li>Nightmare</li>
+
 <li>Nimble Crawl</li>
 
 <li>No Escape</li>
 
+<li>Nondetection</li>
+
 <li>Nonlethal</li>
 
 <li>NoProgression</li>
+
+<li>Obscuring Mist</li>
 
 <li>Observed</li>
 
@@ -1317,11 +1345,25 @@ Error message and password prompt
 
 <li>Open Game License</li>
 
+<li>Outcast's Curse</li>
+
+<li>Overwhelming Presence</li>
+
 <li>Palm an Object</li>
+
+<li>Paralyze</li>
 
 <li>Paralyzed</li>
 
+<li>Paranoia</li>
+
 <li>Parry</li>
+
+<li>Pass Without Trace</li>
+
+<li>Passwall</li>
+
+<li>Pay Tribute</li>
 
 <li>Perception</li>
 
@@ -1341,7 +1383,17 @@ Error message and password prompt
 
 <li>Persistent Mutagen</li>
 
+<li>Pest Form</li>
+
 <li>Petrified</li>
+
+<li>Phantasmal Calamity</li>
+
+<li>Phantasmal Killer</li>
+
+<li>Phantom Pain</li>
+
+<li>Phantom Steed</li>
 
 <li>Philosopher's Stone</li>
 
@@ -1351,15 +1403,29 @@ Error message and password prompt
 
 <li>Planar Survival</li>
 
+<li>Plane Shift</li>
+
+<li>Plant Form</li>
+
 <li>Point Out</li>
 
 <li>Poison</li>
 
 <li>Poison Resistance</li>
 
+<li>Polar Ray</li>
+
 <li>Polymorph</li>
 
+<li>Possession (Spell)</li>
+
 <li>Potent Poisoner</li>
+
+<li>Power Word Blind</li>
+
+<li>Power Word Kill</li>
+
+<li>Power Word Stun</li>
 
 <li>Powerful Alchemy</li>
 
@@ -1369,7 +1435,21 @@ Error message and password prompt
 
 <li>Press</li>
 
+<li>Prestigitation</li>
+
 <li>Primal</li>
+
+<li>Primal Herd</li>
+
+<li>Primal Phenomenon</li>
+
+<li>Prismatic Sphere</li>
+
+<li>Prismatic Spray</li>
+
+<li>Prismatic Wall</li>
+
+<li>Private Sanctum</li>
 
 <li>ProficiencySimpleDC</li>
 
@@ -1454,6 +1534,8 @@ Error message and password prompt
 <li>Repeat a Spell</li>
 
 <li>Request</li>
+
+<li>Resist Moon Frenzy</li>
 
 <li>Respond to Message</li>
 
@@ -1729,6 +1811,8 @@ Error message and password prompt
 
 <li>Volley</li>
 
+<li>Wall</li>
+
 <li>Wall Jump</li>
 
 <li>Ward Medic</li>
@@ -1742,6 +1826,8 @@ Error message and password prompt
 <li>Widen Spell</li>
 
 <li>Will</li>
+
+<li>Willing</li>
 
 <li>Wisdom</li>
 
@@ -11855,15 +11941,31 @@ Your proficiency rank for [[Perception]] increases to expert.</pre>
 <div created="20200627182656096" modified="20200627182731770" tags="Ability" title="All-Around Vision" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This monster can see in all directions simultaneously, and therefore can’t be [[Flanked]].</pre>
 </div>
-<div created="20200627231544652" m-components="Material, Somatic, Verbal" m-level="10" modified="20200725145837027" tags="Spell Occult Divination Material Somatic Verbal Manipulate Concentrate" title="Alter Reality" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200627231544652" m-components="Material, Somatic, Verbal" m-level="10" modified="20200727202405460" tags="Spell Occult Divination Material Somatic Verbal Manipulate Concentrate" title="Alter Reality" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You use your occult lore and the power of your mind to manipulate the spiritual multiverse, resulting in any of the following effects:
 
 * Duplicate any occult spell of 9th level or lower.
 * Duplicate any non-occult spell of 7th level or lower.
 * Produce any effect whose power is equivalent to any occult spell 9th level or lower, or non occult spell 7th level or lower.
-* Reverse certain effects that refer to the [[Wish]]. spell
+* Reverse certain effects that refer to the [[Wish]] spell
 
-At the GM’s discretion, you can try to produce greater effects, but this is dangerous and the spell may have only a partial effect.</pre>
+At the GM’s discretion, you can try to produce greater effects, but this is dangerous and the spell may have only a partial effect.
+
+''Occult spells that can be duplicated:'' 
+&lt;$list filter=&quot;[tag[Spell]tag[Occult]]&quot; variable=&quot;spell&quot;&gt;
+&lt;$list filter=&quot;[&lt;spell&gt;get[m-level]compare:number:lteq[9]]&quot;&gt;
+&lt;$link to=&lt;&lt;spell&gt;&gt; /&gt;,
+&lt;/$list&gt;
+&lt;/$list&gt;
+
+''Non-Occult spells that can be duplicated:''
+&lt;$list filter=&quot;[tag[Spell]!tag[Occult]]&quot; variable=&quot;spell&quot;&gt;
+&lt;$list filter=&quot;[&lt;spell&gt;get[m-level]compare:number:lteq[7]]&quot;&gt;
+&lt;$link to=&lt;&lt;spell&gt;&gt; /&gt;,
+&lt;/$list&gt;
+&lt;/$list&gt;
+
+</pre>
 </div>
 <div created="20200725154610666" mod-aquatic_combat="Removes -2 penalty on bludgeoning and slashing unarmed strikes." modified="20200725154854501" tags="Trait" title="Amphibious" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>An amphibious creature can breathe in water and in air, even outside of its preferred environment, usually indefinitely but at least for hours. 
@@ -12853,7 +12955,7 @@ If you need to determine whether the ray passes through an area of light, draw a
 {{||ActionSuccessTable}}
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719203317174" m-area="" m-components="Material Somatic Verbal" m-duration="10 minutes" m-level="5" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200719204400153" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Abjuration Arcane Occult Material Somatic Verbal Concentrate Manipulate" title="Chromatic Wall" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719203317174" m-area="" m-components="Material Somatic Verbal" m-duration="10 minutes" m-level="5" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200727221016830" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Abjuration Arcane Occult Material Somatic Verbal Concentrate Manipulate" title="Chromatic Wall" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You create an opaque [[Wall]] of light in a single vibrant color. 
@@ -12868,20 +12970,31 @@ Roll 1d4 to determine the color of the wall. Each color has a particular effect 
 
 Chromatic wall can’t be [[Counteract]]ed normally; rather, each color is automatically counteracted when targeted by a specific spell, even if that spell’s level is lower than that of chromatic wall.
 
-# ''Red'' The wall destroys ranged weapon ammunition (such as arrows and crossbow bolts) that would pass through, and it deals 20 fire damage to anyone passing through, with a basic [[Reflex]] save. [[Cone of Cold]] can counteract a red chromatic wall.
-# ''Orange'' The wall destroys thrown weapons that would pass through, and it deals 25 acid damage to anyone passing through, with a basic [[Reflex]] save. [[Gust of Wind]] can counteract an orange chromatic wall.
-# ''Yellow'' The wall stops &lt;&lt;tag Acid&gt;&gt;, &lt;&lt;tag Cold&gt;&gt;, &lt;&lt;tag Electricity&gt;&gt;, &lt;&lt;tag Fire&gt;&gt;, &lt;&lt;tag Force&gt;&gt;, &lt;&lt;tag Negative&gt;&gt;, &lt;&lt;tag Positive&gt;&gt;, and &lt;&lt;tag Sonic&gt;&gt;effects from passing through, and it deals 30 electricity damage to anyone passing through, with a basic [[Reflex]] save. [[Disintegrate]] can counteract a yellow chromatic wall.
-# ''Green'' The wall stops toxins, gases, and breath weapons from passing through. It deals 10 poison damage to anyone passing through and makes them [[Enfeebled]] 1 for 1 minute. A basic [[Fortitude]] save reduces the damage and negates the enfeebled condition on a success. [[Passwall]] can counteract a green chromatic wall. 
+{{ChromaWall14}}
 
 ''Heightened (7th)'' The spell’s duration increases to 1 hour. Roll 1d8 to determine the wall’s color; the results for 5–8 are below.
 
 A red, orange, yellow, or green wall deals an extra 10 damage.
 
-&lt;ol start=&quot;5&quot;&gt;
+{{ChromaWall57}}
+&lt;ol start=&quot;8&quot;&gt;
+&lt;li&gt;Reroll, and creatures that pass through the wall take a –2 circumstance penalty to their saves.&lt;/li&gt;
+&lt;/ol&gt;
+
+</pre>
+</div>
+<div created="20200727220905120" modified="20200727220915587" tags="" title="ChromaWall14" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre># ''Red'' The wall destroys ranged weapon ammunition (such as arrows and crossbow bolts) that would pass through, and it deals 20 fire damage to anyone passing through, with a basic [[Reflex]] save. [[Cone of Cold]] can counteract a red chromatic wall.
+# ''Orange'' The wall destroys thrown weapons that would pass through, and it deals 25 acid damage to anyone passing through, with a basic [[Reflex]] save. [[Gust of Wind]] can counteract an orange chromatic wall.
+# ''Yellow'' The wall stops &lt;&lt;tag Acid&gt;&gt;, &lt;&lt;tag Cold&gt;&gt;, &lt;&lt;tag Electricity&gt;&gt;, &lt;&lt;tag Fire&gt;&gt;, &lt;&lt;tag Force&gt;&gt;, &lt;&lt;tag Negative&gt;&gt;, &lt;&lt;tag Positive&gt;&gt;, and &lt;&lt;tag Sonic&gt;&gt;effects from passing through, and it deals 30 electricity damage to anyone passing through, with a basic [[Reflex]] save. [[Disintegrate]] can counteract a yellow chromatic wall.
+# ''Green'' The wall stops toxins, gases, and breath weapons from passing through. It deals 10 poison damage to anyone passing through and makes them [[Enfeebled]] 1 for 1 minute. A basic [[Fortitude]] save reduces the damage and negates the enfeebled condition on a success. [[Passwall]] can counteract a green chromatic wall. </pre>
+</div>
+<div created="20200727220927217" modified="20200727220951687" tags="" title="ChromaWall57" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;ol start=&quot;5&quot;&gt;
 &lt;li&gt;''Blue'' The wall stops &lt;&lt;tag Auditory&gt;&gt;, &lt;&lt;tag Petrification&gt;&gt;, and &lt;&lt;tag Visual&gt;&gt; effects from passing through, and creatures passing through are subject to the effects of [[Flesh to Stone]]. [[Magic Missile]] can counteract a blue chromatic wall.&lt;/li&gt;
 &lt;li&gt;''Indigo'' The wall stops &lt;&lt;tag Divination&gt;&gt;and &lt;&lt;tag Mental&gt;&gt; effects from passing through, and those passing through are subject to the effects of [[Warp Mind]]. [[Searing Light]] can counteract an indigo chromatic wall.&lt;/li&gt;
 &lt;li&gt;''Violet'' The wall prevents spells from targeting the other side (area effects still cross as normal). Creatures passing through must succeed at a [[Will]] save or they are [[Slowed]] 1 for 1 minute; on a critical failure, the creature is instead sent to another plane, with the effect of [[Plane Shift]]. [[Dispel Magic]] can counteract a violet chromatic wall.&lt;/li&gt;
-&lt;li&gt;Reroll, and creatures that pass through the wall take a –2 circumstance penalty to their saves.&lt;/li&gt;
+&lt;/ol&gt;
 </pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719204446405" m-area="" m-components="Material Somatic Verbal" m-duration="1 minute" m-level="3" m-range="Touch" m-save="Will" m-targets="10-foot [[Emanation]] centred on the touched creature" m-time="" modified="20200719204633404" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Spell Abjuration Divine Occult Material Somatic Verbal Manipulate Concentrate" title="Circle of Protection" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14370,12 +14483,14 @@ These items do not have to be the same.</pre>
 
 Most are able to use a breath weapon and are immune to sleep and the [[Paralyzed]] condition.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722112427385" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="6" m-range="" m-save="" m-targets="You" m-time="" modified="20200722113111851" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Arcane Primal Somatic Verbal Manipulate Concentrate" title="Dragon Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722112427385" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="6" m-range="" m-save="" m-targets="You" m-time="" modified="20200727221440282" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Arcane Primal Somatic Verbal Manipulate Concentrate" title="Dragon Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 Calling upon powerful transformative magic, you gain a &lt;&lt;tag Large&gt;&gt; dragon battle form. You must have space to expand or the spell is lost. 
 
-When you cast this spell, choose one type of chromatic or metallic dragon. While in this form, you gain the &lt;&lt;tag Dragon&gt;&gt; trait. You have hands in this battle form and can take &lt;&lt;tag Manipulate&gt;&gt; actions. You can [[Dismiss|Dismiss a Spell]] the spell.
+When you cast this spell, choose one type of chromatic or metallic dragon. While in this form, you gain the &lt;&lt;tag Dragon&gt;&gt; trait. You have hands in this battle form and can take &lt;&lt;tag Manipulate&gt;&gt; actions. 
+
+You can [[Dismiss]] the spell.
 
 //The special statistics of a battle form can be adjusted only by circumstance bonuses, status bonuses, and penalties.
 
@@ -14679,7 +14794,7 @@ A creature with this trait has a magical connection to electricity.
 
 Elementals don’t need to breathe.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722192315148" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="5" m-range="" m-save="" m-targets="" m-time="" modified="20200722192700583" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Spell Arcane Primal Somatic Verbal Manipulate Concentrate" title="Elemental Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722192315148" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="5" m-range="" m-save="" m-targets="" m-time="" modified="20200727221452062" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Spell Arcane Primal Somatic Verbal Manipulate Concentrate" title="Elemental Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You call upon the power of the planes to transform into a &lt;&lt;tag Medium&gt;&gt;elemental battle form. 
@@ -14690,7 +14805,7 @@ When you cast this spell, choose &lt;&lt;tag Air&gt;&gt;, &lt;&lt;tag Earth&gt;&
 
 You have hands in this battle form and can take [[Manipulate]] actions.
 
-You can [[Dismiss|Dismiss a Spell]] the spell.
+You can [[Dismiss]] the spell.
 
 You gain the following statistics and abilities regardless of which battle form you choose:
 
@@ -15638,7 +15753,7 @@ After this Strike, your Rage immediately ends, and you are [[Fatigued]] until yo
 
 You can increase the number of actions this activity takes to 3 to Stride up to eight times your Speed in a straight line instead.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725134307823" m-area="" m-components="Somatic Verbal" m-duration="5 minutes" m-level="4" m-range="Touch" m-save="" m-targets="1 willing creature" m-time="" mod-ac="Removes any item bonus to AC." mod-attack="Prevents attacking." mod-manipulate="Prevents Manipulate actions." modified="20200725134627699" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Somatic Verbal Manipulate Concentrate Arcane Occult Primal" title="Gaseous Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725134307823" m-area="" m-components="Somatic Verbal" m-duration="5 minutes" m-level="4" m-range="Touch" m-save="" m-targets="1 willing creature" m-time="" mod-ac="Removes any item bonus to AC." mod-attack="Prevents attacking." mod-manipulate="Prevents Manipulate actions." modified="20200727221505052" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Somatic Verbal Manipulate Concentrate Arcane Occult Primal" title="Gaseous Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 The target transforms into a vaporous state. 
@@ -15651,7 +15766,7 @@ It can’t cast spells, activate items, or use actions that have the &lt;&lt;tag
 
 It gains a fly Speed of 10 feet and can slip through tiny cracks. 
 
-The target can [[Dismiss|Dismiss a Spell]] the spell.</pre>
+The target can [[Dismiss]] the spell.</pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725134754113" m-area="" m-components="Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 1 minute" m-level="10" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200725134921678" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Conjuration Teleportation Arcane Divine Occult Somatic Verbal Concentrate Manipulate" title="Gate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
@@ -15824,7 +15939,7 @@ If the counteract attempt succeeds, it prevents only the portion of the spell th
 You must form the sphere in an unbroken open space, so its edges don’t pass through any creatures or objects, or the spell is lost (though creatures can enter the globe after the spell is cast).
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725145500439" m-area="" m-components="Material Somatic Verbal" m-duration="Unlimited" m-level="3" m-range="Touch" m-save="" m-targets="1 container or a 10-foot-by-10-foot area" m-time="10 minutes" modified="20200725145721163" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Abjuration Spell Arcane Divine Occult Primal Material Somatic Verbal Manipulate Concentrate" title="Glyph of Warding" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725145500439" m-area="" m-components="Material Somatic Verbal" m-duration="Unlimited" m-level="3" m-range="Touch" m-save="" m-targets="1 container or a 10-foot-by-10-foot area" m-time="10 minutes" modified="20200727221518569" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Abjuration Spell Arcane Divine Occult Primal Material Somatic Verbal Manipulate Concentrate" title="Glyph of Warding" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You craft a trap by binding a hostile spell into a symbol. 
@@ -15847,7 +15962,7 @@ Glyph of warding’s duration ends when the glyph is triggered.
 
 The glyph counts as a magical trap, using your spell DC for both the Perception check to notice it and the Thievery check to disable it; both checks require the creature attempting them to be trained in order to succeed.
 
-You can [[Dismiss|Dismiss a Spell]] glyph of warding. 
+You can [[Dismiss]] glyph of warding. 
 
 The maximum number of glyphs of warding you can have active at a time is equal to your spellcasting ability modifier.
 </pre>
@@ -16265,7 +16380,7 @@ For instance, lobbing a fireball into a crowd would be a hostile action, but ope
 
 The GM is the final arbitrator of what constitutes a hostile action.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725161416392" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="2" m-range="" m-save="" m-targets="" m-time="" modified="20200725161818102" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Spell Arcane Occult Primal Somatic Verbal Concentrate Manipulate" title="Humanoid Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725161416392" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="2" m-range="" m-save="" m-targets="" m-time="" modified="20200727221534881" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Spell Arcane Occult Primal Somatic Verbal Concentrate Manipulate" title="Humanoid Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You transform your appearance to that of a &lt;&lt;tag Small&gt;&gt;or &lt;&lt;tag Medium&gt;&gt;humanoid, such as a [[Dwarf]], [[Elf]], [[Goblin]], [[Halfling]], [[Human]], [[Orc]], or [[Lizardfolk]]. 
@@ -16284,7 +16399,7 @@ Humanoid form grants you a +4 status bonus to [[Deception]] checks to pass as a 
 
 If you want to Impersonate an individual, you still need to [[create a disguise|Impersonate]], though the GM won’t factor in the difference in ancestry when determining the DC of your Deception check. 
 
-You can [[Dismiss|Dismiss a Spell]] this spell.
+You can [[Dismiss]] this spell.
 
 ''Heightened (3rd)'' You gain [[Darkvision]] or [[Low-Light Vision]] if the form you assume has that ability.
 
@@ -16455,7 +16570,7 @@ When a creature disbelieves the illusion, it recovers from half the damage it ha
 
 ''Heightened (+1)'' The damage of the image’s Strikes increases by 1d4, and the maximum size of creature you can create increases by one (to a maximum of &lt;&lt;tag Gargantuan&gt;&gt;).</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725163247228" m-area="" m-components="Somatic Verbal" m-duration="1 hour" m-level="1" m-range="" m-save="" m-targets="" m-time="" modified="20200725163528466" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Illusion Visual Arcane Occult Somatic Verbal Spell Concentrate Manipulate" title="Illusory Disguise" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725163247228" m-area="" m-components="Somatic Verbal" m-duration="1 hour" m-level="1" m-range="" m-save="" m-targets="" m-time="" modified="20200727221549140" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Illusion Visual Arcane Occult Somatic Verbal Spell Concentrate Manipulate" title="Illusory Disguise" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You create an illusion that causes you to appear as another creature of the same body shape, and with roughly similar height (within 6 inches) and weight (within 50 pounds), as yourself.
@@ -16468,7 +16583,7 @@ You can change the appearance of your clothing and worn items, such as making yo
 
 Casting illusory disguise counts as setting up a disguise for the [[Impersonate]] use of [[Deception]]; it ignores any circumstance penalties you might take for disguising yourself as a dissimilar creature, it gives you a +4 status bonus to [[Deception]] checks to prevent others from seeing through your disguise, and you add your level even if you’re untrained. 
 
-You can [[Dismiss|Dismiss a Spell]] this spell.
+You can [[Dismiss]] this spell.
 
 ''Heightened (2nd)'' The spell also disguises your voice and scent, and it gains the &lt;&lt;tag Auditory&gt;&gt; trait.
 
@@ -16682,7 +16797,7 @@ While infused reagents are physical objects, they can’t be duplicated, preserv
 <div created="20200720200512359" mod-inheritmodtest="Level2" modified="20200720201458111" tags="" title="InheritModTest1" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726224206161" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="" m-range="" m-save="" m-targets="" m-time="" modified="20200726224658865" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Primal Somatic Verbal Concentrate Manipulate" title="Insect Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726224206161" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="3" m-range="" m-save="" m-targets="" m-time="" modified="20200727221604567" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Primal Somatic Verbal Concentrate Manipulate" title="Insect Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You envision a simple bug and transform into a Medium animal battle form. 
@@ -16691,7 +16806,7 @@ When you cast this spell, choose ant, beetle, centipede, mantis, scorpion, or sp
 
 While in this form, you gain the &lt;&lt;tag Animal&gt;&gt; trait. 
 
-You can [[Dismiss|Dismiss a Spell]] this spell.
+You can [[Dismiss]] this spell.
 
 {{BattleFormRestrictions}}
 
@@ -17695,7 +17810,7 @@ If given no commands, by default minions use no actions except to defend themsel
 
 If left unattended for long enough, typically 1 minute, [[Mindless]] minions usually don’t act, animals often indulge their creature comforts, and sapient minions act how they please.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727001622235" m-area="" m-components="Material Somatic Verbal" m-duration="" m-level="10" m-range="" m-save="" m-targets="" m-time="" modified="20200727002743853" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Divination Divine Material Somatic Verbal Concentrate Manipulate Spell" title="Miracle" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727001622235" m-area="" m-components="Material Somatic Verbal" m-duration="" m-level="10" m-range="" m-save="" m-targets="" m-time="" modified="20200727215722358" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Divination Divine Material Somatic Verbal Concentrate Manipulate Spell" title="Miracle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You request aid directly from your divine source. 
@@ -17757,6 +17872,19 @@ If an attack roll is a critical success and would hit one of the images, one of 
 
 Once all the images are destroyed, the spell ends.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727202507367" m-area="" m-components="Somatic Verbal" m-duration="Until the next time you make your [[daily preparations|Rest]]" m-level="2" m-range="30 feet" m-save="" m-targets="2 creatures or objects" m-time="1 minute" modified="20200727202643592" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Illusion Arcane Occult Somatic Verbal Manipulate Concentrate" title="Misdirection" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You reshape the magic aura of one creature or object to resemble that of another. 
+
+You designate one target as the primary target and the other as the secondary target.
+
+Effects that would detect auras on the primary target instead detect the same types of auras from the secondary target.
+
+A creature [[reading the aura|Read Aura]] can attempt to disbelieve the illusion. 
+
+You can [[Dismiss]] the spell from up to a mile away.</pre>
+</div>
 <div created="20200629193949111" modified="20200629194004343" tags="Trait" title="Misfortune" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A misfortune effect detrimentally alters how you roll your dice.
 
@@ -17764,6 +17892,23 @@ You can never have more than one misfortune effect alter a single roll. If multi
 
 If a fortune effect and a misfortune effect would apply to the same roll, the two cancel
 each other out, and you roll normally. </pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727202656399" m-area="" m-components="Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 1 minute" m-level="6" m-range="" m-save="" m-targets="You" m-time="" mod-sustain_a_spell="Control your duplicate when Sustained." modified="20200727203000609" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Arcane Occult Somatic Verbal Concentrate Manipulate" title="Mislead" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You turn yourself [[Invisible]] and create an illusory duplicate of yourself. 
+
+When you [[Sustain the Spell|Sustain a Spell]], you can mentally dictate a course of action for your duplicate to follow that round. 
+
+Your duplicate acts as though it had your full number of actions, though it can’t actually affect anything in the environment.
+
+Both the duplicate and your invisibility persist for the spell’s duration. 
+
+Performing a [[Hostile Action]] doesn’t end mislead’s invisibility, just like a 4th-level invisibility spell. 
+
+A creature that determines the duplicate is an illusion doesn’t necessarily know you’re invisible, and one that can see your invisible form doesn’t necessarily know your duplicate is an illusion.
+
+If you [[Cast a Spell]], attack, or otherwise interact with another creature, as a part of that action you can attempt a [[Deception]] check against observers’ [[Perception]] DCs to convince them your duplicate used that action. This doesn’t fool anyone who’s aware your duplicate is an illusion, nor does it work if the attack obviously couldn’t have come from the duplicate. For instance, if you fired a ray, you could make it look like it came from the duplicate as long as the duplicate was positioned appropriately, but if you attacked with a sword and your duplicate was across the room from the target, your Deception check would automatically fail.</pre>
 </div>
 <div created="20200707221717495" mod-testblock="Hello" modified="20200726230527347" tags="$:/tags/Macro" title="ModifierBlockMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define innermodifierblock(for:&quot;&quot;)
@@ -17795,10 +17940,91 @@ each other out, and you roll normally. </pre>
 
 </pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727203022076" m-area="" m-components="Somatic Verbal" m-duration="Unlimited" m-level="4" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" mod-sustain_a_spell="Once active, modify a memory each time." modified="20200727203326151" s-crit="The target is unaffected and realizes you tried to alter its memory." s-fail="During the first 5 minutes of the spell’s duration, you can [[Sustain the Spell|Sustain a Spell]] to modify a memory once each round. When you do, you imagine up to 6 seconds of memory to modify, to a maximum of 5 continuous minutes of memory." s-fumble="" s-hit="The target is unaffected but thinks your spell was something harmless instead of modify memory, unless it identifies the spell." tags="Uncommon Divination Mental Occult Spell Somatic Verbal Concentrate Manipulate" title="Modify Memory" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You alter the target’s memories, either erasing a memory, enhancing a memory’s clarity, altering a memory, or adding a false memory. 
+
+The target can attempt a [[Will]] save to resist the spell.
+
+Any memories you’ve altered remain changed as long as the spell is active. //This means that others can Dispel the spell to enable the target to recover their original memories.//
+
+If the target moves out of range before the 5 minutes is up, you can’t alter any further memories.
+
+''Heightened (6th)'' You can cast the spell on a willing target to suppress all memory of a particular topic, detailed in 50 words or fewer. The effect is permanent, and it patches these omissions with an indistinct haze.
+
+{{||SaveSuccessTable}}
+
+</pre>
+</div>
 <div a-actions="1" created="20200723212901155" feat-level="1" mod-rage="Can let you use Concentrate actions while Raging." modified="20200725165533488" tags="Barbarian Feat Class Concentrate Rage Action" title="Moment of Clarity" turn-euc="Ability to use non-rage Concentrate action ends." type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You push back your rage for a moment in order to think clearly. 
 
 Until the end of this turn, you can use actions with the &lt;&lt;tag Concentrate&gt;&gt;trait even if those actions don’t have the &lt;&lt;tag Rage&gt;&gt;trait.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727203343211" m-area="" m-components="Somatic Verbal" m-duration="" m-level="8" m-range="Touch" m-save="" m-targets="Up to 6 creatures" m-time="" modified="20200727203541444" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Healing Necromancy Divine Primal Somatic Verbal Manipulate Concentrate" title="Moment of Renewal" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+The targets experience a day’s worth of recovery in an instant.
+
+Any detrimental effects that would be gone after 24 hours end, though this doesn’t shorten the duration of any active spells affecting the targets. 
+
+The targets regain Hit Points and recover from conditions as if they had taken 24 hours of [[Rest]], but they do not make their daily preparations again or gain any benefits of rest other than healing. 
+
+//24 hours of rest normally means that the creature recovers hit points equal to double their Constitution modifier times their level.//
+
+The targets are then temporarily immune for 1 day.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727203558504" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="8" m-range="" m-save="" m-targets="You" m-time="" modified="20200727204042493" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate" title="Monstrosity Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You transform into the shape of a legendary monster, assuming a &lt;&lt;tag Huge&gt;&gt;battle form. 
+
+You must have enough space to expand into or the spell is lost. 
+
+When you cast this spell, choose phoenix, purple worm, or sea serpent. 
+
+While in this form, you gain the &lt;&lt;tag Beast&gt;&gt;trait (for phoenix) or the &lt;&lt;tag Animal&gt;&gt; trait (for purple worm or sea serpent). 
+
+You can [[Dismiss]] the spell.
+
+{{BattleFormRestrictions}}
+
+You gain the following statistics and abilities regardless of which battle form you choose:
+
+* AC = 20 + your level. Ignore your armor’s check penalty and Speed reduction.
+* 20 temporary Hit Points.
+* [[Darkvision]].
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +28, and you use the listed damage. These attacks are [[Strength]] based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+* [[Athletics]] modifier of +30, unless your own modifier is higher.
+
+You also gain specific abilities based on the type of monster you choose:
+
+* ''Phoenix'' Speed 30 feet, fly Speed 90 feet; Melee {{OneAction}} beak ([[Reach]] 15 feet), Damage 2d6+12 piercing plus 2d4 fire and 2d4 persistent fire; Melee {{OneAction}} talon ([[Agile]], [[Reach]] 15 feet), Damage 2d8+12 slashing; ''Shroud of Flame'' (aura, evocation, fire, primal) 20 feet. You gain an aura of fire that extends out from you. A creature that enters or ends its turn within the aura takes 2d6 fire damage. A creature can take this damage only once per turn. You can use a single action, which has the &lt;&lt;tag Concentrate&gt;&gt; trait, to activate or deactivate this aura.
+* ''Purple Worm'' Speed 40 feet, burrow Speed 30 feet, swim Speed 20 feet; Melee {{OneAction}} jaws (reach 10 feet), Damage 2d12+20 piercing; Melee {{OneAction}} stinger ([[Agile]], [[Reach]] 10 feet), Damage 2d8+15 piercing plus 2d6 persistent poison; Melee {{OneAction}} body (reach 10 feet) Damage 2d8+20 bludgeoning; ''Inexorable'' You automatically recover from the [[Paralyzed]], [[Slowed]], and [[Stunned]] conditions at the end of each of your turns. You’re also immune to being [[Immobilized]] and ignore [[Difficult Terrain]] and greater difficult terrain.
+* ''Sea Serpent'' Speed 20 feet, swim Speed 90 feet; Melee {{OneAction}} jaws (reach 15 feet), Damage 2d12+20 piercing; Melee {{OneAction}} tail (reach 25 feet), Damage 2d8+20 bludgeoning; Spine Rake {{TwoAction}} (move) You extend your spines and [[Swim]] or [[Stride]]. Each creature you’re adjacent to at any point during your movement takes 4d8+10 slashing damage (basic [[Reflex]] against your spell DC).
+
+''Heightened (9th)'' You instead gain AC = 22 + your level, 25 temporary HP, attack modifier +31, increase damage by one damage die, and Athletics +33.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727204322787" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="5" m-range="30 feet" m-save="" m-targets="Up to 5 willing creatures" m-time="" modified="20200727204719081" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Morph Transmutation Primal Somatic Verbal Concentrate Manipulate" title="Moon Frenzy" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+A feral aspect overcomes the targets, making them tough and savage. 
+
+Targets gain 5 temporary Hit Points, a +10-foot status bonus to their Speeds, and [[Weakness]] 5 to silver. 
+
+They also grow vicious fangs and claws, which are unarmed attacks. The fangs deal 2d8 piercing damage; the claws deal 2d6 slashing damage and have the [[Agile]] and [[Finesse]] traits. The targets use their highest weapon or unarmed attack proficiency with these attacks, and if they have weapon specialization or greater weapon specialization, they add this damage as well. On a critical hit with one of these unarmed attacks, the creature struck takes 1d4 persistent bleed damage.
+
+The targets can’t use &lt;&lt;tag Concentrate&gt;&gt;actions unless those actions also have the &lt;&lt;tag Rage&gt;&gt;trait, with the exception of [[Seek]]. 
+
+A creature can attempt to end the spell’s effect on itself by using a single action, which has the &lt;&lt;tag Rage&gt;&gt;trait, to attempt a [[Will]] save against your spell DC; on a success, it ends the spell’s effect on itself.
+
+If a target is in the light of a full moon, it also grows by one size if it were Medium or smaller. This increases the reach of a Medium or Tiny creature by 5 feet.
+
+''Heightened (6th)'' The temporary Hit Points increase to 10, the silver weakness to 10, and the damage dealt by the attacks to three dice.
+
+''Heightened (10th)'' The temporary Hit Points increase to 20, the silver weakness to 20, and the damage dealt by the attacks to four dice.
+</pre>
 </div>
 <div created="20200627222239602" modified="20200627222330024" tags="Trait" title="Morph" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Spells that slightly alter a creature’s form have the morph trait. 
@@ -17889,12 +18115,66 @@ You know a great deal about the natural world, and you command and train animals
 {{||SkillFeatList}}
 </pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727205114975" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="10" m-range="" m-save="" m-targets="You" m-time="" modified="20200727205505354" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Primal Somatic Verbal Spell Concentrate Manipulate" title="Nature Incarnate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+The primal power of the world flows through you. 
+
+You transform into an incarnation of nature, either a green man or a kaiju. 
+
+Your battle form is Medium for a green man or Gargantuan (30-foot-by-30-foot space) for a kaiju. 
+
+You must have enough space to expand into or the spell is lost. 
+
+While in this form, you gain the &lt;&lt;tag Plant&gt;&gt;trait (for a green man) or the &lt;&lt;tag Beast&gt;&gt; trait (for a kaiju). 
+
+You can [[Dismiss]] the spell.
+
+{{BattleFormRestrictions}}
+
+You gain the following statistics and abilities regardless of which battle form you choose:
+
+* AC = 25 + your level. Ignore your armor’s check penalty and Speed reduction.
+* 30 temporary Hit Points.
+* [[Darkvision]].
+* One or more attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +34, and you use the listed damage. These attacks are [[Strength]] based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+* [[Athletics]] modifier of +36, unless your own modifier is higher.
+
+You also gain specific abilities based on the type of incarnation you choose:
+
+* ''Green Man'' Speed 40 feet, climb Speed 40 feet; Melee {{OneAction}} vines (reach 30 feet, [[Versatile]] P), Damage 6d8+12 bludgeoning; Ranged {{OneAction}} thorns (range 100 feet), Damage 6d6+6 piercing; ''Green Caress'' (aura, primal, transmutation) 60 feet. Enemies other than plants must succeed at a [[Fortitude]] save against your spell DC or become [[Clumsy]] 1 for 1 round (clumsy 2 on a critical failure).
+* ''Kaiju'' Speed 50 feet; [[Resistance]] 5 to physical damage; Melee {{OneAction}} jaws ([[Reach]] 30 feet), Damage 6d10+10 piercing; Melee {{OneAction}} claws ([[Agile]], reach 30 feet), Damage 6d8+8 slashing; Melee {{OneAction}} foot (agile, reach 15 feet), Damage 6d6+10 bludgeoning; ''Unstoppable'' You are immune to being [[Immobilized]] and ignore [[Difficult Terrain]] and greater difficult terrain; Trample {{ThreeAction}} You move up to double your Speed and move through the spaces of Huge or smaller creatures, trampling each creature whose space you enter. A trampled creature takes foot damage with a basic [[Reflex]] save against your spell DC.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727205524394" m-area="500-foot [[Burst]]" m-components="Somatic Verbal" m-duration="10 minutes" m-level="9" m-range="120 feet" m-save="" m-targets="Up to 5 creatures" m-time="" mod-flat-footed="Swarming creatures can cause flat-footed." modified="20200727205756516" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Enchantment Primal Somatic Verbal Concentrate Manipulate" title="Nature's Enmity" turn-stn="Target in area must check for swarming insects." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Animals and plants in the area turn against the targets. 
+
+Each target suffers from the following effects as long as it remains in the area.
+
+* Vegetation springs up from every surface, giving each target a –10-foot circumstance penalty to its [[Speed]] any time it’s adjacent to the plants.
+* Aggressive animals attack unpredictably. At the start of its turn, each target rolls a DC 8 flat check. On a failure, it’s attacked by swarming creatures that deal 2d10 slashing damage. The target attempts a basic [[Reflex]] save, and it is [[Flat-Footed]] for 1 round on any outcome other than a critical success.
+* The target loses any connection to nature or natural creatures. The target has to succeed at a DC 5 flat check when casting any &lt;&lt;tag Primal&gt;&gt;spell or the spell fails. Furthermore, &lt;&lt;tag Animal&gt;&gt; or &lt;&lt;tag Plant&gt;&gt;creatures become [[Hostile]] to it, even one with a strong bond to the target, such as an animal companion.
+
+The GM might decide that you can’t subject some creatures, such as an emissary of a nature deity, to the ire of nature.</pre>
+</div>
 <div created="20200724230039498" modified="20200724230112393" tags="School" title="Necromancy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Necromancy spells harness the power of life and death.
 
 They can sap life essence or sustain creatures with life-saving healing. 
 
 Necromancy spells often have the &lt;&lt;tag Curse&gt;&gt;, &lt;&lt;tag Death&gt;&gt;, &lt;&lt;tag Healing&gt;&gt;, &lt;&lt;tag Negative&gt;&gt;, or &lt;&lt;tag Positive&gt;&gt; traits.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727205934510" m-area="" m-components="Somatic Verbal" m-duration="1 hour" m-level="1" m-range="Touch" m-save="" m-targets="1 willing creature" m-time="" mod-scent="Prevents a creature emitting any scent." modified="20200727221417778" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Abjuration Somatic Verbal Arcane Primal Concentrate Manipulate" title="Negate Aroma" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+The target loses its odor, preventing creatures from passively noticing its presence via smell alone, even if the creatures have precise or imprecise [[Scent]]. 
+
+A creature attempting a [[Perception]] check to [[Seek]] with scent and other senses might notice the lack of natural scent. 
+
+If the target has any abilities that result from its smell, such as an overpowering scent, those abilities are also negated.
+
+''Heightened (5th)'' The range increases to 30 feet, and you can target up to 10 creatures.</pre>
 </div>
 <div created="20200707223357902" mod-newtiddler="Test" modified="20200707224241831" tags="" title="New Tiddler" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;ModifierBlock &quot;NewTiddler&quot;&gt;&gt;
@@ -17903,7 +18183,19 @@ Necromancy spells often have the &lt;&lt;tag Curse&gt;&gt;, &lt;&lt;tag Death&gt
 <div created="20200726231354757" modified="20200726231414850" tags="" title="NextRest" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>the next time you make your [[daily preparations|Rest]]</pre>
 </div>
-<div created="20200702141009453" feat-level="2" feat-skill="Acrobatics" feat-spre="E" mod-crawl="You can crawl at half or full speed." mod-flat-footed="If legendary Acrobatics, not flat-footed while Prone." mod-prone="If legendary Acrobatics, not flat-footed while Prone" modified="20200726002059915" tags="Feat General Skill" title="Nimble Crawl" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727210125039" m-area="" m-components="Material Somatic Verbal" m-duration="1 day" m-level="4" m-range="Planetary" m-save="Will" m-targets="1 creature you know by name" m-time="10 minutes" mod-rest="Triggers when its target sleeps." modified="20200727210337907" s-crit="The target suffers no adverse effects and is temporarily immune for 1 week." s-fail="The target experiences the nightmares and awakens [[Fatigued]]." s-fumble="The target experiences the nightmares, awakens [[Fatigued]], and is [[Drained]] 2 until it is no longer fatigued." s-hit="The target experiences the nightmares but suffers no adverse effects other than unpleasant memories." tags="Spell Illusion Mental Arcane Occult Somatic Material Verbal Concentrate Manipulate" title="Nightmare" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You send disturbing nightmares to your target. 
+
+The next time the target falls asleep, it must attempt a [[Will]] save. 
+
+If you know the target only by name and have never met them, the target gets a +4 circumstance bonus to the Will save.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div created="20200702141009453" feat-level="2" feat-skill="Acrobatics" feat-spre="E" mod-crawl="You can crawl at half or full speed." mod-prone="If legendary Acrobatics, not flat-footed while Prone" modified="20200727205844845" tags="Feat General Skill" title="Nimble Crawl" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Expert in [[Acrobatics]].
 
 You can [[Crawl]] incredibly swiftly—up to half your Speed, rather than 5 feet. 
@@ -17920,6 +18212,16 @@ You keep pace with a retreating foe.
 [[Stride]] up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you’ve moved your full Speed. 
 
 You can use No Escape to [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] instead of Stride if you have the corresponding movement type.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727210418740" m-area="" m-components="Material Somatic Verbal" m-duration="8 hours" m-level="3" m-range="Touch" m-save="" m-targets="1 creature or object" m-time="10 minutes" modified="20200727210543405" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Uncommon Abjuration Arcane Occult Primal Material Somatic Verbal Concentrate Manipulate" title="Nondetection" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You erect protective wards that make the target difficult to detect via magic. 
+
+Nondetection attempts to [[Counteract]] all &lt;&lt;tag Detection&gt;&gt;, &lt;&lt;tag Revelation&gt;&gt;, and &lt;&lt;tag Scrying&gt;&gt; &lt;&lt;tag Divination&gt;&gt;s made against the target or the target’s gear throughout the duration, counting cantrips as 1st-level spells for this purpose. 
+
+Successfully counteracting a divination that targets an area or multiple targets negates the effects only for nondetection’s target.
+</pre>
 </div>
 <div created="20200706234222227" modified="20200706234236876" tags="[[Weapon Trait]]" title="Nonlethal" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Attacks with this weapon are nonlethal, and are used to knock creatures unconscious instead of kill them. 
@@ -17947,6 +18249,17 @@ You can use a nonlethal weapon to make a lethal attack with a –2 circumstance 
 18:U
 19:U
 20:U</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727210712465" m-area="20 foot [[Burst]]" m-components="Material Somatic Verbal" m-duration="1 minute" m-level="2" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200727210804961" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Conjuration Water Arcane Primal Material Somatic Verbal Concentrate Manipulate" title="Obscuring Mist" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You call forth a cloud of mist. 
+
+All creatures within the mist become [[Concealed]], and all creatures outside the mist become
+concealed to creatures within it. 
+
+You can [[Dismiss]] the cloud.
+</pre>
 </div>
 <div created="20200626164525402" modified="20200626164611860" tags="Condition" title="Observed" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Anything in plain view is observed by you. 
@@ -18042,6 +18355,36 @@ h) &quot;You&quot; or &quot;Your&quot; means the licensee in terms of this agree
 
 14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727210846519" m-area="" m-components="Somatic Verbal" m-duration="" m-level="4" m-range="Touch" m-save="Will" m-targets="1 creature" m-time="" modified="20200727211030314" s-crit="The target is unaffected." s-fail="As success, but the effect is permanent." s-fumble="As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse." s-hit="For 10 minutes, the target must roll twice and use the worse result whenever attempting a [[Deception]], [[Diplomacy]], [[Intimidation]], or [[Performance]] check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[Unfriendly]] instead of [[Indifferent]])." tags="Attack Curse Enchantment Mental Misfortune Spell Arcane Divine Occult Somatic Verbal Concentrate Manipulate" title="Outcast's Curse" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You afflict the target with a curse that makes its presence abrasive and off-putting. 
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727211057721" m-area="40 foot [[Burst]]" m-components="Somatic Verbal" m-duration="Until full tribute is paid" m-level="9" m-range="" m-save="Will" m-targets="Any number of creatures" m-time="" modified="20200727211344565" s-crit="The target is unaffected." s-fail="The target must pay tribute six times." s-fumble="As failure, and the target must spend all its actions paying tribute if possible." s-hit="The target must pay tribute twice." tags="Auditory Enchantment Incapacitation Mental Visual Spell Somatic Verbal Divine Occult Concentrate Manipulate" title="Overwhelming Presence" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You surround yourself with supernatural splendor, appearing to be a god or similarly majestic being. You choose the aspects of your new majestic appearance. 
+
+This causes the targets to pay tribute to you by bowing or using some other action in keeping with your appearance. 
+
+Paying tribute is a &lt;&lt;tag Manipulate&gt;&gt;action or &lt;&lt;tag Move&gt;&gt;action, as chosen by the creature paying tribute. 
+
+A creature under this effect must pay tribute to you at least once on each of its turns if possible. 
+
+The number of times a target must do this depends on the result of their Will save.
+
+While affected by this spell, a creature is [[Fascinated]] by you and can’t use [[Hostile Action]]s against you. 
+
+The target is then temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
 <div a-actions="1" a-defense="Perception" a-fail="The creature notices you Palming the Object, and the GM determines the creature’s response." a-hit="The creature does not notice you Palming the Object." a-skill="Thievery" created="20200706230827190" modified="20200725144953132" modified-by="Thievery" tags="Action Manipulate Untrained" title="Palm an Object" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Palming a small, unattended object without being noticed requires you to roll a single [[Thievery]] check against the [[Perception]] DCs of all creatures who are currently observing
 you. 
@@ -18052,6 +18395,18 @@ You can typically only Palm Objects of negligible Bulk, though the GM might dete
 
 {{||ActionSuccessTable}}</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727211456436" m-area="" m-components="Somatic Verbal" m-duration="Varies" m-level="3" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" modified="20200727211656534" s-crit="The target is unaffected." s-fail="The target is [[Paralyzed]] for 1 round." s-fumble="The target is Paralyzed for 4 rounds. At the end of each of its turn, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success." s-hit="The target is [[Stunned]] 1." tags="Enchantment Incapacitation Mental Arcane Occult Somatic Verbal Concentrate Manipulate" title="Paralyze" turn-etn="Target that fumbled can save to shorten paralysis." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You block the target’s motor impulses before they can leave its mind, threatening to freeze the target in place. 
+
+The target must attempt a [[Will]] save.
+
+''Heightened (7th)'' You can target up to 10 creatures.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
 <div created="20200626164642675" modified="20200626164721726" tags="Condition" title="Paralyzed" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Your body is frozen in place. 
 
@@ -18059,10 +18414,57 @@ You have the [[Flat-Footed]] condition and can’t act except to [[Recall Knowle
 
 Your senses still function, but only in the areas you can perceive without moving your body, so you can’t [[Seek]] while paralyzed.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727211715181" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="2" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" modified="20200727211943954" s-crit="The target is unaffected." s-fail="As success, but the effect lasts 1 minute." s-fumble="As failure, except the target believes that everyone it sees is a mortal enemy. It uses its reactions and free actions against everyone, regardless of whether they were previously its allies, as determined by the GM. It otherwise acts as rationally as it normally does and likely prefers to attack creatures that are actively attacking or hindering it over those leaving it alone." s-hit="The target believes everyone it sees is a potential threat. It becomes [[Unfriendly]] to all creatures to which it wasn’t already [[Hostile]], even those that were previously allies. It treats no one as an ally. The spell ends after 1 round." tags="Spell Illusion Mental Occult Somatic Verbal Concentrate Manipulate" title="Paranoia" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You cause the target to see all other creatures as dire threats.
+
+The target is stricken by intense paranoia toward all creatures around it and must attempt a [[Will]] save.
+
+''Heightened (6th)'' You can target up to 5 creatures.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
 <div a-actions="1" a-subactions="Interact" created="20200706234250529" modified="20200719170810095" tags="[[Weapon Trait]] Action Manipulate" title="Parry" turn-sun="Circumstance bonus to AC wears off." type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This weapon can be used defensively to block attacks. 
 
 While wielding this weapon, if your proficiency with it is trained or better, you can spend an [[Interact]] action to position your weapon defensively, gaining a +1 circumstance bonus to AC until the start of your next turn.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727212008042" m-area="" m-components="Somatic Verbal" m-duration="1 hour" m-level="1" m-range="" m-save="" m-targets="" m-time="" mod-track="Increases the DC to track the user." modified="20200727212126103" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Abjuration Primal Somatic Verbal Manipulate Concentrate" title="Pass Without Trace" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You obscure the tracks you leave behind and make it harder for others to find you. 
+
+The DC of checks to [[Track]] you gains a +4 status bonus or is equal to your spell DC, whichever results in a higher DC. 
+
+You can benefit from only one pass without trace spell at a time.
+
+''Heightened (2nd)'' The duration increases to 8 hours. 
+
+''Heightened (4th)'' The duration increases to 8 hours. The spell has a range of 20 feet and an area of a 20-foot-emanation, affecting up to 10 creatures of your choice within that area.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727212203081" m-area="" m-components="Somatic Verbal" m-duration="1 hour" m-level="5" m-range="Touch" m-save="" m-targets="5-foot-wide, 10-foot-tall, 10-foot-deep section of wooden, plaster, or stone wall" m-time="" modified="20200727212326657" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Conjuration Earth Arcane Primal Somatic Verbal Concentrate Manipulate Spell" title="Passwall" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create a visible tunnel through the wall in the chosen area, replacing the area with empty space. 
+
+If the wall is thicker than 10 feet, the tunnel ends 10 feet in. 
+
+Even a small layer of metal in the wall prevents this spell from functioning. 
+
+This spell doesn’t reduce the integrity of the structure. 
+
+When the spell ends, anyone inside the tunnel is shunted to the nearest exit.
+
+''Heightened (7th)'' The tunnel can be up to 20 feet deep. The areas of the wall that contain your tunnel’s entrance appear completely normal (unless viewed with [[True Seeing]] or a similar effect), despite the tunnel’s existence. The tunnel’s entrance functions as a solid wall, but you can specify a password or a [[Trigger]], allowing creatures to enter the tunnel freely.
+</pre>
+</div>
+<div a-actions="1" created="20200727211353915" modified="20200727211435251" tags="Action Implied" title="Pay Tribute" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>//Implied by [[Overwhelming Presence]].//
+
+Paying tribute is a &lt;&lt;tag Manipulate&gt;&gt;action or &lt;&lt;tag Move&gt;&gt;action, as chosen by the creature paying tribute. </pre>
 </div>
 <div created="20200720221816331" modified="20200720221830607" title="Perception" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Perception isn't a skill, but it behaves like one with a key ability of [[Wisdom]].
@@ -18162,6 +18564,30 @@ You’ve trained your physical form to remain stable within the a given altered 
 Once per day, when you consume an alchemical item with the &lt;&lt;tag Infused&gt;&gt;and &lt;&lt;tag Mutagen&gt;&gt; traits that you have crafted, you can retain its effects until the next time you
 make your [[daily preparations|Rest]] instead of its normal duration.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727212343138" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="1" m-range="" m-save="" m-targets="You" m-time="" modified="20200727212537943" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Spell Arcane Primal Somatic Verbal Concentrate Manipulate" title="Pest Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+
+You transform into a the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. 
+
+You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form’s Size or statistics. 
+
+While in this form, you gain the &lt;&lt;tag Animal&gt;&gt;trait. 
+
+You can [[Dismiss]] the spell.
+
+{{BattleFormRestrictions}}
+
+You gain the following statistics and abilities:
+
+* AC = 15 + your level. Ignore your armor’s check penalty and Speed reduction.
+* Speed 10 feet.
+* [[Weakness]] 5 to physical damage. 
+* [[Low-Light Vision]] and imprecise [[Scent]] 30 feet.
+* [[Acrobatics]] and [[Stealth]] modifiers of +10, unless your own modifier is higher; [[Athletics]] modifier –4.
+
+''Heightened (4th)'' You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.</pre>
+</div>
 <div created="20200626201638865" modified="20200626201717299" tags="Condition" title="Petrified" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You have been turned to stone. 
 
@@ -18174,6 +18600,63 @@ When you’re turned back into flesh, you have the same number of Hit Points you
 If the statue is destroyed, you immediately die. 
 
 While petrified, your mind and body are in stasis, so you don’t age or notice the passing of time</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727212559922" m-area="30-foot [[Burst]]" m-components="Somatic Verbal" m-duration="" m-level="6" m-range="500 feet" m-save="Will" m-targets="" m-time="" modified="20200727212724507" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Illusion Mental Arcane Occult Somatic Verbal Spell Concentrate Manipulate" title="Phantasmal Calamity" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+A vision of apocalyptic destruction fills the mind of each creature in the area. 
+
+The vision deals 11d6 mental damage (basic [[Will]] save). 
+
+On a critical failure, the creature must also succeed at a [[Reflex]] save or believe it’s trapped (stuck in a fissure, adrift at sea, or some other fate in keeping with its vision). 
+
+If it fails the second save, it’s also [[Stunned]] for 1 minute. It can attempt a new [[Will]] save at the end of each of its turns, and on a success, it disbelieves the illusion and recovers from the stunned condition.
+
+''Heightened (+1)'' The damage increases by 2d6.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727212755708" m-area="" m-components="Somatic Verbal" m-duration="" m-level="4" m-range="120 feet" m-save="Will" m-targets="1 living creature" m-time="" modified="20200727213053496" s-crit="The target is unaffected." s-fail="The target takes 8d6 mental damage and is [[Frightened]] 2." s-fumble="The target is so afraid it might due. It must attempt a [[Fortitude]] save; if the target fails, it dies. On a successful Fortitude save, the target takes 12d6 mental damage, is fleeing until the end of its next turn, and is [[Frightened]] 4. This effect has the &lt;&lt;tag Incapacitation&gt;&gt; trait." s-hit="The target takes 4d6 mental damage and is [[Frightened]] 1." tags="Death Emotion Fear Illusion Mental Arcane Occult Somatic Verbal Concentrate Manipulate Spell" title="Phantasmal Killer" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create a phantasmal image of the most fearsome creature imaginable to the target. 
+
+Only the spell’s target can see the killer, though you can see the vague shape of the illusion as it races forth to attack. 
+
+The effect of the killer is based on the outcome of the target’s [[Will]] save.
+
+''Heightened (+1)'' The damage increases by 2d6 on a failure and by 3d6 on a critical failure.
+
+{{||SaveSuccessTable}}
+
+//The Incapacitation trait on the Fortitude save means that a creature higher level than you is only scared to death on a critical failure.//
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727213112742" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="1" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" modified="20200727213319371" s-crit="The target is unaffected." s-fail="The target takes full initial and persistent damage, and the target is [[Sickened]] 1. If the target recovers from being sickened, the persistent damage ends and the spell ends." s-fumble="As failure, but the target is sickened 2." s-hit="The target takes full initial damage but no persistent damage, and the spell ends immediately." tags="Illusion Mental Nonlethal Occult Somatic Verbal Spell Concentrate Manipulate" title="Phantom Pain" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 [[persistent|Persistent Damage]] mental damage. The target must attempt a Will save.
+
+''Heightened (+1)'' The damage increases by 2d4 and the persistent damage by 1d4.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727213330259" m-area="" m-components="Somatic Verbal" m-duration="8 hours" m-level="2" m-range="30 feet" m-save="" m-targets="" m-time="10 minutes" mod-fortitude="Phantom Steeds fail all saves." mod-reflex="Phantom Steeds fail all saves." mod-will="Phantom Steeds fail all saves." modified="20200727221344111" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Conjuration Arcane Occult Primal Somatic Verbal Spell Concentrate Manipulate" title="Phantom Steed" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You conjure a Large, magical, equine creature that only you (or another Medium or Small creature you choose) can ride.
+
+The horse is clearly phantasmal in nature, has 20 AC and 10 Hit Points, and automatically fails all saves. 
+
+If it’s reduced to 0 Hit Points, it disappears and the spell ends. 
+
+The steed has a Speed of 40 feet and can hold its rider’s body weight, plus 20 Bulk.
+
+''Heightened (4th)'' The steed has a Speed of 60 feet, can walk on water, and ignores areas of natural [[Difficult Terrain]].
+
+''Heightened (5th)'' The steed has a Speed of 60 feet, can walk on water, and ignores areas of natural difficult terrain. It can also [[Air Walk]] but must end its turn on solid ground or fall.
+
+''Heightened (6th)'' The steed can walk or fly at a Speed of 80 feet, can walk on water, and ignores natural difficult terrain.
+</pre>
 </div>
 <div created="20200723210540329" modified="20200723210814978" tags="Item Uncommon Alchemical Consumable" title="Philosopher's Stone" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>An alchemist with the [[Craft Philosopher’s Stone]] feat can create a philosopher’s stone once per month by spending 1 batch of infused reagents during their daily preparations using the [[Advanced Alchemy]] class feature. This is the only way to create a philosopher’s stone.
@@ -18217,6 +18700,53 @@ You can [[Subsist]] using Survival on different planes, even those without resou
 
 A success on your check to Subsist can also reduce the damage dealt by the plane, at the GM’s discretion.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727213546128" m-area="" m-components="Material Somatic Verbal" m-duration="" m-level="7" m-range="" m-save="" m-targets="1 willing creature, or up to 8 willing creatures joining hands" m-time="10 minutes" modified="20200727213853934" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Conjuration Teleportation Arcane Divine Occult Primal Material Somatic Verbal Spell Concentrate Manipulate" title="Plane Shift" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You and your allies traverse the barriers between planes of existence. 
+
+The targets move to another plane, such as the Plane of Fire, the Shadow Plane, or the Abyss. 
+
+You must have specific knowledge of the destination plane and use a magic tuning fork created from material from that plane as a focus for the spell. While the tuning forks for most prominent planes are &lt;&lt;tag Uncommon&gt;&gt;, just like the spell Plane Shift, more obscure planes and demiplanes often have &lt;&lt;tag Rare&gt;&gt; tuning forks.
+
+The spell is highly imprecise, and you appear 1d20×25 miles from the last place one of the targets (of your choice) was located the last time that target traveled to the plane. If it’s the first time traveling to a particular plane for all targets, you appear at a random location on the plane. 
+
+Plane shift doesn’t provide a means of return travel, though casting plane shift again allows you to return to your previous plane unless there are extenuating circumstances.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727213819284" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="5" m-range="" m-save="" m-targets="" m-time="" modified="20200727214120134" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Plant Polymorph Transmutation Spell Primal Somatic Verbal Concentrate Manipulate" title="Plant Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Taking inspiration from verdant creatures, you transform into a Large plant battle form. 
+
+You must have space to expand into or the spell is lost. 
+
+When you cast this spell, choose arboreal, flytrap, or shambler. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form’s Size or statistics. 
+
+While in this form, you gain the &lt;&lt;tag Plant&gt;&gt;trait. 
+
+You can [[Dismiss]] the spell.
+
+{{BattleFormRestrictions}}
+
+You gain the following statistics and abilities regardless of which battle form you choose:
+
+* AC = 19 + your level. Ignore your armor’s check penalty and Speed reduction.
+* 12 temporary Hit Points.
+* Resistance 10 to poison.
+* [[Low-Light Vision]].
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +17, and your damage bonus is +11. These attacks are [[Strength]] based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+* [[Athletics]] modifier of +19, unless your own modifier is higher.
+
+You also gain specific abilities based on the type of plant you choose:
+
+* ''Arboreal'' Speed 30 feet; Melee {{OneAction}} branch (reach 15 feet), Damage 2d10 bludgeoning; Melee {{OneAction}} foot, Damage 2d8 bludgeoning; you can speak in this form, but you still can’t [[Cast a Spell]] or supply verbal components.
+* ''Flytrap'' Speed 15 feet; resistance 10 to acid; Melee {{OneAction}} leaf (reach 10 feet), Damage 2d8 piercing, and you can spend an action after a hit to [[Grab]] the target.
+* ''Shambler'' Speed 20 feet, swim Speed 20 feet; resistance 10 to electricity; Melee {{OneAction}} vine (reach 15 feet), Damage 2d8 slashing. 
+
+''Heightened (6th)'' Your battle form is Huge, and the reach of your attacks increases by 5 feet. You instead gain AC = 22 + your level, 24 temporary HP, attack modifier +21, damage bonus +16, and Athletics +22.
+
+</pre>
+</div>
 <div a-actions="1" created="20200704204938200" modified="20200704205118401" tags="Action Auditory Manipulate Visual" title="Point Out" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' A creature is undetected by one or more of your allies but isn’t undetected by you.
 
@@ -18239,6 +18769,15 @@ Unlike other forms of Affliction, poison has an effect if you are re-exposed to 
 
 You gain &lt;&lt;tag Poison&gt;&gt; resistance equal to half your level, and you gain a +1 status bonus to saving throws against poisons.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727214142703" m-area="" m-components="" m-duration="" m-level="8" m-range="120 feet" m-save="" m-targets="1 creature or object" m-time="" modified="20200727214242598" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Cold Evocation Arcane Primal Somatic Verbal Concentrate Manipulate Spell" title="Polar Ray" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You fire a blue-white ray of freezing air and swirling sleet from your finger that can chill your target to the bones. 
+
+You must succeed at a spell attack roll to affect the target, which then takes 10d8 cold damage and is [[Drained]] 2.
+
+''Heightened (+1)'' The damage increases by 2d8.</pre>
+</div>
 <div created="20200627222352886" modified="20200627222504021" tags="Trait" title="Polymorph" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>These effects transform the target into a new form. 
 
@@ -18254,6 +18793,28 @@ If you take on a battle form with a polymorph spell, the special statistics can 
 
 Your gear is absorbed into you; the constant abilities of your gear still function, but you can’t activate any items.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727214259432" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="7" m-range="30 feet" m-save="Will" m-targets="1 living creature" m-time="" modified="20200727214614341" s-crit="The target is unaffected." s-fail="You possess the target and take partial control of it. You no longer have a separate turn; instead, you might control the target. At the start of each of the target’s turns, it attempts another [[Will]] save. If it fails, it’s [[Controlled]] by you on that turn; if it succeeds, it chooses its own actions; and if it critically succeeds, it forces you out and the spell ends." s-fumble="You possess the target fully, and it can only watch as you manipulate it like a puppet. The target is [[Controlled]] by you." s-hit="You possess the target but can’t control it. You ride along in the body while the spell lasts." tags="Uncommon Incapacitation Mental Necromancy Possession Spell Occult Somatic Verbal Concentrate Manipulate" title="Possession (Spell)" turn-stn="May need to make a Will save to resist possession." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You send your mind and soul into the target’s body, attempting to take control. 
+
+The target must attempt a [[Will]] save. You can choose to use the effects of a degree of success more favorable to the target if you prefer.
+
+While you’re possessing a target, your own body is [[Unconscious]] and can’t wake up normally. 
+
+You can sense everything the possessed target does. 
+
+You can [[Dismiss]] this spell. 
+
+If the possessed body dies, the spell ends and you must succeed at a [[Fortitude]] save against your spell DC or be [[Paralyzed]] for 1 hour, or 24 hours on a critical failure. 
+
+If the spell ends during an encounter, you act just before the possessed creature’s initiative count.
+
+''Heightened (9th)'' The duration is 10 minutes, and you can physically enter the creature’s body, protecting your physical body while the spell lasts.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
 <div created="20200723202651631" feat-class="Alchemist" feat-fpre="[[Powerful Alchemy]]" feat-level="10" modified="20200723202814491" tags="Feat Class Alchemist" title="Potent Poisoner" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisite'' [[Powerful Alchemy]].
 
@@ -18261,6 +18822,51 @@ By concentrating your poisons’ toxic components, you make them harder for vict
 
 When you craft an alchemical item with the &lt;&lt;tag Poison&gt;&gt;trait by any means, the DC is increased by up to 4, to a maximum of your class DC.
 </pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727214622220" m-area="" m-components="Verbal" m-duration="Varies" m-level="7" m-range="30 feet" m-save="" m-targets="1 creature" m-time="" modified="20200727214731972" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Auditory Enchantment Mental Arcane Verbal Concentrate Spell" title="Power Word Blind" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You utter an arcane word of power that can make the target blinded upon hearing it. 
+
+Once targeted, the target is then temporarily immune for 10 minutes. 
+
+The effect of the spell depends on the target’s level.
+
+* ''11th or Lower'' The target is [[Blinded]] permanently.
+* ''12th–13th'' The target is blinded for 1d4 minutes.
+* ''14th or Higher'' The target is [[Dazzled]] for 1 minute.
+
+''Heightened (+1)'' The levels at which each outcome applies increase by 2.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727214748245" m-area="" m-components="Verbal" m-duration="Varies" m-level="9" m-range="30 feet" m-save="" m-targets="1 creature" m-time="" modified="20200727214906262" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Auditory Death Enchantment Mental Arcane Verbal Spell Concentrate" title="Power Word Kill" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You utter the most powerful arcane word of power. 
+
+Once targeted, the target is then temporarily immune for 10 minutes. 
+
+The effect of the spell depends on the target’s level.
+
+* ''14th or Lower'' The target dies instantly.
+* ''15th'' If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes [[Dying]] 1, or increases its dying condition by 1 if it’s already dying.
+* ''16th or Higher'' The target takes 50 damage; if this brings the target to 0 Hit Points, the target dies instantly.
+
+''Heightened (10th)'' The levels at which each outcome applies increase by 2.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727214923840" m-area="" m-components="Verbal" m-duration="Varies" m-level="8" m-range="30 feet" m-save="" m-targets="1 creature" m-time="" modified="20200727215027673" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Auditory Enchantment Mental Spell Arcane Verbal Concentrate" title="Power Word Stun" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You stun the target with an arcane word of power. 
+
+Once targeted, the target is then temporarily immune for 10 minutes. 
+
+The effect of the spell depends on the target’s level.
+
+* ''13th or Lower'' The target is [[Stunned]] for 1d6 rounds.
+* ''14th–15th'' The target is [[Stunned]] for 1 round.
+* ''16th or Higher'' The target is [[Stunned]] 1.
+
+''Heightened (+1)'' The levels at which each outcome applies increase by 2.</pre>
 </div>
 <div created="20200723191410078" feat-class="Alchemist" feat-level="8" mod-quick_alchemy="Lets you change item's save DC to your class DC." modified="20200723191505038" tags="Alchemist Class Feat" title="Powerful Alchemy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Alchemical items you create on the fly are particularly potent.
@@ -18288,6 +18894,27 @@ If your press action succeeds, you can choose to apply the failure effect instea
 
 Because a press action requires a multiple attack penalty, you can’t use one when it’s not your turn, even if you use the [[Ready]] activity.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727215044504" m-area="" m-components="Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]]" m-level="1" m-range="10 feet" m-save="" m-targets="1 object" m-time="" mod-sustain_a_spell="Choose a simple effect when sustained." modified="20200727215242271" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Cantrip Evocation Arcane Divine Occult Primal Somatic Verbal Spell Concentrate Manipulate" title="Prestigitation" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+The simplest magic does your bidding. 
+
+You can perform simple magical effects for as long as you [[Sustain the Spell|Sustain a Spell]]. 
+
+Each time you Sustain the Spell, you can choose one of four options.
+
+* ''Cook'' Cool, warm, or flavor 1 pound of nonliving material.
+* ''Lift'' Slowly lift an unattended object of light [[Bulk]] or less 1 foot off the ground.
+* ''Make'' Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile—it can’t be used as a tool, weapon, or spell component.
+* ''Tidy'' Color, clean, or soil an object of light Bulk or less.
+
+You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object with 1 minute per Bulk.
+
+Prestidigitation can’t deal damage or cause adverse conditions. 
+
+Any actual change to an object (beyond what is noted above) persists only as long as you Sustain the Spell.
+</pre>
+</div>
 <div created="20200627225635944" modified="20200726230903390" tags="Tradition" title="Primal" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>An instinctual connection to and faith in the world, the cycle of day and night, the turning of the seasons, and the natural selection of predator and prey drive the primal tradition. 
 
@@ -18295,6 +18922,143 @@ Because a press action requires a multiple attack penalty, you can’t use one w
 
 &lt;&lt;schoolspelllist Primal&gt;&gt;
 </pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727215259197" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="10" m-range="30 feet" m-save="" m-targets="You and up to 5 [[Willing]] targets" m-time="" modified="20200727215556684" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Spell Primal Somatic Verbal Manipulate Concentrate" title="Primal Herd" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Summoning the power of the natural world, you transform the targets into a herd of mammoths, and they each assume a Huge battle form. 
+
+Each target must have enough space to expand into or the spell fails for that target. 
+
+Each target gains the &lt;&lt;tag Animal&gt;&gt;trait. 
+
+Each target can [[Dismiss]] the spell’s effects on themself. 
+
+{{BattleFormRestrictions}}
+
+Each target gains the following while transformed:
+
+* AC = 22 + the target’s level. Ignore any armor check penalty and Speed reduction.
+* 20 temporary Hit Points.
+* Speed 40 feet.
+* [[Low-Light Vision]].
+* The following unarmed melee attacks, which are the only attacks the target can use. They’re trained with them. When attacking with these attacks, the target uses their attack modifier with the proficiency and item bonuses of their most favorable weapon or unarmed [[Strike]], and the damage is listed for each attack. These attacks are [[Strength]] based (for the purpose of the enfeebled condition, for example). If the target’s unarmed attack modifier is higher, they can use it instead. 
+
+''Melee'' {{OneAction}} tusk (reach 15 feet), Damage 4d8+19 piercing; 
+
+''Melee'' {{OneAction}} trunk (agile, reach 15 feet), Damage 4d6+16 bludgeoning; 
+
+''Melee'' {{OneAction}} foot (agile, reach 15 feet), Damage 4d6+13 bludgeoning.
+
+* [[Athletics]] modifier of +30, unless the target’s own modifier is higher.
+* ''Trample'' {{ThreeAction}} You move up to twice your Speed and move through the space of Large or smaller creatures, trampling each creature whose space you enter. A trampled creature takes damage from its foot Strike based on a basic [[Reflex]] save (DC = 19 + the target’s level).</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727215621386" m-area="" m-components="Material Somatic Verbal" m-duration="" m-level="10" m-range="" m-save="" m-targets="" m-time="" modified="20200727215747141" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Primal Divination Material Somatic Verbal Spell Concentrate Manipulate" title="Primal Phenomenon" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You request a direct intercession from the natural world.
+
+Nature always refuses unnatural requests and might grant a different request (potentially more powerful or better fitting its character) than the one you asked for. 
+
+A primal phenomenon spell can do any of the following things.
+
+* Duplicate any primal spell of 9th level or lower.
+* Duplicate any non-primal spell of 7th level or lower.
+* Produce any effect whose power level is in line with the above effects.
+* Reverse certain effects that refer to the [[Wish]] spell.
+
+At the GM’s discretion, you can try to use primal phenomenon to produce greater effects than these, but doing so may be dangerous, or the spell may have only a partial effect.
+
+''Primal spells that can be duplicated:'' 
+&lt;$list filter=&quot;[tag[Spell]tag[Primal]]&quot; variable=&quot;spell&quot;&gt;
+&lt;$list filter=&quot;[&lt;spell&gt;get[m-level]compare:number:lteq[9]]&quot;&gt;
+&lt;$link to=&lt;&lt;spell&gt;&gt; /&gt;,
+&lt;/$list&gt;
+&lt;/$list&gt;
+
+''Non-Primal spells that can be duplicated:''
+&lt;$list filter=&quot;[tag[Spell]!tag[Primal]]&quot; variable=&quot;spell&quot;&gt;
+&lt;$list filter=&quot;[&lt;spell&gt;get[m-level]compare:number:lteq[7]]&quot;&gt;
+&lt;$link to=&lt;&lt;spell&gt;&gt; /&gt;,
+&lt;/$list&gt;
+&lt;/$list&gt;
+
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727215825631" m-area="//10-foot [[Burst]]//" m-components="Somatic Verbal" m-duration="1 hour" m-level="9" m-range="" m-save="" m-targets="" m-time="" modified="20200727220023760" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Abjuration Light Arcane Occult Somatic Verbal Spell Concentrate Manipulate" title="Prismatic Sphere" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create a seven-layered sphere to protect an area. 
+
+This multicolored sphere functions like a [[Prismatic Wall]] but is shaped in a 10-foot [[Burst]] centered on a corner of your space. 
+
+You must form the sphere in an unbroken open space so its edges don’t pass through any creatures or objects, or the spell is lost.
+
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727215947089" m-area="30 foot [[Cone]]" m-components="Somatic Verbal" m-duration="" m-level="7" m-range="" m-save="" m-targets="" m-time="" modified="20200727220506626" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Evocation Light Arcane Occult Somatic Verbal Spell Concentrate Manipulate" title="Prismatic Spray" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+A spray of rainbow light beams cascades from your open hand. 
+
+Each creature in the area must roll 1d8 on the table below to see which beam affects it, then attempt a saving throw of the indicated type. 
+
+The table notes any additional traits that apply to each type of ray. 
+
+If a creature is struck by multiple beams, it uses the same d20 result for all its saving throws. 
+
+For all rays, a successful saving throw negates the effect for that creature.
+
+| !1d8 | !Color | !Save | !Effect (Traits) |
+| 1 | Red | [[Reflex]] |50 &lt;&lt;tag Fire&gt;&gt;damage |
+| 2 | Orange | [[Reflex]] |60 &lt;&lt;tag Acid&gt;&gt;damage |
+| 3 | Yellow | [[Reflex]] |70 &lt;&lt;tag Electricity&gt;&gt; damage |
+| 4 | Green | [[Fortitude]] |30 &lt;&lt;tag Poison&gt;&gt;damage and [[Enfeebled]] 1 for 1 minute |
+| 5 | Blue | [[Fortitude]] |Affected as if by [[Flesh to Stone]] |
+| 6 | Indigo | [[Will]] |[[Confused]], as the [[Warp Mind]] spell (&lt;&lt;tag Mental&gt;&gt;) |
+| 7 | Violet | [[Will]] |[[Slowed]] 1 for 1 minute; if a critical failure, sent to another plane, as [[Plane Shift]] (&lt;&lt;tag Teleportation&gt;&gt;) |
+| 8 | Potent beam | - |Affected by two beams—roll beam twice, rerolling any duplicates or results of 8. |
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727220523877" m-area="" m-components="Material Somatic Verbal" m-duration="1 hour" m-level="8" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200727221114153" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Abjuration Light Arcane Occult Material Somatic Verbal Spell Concentrate Manipulate" title="Prismatic Wall" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create an opaque wall of shimmering, multicolored light.
+
+The wall is straight and vertical, stretching 60 feet long and 30 feet high. 
+
+You must form the wall in an unbroken open space so its edges don’t pass through any creatures or objects, or the spell is lost. 
+
+You can pass through the wall and ignore its effects. //You can ignore the effects of passing through the wall, but it still blocks your spells, missiles, etc.//
+
+The wall sheds bright light out to 20 feet on each side (and dim light to the next 20 feet). 
+
+Creatures other than you that come into the wall’s light must attempt a [[Will]] save; they’re [[Dazzled]] for 1 round on a success, [[Blinded]] for 1 round on a failure, and blinded for 1 minute on a critical failure. They are then temporarily immune to the blinding effect for 1 hour.
+
+A prismatic wall has seven different layers, each a different color. Red, orange, yellow, and green have the effect of a 5th-level [[Chromatic Wall]] spell of that color, and the others have the effect of a 7th-level chromatic wall spell of that color. 
+
+A creature that tries to pass through the wall must attempt a saving throw against each component wall. The effects take place simultaneously, so a creature turned to stone by the blue wall is still treated as a creature for the indigo and violet walls.
+
+The wall as a whole is immune to counteracting effects of the wall’s level or lower; each color must be counteracted by its specific spell, as described in chromatic wall. This must be done in order (red, orange, yellow, green, blue, indigo, then violet). A given color can’t be affected until the previous color is counteracted. Counteracting a color wall removes that color’s effect from the wall, and counteracting them all ends prismatic wall. 
+
+//The wall as a whole can still be counteracted with a counteracting effect higher than the wall's level.//
+
+You can Dismiss the spell.
+
+//The effects are as follows://
+
+{{ChromaWall14}}
+{{ChromaWall57}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727221138269" m-area="100 foot [[Burst]]" m-components="Material Somatic Verbal" m-duration="24 hours" m-level="4" m-range="Touch" m-save="" m-targets="" m-time="" modified="20200727221238276" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Uncommon Abjuration Arcane Occult Material Somatic Verbal Spell Concentrate Manipulate" title="Private Sanctum" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+From outside, the area looks like a bank of impenetrable black fog. 
+
+Sensory stimuli (such as sounds, smells, and light) don’t pass from inside the area to outside the area. 
+
+&lt;&lt;tag Scrying&gt;&gt; spells can’t perceive any stimuli from the area, and mind-reading effects don’t work in the area.</pre>
 </div>
 <div created="20200722211653232" modified="20200722211716317" tags="" title="ProficiencySimpleDC" type="application/x-tiddler-dictionary" revision="0" bag="default">
 <pre>U:10
@@ -18304,7 +19068,7 @@ M:30
 L:40
 </pre>
 </div>
-<div created="20200626201721376" modified="20200720204904295" tags="Condition" title="Prone" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200626201721376" mod-flat-footed="Flat-footed when Prone." modified="20200727205900643" tags="Condition" title="Prone" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You’re lying on the ground. 
 
 You are [[Flat-Footed]] and take a –2 circumstance penalty to attack rolls. //(You aren't Flat-Footed while Prone if you have [[Nimble Crawl]] and are legendary in [[Acrobatics]].)//
@@ -18511,10 +19275,13 @@ When you [[Grab an Edge]], you can pull yourself onto that surface and stand.
 
 You can use Athletics instead of a Reflex save to Grab an Edge.</pre>
 </div>
-<div created="20200706234412514" modified="20200706234426331" tags="[[Weapon Trait]]" title="Reach" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200706234412514" modified="20200727204140235" tags="[[Weapon Trait]]" title="Reach" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This weapon is long and can be used to attack creatures up to 10 feet away instead of only adjacent creatures. 
 
-For creatures that already have reach with the limb or limbs that wield the weapon, the weapon increases their reach by 5 feet.</pre>
+For creatures that already have reach with the limb or limbs that wield the weapon, the weapon increases their reach by 5 feet.
+
+//There is no clear rules judgment on whether the extended limb or weapon of a creature with reach can be attacked using Reactions at the moment it strikes.//
+</pre>
 </div>
 <div a-actions="1" created="20200711180516708" feat-class="Wizard" feat-level="1" modified="20200711180817730" tags="Feat Class Action Concentrate Metamagic Wizard" title="Reach Spell" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can extend the range of your spells. 
@@ -18703,6 +19470,11 @@ The GM sets the [[Diplomacy]] DC based on the difficulty of the request. Some re
 
 {{||ActionSuccessTable}}
 </pre>
+</div>
+<div a-actions="1" created="20200727204630066" modified="20200727204703052" tags="Action Rage Implied" title="Resist Moon Frenzy" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>//Implied by the spell [[Moon Frenzy]].//
+
+A creature can attempt to end the spell’s effect on itself by using a single action, which has the &lt;&lt;tag Rage&gt;&gt;trait, to attempt a [[Will]] save against your spell DC; on a success, it ends the spell’s effect on itself.</pre>
 </div>
 <div created="20200727000205814" modified="20200727000242432" tags="Action Free Reaction" title="Respond to Message" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>//This action is implied by the [[Message]] spell.//
@@ -20399,6 +21171,13 @@ Select one of the following specialties and apply the bonus when attempting Perf
 
 Your attacks against targets that are at a distance within the range listed take a –2 penalty.</pre>
 </div>
+<div created="20200727221654787" modified="20200727221710495" tags="Rule" title="Wall" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>Spells that create walls list the depth, length, and height of the wall, also specifying how it can be positioned. 
+
+Some walls can be shaped; you can manipulate the wall into a form other than a straight line, choosing its contiguous path square by square. 
+
+The path of a shaped wall can’t enter the same space more than once, but it can double back so one section is adjacent to another section of the wall.</pre>
+</div>
 <div created="20200702211615652" feat-level="7" feat-skill="Athletics" feat-spre="M" mod-high_jump="Can chain jump actions that end adjacent walls." mod-leap="Can chain jump actions that end adjacent walls." mod-long_jump="Can chain jump actions that end adjacent walls." modified="20200726004255388" tags="Feat General Skill" title="Wall Jump" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Master in [[Athletics]].
 
@@ -20461,6 +21240,11 @@ Add 5 feet to the length of a cone or line that is normally 15 feet long or smal
 
 {{||SpellSaveList}}
 </pre>
+</div>
+<div created="20200727204430665" modified="20200727204442296" tags="Rule" title="Willing" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>Some spells restrict you to willing targets. 
+
+A player can declare their character a willing or unwilling target at any time, regardless of turn order or their character’s condition (such as when a character is paralyzed, unconscious, or even dead).</pre>
 </div>
 <div created="20200627192818031" mod-medicine="Key ability for this skill." mod-nature="Key ability for this skill." mod-perception="Key ability." mod-religion="Key ability for this skill." mod-survival="Key ability for this skill." mod-will="Key ability for this save." modified="20200725141645798" tags="[[Ability Score]]" title="Wisdom" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Wisdom measures your character’s common sense, awareness, and intuition. 

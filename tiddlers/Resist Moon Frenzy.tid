@@ -1,0 +1,10 @@
+a-actions: 1
+created: 20200727204630066
+modified: 20200727204703052
+tags: Action Rage Implied
+title: Resist Moon Frenzy
+type: text/vnd.tiddlywiki
+
+//Implied by the spell [[Moon Frenzy]].//
+
+A creature can attempt to end the spell’s effect on itself by using a single action, which has the <<tag Rage>>trait, to attempt a [[Will]] save against your spell DC; on a success, it ends the spell’s effect on itself.

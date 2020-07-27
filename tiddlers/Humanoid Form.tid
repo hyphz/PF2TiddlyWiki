@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200725161818102
+modified: 20200727221534881
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -39,7 +39,7 @@ Humanoid form grants you a +4 status bonus to [[Deception]] checks to pass as a 
 
 If you want to Impersonate an individual, you still need to [[create a disguise|Impersonate]], though the GM won’t factor in the difference in ancestry when determining the DC of your Deception check. 
 
-You can [[Dismiss|Dismiss a Spell]] this spell.
+You can [[Dismiss]] this spell.
 
 ''Heightened (3rd)'' You gain [[Darkvision]] or [[Low-Light Vision]] if the form you assume has that ability.
 

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727214748245
+m-area: 
+m-components: Verbal
+m-duration: Varies
+m-level: 9
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200727214906262
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Auditory Death Enchantment Mental Arcane Verbal Spell Concentrate
+title: Power Word Kill
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You utter the most powerful arcane word of power. 
+
+Once targeted, the target is then temporarily immune for 10 minutes. 
+
+The effect of the spell depends on the target’s level.
+
+* ''14th or Lower'' The target dies instantly.
+* ''15th'' If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes [[Dying]] 1, or increases its dying condition by 1 if it’s already dying.
+* ''16th or Higher'' The target takes 50 damage; if this brings the target to 0 Hit Points, the target dies instantly.
+
+''Heightened (10th)'' The levels at which each outcome applies increase by 2.

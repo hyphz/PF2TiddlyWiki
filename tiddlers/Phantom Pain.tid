@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727213112742
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200727213319371
+s-crit: The target is unaffected.
+s-fail: The target takes full initial and persistent damage, and the target is [[Sickened]] 1. If the target recovers from being sickened, the persistent damage ends and the spell ends.
+s-fumble: As failure, but the target is sickened 2.
+s-hit: The target takes full initial damage but no persistent damage, and the spell ends immediately.
+tags: Illusion Mental Nonlethal Occult Somatic Verbal Spell Concentrate Manipulate
+title: Phantom Pain
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 [[persistent|Persistent Damage]] mental damage. The target must attempt a Will save.
+
+''Heightened (+1)'' The damage increases by 2d4 and the persistent damage by 1d4.
+
+{{||SaveSuccessTable}}

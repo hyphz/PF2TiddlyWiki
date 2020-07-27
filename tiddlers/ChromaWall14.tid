@@ -1,0 +1,10 @@
+created: 20200727220905120
+modified: 20200727220915587
+tags: 
+title: ChromaWall14
+type: text/vnd.tiddlywiki
+
+# ''Red'' The wall destroys ranged weapon ammunition (such as arrows and crossbow bolts) that would pass through, and it deals 20 fire damage to anyone passing through, with a basic [[Reflex]] save. [[Cone of Cold]] can counteract a red chromatic wall.
+# ''Orange'' The wall destroys thrown weapons that would pass through, and it deals 25 acid damage to anyone passing through, with a basic [[Reflex]] save. [[Gust of Wind]] can counteract an orange chromatic wall.
+# ''Yellow'' The wall stops <<tag Acid>>, <<tag Cold>>, <<tag Electricity>>, <<tag Fire>>, <<tag Force>>, <<tag Negative>>, <<tag Positive>>, and <<tag Sonic>>effects from passing through, and it deals 30 electricity damage to anyone passing through, with a basic [[Reflex]] save. [[Disintegrate]] can counteract a yellow chromatic wall.
+# ''Green'' The wall stops toxins, gases, and breath weapons from passing through. It deals 10 poison damage to anyone passing through and makes them [[Enfeebled]] 1 for 1 minute. A basic [[Fortitude]] save reduces the damage and negates the enfeebled condition on a success. [[Passwall]] can counteract a green chromatic wall. 

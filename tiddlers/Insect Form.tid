@@ -7,12 +7,12 @@ created: 20200726224206161
 m-area: 
 m-components: Somatic Verbal
 m-duration: 1 minute
-m-level: 
+m-level: 3
 m-range: 
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200726224658865
+modified: 20200727221604567
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -29,7 +29,7 @@ When you cast this spell, choose ant, beetle, centipede, mantis, scorpion, or sp
 
 While in this form, you gain the <<tag Animal>> trait. 
 
-You can [[Dismiss|Dismiss a Spell]] this spell.
+You can [[Dismiss]] this spell.
 
 {{BattleFormRestrictions}}
 

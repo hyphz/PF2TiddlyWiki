@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727212755708
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 120 feet
+m-save: Will
+m-targets: 1 living creature
+m-time: 
+modified: 20200727213053496
+s-crit: The target is unaffected.
+s-fail: The target takes 8d6 mental damage and is [[Frightened]] 2.
+s-fumble: The target is so afraid it might due. It must attempt a [[Fortitude]] save; if the target fails, it dies. On a successful Fortitude save, the target takes 12d6 mental damage, is fleeing until the end of its next turn, and is [[Frightened]] 4. This effect has the <<tag Incapacitation>> trait.
+s-hit: The target takes 4d6 mental damage and is [[Frightened]] 1.
+tags: Death Emotion Fear Illusion Mental Arcane Occult Somatic Verbal Concentrate Manipulate Spell
+title: Phantasmal Killer
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a phantasmal image of the most fearsome creature imaginable to the target. 
+
+Only the spell’s target can see the killer, though you can see the vague shape of the illusion as it races forth to attack. 
+
+The effect of the killer is based on the outcome of the target’s [[Will]] save.
+
+''Heightened (+1)'' The damage increases by 2d6 on a failure and by 3d6 on a critical failure.
+
+{{||SaveSuccessTable}}
+
+//The Incapacitation trait on the Fortitude save means that a creature higher level than you is only scared to death on a critical failure.//

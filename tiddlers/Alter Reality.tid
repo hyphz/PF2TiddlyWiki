@@ -1,7 +1,7 @@
 created: 20200627231544652
 m-components: Material, Somatic, Verbal
 m-level: 10
-modified: 20200725145837027
+modified: 20200727202405460
 tags: Spell Occult Divination Material Somatic Verbal Manipulate Concentrate
 title: Alter Reality
 type: text/vnd.tiddlywiki
@@ -11,6 +11,21 @@ You use your occult lore and the power of your mind to manipulate the spiritual 
 * Duplicate any occult spell of 9th level or lower.
 * Duplicate any non-occult spell of 7th level or lower.
 * Produce any effect whose power is equivalent to any occult spell 9th level or lower, or non occult spell 7th level or lower.
-* Reverse certain effects that refer to the [[Wish]]. spell
+* Reverse certain effects that refer to the [[Wish]] spell
 
 At the GM’s discretion, you can try to produce greater effects, but this is dangerous and the spell may have only a partial effect.
+
+''Occult spells that can be duplicated:'' 
+<$list filter="[tag[Spell]tag[Occult]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[9]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>
+
+''Non-Occult spells that can be duplicated:''
+<$list filter="[tag[Spell]!tag[Occult]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[7]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>
+

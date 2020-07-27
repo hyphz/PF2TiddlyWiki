@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727214142703
+m-area: 
+m-components: 
+m-duration: 
+m-level: 8
+m-range: 120 feet
+m-save: 
+m-targets: 1 creature or object
+m-time: 
+modified: 20200727214242598
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Cold Evocation Arcane Primal Somatic Verbal Concentrate Manipulate Spell
+title: Polar Ray
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fire a blue-white ray of freezing air and swirling sleet from your finger that can chill your target to the bones. 
+
+You must succeed at a spell attack roll to affect the target, which then takes 10d8 cold damage and is [[Drained]] 2.
+
+''Heightened (+1)'' The damage increases by 2d8.

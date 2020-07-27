@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727214622220
+m-area: 
+m-components: Verbal
+m-duration: Varies
+m-level: 7
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200727214731972
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Auditory Enchantment Mental Arcane Verbal Concentrate Spell
+title: Power Word Blind
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You utter an arcane word of power that can make the target blinded upon hearing it. 
+
+Once targeted, the target is then temporarily immune for 10 minutes. 
+
+The effect of the spell depends on the target’s level.
+
+* ''11th or Lower'' The target is [[Blinded]] permanently.
+* ''12th–13th'' The target is blinded for 1d4 minutes.
+* ''14th or Higher'' The target is [[Dazzled]] for 1 minute.
+
+''Heightened (+1)'' The levels at which each outcome applies increase by 2.

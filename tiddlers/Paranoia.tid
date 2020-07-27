@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727211715181
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200727211943954
+s-crit: The target is unaffected.
+s-fail: As success, but the effect lasts 1 minute.
+s-fumble: As failure, except the target believes that everyone it sees is a mortal enemy. It uses its reactions and free actions against everyone, regardless of whether they were previously its allies, as determined by the GM. It otherwise acts as rationally as it normally does and likely prefers to attack creatures that are actively attacking or hindering it over those leaving it alone.
+s-hit: The target believes everyone it sees is a potential threat. It becomes [[Unfriendly]] to all creatures to which it wasn’t already [[Hostile]], even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
+tags: Spell Illusion Mental Occult Somatic Verbal Concentrate Manipulate
+title: Paranoia
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You cause the target to see all other creatures as dire threats.
+
+The target is stricken by intense paranoia toward all creatures around it and must attempt a [[Will]] save.
+
+''Heightened (6th)'' You can target up to 5 creatures.
+
+{{||SaveSuccessTable}}

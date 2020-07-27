@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200725163528466
+modified: 20200727221549140
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -33,7 +33,7 @@ You can change the appearance of your clothing and worn items, such as making yo
 
 Casting illusory disguise counts as setting up a disguise for the [[Impersonate]] use of [[Deception]]; it ignores any circumstance penalties you might take for disguising yourself as a dissimilar creature, it gives you a +4 status bonus to [[Deception]] checks to prevent others from seeing through your disguise, and you add your level even if you’re untrained. 
 
-You can [[Dismiss|Dismiss a Spell]] this spell.
+You can [[Dismiss]] this spell.
 
 ''Heightened (2nd)'' The spell also disguises your voice and scent, and it gains the <<tag Auditory>> trait.
 

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727221138269
+m-area: 100 foot [[Burst]]
+m-components: Material Somatic Verbal
+m-duration: 24 hours
+m-level: 4
+m-range: Touch
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200727221238276
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Abjuration Arcane Occult Material Somatic Verbal Spell Concentrate Manipulate
+title: Private Sanctum
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+From outside, the area looks like a bank of impenetrable black fog. 
+
+Sensory stimuli (such as sounds, smells, and light) don’t pass from inside the area to outside the area. 
+
+<<tag Scrying>> spells can’t perceive any stimuli from the area, and mind-reading effects don’t work in the area.

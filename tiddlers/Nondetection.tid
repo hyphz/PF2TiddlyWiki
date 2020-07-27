@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727210418740
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 8 hours
+m-level: 3
+m-range: Touch
+m-save: 
+m-targets: 1 creature or object
+m-time: 10 minutes
+modified: 20200727210543405
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Uncommon Abjuration Arcane Occult Primal Material Somatic Verbal Concentrate Manipulate
+title: Nondetection
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You erect protective wards that make the target difficult to detect via magic. 
+
+Nondetection attempts to [[Counteract]] all <<tag Detection>>, <<tag Revelation>>, and <<tag Scrying>> <<tag Divination>>s made against the target or the target’s gear throughout the duration, counting cantrips as 1st-level spells for this purpose. 
+
+Successfully counteracting a divination that targets an area or multiple targets negates the effects only for nondetection’s target.

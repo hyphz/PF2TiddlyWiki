@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727211057721
+m-area: 40 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: Until full tribute is paid
+m-level: 9
+m-range: 
+m-save: Will
+m-targets: Any number of creatures
+m-time: 
+modified: 20200727211344565
+s-crit: The target is unaffected.
+s-fail: The target must pay tribute six times.
+s-fumble: As failure, and the target must spend all its actions paying tribute if possible.
+s-hit: The target must pay tribute twice.
+tags: Auditory Enchantment Incapacitation Mental Visual Spell Somatic Verbal Divine Occult Concentrate Manipulate
+title: Overwhelming Presence
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You surround yourself with supernatural splendor, appearing to be a god or similarly majestic being. You choose the aspects of your new majestic appearance. 
+
+This causes the targets to pay tribute to you by bowing or using some other action in keeping with your appearance. 
+
+Paying tribute is a <<tag Manipulate>>action or <<tag Move>>action, as chosen by the creature paying tribute. 
+
+A creature under this effect must pay tribute to you at least once on each of its turns if possible. 
+
+The number of times a target must do this depends on the result of their Will save.
+
+While affected by this spell, a creature is [[Fascinated]] by you and can’t use [[Hostile Action]]s against you. 
+
+The target is then temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}
