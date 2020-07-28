@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728200121450
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 120 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200728200320354
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Attack Cantrip Cold Evocation Somatic Verbal Spell Arcane Primal Concentrate Manipulate
+title: Ray of Frost
+turn-eun: Critically hit target's speed reduction wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You blast an icy ray. 
+
+Make a spell attack roll. 
+
+//If you hit//, the ray deals cold damage equal to 1d4 + your spellcasting ability modifier.
+
+//On a critical hit// the target takes double damage and takes a –10-foot status penalty to its Speeds for 1 round.
+
+''Heightened (+1)'' The damage increases by 1d4.

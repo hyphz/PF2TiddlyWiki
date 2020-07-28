@@ -1,0 +1,71 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728193633251
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 6
+m-range: 10 feet
+m-save: 
+m-targets: 1 dead creature of 13th level or lower
+m-time: 10 minutes
+modified: 20200728200514843
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Healing Necromancy Divine Material Somatic Verbal Spell Concentrate Manipulate
+title: Raise Dead
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Cost'' Diamonds worth a total value of the target's level (minimum 1) * 200 gp.
+
+You attempt to call forth the dead creature’s soul, requiring the creature’s body to be present and relatively intact. 
+
+The creature must have died within the past 3 days. 
+
+If the gods have decided that the creature’s time has come (at the GM’s discretion), or if the creature doesn’t wish to return to life, this spell automatically fails, but the diamonds aren’t consumed in the casting.
+
+If the spell is successful, the creature returns to life with 1 Hit Point, no spells prepared or spell slots available, no points in any pools or any other daily resources, and still with any long-term debilitations of the old body. 
+
+The time spent in the afterlife leaves the target temporarily debilitated, making it [[Clumsy]] 2, [[Drained]] 2, and [[Enfeebled]] 2 for 1 week; these conditions can’t be removed or reduced by any means until the week has passed.
+
+The creature is also permanently changed by its time in the afterlife, such as a slight personality shift, a streak of white in the hair, or a strange new birthmark.
+
+''Heightened (7th)'' The maximum level of the target increases to 15. The cost increases to the target’s level (minimum 1) × 400 gp.
+
+''Heightened (8th)'' The maximum level of the target increases to 17. The cost increases to the target’s level (minimum 1) × 800 gp.
+
+''Heightened (9th)'' The maximum level of the target increases to 19. The cost increases to the target’s level (minimum 1) × 1,600 gp.
+
+''Heightened (10th)'' The maximum level of the target increases to 21. The cost increases to the target’s level (minimum 1) × 3,200 gp.
+
+| !Level to Raise | !Heighten Level Needed | !Diamond value needed |
+| 0 | 6 | 200 |
+| 1 | 6 | 200 |
+| 2 | 6 | 400 |
+| 3 | 6 | 600 |
+| 4 | 6 | 800 |
+| 5 | 6 | 1000 |
+| 6 | 6 | 1200 |
+| 7 | 6 | 1400 |
+| 8 | 6 | 1600 |
+| 9 | 6 | 1800 |
+| 10 | 6 | 2000 |
+| 11 | 6 | 2200 |
+| 12 | 6 | 2400 |
+| 13 | 6 | 2600 |
+| 14 | 7 | 5600 |
+| 15 | 7 | 6000 |
+| 16 | 8 | 12800 |
+| 17 | 8 | 13600 |
+| 18 | 9 | 28800 |
+| 19 | 9 | 30400 |
+| 20 | 10 | 64000 |
+| 21 | 10 | 67200 |
+

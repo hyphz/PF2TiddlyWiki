@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728201416141
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200728201536041
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Somatic Verbal Enchantment Divine Occult Primal Spell Concentrate Manipulate
+title: Remove Fear
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+With a touch, you ease a creature’s fears. 
+
+You can attempt to [[Counteract]] a single <<tag Fear>>effect that the target suffers from.
+
+This frees only the target, not any other creatures under the fear effect.
+
+''Heightened (6th)'' The spell’s range increases to 30 feet, and you can target up to 10 creatures.
+
+//Merely giving the [[Frightened]] condition does not make something a fear effect.//

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728200534752
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 10 minutes
+modified: 20200728200629838
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Divination Prediction Divine Occult Material Somatic Verbal Concentrate Manipulate Spell
+title: Read Omens
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You peek into the future. 
+
+Choose a particular goal, event, or activity that will occur within 1 week. 
+
+You learn a cryptic clue or piece of advice that could help with the chosen event, often in the form of a rhyme or omen.

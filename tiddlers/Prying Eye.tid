@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728192718508
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]]
+m-level: 5
+m-range: See text
+m-save: 
+m-targets: 
+m-time: 1 minute
+mod-sustain_a_spell: Move eye when sustained.
+modified: 20200728192903824
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Divination Scrying Arcane Divine Occult Material Somatic Verbal Manipulate Concentrate
+title: Prying Eye
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create an invisible, floating eye, 1 inch in diameter, at a location you can see within 500 feet. 
+
+It sees in all directions with your normal visual senses and continuously transmits what it sees to you.
+
+The first time you [[Sustain the Spell|Sustain a Spell]] each round, you can either move the eye up to 30 feet, seeing only things in front of the eye, or move it up to 10 feet, seeing everything in all directions around it. 
+
+There is no limit to how far from you the eye can move, but the spell ends immediately if you and the eye ever cease to be on the same plane of existence. 
+
+You can attempt [[Seek]] actions through the eye if you want to attempt [[Perception]] checks with it. 
+
+Any damage dealt to the eye destroys it and ends the spell.

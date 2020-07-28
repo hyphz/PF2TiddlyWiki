@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728202736162
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 1 minute
+modified: 20200728202929926
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Occult Primal
+title: Restoration
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Restorative magic counters the effects of toxins or conditions that prevent a creature from functioning at its best. 
+
+When you cast restoration, choose to either reduce a condition or lessen the effect of a toxin. 
+
+A creature can benefit from only one restoration spell each day, and it can’t benefit from restoration more than once to reduce the stage of the same exposure to a given toxin.
+
+* ''Reduce a Condition'' Reduce the value of the target’s [[Clumsy]], [[Enfeebled]], or [[Stupefied]] condition by 2. You can instead reduce two of the listed conditions by 1 each.
+* ''Lessen a Toxin'' Reduce the stage of one toxin the target suffers from by one stage. This can’t reduce the stage below stage 1 or cure the affliction.
+
+''Heightened (4th)'' Add [[Drained]] to the list of conditions you can reduce. When you lessen a toxin, reduce the stage by two. You also gain a third option that allows you to reduce the target’s [[Doomed]] value by 1. You can’t use this to reduce a permanent doomed condition.
+
+''Heightened (6th)'' As the 4th-level restoration, but you can reduce a permanent doomed condition if you add a spellcasting action and a material component while Casting the Spell, during which you provide 100 gp worth of diamond dust as a cost.

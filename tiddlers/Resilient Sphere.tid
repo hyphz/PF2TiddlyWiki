@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728202128326
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 4
+m-range: 30 feet
+m-save: Reflex
+m-targets: 1 Large or smaller creature
+m-time: 
+modified: 20200728202312634
+s-crit: The target disrupts the sphere’s integrity, causing it to collapse entirely.
+s-fail: The sphere has its normal effect.
+s-fumble: 
+s-hit: The sphere functions normally but has only 10 Hit Points instead of 40.
+tags: Arcane Occult Spell Somatic Verbal Abjuration Force Manipulate Concentrate
+title: Resilient Sphere
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create an immobile sphere of force to either trap or protect the target, blocking anything that would pass through the sphere. 
+
+The sphere has AC 5, Hardness 10, and 40 Hit Points. It’s immune to critical hits and precision damage. 
+
+[[Disintegrate]] destroys the sphere instantly. 
+
+If the target is unwilling, the effects of the sphere depend on the target’s [[Reflex]] save.
+
+{{||SaveSuccessTable}}

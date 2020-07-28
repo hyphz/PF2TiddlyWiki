@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728200647462
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 7
+m-range: Touch
+m-save: 
+m-targets: 1 [[Willing]] living creature
+m-time: 
+modified: 20200728200832388
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Healing Necromancy Positive Divine Primal Somatic Verbal Spell Concentrate Manipulate
+title: Regenerate
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+An infusion of positive energy grants a creature continuous healing. 
+
+The target temporarily gains [[Regeneration]] 15, which restores 15 Hit Points to it at the start of each of its turns.
+
+While it has regeneration, the target can’t die from damage and its [[Dying]] value can’t exceed 3, though if its [[Wounded]] value becomes 4 or higher, it stays [[Unconscious]] until its wounds are treated. 
+
+If the target takes <<tag Acid>>or <<tag Fire>> damage, its regeneration deactivates until after the end of its next turn.
+
+Each time the creature regains Hit Points from regeneration, it also regrows one damaged or ruined organ (if any). 
+
+During the spell’s duration, the creature can also reattach severed body parts by spending an [[Interact]] action to hold the body part to the area it was severed from.
+
+''Heightened (9th)'' The regeneration increases to 20.

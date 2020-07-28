@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728201257366
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200728201351132
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Healing Necromancy Divine Primal Material Somatic Verbal Spell Concentrate Manipulate
+title: Remove Disease
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Healing magic purges disease from a creature’s body. 
+
+You attempt to [[Counteract]] one <<tag Disease>>afflicting the target.

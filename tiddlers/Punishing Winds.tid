@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728192949512
+m-area: 30-foot radius, 100-foot-tall cylinder
+m-components: Material Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 8
+m-range: 100 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200728193213436
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Air Evocation Primal Material Somatic Verbal Spell Concentrate Manipulate
+title: Punishing Winds
+turn-etc: Descend 20 feet if flying in cyclone.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Violent winds and a powerful downdraft fill the area, forming a cyclone. 
+
+All flying creatures in the area descend 40 feet. 
+
+The entire area is [[Greater Difficult Terrain|Difficult Terrain]] for Flying creatures, and difficult terrain for creatures on the ground or [[Climb]]ing. 
+
+Any creature that ends its turn Flying within the area descends 20 feet. 
+
+Any creature pushed into a surface by this spell’s winds takes bludgeoning damage as though it had [[fall|Falling]]en.
+
+The squares at the outside vertical edges of the cylinder prevent creatures from leaving. These squares are greater difficult terrain, and a creature attempting to push through must succeed at an [[Athletics]] check or [[Acrobatics]] check to [[Maneuver in Flight]] against your spell DC to get through. A creature that fails ends its current action but can try again.

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728202540692
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 9
+m-range: 500 feet
+m-save: 
+m-targets: 
+m-time: 1 minute
+modified: 20200728202716960
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Material Conjuration Arcane Occult
+title: Resplendent Mansion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You conjure a towering mansion up to four stories tall and up to 300 feet on a side. 
+
+While Casting the Spell, you hold an image of the mansion and its desired appearance in your mind. The mansion can contain as many or as few rooms as you desire, and it is decorated as you imagine it. You can imagine a purpose for each room of the mansion, and the proper accouterments appear within. 
+
+Any furniture or other mundane fixtures function normally for anyone inside the mansion, but they cease to exist if taken beyond its walls. 
+
+No fixture created with this spell can create magical effects, but magical devices brought into the mansion function normally.
+
+Your mansion contains the same types and quantities of foodstuffs and servants as created by the [[Magnificent Mansion]] spell.
+
+Each of the mansion’s exterior doorways and windows are protected by [[Alarm]] spells. You choose whether each alarm is <<tag Audible>> or <<tag Mental>> as you Cast the Spell, and each has a different sound (for an audible alarm) or sensation (for a mental one), allowing you to instantly determine which portal has been used.

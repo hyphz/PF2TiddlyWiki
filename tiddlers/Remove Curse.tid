@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728201140252
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 10 minutes
+modified: 20200728201234418
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Healing Necromancy Divine Occult Material Somatic Verbal Spell Concentrate Manipulate
+title: Remove Curse
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your touch grants a reprieve to a cursed creature. 
+
+You attempt to [[Counteract]] one <<tag Curse>>afflicting the target. 
+
+If the curse comes from a cursed item or other external source, a success indicates that the target creature can rid itself of the cursed item, but it doesn’t remove the curse from the item.

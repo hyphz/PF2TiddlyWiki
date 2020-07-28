@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728203604164
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 10
+m-range: 30 feet
+m-save: 
+m-targets: Dead creatures and living creatures of your choice within range
+m-time: 
+modified: 20200728203729107
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Positive Divine Primal
+title: Revival
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A burst of healing energy soothes living creatures and temporarily rouses those recently slain. 
+
+All living targets regain 10d8+40 Hit Points. 
+
+In addition, you return any number of dead targets to life temporarily, with the same effects and limitations as [[Raise Dead]]. 
+
+The raised creatures have a number of temporary Hit Points equal to the Hit Points you gave living creatures, but no normal Hit Points. 
+
+The raised creatures can’t regain Hit Points or gain temporary Hit Points in other ways, and once revival’s duration ends, they lose all temporary Hit Points and die. 
+
+Revival can’t resurrect creatures killed by [[Disintegrate]] or a <<tag Death>>effect. It has no effect on <<tag Undead>>.

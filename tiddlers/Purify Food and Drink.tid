@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728193258200
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 cubic foot of contaminated food or water
+m-time: 
+modified: 20200728193359366
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Necromancy Divine Primal Somatic Verbal Concentrate Manipulate
+title: Purify Food and Drink
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You remove toxins and contaminations from food and drink, making them safe to consume. 
+
+This spell doesn’t prevent future contamination, natural decay, or spoilage. 
+
+One cubic foot of liquid is roughly 8 gallons.

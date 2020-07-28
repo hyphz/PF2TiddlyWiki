@@ -5,18 +5,19 @@ a-fumble:
 a-hit: 
 created: 20200718211959572
 m-area: 
-m-components: 
+m-components: Somatic Verbal
 m-duration: 
 m-level: 
 m-range: 
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200718212451447
+modified: 20200728202354854
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate
 title: SpellFieldTemplate
 type: text/vnd.tiddlywiki
 

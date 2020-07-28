@@ -1,7 +1,9 @@
 created: 20200627200702475
-modified: 20200627200808030
+mod-dying: Can't move beyond dying 3 while regeneration active.
+modified: 20200728200938593
 tags: Ability
 title: Regeneration
+turn-sun: Regain hit points from regeneration.
 type: text/vnd.tiddlywiki
 
 This monster regains the listed number of Hit Points each round at the beginning of its turn. 

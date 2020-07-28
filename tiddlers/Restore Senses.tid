@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728202941983
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200728203044930
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Occult Primal
+title: Restore Senses
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You attempt to [[Counteract]] a single effect imposing the [[Blinded]] or [[Deafened]] conditions on the target, restoring its vision or hearing. 
+
+This can counteract both temporary magic and permanent consequences of magic, but it doesn’t cure someone who does not have the sense due to some natural state or effect, such as from birth or from a non-magical wound or toxin.
+
+''Heightened (6th)'' The spell’s range increases to 30 feet, and you can target up to 10 creatures. You can choose the effect to counteract separately for each selected creature.
