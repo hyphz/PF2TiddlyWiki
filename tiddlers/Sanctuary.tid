@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729194724850
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200729194935235
+s-crit: Sanctuary ends.
+s-fail: The creature can’t attack the target and wastes the action. It can’t attempt further attacks against the target this turn.
+s-fumble: The creature wastes the action and can’t attempt to attack the target for the rest of sanctuary’s duration.
+s-hit: The creature can attempt its attack and any other attacks against the target this turn.
+tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Divine Occult
+title: Sanctuary
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You ward a creature with protective energy that deters enemy attacks. 
+
+Creatures attempting to attack the target must attempt a [[Will]] save each time. 
+
+If the target uses a [[Hostile Action]], the spell ends.
+
+{{||SaveSuccessTable}}

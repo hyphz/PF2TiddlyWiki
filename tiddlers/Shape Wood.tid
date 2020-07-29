@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729205714590
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: An unworked piece of wood up to 20 cubic feet in volume
+m-time: 
+modified: 20200729205850657
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Plant Transmutation Primal
+title: Shape Wood
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shape the wood into a rough shape of your choice. The shaping power is too crude to produce with intricate parts, fine details, moving pieces, or the like. 
+
+You cannot use this spell to enhance the value of the wooden object you are shaping.

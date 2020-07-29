@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729205857134
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 mutation
+m-level: 9
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200729210047189
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Primal
+title: Shapechange
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Harnessing your mastery of transformative magic, you take on a mutable form. 
+
+You transform yourself into any form you could choose with a <<tag Polymorph>> spell in your spell repertoire or that you could prepare of 8th level or lower (including any 8th-level or lower heightened versions of spells you know). 
+
+You choose the type of creature as you Cast the Spell rather than when you prepare it. //(This seems to be redundant as you do this for every polymorph spell.)//
+
+You can change your form to any other form you could choose with this spell by using a single action, which has the <<tag Concentrate>> trait. 
+
+You can [[Dismiss]] this spell.
+

@@ -1,0 +1,47 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729210422252
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the start of your next turn
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-shield_block: Spell-created shield can apply hardness against Magic Missile (specifically).
+modified: 20200729211131250
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Arcane Divine Occult Abjuration Cantrip Force
+title: Shield
+turn-sun: Shield spell expires.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You raise a magical shield of force. 
+
+This counts as using the [[Raise a Shield]] action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn’t require a hand to use.
+
+While the spell is in effect, you can use the [[Shield Block]] reaction with your magic shield. 
+
+The shield has Hardness 5. 
+
+After you use Shield Block, the spell ends and you can’t cast it again for 10 minutes. 
+
+Unlike a normal Shield Block, you can use the spell’s reaction against the [[Magic Missile]] spell. //(Which you couldn't normally because it only works against physical damage.)//
+
+Heightening the spell increases the shield’s Hardness.
+
+| !Heighten Level | !Hardness |
+| 1 | 5 |
+| 3 | 10 |
+| 5 | 15 |
+| 7 | 20 |
+| 9 | 25 |

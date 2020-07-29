@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729203158607
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-invisible: Makes invisible things only Concealed.
+modified: 20200729203519508
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Revelation Arcane Divine Occult
+title: See Invisibility
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You can see [[Invisible]] creatures and objects. 
+
+They appear to you as translucent shapes, and they are [[Concealed]] to you.
+
+''Heightened (5th)'' The spell has a duration of 8 hours.

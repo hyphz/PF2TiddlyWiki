@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729222921347
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 day
+m-level: 3
+m-range: Touch
+m-save: 
+m-targets: 1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk
+m-time: 10 minutes
+modified: 20200729223130545
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane
+title: Shrink Item
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shrink the target to roughly the size of a coin. This reduces it to negligible Bulk. 
+
+You can [[Dismiss]] the spell, and the spell ends if you toss the object onto a solid surface. 
+
+The object can’t be used to attack or cause damage during the process of it returning to normal size. 
+
+If there isn’t room for the object to return to normal size when the spell ends, the spell’s duration continues until the object is in a location large enough to accommodate its normal size.

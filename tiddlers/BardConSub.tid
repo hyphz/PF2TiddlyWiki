@@ -1,7 +1,7 @@
 created: 20200627220906439
-modified: 20200627221238101
+modified: 20200729225856526
 tags: 
 title: BardConSub
 type: text/vnd.tiddlywiki
 
-If you’re a [[Bard]] Casting a Spell from the [[Occult]] tradition while holding a musical instrument, you can play that instrument to replace any material, somatic, or verbal components the spell requires by using the instrument as a [[Focus]] component instead. Cast a Spell gains the [[Auditory]] trait if you make this substitution. Unlike the normal rules for a focus component, you can’t retrieve or stow the instrument when making this substitution.
+If you’re a [[Bard]] Casting a Spell from the [[Occult]] tradition while holding a musical instrument, you can play that instrument to replace any material, somatic, or verbal components the spell requires by using the instrument as a [[Focus]] component instead. Cast a Spell gains the <<tag Auditory>> trait if you make this substitution. Unlike the normal rules for a focus component, you can’t retrieve or stow the instrument when making this substitution.

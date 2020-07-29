@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729224412699
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 3
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200729224610243
+s-crit: The target is unaffected.
+s-fail: The target is [[Slowed]] 1 for 1 minute.
+s-fumble: The target is [[Slowed]] 2 for 1 minute.
+s-hit: The target is [[Slowed]] 1 for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Occult Primal
+title: Slow
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You dilate the flow of time around the target, slowing its actions.
+
+//They make a [[Fortitude]] save.//
+
+{{||SaveSuccessTable}}
+
+''Heightened (6th)'' You can target up to 10 creatures.

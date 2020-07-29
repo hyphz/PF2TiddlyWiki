@@ -1,0 +1,41 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729205329925
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 8 hours
+m-level: 5
+m-range: Touch
+m-save: 
+m-targets: You and up to 9 [[Willing]] creatures touched
+m-time: 
+modified: 20200729205453361
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Shadow Teleportation Material Arcane Occult
+title: Shadow Walk
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You access the Shadow Plane, using its warped nature to spread your travels. 
+
+The targets enter the edge of the Shadow Plane where it borders the Material Plane. 
+
+Targets can’t see the Material Plane while on the Shadow Plane (although elements of that plane can sometimes be a hazy reflection of the Material Plane). 
+
+While on the Shadow Plane, the targets are exposed to potential encounters with that plane’s
+denizens. 
+
+The shadows on the border between the planes bend space, speeding up your movement with respect to the Material Plane. 
+
+Every 3 minutes the targets travel along this border, they move as far as they would through the Material Plane in 1 hour. 
+
+At any point, a target can [[Dismiss]] the spell’s effects, although this affects only that target. 
+
+The shadow bending is inexact, so when the spell ends, the targets appear roughly 1 mile from their intended location on the Material Plane (though those who are traveling together and Dismiss the spell at the same point on the Plane of Shadow appear together).

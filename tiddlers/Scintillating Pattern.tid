@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729195013625
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 8
+m-range: 120 feet
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200729195233378
+s-crit: 
+s-fail: The creature is [[Confused]] for 1d4 rounds.
+s-fumble: The creature is [[Stunned]] for 1d4 rounds. After the stunned condition ends, the creature is [[Confused]] for the remaining duration of the spell.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Occult Illusion Incapacitation Visual
+title: Scintillating Pattern
+turn-etc: Must make a Will save if inside pattern.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A field of cascading, ever-changing colors manifests in the air.
+
+Creatures are [[Dazzled]] while inside the pattern, as are those within 20 feet of the pattern’s area. 
+
+A creature must attempt a [[Will]] save if it is inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a [[Seek]] or [[Interact]] action on the pattern. 
+
+A creature currently affected by the pattern doesn’t need to attempt new saves.
+
+{{||SaveSuccessTable}}

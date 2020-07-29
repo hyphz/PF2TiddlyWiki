@@ -1,0 +1,26 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729203532316
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 
+m-level: 5
+m-range: Planetary
+m-save: 
+m-targets: 1 creature with whom you are familiar
+m-time: 
+modified: 20200729203613949
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Mental Arcane Divine Occult Material
+title: Sending
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send the creature a mental message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer.

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729204103212
+m-area: Varies
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: Varies
+m-save: Reflex Will
+m-targets: 
+m-time: 
+modified: 20200729204323096
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divine Occult Evocation Shadow
+title: Shadow Blast
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shape the quasi-real substance of the Shadow Plane into a blast. 
+
+Choose <<tag Acid>>, <<tag Bludgeoning>>, <<tag Cold>>, <<tag Electricity>>, <<tag Fire>>, <<tag Force>>, <<tag Piercing>>, <<tag Slashing>>, or <<tag Sonic>> damage, and choose a 30-foot [[Cone]], a 15-foot [[Burst]] within 120 feet, or a 50-foot [[Line]]. 
+
+The blast deals 5d8 damage of the type you chose to each creature in the area. //They attempt their choice of a [[Reflex]] or [[Will]] save.//
+
+''Heightened (+1)'' The damage increases by 1d8.

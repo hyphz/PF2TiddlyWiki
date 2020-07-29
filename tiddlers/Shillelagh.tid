@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729212809154
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 non-magical [[Club]] or [[Staff]] you hold
+m-time: 
+modified: 20200729212917977
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Plant Transmutation Primal
+title: Shillelagh
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target grows vines and leaves, brimming with primal energy. 
+
+The target becomes a +1 [[Striking]] weapon while in your hands, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two. 
+
+Additionally, as long as you are on your home plane, attacks you make with the target against <<tag Aberration>>s, extraplanar creatures, and <tag Undead>> increase the number of weapon damage dice to three.

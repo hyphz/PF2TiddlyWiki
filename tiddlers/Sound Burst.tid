@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729225036330
+m-area: 10 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200729225227942
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage and is [[Deafened]] for 1 round.
+s-fumble: The creature takes double damage and is [[Deafened]] and [[Stunned]] 1 for 1 minute.
+s-hit: The creature takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Divine Occult Evocation Sonic
+title: Sound Burst
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A cacophonous noise blasts out, dealing 2d10 <<tag Sonic>> damage.
+
+Each creature must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+
+''Heightened (+1)'' The damage increases by 1d10.

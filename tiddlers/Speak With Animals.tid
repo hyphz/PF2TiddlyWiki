@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729225238782
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200729225321159
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Primal
+title: Speak With Animals
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You can ask questions of, receive answers from, and use the [[Diplomacy]] skill with animals. 
+
+The spell doesn’t make them more friendly than normal. 
+
+Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments.

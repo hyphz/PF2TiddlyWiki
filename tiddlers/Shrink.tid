@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729213833414
+m-area: 
+m-components: Somatic Verbal
+m-duration: 5 minutes
+m-level: 2
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] creature
+m-time: 
+modified: 20200729213941976
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Primal
+title: Shrink
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You warp space to make a creature smaller. 
+
+The target shrinks to become Tiny in size. 
+
+Its equipment shrinks with it but returns to its original size if removed. 
+
+The creature’s reach changes to 0 feet. 
+
+This spell has no effect on a Tiny creature.
+
+''Heightened (6th)'' The spell can target up to 10 creatures.

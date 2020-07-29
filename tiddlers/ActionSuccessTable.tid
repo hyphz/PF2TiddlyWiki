@@ -1,8 +1,15 @@
 created: 20200626203426967
-modified: 20200626203851826
+modified: 20200729224320938
 tags: 
 title: ActionSuccessTable
 type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]tag[Incapacitation]tag[Spell]]">
+<p style="border: 1px solid black; padding:2px; background-color: tomato">''Incapacitation effect: Against all targets of more than twice the spell level, use the result one worse (for you) than the roll indicates.''</p>
+</$list>
+<$list filter="[all[current]tag[Incapacitation]!tag[Spell]]">
+<p style="border: 1px solid black; padding:2px; background-color: tomato">''Incapacitation effect: Against all targets of higher level than the effect, use the result one worse (for you) than the roll indicates.''</p>
+</$list>
 
 |!Critical Success|{{!!a-crit}}|
 |!Success|{{!!a-hit}}|

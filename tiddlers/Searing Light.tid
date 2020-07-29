@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729201456704
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 120 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200729201718946
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Fire Good Light Divine Primal
+title: Searing Light
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shoot a blazing ray of light tinged with holy energy. 
+
+Make a ranged spell attack. 
+
+The ray deals 5d6 <<tag Fire>>damage. If the target is a <<tag Fiend>>or <<tag Undead>>, you deal an extra 5d6 <<tag Good>>damage.
+
+On a critical hit, the target takes double fire damage, as well as double good damage if a fiend or undead.
+
+If the light passes through an area of magical darkness or targets a creature affected by magical darkness, searing light attempts to [[Counteract]] the darkness. 
+
+If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell’s target.
+
+''Heightened (+1)'' The fire damage increases by 2d6, and the good damage against fiends and undead increases by 2d6.

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729213705697
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: Reach
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200729213816121
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Attack Electricity Evocation Arcane Primal
+title: Shocking Grasp
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shroud your hands in a crackling field of lightning. 
+
+Make a melee spell attack roll. 
+
+On a hit, the target takes 2d12 electricity damage. 
+
+If the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your attack roll with shocking grasp, and the target also takes 1d4 [[persistent|Persistent Damage]] electricity damage on a hit. 
+
+On a critical hit, double the initial damage, but not the persistent damage.
+
+''Heightened (+1)'' The damage increases by 1d12, and the persistent electricity damage increases by 1.

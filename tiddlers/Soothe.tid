@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729224737848
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] living creature
+m-time: 
+mod-fortitude: Gives +2 status vs Mental.
+mod-reflex: Gives +2 status vs Mental.
+mod-will: Gives +2 status vs Mental.
+modified: 20200729224920684
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Healing Mental Occult
+title: Soothe
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You grace the target’s mind, boosting its mental defenses and healing its wounds. 
+
+The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against <<tag Mental>>effects for the duration.
+
+''Heightened (+1)'' The amount of healing increases by 1d10+4.

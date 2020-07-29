@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729225438894
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200729225602228
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Arcane Occult
+title: Spectral Hand
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a semicorporeal hand out of your essence that delivers [[Touch]] spells for you. 
+
+Whenever you [[Cast a Spell]] with a range of touch, you can have the hand crawl to a target within range along the ground, touch it, and then crawl back to you. //(This does not mean that the hand takes the [[Crawl]] action.)//
+
+When making a melee spell attack with the hand, you use your normal bonuses. 
+
+The hand can move as far as it needs to within range. 
+
+The hand has your AC and saves, but any damage to the hand destroys it and causes you to take 1d6 damage.

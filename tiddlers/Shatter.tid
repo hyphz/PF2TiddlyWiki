@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729210316536
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 30 feet
+m-save: 
+m-targets: 1 unattended object
+m-time: 
+modified: 20200729210406559
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Sonic Occult Primal
+title: Shatter
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A high-frequency sonic attack shatters a nearby object. 
+
+You deal 2d10 <<tag Sonic>> damage to the object, ignoring the object’s Hardness if it is 4 or lower.
+
+''Heightened (+1)'' The damage increases by 1d10, and the Hardness the spell ignores increases by 2.

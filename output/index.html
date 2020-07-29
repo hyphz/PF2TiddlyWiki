@@ -415,6 +415,8 @@ Error message and password prompt
 
 <li>Chain Lightning</li>
 
+<li>Change Form</li>
+
 <li>Change Shape</li>
 
 <li>Changeling</li>
@@ -1613,6 +1615,10 @@ Error message and password prompt
 
 <li>Rope Trick</li>
 
+<li>Sanctified Ground</li>
+
+<li>Sanctuary</li>
+
 <li>SaveSuccessTable</li>
 
 <li>Scare to Death</li>
@@ -1621,35 +1627,75 @@ Error message and password prompt
 
 <li>SchoolSpellListMacro</li>
 
+<li>Scintillating Pattern</li>
+
 <li>Scout</li>
 
 <li>Scrying</li>
 
 <li>Search</li>
 
+<li>Searing Light</li>
+
 <li>Second Wind</li>
 
+<li>Secret Page</li>
+
+<li>See Invisibility</li>
+
 <li>Seek</li>
+
+<li>Sending</li>
 
 <li>Sense Direction</li>
 
 <li>Sense Motive</li>
 
+<li>Shadow Blast</li>
+
+<li>Shadow Siphon</li>
+
+<li>Shadow Walk</li>
+
 <li>Shake It Off</li>
 
 <li>Shameless Request</li>
 
+<li>Shape Stone</li>
+
+<li>Shape Wood</li>
+
+<li>Shapechange</li>
+
 <li>Share Rage</li>
 
+<li>Shatter</li>
+
+<li>Shield</li>
+
 <li>Shield Block</li>
+
+<li>Shield Other</li>
+
+<li>Shillelagh</li>
+
+<li>Shocking Grasp</li>
 
 <li>Shoddy</li>
 
 <li>Shove</li>
 
+<li>Shrink</li>
+
+<li>Shrink Item</li>
+
 <li>Sickened</li>
 
+<li>Sigil</li>
+
 <li>Sign Language</li>
+
+<li>Silence</li>
 
 <li>Skill</li>
 
@@ -1661,7 +1707,11 @@ Error message and password prompt
 
 <li>SkillProficiencyLongName</li>
 
+<li>Sleep</li>
+
 <li>Slippery Secrets</li>
+
+<li>Slow</li>
 
 <li>Slowed</li>
 
@@ -1675,11 +1725,25 @@ Error message and password prompt
 
 <li>Society</li>
 
+<li>Solid Fog</li>
+
 <li>Somatic</li>
+
+<li>Soothe</li>
+
+<li>Sound Burst</li>
+
+<li>Speak With Animals</li>
+
+<li>Speak With Plants</li>
 
 <li>Specialty Crafting</li>
 
+<li>Spectral Hand</li>
+
 <li>Spell Blending</li>
+
+<li>Spell Immunity</li>
 
 <li>Spell Substitution</li>
 
@@ -1792,6 +1856,8 @@ Error message and password prompt
 <li>Torch</li>
 
 <li>TorchLight</li>
+
+<li>Touch</li>
 
 <li>Toughness</li>
 
@@ -11630,8 +11696,15 @@ When you use the [[Escape]] basic action, you can use your Acrobatics modifier i
 By default, you can take 3 actions each turn.
 </pre>
 </div>
-<div created="20200626203426967" modified="20200626203851826" tags="" title="ActionSuccessTable" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>|!Critical Success|{{!!a-crit}}|
+<div created="20200626203426967" modified="20200729224320938" tags="" title="ActionSuccessTable" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;[all[current]tag[Incapacitation]tag[Spell]]&quot;&gt;
+&lt;p style=&quot;border: 1px solid black; padding:2px; background-color: tomato&quot;&gt;''Incapacitation effect: Against all targets of more than twice the spell level, use the result one worse (for you) than the roll indicates.''&lt;/p&gt;
+&lt;/$list&gt;
+&lt;$list filter=&quot;[all[current]tag[Incapacitation]!tag[Spell]]&quot;&gt;
+&lt;p style=&quot;border: 1px solid black; padding:2px; background-color: tomato&quot;&gt;''Incapacitation effect: Against all targets of higher level than the effect, use the result one worse (for you) than the roll indicates.''&lt;/p&gt;
+&lt;/$list&gt;
+
+|!Critical Success|{{!!a-crit}}|
 |!Success|{{!!a-hit}}|
 |!Failure|{{!!a-fail}}|
 |!Critical Failure|{{!!a-fumble}}|
@@ -12498,8 +12571,8 @@ This spell fails if you aren’t on your home plane when you cast it.
 <pre>You gain [[Attack of Opportunity]].
 </pre>
 </div>
-<div created="20200627220906439" modified="20200627221238101" tags="" title="BardConSub" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>If you’re a [[Bard]] Casting a Spell from the [[Occult]] tradition while holding a musical instrument, you can play that instrument to replace any material, somatic, or verbal components the spell requires by using the instrument as a [[Focus]] component instead. Cast a Spell gains the [[Auditory]] trait if you make this substitution. Unlike the normal rules for a focus component, you can’t retrieve or stow the instrument when making this substitution.</pre>
+<div created="20200627220906439" modified="20200729225856526" tags="" title="BardConSub" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>If you’re a [[Bard]] Casting a Spell from the [[Occult]] tradition while holding a musical instrument, you can play that instrument to replace any material, somatic, or verbal components the spell requires by using the instrument as a [[Focus]] component instead. Cast a Spell gains the &lt;&lt;tag Auditory&gt;&gt; trait if you make this substitution. Unlike the normal rules for a focus component, you can’t retrieve or stow the instrument when making this substitution.</pre>
 </div>
 <div created="20200630084220101" feat-level="1" feat-skill="Diplomacy" feat-spre="T" mod-earn_income="You can earn income using Diplomacy." modified="20200725235250960" tags="Feat General Skill" title="Bargain Hunter" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Diplomacy]].
@@ -12922,6 +12995,11 @@ The chain ends if any one of the targets critically succeeds at its save.
 
 ''Heightened (+1)'' The damage increases by 1d12.
 </pre>
+</div>
+<div a-actions="1" created="20200729210051894" modified="20200729210152534" tags="Action Implied Concentrate" title="Change Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>//Implied by [[Shapechange]].//
+
+You can change your form to any other form you could choose with this spell by using a single action, which has the Concentrate trait. </pre>
 </div>
 <div a-actions="1" created="20200627183759154" modified="20200627183932454" tags="Action Concentrate Polymorph Transmutation" title="Change Shape" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The monster changes its shape indefinitely. 
@@ -20100,8 +20178,39 @@ The space holds up to eight Medium creatures and their gear. A Large creature co
 
 If the rope is detached or destroyed, or if a creature attempts to enter the space that would put it over its capacity, the space begins to unravel. It disappears in 1d4 rounds, depositing the creatures within safely on the ground below.</pre>
 </div>
-<div created="20200627195219806" modified="20200627195233698" tags="" title="SaveSuccessTable" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>|!Critical Success|{{!!s-crit}}|
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729194440664" m-area="30-foot [[Burst]] centered on you" m-components="Somatic Verbal Material" m-duration="24 hours" m-level="3" m-range="" m-save="" m-targets="" m-time="1 minute" mod-fortitude="Gives +1 status against named creatures." mod-reflex="Gives +1 status against named creatures." mod-will="Gives +1 status against named creatures." modified="20200729194656545" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Material Divine Abjuration Consecration" title="Sanctified Ground" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+''Cost'' 1 vial of [[Holy Water]].
+
+You sanctify the area, sprinkling it with holy water and warding it against your foes. 
+
+Choose &lt;&lt;tag Aberration&gt;&gt;s, &lt;&lt;tag Celestial&gt;&gt;s, &lt;&lt;tag Dragon&gt;&gt;s, &lt;&lt;tag Fiend&gt;&gt;s, &lt;&lt;tag Monitor&gt;&gt;s, or &lt;&lt;tag Undead&gt;&gt;. 
+
+All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729194724850" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="1" m-range="Touch" m-save="" m-targets="1 creature" m-time="" modified="20200729194935235" s-crit="Sanctuary ends." s-fail="The creature can’t attack the target and wastes the action. It can’t attempt further attacks against the target this turn." s-fumble="The creature wastes the action and can’t attempt to attack the target for the rest of sanctuary’s duration." s-hit="The creature can attempt its attack and any other attacks against the target this turn." tags="Spell Somatic Verbal Concentrate Manipulate Abjuration Divine Occult" title="Sanctuary" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You ward a creature with protective energy that deters enemy attacks. 
+
+Creatures attempting to attack the target must attempt a [[Will]] save each time. 
+
+If the target uses a [[Hostile Action]], the spell ends.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div created="20200627195219806" modified="20200729224225943" tags="" title="SaveSuccessTable" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;[all[current]tag[Incapacitation]tag[Spell]]&quot;&gt;
+&lt;p style=&quot;border: 1px solid black; padding:2px; background-color: tomato&quot;&gt;''Incapacitation effect: All targets of more than twice the spell level use the result one better than the save they rolled.''&lt;/p&gt;
+&lt;/$list&gt;
+&lt;$list filter=&quot;[all[current]tag[Incapacitation]!tag[Spell]]&quot;&gt;
+&lt;p style=&quot;border: 1px solid black; padding:2px; background-color: tomato&quot;&gt;''Incapacitation effect: All targets of higher level than the effect use the result one better than the save they rolled.''&lt;/p&gt;
+&lt;/$list&gt;
+
+
+|!Critical Success|{{!!s-crit}}|
 |!Success|{{!!s-hit}}|
 |!Failure|{{!!s-fail}}|
 |!Critical Failure|{{!!s-fumble}}|
@@ -20149,13 +20258,43 @@ If a creature emits a heavy aroma or is upwind, the GM can double or even triple
 \end
 </pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729195013625" m-area="20 foot [[Burst]]" m-components="Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 1 minute" m-level="8" m-range="120 feet" m-save="Will" m-targets="" m-time="" modified="20200729195233378" s-crit="" s-fail="The creature is [[Confused]] for 1d4 rounds." s-fumble="The creature is [[Stunned]] for 1d4 rounds. After the stunned condition ends, the creature is [[Confused]] for the remaining duration of the spell." s-hit="The creature is unaffected." tags="Spell Somatic Verbal Concentrate Manipulate Arcane Occult Illusion Incapacitation Visual" title="Scintillating Pattern" turn-etc="Must make a Will save if inside pattern." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+A field of cascading, ever-changing colors manifests in the air.
+
+Creatures are [[Dazzled]] while inside the pattern, as are those within 20 feet of the pattern’s area. 
+
+A creature must attempt a [[Will]] save if it is inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a [[Seek]] or [[Interact]] action on the pattern. 
+
+A creature currently affected by the pattern doesn’t need to attempt new saves.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
 <div created="20200718214231931" modified="20200718214309108" tags="Activity Exploration Concentrate" title="Scout" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You scout ahead and behind the group to watch danger, moving at half speed. 
 
 At the start of the next encounter, every creature in your party gains a +1 circumstance bonus to their [[Initiative]] rolls.</pre>
 </div>
-<div created="20200724233553125" modified="20200724233601293" title="Scrying" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>//Scrying effects allow the user to percieve another location.//</pre>
+<div created="20200724233553125" m-components="Material Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 10 minutes" m-level="6" m-range="Planetary" m-save="Will" m-targets="1 creature" m-time="10 minutes" modified="20200729195658607" s-crit="The spell fails and the target is temporarily immune for 1 week. The target also gains a glimpse of you and learns its rough distance and direction from you." s-fail="The spell succeeds." s-fumble="The spell succeeds, and the eye follows the target if it moves, traveling up to 60 feet per round." s-hit="The spell fails and the target is temporarily immune for 1 day." tags="Uncommon Divination Arcane Occult Material Somatic Verbal Spell Concentrate Manipulate Scrying" title="Scrying" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>//Scrying is also a spell tag. Scrying effects allow the user to percieve another location.//
+
+{{||SpellSummaryTable}}
+
+You magically spy on a creature of your choice. 
+
+Scrying works like [[Clairvoyance]], except that the image you receive is less precise, insufficient for [[Teleport]] and similar spells.
+
+Instead of creating an eye in a set location within 500 feet, you instead create an eye that manifests just above the target. 
+
+You can choose a target either by name or by touching one of its possessions or a piece of its body. 
+
+The effect of scrying depends on the target’s [[Will]] save.
+
+If you haven’t met the target in person, scrying’s DC is 2 lower, and if you are unaware of the target’s identity (perhaps because you found an unknown creature’s fang at a crime scene), the DC is instead 10 lower.
+
+{{||SaveSuccessTable}}</pre>
 </div>
 <div created="20200718214320008" modified="20200722211606071" tags="Activity Concentrate Exploration" title="Search" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You [[Seek]] meticulously for hidden doors, concealed hazards, and so on. 
@@ -20170,10 +20309,50 @@ You can always move more slowly while Searching to cover the area more thoroughl
 
 If you come across a secret door, item, or hazard while Searching, the GM will attempt a free secret check to Seek to see if you notice the hidden object or hazard. You roll a secret Perception check for a Searching character to detect any secrets they pass that’s in a place that stands out (such as near a door or a turn in a corridor), but not one that’s in a more inconspicuous place (like a random point in a long hallway) unless they are searching particularly slowly and meticulously.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729201456704" m-area="" m-components="Somatic Verbal" m-duration="" m-level="3" m-range="120 feet" m-save="" m-targets="1 creature" m-time="" modified="20200729201718946" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Attack Evocation Fire Good Light Divine Primal" title="Searing Light" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shoot a blazing ray of light tinged with holy energy. 
+
+Make a ranged spell attack. 
+
+The ray deals 5d6 &lt;&lt;tag Fire&gt;&gt;damage. If the target is a &lt;&lt;tag Fiend&gt;&gt;or &lt;&lt;tag Undead&gt;&gt;, you deal an extra 5d6 &lt;&lt;tag Good&gt;&gt;damage.
+
+On a critical hit, the target takes double fire damage, as well as double good damage if a fiend or undead.
+
+If the light passes through an area of magical darkness or targets a creature affected by magical darkness, searing light attempts to [[Counteract]] the darkness. 
+
+If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell’s target.
+
+''Heightened (+1)'' The fire damage increases by 2d6, and the good damage against fiends and undead increases by 2d6.
+</pre>
+</div>
 <div created="20200723214112456" feat-class="Barbarian" feat-level="2" mod-rage="You can Rage in quick succession but become fatigued." modified="20200723214247189" tags="Barbarian Class Feat" title="Second Wind" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can enter a second rage, but afterward you need to catch your breath. 
 
 You can [[Rage]] without waiting for 1 minute after the previous Rage (or 1 round, with [[Quick Rage]]), but when you end this second Rage, you’re [[Fatigued]] until you rest for 10 minutes.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729201727730" m-area="" m-components="Somatic Verbal Material" m-duration="Unlimited" m-level="3" m-range="Touch" m-save="" m-targets="1 page up to 3 square feet in size" m-time="1 minute" modified="20200729201843543" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Arcane Occult Illusion Visual Material" title="Secret Page" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You change the target’s text to different text entirely. 
+
+If the text is a spellbook or a scroll, you can change it to show a spell you know of secret page’s level or lower. The replacement spell cannot be cast or used to prepare a spell. 
+
+You can also transform the text into some other text you have written or have access to. 
+
+You can specify a password that allows a creature touching the page to change the text back and forth. 
+
+You must choose the replacement text and the password, if any, when you Cast the Spell.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729203158607" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="2" m-range="" m-save="" m-targets="" m-time="" mod-invisible="Makes invisible things only Concealed." modified="20200729203519508" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Divination Revelation Arcane Divine Occult" title="See Invisibility" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You can see [[Invisible]] creatures and objects. 
+
+They appear to you as translucent shapes, and they are [[Concealed]] to you.
+
+''Heightened (5th)'' The spell has a duration of 8 hours.</pre>
 </div>
 <div a-actions="1" a-crit="If you were searching for creatures, any [[Undetected]] or hidden creature you critically succeeded against becomes observed by you. If you were searching for an object, you learn its location." a-hit="If you were searching for creatures, any undetected creature you succeeded against becomes hidden from you instead of undetected, and any hidden creature you succeeded against becomes observed by you. If you were searching for an object, you learn its location or get a clue to its whereabouts, as determined by the GM." created="20200626205057507" modified="20200723211252107" tags="Action Concentrate Secret" title="Seek" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You scan an area for signs of creatures or objects. 
@@ -20190,6 +20369,11 @@ A creature you detect might remain [[Hidden]], rather than becoming [[Observed]]
 
 {{||ActionSuccessTable}}
 </pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729203532316" m-area="" m-components="Somatic Verbal Material" m-duration="" m-level="5" m-range="Planetary" m-save="" m-targets="1 creature with whom you are familiar" m-time="" modified="20200729203613949" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Divination Mental Arcane Divine Occult Material" title="Sending" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You send the creature a mental message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer.</pre>
 </div>
 <div a-crit="You get an excellent sense of where you are. If you are in an environment with cardinal directions, you know them exactly." a-hit="You gain enough orientation to avoid becoming hopelessly lost. If you are in an environment with cardinal directions, you have a sense of those directions." a-skill="Survival" a-tool="Compass" created="20200706230049158" modified="20200725145056164" modified-by="Survival" tags="Action Exploration Secret Untrained" title="Sense Direction" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. 
@@ -20215,6 +20399,50 @@ You typically can’t try to Sense the Motive of the same creature again until t
 
 {{||ActionSuccessTable}}</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729204103212" m-area="Varies" m-components="Somatic Verbal" m-duration="" m-level="5" m-range="Varies" m-save="Reflex Will" m-targets="" m-time="" modified="20200729204323096" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Divine Occult Evocation Shadow" title="Shadow Blast" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shape the quasi-real substance of the Shadow Plane into a blast. 
+
+Choose &lt;&lt;tag Acid&gt;&gt;, &lt;&lt;tag Bludgeoning&gt;&gt;, &lt;&lt;tag Cold&gt;&gt;, &lt;&lt;tag Electricity&gt;&gt;, &lt;&lt;tag Fire&gt;&gt;, &lt;&lt;tag Force&gt;&gt;, &lt;&lt;tag Piercing&gt;&gt;, &lt;&lt;tag Slashing&gt;&gt;, or &lt;&lt;tag Sonic&gt;&gt; damage, and choose a 30-foot [[Cone]], a 15-foot [[Burst]] within 120 feet, or a 50-foot [[Line]]. 
+
+The blast deals 5d8 damage of the type you chose to each creature in the area. //They attempt their choice of a [[Reflex]] or [[Will]] save.//
+
+''Heightened (+1)'' The damage increases by 1d8.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729205043176" m-area="" m-components="Verbal" m-duration="" m-level="5" m-range="60 feet" m-save="" m-targets="The triggering spell" m-time="" modified="20200729205225108" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Verbal Concentrate Illusion Shadow Arcane Occult Reaction" title="Shadow Siphon" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+''Trigger'' A spell or magical effect deals damage.
+
+Exchanging material energy with that of the Shadow Plane, you transform the triggering spell into a partially illusory version of itself. 
+
+Attempt to [[Counteract]] the target spell. Treat shadow siphon’s counteract level as 2 higher for this attempt.
+
+If the attempt is successful, any creatures that would be damaged by the spell instead take only half as much damage. but the spell otherwise works as normal. 
+
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729205329925" m-area="" m-components="Somatic Verbal Material" m-duration="8 hours" m-level="5" m-range="Touch" m-save="" m-targets="You and up to 9 [[Willing]] creatures touched" m-time="" modified="20200729205453361" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Shadow Teleportation Material Arcane Occult" title="Shadow Walk" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You access the Shadow Plane, using its warped nature to spread your travels. 
+
+The targets enter the edge of the Shadow Plane where it borders the Material Plane. 
+
+Targets can’t see the Material Plane while on the Shadow Plane (although elements of that plane can sometimes be a hazy reflection of the Material Plane). 
+
+While on the Shadow Plane, the targets are exposed to potential encounters with that plane’s
+denizens. 
+
+The shadows on the border between the planes bend space, speeding up your movement with respect to the Material Plane. 
+
+Every 3 minutes the targets travel along this border, they move as far as they would through the Material Plane in 1 hour. 
+
+At any point, a target can [[Dismiss]] the spell’s effects, although this affects only that target. 
+
+The shadow bending is inexact, so when the spell ends, the targets appear roughly 1 mile from their intended location on the Material Plane (though those who are traveling together and Dismiss the spell at the same point on the Plane of Shadow appear together).</pre>
+</div>
 <div a-actions="1" created="20200723214338088" feat-class="Barbarian" feat-level="2" modified="20200723214707644" modified-by="Fortitude" tags="Barbarian Class Feat Concentrate Rage Action" title="Shake It Off" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You concentrate on your rage, overcoming fear and fighting back sickness. 
 
@@ -20229,6 +20457,39 @@ When you [[Request]] something, you reduce any DC increases for making an outrag
 
 While this means you can never cause your target to reduce their attitude toward you by making a Request, they eventually tire of requests, even though they still have a positive attitude toward you.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729205535452" m-area="" m-components="Somatic Verbal" m-duration="" m-level="4" m-range="Touch" m-save="Reflex" m-targets="Cube of stone 10 feet across or smaller" m-time="" modified="20200729205700114" s-crit="" s-fail="The creature falls [[Prone]] atop the stone." s-fumble="The creature falls off the stone (if applicable) and lands prone." s-hit="The creature is unaffected." tags="Spell Somatic Verbal Concentrate Manipulate Earth Transmutation Arcane Primal" title="Shape Stone" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shape the stone into a rough shape of your choice. The shaping process is too crude to produce intricate parts, fine details, moving pieces, or the like. 
+
+Any creatures standing atop the stone when you reshape it must each attempt a [[Reflex]] save or [[Acrobatics]] check.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729205714590" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="Touch" m-save="" m-targets="An unworked piece of wood up to 20 cubic feet in volume" m-time="" modified="20200729205850657" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Plant Transmutation Primal" title="Shape Wood" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shape the wood into a rough shape of your choice. The shaping power is too crude to produce with intricate parts, fine details, moving pieces, or the like. 
+
+You cannot use this spell to enhance the value of the wooden object you are shaping.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729205857134" m-area="" m-components="Somatic Verbal" m-duration="1 mutation" m-level="9" m-range="" m-save="" m-targets="" m-time="" modified="20200729210047189" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Primal" title="Shapechange" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Harnessing your mastery of transformative magic, you take on a mutable form. 
+
+You transform yourself into any form you could choose with a &lt;&lt;tag Polymorph&gt;&gt; spell in your spell repertoire or that you could prepare of 8th level or lower (including any 8th-level or lower heightened versions of spells you know). 
+
+You choose the type of creature as you Cast the Spell rather than when you prepare it. //(This seems to be redundant as you do this for every polymorph spell.)//
+
+You can change your form to any other form you could choose with this spell by using a single action, which has the &lt;&lt;tag Concentrate&gt;&gt; trait. 
+
+You can [[Dismiss]] this spell.
+
+</pre>
+</div>
 <div a-actions="1" created="20200725165038901" feat-class="Barbarian" feat-level="8" modified="20200725165132678" tags="Barbarian Class Feat Action Rage Auditory Visual" title="Share Rage" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Requirements'' You haven’t used this ability since you last Raged.
 
@@ -20236,7 +20497,41 @@ You stoke an ally’s fury.
 
 While you are raging, one willing creature within 30 feet gains the effects of the [[Rage]] action, except it can still use &lt;&lt;tag Concentrate&gt;&gt;actions.</pre>
 </div>
-<div created="20200627201034388" feat-level="1" modified="20200726004957433" tags="Action Reaction Feat General" title="Shield Block" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729210316536" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="30 feet" m-save="" m-targets="1 unattended object" m-time="" modified="20200729210406559" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Evocation Sonic Occult Primal" title="Shatter" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+A high-frequency sonic attack shatters a nearby object. 
+
+You deal 2d10 &lt;&lt;tag Sonic&gt;&gt; damage to the object, ignoring the object’s Hardness if it is 4 or lower.
+
+''Heightened (+1)'' The damage increases by 1d10, and the Hardness the spell ignores increases by 2.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729210422252" m-area="" m-components="Somatic Verbal" m-duration="Until the start of your next turn" m-level="1" m-range="" m-save="" m-targets="" m-time="" mod-shield_block="Spell-created shield can apply hardness against Magic Missile (specifically)." modified="20200729211131250" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Verbal Concentrate Arcane Divine Occult Abjuration Cantrip Force" title="Shield" turn-sun="Shield spell expires." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You raise a magical shield of force. 
+
+This counts as using the [[Raise a Shield]] action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn’t require a hand to use.
+
+While the spell is in effect, you can use the [[Shield Block]] reaction with your magic shield. 
+
+The shield has Hardness 5. 
+
+After you use Shield Block, the spell ends and you can’t cast it again for 10 minutes. 
+
+Unlike a normal Shield Block, you can use the spell’s reaction against the [[Magic Missile]] spell. //(Which you couldn't normally because it only works against physical damage.)//
+
+Heightening the spell increases the shield’s Hardness.
+
+| !Heighten Level | !Hardness |
+| 1 | 5 |
+| 3 | 10 |
+| 5 | 15 |
+| 7 | 20 |
+| 9 | 25 |
+</pre>
+</div>
+<div created="20200627201034388" feat-level="1" modified="20200729210935908" tags="Action Reaction Feat General" title="Shield Block" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Trigger'' The user has their shield raised and takes damage from a physical attack. 
 
 The user snaps their shield into place to deflect a blow. 
@@ -20244,6 +20539,44 @@ The user snaps their shield into place to deflect a blow.
 The shield prevents the user from taking an amount of damage up to the shield’s [[Hardness]]. 
 
 The user and the shield each take any remaining damage, possibly breaking or destroying the shield.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729211715096" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="2" m-range="30 feet" m-save="" m-targets="1 creature" m-time="" modified="20200729211806468" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Necromancy Divine" title="Shield Other" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You forge a temporary link between the target’s life essence and your own. 
+
+The target takes half damage from all effects that deal Hit Point damage, and you take the remainder of the damage. 
+
+When you take damage through this link, you don’t apply any resistances, weaknesses, or other abilities you have to that damage; you simply take that amount of damage. 
+
+The spell ends if the target is ever more than 30 feet away from you. 
+
+If either you or the target is reduced to 0 Hit Points, any damage from this spell is resolved and then the spell ends.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729212809154" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="1" m-range="Touch" m-save="" m-targets="1 non-magical [[Club]] or [[Staff]] you hold" m-time="" modified="20200729212917977" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Plant Transmutation Primal" title="Shillelagh" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+The target grows vines and leaves, brimming with primal energy. 
+
+The target becomes a +1 [[Striking]] weapon while in your hands, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two. 
+
+Additionally, as long as you are on your home plane, attacks you make with the target against &lt;&lt;tag Aberration&gt;&gt;s, extraplanar creatures, and &lt;tag Undead&gt;&gt; increase the number of weapon damage dice to three.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729213705697" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="Reach" m-save="" m-targets="1 creature" m-time="" modified="20200729213816121" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Attack Electricity Evocation Arcane Primal" title="Shocking Grasp" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shroud your hands in a crackling field of lightning. 
+
+Make a melee spell attack roll. 
+
+On a hit, the target takes 2d12 electricity damage. 
+
+If the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your attack roll with shocking grasp, and the target also takes 1d4 [[persistent|Persistent Damage]] electricity damage on a hit. 
+
+On a critical hit, double the initial damage, but not the persistent damage.
+
+''Heightened (+1)'' The damage increases by 1d12, and the persistent electricity damage increases by 1.
+</pre>
 </div>
 <div created="20200706233125436" modified="20200706233146160" tags="Rule" title="Shoddy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Improvised or of dubious make, shoddy items are never available for purchase except for in the most desperate of communities. 
@@ -20274,6 +20607,32 @@ This uses the weapon’s reach (if different from your own) and adds the weapon�
 If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 </pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729213833414" m-area="" m-components="Somatic Verbal" m-duration="5 minutes" m-level="2" m-range="30 feet" m-save="" m-targets="1 [[Willing]] creature" m-time="" modified="20200729213941976" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Primal" title="Shrink" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You warp space to make a creature smaller. 
+
+The target shrinks to become Tiny in size. 
+
+Its equipment shrinks with it but returns to its original size if removed. 
+
+The creature’s reach changes to 0 feet. 
+
+This spell has no effect on a Tiny creature.
+
+''Heightened (6th)'' The spell can target up to 10 creatures.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729222921347" m-area="" m-components="Somatic Verbal" m-duration="1 day" m-level="3" m-range="Touch" m-save="" m-targets="1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk" m-time="10 minutes" modified="20200729223130545" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane" title="Shrink Item" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You shrink the target to roughly the size of a coin. This reduces it to negligible Bulk. 
+
+You can [[Dismiss]] the spell, and the spell ends if you toss the object onto a solid surface. 
+
+The object can’t be used to attack or cause damage during the process of it returning to normal size. 
+
+If there isn’t room for the object to return to normal size when the spell ends, the spell’s duration continues until the object is in a location large enough to accommodate its normal size.</pre>
+</div>
 <div created="20200626202102225" mod-charisma="Reduces Charisma by the condition value." mod-constitution="Reduces Constitution by the condition value." mod-dexterity="Reduces Dexterity by the condition value." mod-intelligence="Reduces Intelligence by the condition value." mod-strength="Reduces Strength by the condition value." mod-wisdom="Reduces Wisdom by the condition value." modified="20200720213832015" tags="Condition" title="Sickened" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You feel ill. 
 
@@ -20282,6 +20641,24 @@ Sickened always includes a value. You take a status penalty equal to this value 
 You can’t willingly ingest anything—including elixirs and potions—while sickened.
 
 You can spend a single action retching in an attempt to recover, which lets you immediately attempt a [[Fortitude]] save against the DC of the effect that made you sickened. On a success, you reduce your sickened value by 1 (or by 2 on a critical success).</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729223055447" m-area="" m-components="Somatic Verbal" m-duration="Varies" m-level="1" m-range="[[Touch]]" m-save="" m-targets="1 creature or object" m-time="" modified="20200729223254630" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Cantrip Transmutation Arcane Divine Occult Primal" title="Sigil" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You harmlessly place your unique magical sigil, which is about 1 square inch in size, on the targeted creature or object. 
+
+The mark can be visible or invisible, and you can change it from one state to another by using an [[Interact]] action to touch the target. 
+
+The mark can be scrubbed or scraped off with 5 minutes of work. If it’s on a creature, it fades 
+naturally over the course of a week. The time before the mark fades increases depending on your heightened level.
+
+| !Heighten Level | !Fade Time |
+| 1 | 1 week |
+| 3 | 1 month |
+| 5 | 1 year |
+| 7 | Unlimited |
+
+</pre>
 </div>
 <div created="20200702150512147" feat-level="1" feat-skill="Society" feat-spre="T" modified="20200702150604333" tags="General Skill Feat" title="Sign Language" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Society]].
@@ -20293,6 +20670,17 @@ Sign languages typically require both hands to convey more complex concepts, and
 Sign language is difficult to understand during combat due to the level of attention needed, unlike basic gestures like pointing at a foe to suggest a target. 
 
 Sign language is hard to use in areas of low visibility, just like speech is difficult in a noisy environment.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729223322712" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="2" m-range="[[Touch]]" m-save="" m-targets="1 [[Willing]] creature" m-time="" modified="20200729223457559" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Illusion Divine Occult" title="Silence" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+The target makes no sound, preventing creatures from noticing it using hearing or other senses alone. 
+
+The target can’t use &lt;&lt;tag Sonic&gt;&gt;attacks, nor can it use actions with the &lt;&lt;tag Auditory&gt;&gt;trait. 
+
+This prevents it from casting spells that include &lt;&lt;tag Verbal&gt;&gt;components.
+
+''Heightened (4th)'' The spell effect emanates from the touched creature, silencing all sound in or passing through a 10-foot radius and preventing any auditory and sonic effects in the affected area. While within the radius, creatures are subject to the same effects as the target. Depending upon the position of the effect, a creature might notice the lack of sound reaching it (blocking off the noise coming from a party, for example).</pre>
 </div>
 <div created="20200630150103358" modified="20200702143148805" title="Skill" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The following are skills and their governing abilities:
@@ -20354,12 +20742,37 @@ M:Master
 L:Legendary
 </pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729223510847" m-area="5 foot [[Burst]]" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="30 feet" m-save="Will" m-targets="" m-time="" modified="20200729224118744" s-crit="The creature is unaffected." s-fail="The creature falls [[Unconscious]]. If it’s still unconscious after 1 minute, it wakes up automatically." s-fumble="The creature falls unconscious. If it’s still unconscious after 1 hour, it wakes up automatically." s-hit="The creature takes a –1 status penalty to [[Perception]] checks for 1 round." tags="Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Mental Sleep Arcane Occult" title="Sleep" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Each creature in the area becomes drowsy and might fall asleep. 
+
+A creature that falls [[Unconscious]] from this spell doesn’t fall [[Prone]] or release what it’s holding. 
+
+This spell  doesn’t prevent creatures from waking up due to a successful [[Perception]] check, limiting its utility in combat.
+
+{{||SaveSuccessTable}}
+
+''Heightened (4th)'' The creatures fall unconscious for 1 round on a failure or 1 minute on a critical failure. They fall prone and release what they’re holding, and they can’t attempt Perception checks to wake up. When the duration ends, the creature is sleeping normally instead of automatically waking up.</pre>
+</div>
 <div created="20200702150751859" feat-level="7" feat-skill="Deception" feat-spre="M" mod-revelation="Can allow Deception check to prevent effect." modified="20200725141333488" tags="Feat General Skill" title="Slippery Secrets" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Master in [[Deception]].
 
 You elude and evade attempts to uncover your true nature or intentions. 
 
 When a spell or magical effect tries to read your mind, detect whether you are lying, or reveal your alignment, you can attempt a Deception check against the spell or effect’s DC. If you succeed, the effect reveals nothing.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729224412699" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="3" m-range="30 feet" m-save="Fortitude" m-targets="1 creature" m-time="" modified="20200729224610243" s-crit="The target is unaffected." s-fail="The target is [[Slowed]] 1 for 1 minute." s-fumble="The target is [[Slowed]] 2 for 1 minute." s-hit="The target is [[Slowed]] 1 for 1 round." tags="Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Occult Primal" title="Slow" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You dilate the flow of time around the target, slowing its actions.
+
+//They make a [[Fortitude]] save.//
+
+{{||SaveSuccessTable}}
+
+''Heightened (6th)'' You can target up to 10 creatures.
+</pre>
 </div>
 <div created="20200626202204722" modified="20200626202427143" tags="Condition" title="Slowed" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You have fewer actions. 
@@ -20426,7 +20839,17 @@ You understand the people and systems that make civilization run, and you know t
 
 </pre>
 </div>
-<div created="20200627220420875" modified="20200627220945206" title="Somatic" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729224545648" m-area="20 foot [[Burst]]" m-components="Somatic Verbal Material" m-duration="1 minute" m-level="4" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200729224711034" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Conjuration Water Material Arcane Primal" title="Solid Fog" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You conjure a bank of fog so thick it impedes movement as well as sight. 
+
+This functions as [[Obscuring Mist]] except that the area is also [[Difficult Terrain]]. 
+
+You can [[Dismiss]] the spell.
+</pre>
+</div>
+<div created="20200627220420875" modified="20200729225840325" title="Somatic" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A somatic component is a specific hand movement or gesture that generates a magical nexus. 
 
 The spell gains the [[Manipulate]] trait and requires you to make gestures. 
@@ -20436,6 +20859,45 @@ You can use this component while holding something in your hand, but not if you 
 Spells that require you to touch the target require a somatic component. You can do so while holding something as long as part of your hand is able to touch the target (even if it’s through a glove or gauntlet).
 
 {{BardConSub}}</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729224737848" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="1" m-range="30 feet" m-save="" m-targets="1 [[Willing]] living creature" m-time="" mod-fortitude="Gives +2 status vs Mental." mod-reflex="Gives +2 status vs Mental." mod-will="Gives +2 status vs Mental." modified="20200729224920684" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Healing Mental Occult" title="Soothe" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You grace the target’s mind, boosting its mental defenses and healing its wounds. 
+
+The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against &lt;&lt;tag Mental&gt;&gt;effects for the duration.
+
+''Heightened (+1)'' The amount of healing increases by 1d10+4.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729225036330" m-area="10 foot [[Burst]]" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="30 feet" m-save="Fortitude" m-targets="" m-time="" modified="20200729225227942" s-crit="The creature is unaffected." s-fail="The creature takes full damage and is [[Deafened]] for 1 round." s-fumble="The creature takes double damage and is [[Deafened]] and [[Stunned]] 1 for 1 minute." s-hit="The creature takes half damage." tags="Spell Somatic Verbal Concentrate Manipulate Divine Occult Evocation Sonic" title="Sound Burst" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+A cacophonous noise blasts out, dealing 2d10 &lt;&lt;tag Sonic&gt;&gt; damage.
+
+Each creature must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+
+''Heightened (+1)'' The damage increases by 1d10.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729225238782" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="2" m-range="" m-save="" m-targets="" m-time="" modified="20200729225321159" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Divination Primal" title="Speak With Animals" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You can ask questions of, receive answers from, and use the [[Diplomacy]] skill with animals. 
+
+The spell doesn’t make them more friendly than normal. 
+
+Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729225336572" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="4" m-range="" m-save="" m-targets="" m-time="" modified="20200729225426391" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Divination Plant Primal" title="Speak With Plants" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You can ask questions of and receive answers from plants, but the spell doesn’t make them more friendly or intelligent than normal. 
+
+Most normal plants have a distinctive view of the world around them, so they don’t recognize details about creatures or know anything about the world beyond their immediate vicinity.
+
+Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</pre>
 </div>
 <div created="20200702151014828" feat-level="1" mod-craft="Gives +1/+2 circumstance to craft your specialty." modified="20200726003104237" tags="Feat General Skill" title="Specialty Crafting" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Crafting]].
@@ -20464,6 +20926,20 @@ Some specialties might apply only partially. For example, if you were making a m
 
 </pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729225438894" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="2" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200729225602228" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Necromancy Arcane Occult" title="Spectral Hand" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You create a semicorporeal hand out of your essence that delivers [[Touch]] spells for you. 
+
+Whenever you [[Cast a Spell]] with a range of touch, you can have the hand crawl to a target within range along the ground, touch it, and then crawl back to you. //(This does not mean that the hand takes the [[Crawl]] action.)//
+
+When making a melee spell attack with the hand, you use your normal bonuses. 
+
+The hand can move as far as it needs to within range. 
+
+The hand has your AC and saves, but any damage to the hand destroys it and causes you to take 1d6 damage.
+</pre>
+</div>
 <div created="20200711182127298" modified="20200711182213593" splat-class="Wizard" tags="Splat" title="Spell Blending" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you’ve found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells.
 
@@ -20474,6 +20950,19 @@ You can exchange as many spell slots as you have available.
 Bonus spell slots must be of a level you can normally cast, and each bonus spell slot must be of a different spell level. 
 
 You can also trade any spell slot for two additional cantrips, though you cannot trade more than one spell slot at a time for additional cantrips in this way.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200729225621952" m-area="" m-components="Somatic Verbal" m-duration="24 hours" m-level="4" m-range="[[Touch]]" m-save="" m-targets="1 creature" m-time="" modified="20200729225751059" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Divine Occult" title="Spell Immunity" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You ward a creature against the effects of a single spell. 
+
+Choose a spell and name it aloud as part of the verbal component. 
+
+Spell immunity attempts to [[Counteract]] that spell whenever spell immunity’s target is the target of the named spell or in that spell’s area. 
+
+Successfully counteracting a spell that targets an area or multiple targets with spell immunity negates the effects only for the target affected by spell immunity.
+
+//Note that the target does not have to be willing, so you could name a healing spell.//</pre>
 </div>
 <div created="20200711182230584" modified="20200711182258102" splat-class="Wizard" tags="Splat" title="Spell Substitution" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You don’t accept the fact that once spells are prepared, they can’t be changed until your next daily preparation, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared.
@@ -21089,6 +21578,15 @@ While tapping into the target's senses, you can't use your own body's senses, bu
 </div>
 <div created="20200720202714637" modified="20200720202716240" title="TorchLight" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A torch sheds bright light in a 20-foot radius (and [[Dim Light]] to the next 20 feet).</pre>
+</div>
+<div created="20200729214033422" modified="20200729214111892" tags="Rule" title="Touch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>A spell with a range of touch requires you to physically touch the target. 
+
+You use your unarmed reach to determine whether you can touch the creature. 
+
+You can usually touch the target automatically, though the spell might specify that the target can attempt a saving throw or that you must attempt a spell attack roll. 
+
+If an ability increases the range of a touch spell, start at 0 feet and increase from there.</pre>
 </div>
 <div created="20200702193837737" feat-level="1" modified="20200702194043878" tags="Feat General" title="Toughness" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can withstand more punishment than most before succumbing. 

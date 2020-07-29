@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729225336572
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200729225426391
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Plant Primal
+title: Speak With Plants
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You can ask questions of and receive answers from plants, but the spell doesn’t make them more friendly or intelligent than normal. 
+
+Most normal plants have a distinctive view of the world around them, so they don’t recognize details about creatures or know anything about the world beyond their immediate vicinity.
+
+Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.

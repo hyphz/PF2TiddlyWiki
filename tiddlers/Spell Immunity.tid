@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200729225621952
+m-area: 
+m-components: Somatic Verbal
+m-duration: 24 hours
+m-level: 4
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200729225751059
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Divine Occult
+title: Spell Immunity
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You ward a creature against the effects of a single spell. 
+
+Choose a spell and name it aloud as part of the verbal component. 
+
+Spell immunity attempts to [[Counteract]] that spell whenever spell immunity’s target is the target of the named spell or in that spell’s area. 
+
+Successfully counteracting a spell that targets an area or multiple targets with spell immunity negates the effects only for the target affected by spell immunity.
+
+//Note that the target does not have to be willing, so you could name a healing spell.//
