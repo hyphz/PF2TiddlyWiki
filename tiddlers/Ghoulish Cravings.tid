@@ -12,12 +12,12 @@ m-range: Touch
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200725140054429
+modified: 20200730195848073
 s-crit: The target is unaffected.
 s-fail: The target is afflicted with Ghoul Fever at stage 2.
 s-fumble: The target is afflicted with Ghoul Fever at stage 3.
 s-hit: The target is afflicted with Ghoul Fever at stage 1.
-tags: Attack Disease Evil Necromancy Spell Divine Occult Somatic Verbal Concentrate Manipulate
+tags: Disease Evil Necromancy Spell Divine Occult Somatic Verbal Concentrate Manipulate
 title: Ghoulish Cravings
 type: text/vnd.tiddlywiki
 

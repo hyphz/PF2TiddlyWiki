@@ -1,0 +1,17 @@
+created: 20200730194043716
+mod-advanced_alchemy: At level 5, reageants can make any three bombs.
+modified: 20200730195127835
+splat-class: Alchemist
+tags: Splat Alchemist
+title: Bomber
+type: text/vnd.tiddlywiki
+
+You specialize in explosions and other violent alchemical reactions. 
+
+''Level 1'': You start with the formulas for two 1st-level alchemical bombs in your formula book, in addition to your other formulas. 
+
+''Level 1'': When throwing an alchemical bomb with the <<tag Splash>> trait, you can deal splash damage to only your primary target instead of the usual splash area.
+
+''Level 5'': When using advanced alchemy to make bombs during your daily preparations, you can use a batch of reagents to create any three bombs instead of just two of the same bomb.
+
+''Level 13'': You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have Expanded Splash.

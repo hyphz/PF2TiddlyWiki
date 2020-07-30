@@ -12,7 +12,7 @@ m-range: Range
 m-save: Fortitude
 m-targets: 1 living creature or 1 willing undead creature
 m-time: 
-modified: 20200725152318391
+modified: 20200730200148183
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -35,6 +35,6 @@ The number of actions you spend when Casting this Spell determines its targets, 
 
 {{TwoAction}} (verbal, somatic) The spell has a range of 30 feet. If you’re healing an undead creature, increase the Hit Points restored by 8.
 
-{{ThreeAction}} (material, verbal, somatic) You disperse positive energy in a 30-foot [[Emanation]]. This targets all living and undead creatures in the area.
+{{ThreeAction}} (material, verbal, somatic) You disperse __negative__ energy in a 30-foot [[Emanation]]. This targets all living and undead creatures in the area.
 
 Heightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2 action version increases by 8.

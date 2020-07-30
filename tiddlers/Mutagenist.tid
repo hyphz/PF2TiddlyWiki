@@ -1,0 +1,18 @@
+created: 20200730194822915
+mod-advanced_alchemy: Create any 3 mutagens per batch of reagents.
+mod-polymorph: Can stack 2 polymorph effects from mutagens.
+modified: 20200730195106562
+splat-class: Alchemist
+tags: Alchemist Splat
+title: Mutagenist
+type: text/vnd.tiddlywiki
+
+You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen another.
+
+''Level 1'': You start with the formulas for two 1st-level mutagens in your formula book, in addition to your other formulas.
+
+''Level 1'': __You gain [[Mutagenic Flashback]].__
+
+''Level 5'': When using [[Advanced Alchemy]] to make mutagens during your daily preparations, you can use a batch of reagents to create any three mutagens instead of just two of the same mutagen.
+
+''Level 13'': If you imbibe another mutagen while you are under the effects of a mutagen that you created, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the <<tag Polymorph>> trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both.

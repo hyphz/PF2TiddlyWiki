@@ -10,9 +10,9 @@ m-duration: 1 minute
 m-level: 1
 m-range: Touch
 m-save: 
-m-targets: 1 willing ally
+m-targets: 1 willing __creature__
 m-time: 
-modified: 20200726233217066
+modified: 20200730200403692
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -23,8 +23,8 @@ type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
 
-Choose one of the target’s unarmed attacks that deal one damage die. 
+Choose one of the target’s unarmed attacks. 
 
 You cause that unarmed attack to shine with primal energy. 
 
-The unarmed attack becomes a +1 [[Striking]] unarmed attack, gaining a +1 item bonus to attack rolls and increasing the number of damage dice to two.
+The unarmed attack becomes a +1 [[Striking]] unarmed attack, gaining a +1 item bonus to attack rolls and increasing the number of damage dice to two __if it only had one__.

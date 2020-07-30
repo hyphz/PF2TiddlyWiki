@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730191911306
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 6
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200730192020506
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Force Necromancy Divine Occult
+title: Spirit Blast
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You concentrate ethereal energy and attack a creature’s spirit, dealing 16d6 force damage //with a basic [[Fortitude]] save.// 
+
+Because spirit blast affects the creature’s spirit, it can damage a target projecting its consciousness (such as via [[Project Image]]) or possessing another creature even if the target’s body is elsewhere. 
+
+The possessed creature isn’t harmed by the blast. 
+
+The blast doesn’t harm creatures that have no spirit, such as <<tag Construct>>s.
+
+''Heightened (+1)'' The damage increases by 2d6.

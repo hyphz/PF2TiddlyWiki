@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730192242466
+m-area: 60 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 8
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200730192437588
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Force Necromancy Occult
+title: Spirit Song
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your eldritch song sends pulsing waves of ethereal energy to attack creatures’ spirits in the area, dealing 18d6 <<tag Force>>damage //with a basic [[Fortitude]] save.//
+
+Because spirit song affects creatures’ spirits, it can damage a target projecting its consciousness (such as via [[Project Image]]) or possessing another creature even if the target’s body is elsewhere. 
+
+The vibrating waves of spiritual song penetrate into, but not through, solid barriers, damaging incorporeal creatures hiding in solid objects in the area but not passing onward to damage creatures in other rooms.
+
+Possessed creatures aren’t harmed by the song. 
+
+The song doesn’t harm creatures that have no spirit, such as <<tag Construct>>s.
+
+''Heightened (+1)'' The damage increases by 2d6.

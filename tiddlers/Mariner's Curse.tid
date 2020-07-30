@@ -13,12 +13,12 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-sickened: Can prevent recovering from sickened while curse persists.
-modified: 20200726234319115
+modified: 20200730195906819
 s-crit: The target is unaffected.
 s-fail: The target becomes [[Sickened]] 1 and can't reduce its [[Sickened]] condition below 1 while the curse remains. The curse can be lifted by [[Remove Curse]] or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also [[Slowed]] 1.
 s-fumble: As failure, but the target becomes [[Sickened]] 2.
 s-hit: The target becomes [[Sickened]] 1. Reducing its sickened condition to 0 ends the curse.
-tags: Spell Attack Curse Necromancy Arcane Occult Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Curse Necromancy Arcane Occult Primal Somatic Verbal Concentrate Manipulate
 title: Mariner's Curse
 type: text/vnd.tiddlywiki
 

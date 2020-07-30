@@ -4,7 +4,7 @@ feat-level: 1
 feat-skill: Medicine
 feat-spre: T
 mod-treat_wounds: Can use this as a combat action 1/day.
-modified: 20200725235347093
+modified: 20200730195555244
 tags: Feat General Healing Manipulate Skill Action
 title: Battle Medicine
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ type: text/vnd.tiddlywiki
 
 You can patch up yourself or an adjacent ally, even in combat.
 
-Attempt a Medicine check with the same DC as for [[Treat Wounds]] and provide the corresponding amount of healing.
+Attempt a Medicine check with the same DC as for [[Treat Wounds]] and __restore a corresponding amount of Hit Points; this does not remove the [[Wounded]] condition.__
 
 As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. 
 

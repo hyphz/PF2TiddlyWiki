@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730193902005
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 day
+m-level: 
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 [[Willing]] living creature
+m-time: 
+modified: 20200730193951548
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Divine Occult Primal
+title: Status
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+As long as you and the target are on the same plane of existence and both alive, you remain aware of its present state. 
+
+You know the target’s direction from you, distance from you, and any <<tag Condition>>s affecting it.
+
+''Heightened (4th)'' The spell’s range increases to 30 feet, and you can target up to 10 creatures.

@@ -157,6 +157,8 @@ Error message and password prompt
 
 <li>$:/isEncrypted</li>
 
+<li>$:/palette</li>
+
 <li>$:/plugins/tiddlywiki/highlight</li>
 
 <li>$:/SiteTitle</li>
@@ -167,9 +169,13 @@ Error message and password prompt
 
 <li>$:/tags/ViewTemplate</li>
 
+<li>$:/theme</li>
+
 <li>$:/themes/tiddlywiki/snowwhite</li>
 
 <li>$:/themes/tiddlywiki/vanilla</li>
+
+<li>$:/view</li>
 
 <li>A Home in Every Port</li>
 
@@ -385,6 +391,8 @@ Error message and password prompt
 
 <li>Boggard</li>
 
+<li>Bomber</li>
+
 <li>Bon Mot</li>
 
 <li>Bonded Animal</li>
@@ -456,6 +464,8 @@ Error message and password prompt
 <li>Chill Touch</li>
 
 <li>Chilling Darkness</li>
+
+<li>Chirurgeon</li>
 
 <li>Chromatic Wall</li>
 
@@ -1381,6 +1391,10 @@ Error message and password prompt
 
 <li>Multilingual</li>
 
+<li>Mutagenic Flashback</li>
+
+<li>Mutagenist</li>
+
 <li>Narrow Surface</li>
 
 <li>Natural Medicine</li>
@@ -1863,6 +1877,8 @@ Error message and password prompt
 
 <li>Spell Substitution</li>
 
+<li>Spell Turning</li>
+
 <li>SpellFieldTemplate</li>
 
 <li>SpellLevelToEffectLevel</li>
@@ -1871,7 +1887,25 @@ Error message and password prompt
 
 <li>SpellSummaryTable</li>
 
+<li>Spellwrack</li>
+
+<li>Spider Climb</li>
+
+<li>Spider Sting</li>
+
+<li>Spirit Blast</li>
+
+<li>Spirit Link</li>
+
+<li>Spirit Song</li>
+
 <li>Spirits' Interference</li>
+
+<li>Spiritual Epidemic</li>
+
+<li>Spiritual Guardian</li>
+
+<li>Spiritual Weapon</li>
 
 <li>Splat</li>
 
@@ -1879,11 +1913,15 @@ Error message and password prompt
 
 <li>Squeeze</li>
 
+<li>Stabilize</li>
+
 <li>Stand</li>
 
 <li>Start Page</li>
 
 <li>Starvation</li>
+
+<li>Status</li>
 
 <li>Steady Balance</li>
 
@@ -2024,6 +2062,8 @@ Error message and password prompt
 <li>Tumble Through</li>
 
 <li>Turn</li>
+
+<li>Turn Spell</li>
 
 <li>Twin</li>
 
@@ -11568,6 +11608,9 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 <div title="$:/isEncrypted" revision="0" bag="default">
 <pre>no</pre>
 </div>
+<div created="20200730192900980" modified="20200730192921261" title="$:/palette" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>$:/palettes/Vanilla</pre>
+</div>
 <div author="Joao Bolila" dependents="" description="Highlight.js syntax highlighting" list="readme usage howto license" name="Highlight" plugin-type="plugin" title="$:/plugins/tiddlywiki/highlight" type="application/json" version="5.1.22" revision="0" bag="default">
 <pre>{
     &quot;tiddlers&quot;: {
@@ -11649,6 +11692,9 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 </div>
 <div created="20200722215223063" list="$:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/core/ui/ViewTemplate/body" modified="20200722220313299" tags="" title="$:/tags/ViewTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
+</div>
+<div created="20200730192847741" modified="20200730192857438" title="$:/theme" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>$:/themes/tiddlywiki/vanilla</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="$:/themes/tiddlywiki/vanilla" description="Emphasises individual tiddlers" name="Snow White" plugin-priority="0" plugin-type="theme" title="$:/themes/tiddlywiki/snowwhite" type="application/json" version="5.1.22" revision="0" bag="default">
 <pre>{
@@ -11759,6 +11805,9 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
     }
 }</pre>
 </div>
+<div created="20200730192814686" modified="20200730192818438" title="$:/view" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>classic</pre>
+</div>
 <div created="20200730010039049" feat-level="11" modified="20200730010124813" tags="General Feat Downtime" title="A Home in Every Port" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Charisma 16.
 
@@ -11782,7 +11831,7 @@ After 24 hours, you must pay standard prices for further lodging and meals or us
 <div created="20200724233648731" modified="20200724233703997" tags="School" title="Abjuration" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Abjurations protect and ward. They create barriers that keep out attacks, effects, or even certain types of creatures. They also create effects that harm trespassers or banish interlopers.</pre>
 </div>
-<div created="20200627213912614" m-components="Somatic, Verbal" m-level="5" m-range="Touch" m-save="Fortitude" m-targets="1 creature" modified="20200627220511706" s-crit="The target is unaffected." s-fail="The target is afflicted with Abyssal Plague at stage 1." s-fumble="The target is afflicted with Abyssal Plague at stage 2." s-hit="The target takes 2 [[Evil]] damage per spell level, and takes a -2 status penalty to saves against Abyssal Plague for 1 day or until the target contracts it, whichever comes first." tags="Spell Attack Chaotic Disease Evil Necromancy Divine Occult Somatic Verbal Concentrate Manipulate" title="Abyssal Plague" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200627213912614" m-components="Somatic, Verbal" m-level="5" m-range="Touch" m-save="Fortitude" m-targets="1 creature" modified="20200730195818962" s-crit="The target is unaffected." s-fail="The target is afflicted with Abyssal Plague at stage 1." s-fumble="The target is afflicted with Abyssal Plague at stage 2." s-hit="The target takes 2 [[Evil]] damage per spell level, and takes a -2 status penalty to saves against Abyssal Plague for 1 day or until the target contracts it, whichever comes first." tags="Spell Chaotic Disease Evil Necromancy Divine Occult Somatic Verbal Concentrate Manipulate" title="Abyssal Plague" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 Your touch afflicts the target with Abyssal Plague, which siphons fragments of their soul away to empower the Abyss.
@@ -12343,7 +12392,7 @@ You also gain specific abilities based on the type of animal you choose:
 
 ''Heightened (5th)'' Your battle form is Huge and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, AC = 18 + your level, attack modifier +18, damage bonus +7 and double the number of damage dice, and Athletics +20.</pre>
 </div>
-<div created="20200710193651039" m-components="Material, Somatic, Verbal" m-duration="Until delivered" m-level="2" m-range="120 feet" m-time="1 minute" modified="20200710194144423" tags="Spell Material Somatic Verbal Concentrate Manipulate Primal" title="Animal Messenger" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200710193651039" m-components="Material, Somatic, Verbal" m-duration="__See text__" m-level="2" m-range="120 feet" m-time="1 minute" modified="20200730200000926" tags="Spell Material Somatic Verbal Concentrate Manipulate Primal" title="Animal Messenger" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You offer a gift of food, and an ordinary Tiny wild animal within range approaches to eat it. 
@@ -12354,7 +12403,9 @@ Optionally, you can attach a small object or note up to light Bulk to it.
 
 The animal does its best to reach the destination; if it makes it there, it waits nearby until the duration expires, allowing other nonhostile creatures to approach it and remove the attached object.
 
-If there are no Tiny wild animals in range, the spell is lost.</pre>
+If there are no Tiny wild animals in range, the spell is lost.
+
+__The spell ends after 24 hours or when a creature removes the attached object, whichever happens first.__</pre>
 </div>
 <div a-actions="1" created="20200725164107369" feat-class="Barbarian" feat-level="8" feat-sppre="Animal Instnict" modified="20200725164234160" tags="Feat Barbarian Class Concentrate Instinct Polymorph Primal Rage Transmutation Action" title="Animal Rage" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' [[Animal Instinct]].
@@ -12768,8 +12819,9 @@ This spell fails if you aren’t on your home plane when you cast it.
 <pre>You gain [[Attack of Opportunity]].
 </pre>
 </div>
-<div created="20200627220906439" modified="20200729225856526" tags="" title="BardConSub" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>If you’re a [[Bard]] Casting a Spell from the [[Occult]] tradition while holding a musical instrument, you can play that instrument to replace any material, somatic, or verbal components the spell requires by using the instrument as a [[Focus]] component instead. Cast a Spell gains the &lt;&lt;tag Auditory&gt;&gt; trait if you make this substitution. Unlike the normal rules for a focus component, you can’t retrieve or stow the instrument when making this substitution.</pre>
+<div created="20200627220906439" modified="20200730195759926" tags="" title="BardConSub" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>If you’re a [[Bard]] Casting a Spell from the [[Occult]] tradition while holding a musical instrument, you can __can usually play an instrument for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don’t need a spell component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.__
+</pre>
 </div>
 <div created="20200630084220101" feat-level="1" feat-skill="Diplomacy" feat-spre="T" mod-earn_income="You can earn income using Diplomacy." modified="20200725235250960" tags="Feat General Skill" title="Bargain Hunter" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Diplomacy]].
@@ -12798,12 +12850,12 @@ When you roll [[Initiative]], you can yell a mighty battle cry and [[Demoralize]
 
 If you’re legendary in Intimidation, you can use a reaction to Demoralize your foe when you critically succeed at an attack roll.</pre>
 </div>
-<div a-actions="1" created="20200630084503782" feat-level="1" feat-skill="Medicine" feat-spre="T" mod-treat_wounds="Can use this as a combat action 1/day." modified="20200725235347093" tags="Feat General Healing Manipulate Skill Action" title="Battle Medicine" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-actions="1" created="20200630084503782" feat-level="1" feat-skill="Medicine" feat-spre="T" mod-treat_wounds="Can use this as a combat action 1/day." modified="20200730195555244" tags="Feat General Healing Manipulate Skill Action" title="Battle Medicine" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Medicine]].
 
 You can patch up yourself or an adjacent ally, even in combat.
 
-Attempt a Medicine check with the same DC as for [[Treat Wounds]] and provide the corresponding amount of healing.
+Attempt a Medicine check with the same DC as for [[Treat Wounds]] and __restore a corresponding amount of Hit Points; this does not remove the [[Wounded]] condition.__
 
 As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. 
 
@@ -12975,6 +13027,18 @@ As the nature of this effect still leaves the target’s location obvious, the t
 <pre>Boggards are frog-like humanoids. 
 
 They typically have [[Darkvision]].</pre>
+</div>
+<div created="20200730194043716" mod-advanced_alchemy="At level 5, reageants can make any three bombs." modified="20200730195127835" splat-class="Alchemist" tags="Splat Alchemist" title="Bomber" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>You specialize in explosions and other violent alchemical reactions. 
+
+''Level 1'': You start with the formulas for two 1st-level alchemical bombs in your formula book, in addition to your other formulas. 
+
+''Level 1'': When throwing an alchemical bomb with the &lt;&lt;tag Splash&gt;&gt; trait, you can deal splash damage to only your primary target instead of the usual splash area.
+
+''Level 5'': When using advanced alchemy to make bombs during your daily preparations, you can use a batch of reagents to create any three bombs instead of just two of the same bomb.
+
+''Level 13'': You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have Expanded Splash.
+</pre>
 </div>
 <div a-actions="1" a-crit="The target is distracted and takes a -3 status penalty to [[Perception]] and [[Will]] saves for 1 minute. The target can end the effect early with a retort to your Bon Mot. This can either be a single action that has the &lt;&lt;tag Concentrate&gt;&gt; trait or an appropriate skill action to frame their retort. The GM determines which skill actions qualify, though they must take at least 1 action. Typically, the retort needs to use a &lt;&lt;tag Linguistic&gt;&gt; Charisma-based skill action." a-defense="Will" a-fumble="Your quip is atrocious. You take the same penalty an enemy would take had you succeeded. This ends after 1 minute or if you issue another Bon Mot and succeed." a-hit="As critical success, but the penalty is -2." a-skill="Diplomacy" created="20200730001845813" feat-level="1" feat-skill="Diplomacy" feat-spre="T" modified="20200730002132179" tags="Auditory Concentrate Emotion General Linguistic Mental Skill Feat Action" title="Bon Mot" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You launch an insightful quip at a foe, distracting them. 
@@ -13303,7 +13367,7 @@ With carefully engineered enzymes, you coax some of your poison to infect anothe
 
 A creature adjacent to the triggering creature is exposed to the triggering poison.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719202459481" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="Touch" m-save="Fortitude" m-targets="1 living or undead creature" m-time="" modified="20200719202746561" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Attack Spell Cantrip Necromancy Negative Arcane Divine Occult Somatic Verbal Manipulate Concentrate" title="Chill Touch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719202459481" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="Touch" m-save="Fortitude" m-targets="1 living or undead creature" m-time="" modified="20200730195827587" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Cantrip Necromancy Negative Arcane Divine Occult Somatic Verbal Manipulate Concentrate" title="Chill Touch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 Siphoning negative energy into yourself, your hand radiates a pale darkness. Your touch weakens the living and disorients undead, possibly even causing them to flee. 
@@ -13333,6 +13397,17 @@ If you need to determine whether the ray passes through an area of light, draw a
 
 {{||ActionSuccessTable}}
 </pre>
+</div>
+<div created="20200730194239454" mod-advanced_alchemy="At level 5, make three elixirs of life per batch, not 2." mod-medicine="Can use Crafting in place of Medicine." mod_quick-alchemy="At level 13, your elixirs always heal the maximum possible." modified="20200730195118690" splat-class="Alchemist" tags="Alchemist Splat" title="Chirurgeon" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>You concentrate on healing others with alchemy.
+
+''Level 1'': You start with the formulas for two of the following in your formula book, in addition to your other formulas: lesser [[Antidote]], lesser [[Antiplague]], or __minor__ [[Elixir of Life]].
+
+''Level 1'': As long as your proficiency rank in [[Medicine]] is trained or better, you can attempt a [[Crafting]] check instead of a Medicine check for any of Medicine’s untrained and trained uses.
+
+''Level 5'': When using [[Advanced Alchemy]] to make elixirs of life during your daily preparations, you can create three elixirs with each batch of reagents instead of two.
+
+''Level 13'': When you use [[Quick Alchemy]] to create any type of elixir of life, the creature drinking the elixir gains the maximum Hit Points possible for that elixir, instead of rolling to determine the number of Hit Points regained.</pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200719203317174" m-area="" m-components="Material Somatic Verbal" m-duration="10 minutes" m-level="5" m-range="120 feet" m-save="" m-targets="" m-time="" modified="20200727221016830" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Abjuration Arcane Occult Material Somatic Verbal Concentrate Manipulate" title="Chromatic Wall" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
@@ -14256,7 +14331,7 @@ The target is then temporarily immune for 1 minute.
 {{||SaveSuccessTable}}
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720205422901" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="Touch" m-save="Will" m-targets="1 living creature that has 0 HP" m-time="" modified="20200720205545085" s-crit="The target is unaffected." s-fail="The target dies." s-fumble="" s-hit="The target's [[Dying]] value increases by 1." tags="Attack Death Necromancy Spell Divine Occult Somatic Verbal Manipulate Concentrate" title="Death Knell" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720205422901" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="Touch" m-save="Will" m-targets="1 living creature that has 0 HP" m-time="" modified="20200730195836305" s-crit="The target is unaffected." s-fail="The target dies." s-fumble="" s-hit="The target's [[Dying]] value increases by 1." tags="Death Necromancy Spell Divine Occult Somatic Verbal Manipulate Concentrate" title="Death Knell" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You snuff the life out of a creature on the brink of death. 
@@ -14676,7 +14751,7 @@ The level of a disease is the level of the monster inflicting the disease.
 
 The disease follows the rules for [[Affliction]]s.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720222045715" m-area="" m-components="Somatic Verbal" m-duration="" m-level="6" m-range="120 feet" m-save="Fortitude" m-targets="1 creature or unattended object" m-time="" modified="20200720222239913" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Evocation Arcane Somatic Verbal Spell Concentrate Manipulate" title="Disintegrate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200720222045715" m-area="" m-components="Somatic Verbal" m-duration="" m-level="6" m-range="120 feet" m-save="Fortitude" m-targets="1 creature or unattended object" m-time="" modified="20200730200026895" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Evocation Arcane Somatic Verbal Spell Concentrate Manipulate Attack" title="Disintegrate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You fire a green ray at your target. 
@@ -14729,7 +14804,7 @@ If you succeed against a magic item, the item becomes a mundane item of its type
 
 If the target is an artifact or similar item, you automatically fail.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722104755004" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="30 feet" m-save="Fortitude" m-targets="1 &lt;&lt;tag Undead&gt;&gt;creature" m-time="" modified="20200722104922096" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Necromancy Positive Spell Cantrip Divine Primal Somatic Verbal Manipulate Concentrate" title="Disrupt Undead" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722104755004" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="30 feet" m-save="Fortitude" m-targets="1 &lt;&lt;tag Undead&gt;&gt;creature" m-time="" modified="20200730200037940" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Necromancy Positive Spell Cantrip Divine Primal Somatic Verbal Manipulate Concentrate" title="Disrupt Undead" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You lance the target with energy. 
@@ -15235,10 +15310,10 @@ This does not reduce the amount of alchemical reagents required or other ingredi
 
 This also does not change the number of items you can create in a batch using [[Advanced Alchemy]].</pre>
 </div>
-<div created="20200723201659062" feat-class="Alchemist" feat-level="10" mod-squeeze="Can allow you to squeeze as one size smaller." mod-step="Can allow you to step up to 10 feet." modified="20200723201813188" tags="Alchemist Feat Class" title="Elastic Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723201659062" feat-class="Alchemist" feat-level="10" mod-squeeze="Can allow you to squeeze as one size smaller." mod-step="Can allow you to step up to 10 feet." modified="20200730195214462" tags="Alchemist Feat Class" title="Elastic Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You can cause your body to twist and flow like the quicksilver within your mutagens. 
 
-Whenever you are under the effects of a [[Quicksilver Mutagen]] you created, you can stretch your legs and [[Step]] up to 10 feet, and you can squish and compress your body, allowing you to make it through tight spaces as if you were one size smaller, in addition to any effect from [[Squeezing|Squeeze]].</pre>
+Whenever you are under the effects of a [[Quicksilver Mutagen]], you can stretch your legs and [[Step]] up to 10 feet, and you can squish and compress your body, allowing you to make it through tight spaces as if you were one size smaller, in addition to any effect from [[Squeezing|Squeeze]].</pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722192148885" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="30 feet" m-save="Reflex" m-targets="1 or 2 creatures" m-time="" modified="20200722192251441" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Cantrip Electricity Evocation Arcane Primal Somatic Verbal Manipulate Concentrate" title="Electric Arc" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
@@ -15392,7 +15467,7 @@ You can select four familiar or master abilities each day, instead of two.
 
 ''Special'' If your arcane thesis is [[Improved Familiar Attunement]], your familiar’s base number of familiar abilities, before adding any extra abilities from the arcane thesis, is four.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722193805525" m-area="" m-components="Somatic Verbal" m-duration="5 minutes" m-level="2" m-range="30 feet" m-save="" m-targets="1 willing creature" m-time="" modified="20200722194737384" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate" title="Enlarge" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722193805525" m-area="" m-components="Somatic Verbal" m-duration="5 minutes" m-level="2" m-range="30 feet" m-save="" m-targets="1 willing creature" m-time="" modified="20200730200113064" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate" title="Enlarge" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 Bolstered by magical power, the target grows to size &lt;&lt;tag Large&gt;&gt;. 
@@ -15407,7 +15482,7 @@ This spell has no effect on a Large or larger creature.
 
 ''Heightened (4th)'' The creature instead grows to size &lt;&lt;tag Huge&gt;&gt;. The status bonus to melee damage is +4 and the creature’s reach increases by 10 feet (or 15 feet if the creature started out Tiny). The spell has no effect on a Huge or larger creature.
 
-''Heightened (6th)'' As level 4, but you can target up to 10 creatures.</pre>
+''Heightened (6th)'' __Choose the 2nd-level or 4th-level version of this spell and apply its effects__ to up to 10 __willing__ creatures.</pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200722194807540" m-area="All squares in a 20-foot radius [[Burst]] that contain plants" m-components="Somatic Verbal" m-duration="1 minute" m-level="2" m-range="120 feet" m-save="Reflex" m-targets="" m-time="" modified="20200722194948402" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Plant Transmutation Primal Somatic Verbal Spell Manipulate Concentrate" title="Entangle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
@@ -15518,12 +15593,12 @@ On a critically failed attempt to make a Request, the target’s attitude toward
 
 [[Bless]]: Once per turn, starting the turn after you cast bless, you can use a single action, which has the Concentrate trait, to increase the emanation’s radius by 5 feet. </pre>
 </div>
-<div created="20200723201915918" feat-class="Alchemist" feat-fpre="[[Calculated Splash]]" feat-level="10" modified="20200723202041124" tags="Alchemist Class Feat" title="Expanded Splash" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723201915918" feat-class="Alchemist" feat-fpre="[[Calculated Splash]]" feat-level="10" modified="20200730195239357" tags="Alchemist Class Feat" title="Expanded Splash" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisite'' [[Calculated Splash]].
 
 The particularly volatile compounds that you brew into your bombs result in them creating especially large and powerful explosions. 
 
-When you throw an alchemical bomb you created and that bomb has the &lt;&lt;tag Splash&gt;&gt; trait, you can add your Intelligence modifier to the bomb’s usual splash damage, and it deals splash damage to every creature within 10 feet of the target.</pre>
+When you throw an alchemical bomb and that bomb has the &lt;&lt;tag Splash&gt;&gt; trait, you can add your Intelligence modifier to the bomb’s usual splash damage, and it deals splash damage to every creature within 10 feet of the target.</pre>
 </div>
 <div created="20200630091554636" feat-level="7" feat-skill="Perception" feat-spre="M" mod-search="Searching takes half as long, so can move double the speed." modified="20200726004708944" tags="Feat General Skill" title="Expeditious Search" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Master in Perception.
@@ -15798,10 +15873,10 @@ With a misleading flourish, you leave an opponent unprepared for your real attac
 
 {{||ActionSuccessTable}}</pre>
 </div>
-<div created="20200723191211883" feat-class="Alchemist" feat-level="8" mod-intimidation="Allows Bestial Mutagen to grant an item bonus." modified="20200723191351713" tags="Alchemist Feat Class" title="Feral Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723191211883" feat-class="Alchemist" feat-level="8" mod-intimidation="Allows Bestial Mutagen to grant an item bonus." modified="20200730195202222" tags="Alchemist Feat Class" title="Feral Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Your bestial mutagen brings out the beast lurking within you, granting you especially sharp claws and teeth as well as a ferocious appearance. 
 
-Whenever you’re affected by a bestial mutagen you created, you gain the mutagen’s item bonus to your [[Intimidation]] checks. In addition, your claws and jaws are increasingly vicious, and they gain the [[Deadly]] d10 trait. 
+Whenever you’re affected by a bestial mutagen, you gain the mutagen’s item bonus to your [[Intimidation]] checks. In addition, your claws and jaws are increasingly vicious, and they gain the [[Deadly]] d10 trait. 
 
 Finally, you can increase the mutagen’s penalty to [[AC]] from –1 to –2 and, in exchange, increase the damage die size of your claws and jaws by one step.</pre>
 </div>
@@ -16339,10 +16414,10 @@ You can always take a [[Skill]] feat when you can take a general feat.
 
 They have powerful magical abilities.</pre>
 </div>
-<div created="20200723204503242" feat-class="Alchemist" feat-level="16" mod-cognitive_mutagen="Lets mutagen also give skill bonuses and telepathy." modified="20200723204755113" tags="Class Feat Alchemist" title="Genius Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723204503242" feat-class="Alchemist" feat-level="16" mod-cognitive_mutagen="Lets mutagen also give skill bonuses and telepathy." modified="20200730195251166" tags="Class Feat Alchemist" title="Genius Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Specialized tweaks to your formula that supplements your genius considerably broaden the benefits you gain from cognitive mutagens. 
 
-When you’re affected by a [[Cognitive Mutagen]] you created, you also gain the mutagen’s item bonus to [[Deception]], [[Diplomacy]], [[Intimidation]], [[Medicine]], [[Nature]], [[Performance]], [[Religion]], and [[Survival]] checks. 
+When you’re affected by a [[Cognitive Mutagen]], you also gain the mutagen’s item bonus to [[Deception]], [[Diplomacy]], [[Intimidation]], [[Medicine]], [[Nature]], [[Performance]], [[Religion]], and [[Survival]] checks. 
 
 In addition, you can communicate telepathically with creatures within 60 feet with whom you share a language. The communication is twoway once you establish it, so a creature you contact can also communicate with you.</pre>
 </div>
@@ -16398,7 +16473,7 @@ It can be wielded by a corporeal or incorporeal creature and gains the effects o
 //The [[Fortitude]] DC is determined by the spell that inflicted this disease.//
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725135806671" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="Touch" m-save="Fortitude" m-targets="1 creature" m-time="" modified="20200725140054429" s-crit="The target is unaffected." s-fail="The target is afflicted with Ghoul Fever at stage 2." s-fumble="The target is afflicted with Ghoul Fever at stage 3." s-hit="The target is afflicted with Ghoul Fever at stage 1." tags="Attack Disease Evil Necromancy Spell Divine Occult Somatic Verbal Concentrate Manipulate" title="Ghoulish Cravings" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725135806671" m-area="" m-components="Somatic Verbal" m-duration="" m-level="2" m-range="Touch" m-save="Fortitude" m-targets="1 creature" m-time="" modified="20200730195848073" s-crit="The target is unaffected." s-fail="The target is afflicted with Ghoul Fever at stage 2." s-fumble="The target is afflicted with Ghoul Fever at stage 3." s-hit="The target is afflicted with Ghoul Fever at stage 1." tags="Disease Evil Necromancy Spell Divine Occult Somatic Verbal Concentrate Manipulate" title="Ghoulish Cravings" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You touch the target to afflict it with ghoul fever, infesting it with hunger and a steadily decreasing connection to positive energy; the target must attempt a [[Fortitude]] save.
@@ -16513,7 +16588,7 @@ You can [[Dismiss]] glyph of warding.
 The maximum number of glyphs of warding you can have active at a time is equal to your spellcasting ability modifier.
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725145955683" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="Touch" m-save="" m-targets="1 creature" m-time="" modified="20200725150252945" s-crit="The target is unaffected." s-fail="The target is afflicted with Goblin Pox at stage 1." s-fumble="The target is afflicted with Goblin Pox at stage 2." s-hit="The target is [[Sickened]] 1." tags="Attack Spell Disease Necromancy Arcane Primal Somatic Verbal Manipulate Concentrate" title="Goblin Pox" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725145955683" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="Touch" m-save="" m-targets="1 creature" m-time="" modified="20200730195856726" s-crit="The target is unaffected." s-fail="The target is afflicted with Goblin Pox at stage 1." s-fumble="The target is afflicted with Goblin Pox at stage 2." s-hit="The target is [[Sickened]] 1." tags="Spell Disease Necromancy Arcane Primal Somatic Verbal Manipulate Concentrate" title="Goblin Pox" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 Your touch afflicts the target with goblin pox, an irritating allergenic rash. The target must attempt a [[Fortitude]] save.
@@ -16722,7 +16797,7 @@ Universalist spells are a type of focus spell, much like school spells.
 
 You start with a focus pool of 1 Focus Point. </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725152101235" m-area="" m-components="Somatic Verbal Material" m-duration="" m-level="1" m-range="Range" m-save="Fortitude" m-targets="1 living creature or 1 willing undead creature" m-time="" modified="20200725152318391" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Necromancy Negative Divine Spell Somatic Verbal Concentrate Material Manipulate" title="Harm" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200725152101235" m-area="" m-components="Somatic Verbal Material" m-duration="" m-level="1" m-range="Range" m-save="Fortitude" m-targets="1 living creature or 1 willing undead creature" m-time="" modified="20200730200148183" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Necromancy Negative Divine Spell Somatic Verbal Concentrate Material Manipulate" title="Harm" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You channel negative energy to harm the living or heal the undead. 
@@ -16737,7 +16812,7 @@ The number of actions you spend when Casting this Spell determines its targets, 
 
 {{TwoAction}} (verbal, somatic) The spell has a range of 30 feet. If you’re healing an undead creature, increase the Hit Points restored by 8.
 
-{{ThreeAction}} (material, verbal, somatic) You disperse positive energy in a 30-foot [[Emanation]]. This targets all living and undead creatures in the area.
+{{ThreeAction}} (material, verbal, somatic) You disperse __negative__ energy in a 30-foot [[Emanation]]. This targets all living and undead creatures in the area.
 
 Heightened (+1) The amount of healing or damage increases by 1d8, and the extra healing for the 2 action version increases by 8.</pre>
 </div>
@@ -17263,14 +17338,14 @@ Your performances inspire admiration and win you fans.
 
 You can [[Make an Impression]] using Performance instead of Diplomacy.</pre>
 </div>
-<div created="20200723205048359" feat-class="Alchemist" feat-level="18" mod-craft="Lets you craft potions as alchemical items." modified="20200723205214092" tags="Alchemist Class Feat" title="Improbable Elixirs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723205048359" feat-class="Alchemist" feat-level="18" mod-craft="Lets you craft potions as alchemical items." modified="20200730195457037" tags="Alchemist Class Feat" title="Improbable Elixirs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Your mastery of alchemical secrets enables you to replicate effects most believe can be achieved only via magic. 
 
 Select a number of &lt;&lt;tag Potion&gt;&gt;s equal to your [[Intelligence]] modifier (minimum 1) of 9th level or lower. 
 
-You gain formulas to [[Craft]] these potions as alchemical items with the &lt;&lt;tag Elixir&gt;&gt; trait. 
+You gain formulas to __create__ these potions as alchemical items with the &lt;&lt;tag Elixir&gt;&gt; trait. 
 
-When Crafting these alchemical elixirs, you can substitute alchemical reagents for an equal value of magical components, and you can use alchemist’s tools instead of any other required tool kits. Other than that, the formula does not change. 
+When __making__ these alchemical elixirs, you can substitute alchemical reagents for an equal value of magical components, and you can use alchemist’s tools __(for [[Quick Alchemy]]) or an alchemist's lab (for the [[Craft]] activity)__ instead of any other required tool kits. Other than that, the formula does not change. 
 
 Once you’ve chosen the potion formulas, they can’t be changed.</pre>
 </div>
@@ -17372,7 +17447,7 @@ that character.
 
 Assume a creature’s attitude to a given character is indifferent unless specified otherwise.</pre>
 </div>
-<div created="20200730121115405" feat-level="7" feat-skill="Nature" feat-spre="M" modified="20200730121214766" tags="Downtime General Skill Feat" title="Influence Nature" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-skill="Nature" created="20200730121115405" feat-level="7" feat-skill="Nature" feat-spre="M" modified="20200730193327315" modified-by="Nature" tags="Downtime General Skill Feat Action" title="Influence Nature" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>With patience and time, you can make bird calls, leave game trails, and ultimately influence the behavior of a certain type of animals in the region to favor and even aid you in the days to come. 
 
 The GM determines the DC of any check required and the amount of time your work requires (usually at least a day or two of downtime). 
@@ -17504,10 +17579,10 @@ You can use any skill that has a Recall Knowledge action while Investigating, bu
 
 As with Searching or Detecting Magic, the initial result of Investigating is usually enough to give the investigator a clue that leads into a more thorough examination, but it rarely gives all possible information. For instance, a character might note that the walls of a dungeon are covered with Abyssal writing, but they would need to stop to read the text or determine that it’s written in blood.</pre>
 </div>
-<div created="20200723203015831" feat-class="Alchemist" feat-level="12" mod-juggernaut_mutagen="Lets mutagen give resistance to physical damage." modified="20200723203117284" tags="Alchemist Class Feat" title="Invincible Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723203015831" feat-class="Alchemist" feat-level="12" mod-juggernaut_mutagen="Lets mutagen give resistance to physical damage." modified="20200730195228722" tags="Alchemist Class Feat" title="Invincible Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The fortifying additives you brew into your mutagens make your juggernaut form impervious. 
 
-Whenever you’re affected by a [[Juggernaut Mutagen]] you created, you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).</pre>
+Whenever you’re affected by a [[Juggernaut Mutagen]], you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).</pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726224713251" m-area="" m-components="Material Somatic" m-duration="10 minutes" m-level="2" m-range="Touch" m-save="" m-targets="1 creature" m-time="" modified="20200726224834409" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Illusion Spell Arcane Occult Material Somatic Manipulate Concentrate" title="Invisibility" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
@@ -17878,7 +17953,7 @@ This doesn’t apply if you don’t have a back-and-forth dialogue, such as when
 
 The sense can distinguish between the positive energy animating living creatures and the negative energy animating undead creatures, much as sight distinguishes colors.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726231155493" m-area="" m-components="Somatic Verbal" m-duration="Until the next time you make your [[daily preparations|Rest]]" m-level="1" m-range="Touch" m-save="" m-targets="1 unattended, non-magical object of 1 Bulk or less" m-time="" modified="20200726231504075" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Cantrip Evocation Light Arcane Divine Occult Primal Somatic Verbal Spell Concentrate Manipulate" title="Light" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726231155493" m-area="" m-components="Somatic Verbal" m-duration="Until the next time you make your [[daily preparations|Rest]]" m-level="1" m-range="Touch" m-save="" m-targets="__1 object of 1 Bulk or less, either unattended or possessed by you or a [[Willing]] ally__" m-time="" modified="20200730200220963" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Cantrip Evocation Light Arcane Divine Occult Primal Somatic Verbal Spell Concentrate Manipulate" title="Light" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 The object glows, casting bright light in a 20-foot radius and dim light for the next 20 feet, like a [[Torch]]. 
@@ -18048,14 +18123,14 @@ Magic aura doesn’t mask the aura of spells that are 9th level or higher or of 
 ''Heightened (3rd)'' You can target a creature instead of an object. When you do, you can either conceal the auras of all magic items it has or have that creature’s aura appear as if it were under the effect of a spell you know.
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726233125537" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="1" m-range="Touch" m-save="" m-targets="1 willing ally" m-time="" modified="20200726233217066" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Transmutation Spell Primal Somatic Verbal Concentrate Manipulate" title="Magic Fang" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726233125537" m-area="" m-components="Somatic Verbal" m-duration="1 minute" m-level="1" m-range="Touch" m-save="" m-targets="1 willing __creature__" m-time="" modified="20200730200403692" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Transmutation Spell Primal Somatic Verbal Concentrate Manipulate" title="Magic Fang" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
-Choose one of the target’s unarmed attacks that deal one damage die. 
+Choose one of the target’s unarmed attacks. 
 
 You cause that unarmed attack to shine with primal energy. 
 
-The unarmed attack becomes a +1 [[Striking]] unarmed attack, gaining a +1 item bonus to attack rolls and increasing the number of damage dice to two.
+The unarmed attack becomes a +1 [[Striking]] unarmed attack, gaining a +1 item bonus to attack rolls and increasing the number of damage dice to two __if it only had one__.
 </pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726233235741" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="120 feet" m-save="" m-targets="1 creature" m-time="" modified="20200726233428926" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Evocation Force Spell Arcane Occult Somatic Verbal Concentrate Manipulate" title="Magic Missile" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -18161,7 +18236,7 @@ Manipulate actions often trigger reactions.
 //Having the manipulate trait alone does not necessarily mean that an action requires a ''free'' hand.//
 </pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726234115390" m-area="" m-components="Somatic Verbal" m-duration="" m-level="5" m-range="Touch" m-save="Will" m-targets="1 creature" m-time="" mod-sickened="Can prevent recovering from sickened while curse persists." modified="20200726234319115" s-crit="The target is unaffected." s-fail="The target becomes [[Sickened]] 1 and can't reduce its [[Sickened]] condition below 1 while the curse remains. The curse can be lifted by [[Remove Curse]] or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also [[Slowed]] 1." s-fumble="As failure, but the target becomes [[Sickened]] 2." s-hit="The target becomes [[Sickened]] 1. Reducing its sickened condition to 0 ends the curse." tags="Spell Attack Curse Necromancy Arcane Occult Primal Somatic Verbal Concentrate Manipulate" title="Mariner's Curse" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726234115390" m-area="" m-components="Somatic Verbal" m-duration="" m-level="5" m-range="Touch" m-save="Will" m-targets="1 creature" m-time="" mod-sickened="Can prevent recovering from sickened while curse persists." modified="20200730195906819" s-crit="The target is unaffected." s-fail="The target becomes [[Sickened]] 1 and can't reduce its [[Sickened]] condition below 1 while the curse remains. The curse can be lifted by [[Remove Curse]] or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also [[Slowed]] 1." s-fumble="As failure, but the target becomes [[Sickened]] 2." s-hit="The target becomes [[Sickened]] 1. Reducing its sickened condition to 0 ends the curse." tags="Spell Curse Necromancy Arcane Occult Primal Somatic Verbal Concentrate Manipulate" title="Mariner's Curse" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You afflict the target with the curse of the roiling, unforgiving sea. 
@@ -18310,7 +18385,7 @@ It has no effect on an object or a [[Mindless]] creature.
 //Non-area Mental effects have no effect on [[Swarm Mind]]s.//
 </pre>
 </div>
-<div created="20200723202423691" feat-class="Alchemist" feat-level="10" mod-elixir_of_life="Lets created elixirs ease fear and paralysis." mod-quick_alchemy="Lets elixirs ease fear and paralysis. (Additive 2)" modified="20200723203003190" tags="Feat Class Alchemist Additive Action Free" title="Merciful Elixir" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723202423691" feat-class="Alchemist" feat-level="10" mod-elixir_of_life="Lets created elixirs ease fear and paralysis." mod-quick_alchemy="Lets elixirs ease fear and paralysis. (Additive 2)" modified="20200730195354925" tags="Feat Class Alchemist Additive Action Free" title="Merciful Elixir" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Frequency'' once per round
 
 ''Trigger'' You craft an [[Elixir of Life]] using [[Quick Alchemy]], and that elixir is at least 2 levels lower than your advanced alchemy level.
@@ -18319,7 +18394,7 @@ It has no effect on an object or a [[Mindless]] creature.
 
 You mix a special additive into your elixir that calms the drinker’s body and mind. 
 
-The elixir of life attempts to [[Counteract]] one &lt;&lt;tag Fear&gt;&gt; effect or one effect imposing the [[Paralyzed]] condition on the drinker.</pre>
+The elixir of life attempts to [[Counteract]] one &lt;&lt;tag Fear&gt;&gt; effect or one effect imposing the [[Paralyzed]] condition on the drinker, __using the item’s level and a counteract modifier equal to your class DC – 10.__</pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200726235929510" m-area="" m-components="Verbal" m-duration="" m-level="1" m-range="120 feet" m-save="" m-targets="1 creature" m-time="" modified="20200727000149604" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Auditory Cantrip Illusion Linguistic Mental Spell Arcane Divine Occult Verbal Concentrate" title="Message" turn-etn="Opportunity to respond to the message ends." type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
@@ -18413,10 +18488,10 @@ The target then becomes temporarily immune to your mind reading for 1 hour.
 {{||SaveSuccessTable}}
 </pre>
 </div>
-<div created="20200723205249917" feat-class="Alchemist" feat-level="18" mod-serene_mutagen="Makes mutagen also block scrying on you." modified="20200723205428357" tags="Alchemist Class Feat" title="Mindblank Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723205249917" feat-class="Alchemist" feat-level="18" mod-serene_mutagen="Makes mutagen also block scrying on you." modified="20200730195319150" tags="Alchemist Class Feat" title="Mindblank Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>With a minor adjustment of ratios in the formula for your serene mutagen, you gain mental protections. 
 
-When you’re affected by a [[Serene Mutagen]] you created, &lt;&lt;tag Detection&gt;&gt;, &lt;&lt;tag Revelation&gt;&gt;, and &lt;&lt;tag Scrying&gt;&gt;effects of 9th level or lower detect nothing from you or your possessions and auras. For instance, [[Detect Magic]] would still detect other magic in the area, but not any magic on you.</pre>
+When you’re affected by a [[Serene Mutagen]], &lt;&lt;tag Detection&gt;&gt;, &lt;&lt;tag Revelation&gt;&gt;, and &lt;&lt;tag Scrying&gt;&gt;effects of 9th level or lower detect nothing from you or your possessions and auras. For instance, [[Detect Magic]] would still detect other magic in the area, but not any magic on you.</pre>
 </div>
 <div created="20200629192557097" modified="20200629192624307" tags="Trait" title="Mindless" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A mindless creature has either programmed or rudimentary mental attributes. 
@@ -18722,6 +18797,26 @@ You learn an additional language if you are or become a master in Society and ag
 
 You can select this feat multiple times. Each time, you learn additional languages.</pre>
 </div>
+<div created="20200730194654036" modified="20200730194759575" tags="Action Free Alchemist" title="Mutagenic Flashback" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>''Frequency'' Once per day.
+
+You experience a brief resurgence of a mutagen. 
+
+Choose one mutagen you’ve consumed since your last [[daily preparations|Rest]]. 
+
+You gain the effects of that mutagen for 1 minute.</pre>
+</div>
+<div created="20200730194822915" mod-advanced_alchemy="Create any 3 mutagens per batch of reagents." mod-polymorph="Can stack 2 polymorph effects from mutagens." modified="20200730195106562" splat-class="Alchemist" tags="Alchemist Splat" title="Mutagenist" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen another.
+
+''Level 1'': You start with the formulas for two 1st-level mutagens in your formula book, in addition to your other formulas.
+
+''Level 1'': __You gain [[Mutagenic Flashback]].__
+
+''Level 5'': When using [[Advanced Alchemy]] to make mutagens during your daily preparations, you can use a batch of reagents to create any three mutagens instead of just two of the same mutagen.
+
+''Level 13'': If you imbibe another mutagen while you are under the effects of a mutagen that you created, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the &lt;&lt;tag Polymorph&gt;&gt; trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both.</pre>
+</div>
 <div created="20200722203326814" mod-flat-footed="You're flat footed on a narrow surface." modified="20200722204214855" tags="Rule" title="Narrow Surface" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A narrow surface is so precariously thin that you need to [[Balance]] (see [[Acrobatics]]) or risk falling. 
 
@@ -18998,7 +19093,7 @@ h) &quot;You&quot; or &quot;Your&quot; means the licensee in terms of this agree
 
 14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.</pre>
 </div>
-<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727210846519" m-area="" m-components="Somatic Verbal" m-duration="" m-level="4" m-range="Touch" m-save="Will" m-targets="1 creature" m-time="" modified="20200727211030314" s-crit="The target is unaffected." s-fail="As success, but the effect is permanent." s-fumble="As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse." s-hit="For 10 minutes, the target must roll twice and use the worse result whenever attempting a [[Deception]], [[Diplomacy]], [[Intimidation]], or [[Performance]] check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[Unfriendly]] instead of [[Indifferent]])." tags="Attack Curse Enchantment Mental Misfortune Spell Arcane Divine Occult Somatic Verbal Concentrate Manipulate" title="Outcast's Curse" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727210846519" m-area="" m-components="Somatic Verbal" m-duration="" m-level="4" m-range="Touch" m-save="Will" m-targets="1 creature" m-time="" modified="20200730195915725" s-crit="The target is unaffected." s-fail="As success, but the effect is permanent." s-fumble="As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse." s-hit="For 10 minutes, the target must roll twice and use the worse result whenever attempting a [[Deception]], [[Diplomacy]], [[Intimidation]], or [[Performance]] check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[Unfriendly]] instead of [[Indifferent]])." tags="Curse Enchantment Mental Misfortune Spell Arcane Divine Occult Somatic Verbal Concentrate Manipulate" title="Outcast's Curse" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
 You afflict the target with a curse that makes its presence abrasive and off-putting. 
@@ -19206,13 +19301,12 @@ The damage you take from persistent damage occurs all at once, so if something t
 
 Can be mitigated by [[Assist Recovery]].</pre>
 </div>
-<div created="20200723204818082" feat-class="Alchemist" feat-fpre="[[Extend Elixir]]" feat-level="16" modified="20200723204948675" tags="Alchemist Class Feat" title="Persistent Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20200723204818082" feat-class="Alchemist" feat-fpre="[[Extend Elixir]]" feat-level="16" modified="20200730195306656" tags="Alchemist Class Feat" title="Persistent Mutagen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' [[Extend Elixir]].
 
 You’ve trained your physical form to remain stable within the a given altered state. 
 
-Once per day, when you consume an alchemical item with the &lt;&lt;tag Infused&gt;&gt;and &lt;&lt;tag Mutagen&gt;&gt; traits that you have crafted, you can retain its effects until the next time you
-make your [[daily preparations|Rest]] instead of its normal duration.</pre>
+Once per day, when you consume an alchemical item with the &lt;&lt;tag Infused&gt;&gt;and &lt;&lt;tag Mutagen&gt;&gt; traits, you can retain its effects until the next time you make your [[daily preparations|Rest]] instead of its normal duration.</pre>
 </div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200727212343138" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="1" m-range="" m-save="" m-targets="You" m-time="" modified="20200727212537943" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Polymorph Transmutation Spell Arcane Primal Somatic Verbal Concentrate Manipulate" title="Pest Form" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
@@ -21617,6 +21711,22 @@ You can spend 10 minutes to empty one of your prepared spell slots and prepare a
 
 If you are interrupted during such a swap, the original spell remains prepared and can still be cast. You can try again to swap out the spell later, but you must start the process over again.</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730191213469" m-area="" m-components="Somatic Verbal" m-duration="" m-level="7" m-range="" m-save="" m-targets="" m-time="1 hour" modified="20200730191418384" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Arcane Uncommon Abjuration" title="Spell Turning" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+This abjuration reflects spells cast at you back at their caster.
+
+When a spell targets you, you can spend a reaction to attempt to reflect it. 
+
+This uses the rules for [[Counteract]] the spell, but if the spell is successfully counteracted, the effect is turned back on the caster. 
+
+Whether or not the counteract attempt is successful, spell turning then ends. 
+
+Spell turning can’t affect spells that aren’t targeted (such as area spells).
+
+If spell turning reflects a spell back at a caster who is also under the effect of spell turning, their spell turning can attempt to reflect their own spell back at you again; if they do so, their counteract attempt automatically succeeds.
+</pre>
+</div>
 <div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200718211959572" m-area="" m-components="Somatic Verbal" m-duration="" m-level="" m-range="" m-save="" m-targets="" m-time="" modified="20200728202354854" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate" title="SpellFieldTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||SpellSummaryTable}}
 
@@ -21658,10 +21768,171 @@ If you are interrupted during such a swap, the original spell remains prepared a
 |!Duration|{{!!m-duration}}|
 </pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730191407219" m-area="" m-components="Somatic Verbal" m-duration="" m-level="6" m-range="30 feet" m-save="Will" m-targets="1 creature" m-time="" modified="20200730191609132" s-crit="The target is unaffected." s-fail="As success, but the curse and persistent damage do not end on their own." s-fumble="As failure, but the persistent force damage is 4d12." s-hit="Whenever the target becomes affected by a spell with a duration, the target takes 2d12 [[persistent|Persistent Damage]] force damage. Each time it takes persistent force damage from spellwrack, it reduces the remaining duration of spells affecting it by 1 round. Only a successful [[Arcana]] check against your spell DC can help the target recover from the persistent damage; the curse and the persistent damage end after 1 minute." tags="Spell Somatic Verbal Concentrate Manipulate Abjuration Curse Force Arcane Divine Occult" title="Spellwrack" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You cause any spells cast on the target to spill out their energy in harmful surges. 
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730191628029" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="2" m-range="[[Touch]]" m-save="" m-targets="1 creature" m-time="" modified="20200730191708748" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal" title="Spider Climb" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Tiny clinging hairs sprout across the creature’s hands and feet, offering purchase on nearly any surface. 
+
+The target gains a climb Speed equal to its Speed.
+
+''Heightened (5th)'' The duration increases to 1 hour.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730191716566" m-area="" m-components="Somatic Verbal" m-duration="" m-level="1" m-range="[[Touch]]" m-save="Fortitude" m-targets="1 creature" m-time="" modified="20200730191859327" s-crit="The target is unaffected." s-fail="The target is afflicted with Spider Venom at stage 1." s-fumble="The target is afflicted with Spider Venom at stage 2." s-hit="The target takes 1d4 &lt;&lt;tag Poison&gt;&gt;damage." tags="Spell Somatic Verbal Concentrate Manipulate Attack Necromancy Poison Arcane Primal" title="Spider Sting" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You magically duplicate a spider’s venomous sting. 
+
+You deal 1d4 piercing damage to the touched creature and afflict it with spider venom. 
+
+The target must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+
+''Spider Venom'' (poison); Level 1; ''Maximum Duration'' 4 rounds. ''Stage 1'' 1d4 poison damage and [[Enfeebled]] 1 (1 round); ''Stage 2'' 1d4 poison damage and [[Enfeebled]] 2 (1 round).</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730191911306" m-area="" m-components="Somatic Verbal" m-duration="" m-level="6" m-range="30 feet" m-save="Fortitude" m-targets="1 creature" m-time="" modified="20200730192020506" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Force Necromancy Divine Occult" title="Spirit Blast" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You concentrate ethereal energy and attack a creature’s spirit, dealing 16d6 force damage //with a basic [[Fortitude]] save.// 
+
+Because spirit blast affects the creature’s spirit, it can damage a target projecting its consciousness (such as via [[Project Image]]) or possessing another creature even if the target’s body is elsewhere. 
+
+The possessed creature isn’t harmed by the blast. 
+
+The blast doesn’t harm creatures that have no spirit, such as &lt;&lt;tag Construct&gt;&gt;s.
+
+''Heightened (+1)'' The damage increases by 2d6.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730192034371" m-area="" m-components="Somatic Verbal" m-duration="10 minutes" m-level="1" m-range="30 feet" m-save="" m-targets="1 [[Willing]] creature" m-time="" modified="20200730192227872" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Occult" title="Spirit Link" turn-sun="You transfer hit points to the target." type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You form a spiritual link with another creature, allowing you to take in its pain. 
+
+When you Cast this Spell and at the start of each of your turns, if the target is below maximum Hit Points, it regains 2 Hit Points (or the difference between its current and maximum Hit Points, if that’s lower). 
+
+You lose as many Hit Points as the target regained.
+
+This is a spiritual transfer, so no effects apply that would increase the Hit Points the target regains or decrease the Hit Points you lose. 
+
+This transfer also ignores any temporary Hit Points you or the target have. 
+
+Since this effect doesn’t involve positive or negative energy, spirit link works even if you or the target is &lt;&lt;tag Undead&gt;&gt;. 
+
+While the duration persists, you gain no benefit from [[Regeneration]] or [[Fast Healing]]. 
+
+You can [[Dismiss]] this spell, and if you’re ever at 0 Hit Points, spirit link ends automatically.
+
+''Heightened (+1)'' The number of Hit Points transferred each time increases by 2.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730192242466" m-area="60 foot [[Cone]]" m-components="Somatic Verbal" m-duration="" m-level="8" m-range="" m-save="Fortitude" m-targets="" m-time="" modified="20200730192437588" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Force Necromancy Occult" title="Spirit Song" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Your eldritch song sends pulsing waves of ethereal energy to attack creatures’ spirits in the area, dealing 18d6 &lt;&lt;tag Force&gt;&gt;damage //with a basic [[Fortitude]] save.//
+
+Because spirit song affects creatures’ spirits, it can damage a target projecting its consciousness (such as via [[Project Image]]) or possessing another creature even if the target’s body is elsewhere. 
+
+The vibrating waves of spiritual song penetrate into, but not through, solid barriers, damaging incorporeal creatures hiding in solid objects in the area but not passing onward to damage creatures in other rooms.
+
+Possessed creatures aren’t harmed by the song. 
+
+The song doesn’t harm creatures that have no spirit, such as &lt;&lt;tag Construct&gt;&gt;s.
+
+''Heightened (+1)'' The damage increases by 2d6.
+</pre>
+</div>
 <div a-actions="1" created="20200723222015117" feat-class="Barbarian" feat-level="6" feat-sppre="[[Spirit Instinct]]" modified="20200723222612897" tags="Barbarian Divine Instinct Necromancy Rage Action Feat Class" title="Spirits' Interference" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You call forth protective spirits to ward off ranged attacks. 
 
 Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 flat check or the attack misses with no effect.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730192448778" m-area="" m-components="Somatic Verbal" m-duration="Varies" m-level="8" m-range="120 feet" m-save="Will" m-targets="1 creature" m-time="" mod-cast_a_spell="Casting on an affected target may spread the curse." modified="20200730192745402" s-crit="The target is unaffected." s-fail="The target is [[Enfeebled]] 2 and [[Stupefied]] 2 for 1 minute and [[Enfeebled]] 1 and [[Stupefied]] 1 permanently." s-fumble=" The target is [[Enfeebled]] 3 and [[Stupefied]] 3 for 1 minute and [[Enfeebled]] 2 and [[Stupefied]] 2 permanently." s-hit="The target is [[Enfeebled]] 2 and [[Stupefied]] 2 for 1 round." tags="Spell Somatic Verbal Concentrate Manipulate Curse Necromancy Divine Occult" title="Spiritual Epidemic" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+You curse the target, sapping its spirit and leaving a contagious trap in its essence. 
+
+The target must attempt a [[Will]] save. 
+
+{{||SaveSuccessTable}}
+
+Any creature that casts a &lt;&lt;tag Divine&gt;&gt; or &lt;&lt;tag Occult&gt;&gt; spell on the target while it’s affected is targeted by spiritual epidemic and must also attempt a [[Will]] save. The curse continues to spread in this way.
+
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730192933063" m-area="" m-components="Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 1 minute" m-level="5" m-range="120 feet" m-save="" m-targets="" m-time="" mod-disintegrate="Instantly destroys Spiritual Guardian." mod-sustain_a_spell="Choose new attack or guard target." modified="20200730193224770" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Attack Abjuration Force Divine" title="Spiritual Guardian" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+''Requirement'' You have a deity.
+
+A Medium guardian made of magical force appears and attacks foes you designate within range. 
+
+The spiritual guardian is translucent and appears to be holding your deity’s favored weapon.
+
+When you Cast the Spell, the spiritual guardian appears in an unoccupied space next to a foe of your choice within range and makes a [[Strike]] against it. 
+
+Each time you Sustain the Spell, you can move the spiritual guardian to an unoccupied space next to a target within range (if necessary) and make a Strike with it. 
+
+The guardian uses and contributes to your multiple attack penalty. 
+
+Alternatively, when you Sustain the Spell, you can have the guardian move adjacent to an ally and protect that ally. If you do, each time the ally would take damage, the guardian takes the first 10 damage instead of your ally. 
+
+It continues to do so until you move the guardian to attack an enemy or defend a different ally, or until the guardian is destroyed (it has 50 Hit Points and can’t recover Hit Points by any means). 
+
+The guardian can’t usually take damage except when protecting an ally, though [[Disintegrate]] automatically destroys it if it hits the spiritual guardian’s AC of 25.
+
+The guardian’s Strikes are melee spell attacks. 
+
+Regardless of the appearance of the guardian’s weapon, the guardian deals &lt;&lt;tag Force&gt;&gt; damage equal to 2d8 plus your spellcasting ability modifier, but you can deal damage of the type normally dealt by the weapon it holds instead of force damage. 
+
+No other traits or statistics of the weapon apply, and even a ranged weapon attacks adjacent creatures only. 
+
+Despite making a spell attack, the spiritual guardian’s weapon is a weapon for the purposes of triggers, resistances, and so forth.
+
+The guardian takes up space and allies can use it when [[Flanking]], but it doesn’t have any other attributes a creature would normally have aside from Hit Points, and creatures can move through its space without hindrance. 
+
+The guardian can’t make any attack other than its Strike, and feats or spells that affect weapons or enhance allies do not apply to the guardian.
+
+''Heightened (+2)'' The guardian’s damage increases by 1d8, and its Hit Points increase by 20.
+</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730193451149" m-area="" m-components="Somatic Verbal" m-duration="[[Sustained|Sustain a Spell]] up to 1 minute" m-level="2" m-range="120 feet" m-save="" m-targets="" m-time="" mod-sustain_a_spell="Attack again with weapon when sustained." modified="20200730193644792" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Attack Evocation Force Divine Occult" title="Spiritual Weapon" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+''Requirements'' You have a deity.
+
+A weapon made of pure magical force materializes and attacks foes you designate within range. 
+
+This weapon has a ghostly appearance and manifests as your deity’s favored weapon.
+
+When you cast the spell, the weapon appears next to a foe you choose within range and makes a [[Strike]] against it. 
+
+Each time you Sustain the Spell, you can move the weapon to a new target within range (if needed) and Strike with it. 
+
+The spiritual weapon uses and contributes to your multiple attack penalty.
+
+The weapon’s Strikes are melee spell attacks. 
+
+Regardless of its appearance, the weapon deals force damage equal to 1d8 plus your spellcasting ability modifier. You can deal damage of the type normally dealt by the weapon instead of force damage (or any of the available damage types for a versatile weapon). 
+
+No other statistics or traits of the weapon apply, and even a ranged weapon attacks adjacent creatures only. 
+
+Despite making a spell attack, the spiritual weapon is a weapon for purposes of triggers, resistances, and so forth.
+
+The weapon doesn’t take up space, grant flanking, or have any other attributes a creature would. 
+
+The weapon can’t make any attack other than its Strike, and feats or spells that affect weapons do not apply to it.
+
+''Heightened (+2)'' The weapon’s damage increases by 1d8.</pre>
 </div>
 <div created="20200726152716680" modified="20200726153140873" title="Splat" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>//Splats are used as a generic term for the options taken within classes.//
@@ -21696,6 +21967,16 @@ This action is for exceptionally small spaces; many tight spaces are [[Difficult
 
 //If you have [[Quick Squeeze]], you move much faster.//</pre>
 </div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730193734009" m-area="" m-components="Somatic Verbal" m-duration="" m-level="" m-range="30 feet" m-save="" m-targets="1 [[Dying]] creature" m-time="" modified="20200730193852915" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Cantrip Healing Necromancy Positive Divine Primal" title="Stabilize" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+Positive energy shuts death’s door. 
+
+The target loses the [[Dying]] condition, though it remains [[Unconscious]] at 0 Hit Points.
+
+//Losing the Dying condition will normally give the [[Wounded]] condition.//
+</pre>
+</div>
 <div a-actions="1" created="20200626205536500" modified="20200701185412535" tags="Action Move" title="Stand" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>You stand up from [[Prone]].
 
@@ -21724,6 +22005,16 @@ Please keep the [[Style Guide]].
 When they can’t, they’re [[Fatigued]] until they do. 
 
 After 1 day + a creature’s [[Constitution]] modifier without food, it takes 1 damage each day that can’t be healed until it sates its hunger.</pre>
+</div>
+<div a-crit="" a-defense="" a-fail="" a-fumble="" a-hit="" created="20200730193902005" m-area="" m-components="Somatic Verbal" m-duration="1 day" m-level="" m-range="[[Touch]]" m-save="" m-targets="1 [[Willing]] living creature" m-time="" modified="20200730193951548" s-crit="" s-fail="" s-fumble="" s-hit="" tags="Spell Somatic Verbal Concentrate Manipulate Detection Divination Divine Occult Primal" title="Status" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>{{||SpellSummaryTable}}
+
+As long as you and the target are on the same plane of existence and both alive, you remain aware of its present state. 
+
+You know the target’s direction from you, distance from you, and any &lt;&lt;tag Condition&gt;&gt;s affecting it.
+
+''Heightened (4th)'' The spell’s range increases to 30 feet, and you can target up to 10 creatures.
+</pre>
 </div>
 <div created="20200702151302754" feat-level="1" feat-skill="Acrobatics" feat-spre="T" mod-balance="Promotes hits to crits." mod-grab_an_edge="Can use Acrobatics instead of Reflex." mod-narrow_surface="Makes you not flat-footed on narrow surfaces." mod-uneven_ground="Makes you not flat-footed on uneven ground." modified="20200726003137232" tags="Feat General Skill" title="Steady Balance" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Prerequisites'' Trained in [[Acrobatics]].
@@ -22687,6 +22978,11 @@ Take the following steps in any order you choose. Play then proceeds to the next
 &lt;/table&gt;
 
 </pre>
+</div>
+<div created="20200730191316565" modified="20200730191350574" tags="Action Reaction Implied" title="Turn Spell" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>//Implied by [[Spell Turning]].//
+
+When a spell targets you, //while under the effect of Spell Turning//, you can spend a reaction to attempt to reflect it. </pre>
 </div>
 <div created="20200706234809631" modified="20200706234830462" tags="[[Weapon Trait]]" title="Twin" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>These weapons are used as a pair, complementing each other. 

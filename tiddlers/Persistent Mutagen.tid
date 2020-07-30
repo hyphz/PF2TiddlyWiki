@@ -2,7 +2,7 @@ created: 20200723204818082
 feat-class: Alchemist
 feat-fpre: [[Extend Elixir]]
 feat-level: 16
-modified: 20200723204948675
+modified: 20200730195306656
 tags: Alchemist Class Feat
 title: Persistent Mutagen
 type: text/vnd.tiddlywiki
@@ -11,5 +11,4 @@ type: text/vnd.tiddlywiki
 
 You’ve trained your physical form to remain stable within the a given altered state. 
 
-Once per day, when you consume an alchemical item with the <<tag Infused>>and <<tag Mutagen>> traits that you have crafted, you can retain its effects until the next time you
-make your [[daily preparations|Rest]] instead of its normal duration.
+Once per day, when you consume an alchemical item with the <<tag Infused>>and <<tag Mutagen>> traits, you can retain its effects until the next time you make your [[daily preparations|Rest]] instead of its normal duration.

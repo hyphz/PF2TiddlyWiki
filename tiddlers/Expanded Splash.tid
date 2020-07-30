@@ -2,7 +2,7 @@ created: 20200723201915918
 feat-class: Alchemist
 feat-fpre: [[Calculated Splash]]
 feat-level: 10
-modified: 20200723202041124
+modified: 20200730195239357
 tags: Alchemist Class Feat
 title: Expanded Splash
 type: text/vnd.tiddlywiki
@@ -11,4 +11,4 @@ type: text/vnd.tiddlywiki
 
 The particularly volatile compounds that you brew into your bombs result in them creating especially large and powerful explosions. 
 
-When you throw an alchemical bomb you created and that bomb has the <<tag Splash>> trait, you can add your Intelligence modifier to the bomb’s usual splash damage, and it deals splash damage to every creature within 10 feet of the target.
+When you throw an alchemical bomb and that bomb has the <<tag Splash>> trait, you can add your Intelligence modifier to the bomb’s usual splash damage, and it deals splash damage to every creature within 10 feet of the target.

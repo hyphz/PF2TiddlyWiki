@@ -2,11 +2,11 @@ created: 20200723205249917
 feat-class: Alchemist
 feat-level: 18
 mod-serene_mutagen: Makes mutagen also block scrying on you.
-modified: 20200723205428357
+modified: 20200730195319150
 tags: Alchemist Class Feat
 title: Mindblank Mutagen
 type: text/vnd.tiddlywiki
 
 With a minor adjustment of ratios in the formula for your serene mutagen, you gain mental protections. 
 
-When you’re affected by a [[Serene Mutagen]] you created, <<tag Detection>>, <<tag Revelation>>, and <<tag Scrying>>effects of 9th level or lower detect nothing from you or your possessions and auras. For instance, [[Detect Magic]] would still detect other magic in the area, but not any magic on you.
+When you’re affected by a [[Serene Mutagen]], <<tag Detection>>, <<tag Revelation>>, and <<tag Scrying>>effects of 9th level or lower detect nothing from you or your possessions and auras. For instance, [[Detect Magic]] would still detect other magic in the area, but not any magic on you.

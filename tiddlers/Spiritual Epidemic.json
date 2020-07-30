@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20200730192448778",
+        "text": "{{||SpellSummaryTable}}\n\nYou curse the target, sapping its spirit and leaving a contagious trap in its essence. \n\nThe target must attempt a [[Will]] save. \n\n{{||SaveSuccessTable}}\n\nAny creature that casts a <<tag Divine>> or <<tag Occult>> spell on the target while it’s affected is targeted by spiritual epidemic and must also attempt a [[Will]] save. The curse continues to spread in this way.\n\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Spiritual Epidemic",
+        "tags": "Spell Somatic Verbal Concentrate Manipulate Curse Necromancy Divine Occult",
+        "modified": "20200730192745402",
+        "s-hit": "The target is [[Enfeebled]] 2 and [[Stupefied]] 2 for 1 round.",
+        "s-fumble": " The target is [[Enfeebled]] 3 and [[Stupefied]] 3 for 1 minute and [[Enfeebled]] 2 and [[Stupefied]] 2 permanently.",
+        "s-fail": "The target is [[Enfeebled]] 2 and [[Stupefied]] 2 for 1 minute and [[Enfeebled]] 1 and [[Stupefied]] 1 permanently.",
+        "s-crit": "The target is unaffected.",
+        "m-time": "",
+        "m-targets": "1 creature",
+        "m-save": "Will",
+        "m-range": "120 feet",
+        "m-level": "8",
+        "m-duration": "Varies",
+        "m-components": "Somatic Verbal",
+        "m-area": "",
+        "a-hit": "",
+        "a-fumble": "",
+        "a-fail": "",
+        "a-defense": "",
+        "a-crit": "",
+        "mod-cast_a_spell": "Casting on an affected target may spread the curse."
+    }
+]

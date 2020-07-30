@@ -12,12 +12,12 @@ m-range: Touch
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200727211030314
+modified: 20200730195915725
 s-crit: The target is unaffected.
 s-fail: As success, but the effect is permanent.
 s-fumble: As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse.
 s-hit: For 10 minutes, the target must roll twice and use the worse result whenever attempting a [[Deception]], [[Diplomacy]], [[Intimidation]], or [[Performance]] check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[Unfriendly]] instead of [[Indifferent]]).
-tags: Attack Curse Enchantment Mental Misfortune Spell Arcane Divine Occult Somatic Verbal Concentrate Manipulate
+tags: Curse Enchantment Mental Misfortune Spell Arcane Divine Occult Somatic Verbal Concentrate Manipulate
 title: Outcast's Curse
 type: text/vnd.tiddlywiki
 

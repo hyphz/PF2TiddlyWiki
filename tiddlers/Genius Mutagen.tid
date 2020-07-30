@@ -2,13 +2,13 @@ created: 20200723204503242
 feat-class: Alchemist
 feat-level: 16
 mod-cognitive_mutagen: Lets mutagen also give skill bonuses and telepathy.
-modified: 20200723204755113
+modified: 20200730195251166
 tags: Class Feat Alchemist
 title: Genius Mutagen
 type: text/vnd.tiddlywiki
 
 Specialized tweaks to your formula that supplements your genius considerably broaden the benefits you gain from cognitive mutagens. 
 
-When you’re affected by a [[Cognitive Mutagen]] you created, you also gain the mutagen’s item bonus to [[Deception]], [[Diplomacy]], [[Intimidation]], [[Medicine]], [[Nature]], [[Performance]], [[Religion]], and [[Survival]] checks. 
+When you’re affected by a [[Cognitive Mutagen]], you also gain the mutagen’s item bonus to [[Deception]], [[Diplomacy]], [[Intimidation]], [[Medicine]], [[Nature]], [[Performance]], [[Religion]], and [[Survival]] checks. 
 
 In addition, you can communicate telepathically with creatures within 60 feet with whom you share a language. The communication is twoway once you establish it, so a creature you contact can also communicate with you.

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730191628029
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 2
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200730191708748
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+title: Spider Climb
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Tiny clinging hairs sprout across the creature’s hands and feet, offering purchase on nearly any surface. 
+
+The target gains a climb Speed equal to its Speed.
+
+''Heightened (5th)'' The duration increases to 1 hour.

@@ -10,9 +10,9 @@ m-duration: Until the next time you make your [[daily preparations|Rest]]
 m-level: 1
 m-range: Touch
 m-save: 
-m-targets: 1 unattended, non-magical object of 1 Bulk or less
+m-targets: __1 object of 1 Bulk or less, either unattended or possessed by you or a [[Willing]] ally__
 m-time: 
-modified: 20200726231504075
+modified: 20200730200220963
 s-crit: 
 s-fail: 
 s-fumble: 

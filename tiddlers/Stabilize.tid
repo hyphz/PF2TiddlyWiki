@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730193734009
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Dying]] creature
+m-time: 
+modified: 20200730193852915
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Healing Necromancy Positive Divine Primal
+title: Stabilize
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Positive energy shuts death’s door. 
+
+The target loses the [[Dying]] condition, though it remains [[Unconscious]] at 0 Hit Points.
+
+//Losing the Dying condition will normally give the [[Wounded]] condition.//

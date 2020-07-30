@@ -1,0 +1,43 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730192034371
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] creature
+m-time: 
+modified: 20200730192227872
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Occult
+title: Spirit Link
+turn-sun: You transfer hit points to the target.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You form a spiritual link with another creature, allowing you to take in its pain. 
+
+When you Cast this Spell and at the start of each of your turns, if the target is below maximum Hit Points, it regains 2 Hit Points (or the difference between its current and maximum Hit Points, if that’s lower). 
+
+You lose as many Hit Points as the target regained.
+
+This is a spiritual transfer, so no effects apply that would increase the Hit Points the target regains or decrease the Hit Points you lose. 
+
+This transfer also ignores any temporary Hit Points you or the target have. 
+
+Since this effect doesn’t involve positive or negative energy, spirit link works even if you or the target is <<tag Undead>>. 
+
+While the duration persists, you gain no benefit from [[Regeneration]] or [[Fast Healing]]. 
+
+You can [[Dismiss]] this spell, and if you’re ever at 0 Hit Points, spirit link ends automatically.
+
+''Heightened (+1)'' The number of Hit Points transferred each time increases by 2.

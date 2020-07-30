@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 1 creature or unattended object
 m-time: 
-modified: 20200720222239913
+modified: 20200730200026895
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Arcane Somatic Verbal Spell Concentrate Manipulate
+tags: Evocation Arcane Somatic Verbal Spell Concentrate Manipulate Attack
 title: Disintegrate
 type: text/vnd.tiddlywiki
 
