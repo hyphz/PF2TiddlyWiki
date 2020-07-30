@@ -1,0 +1,19 @@
+created: 20200730003647907
+feat-level: 1
+feat-skill: Society
+feat-spre: T
+mod-decipher_writing: Can attempt to decipher glimpsed or hidden writing.
+modified: 20200730003817746
+tags: General Skill Feat
+title: Glean Contents
+type: text/vnd.tiddlywiki
+
+You are adept at quickly scanning loose papers and carefully discerning the contents of sealed letters without damaging the seal. 
+
+You can attempt [[Society]] checks to [[Decipher Writing]] on a message that is only partially glimpsed, upside down or reversed from your perspective, or even sealed. 
+
+However, on a critical failure, the recipient is made aware of your efforts (for instance, you damage the seal or disturb the papers in some way). 
+
+When using this feat to decipher sealed letters, your attempt to Decipher Writing gains the <<tag Manipulate>> trait. 
+
+This feat doesn’t prevent witnesses from noticing your efforts, particularly with sealed letters which you must manipulate directly in order to read; you might need to attempt [[Deception]] or [[Stealth]] checks to avoid being noticed.

@@ -1,0 +1,15 @@
+created: 20200730004908182
+feat-level: 1
+feat-skill: Crafting Lore
+feat-spre: T
+mod-craft: Gives +1/2 circumstance to crafting food and drink.
+modified: 20200730005016400
+tags: Feat General Skill
+title: Seasoned
+type: text/vnd.tiddlywiki
+
+You’ve mastered the preparation of many types of food and drink. 
+
+You gain a +1 circumstance bonus to checks to [[Craft]] food and drink, including potions. 
+
+If you are a master in one of the prerequisite skills, this bonus increases to +2.

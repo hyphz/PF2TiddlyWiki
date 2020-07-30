@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200726004305714
+modified: 20200730005624130
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -102,7 +102,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Rage]]</th><td>You have to be raging to use this.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Rare]]">
-<tr><th>[[Rare]]</th><td>You can't normally gain this by character advancement.</td></tr>
+<tr><th>[[Rare]]</th><td>You can't gain this unless a plot gives it to you.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Secret]]">
 <tr><th>[[Secret]]</th><td>The GM makes the roll for this in secret.</td></tr>

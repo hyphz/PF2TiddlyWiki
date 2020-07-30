@@ -1,0 +1,20 @@
+a-actions: 1
+a-crit: The target is distracted and takes a -3 status penalty to [[Perception]] and [[Will]] saves for 1 minute. The target can end the effect early with a retort to your Bon Mot. This can either be a single action that has the <<tag Concentrate>> trait or an appropriate skill action to frame their retort. The GM determines which skill actions qualify, though they must take at least 1 action. Typically, the retort needs to use a <<tag Linguistic>> Charisma-based skill action.
+a-defense: Will
+a-fumble: Your quip is atrocious. You take the same penalty an enemy would take had you succeeded. This ends after 1 minute or if you issue another Bon Mot and succeed.
+a-hit: As critical success, but the penalty is -2.
+a-skill: Diplomacy
+created: 20200730001845813
+feat-level: 1
+feat-skill: Diplomacy
+feat-spre: T
+modified: 20200730002132179
+tags: Auditory Concentrate Emotion General Linguistic Mental Skill Feat Action
+title: Bon Mot
+type: text/vnd.tiddlywiki
+
+You launch an insightful quip at a foe, distracting them. 
+
+Choose a foe within 30 feet and roll a [[Diplomacy]] check against the target’s [[Will]] DC.
+
+{{||ActionSuccessTable}}

@@ -1,0 +1,23 @@
+a-actions: 3
+a-crit: Reduced the creature's [[Frightened]] value by 2.
+a-defense: Will
+a-hit: Reduce the creature's [[Frightened]] value by 1.
+a-skill: Diplomacy
+created: 20200730004127082
+feat-level: 1
+feat-skill: Diplomacy
+feat-spre: T
+modified: 20200730004344175
+tags: Feat General Skill Action Auditory Concentrate Emotion Linguistic Mental
+title: No Cause for Alarm
+type: text/vnd.tiddlywiki
+
+You attempt to reduce panic. 
+
+Attempt a [[Diplomacy]] check, comparing it to the [[Will]] DC of creatures in a 10-foot emanation around you who are [[Frightened]]. 
+
+{{||ActionSuccessTable}}
+
+Each of them is temporarily immune for 1 hour.
+
+// Yes, someone with a better Will DC is ''harder'' to free from fear. //

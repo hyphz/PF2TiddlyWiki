@@ -1,0 +1,13 @@
+created: 20200730004005442
+feat-level: 1
+feat-skill: Medicine
+feat-spre: T
+mod-treat_disease: Recovered patient gets a bonus vs being re-infected.
+modified: 20200730004107152
+tags: General Healing Skill
+title: Inoculation
+type: text/vnd.tiddlywiki
+
+You have practice combating plague, and your patients are less likely to succumb to the same disease again for a time. 
+
+When you successfully [[Treat Disease]] on someone and they fully recover from the disease, they gain a +2 circumstance bonus to saving throws against that same disease for 1 week.

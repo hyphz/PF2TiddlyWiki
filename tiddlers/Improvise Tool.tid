@@ -1,0 +1,14 @@
+created: 20200730003837958
+feat-level: 1
+feat-skill: Crafting
+feat-spre: T
+mod-craft: Craft basic kit without a recipe.
+mod-repair: Repair without a repair kit.
+modified: 20200730003943744
+tags: General Skill Feat
+title: Improvise Tool
+type: text/vnd.tiddlywiki
+
+You can jury-rig solutions when you don’t have the proper tools on hand. You can attempt to [[Repair]] damaged items without a repair kit.
+
+If you have the raw materials available, you can [[Craft]] a basic caltrop set, candle, compass, crowbar, fishing tackle, flint and steel, hammer, ladder, piton, rope, 10-foot pole, replacement thieves’ picks, long or short tool, or torch without consulting a basic crafter’s book.
