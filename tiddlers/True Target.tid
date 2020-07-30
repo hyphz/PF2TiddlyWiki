@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730225513112
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the start of your next turn
+m-level: 7
+m-range: 60 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200730225707856
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Divination Fortune Prediction
+title: True Target
+turn-sun: Bonus to attack rolls wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You delve into the possible futures of the next few seconds to understand all the ways your target might avoid harm, then cast out a vision of that future to those around you. 
+
+On the first attack roll made against the target during true target’s duration, the attacker rolls twice and uses the better result. 
+
+The attacker also ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Concealed]] or [[Hidden]].

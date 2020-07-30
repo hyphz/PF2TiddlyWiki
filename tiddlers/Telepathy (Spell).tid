@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730222840499
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200730222927495
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Linguistic Mental Arcane Occult
+title: Telepathy (Spell)
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You can communicate telepathically with creatures within 30 feet. 
+
+Once you establish a connection by communicating with a creature, the communication is two-way. 
+
+You can communicate only with creatures that share a language with you.
+
+''Heightened (6th)'' Telepathy loses the linguistic trait. You can communicate telepathically with creatures using shared mental imagery even if you don’t share a language.

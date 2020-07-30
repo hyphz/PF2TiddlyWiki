@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730214904271
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200730215435678
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Occult
+title: Summon Entity
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You conjure an aberration to fight for you. 
+
+This works like [[Summon Animal]], except you summon a common creature that has the <<tag Aberration>> trait and whose level is 5 or lower.
+
+{{SummonHeightenList}}
+

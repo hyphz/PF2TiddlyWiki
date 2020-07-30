@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730212514648
+m-area: 
+m-components: Somatic Verbal
+m-duration: 20 minutes
+m-level: 4
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200730212631740
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Earth Arcane Primal
+title: Stoneskin
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target’s skin hardens like stone. 
+
+It gains [[Resistance]] 5 to physical damage, except adamantine. 
+
+Each time the target is hit by a <<tag Bludgeoning>>, <<tag Piercing>>, or <<tag Slashing>> attack, stoneskin’s duration decreases by 1 minute.
+
+''Heightened (6th)'' The resistance increases to 10.
+
+''Heightened (8th)'' The resistance increases to 15.
+
+''Heightened (10th)'' The resistance increases to 20.

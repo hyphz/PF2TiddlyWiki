@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730222138356
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200730222257511
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Attack Cantrip Evocation Arcane Occult
+title: Telekinetic Projectile
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You hurl a loose, unattended object that is within range and that has 1 Bulk or less at the target. 
+
+Make a ranged attack against the target. 
+
+If you hit, you deal bludgeoning, piercing, or slashing damage—as appropriate for the object you hurled—equal to 1d6 plus your spellcasting ability modifier.
+
+No specific traits or magic properties of the hurled item affect the attack or the damage.
+
+//You deal double damage on a critical.//
+
+''Heightened (+1)'' The damage increases by 1d6.

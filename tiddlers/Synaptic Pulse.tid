@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730220253351
+m-area: 30 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 1 round
+m-level: 5
+m-range: 30 feet
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200730220415846
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Stunned]] 2.
+s-fumble: The creature is [[Stunned]] for 1 round.
+s-hit: The creature is [[Stunned]] 1.
+tags: Spell Somatic Verbal Concentrate Manipulate Occult Enchantment Incapacitation Mental
+title: Synaptic Pulse
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You emit a pulsating mental blast that penetrates the minds of all enemies in the area. 
+
+Each creature in the area must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730231653443
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: [[Touch]]
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20200730231742669
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Concentrate Manipulate Death Necromancy Negative Arcane Divine Occult Somatic Verbal
+title: Vampiric Touch
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your touch leeches the lifeblood out of a target to empower yourself. 
+
+You deal 6d6 negative damage to the target. 
+
+You gain temporary Hit Points equal to half the negative damage the target takes (after applying resistances and the like). 
+
+You lose any remaining temporary Hit Points after 1 minute.
+
+''Heightened (+1)'' The damage increases by 2d6.

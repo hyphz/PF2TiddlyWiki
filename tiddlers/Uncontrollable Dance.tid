@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730225717907
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 8
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200730225925015
+s-crit: The target is unaffected.
+s-fail: The spell's duration is 1 minute, and the target must spend at least 2 actions each turn dancing.
+s-fumble: The spell's duration is 1 minute, and the target must spend all its actions each turn dancing.
+s-hit: The spell’s duration is 3 rounds, and the target must spend at least 1 action each turn dancing.
+tags: Spell Concentrate Manipulate Enchantment Incapacitation Mental Somatic Verbal Arcane Occult
+title: Uncontrollable Dance
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target is overcome with an all-consuming urge to dance.
+
+For the duration of the spell, the target is [[Flat-Footed]] and can’t use [[Reaction]]s. 
+
+While affected, the creature can’t use actions with the <<tag Move>> trait except to dance, using the [[Stride]] action to move up to half its Speed.
+
+{{||SaveSuccessTable}}

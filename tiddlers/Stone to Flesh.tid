@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730212348212
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 6
+m-range: [[Touch]]
+m-save: 
+m-targets: Petrified creature or human-size stone object
+m-time: 
+modified: 20200730212503743
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Earth Transmutation Divine Primal
+title: Stone to Flesh
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Manipulating the fundamental particles of matter, you convert stone into flesh and blood. 
+
+You restore a [[Petrified]] creature to its normal state or transform a stone object into a mass of inert flesh (without stone’s Hardness) in roughly the same shape.

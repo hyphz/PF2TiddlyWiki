@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730211732626
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 3
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200730212117436
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Sickened]] 1 and [[Slowed]] 1 while in the cloud.
+s-fumble: The creature is [[Sickened]] 2 and [[Slowed]] 1 until it leaves the cloud.
+s-hit: The creature is [[Sickened]] 1.
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Primal Conjuration Poison
+title: Stinking Cloud
+turn-euc: Creatures inside the mist must save.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a cloud of putrid mist in the area. The cloud functions as [[Obscuring Mist]] except it sickens creatures that end their turns within the cloud. 
+
+//They must make a [[Fortitude]] save.//
+
+(The [[Concealed]] condition is not a poison effect.)
+
+{{||SaveSuccessTable}}

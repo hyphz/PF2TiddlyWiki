@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730232054742
+m-area: 10 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 6
+m-range: 120 feet
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200730232310660
+s-crit: 
+s-fail: The creature is [[Blinded]] by the pattern. If it exits the pattern, it can attempt a new save to recover from the blinded condition at the end of each of its turns, to a maximum duration of 1 minute.
+s-fumble: The creature is blinded for 1 minute.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Illusion Incapacitation Visual Arcane Occult
+title: Vibrant Pattern
+turn-etc: Must save if inside the pattern.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a pattern of lights that pulses with intensity.
+
+Creatures are [[Dazzled]] while inside the pattern.
+
+In addition, a creature must attempt a [[Will]] saving throw if it’s inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a [[Seek]] or [[Interact]] action on the pattern. 
+
+A creature currently [[Blinded]] by the pattern doesn’t need to attempt new saving throws.
+
+{{||SaveSuccessTable}}

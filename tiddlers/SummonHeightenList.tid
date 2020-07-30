@@ -1,0 +1,17 @@
+created: 20200730213758000
+modified: 20200730213904328
+tags: 
+title: SummonHeightenList
+type: text/vnd.tiddlywiki
+
+| !Heighten Level | !Summon Level |
+| 1 | -1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 3 |
+| 5 | 5 |
+| 6 | 7 |
+| 7 | 9 |
+| 8 | 11 |
+| 9 | 13 |
+| 10 | 15 |

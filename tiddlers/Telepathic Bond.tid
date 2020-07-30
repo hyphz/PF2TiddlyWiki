@@ -1,0 +1,26 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730222315265
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 8 hours
+m-level: 5
+m-range: [[Touch]]
+m-save: 
+m-targets: You and up to 4 [[Willing]] creatures [[Touch]]ed
+m-time: 
+modified: 20200730222557062
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Divination Mental Arcane Occult
+title: Telepathic Bond
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The targets can communicate telepathically with any or all of the other targets from any point on the same planet.

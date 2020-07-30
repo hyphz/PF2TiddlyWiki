@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730225051042
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 6
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200730225237480
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Revelation Arcane Divine Occult Primal
+title: True Seeing
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You see things within 60 feet as they actually are. 
+
+The GM rolls a <<tag Secret>> [[Counteract]] check against any <<tag Illusion>> or <<tag Transmutation>> in the area, but only for the purpose of determining whether you see through it (for instance, if the check succeeds against a <<tag Polymorph>> spell, you can see the creature’s true form, but you don’t end the polymorph spell).
+

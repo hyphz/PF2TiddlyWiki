@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730224522678
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 living creature
+m-time: 
+modified: 20200730224649166
+s-crit: 
+s-fail: The target is [[Stupefied]] 2.
+s-fumble: The target is [[Stupefied]] 4.
+s-hit: The target is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Mental Arcane Occult
+title: Touch of Idiocy
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You dull the target's mind.
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

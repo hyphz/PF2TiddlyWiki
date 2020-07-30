@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730231250330
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]]
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 
+m-time: 
+mod-sustain_a_spell: Command servant when sustained.
+modified: 20200730231450424
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Arcane Occult
+title: Unseen Servant
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You summon an unseen servant (see the sidebar), which you can command as part of [[Sustaining the Spell|Sustain a Spell]]. 
+
+It serves you until its Hit Points are reduced to 0, at which point the spell ends, or until you stop Sustaining the Spell. 
+
+The unseen servant gains the <<tag Summoned>> trait.

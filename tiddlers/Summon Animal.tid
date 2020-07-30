@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730213944918
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200730214508863
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Arcane Primal
+title: Summon Animal
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You conjure an animal to fight for you. 
+
+You summon a common creature that has the <<tag Animal>> trait and whose level is –1. 
+
+Heightening the spell increases the maximum level of creature you can summon.
+
+{{SummonHeightenList}}
+

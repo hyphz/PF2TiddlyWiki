@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730220739603
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 10 minutes
+m-level: 4
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 corpse
+m-time: 10 minutes
+modified: 20200730220922138
+s-crit: The target can lie or refuse to answer your questions, and the target’s spirit haunts you for 24 hours, bothering you and causing you to be unable to gain any rest for that time.
+s-fail: The target must answer truthfully, but its answers can be brief, cryptic, and repetitive. It can still mislead you or attempt to stall so that the spell’s duration runs out before you can ask all your questions.
+s-fumble: As failure, but the target’s answers are more direct and less repetitive, though still cryptic. It takes a –2 status penalty to [[Deception]] checks to deceive or mislead you.
+s-hit: The target can provide false information or refuse to answer your questions.
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Necromancy Divine Occult Material
+title: Talking Corpse
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You grant the target corpse a semblance of life, which it uses to speak the answers to three questions posed to it. 
+
+This spell calls on the physical body’s latent memories rather than summoning back the deceased’s spirit, so the corpse must be mostly intact for the spell to function. 
+
+The more damage the corpse has taken, the more inaccurate or patchwork its answers are, and it must have a throat and mouth to speak at all. 
+
+If anyone has previously cast this spell on the corpse in the last week, the spell automatically fails. 
+
+The corpse can attempt a [[Will]] save to resist answering the questions using the statistics of the original creature at its time of death, with the following effects:
+
+{{||SaveSuccessTable}}

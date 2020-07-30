@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730221407074
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 120 feet
+m-save: 
+m-targets: 1 object of up to 80 Bulk with no dimension longer than 20 feet
+m-time: 
+mod-sustain_a_spell: Move your target or choose a new target.
+modified: 20200730221526347
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult
+title: Telekinetic Haul
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You move the target up to 20 feet, potentially suspending it in midair. 
+
+When you [[Sustain the Spell|Sustain a Spell]], you can do so again, or you can choose a different eligible target to move.

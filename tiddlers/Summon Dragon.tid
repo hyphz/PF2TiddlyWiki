@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730214519795
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200730214621710
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Arcane
+title: Summon Dragon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You conjure a dragon to fight for you. 
+
+This works like [[Summon Animal]], except you summon a common creature that has the <<tag Dragon>>trait and whose level is 5 or lower.
+
+Heightening the spell increases the maximum level of creature you can summon.
+
+{{SummonHeightenList}}
+

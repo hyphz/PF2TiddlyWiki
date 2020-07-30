@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730214640822
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 2
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200730214719559
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Arcane Primal
+title: Summon Elemental
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You conjure an elemental to fight for you. 
+
+This works like [[Summon Animal]], except you summon a common creature that has the <<tag Elemental>> trait and whose level is 1 or lower.
+
+Heightening the spell increases the maximum level of creature you can summon.
+
+{{SummonHeightenList}}
+

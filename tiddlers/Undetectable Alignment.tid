@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200730225941841
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 2
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature or object
+m-time: 1 minute
+modified: 20200730230045632
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Abjuration Divine Occult Material
+title: Undetectable Alignment
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shroud a creature in wards that hide its alignment. 
+
+The target appears to be neutral to all effects that would detect its alignment.
