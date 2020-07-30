@@ -1,0 +1,18 @@
+created: 20200730120557532
+feat-level: 2
+feat-skill: Religion
+feat-spre: E
+mod-coerce: Use Religion to Coerce numbers of your faith.
+mod-request: Use Religion to Request from members of your faith.
+modified: 20200730120803764
+tags: General Skill Feat
+title: Exhort the Faithful
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Follower of a specific religion.
+
+Your knowledge of the tenets of your faith gives you insight into the best ways to get others of your faith to help you or to follow your directions. 
+
+When you [[Request]] something of or [[Coerce]] members of your own faith, you can attempt a [[Religion]] check instead of [[Diplomacy]] or [[Intimidation]], and you gain a +2 circumstance bonus to the check. 
+
+On a critically failed attempt to make a Request, the target’s attitude toward you doesn’t worsen.

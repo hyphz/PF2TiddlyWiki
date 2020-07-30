@@ -1,0 +1,24 @@
+created: 20200730124445528
+feat-class: Alchemist
+feat-level: 4
+mod-quick_alchemy: Lets you throw healing elixirs as bombs (Additive 2).
+modified: 20200730124726026
+tags: Alchemist Class Feat Action Additive Free
+title: Healing Bomb
+type: text/vnd.tiddlywiki
+
+''Additive 2''.
+
+''Frequency'' Once per round.
+
+''Trigger'' You craft an [[Elixir of Life]] using [[Quick Alchemy]], and that elixir is at least 2 levels lower than your [[Advanced Alchemy]] level.
+
+By adding a special catalyst, you transform a healing elixir into a topical projectile. 
+
+You grant the elixir the <<tag Bomb>>trait.
+
+If you throw an elixir of life bomb at a willing target, you hit even on a failure, though not on a critical failure. 
+
+If your Strike with this elixir bomb hits a living target, the target regains Hit Points as if it had consumed the elixir. 
+
+On a critical success, the target also gains the elixir’s item bonus to saving throws against diseases and poisons for 1 minute.

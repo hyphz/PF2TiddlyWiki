@@ -1,0 +1,13 @@
+created: 20200730124022918
+feat-class: Alchemist
+feat-level: 1
+modified: 20200730124101959
+tags: Alchemist Class Feat
+title: Subtle Delivery
+type: text/vnd.tiddlywiki
+
+You can capably deliver toxins with a blowgun. 
+
+Your blowgun [[Strike]]s can apply injury poisons even if they deal no damage due to a creature’s resistance. 
+
+If you critically succeed at an attack roll using a blowgun loaded with a dart you’ve poisoned and the target rolls a failure on the poison’s initial save, the target critically fails instead.

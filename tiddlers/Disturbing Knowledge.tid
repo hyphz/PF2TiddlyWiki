@@ -1,0 +1,24 @@
+a-actions: 2
+a-crit: The target becomes [[Confused]] for 1 round and [[Frightened]] 1.
+a-defense: Will
+a-fail: The target is unaffected.
+a-fumble: You get overly caught up in your own words and becomes [[Frightened]] 1.
+a-hit: The target becomes [[Frightened]] 1.
+a-skill: Occultism
+created: 20200730120108965
+feat-level: 7
+feat-skill: Occultism
+feat-spre: M
+modified: 20200730120443164
+tags: General Skill Feat Emotion Fear Mental Action
+title: Disturbing Knowledge
+type: text/vnd.tiddlywiki
+
+You utter a litany of dreadful names, prophecies, and descriptions of realms beyond mortal comprehension, drawn from your study of forbidden tomes and scrolls. Even those who don’t
+understand your language are unsettled by these dire secrets.
+
+Attempt an [[Occultism]] check and compare the result to the [[Will]] DC of an enemy within 30 feet, or to the Will DCs of any number of enemies within 30 feet if you are legendary in Occultism.
+
+{{||ActionSuccessTable}}
+
+Those creatures are temporarily immune for 24 hours.

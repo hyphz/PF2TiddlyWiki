@@ -1,0 +1,18 @@
+created: 20200730121927419
+feat-level: 3
+modified: 20200730122045846
+tags: General Feat
+title: Prescient Planner
+type: text/vnd.tiddlywiki
+
+''Cost'' The price of the chosen item.
+
+''Requirements'' You haven't used this ability since the last time you were able to purchase goods.
+
+You regularly create convoluted plans and contingencies, using your resources to enact them. 
+
+You take 1 minute to remove your backpack, then carefully remove an item you hadn’t previously declared that you purchased—you intuited that you would come to need the item and purchased it at the latest opportunity. 
+
+The item must be a piece of adventuring gear and can’t be a weapon, armor, alchemical item, magic item, or other treasure. 
+
+It must be <<tag Common>> with a level no higher than half your level, and its [[Bulk]] must be low enough that carrying it wouldn’t have made you [[Encumbered]].

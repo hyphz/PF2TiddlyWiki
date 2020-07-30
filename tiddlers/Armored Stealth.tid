@@ -1,0 +1,17 @@
+created: 20200730113217013
+feat-level: 2
+feat-skill: Stealth
+feat-spre: E
+mod-stealth: Reduce armor penalty or quiet Noisy armor.
+modified: 20200730113328376
+tags: General Skill Feat
+title: Armored Stealth
+type: text/vnd.tiddlywiki
+
+You have learned techniques to adjust and modify your armor and movements to reduce the noise you make. 
+
+When you wear non-<<tag Noisy>> armor with which you are trained, your penalty to [[Stealth]] checks is reduced by 1 (to a minimum penalty of 0). 
+
+If you’re a master in Stealth, reduce the penalty by 2, and if you’re legendary, reduce the penalty by 3. 
+
+If your armor has the noisy trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the noisy trait, enabling you to remove the penalty with a sufficient Strength score as normal.

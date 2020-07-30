@@ -1,0 +1,17 @@
+created: 20200730121620937
+feat-level: 2
+feat-skill: Athletics
+feat-spre: E
+mod-follow_the_expert: Expert Climber can pull you up if you fail.
+modified: 20200730121729879
+tags: General Skill Feat
+title: Lead Climber
+type: text/vnd.tiddlywiki
+
+When climbing, you can prepare routes for others to follow, and you can pull your allies up to avoid disaster. 
+
+When your allies attempt to [[Climb]] a route you set using the [[Follow the Expert]] exploration activity, if any of them critically fail their checks to Climb, you can attempt an Athletics check against the same DC. 
+
+If you succeed, your ally fails instead of critically failing. 
+
+If you also critically fail, you both experience the consequences of the critical failure.

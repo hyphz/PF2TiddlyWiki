@@ -1,0 +1,13 @@
+created: 20200730115925586
+feat-level: 2
+feat-skill: Performance
+feat-spre: E
+mod-aid: Use Performance to create diversion for an ally.
+modified: 20200730120059863
+tags: General Skill Feat
+title: Distracting Performance
+type: text/vnd.tiddlywiki
+
+Your performances are especially distracting, allowing your allies to Sneak away with ease. 
+
+When you [[Aid]] an ally who is trying to [[Create a Diversion]], instead of the usual effects of Aid, you can roll a [[Performance]] check and use that result to determine the outcome of the diversion, instead of the ally rolling a [[Deception]] check.

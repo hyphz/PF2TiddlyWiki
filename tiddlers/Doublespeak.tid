@@ -1,0 +1,16 @@
+created: 20200730120456104
+feat-level: 7
+feat-skill: Deception
+feat-spre: M
+modified: 20200730120549546
+tags: General Skill Feat
+title: Doublespeak
+type: text/vnd.tiddlywiki
+
+You are skilled at saying one thing while meaning something different. 
+
+You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. 
+
+Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. 
+
+Other observers must succeed at a [[Perception]] check against your [[Deception]] DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.

@@ -1,0 +1,15 @@
+created: 20200730123057374
+feat-level: 3
+feat-skill: Perception
+feat-spre: E
+mod-search: Go half speed for +2 circumstance to Seek.
+modified: 20200730123150707
+tags: General Feat
+title: Thorough Search
+type: text/vnd.tiddlywiki
+
+You take your time searching to ensure you find everything.
+
+When [[Search]]ing, you can take twice as long to search. Normally this means you Search at up to one quarter of your Speed, to a maximum of 150 feet per minute to check everything, or 75 feet per minute to check everything before you walk into it. 
+
+If you do, you gain a +2 circumstance bonus to your Perception checks to [[Seek]].

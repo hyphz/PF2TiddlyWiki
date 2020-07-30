@@ -1,10 +1,12 @@
 created: 20200627220557670
-modified: 20200627220932740
+modified: 20200730123737276
 tags: 
 title: Material
 type: text/vnd.tiddlywiki
 
 A material component is a bit of physical matter consumed in the casting of the spell. 
+
+Material components aren’t ubiquitous like somatic and verbal components. They’re used primarily for spells with physical effects, especially ones with a longer duration or that alter or control a large area, such as walls or zones of dangerous terrain. A material component pouch typically contains everything you need. This doesn’t mean the materials are interchangeable, though—one spell might need powdered iron and another a particular gemstone. 
 
 The spell gains the [[Manipulate]] trait and requires you to have a free hand to retrieve and manipulate a material component. 
 

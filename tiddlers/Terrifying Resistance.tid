@@ -1,0 +1,16 @@
+created: 20200730122910668
+feat-level: 2
+feat-skill: Intimidation
+feat-spre: E
+mod-demoralize: Get a bonus against spells of enemies you demoralize.
+mod-fortitude: +1 circumstance against spells by enemies you demoralized.
+mod-reflex: +1 circumstance against spells by enemies you demoralized.
+mod-will: +1 circumstance against spells by enemies you demoralized.
+modified: 20200730123047134
+tags: General Skill Feat
+title: Terrifying Resistance
+type: text/vnd.tiddlywiki
+
+The spells of those you have [[Demoralize]]d are less effective on you. 
+
+If you succeed in Demoralizing a creature, for the next 24 hours you gain a +1 circumstance bonus to saving throws against that creature’s spells.

@@ -1,9 +1,11 @@
 created: 20200627220420875
-modified: 20200729225840325
+modified: 20200730123701830
 title: Somatic
 type: text/vnd.tiddlywiki
 
 A somatic component is a specific hand movement or gesture that generates a magical nexus. 
+
+Somatic components, such as twisting your hand in a complex gesture, shape magical energy into directed forms. While verbal components bring forward powerful forces, somatic components compel those forces to obey the spellcaster’s wishes. Spells that have only somatic components typically have a physical effect or require touching a creature.
 
 The spell gains the [[Manipulate]] trait and requires you to make gestures. 
 

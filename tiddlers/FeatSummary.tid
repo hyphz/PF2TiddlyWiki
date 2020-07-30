@@ -1,5 +1,5 @@
 created: 20200712160917173
-modified: 20200725165655526
+modified: 20200730125125078
 tags: 
 title: FeatSummary
 type: text/vnd.tiddlywiki
@@ -12,10 +12,13 @@ type: text/vnd.tiddlywiki
 </td></tr>
 <tr><th>Level</th><td>{{!!feat-level}}</td></tr>
 <$list filter="[all[current]tag[Skill]]">
-<tr><th>Skill</th><td>{{!!feat-skill}}</td></tr>
+<tr><th>Skill</th><td>
+<$list filter="[list[!!feat-skill]]"><$link/> </$list>
+</td></tr>
 <tr><th>Requirement</th><td>{{!!feat-spre}}
 <$transclude tiddler="TraitSummaryLongName" index={{!!feat-spre}} />
 </td></tr>
+<tr><th>Requires</th><td>{{!!feat-fpre}}</td></tr>
 </$list>
 <$list filter="[all[current]tag[Class]]">
 <tr><th>Class</th><td>{{!!feat-class}}</td></tr>

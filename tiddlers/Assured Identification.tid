@@ -1,0 +1,15 @@
+created: 20200730113344659
+feat-level: 2
+feat-skill: Arcana Nature Occultism Religion
+feat-spre: E
+mod-identify_magic: Can't fumble when identifying items.
+modified: 20200730113619672
+tags: General Skill Feat
+title: Assured Identification
+type: text/vnd.tiddlywiki
+
+You rarely misidentify an item. 
+
+When using [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]] checks to [[Identify Magic]], if you roll a critical failure, you get a failure instead. 
+
+If you would misidentify a cursed item because you roll a success but not a critical success, you simply can’t identify it instead.
