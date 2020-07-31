@@ -1,0 +1,16 @@
+created: 20200731185244231
+feat-fpre: [[Godless Healing]]
+feat-level: 2
+feat-skill: Medicine
+feat-spre: U
+mod-treat_wounds: Promotes successes if target hasn't had divine healing.
+modified: 20200731185357837
+tags: General Skill Feat
+title: Mortal Healing
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' You follow the Laws of Mortality.
+
+You grant greater healing when the gods don’t interfere. 
+
+When you roll a success to Treat Wounds for a creature that hasn’t regained Hit Points from divine magic in the past 24 hours, you get a critical success on your check instead and restore the corresponding amount of Hit Points.

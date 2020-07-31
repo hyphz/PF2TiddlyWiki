@@ -1,0 +1,22 @@
+a-actions: 1
+a-crit: You gain 10 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.
+a-fumble: Your deity withholds their blessing. You cannot attempt to call to your deity again for 1 day.
+a-hit: You gain 5 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.
+a-skill: Religion
+created: 20200731190600215
+feat-level: 7
+feat-skill: Religion
+feat-spre: M
+modified: 20200731190753767
+modified-by: Religion
+tags: Feat General Divine Skill Action
+title: Sacred Defense
+type: text/vnd.tiddlywiki
+
+You call upon your deity to grant you their protective blessing. 
+
+Attempt a DC 30 [[Religion]] check. 
+
+If you have legendary proficiency in Religion, you can instead attempt a DC 40 Religion check to increase the temporary Hit Points you gain on a successful check to 15 (25 on a critical success).
+
+{{||ActionSuccessTable}}

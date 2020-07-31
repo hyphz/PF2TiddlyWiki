@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731175217622
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 
+m-level: 5
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200731175330018
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Earth Material
+title: Wall of Stone
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shape a [[Wall]] of solid stone. 
+
+You create a 1-inch-thick wall of stone up to 120 feet long, and 20 feet high. 
+
+You can shape the wall’s path, placing each 5 feet of the wall on the border between squares. 
+
+The wall doesn’t need to stand vertically, so you can use it to form a bridge or set of stairs, for example. 
+
+You must conjure the wall in an unbroken open space so its edges don’t pass through any creatures or objects, or the spell is lost.
+
+Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 14, and 50 Hit Points, and it’s immune to critical hits and precision damage. 
+
+A destroyed section of the wall can be moved through, but the rubble created from it is [[Difficult Terrain]].
+
+''Heightened (+2)'' The Hit Points of each section of the wall increase by 15.

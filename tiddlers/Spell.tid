@@ -1,0 +1,20 @@
+created: 20200731183338076
+modified: 20200731183851677
+tags: Rule
+title: Spell
+type: text/vnd.tiddlywiki
+
+//Spells are magical effects.//
+
+<table>
+<tr><th>Spell</th><th>Level</th><th>Arcane</th><th>Divine</th><th>Occult</th><th>Primal</th><th>Focus</th></tr>
+<$list filter="[tag[Spell]sort[]]">
+<tr><th align="left"><$link/></th><td>{{!!m-level}}</td>
+<td><$list filter="[all[current]tag[Arcane]]">Y</$list></td>
+<td><$list filter="[all[current]tag[Divine]]">Y</$list></td>
+<td><$list filter="[all[current]tag[Occult]]">Y</$list></td>
+<td><$list filter="[all[current]tag[Primal]]">Y</$list></td>
+<td><$list filter="[all[current]tag[Focus Spell]]">Y</$list></td>
+</tr>
+</$list>
+</table>

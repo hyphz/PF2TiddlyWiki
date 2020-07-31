@@ -1,0 +1,17 @@
+created: 20200731190807047
+feat-class: Monk
+feat-level: 4
+mod-ki_blast: Can make damage your deity's alignment.
+mod-ki_strike: Can make strike your deity's alignment.
+modified: 20200731190956701
+tags: Monk Class Feat
+title: Sacred Ki
+type: text/vnd.tiddlywiki
+
+The power of your faith suffuses your ki. 
+
+When you select this feat, choose <<tag Chaos>>, <<tag Evil>>, <<tag Good>>, or <<tag Law>>. Your choice must match one of your deity’s alignment components.
+
+When you cast the [[Ki Strike]] focus spell and damage a creature whose alignment is opposite your chosen alignment, you can choose for the ki strike damage to be of the chosen type. 
+
+Additionally, you can substitute the damage from [[Ki Blast]] (or other ki spells that deal force damage, at the GM’s discretion) with damage of your chosen alignment.

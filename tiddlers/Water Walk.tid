@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731180124540
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 2
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200731180215811
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Primal Transmutation
+title: Water Walk
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target can walk on the surface of water and other liquids without falling through. 
+
+It can go underwater if it wishes, but in that case it must [[Swim]] normally. 
+
+This spell doesn’t grant the ability to breathe underwater.
+
+''Heightened (4th)'' The spell’s range increases to 30 feet, the duration increases to 1 hour, and you can target up to 10 creatures.

@@ -1,0 +1,17 @@
+created: 20200731184518334
+feat-level: 7
+feat-skill: Crafting
+feat-spre: M
+mod-craft: Crafted alchemical poisons resist healing for 1 round.
+modified: 20200731184637951
+tags: Feat General Skill Negative
+title: Bless Toxin
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Deity who grants [[Harm]] [[Divine Font]].
+
+You pour negative energy into toxins you create to further debilitate your targets.
+
+When you [[Craft]] an alchemical poison (rather than create it with advanced alchemy, Quick Alchemy, or another means), it becomes a blessed alchemical poison and gains the <<tag Negative>>trait. 
+
+When a creature is afflicted with a blessed alchemical poison, for 1 round, any Hit Points it would regain from a <<tag Positive>>effect are reduced by 5, or by 10 if you are legendary in Crafting.

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731172736417
+m-area: 40 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 9
+m-range: 
+m-save: Fortitude
+m-targets: Any number of creatures
+m-time: 
+modified: 20200731172913794
+s-crit: The target is unaffected.
+s-fail: The target takes full damage and is [[Drained]] 1d4.
+s-fumble: The target takes full damage and is [[Drained]] 4.
+s-hit: The target takes full damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Auditory Death Necromancy Negative Divine Occult
+title: Wail of the Banshee
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your scream chills the souls of enemies that hear it. 
+
+Each living enemy in the area takes 8d10 <<tag Negative>>damage and must attempt a Fortitude save.
+
+{{||SaveSuccessTable}}

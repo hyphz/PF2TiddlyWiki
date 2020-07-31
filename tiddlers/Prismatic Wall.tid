@@ -12,7 +12,8 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200727221114153
+mod-counteract: Can't be counteracted by lower level effects.
+modified: 20200731173456962
 s-crit: 
 s-fail: 
 s-fumble: 

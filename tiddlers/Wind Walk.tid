@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731181249482
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 8 hours
+m-level: 8
+m-range: [[Touch]]
+m-save: 
+m-targets: You and up to five creatures touched
+m-time: 10 minutes
+modified: 20200731181441553
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Air Transmutation Primal Material
+title: Wind Walk
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+When you cast this spell, each target transforms into a vaguely cloud-like form and is picked up by a wind moving in the direction of your choice. 
+
+You can change the wind’s direction by using a single action, which has the <<tag Concentrate>> trait. 
+
+The wind carries the targets at a Speed of 20 miles per hour, but if any of the targets make an attack, Cast a Spell, come under attack, or otherwise enter encounter mode, the spell ends for all targets just after they roll [[Initiative]], and they drift gently to the ground.

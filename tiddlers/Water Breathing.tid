@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731180016658
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 2
+m-range: 30 feet
+m-save: 
+m-targets: Up to 5 creatures
+m-time: 1 minute
+modified: 20200731180105278
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Divine Primal
+title: Water Breathing
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The targets can breathe underwater.
+
+''Heightened (3rd)'' The duration increases to 8 hours.
+
+''Heightened (4th)'' The duration increases to until your next [[daily preparations|Rest]].

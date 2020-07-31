@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731175750060
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 7
+m-range: 120 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200731175949324
+s-crit: The target is unaffected.
+s-fail: The target is [[Confused]] for 1 minute.
+s-fumble: The target is [[Confused]] permanently.
+s-hit: The target spends the first action on its next turn with the [[Confused]] condition.
+tags: Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Incapacitation Mental Arcane Occult
+title: Warp Mind
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You scramble a creature’s mental faculties and sensory input.
+
+The target must attempt a [[Will]] saving throw. 
+
+Regardless of the result of that save, the target is then temporarily immune for 10 minutes. 
+
+Warp mind’s effects happen instantly, so [[Dispel Magic]] and other effects that counteract spells can’t counteract them. However, [[Alter Reality]], [[Miracle]], [[Primal Phenomenon]],
+[[Restoration]], or [[Wish]] can still counteract the effects.
+
+{{||SaveSuccessTable}}

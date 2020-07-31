@@ -1,0 +1,17 @@
+created: 20200731184324786
+feat-level: 7
+feat-skill: Crafting
+feat-spre: M
+mod-craft: Crafted alchemical healing also gives negative resistance.
+modified: 20200731184446739
+tags: Feat General Positive Skill
+title: Bless Tonic
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Deity who grants [[Heal]] [[Divine Font]].
+
+You channel positive energy into restoratives that ward against harm. 
+
+When you [[Craft]] an alchemical item that restores Hit Points (rather than create it with advanced alchemy, Quick Alchemy, or another means), it becomes a blessed alchemical item and gains the <<tag Positive>>trait. For example, an elixir of life would become a blessed elixir of life. 
+
+When a creature regains Hit Points using a blessed alchemical item, the overflowing energy grants them negative resistance 5 for 1 round, or negative resistance 10 if you are legendary in Crafting.

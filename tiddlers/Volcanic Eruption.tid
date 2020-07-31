@@ -1,0 +1,42 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731172417444
+m-area: 5 foot radius, 80 foot tall cylinder
+m-components: Somatic Verbal
+m-duration: 
+m-level: 7
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200731172712203
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Primal
+title: Volcanic Eruption
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The ground opens up, spraying a column of lava high into the air in a vertical cylinder, dealing 14d6 <<tag Fire>> damage to creatures in the area //with a basic [[Reflex]] save//. 
+
+The lava rapidly cools and encases creatures in the area. 
+
+//A creature that fails or critically fails their basic Reflex save against the damage is also encased.//
+
+A creature encased in rock is [[Clumsy]] 1 and takes a –10‑foot status penalty to its Speeds. 
+
+All normal terrain is [[Difficult Terrain]] to an //encased// flying creature, and such creatures immediately descend 20 feet the moment they’re encased, but they don’t take damage from this fall. 
+
+A creature encased in rock can attempt to [[Escape]] against your spell DC to end the effect. 
+
+Otherwise, the creature remains encased until it takes a total of 50 damage, freeing it from the rock.
+
+Additionally, creatures in the area and those within 5 feet of the lava column automatically take 3d6 <<tag Fire>>damage from the intense heat, regardless of the results of their saving throws.
+
+''Heightened (+1)'' The damage in the area increases by 2d6, and the damage from the intense heat increases by 1d6.

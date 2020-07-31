@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200730005624130
+modified: 20200731183211025
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -52,6 +52,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Flourish]]">
 <tr><th>[[Flourish]]</th><td>You can only use 1 Flourish per turn.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Focus Spell]]">
+<tr><th>[[Focus Spell]]</th><td>You can't learn this from a spell list and it costs 1 Fcous Point to cast.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Fortune]]">
 <tr><th>[[Fortune]]</th><td>Doesn't stack with other Fortune effects, and cancels with [[Misfortune.]]</td></tr>

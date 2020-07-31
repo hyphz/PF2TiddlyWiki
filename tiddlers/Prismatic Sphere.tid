@@ -12,7 +12,8 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200727220023760
+mod-counteract: Can't be counteracted by lower level effects.
+modified: 20200731173509910
 s-crit: 
 s-fail: 
 s-fumble: 

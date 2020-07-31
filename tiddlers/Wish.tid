@@ -1,0 +1,51 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200731181446176
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 
+m-level: 10
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200731181651769
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Arcane Material
+title: Wish
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You state a wish, making your greatest desire come true. 
+
+A wish spell can produce any one of the following effects.
+
+* Duplicate any arcane spell of 9th level or lower.
+* Duplicate any non-arcane spell of 7th level or lower.
+* Produce any effect whose power level is in line with the above effects.
+* Reverse certain effects that refer to the wish spell.
+
+The GM might allow you to try using wish to produce greater effects than these, but doing so might be dangerous or the spell might have only a partial effect.
+
+//Although it is a common joke, there is no rules support in this game for the idea that any Wish is interpreted pedantically with intent to cause harm.//
+
+''Arcane spells that can be duplicated:'' 
+<$list filter="[tag[Spell]tag[Arcane]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[9]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>
+
+''Non-Arcane spells that can be duplicated:''
+<$list filter="[tag[Spell]!tag[Arcane]]" variable="spell">
+<$list filter="[<spell>get[m-level]compare:number:lteq[7]]">
+<$link to=<<spell>> />,
+</$list>
+</$list>

@@ -1,14 +1,27 @@
 created: 20200627214018361
-modified: 20200724223134582
+modified: 20200731183105353
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
 
-|!Level|{{!!m-level}}|
-|!Components|{{!!m-components}}|
-|!Cast Time|{{!!m-time}}|
-|!Range|{{!!m-range}}|
-|!Area|{{!!m-area}}|
-|!Target|{{!!m-targets}}|
-|!Save|<$link to={{!!m-save}} />|
-|!Duration|{{!!m-duration}}|
+<table>
+<tr><th>Level</th><td>{{!!m-level}}</td></tr>
+<tr><th>Components</th><td>
+<$list filter="[all[current]list[!!m-components]]">
+<$link/> 
+</$list>
+<$list filter = "[all[current]tag[Focus Spell]]">
+1 Focus Point
+</$list>
+</td></tr>
+<tr><th>Cast Time</th><td>{{!!m-time}}</td></tr>
+<tr><th>Range</th><td>{{!!m-range}}</td></tr>
+<tr><th>Target</th><td>{{!!m-targets}}</td></tr>
+<tr><th>Save</th><td>
+<$list filter="[all[current]list[!!m-save]]">
+<$link/> 
+</$list>
+</td></tr>
+<tr><th>Duration</th><td>{{!!m-duration}}</td></tr>
+</table>
+

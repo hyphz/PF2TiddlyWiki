@@ -1,0 +1,14 @@
+created: 20200731190350999
+feat-fpre: Diehard
+feat-level: 7
+mod-dying: Gain extra HP and not wounded on first recovery per day.
+modified: 20200731190543660
+tags: General Feat
+title: Numb to Death
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' You have died at least once.
+
+Your past has left you numb to death’s call. 
+
+The first time each day that you regain Hit Points while you are [[Dying]], you regain additional Hit Points equal to your level, and you neither gain the [[Wounded]] condition nor increase the value of this condition.

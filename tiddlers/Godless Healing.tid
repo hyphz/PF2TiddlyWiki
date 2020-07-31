@@ -1,0 +1,17 @@
+created: 20200731185659241
+feat-fpre: [[Battle Medicine]]
+feat-level: 2
+feat-skill: Medicine
+feat-spre: U
+mod-battle_medicine: Reduce immunity to 1 hour.
+mod-treat_wounds: Gain 5 extra HP.
+modified: 20200731185806513
+tags: General Skill Feat
+title: Godless Healing
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Can't have a patron deity.
+
+You recover an additional 5 Hit Points from a successful attempt to [[Treat your Wounds|Treat Wounds]] or use [[Battle Medicine]] on you. 
+
+After you or an ally use Battle Medicine on you, you become temporarily immune to that Battle Medicine for only 1 hour, instead of 1 day.

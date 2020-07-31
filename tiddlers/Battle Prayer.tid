@@ -1,0 +1,29 @@
+a-actions: 1
+a-crit: You deal 2d6 damage of the chosen alignment type, or 6d6 damage if you have legendary proficiency in Religion.
+a-defense: Will
+a-fail: There is no effect.
+a-fumble: The backlash of your foe’s will against your prayer prevents you from using Battle Prayer again for 10 minutes.
+a-hit: You deal 1d6 damage of the chosen alignment type, or 3d6 damage if you have legendary proficiency in Religion.
+a-skill: Religion
+created: 20200731184029698
+feat-level: 7
+feat-skill: Religion
+feat-spre: M
+modified: 20200731184312982
+modified-by: Religion
+tags: Divine General Skill Feat Action
+title: Battle Prayer
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' You follow a deity.
+
+Calling out to your deity, you recite scripture to harm a foe.
+
+When you select this feat, choose <<tag Chaos>>, <<tag Evil>>, <<tag Good>>, or <<tag Law>>. Your choice must match one of your deity’s alignment components. This action has the trait corresponding to the chosen alignment.
+
+Attempt a [[Religion]] check against the [[Will]] DC of a foe within 30 feet. 
+
+The foe is then temporarily immune to Battle Prayers from your deity for 1 day.
+
+{{||ActionSuccessTable}}
+
