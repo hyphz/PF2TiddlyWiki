@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801153950310
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 4
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature
+m-time: 
+mod-flanked: Prevents flanking.
+mod-seek: Seek in 30 foot burst or four 15 foot bursts.
+modified: 20200801154113225
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Arcane Occult Primal
+title: Countless Eyes
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Eyes form across the touched creature’s body, allowing it to see in all directions at once. 
+
+The subject can’t be [[Flanked|Flanking]] for the spell’s duration. 
+
+In addition, when the subject [[Seek]]s, it can Seek in a 30-foot burst centered on itself or up to four 15-foot bursts within line of sight.

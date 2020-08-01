@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801165233082
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 object
+m-time: 
+modified: 20200801165600710
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Occult
+title: Object Reading
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You place a hand on an object to learn a piece of information about an emotional event that occurred involving the object within the past week, determined by the GM. 
+
+If you cast object reading on the same item multiple times, you can either concentrate on a single event to gain additional pieces of information about that event, or gain a piece of information about another emotional event in the applicable time frame.
+
+''Heightened (2nd)'' You can learn about an event that occurred within the last month.
+
+''Heightened (4th)'' You can learn about an event that occurred within the last year.
+
+''Heightened (6th)'' You can learn about an event that occurred within the last decade.
+
+''Heightened (8th)'' You can learn about an event that occurred within the last century.
+
+''Heightened (9th)'' You can learn about an event that occurred within the entirety of the object’s history.

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801155623961
+m-area: 30 foot [[Line]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200801155803616
+s-crit: The creature is unaffected.
+s-fail: The creature takes 4d8 persistent negative damage and becomes [[Drained]] 1.
+s-fumble: The creature takes 4d8 persistent negative damage and becomes [[Drained]] 2 and [[Doomed]] 1.
+s-hit: The creature takes 2d8 [[persistent|Persistent Damage]] negative damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Arcane Divine Occult
+title: Enervation
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Extending a finger, you fire a beam of negative energy that weakens the life force of any creature it touches. 
+
+Each living creature in the line must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}

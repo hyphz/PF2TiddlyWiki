@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801163507920
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the start of your next turn
+m-level: 10
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200801163620976
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Concentrate Manipulate Abjuration Arcane Divine Occult Primal Somatic Verbal
+title: Indestructibility
+turn-sun: Effect wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You can’t be affected by anything unless you choose to be.
+
+For the duration of the spell, you are immune to any effect or damage that would harm you, excluding effects caused by artifacts, deific power, and similarly powerful sources. 
+
+You can still be affected by anything you’re willing to have affect you.

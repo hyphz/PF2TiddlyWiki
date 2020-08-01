@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20200801153125158",
+        "text": "{{||SpellSummaryTable}}\n\nYou speak on the virtue of charity, compelling the target to give away its possessions. \n\nThe target must attempt a [[Will]] save. \n\nIf the target has no items on its person, the spell fails.\n\n{{||SaveSuccessTable}}\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Charitable Urge",
+        "tags": "Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Mental Arcane Divine Occult",
+        "modified": "20200801153446897",
+        "s-hit": "The target is [[Stunned]] 1 as it wrestles with the urge.",
+        "s-fumble": " As failure, except the duration is 4 rounds, and the target must repeat the effects of failure on each of its turns. At the end of each of its turns, the target can attempt a new [[Will]] save to reduce the remaining duration by 1 round, ending it entirely on a critical success.",
+        "s-fail": "On its next turn, before it does anything else, the target must present the nearest creature with an item in its possession; the target chooses which item to give, and if the only item it has is one that it's currently using to defend itself, such as a weapon during a combat encounter, it can choose to be [[Stunned]] for 1 round instead of giving up the item. This might require the target to [[Interact]] to retrieve an item or move to reach the nearest creature, and handing the item to the target always requires an [[Interact]] action.",
+        "s-crit": "The target is unaffected.",
+        "m-time": "",
+        "m-targets": "1 creature",
+        "m-save": "Will",
+        "m-range": "30 feet",
+        "m-level": "2",
+        "m-duration": "Varies",
+        "m-components": "Somatic Verbal",
+        "m-area": "",
+        "a-hit": "",
+        "a-fumble": "",
+        "a-fail": "",
+        "a-defense": "",
+        "a-crit": ""
+    }
+]

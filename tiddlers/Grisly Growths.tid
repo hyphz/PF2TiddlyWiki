@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801161510549
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 60 feet
+m-save: Fortitude Will
+m-targets: 1 corporeal creature
+m-time: 
+modified: 20200801161825924
+s-crit: 
+s-fail: The creature is [[Sickened]] 1.
+s-fumble: The creature is [[Sickened]] 2.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+title: Grisly Growths
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+This gruesome spell causes the target to grow excess limbs and organs, whether it be fingers multiplying until hands resemble bushes, eyes popping open in bizarre places, legs sprouting from the side of the body, or some other result. 
+
+The target takes 10d6 piercing damage (basic [[Fortitude]] save) as the new features erupt. 
+
+This spell has no effect on a target with a mutable anatomy or no limbs, such as an ooze or a protean. The growths rot rapidly and fall away after 1 round.
+
+In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they are temporarily immune to this secondary effect of grisly growths for 1 hour. 
+
+This additional effect is a <<Tag Mental>> and <<tag Visual>> effect.
+
+''Heightened (+1)'' The damage increases by 2d6.
+
+{{||SaveSuccessTable}}

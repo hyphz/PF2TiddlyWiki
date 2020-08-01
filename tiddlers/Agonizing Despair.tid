@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801145342471
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 60 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200801145544987
+s-crit: The target is unaffected.
+s-fail: The target takes full damage and becomes [[Frightened]] 2.
+s-fumble: The target takes double damage and becomes [[Frightened]] 3.
+s-hit: The target takes half damage and becomes [[Frightened]] 1.
+tags: Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Fear Mental Arcane Divine Occult
+title: Agonizing Despair
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your target’s mind tumbles down a deep well of dread, dwelling so intently on deep-seated fears that it’s painful. 
+
+The target takes 4d6 <<tag Mental>>damage with a Will saving throw.
+
+''Heightened (+1)'' Increase the damage by 2d6.
+
+{{||SaveSuccessTable}}

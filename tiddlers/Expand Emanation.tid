@@ -1,6 +1,6 @@
 a-actions: 1
 created: 20200718212516425
-modified: 20200719164208296
+modified: 20200801172051177
 tags: Action Implied Concentrate
 title: Expand Emanation
 type: text/vnd.tiddlywiki
@@ -10,3 +10,5 @@ type: text/vnd.tiddlywiki
 [[Bane]]: Once per turn, starting the turn after you cast bane, you can use a single action, which has the Concentrate trait, to increase the emanation’s radius by 5 feet and force enemies in the area that weren’t yet affected to attempt another saving throw. 
 
 [[Bless]]: Once per turn, starting the turn after you cast bless, you can use a single action, which has the Concentrate trait, to increase the emanation’s radius by 5 feet. 
+
+[[Reaper's Lantern]]: Once per turn, starting on the turn after you cast reaper’s lantern, you can use a single action, which has the concentrate trait, to increase the emanation’s radius by 5 feet. When you do so, you force creatures in the area that haven’t yet attempted a save against reaper’s lantern to attempt one.

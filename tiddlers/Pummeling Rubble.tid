@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801170600787
+m-area: 15 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200801170725998
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Earth Evocation Arcane Primal
+title: Pummeling Rubble
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A spray of heavy rocks flies through the air in front of you. 
+
+The rubble deals 2d4 bludgeoning damage to each creature in the area //with a basic Reflex save//.
+
+//Creatures who fail their Reflex save are also pushed 5 foot away from you. Creatures who critically fail are pushed 10 foot.//
+

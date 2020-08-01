@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801162320766
+m-area: 5 foot [[Burst]]
+m-components: Somatic Verbal Material
+m-duration: 1 minute
+m-level: 4
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200801162546106
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Cold Evocation Arcane Primal Material
+title: Ice Storm
+turn-etc: Creatures in the storm take Cold damage.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a gray storm cloud that pelts creatures with an icy deluge. 
+
+When you Cast the Spell, a burst of magical hail deals 2d8 bludgeoning damage and 2d8 cold damage to each creature in the area below the cloud (basic [[Reflex]] save). 
+
+Snow and sleet continue to rain down in the area for the remainder of the spell’s duration, making the area [[Difficult Terrain]], causing creatures in the storm to be [[Concealed]], and making creatures outside the storm concealed from those inside the storm. 
+
+Any creature that ends its turn in the storm takes 4 <<tag Cold>> damage. 
+
+If you Cast this Spell outdoors, you can create two non-overlapping clouds instead of one.
+
+''Heightened (+2)'' The initial bludgeoning damage and cold damage increase by 1d8 each, and the cold damage creatures take at the end of their turns increases by 2.

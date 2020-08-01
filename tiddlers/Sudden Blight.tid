@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801182312371
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200801182446712
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Divine Primal
+title: Sudden Blight
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You accelerate the processes of decay in the area. 
+
+Each living creature in the area takes 2d10 negative damage (basic [[Fortitude]] save). 
+
+A creature afflicted by a disease takes a –2 circumstance penalty to this save.
+
+You can also direct the blight to rot all Small and Tiny non-creature plants in the area, eliminating non-magical undergrowth and any resulting [[Difficult Terrain]], [[Cover]], and [[Concealment]]. 
+
+Sudden blight attempts to [[Counteract]] any magical effect on the plants before withering them.
+
+''Heightened (+1)'' The damage increases by 1d10.

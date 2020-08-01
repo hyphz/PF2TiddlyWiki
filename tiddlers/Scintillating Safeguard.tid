@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801172807795
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 6
+m-range: 30 feet
+m-save: 
+m-targets: Up to 5 [[Willing]] creatures who would be harmed by the triggering effect
+m-time: 
+modified: 20200801173007600
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate Abjuration Divine Occult Primal Reaction
+title: Scintillating Safeguard
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A sparkling magical barrier envelops each target, shielding them against the triggering effect. 
+
+Choose one type of physical or energy damage the triggering effect deals. 
+
+Each target gains [[Resistance]] 10 against that damage type for the triggering effect. 
+
+The resistance applies only against the initial damage, not against any persistent damage or other lingering effects of the effect.
+
+''Heightened (+1)'' The resistance increases by 1.

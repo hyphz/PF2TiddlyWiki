@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801163021013
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 object
+m-time: 
+mod-object_reading: Imprinted message is revealed instead of events.
+mod-read_aura: Shows magical modification if of lower level.
+mod-retrocognition: Imprinted message is incldued an vision.
+modified: 20200801163232352
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Occult
+title: Imprint Message
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You project psychic vibrations onto the target object, imprinting it with a short message or emotional theme of your design. 
+
+This imprinted sensation is revealed to a creature who casts [[Object Reading]] on the target object, replacing any emotional events the item was present for. 
+
+If the object is in the area of a [[Retrocognition]] spell, the imprinted messages appear as major events in the timeline, but they don’t interfere with any other visions.
+
+If the object is targeted with [[Read Aura]] of a higher spell level than imprint message, the caster learns that the object has been magically modified. 
+
+When you Cast this Spell, any prior vibrations placed on an object by previous castings of imprint message fade.

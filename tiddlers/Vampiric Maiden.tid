@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801183429096
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200801183619056
+s-crit: The target is unaffected.
+s-fail: The target is briefly trapped within the vampiric maiden. The target takes full damage and is [[Immobilized]] by the iron maiden for 1 round or until it uses an [[Interact]] action to extricate itself, whichever comes first.
+s-fumble: The target takes double damage and is [[Immobilized]] by the vampiric maiden for 1 round or until it [[Escape]]s (the DC is your spell DC), whichever comes first.
+s-hit: The target takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Arcane Divine Occult
+title: Vampiric Maiden
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A ghostly iron maiden snaps shut on the target and drains its vitality for your gain. 
+
+This deals 4d4 piercing damage and 4d4 negative damage, and the target must attempt a [[Fortitude]] save. 
+
+You gain temporary HP equal to the negative damage the target takes (after applying resistances, weaknesses, and the like). 
+
+You lose any remaining temporary HP after 1 minute.
+
+''Heightened (+1)'' The piercing and negative damage increase by 1d4 each.
+
+{{||SaveSuccessTable}}

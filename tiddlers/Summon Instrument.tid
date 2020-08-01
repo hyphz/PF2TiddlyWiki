@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801182458773
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 1 hour
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200801182550693
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Conjuration Divine Occult Material
+title: Summon Instrument
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You materialize a handheld musical instrument in your grasp.
+
+The instrument is typical for its type, but it plays only for you. 
+
+The instrument vanishes when the spell ends. 
+
+If you cast summon instrument again, any instrument you previously summoned disappears.
+
+''Heightened (5th)'' The instrument is instead a [[Virtuoso]] handheld instrument.
+

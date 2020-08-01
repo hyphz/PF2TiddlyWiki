@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801150017135
+m-area: 10 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 2
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+mod-sustain_a_spell: Repeats damage when sustained.
+modified: 20200801150133924
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult
+title: Animated Assault
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You use your mind to manipulate unattended objects in the area, temporarily animating them to attack. The objects hover in the air, then hurl themselves at nearby creatures in a chaotic flurry of debris. 
+
+This assault deals 2d10 bludgeoning damage (basic [[Reflex]] save) to each creature in the area. 
+
+On subsequent rounds, you can [[Sustain this Spell|Sustain a Spell]], dealing 1d10 bludgeoning damage (basic [[Reflex]] save) to each creature in the area.
+
+''Heightened (+2)'' The initial damage increases by 2d10 and the subsequent damage increases by 1d10.

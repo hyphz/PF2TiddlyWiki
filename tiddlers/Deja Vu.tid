@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801155009144
+m-area: 
+m-components: Somatic Verbal
+m-duration: 2 rounds
+m-level: 1
+m-range: 100 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200801155226498
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Mental Arcane Occult
+title: Deja Vu
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You loop a thought process in the target’s mind, forcing it to repeat the same actions over again. 
+
+The target must attempt a Will save. //''This is an Incapacitation effect, so targets of more than twice the spell's level promote their save by one category.''//
+
+If the target fails, whatever actions the target uses on its next turn, it must repeat on its following turn. The actions must be repeated in the same order and as close to the same specifics as possible. For example, if the target makes an attack, it must repeat the attack against the same creature, if possible, and if the target moves, it must move the same distance and direction, if possible, on its next turn.
+
+If the target can’t repeat an action, such as [[Casting a Spell|Cast a Spell]] that has been exhausted or needing to target a creature that has died, it can act as it chooses for that action but becomes [[Stupefied]] 1 until the end of its turn.
+

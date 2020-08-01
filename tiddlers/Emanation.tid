@@ -1,5 +1,5 @@
 created: 20200719183903731
-modified: 20200726225210226
+modified: 20200801151827236
 tags: Area
 title: Emanation
 type: text/vnd.tiddlywiki
@@ -9,5 +9,7 @@ An emanation issues forth from each side of your space, extending out to a speci
 For instance, the bless spell’s emanation radiates 5 or more feet outward from the caster. 
 
 Because the sides of a target’s space are used as the starting point for the emanation, an emanation from a Large or larger creature affects a greater overall area than that of a Medium or smaller creature.
+
+__An emanation effect includes the target of the emanation, but the creature creating the effect can exclude the target if desired.__
 
 //If an emanation effect has a duration, it moves with the caster unless stated otherwise.//

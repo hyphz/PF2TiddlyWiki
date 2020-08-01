@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801154435482
+m-area: 30 feet [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200801154610316
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Evocation Water Primal
+title: Crashing Wave
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You summon a crashing wave that sweeps away from you. 
+
+You deal 6d6 bludgeoning damage to creatures in the area //with a basic Reflex save//. 
+
+The water also extinguishes non-magical fires in the area.
+
+''Heightened (+1)'' The damage increases by 2d6.

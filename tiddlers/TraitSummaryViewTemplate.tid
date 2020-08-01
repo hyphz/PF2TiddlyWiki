@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200731183211025
+modified: 20200801170553652
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -39,7 +39,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Divine]]</th><td>This spell can be identified using [[Religion]].</td></tr>
 </$list>
 <$list filter="[all[current]tag[Emotion]]">
-<tr><th>[[Emotion]]</th><td>This won't work on creatures with mechanical or artificial intillegence.</td></tr>
+<tr><th>[[Emotion]]</th><td>This won't work on creatures with mechanical or artificial intelligence.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Evil]]">
 <tr><th>[[Evil]]</th><td>Evil damage harms only good creatures.</td></tr>

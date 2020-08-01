@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801151349076
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 6
+m-range: 60 feet
+m-save: Will
+m-targets: The triggering creature
+m-time: 
+modified: 20200801151538657
+s-crit: The target is unaffected.
+s-fail: As success, and for 1 minute, every time the target damages you, it can’t observe you until the end of its turn.
+s-fumble: As success, and for an unlimited duration, the first time each round the target damages a creature, it can’t observe that creature until the end of its turn. If it damages several creatures at once, the creature it can’t perceive is chosen randomly among those creatures.
+s-hit: The target can’t observe you until the end of its turn, and if you’re currently observed by it, you become [[Hidden]] to it.
+tags: Spell Verbal Concentrate Curse Emotion Enchantment Incapacitation Mental Divine Occult Primal Reaction
+title: Blinding Fury
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' A creature damages you.
+
+You curse the target with your outrage at being attacked. 
+
+The effect is determined by the target’s [[Will]] save.
+
+{{||SaveSuccessTable}}

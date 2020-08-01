@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801151110591
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 6
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200801151337619
+s-crit: 
+s-fail: The creature is [[Dazzled]] until the end of its next turn.
+s-fumble: The creature is [[Confused]] and [[Dazzled]] until the end of its next turn.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Illusion Occult Primal
+title: Blanket of Stars
+turn-etn: Confusion and Dazzling end.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A flowing cloak of utter darkness drapes over you, filled with pinpricks of light like distant stars. 
+
+It imparts the stillness of the cosmos to you, granting you a +2 status bonus to [[Stealth]] checks to [[Hide]] and [[Sneak]]. 
+
+While outside under a starry night sky, you’re also [[Invisible]] as long as you remain still. When
+moving under a starry night sky, you are [[Concealed]] instead.
+
+Gazing too closely into the stars is disorienting. Any creature that ends its turn adjacent to you must attempt a [[Will]] save; this is a <<tag Mental>><<tag Visual>> effect.
+
+{{||SaveSuccessTable}}

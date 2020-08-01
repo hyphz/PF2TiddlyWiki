@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801163959170
+m-area: 5 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+mod-sustain_a_spell: Call another lightning bolt on sustain.
+modified: 20200801164142796
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Electricity Evocation Primal Material
+title: Lightning Storm
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a black, rumbling storm cloud and call down one lightning bolt. 
+
+The bolt is a vertical line from the storm cloud to the ground below, dealing 4d12 electricity damage to creatures in the spell’s area (basic [[Reflex]] save). 
+
+The first time you [[Sustain the Spell|Sustain a Spell]] each round, you can call another lightning bolt within the area. 
+
+If you Cast this Spell outdoors, you can create two non-overlapping clouds instead of one, though you can still call down only one bolt per turn.
+
+''Heightened (+1)'' The damage of each bolt increases by 1d12.

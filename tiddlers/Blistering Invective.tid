@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801152529241
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200801152745646
+s-crit: The target is unaffected.
+s-fail: The target becomes [[Frightened]] 1 and takes the full persistent fire damage.
+s-fumble: The target becomes [[Frightened]] 2 and takes double the persistent fire damage.
+s-hit: The target takes half the persistent fire damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Auditory Emotion Enchantment Fear Mental Occult
+title: Blistering Invective
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A heap of insults and invectives spew from your mouth— words so devastating your foes burn from the intensity of your diatribe. 
+
+Your words deal 2d6 [[persistent|Persistent Damage]] fire damage, and the target must attempt a [[Will]] save. 
+
+If the target doesn’t understand the language or you’re not speaking a language, it gains a +4 circumstance bonus to its save.
+
+''Heightened (+2)'' You can target two additional creatures, and the persistent damage increases by 2d6.

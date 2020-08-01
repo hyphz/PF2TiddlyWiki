@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801161109432
+m-area: 15 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: [[Touch]]
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200801161326125
+s-crit: The creature is unaffected.
+s-fail: The target takes the full persistent poison damage. While it is taking this persistent poison damage, it has [[Weakness]] 1 to <<tag Fire>> and weakness 1 to slashing.
+s-fumble: As failure, but double the persistent poison damage. While it is taking this persistent poison damage, it has weakness 2 to fire and weakness 2 to slashing.
+s-hit: The target takes half the persistent poison damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Primal
+title: Fungal Infestation
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Toxic spores swarm over creatures in the area, causing them to erupt in grotesque fungal growths. 
+
+These noxious growths deal 2d6 [[persistent|Persistent Damage]] poison damage, and each creature must attempt a [[Fortitude]] save.
+
+''Heightened (+2)'' The persistent damage increases by 2d6, and the weakness increases by 1, or by 2 on a critical failure.
+
+{{||SaveSuccessTable}}

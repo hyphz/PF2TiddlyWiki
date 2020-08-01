@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801155421949
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 4
+m-range: 120 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200801155600407
+s-crit: The target is unaffected.
+s-fail: For 1 day, the target rolls twice and uses the lower result on [[Initiative]] rolls and any check to determine the success of a downtime activity.
+s-fumble: As failure, but the duration is unlimited.
+s-hit: For 1 hour, the target rolls twice and uses the lower result on [[Initiative]] rolls.
+tags: Spell Somatic Verbal Concentrate Manipulate Curse Enchantment Mental Misfortune Arcane Divine Occult
+title: Dull Ambition
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You curse the target to fail in all avenues of its life that require drive and ambition, as it inadvertently undermines its own goals at every turn. 
+
+The effect is based on the target’s [[Will]] save.
+
+{{||SaveSuccessTable}}

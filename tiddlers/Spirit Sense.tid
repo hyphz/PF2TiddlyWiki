@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801181919114
+m-area: 30 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-fortitude: +1 status vs haunts and spirits.
+mod-reflex: +1 status vs haunts and spirits.
+mod-will: +1 status vs haunts and spirits.
+modified: 20200801182052862
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Mental Divine Occult
+title: Spirit Sense
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You open your mind to the metaphysical, enabling you to sense nearby spirits. 
+
+Even if you aren’t [[Search]]ing, you get a check to find haunts and spirits in the area. 
+
+You gain a +1 status bonus to the following checks regarding haunts or spirits: [[Perception]] checks to [[Seek]], attempts to [[Recall Knowledge]], skill checks to determine the reason for their existence, and skill checks to disable a haunt. 
+
+You also gain a +1 status bonus to [[AC]] and saving throws against haunts and spirits.
+
+''Heightened (6th)'' The spell’s duration lasts until the next time you make your [[daily preparations|Rest]].

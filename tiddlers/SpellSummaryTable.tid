@@ -1,5 +1,5 @@
 created: 20200627214018361
-modified: 20200731183105353
+modified: 20200801154619207
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
@@ -16,6 +16,7 @@ type: text/vnd.tiddlywiki
 </td></tr>
 <tr><th>Cast Time</th><td>{{!!m-time}}</td></tr>
 <tr><th>Range</th><td>{{!!m-range}}</td></tr>
+<tr><th>Area</th><td>{{!!m-area}}</td></tr>
 <tr><th>Target</th><td>{{!!m-targets}}</td></tr>
 <tr><th>Save</th><td>
 <$list filter="[all[current]list[!!m-save]]">
