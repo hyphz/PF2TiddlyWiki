@@ -1,0 +1,12 @@
+created: 20200801213027222
+mod-diplomacy: +2 circumstance to prove true honesty.
+mod-lie: +1 circumstance to spot lies, -4 circumstance to lie.
+mod-sense_motive: +1 circumstance to sense, -4 circumstance to fool others.
+modified: 20200801213209310
+tags: Dwarf Heritage
+title: Oathkeeper Dwarf
+type: text/vnd.tiddlywiki
+
+You gain a +1 circumstance bonus to [[Perception]] checks to [[Sense Motive]] and to Perception DCs against attempts to [[Lie]] to you. 
+
+Furthermore, you gain a +2 circumstance bonus to [[Diplomacy]] checks to convince others you speak the truth when you are telling the truth, and you take a –4 circumstance penalty to [[Lie]] and to your [[Deception]] DC against [[Sense Motive]].

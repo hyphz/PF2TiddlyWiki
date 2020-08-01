@@ -1,0 +1,13 @@
+created: 20200801212345615
+mod-concealed: Flat check DC becomes 3.
+mod-hidden: Flat check DC becomes 9.
+modified: 20200801212443751
+tags: Ability
+title: Keen Eyes
+type: text/vnd.tiddlywiki
+
+Your eyes are sharp, allowing you to make out small details about concealed or even invisible creatures that others might miss. 
+
+You gain a +2 circumstance bonus when using the [[Seek]] action to find [[Hidden]] or [[Undetected]] creatures within 30 feet of you. 
+
+When you target an opponent that is [[Concealed]] from you or [[Hidden]] from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.

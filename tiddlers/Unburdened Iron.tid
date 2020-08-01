@@ -1,0 +1,13 @@
+created: 20200801203752229
+feat-anc: Dwarf
+feat-level: 1
+modified: 20200801203841078
+tags: Ancestry Feat Dwarf
+title: Unburdened Iron
+type: text/vnd.tiddlywiki
+
+Ignore the reduction to your Speed from any armor you wear.
+
+In addition, any time you’re taking a penalty to your Speed from some other reason (such as from the [[Encumbered]] condition or from a spell), deduct 5 feet from the penalty. For example, the encumbered condition normally gives a –10-foot penalty to Speed, but it gives you only a –5-foot penalty. 
+
+If your Speed is taking multiple penalties, pick only one penalty to reduce.

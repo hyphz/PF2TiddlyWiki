@@ -4,7 +4,7 @@ mod-acrobatics: Key ability for this skill.
 mod-reflex: Key ability for this save.
 mod-stealth: Key ability for this skill.
 mod-thievery: Key ability for this skill.
-modified: 20200720215047313
+modified: 20200801211921837
 tags: [[Ability Score]]
 title: Dexterity
 type: text/vnd.tiddlywiki
@@ -20,3 +20,7 @@ Your Dexterity modifier is also added to your character’s [[AC]] and [[Reflex]
 //Being [[Clumsy]] reduces your Dexterity.//
 
 //Your maximum Dexterity can be limited by your [[Armor]].//
+
+{{||StatModSummary}}
+
+

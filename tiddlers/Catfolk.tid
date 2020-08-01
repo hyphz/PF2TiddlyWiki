@@ -1,7 +1,14 @@
-created: 20200725155124807
-modified: 20200725155132887
-tags: Trait
+anc-boosts: Dexterity Charisma Free
+anc-flaws: Wisdom
+anc-hp: 8
+anc-langs: Amurrun Common
+anc-size: Medium
+anc-special: [[Low-Light Vision]] [[Land on your Feet]]
+anc-speed: 25
+created: 20200801214239242
+modified: 20200801214328596
+tags: Ancestry Humanoid Catfolk Uncommon
 title: Catfolk
 type: text/vnd.tiddlywiki
 
-Catfolk are humanoids with feline features.
+{{||AncestrySummary}}

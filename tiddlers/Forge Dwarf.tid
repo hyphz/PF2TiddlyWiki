@@ -1,0 +1,8 @@
+created: 20200801192213814
+mod-temperature_effects: Reduces heat effects by one level.
+modified: 20200801192908370
+tags: Heritage Dwarf
+title: Forge Dwarf
+type: text/vnd.tiddlywiki
+
+//You gain// <<tag Fire>> resistance equal to half your level (minimum 1), and you treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).

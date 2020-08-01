@@ -1,0 +1,8 @@
+created: 20200801214337932
+mod-falling: Take half damage and don't land Prone.
+modified: 20200801214416634
+tags: Ability
+title: Land on your Feet
+type: text/vnd.tiddlywiki
+
+When you [[Fall|Falling]], you take only half the normal damage and don’t land [[Prone]].

@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Wisdom Free
+anc-flaws: Strength
+anc-hp: 6
+anc-langs: Common Halfling
+anc-size: Small
+anc-special: [[Keen Eyes]]
+anc-speed: 25
+created: 20200801212259478
+modified: 20200801212337663
+tags: Ancestry Humanoid Halfling
+title: Halfling
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

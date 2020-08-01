@@ -4,7 +4,7 @@ mod-crafting: Key ability for this skill.
 mod-lore: Key ability for this skill.
 mod-occultism: Key ability for this skill.
 mod-society: Key ability for this skill.
-modified: 20200725141635109
+modified: 20200801211937440
 tags: [[Ability Score]]
 title: Intelligence
 type: text/vnd.tiddlywiki
@@ -16,3 +16,6 @@ A high Intelligence allows your character to analyze situations and understand p
 //Intelligence governs [[Arcana]], [[Crafting]], [[Lore]], [[Occultism]] and [[Society]].//
 
 //Being [[Stupefied]], [[Sickened]] or [[Frightened]] reduces your Intelligence rolls.//
+
+{{||StatModSummary}}
+

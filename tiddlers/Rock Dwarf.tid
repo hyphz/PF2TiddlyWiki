@@ -1,0 +1,16 @@
+created: 20200801193349280
+mod-fortitude: +2 circumstance vs being knocked prone.
+mod-reflex: +2 circumstance vs being knocked prone.
+mod-shove: +2 circumstance to Fortitude/Reflex DC.
+mod-trip: +2 circumstance to Fortitude/Reflex DC.
+mod-will: +2 circumstance vs being knocked prone.
+modified: 20200801193509075
+tags: Heritage Dwarf
+title: Rock Dwarf
+type: text/vnd.tiddlywiki
+
+You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to [[Shove]] or [[Trip]] you. 
+
+This bonus also applies to saving throws against spells or effects that attempt to knock you [[Prone]].
+
+In addition, if any effect would force you to move 10 feet or more, you are moved only half the distance.

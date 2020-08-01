@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Charisma Free
+anc-flaws: Constitution
+anc-hp: 6
+anc-langs: Common Draconic
+anc-size: Small
+anc-special: Darkvision [[Draconic Exemplar]]
+anc-speed: 25
+created: 20200801214509822
+modified: 20200801214617364
+tags: Ancestry Humanoid Kobold Uncommon
+title: Kobold
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

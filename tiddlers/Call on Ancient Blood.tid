@@ -1,0 +1,13 @@
+created: 20200801191953159
+mod-fortitude: +1 circumstance vs magic.
+mod-reflex: +1 circumstance vs magic.
+mod-will: +1 circumstance vs magic.
+modified: 20200801192108100
+tags: Action Reaction
+title: Call on Ancient Blood
+turn-euc: Save bonus wears off.
+type: text/vnd.tiddlywiki
+
+''Trigger'' You attempt a saving throw against a magical effect, but you haven't rolled yet.
+
+You gain a +1 circumstance bonus to the triggering saving throw and until the end of this turn.

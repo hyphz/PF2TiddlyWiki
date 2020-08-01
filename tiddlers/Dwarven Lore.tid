@@ -1,0 +1,16 @@
+created: 20200801193624173
+feat-anc: Dwarf
+feat-level: 1
+lore-mention: Dwarven
+modified: 20200801193937050
+tags: Feat Dwarf Ancestry
+title: Dwarven Lore
+type: text/vnd.tiddlywiki
+
+You eagerly absorbed the old stories and traditions of your ancestors, your gods, and your people, studying in subjects and techniques passed down for generation upon generation.
+
+You gain the trained proficiency rank in [[Crafting]] and [[Religion]]. 
+
+If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. 
+
+You also become trained in Dwarven [[Lore]].

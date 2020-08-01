@@ -1,0 +1,15 @@
+created: 20200801203518177
+feat-anc: Dwarf
+feat-level: 1
+mod-balance: On stone or earth, promote successes and not flat-footed.
+mod-difficult_terrain: Ignore difficult terrain from rubble, stone and earth.
+modified: 20200801203652324
+tags: Feat Ancestry Dwarf
+title: Rock Runner
+type: text/vnd.tiddlywiki
+
+Your innate connection to stone makes you adept at moving across uneven surfaces. 
+
+You can ignore [[Difficult Terrain]] caused by rubble and uneven ground made of stone and earth.
+
+In addition, when you use the [[Acrobatics]] skill to [[Balance]] on narrow surfaces or uneven ground made of stone or earth, you aren’t [[Flat-Footed]], and when you roll a success at one of these Acrobatics checks, you get a critical success instead.

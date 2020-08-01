@@ -1,6 +1,6 @@
 created: 20200627192353171
 mod-athletics: Key ability for this skill.
-modified: 20200720213854047
+modified: 20200801212533909
 tags: [[Ability Score]]
 title: Strength
 type: text/vnd.tiddlywiki
@@ -16,3 +16,6 @@ You can carry an amount of [[Bulk]] equal to 5 plus your Strength modifier witho
 //Strength governs [[Athletics]].//
 
 //Being [[Enfeebled]], [[Sickened]] or [[Frightened]] reduces your Strength rolls.//
+
+{{||StatModSummary}}
+

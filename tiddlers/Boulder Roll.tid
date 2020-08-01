@@ -1,0 +1,20 @@
+a-actions: 2
+a-defense: Fortitude
+a-skill: Athletics
+a-subactions: Step
+created: 20200801203953480
+feat-anc: Dwarf
+feat-fpre: [[Rock Runner]]
+feat-level: 5
+modified: 20200801204144846
+tags: Action Feat Ancestry Dwarf
+title: Boulder Roll
+type: text/vnd.tiddlywiki
+
+Your dwarven build allows you to push foes around, just a mighty boulder tumbles through a subterranean cavern. 
+
+Take a [[Step]] into the square of a foe that is your size or smaller, and the foe must move into the empty space directly behind it. The foe must move even if doing so places it in harm’s way. 
+
+The foe can attempt a [[Fortitude]] saving throw against your [[Athletics]] DC to block your Step. If the foe attempts this saving throw, unless it critically succeeds, it takes bludgeoning damage equal to your level plus your [[Strength]] modifier.
+
+If the foe can’t move into an empty space (if it is surrounded by solid objects or other creatures, for example), your Boulder Roll has no effect.

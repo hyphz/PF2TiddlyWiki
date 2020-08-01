@@ -1,0 +1,10 @@
+created: 20200801215315771
+mod-concealed: Auto pass flat check if concealment is rain or fog.
+modified: 20200801215353461
+tags: Heritage Tengu
+title: Stormtossed Tengu
+type: text/vnd.tiddlywiki
+
+You gain electricity resistance equal to half your level (minimum 1). 
+
+You automatically succeed at the flat check to target a [[Concealed]] creature if that creature is concealed only by rain or fog.

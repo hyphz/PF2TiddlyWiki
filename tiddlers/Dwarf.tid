@@ -1,0 +1,14 @@
+anc-boosts: Constitution Wisdom Free
+anc-flaws: Charisma
+anc-hp: 10
+anc-langs: Common Dwarven
+anc-size: Medium
+anc-special: [[Darkvision]]
+anc-speed: 20
+created: 20200801191101213
+modified: 20200801213231610
+tags: Ancestry Dwarf Humanoid
+title: Dwarf
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

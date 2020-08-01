@@ -1,0 +1,13 @@
+created: 20200801211816184
+modified: 20200801214447189
+tags: 
+title: StatModSummary
+type: text/vnd.tiddlywiki
+
+These ancestries boost <<currentTiddler>>:
+
+<<bulletlist "[all[current]listed[anc-boosts]sort[]]">>
+
+These ancestries have flaws in <<currentTiddler>>:
+
+<<bulletlist "[all[current]listed[anc-flaws]sort[]]">>

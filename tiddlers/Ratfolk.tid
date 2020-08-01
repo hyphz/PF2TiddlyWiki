@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Intelligence Free
+anc-flaws: Strength
+anc-hp: 6
+anc-langs: Common Ysoki
+anc-size: Small
+anc-special: [[Low-Light Vision]]
+anc-speed: 25
+created: 20200801214709059
+modified: 20200801214750705
+tags: Ancestry Humanoid Uncommon Ratfolk
+title: Ratfolk
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

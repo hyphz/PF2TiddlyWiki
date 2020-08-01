@@ -3,7 +3,7 @@ mod-deception: Key ability for this skill.
 mod-diplomacy: Key ability for this skill.
 mod-intimidation: Key ability for this skill.
 mod-performance: Key ability for this skill.
-modified: 20200725141603744
+modified: 20200801212550443
 tags: [[Ability Score]]
 title: Charisma
 type: text/vnd.tiddlywiki
@@ -15,3 +15,5 @@ A high Charisma score helps you influence the thoughts and moods of others.
 //Charisma governs [[Deception]], [[Diplomacy]], [[Intimidation]], and [[Performance]].//
 
 //Being [[Stupefied]], [[Sickened]] or [[Frightened]] reduces your Charisma rolls.//
+
+{{||StatModSummary}}

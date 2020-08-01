@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Intelligence Free
+anc-flaws: Constitution
+anc-hp: 6
+anc-langs: Common Elven
+anc-size: Medium
+anc-special: [[Low-Light Vision]]
+anc-speed: 30
+created: 20200801204644748
+modified: 20200801211709414
+tags: Ancestry Humanoid Elf
+title: Elf
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

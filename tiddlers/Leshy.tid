@@ -1,0 +1,14 @@
+anc-boosts: Constitution Wisdom Free
+anc-flaws: Intelligence
+anc-hp: 8
+anc-langs: Common Sylvan
+anc-size: Small
+anc-special: [[Low-Light Vision]] [[Plant Nourishment]]
+anc-speed: 25
+created: 20200801213743643
+modified: 20200801213849560
+tags: Ancestry Leshy Plant Uncommon
+title: Leshy
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

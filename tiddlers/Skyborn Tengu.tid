@@ -1,0 +1,8 @@
+created: 20200801215244024
+mod-falling: Take no falling damage.
+modified: 20200801215310370
+tags: Heritage Tengu
+title: Skyborn Tengu
+type: text/vnd.tiddlywiki
+
+You take no damage from [[Falling]], regardless of the distance you fall.
