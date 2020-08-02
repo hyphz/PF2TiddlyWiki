@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802225526587
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 1
+m-range: 30 feet
+m-save: Reflex
+m-targets: 1 creature
+m-time: 
+mod-fortitude: +1 status vs Light.
+mod-reflex: +1 status vs Light.
+mod-will: +1 status vs Light.
+modified: 20200802225951065
+s-crit: The target is unaffected.
+s-fail: The effect lasts its normal duration.
+s-fumble: 
+s-hit: The effect lasts for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Darkness (Spell)]] Evocation Arcane Occult
+title: Penumbral Shroud
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You envelop the target in a shroud of shadow. 
+
+The target perceives light as one step lower than it actually is ([[Bright Light]] becomes [[Dim Light]], for example), affecting their ability to sense creatures and objects accordingly. 
+
+The shroud also provides the target a +1 status bonus to saving throws against <<tag Light>> effects. 
+
+While this effect is helpful to creatures sensitive to light, if the creature is unwilling, it can attempt a [[Reflex]] save to avoid the shroud and reduce the effect.

@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802231920200
+m-area: 5 foot [[Emanation]]
+m-components: Somatic Verbal Material
+m-duration: 8 hours
+m-level: 3
+m-range: 
+m-save: 
+m-targets: You and allies in the area
+m-time: 10 minutes
+mod-difficult_terrain: Reduces penalties for long-term overland travel.
+modified: 20200802232056390
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Divine Primal Material
+title: Show the Way
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You and affected allies gain preternatural knowledge of the path ahead, allowing you to intuit the best way forward and avoid potential obstacles such as difficult or confusing terrain. 
+
+For the purpose of long-distance overland travel during exploration mode, traveling through [[Difficult Terrain]] reduces you to only three-quarters your travel Speed instead of half, and traveling through greater difficult  terrain reduces your travel Speed to only half your travel Speed instead of one-third. 
+
+Show the way does not prevent you from falling into traps or encountering other artificial obstacles and hazards.
+
+''Heightened (6th)'' For the purpose of long-distance overland travel during exploration mode, traveling through difficult terrain doesn’t reduce your travel Speed at all, and traveling through greater difficult terrain reduces your travel Speed to only three-quarters of its normal value instead of one-third.

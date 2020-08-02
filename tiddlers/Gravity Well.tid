@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802224830811
+m-area: 30 foot radius [[Burst]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200802224958308
+s-crit: The creature is unaffected.
+s-fail: The creature moves 15 feet toward the center.
+s-fumble: The creature moves 30 feet toward the center.
+s-hit: The creature moves 5 feet toward the center.
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult
+title: Gravity Well
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a sphere of altered gravity. 
+
+All creatures and unsecured objects in the area move towards the center, depending on their [[Reflex]] saving throws. This follows the rules for [[Forced Movement]].
+
+If there’s not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.
+
+{{||SaveSuccessTable}}

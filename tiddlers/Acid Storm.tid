@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802214644020
+m-area: 20 foot radius [[Burst]]
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 5
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200802214743794
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Acid Evocation Arcane Primal
+title: Acid Storm
+turn-stn: Creatures inside storm take damage.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You evoke a storm of acid rain that pelts the area for the spell’s duration. 
+
+A creature that begins its turn in the area takes 3d8 <<tag Acid>>damage (basic [[Reflex]] save).
+
+''Heightened (+2)'' The damage increases by 1d8.

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802223844981
+m-area: 
+m-components: Somatic
+m-duration: 1 round
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200802223936245
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate Enchantment Mental Arcane Occult
+title: Endure
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You invigorate the touched creature’s mind and urge it to press on. 
+
+You grant the touched creature 5 temporary Hit Points. 
+
+''Heightened (+1)'' Increase the temporary Hit Points by 5.

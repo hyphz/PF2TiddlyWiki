@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802220152607
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 2
+m-range: 
+m-save: Will
+m-targets: You
+m-time: 
+modified: 20200802220349431
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage and is [[Stunned]] 1.
+s-fumble: The creature takes double damage and is [[Stunned]] 1. You are unaffected by the triggering mental effect.
+s-hit: The creature takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Mental Occult
+title: Animus Mine
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts. 
+
+You can use a single action, which has the <<tag Concentrate>> trait, to suppress the effects of the mine for 1 round to allow someone to safely use a <<tag Mental>> effect on you. 
+
+You can [[Dismiss]] the spell.
+
+The first creature that uses a mental effect against you triggers the animus mine, causing the spell to end. The animus mine deals 4d8 mental damage to the triggering creature, which must attempt a [[Will]] save.
+
+''Heightened (+1)'' The damage increases by 2d8.
+
+{{||SaveSuccessTable}}

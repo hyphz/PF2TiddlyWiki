@@ -1,0 +1,11 @@
+a-actions: 1
+created: 20200802220355508
+modified: 20200802220500285
+tags: Action Implied Concentrate
+title: Suppress Animus Mine
+turn-eun: Animus Mine re-activates.
+type: text/vnd.tiddlywiki
+
+//Implied by [[Animus Mine]].//
+
+You can use a single action, which has the Concentrate trait, to suppress the effects of the mine for 1 round to allow someone to safely use a Mental effect on you. 

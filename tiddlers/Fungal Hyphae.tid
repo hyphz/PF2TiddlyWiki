@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802224700265
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200802224812980
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Fungus Necromancy
+title: Fungal Hyphae
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Thin hyphae grow from your feet and plunge into the earth, creating a symbiotic fungal network that attaches to plants within 30 feet and connects you to their root systems.
+
+You gain an imprecise [[Tremorsense]] allowing you to sense anything directly touching plants within that distance. If you move, the hyphae snap and the spell ends.
+
+''Heightened (4th)'' You can control plants in the area to a small degree, allowing you to make [[Strikes]] with tree branches, exposed roots, or similarly solid plants. To do so, you use a Strike action, but you can Strike any creature you can detect with your tremorsense. These are melee spell attacks that deal 2d8 bludgeoning damage plus your spellcasting ability modifier. Unusual plants, such as thorny vines, might deal a different type of damage at the GM’s discretion. 
+
+You can’t make any other attacks through these plants, or take any other actions through them, other than these Strikes.
+
+''Heightened (6th)'' As 4th level, but you can use other simple <<tag Manipulate>>actions through the plants, including having a branch pick an object up or open a door, though more complex actions, such as picking a lock or disabling a trap, remain impossible.

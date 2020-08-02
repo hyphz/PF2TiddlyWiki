@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802223605091
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 1 day
+m-level: 3
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+mod-thirst: Thirst can't be quenched while spell is in effect.
+modified: 20200802223817542
+s-crit: The creature is unaffected and is temporarily immune for 1 hour.
+s-fail: The creature is immediately afflicted by thirst as if it hadn’t had a drink in days. It becomes [[Fatigued]] and takes 1d4 damage each hour that can’t be healed until it quenches its thirst. No amount of drinking can quench the creature’s thirst during the spell’s duration.
+s-fumble: As failure but the creature takes 2d4 damage each hour, twice as much as usual for thirst.
+s-hit: The creature is [[Fatigued]] for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate Curse Necromancy Arcane Occult Primal Material
+title: Cup of Dust
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You curse the target with a [[Thirst]] no drink can quench. 
+
+You can [[Dismiss]] the spell. 
+
+The target must attempt a [[Fortitude]] save.
+
+Heightened (+3) The thirst becomes more unbearable, increasing the damage each hour by 1d4, or by 2d4 on a critical failure.
+
+{{||SaveSuccessTable}}

@@ -1,5 +1,5 @@
 created: 20200726230528152
-modified: 20200730215916883
+modified: 20200802231022909
 tags: $:/tags/Macro
 title: SchoolSpellListMacro
 type: text/vnd.tiddlywiki
@@ -8,14 +8,14 @@ type: text/vnd.tiddlywiki
 <$set name="sch" value=<<__school__>> >
 <h3>Cantrips</h3>
 <ul>
-<$list filter="[tag[Spell]tag[Cantrip]tag<sch>]">
+<$list filter="[tag[Spell]tag[Cantrip]tag<sch>sort[]]">
 <li><$link/></li>
 </$list>
 </ul>
 <$list filter="1 2 3 4 5 6 7 8 9 10" variable="level">
 <h3>Level <<level>> <<__school__>> Spells</h3>
 <ul>
-<$list filter="[tag[Spell]!tag[Cantrip]tag<sch>field:m-level<level>]">
+<$list filter="[tag[Spell]!tag[Cantrip]tag<sch>field:m-level<level>sort[]]">
 <li><$link/></li>
 </$list>
 </ul>

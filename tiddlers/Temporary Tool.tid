@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802232428391
+m-area: 
+m-components: 
+m-duration: Until used or 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 minute
+modified: 20200802232529289
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Conjuration Arcane
+title: Temporary Tool
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You conjure a temporary simple tool, such as a shovel or rope into your hands. 
+
+It lasts until it is used for a single activity or for 1 minute, whichever comes first, after which it disappears. 
+
+The tool is obviously temporarily conjured, and thus can’t be sold or passed off as a genuine item.
+
+//The book lists no components for this spell, but it is unlikely to be used in encounter mode.//

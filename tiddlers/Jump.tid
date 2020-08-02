@@ -12,8 +12,8 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-mod-leap: Can modify leap to a fix length of 30 feet.
-modified: 20200726225638846
+mod-leap: Can modify leap to a fixed length of 30 feet.
+modified: 20200802231536786
 s-crit: 
 s-fail: 
 s-fumble: 

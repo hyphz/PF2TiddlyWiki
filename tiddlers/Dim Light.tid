@@ -1,0 +1,9 @@
+created: 20200802225902490
+modified: 20200802225927027
+tags: Rule
+title: Dim Light
+type: text/vnd.tiddlywiki
+
+Areas in shadow or lit by weak light sources are in dim light. 
+
+Creatures and objects in dim light have the [[Concealed]] condition, unless the seeker has [[Darkvision]] or [[Low-Light Vision]], or a precise sense other than vision.

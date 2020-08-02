@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802224221070
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 1 week
+m-level: 2
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20200802224507087
+s-crit: The creature is unaffected and is temporarily immune for 1 hour.
+s-fail: The creature is immediately afflicted by hunger as if it hadn’t eaten food in days. It becomes fatigued and takes 1d4 damage each day that can’t be healed until it sates its hunger. //This is more serious than the normal effect of hunger.// No amount of eating can sate the creature’s hunger during the spell’s duration. After the spell’s duration, the creature takes damage from [[Starvation]].
+s-fumble: As failure but the creature takes 2d4 damage each day, twice as much as usual for //the hunger caused by this spell//.
+s-hit: The creature is fatigued for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate Curse Necromancy Arcane Occult Primal Material
+title: Feast of Ashes
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You curse the target with a hunger no food can sate. 
+
+You can [[Dismiss]] the spell. 
+
+The target must attempt a [[Fortitude]] save.
+
+''Heightened (+1)'' The hunger becomes more unbearable, increasing the damage each day by 1d4, or by 2d4 on a critical failure.
+
+{{||SaveSuccessTable}}

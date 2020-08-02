@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802214910529
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200802215042467
+s-crit: The spell has no effect.
+s-fail: The duration is 2 rounds.
+s-fumble: The duration is 4 rounds.
+s-hit: The duration is 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Mental Nonlethal Arcane Occult
+title: Agitate
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send the target’s mind and body into overdrive, forcing it to become restless and hyperactive.
+
+During the duration, the target must [[Stride]] at least once each turn or take 2d8 <<tag Mental>>damage that turn. 
+
+The duration of this effect depends on the target’s [[Will]] save.
+
+''Heightened (+1)'' The damage increases by 2d8.
+
+{{||SaveSuccessTable}}

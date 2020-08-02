@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200722192110510
+modified: 20200802225951059
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cold Darkness Necromancy Negative Spell Arcane Divine Primal Somatic Verbal Manipulate Concentrate
+tags: Cold [[Darkness (Spell)]] Necromancy Negative Spell Arcane Divine Primal Somatic Verbal Manipulate Concentrate
 title: Eclipse Burst
 type: text/vnd.tiddlywiki
 

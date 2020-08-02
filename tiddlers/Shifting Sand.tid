@@ -1,0 +1,49 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802231053394
+m-area: A horizontal earthen or sandy surface within a 20 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+mod-balance: -1 status in the area.
+mod-cover_tracks: Destroys tracks in the affected area.
+mod-high_jump: -1 status in the area.
+mod-long_jump: -1 status in the area.
+mod-track: Destroys tracks in the affected area.
+mod-tumble_through: -1 status in the area.
+modified: 20200802231615069
+s-crit: The creature is unaffected and ignores the area’s difficult terrain and penalty to skill checks until the end of its turn.
+s-fail: The creature is affected normally by the spell this turn.
+s-fumble: The creature becomes [[Immobilized]] within the spell’s area until it [[Escape]]s. If the creature was already immobilized by shifting sands, it also falls [[Prone]].
+s-hit: The creature ignores the area’s penalty to skill checks until the end of its turn.
+tags: Spell Somatic Verbal Concentrate Manipulate Earth Transmutation Arcane Primal Material
+title: Shifting Sand
+turn-stn: Creatures on shifting ground must save.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You cause the surface to heave. 
+
+The area becomes [[Difficult Terrain]] and any tracks in the area are destroyed by the churning ground. 
+
+Creatures standing in the area take a –1 status penalty to [[Acrobatics]] checks to [[Balance]] and [[Tumble Through]] and [[Athletics]] checks to [[High Jump]] and [[Long Jump]]. 
+
+When you [[Sustain the Spell|Sustain a Spell]], you can move the churning area up to 10 feet in any direction.  Creatures [[Immobilized]] by the spell are carried along with the shifting sand in the same direction, if possible; this movement is [[Forced Movement]]
+
+Creatures that enter or begin their turn standing in the shifting sand must attempt a [[Reflex]] save.
+
+{{||SaveSuccessTable}}
+
+''Heightened (5th)'' The status penalty increases to –2 and the spell’s range increases to 60 feet.
+
+''Heightened (7th)'' The status penalty increases to –3, the spell’s range increases to 60 feet, and the spell’s area increases to a 30-foot burst.
+
+''Heightened (9th)'' The status penalty increases to –4, the spell’s range increases to 60 feet, and the spell’s area increases to a 40-foot burst.

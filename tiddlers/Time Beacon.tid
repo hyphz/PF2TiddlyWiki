@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802232803387
+m-area: 
+m-components: Material
+m-duration: Until the end of your turn
+m-level: 
+m-range: 7
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200802232941769
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Manipulate Divination Arcane Occult Material
+title: Time Beacon
+turn-euc: User can choose to rewind time.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a beacon in time, intending to return to it if things go wrong. 
+
+You can cast time beacon on only your turn. 
+
+Keep careful track of everything that happens this turn after you cast time beacon. 
+
+At the end of your turn, you can choose to rewind time back to just after you cast time beacon, removing all effects of your turn since then. 
+
+Curses, traps, and other harmful effects that happen during your turn might prevent you from returning to the beacon if they are powerful enough. 
+
+If you suffered any harmful effects during your turn after casting time beacon, to return to your beacon, time beacon attempts a [[Counteract]] check against each such effect. If it fails at any of these checks, you can’t return.

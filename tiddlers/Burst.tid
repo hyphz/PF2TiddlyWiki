@@ -1,5 +1,5 @@
 created: 20200719183646074
-modified: 20200724224634696
+modified: 20200802231830894
 tags: Area
 title: Burst
 type: text/vnd.tiddlywiki
@@ -9,3 +9,6 @@ A burst effect issues forth in all directions from a single corner of a square w
 For instance, when you cast fireball, it detonates at the corner of a square within 500 feet of you and creates a 20-foot burst, meaning it extends out 20 feet in every direction from the corner of the square you chose, affecting each creature whose space (or even one square of its space) is within the burst.
 
 //Squares should be measured in the standard way, with every other diagonal square measured as 10'. Bursts are approximately circular, not square.//
+
+//The size of a burst mentioned in an effect description is always its radius. Some effects specifically mention "radius". This does not indicate a special case.//
+

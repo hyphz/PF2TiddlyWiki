@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200802231624396
+m-area: 15 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200802231730928
+s-crit: The creature is unaffected.
+s-fail: The creature falls [[Prone]].
+s-fumble: As failure, plus the creature takes 1d6 damage.
+s-hit: The creature is [[Flat-Footed]] until the start of its next turn.
+tags: Spell Somatic Verbal Concentrate Manipulate Earth Evocation Arcane Primal
+title: Shockwave
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a wave of energy that ripples through the earth.
+
+Terrestrial creatures in the affected area must attempt a [[Reflex]] save to avoid stumbling as the shockwave shakes the ground.
+
+''Heightened (+1)'' The area increases by 5 feet (to a 20-foot cone at 2nd level, and so on).
+
+{{||SaveSuccessTable}}
