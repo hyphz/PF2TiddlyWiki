@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803175537658
+m-area: 60 foot [[Emanation]]
+m-components: Verbal
+m-duration: 1 round
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-attack_roll: +1 status.
+mod-damage_roll: +1 status.
+mod-fortitude: +1 status vs fear.
+mod-reflex: +1 status vs fear.
+mod-will: +1 status vs fear.
+modified: 20200803175745045
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Cantrip Bard Composition Uncommon Emotion Enchantment Mental
+title: Inspire Courage
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You inspire your allies with words or tunes of encouragement.
+
+You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against <<tag Fear>> effects.

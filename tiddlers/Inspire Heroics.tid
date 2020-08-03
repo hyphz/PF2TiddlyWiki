@@ -1,0 +1,36 @@
+a-crit: The status bonus from your inspire courage or inspire defense increases to +3.
+a-defense: 
+a-fail: Your inspire courage or inspire defense provides only its normal bonus of +1, but you don’t spend the Focus Point for casting this spell.
+a-fumble: 
+a-hit: The status bonus from inspire courage or inspire defense increases to +2.
+a-skill: Performance
+created: 20200803180059119
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-inspire_courage: Perform to increase bonus to +2/+3.
+mod-inspire_defense: Perform to increase bonus to +2/+3.
+mod-song_of_strength: Perform to increase bonus to +2/+3.
+modified: 20200803182441959
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Free Uncommon Bard Enchantment Action
+title: Inspire Heroics
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon your muse to greatly increase the benefits you provide to your allies with your [[Inspire Courage]], [[Inspire Defense]] //or [[Song of Strength]]// composition. 
+
+If your next action is to cast inspire courage or inspire defense, attempt a [[Performance]] check. The DC is usually a very hard DC of a level equal to that of the highest-level target of your composition, but the GM can assign a different DC based on the circumstances. 
+
+The effect of your inspire courage or inspire defense composition depends on the result of your check.
+
+{{||ActionSuccessTable}}

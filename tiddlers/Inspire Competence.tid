@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803175344496
+m-area: 
+m-components: Verbal
+m-duration: 1 round
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 1 ally
+m-time: 
+mod-aid: Aid with Performance and promote non-fumble fails.
+modified: 20200803175523966
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+title: Inspire Competence
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your encouragement inspires your ally to succeed at a task.
+
+This counts as having taken sufficient preparatory actions to [[Aid]] your ally on a skill check of your choice, regardless of the circumstances. 
+
+When you later use the Aid reaction, you can roll [[Performane]] instead of the normal skill check, and if you roll a failure, you get a success instead. 
+
+If you are legendary in Performance, you automatically critically succeed.
+
+The GM might rule that you can’t use this ability if the act of encouraging your ally would interfere with the skill check (such as a check to [[Sneak]] quietly or maintain a disguise).

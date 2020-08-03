@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803182248756
+m-area: 60 foot [[Emanation]]
+m-components: Verbal
+m-duration: 1 round
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-athletics: Gives +1 athletics and +1 DCs against athletics actions.
+modified: 20200803182408941
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+title: Song of Strength
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You bolster your allies’ physical strength with a hearty exhortation. 
+
+You and your allies gain a +1 status bonus to [[Athletics]] checks and to their DCs against Athletics skill actions such as [[Disarm]], [[Shove]], and [[Trip]].

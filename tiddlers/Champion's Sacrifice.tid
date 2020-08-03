@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803182832155
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 6
+m-range: 30 feet
+m-save: 
+m-targets: 1 ally
+m-time: 
+modified: 20200803182936745
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Champion
+title: Champion's Sacrifice
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' An ally is hit by a Strike, or an ally fails a saving throw against an effect that doesn't affect you.
+
+You form a link with an ally, allowing you to take harm in their stead. 
+
+All the effects of the hit or failed save are applied to you instead of the ally. For example, if the target critically fails a saving throw against a fireball, you would take double damage. 
+
+These effects ignore any resistances, immunities, or other abilities you have that might mitigate them in any way, although those of the target apply before you take the effect.
+

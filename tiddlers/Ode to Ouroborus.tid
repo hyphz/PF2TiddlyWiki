@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803181506688
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 5
+m-range: 60 feet
+m-save: 
+m-targets: The triggering creature
+m-time: 
+modified: 20200803181628711
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Necromancy Reaction
+title: Ode to Ouroborus
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' A creature's [[Dying]] condition would reach the value at which they would die.
+
+Your ode temporarily staves off death. 
+
+The target’s dying condition remains 1 below the value at which it dies. 
+
+This doesn’t help prevent death from effects that kill the target without increasing its dying condition, such as [[Disintegrate]] and <<tag Death>> effects.

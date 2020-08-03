@@ -1,5 +1,5 @@
 created: 20200731183338076
-modified: 20200802220135218
+modified: 20200803182756937
 sort-order: title
 tag-filter: Spell
 tags: Rule
@@ -20,11 +20,11 @@ Show:  <$button set="!!tag-filter" setTo="Spell">All</$button>, or only
 <tr><th>Spell</th><th>Level</th><th>Arcane</th><th>Divine</th><th>Occult</th><th>Primal</th><th>Focus</th></tr>
 <$list filter="[tag[Spell]tag{!!tag-filter}sortan{!!sort-order}]">
 <tr><th align="left"><$link/></th><td>{{!!m-level}}</td>
-<td><$list filter="[all[current]tag[Arcane]]">Y</$list></td>
-<td><$list filter="[all[current]tag[Divine]]">Y</$list></td>
-<td><$list filter="[all[current]tag[Occult]]">Y</$list></td>
-<td><$list filter="[all[current]tag[Primal]]">Y</$list></td>
-<td><$list filter="[all[current]tag[Focus Spell]]">Y</$list></td>
+<td><$list filter="[all[current]tag[Arcane]]">✓</$list></td>
+<td><$list filter="[all[current]tag[Divine]]">✓</$list></td>
+<td><$list filter="[all[current]tag[Occult]]">✓</$list></td>
+<td><$list filter="[all[current]tag[Primal]]">✓</$list></td>
+<td><$list filter="[all[current]tag[Focus Spell]]">✓</$list></td>
 </tr>
 </$list>
 </table>

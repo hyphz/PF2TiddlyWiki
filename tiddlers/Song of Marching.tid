@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803182050092
+m-area: 60 foot [[Emanation]]
+m-components: Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 hour
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-hustle: Hustle for the duration of the spell.
+modified: 20200803182230987
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Enchantment Mental
+title: Song of Marching
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You maintain a brisk performance that keeps allies on the move. 
+
+You and your allies in the area can [[Hustle]] for the spell’s duration, even though you are also [[Sustaining the Spell|Sustain a Spell]]. 
+
+You and your allies then become temporarily immune for 1 day.
+
+''Heightened (6th)'' You can Sustain the Spell for up to 2 hours.
+
+''Heightened (9th)'' You can Sustain the Spell for up to 4 hours.

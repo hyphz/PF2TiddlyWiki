@@ -1,0 +1,36 @@
+a-crit: The composition lasts 4 rounds.
+a-defense: 
+a-fail: The composition lasts 1 round, but you don't spend the focus point for casting this spell.
+a-fumble: 
+a-hit: The composition lasts 3 rounds.
+created: 20200803180406479
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200803180701122
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Enchantment Action Free
+title: Lingering Composition
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You add a flourish to your composition to extend its benefits.
+
+If your next action is to cast a cantrip composition with a duration of 1 round, attempt a [[Performance]] check. 
+
+The DC is usually a standard-difficulty DC of a level equal to the highest‑level target of your composition, but the GM can assign a different DC based on the circumstances. 
+
+The effect depends on the result of your check.
+
+{{||ActionSuccessTable}}
+
+//This can work on: <<bulletlist "[tag[Cantrip]tag[Composition]field:m-duration[1 round]]">>//

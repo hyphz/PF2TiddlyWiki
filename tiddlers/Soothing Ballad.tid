@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803180917958
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 7
+m-range: 30 feet
+m-save: 
+m-targets: You and up to 9 allies
+m-time: 
+modified: 20200803181028185
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Bard Composition Emotion Enchantment Healing Mental
+title: Soothing Ballad
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You draw upon your muse to soothe your allies. 
+
+Choose one of the following three effects:
+
+* The spell attempts to [[Counteract]] <<tag Fear>> effects on the targets.
+* The spell attempts to counteract effects imposing [[Paralysis|Paralyzed]] on the targets.
+* The spell restores 7d8 Hit Points to the targets.
+
+''Heightened (+1)'' When used to heal, soothing ballad restores 1d8 more Hit Points.

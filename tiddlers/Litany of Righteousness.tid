@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803183634963
+m-area: 
+m-components: Verbal
+m-duration: 1 round
+m-level: 7
+m-range: 30 feet
+m-save: 
+m-targets: 1 <<tag Evil>> creature
+m-time: 
+modified: 20200803183959605
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany
+title: Litany of Righteousness
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your litany denounces an evildoer, rendering it susceptible to the powers of good. 
+
+The target gains [[Weakness]] 7 to good.
+
+The target then becomes temporarily immune to all of your litanies for 1 minute.
+
+''Heightened (+1)'' The weakness increases by 1.

@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803174539744
+m-area: 30 foot [[Emanation]]
+m-components: Verbal
+m-duration: 1 round
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-frightened: Can't reduce to below 1 in dirge's emanation.
+modified: 20200803175016567
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Uncommon Bard Composition Emotion Enchantment Fear Mental Cantrip
+title: Dirge of Doom
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Foes within the area are [[Frightened]] 1. 
+
+They can’t reduce their frightened value below 1 while they remain in the area.

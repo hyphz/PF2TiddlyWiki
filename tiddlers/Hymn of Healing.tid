@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803181219325
+m-area: 
+m-components: Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 4 rounds
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: You or 1 ally
+m-time: 2 actions
+mod-sustain_a_spell: Target gains 2 temporary Hit Points.
+modified: 20200803181419138
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Healing Necromancy Positive
+title: Hymn of Healing
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+//Even though this spell has only one component, casting it is {{TwoAction}}.//
+
+Your divine singing mends wounds and provides a temporary respite from harm. 
+
+The target gains [[Fast Healing]] 2. 
+
+When you Cast the Spell and each time you [[Sustain the Spell|Sustain a Spell]], the target gains 2 temporary Hit Points, which last for 1 round.
+
+''Heightened (+1)'' The fast healing and temporary Hit Points each increase by 2.

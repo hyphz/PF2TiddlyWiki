@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803175754743
+m-area: 60 foot [[Emanation]]
+m-components: Verbal
+m-duration: 1 round
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-ac: +1 status.
+mod-fortitude: +1 status.
+mod-reflex: +1 status.
+mod-resistance: Physical (half spell level).
+mod-will: +1 status.
+modified: 20200803175922769
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+title: Inspire Defense
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You inspire your allies to protect themselves more effectively.
+
+You and all allies in the area gain a +1 status bonus to AC and saving throws, as well as resistance equal to half the spell’s level to physical damage.

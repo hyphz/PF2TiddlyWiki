@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803180727082
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: You or the triggering ally
+m-time: 
+mod-recall_knowledge: Can use best of 2 rolls.
+modified: 20200803180905044
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Bard Divination Fortune Free Action
+title: Loremaster's Etude
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You or an ally within range attempts a skill check to [[Recall Knowledge]].
+
+You call upon your muse’s deep mysteries, granting the target a greater ability to think and recall information. 
+
+Roll the triggering Recall Knowledge skill check twice and use the better result.

@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803174259584
+m-area: 60 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-fortitude: Can use Performance result instead.
+mod-reflex: Can use Performance result instead.
+mod-will: Can use Performance result instead.
+modified: 20200803174946162
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Bard Composition Enchantment Fortune Mental Reaction [[Focus Spell]]
+title: Counter Performance
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+//You can cast this spell with a somatic ''or'' verbal component.//
+
+''Trigger'' You or an ally within 60 feet rolls a saving throw against an <<tag Auditory>> or <<tag Visual>> effect.
+
+Your performance protects you and your allies. 
+
+Roll a [[Performance]] check for a type you know: an auditory performance if the trigger was auditory, or a visual one for a visual trigger. 
+
+You and allies in the area can use the better result between your Performance check and the saving throw.
+

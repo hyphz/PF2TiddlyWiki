@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803183842303
+m-area: 
+m-components: Verbal
+m-duration: 1 round
+m-level: 7
+m-range: 30 feet
+m-save: 
+m-targets: 1 <<tag Good>> creature
+m-time: 
+modified: 20200803184029129
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Litany Evil
+title: Litany of Depravity
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your litany calls into question the morals your foe claims to hold dear. 
+
+The target gains [[Weakness]] 7 to evil, then becomes temporarily immune to all your litanies for 1 minute.
+
+''Heightened (+1)'' The weakness increases by 1.

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803181655499
+m-area: 5 foot [[Emanation]]
+m-components: Verbal
+m-duration: 1 minute
+m-level: 10
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 2 actions
+modified: 20200803181914544
+s-crit: The creature is unaffected.
+s-fail: The creature uses all its actions to move toward you and compliment your performance. This effect ends if a [[Hostile Action]] is used against the affected creature.
+s-fumble: The target gains the <<tag Minion>> trait and is [[Controlled]] by you. This effect ends if a [[Hostile Action]] is used against the affected creature, or if you direct the creature to use any action that causes it harm.
+s-hit: The creature is [[Fascinated]] with you.
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Enchantment Incapacitation Mental Sonic
+title: Pied Piping
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your performance enraptures those who hear it, compelling them to follow you about in admiration. 
+
+Each creature within the emanation must attempt a Will save when you Cast the Spell or the first time they enter the area, after which they become temporarily immune for 1 day. 
+
+Once per turn, you can spend a single action, which has the <<tag Concentrate>> trait, to increase the emanation’s radius by 5 feet. 
+
+You can [[Dismiss]] the spell.
+
+{{||SaveSuccessTable}}

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803182459572
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: You or 1 ally
+m-time: 
+modified: 20200803182625515
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Abjuration Bard Composition
+title: Symphony of the Unfettered Heart
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your symphony lifts listeners from their worldly concerns.
+
+Attempt a [[Performance]] check to [[Counteract]] one of the following conditions affecting the target: [[Grabbed]], [[Immobilized]], [[Paralyzed]], [[Restrained]], [[Slowed]], or [[Stunned]]. 
+
+If you fail, you can’t target that effect on the target for 1 day. 
+
+Use the condition’s source to determine the counteract DC (for example, the [[Escape]] DC for grabbed).
+
+''Heightened (9th)'' You can target up to four creatures.

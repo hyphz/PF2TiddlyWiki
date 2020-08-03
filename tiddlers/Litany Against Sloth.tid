@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803183317182
+m-area: 
+m-components: Verbal
+m-duration: 1 round
+m-level: 5
+m-range: 30 feet
+m-save: Will
+m-targets: 1 <<tag Evil>> creature
+m-time: 
+modified: 20200803183447571
+s-crit: The target is unaffected.
+s-fail: The target can't use Reactions and is [[Slowed]] 1.
+s-fumble: The target can't use Reactions and is [[Slowed]] 2.
+s-hit: The target can't use <<tag Reaction>>s.
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany
+title: Litany Against Sloth
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your litany rails against the sin of sloth, interfering with the target’s ability to react. 
+
+The target must attempt a [[Will]] save.
+
+A particularly slothful creature, such as a sloth demon, uses the outcome one degree of success worse than the result of its saving throw. 
+
+The target becomes temporarily immune to all of your litanies for 1 minute.
+
+{{||SaveSuccessTable}}

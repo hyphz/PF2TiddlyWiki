@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200803184030627
+m-area: 
+m-components: Verbal
+m-duration: 1 round
+m-level: 7
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+mod-aid: Prevents aiding other creatures.
+modified: 20200803184328649
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Litany Evil Enchantment Mental
+title: Litany of Self-Interest
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You give a speech that fills your target with a drive to improve themself to the exclusion of assisting others. 
+
+//The target makes a [[Will]] saving throw. If they succeed, they are not affected.// A creature that wants to gain the benefit of this spell and doesn’t care about its limitations can voluntarily fail the save. 
+
+If a creature fails or critically fails, they gain a +2 status bonus to attack rolls, [[Perception]] checks, saving throws, and skill checks. The target can’t [[Aid]] other creatures, consider any creature an ally, or use spells or abilities that directly benefit another creature (as determined by the GM), even if they also benefit the target. 
+
+Other creatures allied with the spell’s target can still consider the target an ally and affect it accordingly.
+
+''Heightened (8th)'' The status bonus increases to +3.
