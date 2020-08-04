@@ -1,0 +1,155 @@
+Acolyte,Intelligence,Wisdom,Religion,Scribing,Student of the Canon,Core Rulebook
+Acrobat,Strength,Dexterity,Acrobatics,Circus,Steady Balance,Core Rulebook
+Animal Whisperer,Wisdom,Charisma,Nature,*Per Terrain,Train Animal,Core Rulebook
+Artisan,Strength,Intelligence,Crafting,Guild,Speciality Crafting,Core Rulebook
+Artist,Dexterity,Charisma,Crafting,Art,Speciality Crafting,Core Rulebook
+Barkeep,Constitution,Charisma,Diplomacy,Alcohol,Hobnobber,Core Rulebook
+Barrister,Intelligence,Charisma,Diplomacy,Legal,Group Impression,Core Rulebook
+Bounty Hunter,Strength,Wisdom,Survival,Legal,Experienced Tracker,Core Rulebook
+Charlatan,Intelligence,Charisma,Deception,Underworld,Charming Liar,Core Rulebook
+Criminal,Dexterity,Intelligence,Stealth,Underworld,Experienced Smuggler,Core Rulebook
+Detective,Intelligence,Wisdom,Society,Underworld,Streetwise,Core Rulebook
+Emissary,Intelligence,Charisma,Society,*Per City,Multilingual,Core Rulebook
+Entertainer,Dexterity,Charisma,Performance,Theater,Fascinating Performance,Core Rulebook
+Farmhand,Constitution,Wisdom,Athletics,Farming,Assurance (Athletics),Core Rulebook
+Field Medic,Constitution,Wisdom,Medicine,Warfare,Battle Medic,Core Rulebook
+Fortune Teller,Intelligence,Charisma,Occultism,Fortune-Telling,Oddity Identification,Core Rulebook
+Gambler,Dexterity,Charisma,Deception,Games,Lie to Me,Core Rulebook
+Gladiator,Strength,Charisma,Performance,Gladiatorial,Impressive Performance,Core Rulebook
+Guard,Strength,Charisma,Intimidation,Legal or Warfare,Quick Coercion,Core Rulebook
+Herbalist,Constitution,Wisdom,Nature,Herbalism,Natural Medicine,Core Rulebook
+Hermit,Constitution,Intelligence,Nature or Occultism,*Per Terrain,Dubious Knowledge,Core Rulebook
+Hunter,Dexterity,Wisdom,Survival,Tanning,Survey Wildlife,Core Rulebook
+Laborer,Strength,Constitution,Athletics,Labor,Hefty Hauler,Core Rulebook
+Martial Disciple,Strength,Dexterity,Acrobatics or Athletics,Warfare,Cat Fall or Quick Jump,Core Rulebook
+Merchant,Intelligence,Charisma,Diplomacy,Mercantile,Bargain Hunter,Core Rulebook
+Miner,Strength,Wisdom,Survival,Mining,Terrain Expertise Underground,Core Rulebook
+Noble,Intelligence,Charisma,Society,Genealogy or Heraldry,Courtly Graces,Core Rulebook
+Nomad,Constitution,Wisdom,Survival,*Per Terrain,Assurance (Survival),Core Rulebook
+Prisoner,Strength,Constitution,Stealth,Underworld,Experienced Smuggler,Core Rulebook
+Sailor,Strength,Dexterity,Athletics,Sailing,Underwater Marauder,Core Rulebook
+Scholar,Intelligence,Wisdom,Arcana or Nature or Occultism or Religion,Academia,Assurance,Core Rulebook
+Scout,Dexterity,Wisdom,Survival,*Per Terrain,Forager,Core Rulebook
+Street Urchin,Dexterity,Constitution,Thievery,*Per City,Pickpocket,Core Rulebook
+Tinker,Dexterity,Intelligence,Crafting,Engineering,Speciality Crafting,Core Rulebook
+Warrior,Strength,Constitution,Intimidation,Warfare,Intimidating Glare,Core Rulebook
+Dragon Scholar,Strength,Charisma,Intimidation,Dragon,Intimidating Glare,Age Of Ashes Player's Guide
+Emancipated,Dexterity,Charisma,Stealth,Kintargo,Terrain Stalker,Age Of Ashes Player's Guide
+Haunting Vision,Constitution,Wisdom,Religion,Dahak,Student of the Canon,Age Of Ashes Player's Guide
+Hellknight Historian,Strength,Intelligence,Soicety,Architecture,Courtly Graces,Age Of Ashes Player's Guide
+Local Scion,Constitution,Charisma,Crafting,Breachill,Speciality Crafting,Age Of Ashes Player's Guide
+Out-of-Towner,Constitution,Intelligence,Diplomacy,*Per Ancestry,Hobnobber,Age Of Ashes Player's Guide
+Reputation Seeker,Dexterity,Intelligence,Survival,Darklands or Desert or Jungle,Terrain Expertise,Age Of Ashes Player's Guide
+Returning Descendant,Dexterity,Wisdom,Thievery,Engineering,Pickpocket,Age Of Ashes Player's Guide
+Truth Seeker,Strength,Wisdom,Deception,Politics,Lie to Me,Age Of Ashes Player's Guide
+Aiudara Seeker,Intelligence,Wisdom,Arcana,Portal,Quick Identification,Age Of Ashes 6
+Hermean Heritor,Constitution,Wisdom,Society,Legal,Multilingual or Assurance,Age Of Ashes 6
+Legendary Parents,Dexterity,Charisma,Intimidation,Genealogy,Group Coercion,Age Of Ashes 6
+Touched by Dahak,Strength,Charisma,Athletics,Dragon,Titan Wrestler,Age Of Ashes 6
+Aerialist,Dexterity,Charisma,Acrobatics,Rope,Cat Fall,Extinction Curse Player's Guide
+Animal Wrangler,Strength,Wisdom,Athletics or Nature,*Per Animal,Titan Wrestler or Train Animal,Extinction Curse Player's Guide
+Barker,Constitution,Charisma,Intimidation,Crowd,Group Coercion,Extinction Curse Player's Guide
+Blow-In,Dexterity,Charisma,Deception or Thievery,Underworld,Lengthy Diversion or Subtle Theft,Extinction Curse Player's Guide
+Butcher,Constitution,Intelligence,Society,Mercantile,Read Lips,Extinction Curse Player's Guide
+Circus Born,Intelligence,Charisma,Performance,Circus,Experienced Professional,Extinction Curse Player's Guide
+Clown,Dexterity,Charisma,Performance,Clown,Virtuosic Performer,Extinction Curse Player's Guide
+Mystic Seer,Intelligence,Wisdom,Arcana,Scam,Arcane Sense,Extinction Curse Player's Guide
+Rigger,Strength,Dexterity,Athletics,Circus,Combat Climber,Extinction Curse Player's Guide
+Child of the Puddles,Dexterity,Intelligence,Acrobatics,Absalom,Steady Balance,Lost Omens World Guide
+Diobel Pearl Diver,Constitution,Dexterity,Athletics,Ocean,Underwater Marauder,Lost Omens World Guide
+Freed Slave of Absalom,Constitution,Intelligence,Society,Absalom,Streetwise,Lost Omens World Guide
+Grand Council Bureaucrat,Charisma,Intelligence,Society,Government,Group Impression,Lost Omens World Guide
+Inlander,Constitution,Wisdom,Survival,*Per Terrain,Survey Wildlife,Lost Omens World Guide
+Menagerie Dung Sweeper,Constitution,Wisdom,Nature,Animal,Train Animal,Lost Omens World Guide
+Pathfinder Hopeful,Constitution,Intelligence,Society,Pathfinder Society,Additional Lore,Lost Omens World Guide
+Trade Consortium Underling,Intelligence,Wisdom,Society,Business,Experienced Professional,Lost Omens World Guide
+Aspiring River Monarch,Wisdom,Charisma,Society,Politics,Courtly Graces,Lost Omens World Guide
+Issian Partisan,Intelligence,Charisma,Deception,Underworld,Charming Liar,Lost Omens World Guide
+Razmiran Faithful,Strength,Charisma,Intimidation,Razmir,Group Coercion,Lost Omens World Guide
+Rostland Partisan,Constitution,Charisma,Diplomacy,Politics,Group Impression,Lost Omens World Guide
+Sarkorian Reclaimer,Constitution,Wisdom,Medicine,Abyssal,Battle Medicine,Lost Omens World Guide
+Sarkorian Survivor,Strength,Constitution,Survival,Sarkorian History,Forager,Lost Omens World Guide
+Wonder Taster,Intelligence,Constitution,Crafting,Alchemical,Alchemical Crafting,Lost Omens World Guide
+Belkzen Slayer,Strength,Charisma,Intimidation,Orc,Intimidating Glare,Lost Omens World Guide
+Cursed Family,Intelligence,Charisma,Occultism,Curse,Oddity Identification,Lost Omens World Guide
+Lastwall Survivor,Constitution,Wisdom,Medicine,Undead,Battle Medicine,Lost Omens World Guide
+Molthuni Mercenary,Strength,Constitution,Athletics,Mercenary,Experienced Professional,Lost Omens World Guide
+Nirmathi Guerrilla,Dexterity,Wisdom,Survival,Forest,Terrain Stalker,Lost Omens World Guide
+Onyx Trader,Dexterity,Charisma,Society,Mercantile,Multilingual,Lost Omens World Guide
+Ustalavic Academic,Intelligence,Wisdom,Crafting,Academia,Skill Training,Lost Omens World Guide
+Whispering Way Scion,Intelligence,Wisdom,Religion,Undead,Student of the Canon,Lost Omens World Guide
+Black Market Smuggler,Wisdom,Charisma,Stealth,Underworld,Experienced Smuggler,Lost Omens World Guide
+Desert Tracker,Constitution,Wisdom,Survival,Desert,Experienced Tracker,Lost Omens World Guide
+Merabite Prodigy,Dexterity,Intelligence,Crafting,Alchemical,Speciality Crafting,Lost Omens World Guide
+Osirionologist,Constitution,Intelligence,Occultism,Ancient Osirion,Oddity Identification,Lost Omens World Guide
+Purveyor of the Bizarre,Intelligence,Wisdom,Arcana,Mercantile,Quick Identification,Lost Omens World Guide
+Secular Medic,Wisdom,Dexterity,Medicine,Anatomy,Battle Medicine,Lost Omens World Guide
+Thuvian Unifier,Strength,Charisma,Intimidation,Politics,Quick Coercion,Lost Omens World Guide
+Aspiring Free Captain,Wisdom,Charisma,Intimidation,Sailing,Group Coercion,Lost Omens World Guide
+Hermean Expatriate,Intelligence,Charisma,Society,Dragon,Skill Training,Lost Omens World Guide
+Mantis Scion,Dexterity,Wisdom,Stealth,Assassin,Assurance,Lost Omens World Guide
+Press-Ganged,Strength,Wisdom,Society,Sailing,Experienced Professional,Lost Omens World Guide
+Scholar of the Ancients,Intelligence,Charisma,Arcana,Azlant,Quick Identification,Lost Omens World Guide
+Storm Survivor,Strength,Wisdom,Survival,Weather,Forager,Lost Omens World Guide
+Undersea Enthusiast,Strength,Constitution,Athletics,Ocean,Underwater Marauder,Lost Omens World Guide
+Alkenstar Tinker,Dexterity,Intelligence,Crafting,Engineering,Alchemical Crafting,Lost Omens World Guide
+Geb Crusader,Constitution,Wisdom,Religion,Undead,Student of the Canon,Lost Omens World Guide
+Mana Wastes Refugee,Constitution,Intelligence,Arcana,Wilderness,Trick Magic Item,Lost Omens World Guide
+Nexian Mystic,Intelligence,WIsdom,Arcana,*Per Plane,Arcane Sense,Lost Omens World Guide
+Oenopion Ooze-Tender,Constitution,Intelligence,Crafting,Ooze,Dubious Knowledge,Lost Omens World Guide
+Perfection Seeker,Dexterity,Wisdom,Acrobatics,Warfare,Cat Fall,Lost Omens World Guide
+Quick,Charisma,Constitution,Deception,Undead,Charming Liar,Lost Omens World Guide
+Bekyar Restorer,Wisdom,Charisma,Diplomacy,Abyss,Group Impression,Lost Omens World Guide
+Bonuwat Wavetouched,Strength,Wisdom,Athletics,Ocean,Underwater Marauder,Lost Omens World Guide
+Bright Lion,Strength,Charisma,Deception,Mzali,Lie to Me,Lost Omens World Guide
+Magaambya Academic,Intelligence,Charisma,Arcana or Nature,Academia,Recognize Spell,Lost Omens World Guide
+Senghor Sailor,Intelligence,Wisdom,Crafting,Sailing,Quick Repair,Lost Omens World Guide
+Shory Seeker,Dexterity,Intelligence,Crafting,Shory,Speciality Crafting,Lost Omens World Guide
+Sodden Scavenger,Constitution,Wisdom,Survival,Swamp,Forager,Lost Omens World Guide
+Vidrian Reformer,Dexterity,Charisma,Diplomacy,Politics,Hobnobber,Lost Omens World Guide
+Atteran Rancher,Strength,Dexterity,Nature,Animal,Train Animal,Lost Omens World Guide
+Bellflower Agent,Dexterity,Charisma,Stealth,Underworld,Experienced Smuggler,Lost Omens World Guide
+Chelish Rebel,Dexterity,Charisma,Society,Kintargo,Streetwise,Lost Omens World Guide
+Child of Westcrown,Strength,Charisma,Diplomacy,Westcrown,Group Impression,Lost Omens World Guide
+Goblinblood Orphan,Dexterity,Constitution,Survival,Goblin,Assurance,Lost Omens World Guide
+Shadow Haunted,Intelligence,Wisdom,Intimidation,Shadow Plane,Quick Coercion,Lost Omens World Guide
+Thrune Loyalist,Intelligence,Charisma,Religion,Hell,Student of the Canon,Lost Omens World Guide
+Mammoth Speaker,Constitution,Wisdom,Nature,Animal,Train Animal,Lost Omens World Guide
+Shoanti Name-Bearer,Strength,Wisdom,Athletics,Quah,Combat Climber,Lost Omens World Guide
+Thassilonian Traveler,Constitution,Intelligence,Arcana,Thassilon,Dubious Knowledge,Lost Omens World Guide
+Ulfen Raider,Strength,Charisma,Intimidation,Sailing,Intimidating Glare,Lost Omens World Guide
+Varisian Wanderer,Dexterity,Charisma,Performance,Circus,Fascinating Performance,Lost Omens World Guide
+Winter's Child,Constitution,Charisma,Arcana,Weather,Arcane Sense,Lost Omens World Guide
+Witch Wary,Dexterity,Intelligence,Occultism,Curse,Oddity Identification,Lost Omens World Guide
+Final Blade Survivor,Charisma,Wisdom,Deception,Revolution,Charming Liar,Lost Omens World Guide
+Kalistrade Follower,Constitution,Intelligence,Diplomacy,Kalistrade,Bargain Hunter,Lost Omens World Guide
+Kyonin Emissary,Charisma,Intelligence,Society,Politics,Multilingual,Lost Omens World Guide
+Lumber Consortium Laborer,Strength,Dexterity,Athletics,Forest,Assurance,Lost Omens World Guide
+Rivethun Adherent,Constitution,Wisdom,Occultism,Spirit,Recognize Spell,Lost Omens World Guide
+Taldan Schemer,Charisma,Constitution,Diplomacy,Politics,Hobnobber,Lost Omens World Guide
+Wildwood Local,Dexterity,Wisdom,Nature,Forest,Natural Medicine,Lost Omens World Guide
+Bandit,Dexterity,Charisma,Intimidation,*Per Terrain,Group Coercion,Advanced Player's Guide
+Barber,Dexterity,Wisdom,Medicine,Surgery,Risky Surgery,Advanced Player's Guide
+Bookkeeper,Intelligence,Wisdom,Society,Accounting,Eye for Numbers,Advanced Player's Guide
+Cook,Constitution,Intelligence,Survival,Cooking,Seasoned,Advanced Player's Guide
+Courier,Dexterity,Intelligence,Society,*Per City,Glean Contents,Advanced Player's Guide
+Cultist,Intelligence,Charisma,Occultism,*Per Cult,Schooled in Secrets,Advanced Player's Guide
+Insurgent,Strength,Wisdom,Deception,Warfare,Lengthy Diversion,Advanced Player's Guide
+Outrider,Constitution,Wisdom,Nature,Plains,Express Rider,Advanced Player's Guide
+Pilgrim,Wisdom,Charisma,Religion,*Per Deity,Pilgrim's Token,Advanced Player's Guide
+Refugee,Constitution,Wisdom,Society,*Per Settlement,Streetwise,Advanced Player's Guide
+Root Worker,Intelligence,Wisdom,Occultism,Herbalism,Root Magic,Advanced Player's Guide
+Scavenger,Intelligence,Wisdom,Survival,*Per Settlement,Forager,Advanced Player's Guide
+Servant,Dexterity,Charisma,Society,Labor,Read Lips,Advanced Player's Guide
+Squire,Strength,Constitution,Athletics,Heraldry or Warfare,Armor Assist,Advanced Player's Guide
+Tax Collector,Strength,Charisma,Intimidation,*Per Settlement,Quick Coercion,Advanced Player's Guide
+Teacher,Intelligence,Wisdom,Performance or Society,Academia,Experienced Professional,Advanced Player's Guide
+Ward,Constitution,Charisma,Performance,Genealogy,Fascinating Performance,Advanced Player's Guide
+Amnesiac,Free,Free,,,Amnesiac Special,Advanced Player's Guide
+Blessed,Wisdom,Charisma,,*Per Deity,Blessed Special,Advanced Player's Guide
+Cursed,Intelligence,Charisma,Occultism,Curse,Warding Sign,Advanced Player's Guide
+Feral Child,,,,,Feral Child Special,Advanced Player's Guide
+Feybound,Dexterity,Charisma,,Fey,Fey's Fortune,Advanced Player's Guide
+Haunted,Wisdom,Charisma,Occultism,*Per Haunt,Haunted Aid,Advanced Player's Guide
+Returned,Constitution,Wisdom,Diehard,Boneyard,,Advanced Player's Guide
+Royalty,Intelligence,Charisma,Society,,Courtly Graces,Advanced Player's Guide

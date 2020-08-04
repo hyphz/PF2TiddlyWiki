@@ -1,0 +1,12 @@
+created: 20200804222983040
+bg-stata: Dexterity
+bg-statb: Wisdom
+tags: Background
+title: Scout (Background)
+bg-feat: Forager
+bg-skill: [[Survival]]
+bg-lore: *Per Terrain
+bg-src: Core Rulebook
+type: text/vnd.tiddlywiki
+
+{{||BackgroundSummary}}

@@ -1,0 +1,12 @@
+created: 20200804201920330
+modified: 20200804202251842
+title: Domain
+type: text/vnd.tiddlywiki
+
+<table>
+<$list filter="[tag[Domain]sort[]]">
+<tr><th><<currentTiddler>></th><td>{{!!text}}</td>
+<td><$list filter="[tag[Spell]field:m-domain<currentTiddler>field:m-level[1]]"><$link /> </$list> </td> 
+<td><$list filter="[tag[Spell]field:m-domain<currentTiddler>field:m-level[4]]"><$link /> </$list> </td></tr>
+</$list>
+</table>

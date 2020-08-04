@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200804192744517
+m-area: 
+m-components: Somatic
+m-domain: Travel
+m-duration: Until the end of the current turn
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-difficult_terrain: Ignores difficult terrain.
+modified: 20200804193010672
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
+title: Agile Feet
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The blessings of your god make your feet faster and your movements more fluid. 
+
+You gain a +5-foot status bonus to your Speed and ignore [[Difficult Terrain]]. 
+
+As part of casting agile feet, you can [[Stride]] or [[Step]]; you can instead [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] if you have the appropriate Speed.

@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200804193026474
+m-area: 5 foot [[Burst]]
+m-components: Verbal Material
+m-domain: Wealth
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200804193216627
+s-crit: The creature disbelieves the illusion and is unaffected by it.
+s-fail: The creature is [[Fascinated]] by the illusion.
+s-fumble: 
+s-hit: The creature is [[Fascinated]] by the wealth until it has completed its first action on its next turn.
+tags: Spell Verbal Concentrate Manipulate [[Focus Spell]] Material Uncommon Cleric Illusion
+title: Appearance of Wealth
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a brief vision of immense wealth filling the spell’s area. 
+
+Each creature within 20 feet of the area that could be enticed by material wealth must attempt a [[Will]] saving throw. 
+
+A creature that enters the area automatically disbelieves the illusion, and disbelieving the illusion ends any fascinated condition imposed by the spell. 
+
+As long as you [[Sustain the Spell|Sustain a Spell]], other creatures react to the treasure like they would any other illusion, but they are not at risk of becoming fascinated.
+
+{{||SaveSuccessTable}}

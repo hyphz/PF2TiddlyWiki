@@ -1,0 +1,32 @@
+a-crit: The target takes double damage and a –10-foot status penalty to its Speeds for 1 round.
+a-defense: AC
+a-fail: No effect.
+a-fumble: 
+a-hit: The target takes full damage and a –5-foot status penalty to its Speeds for 1 round.
+created: 20200804205548019
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200804205717634
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Attack Cold Evocation Water Arcane Primal
+title: Snowball
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You throw a magically propelled and chilled ball of dense snow. 
+
+The target takes 2d4 cold damage and potentially other effects, depending on the result of your spell attack roll.
+
+''Heightened (+1)'' The damage increases by 2d4.
+
+{{||ActionSuccessTable}}

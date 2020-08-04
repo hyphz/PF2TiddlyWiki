@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200804193955718
+m-area: 
+m-components: Somatic
+m-domain: Might
+m-duration: 1 round
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-athletics: +2 status.
+mod-speed: +10 foot status.
+modified: 20200804194131723
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
+title: Athletic Rush
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your body fills with physical power and skill. 
+
+You gain a +10-foot status bonus to [[Speed]] and a +2 status bonus to [[Athletics]] checks. 
+
+As a part of Casting this Spell, you can use a [[Stride]], [[Leap]], [[Climb]], or [[Swim]] action. The spell’s bonuses apply during that action.

@@ -1,0 +1,25 @@
+a-actions: 1
+a-skill: Arcana
+created: 20200804204352002
+feat-fpre: [[Arcane Sense]]
+feat-level: 2
+feat-skill: Arcana
+feat-spre: E
+modified: 20200804204622387
+tags: Feat Uncommon General Skill
+title: Eye of the Arclords
+type: text/vnd.tiddlywiki
+
+//This feat has special background requirements described in the Lost Omens World Guide.//
+
+You open an incandescent third eye upon your forehead. 
+
+The eye can remain open for 1 minute, and you can close it before then with a single action with the <<tag Concentrate>> trait.  It can remain open for 2 minutes if you’re a master in Arcana, or 5 minutes if you’re legendary. 
+
+While the eye is open, you gain the following benefits: 
+
+* You gain the effects of the [[Detect Magic]] arcane innate spell from your [[Arcane Sense]] at the start of each of your turns without needing to cast he spell; 
+* You gain [[Darkvision]]; 
+* You gain  a +2 status bonus to [[Perception]] checks to [[Seek]] [[Undetected]] and [[Hidden]] creatures and to your [[Perception]] DC against [[Hide]] and [[Sneak]]. 
+
+After your third eye closes, you are [[Dazzled]] for an amount of time equal to how long you had it open.

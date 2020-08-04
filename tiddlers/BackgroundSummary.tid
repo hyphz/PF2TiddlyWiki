@@ -1,0 +1,12 @@
+created: 20200804213024793
+modified: 20200804213300262
+tags: 
+title: BackgroundSummary
+type: text/vnd.tiddlywiki
+
+//The descriptions of backgrounds frequently contain non-OGL setting material and are not included here. This background is found in {{!!bg-src}}.//
+
+| !Stat Choices | {{!!bg-stata}} {{!!bg-statb}} |
+| !Skill | {{!!bg-skill}} |
+| !Lore | {{!!bg-lore}} |
+| !Feat | <$link to={{!!bg-feat}} /> |

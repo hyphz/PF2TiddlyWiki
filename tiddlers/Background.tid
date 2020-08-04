@@ -1,0 +1,29 @@
+created: 20200804213329676
+modified: 20200804214303505
+sort-type: title
+title: Background
+type: text/vnd.tiddlywiki
+
+//Background's describe your character's origin before adventuring.//
+
+//Backgrounds contain setting material which is not OGL or usable under community use. Thus, they are listed here by name only.//
+
+//Each Background usually offers a free stat boost; a boost of one other stat from a choice of two; Trained level in a regular skill and a [[Lore]] subskill; and a skill feat.//
+
+Sort by: <$button set="!!sort-type" setTo="title">Name</$button> 
+<$button set="!!sort-type" setTo="bg-skill">Skill</$button>
+<$button set="!!sort-type" setTo="bg-lore">Lore</$button>
+<$button set="!!sort-type" setTo="bg-feat">Feat</$button>
+
+<table>
+<tr><th>Background</th><th>Stat 1</th><th>Stat 2</th><th>Skill</th><th>Lore</th><th>Feat</th></tr>
+<$list filter="[tag[Background]sort{!!sort-type}]">
+<tr><th><$link/></th>
+<td><$link to={{!!bg-stata}}/></td>
+<td><$link to={{!!bg-statb}}/></td>
+<td><$list filter="[list[!!bg-skill]]"><$link/>  </$list></td>
+<td>{{!!bg-lore}}</td>
+<td><$link to={{!!bg-feat}}/></td>
+</tr>
+</$list>
+</table>

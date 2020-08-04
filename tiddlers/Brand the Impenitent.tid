@@ -12,7 +12,7 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200802223514718
+modified: 20200804193826232
 s-crit: The target is unaffected.
 s-fail: The spell lasts for 1 minute.
 s-fumble: The spell has an unlimited duration.
@@ -25,12 +25,11 @@ type: text/vnd.tiddlywiki
 
 You brand the target with an ethereal copy of your deity’s religious symbol. 
 
-This brand can’t be hidden, but it is visible only to followers of your faith, who see it as clearly as a lit torch. 
+This brand can’t be hidden, but it is visible only to followers of your faith, who see it as clearly as a lit torch. //(It does not actually emit light like a torch.)//
 
 Followers of your faith ignore the target’s [[Concealed]] condition, if any, and the target gains a –1 status penalty to [[AC]] against attacks by followers of your faith. 
 
 If the target is a follower of your deity in good standing, the spell fails.
 
-//Normally, {{TorchLight}}. But it is unlikely that the designers intended this spell to be used as a light source.//
 
 {{||SaveSuccessTable}}

@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200728192523866
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 creature
+m-time: 
+mod-fortitude: Gives +1 status vs named alignment.
+mod-reflex: Gives +1 status vs named alignment.
+mod-will: Gives +1 status vs named alignment.
+modified: 20200804201657045
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Uncommon Abjuration Divine Occult Somatic Verbal Spell Concentrate Manipulate
+title: Protection (Spell)
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You ward a creature against a specified alignment. 
+
+Choose <<tag Chaotic>>, <<tag Evil>>, <<tag Good>>, or <<tag Lawful>> when you cast this spell.
+
+The target gains a +1 status bonus to Armor Class and saving throws against creatures and effects of the chosen alignment. 
+
+This bonus increases to +3 against effects from such creatures that would directly control the target and against attacks made by <<tag Summoned>> creatures of the chosen alignment.
+
+This spell gains the trait that opposes the alignment you chose—if you choose chaos, this spell gains the lawful trait, and vice versa; if you choose evil, this spell gains the good trait, and vice versa.
