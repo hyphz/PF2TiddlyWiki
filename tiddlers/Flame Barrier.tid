@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805193821399
+m-area: 
+m-components: Verbal
+m-domain: Fire (Domain)
+m-duration: 
+m-level: 4
+m-range: 60 feet
+m-save: 
+m-targets: The creature that could take fire damage
+m-time: 
+modified: 20200805193942166
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration Cleric Reaction
+title: Flame Barrier
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' An effect would deal <<tag Fire>>damage to either you or an ally within range.
+
+You swiftly deflect incoming flames. The target gains fire resistance 15 against the triggering effect.
+
+''Heightened (+2)'' The resistance increases by 5.

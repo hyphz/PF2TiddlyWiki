@@ -1,8 +1,8 @@
 created: 20200712164841725
-m-components: Somatic, Verbal
+m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 10
-modified: 20200718211532733
+modified: 20200805225724221
 tags: Divine Spell Somatic Verbal Polymorph Transmutation Manipulate Concentrate
 title: Avatar
 type: text/vnd.tiddlywiki
@@ -25,25 +25,45 @@ You gain the following statistics and abilities regardless of which deity’s ba
 
 You also gain the specific abilities listed for your deity below:
 
-* ''Abadar'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; Ranged [one-action] crossbow (range increment 120 feet, reload 1), Damage 6d10+3 piercing.
-* ''Asmodeus'' Speed 70 feet, air walk; Melee [one-action] mace (reach 15 feet), Damage 6d10+6 bludgeoning; Ranged [one-action] hellfire (range 120 feet), Damage 6d6+3 fire.
-* ''Calistria'' Speed 30 feet, fly Speed 70 feet; Melee [one‑action] whip (disarm, finesse, nonlethal, reach 20 feet), Damage 6d4+6 slashing; Ranged [one-action] savored sting (range 60 feet), Damage 6d6+3 poison.
-* ''Cayden Cailean'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee [one-action] rapier (deadly, reach 15 feet), Damage 6d6+6 piercing; Ranged [one-action] ale splash (range 120 feet), Damage 6d6+3 poison.
-* ''Desna'' Speed 30 feet, fly Speed 70 feet; Melee [one-action] starknife (agile, deadly, finesse, reach 15 feet, silver, thrown 60 feet), Damage 6d4+6 piercing; Ranged [one-action] moonbeam (range 120 feet, silver), Damage 6d6+3 fire.
-* ''Erastil'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Ranged [one-action] longbow (deadly d8, range increment 150 feet), Damage 6d8+3 piercing.
-* ''Gorum'' Speed 70 feet, immune to immobilized; Melee [one-action] greatsword (versatile P, reach 15 feet), Damage 6d12+6 slashing.
-* ''Gozreh'' no land Speed, fly Speed 70 feet, swim Speed 70 feet; ignore difficult terrain and greater difficult terrain; Melee [one-action] waves (bull rush, reach 15 feet, thrown 20 feet), Damage 6d8+6 bludgeoning; Ranged [one-action] wind (versatile electricity, range 120 feet), Damage 6d6+3 bludgeoning.
-* ''Iomedae'' Speed 70 feet, air walk; shield (15 Hardness, can’t be damaged); Melee [one-action] longsword (versatile P, reach 15 feet), Damage 6d8+6 slashing.
-* ''Irori'' Speed 80 feet, air walk; Melee [one-action] unfettered strike (agile, versatile P or S, finesse, reach 15 feet), Damage 6d8+6 bludgeoning; Ranged [one-action] wind strike (range 60 feet), Damage 6d4+6 bludgeoning.
-* ''Lamashtu'' Speed 30 feet, fly Speed 70 feet; Melee [one‑action] falchion (forceful, reach 15 feet), Damage  6d10+6 slashing; Ranged [one-action] waters of Lamashtu (range 120 feet), Damage 6d6+3 poison.
-* ''Nethys'' Speed 70 feet, air walk; Ranged [one-action] raw magic (range 120 feet; versatile cold, electricity, or fire), Damage 6d6 force.
-* ''Norgorber'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee [one-action] shortsword (agile, finesse, versatile S, reach 15 feet), Damage 6d6+6 piercing; Ranged [one-action] blackfinger toss (range 120 feet), Damage 6d6+3 poison.
-* ''Pharasma'' Speed 70 feet, air walk; Melee [one-action] dagger (agile, finesse, reach 15 feet, thrown 40 feet), Damage 6d6+6 slashing; Ranged [one-action] spiral blast (range 120 feet, damages only undead), Damage 6d8+3 positive.
-* ''Rovagug'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; Melee [one-action] jaws (reach 15 feet), Damage 6d12+6 piercing; Melee [one-action] leg (agile, versatile P, reach 15 feet), Damage 6d8+6 bludgeoning.
-* ''Sarenrae'' Speed 30 feet, fly Speed 70 feet; Melee [one-action] scimitar (forceful, nonlethal, reach 15 feet), Damage 6d6+6 slashing; Ranged [one-action] everflame (nonlethal, range 120 feet), Damage 6d6+3 fire.
-* ''Shelyn'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee [one-action] glaive (deadly d8, nonlethal, reach 20 feet), Damage 6d8+6 slashing; Ranged [one-action] melody of inner beauty, (nonlethal, range 120 feet), Damage 6d6+3 sonic.
-* ''Torag'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; shield (15 Hardness, can’t be damaged); Melee [one-action] warhammer (bull rush, reach 15 feet), Damage 6d8+6 bludgeoning.
-* ''Urgathoa'' Speed 70 feet, air walk; Melee [one-action] scythe (deadly d10, trip, reach 15 feet), Damage 6d10+6 slashing; Ranged [one-action] pallid plague (range 120 feet), Damage 6d6+3 negative.
-* ''Zon-Kuthon'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee [one-action] spiked chain (disarm, trip, reach 15 feet), Damage 6d8+6 slashing; Ranged [one-action] midnight pain (mental, nonlethal, range 120 feet), Damage 6d6+3 mental.
+* ''Abadar'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; Ranged {{OneAction}} crossbow (range increment 120 feet, reload 1), Damage 6d10+3 piercing.
+* ''Achaekek'' Speed 70 feet, climb Speed 50 feet, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} mantis claw (agile, backswing, finesse, reach 15 feet, versatile P), Damage 6d8+6 slashing; Ranged {{OneAction}} spine volley (range 60 feet), Damage 6d6+3 piercing.
+* ''Alseta'' Speed 40 feet, dimensional Speed 60 feet; Melee {{OneAction}} dagger (agile, finesse, reach 15 feet, thrown 40 feet, versatile P), Damage 6d6+6 piercing; Ranged {{OneAction}} portal toss (range 60 feet), Damage 6d6+3 bludgeoning. Can cast [[Dimension Door]] at will, with a range of 60 foot as a {{OneAction}} divine innate spell.
+* ''Arazni'' Speed 70 feet, [[Air Walk]], immune to immobilized; Melee {{OneAction}} rapier (deadly 3d8, reach 15 feet), Damage 6d8+6 piercing; Ranged {{OneAction}} call blood (range 120 feet), Damage 6d6 persistent bleed damage.
+* ''Asmodeus'' Speed 70 feet, air walk; Melee {{OneAction}} mace (reach 15 feet), Damage 6d10+6 bludgeoning; Ranged {{OneAction}} hellfire (range 120 feet), Damage 6d6+3 fire.
+* ''Besmara'' Speed 40 feet, swim Speed 70 feet, immune to immobilized; Melee {{OneAction}} rapier (deadly 3d8, disarm, finesse, reach 15 feet), Damage 6d6+6 piercing; Ranged {{OneAction}} ship’s cannon (range 120 feet), Damage 6d6+3 bludgeoning.
+* ''Brigh'' Speed 60 feet, immune to immobilized, [[Air Walk]]; Melee {{OneAction}} light hammer (agile, reach 15 feet, thrown 40 feet), Damage 6d6+6 bludgeoning; Ranged {{OneAction}} bolt of molten bronze (range 120 feet), Damage 6d8+3 fire.
+* ''Calistria'' Speed 30 feet, fly Speed 70 feet; Melee {{OneAction}} whip (disarm, finesse, nonlethal, reach 20 feet), Damage 6d4+6 slashing; Ranged {{OneAction}} savored sting (range 60 feet), Damage 6d6+3 poison.
+* ''Casandalee'' Speed 70 feet, [[Air Walk]], ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} polytool (reach 15 feet), Damage 6d6+6 slashing; Ranged {{OneAction}} logic blast (range 120 feet), Damage 6d6+3 mental.
+* ''Cayden Cailean'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} rapier (deadly, reach 15 feet), Damage 6d6+6 piercing; Ranged {{OneAction}} ale splash (range 120 feet), Damage 6d6+3 poison.
+* ''Chaldira'' Speed 70 feet, [[Air Walk]], immune to immobilized; Melee {{OneAction}} shortsword (agile, finesse, reach 15 feet, versatile S), Damage 6d6+6 piercing; Ranged {{OneAction}} fistful of buttons (nonlethal, range 120 feet), Damage 6d6+3 bludgeoning.
+* ''Desna'' Speed 30 feet, fly Speed 70 feet; Melee {{OneAction}} starknife (agile, deadly, finesse, reach 15 feet, silver, thrown 60 feet), Damage 6d4+6 piercing; Ranged {{OneAction}} moonbeam (range 120 feet, silver), Damage 6d6+3 fire.
+* ''Erastil'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Ranged {{OneAction}} longbow (deadly d8, range increment 150 feet), Damage 6d8+3 piercing.
+* ''Ghlaunder'' Speed 30 feet, fly Speed 70 feet; Melee {{OneAction}} proboscis (agile, reach 20 feet), Damage 6d6+6 piercing plus 3d6 persistent bleed.
+* ''Gorum'' Speed 70 feet, immune to immobilized; Melee {{OneAction}} greatsword (versatile P, reach 15 feet), Damage 6d12+6 slashing.
+* ''Gozreh'' no land Speed, fly Speed 70 feet, swim Speed 70 feet; ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} waves (bull rush, reach 15 feet, thrown 20 feet), Damage 6d8+6 bludgeoning; Ranged {{OneAction}} wind (versatile electricity, range 120 feet), Damage 6d6+3 bludgeoning.
+* ''Grandmother Spider'' Speed 70 feet, climb Speed 70 feet, immune to immobilized; Melee {{OneAction}} leg (deadly 3d8, finesse, reach 15 feet, versatile P), Damage 6d6+6 bludgeoning; Ranged {{OneAction}} venom web (range 120 feet), Damage 6d6+3 poison.
+* ''Groetus'' Speed 70 feet, [[Air Walk]], ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} war flail (disarm, reach 15 feet, sweep, trip), Damage 6d10+6 bludgeoning; Ranged {{OneAction}} dreadful thought (range 120 feet), Damage 6d6+3 mental.
+* ''Gruhastha'' Speed 50 feet, fly Speed 70 feet; Melee {{OneAction}} fist (agile, finesse, nonlethal, reach 15 feet), Damage 6d6+6 bludgeoning; Ranged {{OneAction}} arrow of enlightenment (deadly 3d10, range increment 120 feet), Damage 6d6+3 piercing.
+* ''Hei Feng'' Speed 70 feet, [[Air Walk]], ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} drunken sword (forceful, reach 15 feet), Damage 4d6+6 slashing plus 1d6 electricity splash damage; Ranged {{OneAction}} storm surge (range 120 feet, air, water), Damage 4d6+3 bludgeoning plus 1d6 electricity splash damage. The caster is immune to this splash damage.
+* ''Iomedae'' Speed 70 feet, air walk; shield (15 Hardness, can’t be damaged); Melee {{OneAction}} longsword (versatile P, reach 15 feet), Damage 6d8+6 slashing.
+* ''Irori'' Speed 80 feet, air walk; Melee {{OneAction}} unfettered strike (agile, versatile P or S, finesse, reach 15 feet), Damage 6d8+6 bludgeoning; Ranged {{OneAction}} wind strike (range 60 feet), Damage 6d4+6 bludgeoning.
+* ''Kazutal'' Speed 60 feet, ignore difficult terrain; Melee {{OneAction}} machete (agile, reach 15 feet), Damage 6d6+6 slashing; Ranged {{OneAction}} jaguar pounce (range 60 feet); Damage 5d6+3 piercing plus 1d6 persistent bleed.
+* ''Kurgess'' Speed 70 feet, climb Speed 50 feet, swim Speed 50 feet, immune to immobilized; Melee {{OneAction}} lashing chain (disarm, reach 20 feet, trip), Damage 6d6+6 bludgeoning; Ranged {{OneAction}} javelin (range increment 60 feet, thrown), Damage 6d6+3 piercing.
+* ''Lamashtu'' Speed 30 feet, fly Speed 70 feet; Melee {{OneAction}} falchion (forceful, reach 15 feet), Damage  6d10+6 slashing; Ranged {{OneAction}} waters of Lamashtu (range 120 feet), Damage 6d6+3 poison.
+* ''Milani'' Speed 50 feet, fly Speed 70 feet; shield (15 Hardness, can’t be damaged); Melee {{OneAction}} morningstar (versatile P, reach 15 feet), Damage 6d8+6 bludgeoning.
+* ''Nethys'' Speed 70 feet, air walk; Ranged {{OneAction}} raw magic (range 120 feet; versatile cold, electricity, or fire), Damage 6d6 force.
+* ''Nivi Rhombodazzle'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; Melee {{OneAction}} returning light hammer (agile, thrown 40 feet), Damage 6d6+6 bludgeoning.
+* ''Nocticula'' Speed 70 feet, fly Speed 70 feet; Melee {{OneAction}} tail stinger (agile, finesse, reach 15 feet, trip), Damage 6d6+6 slashing; Ranged {{OneAction}} magnanimous smile (nonlethal, range 120 feet, visual), Damage 6d6+3 mental.
+* ''Norgorber'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} shortsword (agile, finesse, versatile S, reach 15 feet), Damage 6d6+6 piercing; Ranged {{OneAction}} blackfinger toss (range 120 feet), Damage 6d6+3 poison.
+* ''Pharasma'' Speed 70 feet, air walk; Melee {{OneAction}} dagger (agile, finesse, reach 15 feet, thrown 40 feet), Damage 6d6+6 slashing; Ranged {{OneAction}} spiral blast (range 120 feet, damages only undead), Damage 6d8+3 positive.
+* ''Rovagug'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; Melee {{OneAction}} jaws (reach 15 feet), Damage 6d12+6 piercing; Melee {{OneAction}} leg (agile, versatile P, reach 15 feet), Damage 6d8+6 bludgeoning.
+* ''Sarenrae'' Speed 30 feet, fly Speed 70 feet; Melee {{OneAction}} scimitar (forceful, nonlethal, reach 15 feet), Damage 6d6+6 slashing; Ranged {{OneAction}} everflame (nonlethal, range 120 feet), Damage 6d6+3 fire.
+* ''Shelyn'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} glaive (deadly d8, nonlethal, reach 20 feet), Damage 6d8+6 slashing; Ranged {{OneAction}} melody of inner beauty, (nonlethal, range 120 feet), Damage 6d6+3 sonic.
+* ''Shizuru'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} katana (deadly 3d8, two-hand d10, reach 15 feet, versatile P), Damage 6d6+6 slashing; Ranged {{OneAction}} sunbolt arrow (range 120 feet), Damage 6d6+3 fire.
+* ''Sivanah'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} bladed scarf (disarm, finesse, reach 15 feet, trip), Damage 6d8+6 slashing; Ranged {{OneAction}} illusory assault (range 120 feet), Damage 6d6+3 mental.
+* ''Torag'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; shield (15 Hardness, can’t be damaged); Melee {{OneAction}} warhammer (bull rush, reach 15 feet), Damage 6d8+6 bludgeoning.
+* ''Tsukiyo'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} longspear (reach 20 feet), Damage 6d10+6 piercing; Ranged {{OneAction}} moonbeam (nonlethal, range 120 feet, silver), Damage 6d6+3 mental.
+* ''Urgathoa'' Speed 70 feet, air walk; Melee {{OneAction}} scythe (deadly d10, trip, reach 15 feet), Damage 6d10+6 slashing; Ranged {{OneAction}} pallid plague (range 120 feet), Damage 6d6+3 negative.
+* ''Zon-Kuthon'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} spiked chain (disarm, trip, reach 15 feet), Damage 6d8+6 slashing; Ranged {{OneAction}} midnight pain (mental, nonlethal, range 120 feet), Damage 6d6+3 mental.
 
-{{BattleFormRestrictions}}
+{{BattleFormWithHands}}

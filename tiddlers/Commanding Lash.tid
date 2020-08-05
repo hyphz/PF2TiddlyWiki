@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805165549928
+m-area: 
+m-components: Verbal
+m-domain: Tyranny
+m-duration: Until the end of the target's next turn
+m-level: 4
+m-range: 100 feet
+m-save: Will
+m-targets: A target you dealt damage to on your most recent action
+m-time: 
+modified: 20200805230321614
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell [[Focus Spell]] Uncommon Cleric Enchantment Incapacitation Mental Verbal Concentrate
+title: Commanding Lash
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You must cast this spell on a creature you dealt damage to on your most recent action.
+
+With the threat of more pain, you compel a creature you’ve recently harmed. 
+
+You issue a command to the target, with the effects of the spell [[Command]].

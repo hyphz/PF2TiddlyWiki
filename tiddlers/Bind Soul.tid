@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200718212853353
 m-area: 
-m-components: Somatic, Verbal, Black sapphire with a GP value of at least the target's level * 100
+m-components: Somatic Verbal 
 m-duration: Unlimited
 m-level: 9
 m-range: 30 feet
 m-save: 
 m-targets: 1 creature that died within the last minute
 m-time: 
-modified: 20200718213021022
+modified: 20200805225902731
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -22,6 +22,8 @@ title: Bind Soul
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
+
+''Cost'' Black sapphire with a GP value of at least the target's level * 100.
 
 You wrench the target’s soul away before it can pass on to the afterlife and imprison it in a black sapphire.
 

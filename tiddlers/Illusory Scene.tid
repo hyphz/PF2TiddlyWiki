@@ -5,19 +5,19 @@ a-fumble:
 a-hit: 
 created: 20200726223347516
 m-area: 30 foot [[Burst]]
-m-components: Somatic Verbal
+m-components: Verbal
 m-duration: 1 hour
 m-level: 5
 m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20200726223604515
+modified: 20200805231344513
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Auditory Illusion Visual Scene Arcane Occult Concentrate Manipulate
+tags: Auditory Illusion Visual Scene Arcane Occult Concentrate Verbal
 title: Illusory Scene
 type: text/vnd.tiddlywiki
 

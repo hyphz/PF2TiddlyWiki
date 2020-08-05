@@ -1,0 +1,18 @@
+created: 20200805234021395
+feat-class: Alchemist
+feat-level: 12
+mod-fortitude: +2 status vs your inhaled poisons.
+mod-reflex: +2 status vs your inhaled poisons.
+mod-will: +2 status vs your inhaled poisons.
+modified: 20200805234248586
+tags: Uncommon Alchemist Class Feat
+title: Shaped Containment
+type: text/vnd.tiddlywiki
+
+{{AoA5Feat}}
+
+Through a combination of careful manipulation and precise breath control, you can deploy inhaled toxins precisely. 
+
+When you activate an inhaled poison, you can cause it to fill a 20-foot [[Line]] that’s 5 feet tall rather than a 10-foot [[Cube]]. 
+
+You gain a +3 status bonus to saving throws against inhaled poisons that you activate.

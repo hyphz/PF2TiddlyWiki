@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200720221325302
+modified: 20200805231732817
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Spell Arcane Occult Material Somatic Manipulate Concentrate
+tags: Illusion Spell Arcane Occult Material Somatic Manipulate
 title: Disappearance
 type: text/vnd.tiddlywiki
 

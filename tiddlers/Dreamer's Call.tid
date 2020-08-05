@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805182320545
+m-area: 
+m-components: Somatic Verbal
+m-domain: Dreams
+m-duration: Until the end of the target's next turn
+m-level: 4
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200805182534085
+s-crit: The target is unaffected.
+s-fail: As success, except that you appear in the dream and give a suggestion. This can be to approach you, run away (as if it had the [[Fleeing]] condition), [[Release]] what it’s holding, [[Drop Prone]], or stand in place. The creature follows this course of action as its first action after you Cast the Spell.
+s-fumble: As failure, but the target follows the course of action for as many actions as possible for the spell’s duration, and it does nothing else.
+s-hit: The target’s attention wavers. It becomes [[Flat-Footed]] and [[Fascinated]] by its daydreams.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Incapacitation Mental
+title: Dreamer's Call
+turn-etn: Wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The target becomes distracted and suggestible, inundated by vivid daydreams.
+
+//It must make a [[Will]] save.//
+
+{{||SaveSuccessTable}}
+

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805192729375
+m-area: 
+m-components: Somatic
+m-domain: Cities
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-deception: +2 status in a crowd.
+mod-difficult_terrain: Ignore if caused by a crowd.
+mod-stealth: +2 status in a crowd.
+modified: 20200805192946062
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual
+title: Face in the Crowd
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+While in a crowd of roughly similar creatures, your appearance becomes bland and nondescript. 
+
+You gain a +2 status bonus to [[Deception]] and [[Stealth]] checks to go unnoticed among the crowd, and you ignore [[Difficult Terrain]] caused by the crowd.
+
+''Heightened (3rd)'' The spell gains a range of 10 feet and can target up to 10 creatures.

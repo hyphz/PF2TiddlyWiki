@@ -1,10 +1,10 @@
 created: 20200627213912614
-m-components: Somatic, Verbal
+m-components: Somatic Verbal
 m-level: 5
 m-range: Touch
 m-save: Fortitude
 m-targets: 1 creature
-modified: 20200730195818962
+modified: 20200805223706157
 s-crit: The target is unaffected.
 s-fail: The target is afflicted with Abyssal Plague at stage 1.
 s-fumble: The target is afflicted with Abyssal Plague at stage 2.

@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200719163956655
 m-area: 
-m-components: Somatic, Verbal
+m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 1
 m-range: 
 m-save: 
 m-targets: You and allies in the area
 m-time: 
-modified: 20200719164120771
+modified: 20200805230136625
 s-crit: 
 s-fail: 
 s-fumble: 

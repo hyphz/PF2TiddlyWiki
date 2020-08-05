@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805192113031
+m-area: 
+m-components: Somatic
+m-domain: Might
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805192509638
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Cleric
+title: Enduring Might
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' An attack or effect would deal damage to you.
+
+Your own might mingles with divine power to protect you. 
+
+You gain resistance equal to 8 plus your [[Strength]] modifier against all damage from the triggering attack or effect.
+
+''Heightened (+1)'' The resistance increases by 2.

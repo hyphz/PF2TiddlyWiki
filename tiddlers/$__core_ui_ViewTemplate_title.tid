@@ -1,5 +1,5 @@
 created: 20200722215251349
-modified: 20200724230904078
+modified: 20200805223348923
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/title
 type: text/vnd.tiddlywiki
@@ -32,21 +32,22 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 <$list filter="[all[current]field:a-actions[3]]">
 <$transclude tiddler="ThreeAction"/>
 </$list>
-<$list filter="[all[current]tag[Action]tag[Free]]">
+<$list filter="[all[current]tag[Free]]">
 <$transclude tiddler="FreeAction"/>
 </$list>
 <$list filter="[all[current]tag[Reaction]]">
 <$transclude tiddler="ReactionIcon"/>
 </$list>
-<$list filter="[all[current]!tag[Reaction]list[!!m-components]count[]compare:number:eq[1]]">
+<$list filter="[all[current]!tag[Reaction]!tag[Free]!has[a-actions]]">
+<$list filter="[list[!!m-components]count[]compare:number:eq[1]]">
 <$transclude tiddler="OneAction"/>
 </$list>
-<$list filter="[all[current]list[!!m-components]count[]compare:number:eq[2]]">
+<$list filter="[list[!!m-components]count[]compare:number:eq[2]]">
 <$transclude tiddler="TwoAction"/>
 </$list>
-<$list filter="[all[current]list[!!m-components]count[]compare:number:eq[3]]">
+<$list filter="[list[!!m-components]count[]compare:number:eq[3]]">
 <$transclude tiddler="ThreeAction"/>
-</$list>
+</$list></$list>
 </span>
 </$set>
 <$list filter="[all[current]removeprefix[$:/]]">

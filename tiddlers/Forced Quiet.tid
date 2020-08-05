@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805200127999
+m-area: 
+m-components: Somatic Material
+m-domain: Secrecy
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+mod-auditory: Target may have to make a Perception check to hear.
+modified: 20200805200345235
+s-crit: The target is unaffected.
+s-fail: The duration is 1 minute.
+s-fumble: The duration is 10 minutes.
+s-hit: The duration is 1 round.
+tags: Spell Somatic Manipulate [[Focus Spell]] Material Uncommon Abjuration Cleric
+title: Forced Quiet
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You quiet the target’s voice, preventing it from giving away valuable secrets. 
+
+This doesn’t prevent the target from talking or providing verbal spell components, but no creature more than 10 feet away can hear its whispers without succeeding at a [[Perception]] check against your spell DC, which might interfere with <<tag Auditory>> or <<tag Linguistic>> effects as well as communication. 
+
+The spell’s duration depends on the target’s [[Fortitude]] save. 
+
+After attempting its save, the target becomes temporarily immune for 24 hours.
+
+{{||SaveSummaryTable}}

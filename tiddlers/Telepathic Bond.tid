@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: You and up to 4 [[Willing]] creatures [[Touch]]ed
 m-time: 
-modified: 20200730222557062
+modified: 20200805231514120
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Divination Mental Arcane Occult
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Divination Mental Arcane Occult Material
 title: Telepathic Bond
 type: text/vnd.tiddlywiki
 

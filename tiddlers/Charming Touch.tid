@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805164504452
+m-area: 
+m-components: Somatic
+m-domain: Passion
+m-duration: 10 minutes
+m-level: 1
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 humanoid creature that could find you attractive
+m-time: 
+modified: 20200805165626202
+s-crit: The target is unaffected and aware you tried to charm it.
+s-fail: The target’s attitude becomes [[Friendly]] toward you. If it was friendly, it becomes [[Helpful]]. It can’t use [[Hostile Action]]s against you.
+s-fumble: The target is [[Helpful]] and can’t use [[Hostile Action]]s against you.
+s-hit: The target is unaffected but thinks your spell was something harmless instead of charming touch, unless it identifies the spell (usually with [[Identify Magic]]).
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Incapacitation Mental
+title: Charming Touch
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You infuse your target with attraction, causing it to act friendlier toward you. 
+
+The target attempts a [[Will]] save. It gains a +4 circumstance bonus to this save if you or your allies recently threatened or were hostile to it.
+
+You can [[Dismiss]] the spell. 
+
+If you use [[Hostile Action]]s against the target, the spell ends. 
+
+After the spell ends, the target doesn’t necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, which could potentially allow you to convince the target to continue being your friend via mundane means.
+
+''Heightened (4th)'' You can target any type of creature, not just humanoids, as long as it could find you attractive.
+
+{{||SaveSuccessTable}}

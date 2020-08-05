@@ -12,12 +12,12 @@ m-range: Planetary
 m-save: Will
 m-targets: 1 creature you've telepathically contacted before
 m-time: 
-modified: 20200730222721020
+modified: 20200805231524320
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Linguistic Mental Arcane Divine Occult
+tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Linguistic Mental Arcane Divine Occult Material
 title: Telepathic Demand
 type: text/vnd.tiddlywiki
 

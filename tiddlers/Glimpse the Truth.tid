@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805200403764
+m-area: 30 foot [[Emanation]]
+m-components: Somatic
+m-domain: Truth
+m-duration: 1 round
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805200709832
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Divination Revelation
+title: Glimpse the Truth
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Divine insight lets you see things as they truly are. 
+
+The GM attempts a <<tag Secret>> [[Counteract]] check against each <<tag Illusion>>that is at least partially within the area. 
+
+Instead of counteracting the illusion, you see through it (for instance, if the check succeeds against an [[Illusory Disguise]] spell, you see the creature’s true form but illusory disguise doesn’t end).
+
+The area moves with you for the duration of the spell, and the GM attempts a secret counteract check each time a new illusion is within the area.
+
+''Heightened (7th)'' You can allow everyone to see through illusions you succeed against, not just yourself.

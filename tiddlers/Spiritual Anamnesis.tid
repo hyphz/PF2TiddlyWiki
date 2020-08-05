@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805233222156
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 60 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200805233403145
+s-crit: The creature is unaffected.
+s-fail: The target is slowed 1 for 1 minute and babbles about the visions, possibly providing information about what they saw.
+s-fumble: As failure, but the target is also [[Stunned]] 3.
+s-hit: The creature is [[Slowed]] 1 for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Mental Necromancy Divine Occult
+title: Spiritual Anamnesis
+type: text/vnd.tiddlywiki
+
+{{AoA3Spell}}
+
+{{||SpellSummaryTable}}
+
+Memories of a past life that seem incredibly real (and may even be) overwhelm the target’s mind. 
+
+//They must make a [[Will]] save.//
+
+This is especially disorienting for undead and creatures that have lived a previous life (such as celestials, fiends, monitors, and many other extraplanar creatures); if such creatures roll a critical success on their save, they get a success instead, and if they roll a failure, they get a critical failure instead.
+
+{{||SaveSuccessTable}}
+

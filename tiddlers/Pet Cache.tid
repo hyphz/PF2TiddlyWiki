@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200801165651678
 m-area: 
-m-components: Somatic Verbal
+m-components: Somatic
 m-duration: 8 hours
 m-level: 1
 m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] creature that is your [[Animal Companion]] or [[Familiar]]
 m-time: 
-modified: 20200801165809009
+modified: 20200805231444547
 s-crit: 
 s-fail: 
 s-fumble: 

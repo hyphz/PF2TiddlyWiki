@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200801163959170
 m-area: 5 foot [[Burst]]
-m-components: Somatic Verbal
+m-components: Somatic Verbal Material
 m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
 m-level: 5
 m-range: 120 feet
@@ -13,7 +13,7 @@ m-save: Reflex
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Call another lightning bolt on sustain.
-modified: 20200801164142796
+modified: 20200805231010573
 s-crit: 
 s-fail: 
 s-fumble: 

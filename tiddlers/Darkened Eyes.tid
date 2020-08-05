@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805170231203
+m-area: 
+m-components: Somatic Verbal
+m-domain: Darkness
+m-duration: 
+m-level: 4
+m-range: 60 foot
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200805170504751
+s-crit: The target is unaffected.
+s-fail: As success, but the duration is 1 minute.
+s-fumble: As success, but the duration is 1 minute, and the target is also [[Blinded]] for the duration. It can attempt a new save at the end of each of its turns. If it succeeds, it’s no longer blinded, but its darkvision or low-light vision remains suppressed.
+s-hit: The target’s [[Darkvision]] or [[Low-Light Vision]] is suppressed for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Darkness Transmutation
+title: Darkened Eyes
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You infuse a creature’s vision with darkness. //It must make a [[Fortitude]] save.//
+
+After attempting its save, the target becomes temporarily immune for 24 hours.
+
+{{||SaveSuccessTable}}

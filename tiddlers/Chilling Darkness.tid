@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200802225951047
+modified: 20200805230548741
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Attack Cold [[Darkness (Spell)]] Evocation Evil Spell Divine Somatic Verbal Manipulate Concentrate
+tags: Attack Cold Evocation Evil Spell Divine Somatic Verbal Manipulate Concentrate Darkness
 title: Chilling Darkness
 type: text/vnd.tiddlywiki
 

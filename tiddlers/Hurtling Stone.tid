@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805200924854
+m-area: 
+m-components: Somatic
+m-domain: Earth (Domain)
+m-duration: 
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200805201054545
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Cleric Earth Evocation
+title: Hurtling Stone
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You evoke a magical stone and throw it, with your god’s presence guiding your aim. 
+
+Make a spell attack roll against the target. 
+
+The stone deals bludgeoning damage equal to 1d6 plus your [[Strength]] modifier.
+
+On a critical hit, you deal double damage.
+
+''Heightened (+1)'' The stone’s damage increases by 1d6.

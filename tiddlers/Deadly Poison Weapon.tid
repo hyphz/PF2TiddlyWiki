@@ -1,0 +1,14 @@
+created: 20200805233756675
+feat-class: Rogue
+feat-fpre: [[Improved Poison Weapon]]
+feat-level: 12
+modified: 20200805233844781
+tags: Feat Class Uncommon Rogue
+title: Deadly Poison Weapon
+type: text/vnd.tiddlywiki
+
+Your poisons are devastatingly potent. 
+
+When you apply a simple poison with [[Poison Weapon]], the poison deals 4d4 poison damage instead of 1d4 poison damage. 
+
+When you apply an injury poison to your weapon, the DC to resist that poison increases by 2, to a maximum of your class DC.

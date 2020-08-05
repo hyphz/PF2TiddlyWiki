@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200719163525373
 m-area: 
-m-components: Material, Somatic, Verbal
+m-components: Material Somatic Verbal
 m-duration: 1 minute
 m-level: 6
 m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200719163924040
+modified: 20200805230124334
 s-crit: The creature takes no damage and passes through the wall. If the wall has just been created, the creature is pushed to an adjacent space either side of it.
 s-fail: The creature takes full damage and passes through the wall.
 s-fumble: The creature takes double damage and ends its movement adjacent to the wall.

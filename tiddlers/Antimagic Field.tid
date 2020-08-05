@@ -1,9 +1,9 @@
 created: 20200710193651039
-m-area: 10 foot emanation
-m-components: Somatic, Verbal, Material
+m-area: 10 foot [[Emanation]]
+m-components: Somatic Verbal Material
 m-duration: Sustained up to 1 minute
 m-level: 8
-modified: 20200710194750972
+modified: 20200805223949229
 tags: Spell Somatic Verbal Material Concentrate Manipulate Arcane Divine Occult Abjuration Rare
 title: Antimagic Field
 type: text/vnd.tiddlywiki

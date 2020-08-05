@@ -5,19 +5,19 @@ a-fumble:
 a-hit: 
 created: 20200722191740050
 m-area: 60 foot [[Burst]]
-m-components: Arcane Divine Primal
+m-components: Somatic Verbal
 m-duration: 
 m-level: 7
 m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200802225951059
+modified: 20200805230737600
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cold [[Darkness (Spell)]] Necromancy Negative Spell Arcane Divine Primal Somatic Verbal Manipulate Concentrate
+tags: Cold Necromancy Negative Spell Arcane Divine Primal Somatic Verbal Manipulate Concentrate Darkness
 title: Eclipse Burst
 type: text/vnd.tiddlywiki
 

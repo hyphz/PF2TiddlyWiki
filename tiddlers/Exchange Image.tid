@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805232633553
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: [[Touch]]
+m-save: Will
+m-targets: You and 1 other humanoid
+m-time: 
+modified: 20200805232822626
+s-crit: No effect.
+s-fail: As success, but the duration is 1 hour or until Dismissed.
+s-fumble: As success, but the duration is 24 hours.
+s-hit: You take on the target’s appearance, and they take yours. This has the same effects as a 1st-level [[Illusory Disguise]] spell, except that the target can’t [[Dismiss]] the disguise. The duration is 1 minute or until Dismissed //by you//.
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Illusion Visual Arcane Occult
+title: Exchange Image
+type: text/vnd.tiddlywiki
+
+{{AoA3Spell}}
+
+{{||SpellSummaryTable}}
+
+You must have the humanoid trait to cast this spell.
+
+You trade appearances with the target, with the effects depending on the result of the target’s [[Will]] saving throw. 
+
+[[Willing]] and [[Unconscious]] targets automatically critically fail this saving throw.
+
+{{||SaveSuccessTable}}

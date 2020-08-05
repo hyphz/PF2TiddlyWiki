@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200719210539678
 m-area: 
-m-components: 
+m-components: Somatic Verbal
 m-duration: 1 hour
 m-level: 2
 m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200719210655925
+modified: 20200805230345807
 s-crit: 
 s-fail: 
 s-fumble: 

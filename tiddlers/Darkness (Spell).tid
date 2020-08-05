@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200802225951073
+modified: 20200805230632884
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: [[Darkness (Spell)]] Evocation Spell Arcane Divine Occult Primal Material Somatic Verbal Concentrate Manipulate
+tags: Evocation Spell Arcane Divine Occult Primal Material Somatic Verbal Concentrate Manipulate Darkness
 title: Darkness (Spell)
 type: text/vnd.tiddlywiki
 

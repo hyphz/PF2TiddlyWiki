@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805201515796
+m-area: 
+m-components: Verbal
+m-domain: Luck (Domain)
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805201625591
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Reaction Uncommon Cleric DIvination Fortune
+title: Lucky Break
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You fail (but don’t critically fail) a saving throw.
+
+Reroll the saving throw and use the better result. You then become temporarily immune for 10 minutes.

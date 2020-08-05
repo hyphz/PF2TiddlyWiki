@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200722200139395
 m-area: 10 foot [[Burst]]
-m-components: Divine Occult Primal
+m-components: Somatic Verbal
 m-duration: 5 minutes
 m-level: 2
 m-range: 120 feet
@@ -14,7 +14,7 @@ m-targets:
 m-time: 
 mod-concealed: Prevents a creature becoming concealed unless invisible.
 mod-invisible: Makes an invisible creature only Concealed, not undetected.
-modified: 20200722200420313
+modified: 20200805230044334
 s-crit: 
 s-fail: 
 s-fumble: 

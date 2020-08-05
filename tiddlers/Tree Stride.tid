@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200730224928239
 m-area: 
-m-components: Somatic Verbal
+m-components: Somatic Verbal Material
 m-duration: 
 m-level: 5
 m-range: 
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20200730225036662
+modified: 20200805231035364
 s-crit: 
 s-fail: 
 s-fumble: 

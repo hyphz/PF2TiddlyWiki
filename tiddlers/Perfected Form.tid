@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805210146540
+m-area: 
+m-components: Somatic
+m-domain: Perfection
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805210247528
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Cleric Fortune Reaction
+title: Perfected Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You fail a saving throw against a <<tag Morph>>, <<tag Petrification>>, or <<tag Polymorph>> effect.
+
+Reroll the saving throw and use the better result.

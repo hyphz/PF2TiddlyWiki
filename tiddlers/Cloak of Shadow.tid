@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805164813801
+m-area: 
+m-components: Somatic
+m-domain: Darkness (Domain)
+m-duration: 1 minute
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 [[Willing]] creature
+m-time: 
+modified: 20200805231326499
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Darkness Evocation Shadow
+title: Cloak of Shadow
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You drape the target in a mantle of swirling shadows that make it harder to see. 
+
+The cloak reduces [[Bright Light]] within a 20-foot [[Emanation]] to [[Dim Light]]. This is a form of magical darkness and can therefore overcome non-magical light or attempt to [[Counteract]] magical light.
+
+The target can use //the// [[Concealed]] condition gained from the shadows to [[Hide]], though observant creatures can still follow the moving aura of shadow, making it difficult for the target to become completely undetected. 
+
+The target can use an [[Interact]] action to remove the cloak and leave it behind as a decoy, where it remains, reducing light for the rest of the spell’s duration. 
+
+If anyone picks up the cloak after it’s been removed by the original target, the cloak evaporates and the spell ends.
+

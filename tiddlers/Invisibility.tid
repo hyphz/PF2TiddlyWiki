@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200726224834409
+modified: 20200805231804837
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Spell Arcane Occult Material Somatic Manipulate Concentrate
+tags: Illusion Spell Arcane Occult Material Somatic Manipulate
 title: Invisibility
 type: text/vnd.tiddlywiki
 

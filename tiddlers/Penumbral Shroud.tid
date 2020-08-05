@@ -15,12 +15,12 @@ m-time:
 mod-fortitude: +1 status vs Light.
 mod-reflex: +1 status vs Light.
 mod-will: +1 status vs Light.
-modified: 20200802225951065
+modified: 20200805230621174
 s-crit: The target is unaffected.
 s-fail: The effect lasts its normal duration.
 s-fumble: 
 s-hit: The effect lasts for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Darkness (Spell)]] Evocation Arcane Occult
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult Darkness
 title: Penumbral Shroud
 type: text/vnd.tiddlywiki
 

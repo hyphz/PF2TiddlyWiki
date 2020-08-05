@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805202943470
+m-area: 
+m-components: Somatic
+m-domain: Magic (Domain)
+m-duration: Until the start of your next turn
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] creature
+m-time: 
+modified: 20200805203055904
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Evocation
+title: Mystic Beacon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The next damaging or <<tag Healing>>spell the target casts before the start of your next turn deals damage or restores Hit Points as if the spell were heightened 1 level higher than its actual level. 
+
+The spell otherwise functions at its actual level. 
+
+Once the target casts the spell, mystic beacon ends.

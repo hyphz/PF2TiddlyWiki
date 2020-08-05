@@ -1,5 +1,5 @@
 created: 20200725144219317
-modified: 20200725165351307
+modified: 20200805231716966
 tags: 
 title: FindErrors
 type: text/vnd.tiddlywiki
@@ -8,13 +8,59 @@ type: text/vnd.tiddlywiki
 
 <$list filter="[tag[Spell]!has[m-level]]" />
 
-!! Spells with Somatic that don't have Manipulate
+!! Spells with m-components field not matching tags
+
+!!! Tag but no list entry
+
+Somatic
+
+<$list filter="[tag[Somatic]!contains:m-components[Somatic]]" />
+
+Verbal
+
+<$list filter="[tag[Verbal]!contains:m-components[Verbal]]" />
+
+Material
+
+<$list filter="[tag[Material]!contains:m-components[Material]]" />
+
+!!! List entry but no tag
+
+Somatic
+
+<$list filter="[!tag[Somatic]contains:m-components[Somatic]]" />
+
+Verbal
+
+<$list filter="[!tag[Verbal]contains:m-components[Verbal]]" />
+
+Material
+
+<$list filter="[!tag[Material]contains:m-components[Material]]" />
+
+
+!! Spells with mismatched action tags
+
+!!! Somatic and no Manipulate
 
 <$list filter="[tag[Somatic]!tag[Manipulate]]" />
 
-!! Spells with Verbal that don't have Concentrate
+!!! Material and no Manipulate
+
+<$list filter="[tag[Material]!tag[Manipulate]]" />
+
+!!! Manipulate and no Somatic or Material
+
+<$list filter="[tag[Spell]tag[Manipulate]!tag[Material]!tag[Somatic]]" />
+
+!!! Verbal and no Concentrate
 
 <$list filter="[tag[Verbal]!tag[Concentrate]]" />
+
+!!! Concentrate and no Verbal
+
+<$list filter="[tag[Spell]!tag[Verbal]tag[Concentrate]]" />
+
 
 !! Skill actions without modifier trees
 

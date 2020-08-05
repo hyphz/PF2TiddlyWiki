@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200801160525477
 m-area: 1 cube 20 feet on each side
-m-components: Somatic Verbal
+m-components: Somatic Verbal Material
 m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
 m-level: 7
 m-range: 30 feet
@@ -13,7 +13,7 @@ m-save: Reflex
 m-targets: 
 m-time: 
 mod-counteract: Can't be counteracted by lower or same level effects.
-modified: 20200801163449339
+modified: 20200805230933951
 s-crit: 
 s-fail: 
 s-fumble: 

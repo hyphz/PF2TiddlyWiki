@@ -1,7 +1,11 @@
 created: 20200804200657019
-modified: 20200804200707964
+modified: 20200805202619689
 tags: 
 title: DomainSummary
 type: text/vnd.tiddlywiki
 
 {{!!dom-desc}}
+
+''Basic Domain Spell:'' <$list filter="[tag[Spell]field:m-domain<currentTiddler>field:m-level[1]]"><$link /></$list>
+
+''Advanced Domain Spell:'' <$list filter="[tag[Spell]field:m-domain<currentTiddler>field:m-level[4]]"><$link /></$list>

@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200724223822072
 m-area: 
-m-components: Divine Primal
+m-components: Somatic Verbal
 m-duration: 
 m-level: 7
 m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200724223933514
+modified: 20200805230028185
 s-crit: 
 s-fail: 
 s-fumble: 

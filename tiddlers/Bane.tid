@@ -1,12 +1,12 @@
 created: 20200718211759842
 m-area: 5 foot [[Emanation]]
-m-components: Somatic, Verbal
+m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 1
 m-range: 
 m-save: Will
 m-targets: Enemies in the area
-modified: 20200718212618470
+modified: 20200805225810116
 tags: Spell Divine Occult Enchantment Mental Somatic Verbal Manipulate Concentrate
 title: Bane
 type: text/vnd.tiddlywiki

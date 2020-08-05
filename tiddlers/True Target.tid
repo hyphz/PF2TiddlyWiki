@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200730225513112
 m-area: 
-m-components: Somatic Verbal
+m-components: Verbal
 m-duration: Until the start of your next turn
 m-level: 7
 m-range: 60 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200730225707856
+modified: 20200805231312549
 s-crit: 
 s-fail: 
 s-fumble: 

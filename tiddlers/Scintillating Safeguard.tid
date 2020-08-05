@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200801172807795
 m-area: 
-m-components: Somatic Verbal
+m-components: Somatic
 m-duration: 
 m-level: 6
 m-range: 30 feet
 m-save: 
 m-targets: Up to 5 [[Willing]] creatures who would be harmed by the triggering effect
 m-time: 
-modified: 20200801173007600
+modified: 20200805231456207
 s-crit: 
 s-fail: 
 s-fumble: 

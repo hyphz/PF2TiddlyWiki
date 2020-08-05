@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200725151802279
+modified: 20200805231744635
 s-crit: The creature is unaffected.
 s-fail: The creature perceives what you chose until it disbelieves.
 s-fumble: The creature perceives what you chose until it disbelieves, and it trusts its false senses, taking a –4 circumstance penalty to saves to disbelieve.
 s-hit: The creature perceives what you chose until it disbelieves, but it knows what the hallucination is.
-tags: Illusion Incapacitation Mental Arcane Occult Spell Material Somatic Concentrate Manipulate
+tags: Illusion Incapacitation Mental Arcane Occult Spell Material Somatic Manipulate
 title: Hallucination
 type: text/vnd.tiddlywiki
 

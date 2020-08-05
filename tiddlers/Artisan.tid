@@ -1,12 +1,13 @@
-created: 20200804222851914
+bg-feat: Specialty Crafting
+bg-lore: Guild
+bg-skill: [[Crafting]]
+bg-src: Core Rulebook
 bg-stata: Intelligence
 bg-statb: Strength
+created: 20200804222851914
+modified: 20200805163858825
 tags: Background
 title: Artisan
-bg-feat: Speciality Crafting
-bg-skill: [[Crafting]]
-bg-lore: Guild
-bg-src: Core Rulebook
 type: text/vnd.tiddlywiki
 
 {{||BackgroundSummary}}

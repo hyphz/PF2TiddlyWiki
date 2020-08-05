@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805233433869
+m-area: 60 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 1 round
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805233540083
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Rare Abjuration Bard Cantrip Composition
+title: Silver's Refrain
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Weapon and unarmed attacks by allies in the area are treated as [[Silver]]. 
+
+In addition, this spell automatically attempts to [[Counteract]] any [[Dimension Door]] cast by a <<tag Devil>>within the area or cast by a devil attempting to enter the area using dimension door. If a devil attempts to enter the area using dimension door and the spell is counteracted, the devil remains where it started.

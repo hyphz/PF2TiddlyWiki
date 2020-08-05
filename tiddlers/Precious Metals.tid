@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805213653162
+m-area: 
+m-components: Material
+m-domain: Wealth
+m-duration: 1 minute
+m-level: 4
+m-range: [[Range]]
+m-save: 
+m-targets: 1 metal weapon, up to 10 pieces of metal or metal-tipped ammunition, 1 suit of metal armor, or up to 1 bulk of metal material such as coins
+m-time: 
+modified: 20200805213858489
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell [[Focus Spell]] Material Manipulate Uncommon Cleric Transmutation
+title: Precious Metals
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your deity blesses base metals to transform them into precious materials. 
+
+The target item transforms from its normal metal into [[Cold Iron]], [[Copper]], [[Gold]], [[Iron]], [[Silver]], or [[Steel]]. 
+
+An item transmuted in this way deals damage according to its new material. For example, a steel sword transmuted to cold iron would deal additional damage to a creature with a weakness to cold iron.
+
+This change is clearly magical and temporary, so the item’s monetary value doesn’t change; you couldn’t transmute copper coins to gold and use those coins to purchase something or as a cost for a spell.
+
+''Heightened (8th)'' Add [[Adamantine]] and [[Mithral]] to the list of metals you can transform the item into.

@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: You and any number of creatures in range //ie, area//
 m-time: 
-modified: 20200726225128095
+modified: 20200805231814120
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Arcane Occult Material Somatic Spell Manipulate Concentrate
+tags: Illusion Arcane Occult Material Somatic Spell Manipulate
 title: Invisibility Sphere
 type: text/vnd.tiddlywiki
 

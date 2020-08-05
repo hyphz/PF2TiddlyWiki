@@ -1,0 +1,37 @@
+a-crit: The beam deals double damage, and the target is [[Dazzled]] for 1 minute.
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: The beam deals full damage, and the target is [[Dazzled]] for 1 round.
+created: 20200805202748276
+m-area: 
+m-components: Somatic Verbal
+m-domain: Moon
+m-duration: 
+m-level: 1
+m-range: 120 feet
+m-save: 
+m-targets: 1 creature or object
+m-time: 
+modified: 20200805202918615
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Attack Cleric Evocation Fire Light
+title: Moonbeam
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You shine a ray of moonlight. 
+
+Make a spell attack roll. 
+
+The beam of light deals 1d6 <<tag Fire>> damage. 
+
+Moonbeam deals silver damage for the purposes of weaknesses, resistances, and the like. 
+
+''Heightened (+1)'' The ray’s damage increases by 1d6.
+
+{{||ActionSuccessList}}

@@ -5,19 +5,19 @@ a-fumble:
 a-hit: 
 created: 20200801163632350
 m-area: 
-m-components: Somatic Verbal
+m-components: Somatic Material
 m-duration: 1 hour
 m-level: 1
 m-range: [[Touch]]
 m-save: 
 m-targets: 1 object
 m-time: 
-modified: 20200801163832218
+modified: 20200805231842595
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Concentrate Manipulate Illusion Arcane Occult Material
+tags: Spell Somatic Manipulate Illusion Arcane Occult Material
 title: Invisible Item
 type: text/vnd.tiddlywiki
 

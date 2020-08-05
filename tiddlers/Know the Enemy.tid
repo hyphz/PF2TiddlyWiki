@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805201116700
+m-area: 
+m-components: Somatic
+m-domain: Knowledge (Domain)
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805201229467
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Divination Fortune Reaction
+title: Know the Enemy
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You roll [[Initiative]] and can see a creature, you succeed at an [[Attack Roll]] against a creature, or a creature fails a saving throw against one of your spells.
+
+Use a [[Recall Knowledge]] action, rolling the appropriate skill check to identify the triggering creature’s abilities. You can roll your check twice and use the better result.

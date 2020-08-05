@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200718212700048
 m-area: 
-m-components: Somatic, Verbal
+m-components: Somatic Verbal
 m-duration: 10 minutes
 m-level: 2
 m-range: Touch
 m-save: 
 m-targets: 1 Willing Creature
 m-time: 
-modified: 20200718212819128
+modified: 20200805225834425
 s-crit: 
 s-fail: 
 s-fumble: 

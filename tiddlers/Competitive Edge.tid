@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805165811340
+m-area: 
+m-components: Verbal
+m-domain: Ambition
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805165929710
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Mental
+title: Competitive Edge
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your competitiveness drives you to prove yourself against the opposition. 
+
+You gain a +1 status bonus to attack rolls and skill checks. 
+
+If an enemy within 20 feet critically succeeds at an attack roll or skill check, your status bonus increases to +3 //on// attack rolls or that specific skill check (whichever the foe critically succeeded at) for 1 round.
+
+''Heightened (7th)'' Increase the base bonus to +2 and the increased bonus after an enemy critically succeeds to +4.

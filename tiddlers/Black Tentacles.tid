@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200719163218271
 m-area: 20-foot [[Burst]] adjacent to a flat surface
-m-components: Material, Somatic, Verbal
+m-components: Material Somatic Verbal
 m-duration: 1 minute
 m-level: 5
 m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200722114540074
+modified: 20200805230110401
 s-crit: 
 s-fail: 
 s-fumble: 

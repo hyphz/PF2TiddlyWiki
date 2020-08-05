@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805174133491
+m-area: 
+m-components: Verbal
+m-domain: Death (Domain)
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805174256277
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Necromancy Reaction
+title: Death's Call
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' A living creature within 20 feet of you dies, or an <<tag Undead>>creature within 20 feet of you is destroyed.
+
+Seeing another pass from this world to the next invigorates you.
+
+You gain temporary Hit Points equal to the triggering creature’s level plus your Wisdom modifier. 
+
+If the triggering creature was undead, double the number of temporary Hit Points you gain.
+
+These last for the duration of the spell, and the spell ends if all the temporary Hit Points are depleted earlier.

@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200731182138875
 m-area: 
-m-components: Somatic Verbal
+m-components: Verbal
 m-duration: 1 round
 m-level: 7
 m-range: 30 feet
@@ -13,7 +13,7 @@ m-save:
 m-targets: 1 ally
 m-time: 
 mod-quickened: Allows Strike, Stride, or Step.
-modified: 20200731182313049
+modified: 20200805231142471
 s-crit: 
 s-fail: 
 s-fumble: 

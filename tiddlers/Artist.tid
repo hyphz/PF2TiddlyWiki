@@ -1,12 +1,13 @@
-created: 20200804222852416
+bg-feat: Specialty Crafting
+bg-lore: Art
+bg-skill: [[Crafting]]
+bg-src: Core Rulebook
 bg-stata: Charisma
 bg-statb: Dexterity
+created: 20200804222852416
+modified: 20200805163914491
 tags: Background
 title: Artist
-bg-feat: Speciality Crafting
-bg-skill: [[Crafting]]
-bg-lore: Art
-bg-src: Core Rulebook
 type: text/vnd.tiddlywiki
 
 {{||BackgroundSummary}}

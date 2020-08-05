@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805221841053
+m-area: 15 foot [[Emanation]]
+m-components: Somatic Verbal
+m-domain: Protection (Domain)
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200805221931865
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Abjuration Cleric
+title: Protector's Sphere
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A protective aura emanates out from you, safeguarding you and your allies. 
+
+You gain resistance 3 to all damage. 
+
+Your allies also gain this resistance while they are within the area.
+
+''Heightened (+1)'' The resistance increases by 1.

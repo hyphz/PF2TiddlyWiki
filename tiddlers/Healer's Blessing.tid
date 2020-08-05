@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805200729372
+m-area: 
+m-components: Verbal
+m-domain: Healing (Domain)
+m-duration: 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] living creature
+m-time: 
+modified: 20200805200839630
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]]
+title: Healer's Blessing
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your words bless a creature with an enhanced connection to positive energy. 
+
+When the target regains [[Hit Points]] from a <<tag Healing>> spell, it regains 1 additional Hit Point.
+
+The target regains additional Hit Points from healer’s blessing only the first time it regains HP from a given healing spell, so a spell that heals the creature repeatedly over a duration would restore additional Hit Points only once.
+
+''Heightened (+1)'' The additional healing increases by 2 HP.

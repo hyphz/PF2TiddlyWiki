@@ -1,15 +1,17 @@
+a-actions: 1
 a-defense: Will
 a-skill: Deception
 created: 20200730005415929
 feat-level: 15
 feat-skill: Deception
-modified: 20200730233151310
+feat-spre: L
+modified: 20200805232406091
 modified-by: Deception
 tags: Feat Rare Skill General Action Exploration
 title: Reveal Machinations
 type: text/vnd.tiddlywiki
 
-//This feat is normally only gained through part of the plot in Age Of Ashes 3.//
+{{AoA3Feat}}
 
 You reveal that you played a minor but recurring role in another humanoid’s life — or at least convince them that’s the case. 
 

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200805233025532
+m-area: 
+m-components: Somatic
+m-duration: 1 round
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 2 willing creatures
+m-time: 
+modified: 20200805233136418
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate Uncommon Divination Mental Occult Cantrip
+title: Join Pasts
+type: text/vnd.tiddlywiki
+
+{{AoA3Spell}}
+
+{{||SpellSummaryTable}}
+
+With touches to the targets’ foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. 
+
+When one target attempts to [[Recall Knowledge]], the other can [[Aid]] the first target’s skill check, using any [[Lore]] skill (even if that Lore wouldn’t normally apply) without having made any preparations to Aid.
+
+''Heightened (+1)'' You can touch one additional target to include them in the spell’s effects. Multiple targets can attempt checks to Aid the target who is attempting to Recall Knowledge.

@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200722112105300
 m-area: 
-m-components: 
+m-components: Somatic Verbal
 m-duration: Until the next time you make your [[daily preparations|Rest]]
 m-level: 6
 m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200725145913016
+modified: 20200805230401979
 s-crit: The target is unaffected.
 s-fail: The target follows your orders but can attempt a [[Will]] save at the end of each of its turns. On a success, the spell ends.
 s-fumble: As a failure, but the target recieves a new save only if you give it a new order that is against its nature, such as killing its allies.
