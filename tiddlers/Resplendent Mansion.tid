@@ -12,7 +12,7 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20200728202716960
+modified: 20200806183055730
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -20,6 +20,7 @@ s-hit:
 tags: Spell Somatic Verbal Concentrate Manipulate Material Conjuration Arcane Occult
 title: Resplendent Mansion
 type: text/vnd.tiddlywiki
+virtual-tags: Auditory Mental
 
 {{||SpellSummaryTable}}
 
@@ -33,4 +34,4 @@ No fixture created with this spell can create magical effects, but magical devic
 
 Your mansion contains the same types and quantities of foodstuffs and servants as created by the [[Magnificent Mansion]] spell.
 
-Each of the mansion’s exterior doorways and windows are protected by [[Alarm]] spells. You choose whether each alarm is <<tag Audible>> or <<tag Mental>> as you Cast the Spell, and each has a different sound (for an audible alarm) or sensation (for a mental one), allowing you to instantly determine which portal has been used.
+Each of the mansion’s exterior doorways and windows are protected by [[Alarm]] spells. You choose whether each alarm is <<tag Auditory>> or <<tag Mental>> as you Cast the Spell, and each has a different sound (for an audible alarm) or sensation (for a mental one), allowing you to instantly determine which portal has been used.

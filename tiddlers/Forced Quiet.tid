@@ -13,8 +13,8 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-mod-auditory: Target may have to make a Perception check to hear.
-modified: 20200805200345235
+modified: 20200806175530760
+modtag-auditory: Target may have to make a Perception check to hear.
 s-crit: The target is unaffected.
 s-fail: The duration is 1 minute.
 s-fumble: The duration is 10 minutes.

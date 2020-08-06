@@ -12,7 +12,8 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 creature or object
 m-time: 
-modified: 20200801173608768
+modified: 20200806183408603
+modtag-auditory: Can prevent effect being heard properly.
 s-crit: 
 s-fail: The affected sound from the creature is altered in the way you determine.
 s-fumble: The affected sound from the creature is altered and the target becomes [[Stupefied]] 2 for 1 minute as it struggles with the disorienting effects of its altered sound.

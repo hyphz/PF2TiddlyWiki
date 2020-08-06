@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806172307297
+m-area: 
+m-components: Somatic
+m-domain: Trickery
+m-duration: Until the end of your next turn
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200806172428686
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Cleric Illusion Reaction
+title: Sudden Shift
+turn-eun: Concealment ends.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' An enemy misses you with a melee attack.
+
+You swiftly move from a dangerous spot and veil yourself. 
+
+You [[Step]] and become [[Concealed]].

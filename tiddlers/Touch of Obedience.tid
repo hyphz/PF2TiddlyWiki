@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806173318904
+m-area: 
+m-components: Somatic
+m-domain: Tyranny
+m-duration: 
+m-level: 1
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 living creature
+m-time: 
+modified: 20200806173513743
+s-crit: The target is unaffected.
+s-fail: The target is [[Stupefied]] 1 until the end of your next turn.
+s-fumble: The target is [[Stupefied]] 1 for 1 minute.
+s-hit: The target is [[Stupefied]] 1 until the end of your current turn.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Mental
+title: Touch of Obedience
+turn-euc: Stupefaction of savers wears off.
+turn-eun: Stupefaction of failers wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your imperious touch erodes the target’s willpower, making it easier to control. 
+
+The target attempts a [[Will]] save.
+
+{{||SaveSuccessTable}}

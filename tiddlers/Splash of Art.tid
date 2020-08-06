@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806171934999
+m-area: 5 foot [[Burst]]
+m-components: Somatic Verbal
+m-domain: Creation (Domain)
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200806172243966
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual
+title: Splash of Art
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A deluge of colorful illusory paint, tools, or other symbols of art and artisanship drift down in the area. 
+
+Roll 1d4 to determine the color of the illusion. 
+
+Each creature in the area must attempt a [[Will]] save. A creature is unaffected on a success. On a failure or critical failure, the creature takes the results listed on the table relevant to the color.
+
+| !1d4 | !Color | !Failure | !Critical Failure |
+| 1 | White | [[Dazzled]] 1 round | [[Dazzled]] 1 minute |
+| 2 | Red | [[Enfeebled]] 1, 1 round | [[Enfeebled]] 2, 1 round |
+| 3 | Yellow | [[Frightened]] 1 | [[Frightened]] 2 |
+| 4 | Blue | __[[Clumsy]]__ 1, 1 round | __[[Clumsy]]__ 2, 1 round |

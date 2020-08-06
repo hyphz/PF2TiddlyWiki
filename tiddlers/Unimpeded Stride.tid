@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806180425890
+m-area: 
+m-components: Somatic
+m-domain: Freedom
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200806180538391
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
+title: Unimpeded Stride
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Nothing can hold you in place. 
+
+You immediately escape from every magical effect that has you [[Immobilized]] or [[Grabbed]] unless the effect is of a higher level than your unimpeded stride spell.
+
+You then [[Stride]]. During this movement, you ignore [[Difficult Terrain]] and any circumstance or status penalties to your Speed.
+

@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806173148112
+m-area: 
+m-components: Somatic
+m-domain: Water
+m-duration: 
+m-level: 1
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200806173248520
+s-crit: 
+s-fail: You move the target 5 feet in any direction along the ground or 10 feet in any direction through a body of water.
+s-fumble: You move the target up to 10 feet in any direction along the ground or 20 feet in any direction through a body of water.
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Evocation Water
+title: Tidal Surge
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a tremendous wave to move the target either in a body of water or on the ground. 
+
+The target must attempt a Fortitude save.
+
+{{||SaveSuccessTable}}

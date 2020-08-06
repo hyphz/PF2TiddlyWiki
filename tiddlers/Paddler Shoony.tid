@@ -1,0 +1,9 @@
+created: 20200806160519352
+mod-difficult_terrain: Ignore from bogs.
+mod-swim: Promotes successes.
+modified: 20200806160555337
+tags: Heritage Shoony
+title: Paddler Shoony
+type: text/vnd.tiddlywiki
+
+You ignore [[Difficult Terrain]] and greater difficult terrain from bogs. When you roll a success to Swim, you get a critical success instead.

@@ -1,0 +1,43 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806172932562
+m-area: 
+m-components: Somatic
+m-domain: Fate
+m-duration: 
+m-level: 4
+m-range: 120 feet
+m-save: 
+m-targets: The triggering creature
+m-time: 
+mod-fortitude: +1/2 status, promote successes, demote fails.
+mod-reflex: +1/2 status, promote successes, demote fails.
+mod-will: +1/2 status, promote successes, demote fails.
+modified: 20200806173124567
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Divination Fortune Reaction
+title: Tempt Fate
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You or an ally within range attempts a saving throw.
+
+You twist the forces of fate to make a moment dire or uneventful, with no in-between. 
+
+The target gains a +1 status bonus to the triggering saving throw. 
+
+If the saving throw’s result is a success, it becomes a critical success. 
+
+If it’s a failure, it becomes a critical failure, and the critical failure can’t be reduced by abilities that usually reduce critical failure, such as improved evasion.
+
+If the triggering ability did not have both a critical success and critical failure condition, tempt fate fails, but you don’t expend the Focus Point for Casting this Spell.
+
+''Heightened (8th)'' The bonus on the saving throw is +2.
+

@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Charisma Free
+anc-flaws: Constitution
+anc-hp: 6
+anc-langs: Common Shoony
+anc-size: Small
+anc-special: [[Low-Light Vision]] [[Blunt Snout]]
+anc-speed: 25
+created: 20200806160018972
+modified: 20200806160053709
+tags: Ancestry Dwarf Humanoid
+title: Shoony
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

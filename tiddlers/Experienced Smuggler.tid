@@ -2,9 +2,10 @@ created: 20200630091828440
 feat-level: 1
 feat-skill: Stealth
 feat-spre: T
+lore-mention: Underworld
 mod-conceal_an_object: Use 10 as Stealth result if roll is lower.
 mod-earn_income: Get smuggling jobs earning with Underworld Lore.
-modified: 20200730002645647
+modified: 20200806162124433
 tags: General Feat Skill
 title: Experienced Smuggler
 type: text/vnd.tiddlywiki
@@ -19,4 +20,4 @@ If you’re a master in Stealth, the GM uses the number rolled or 15, and if you
 
 This provides no benefits when a creature attempts a Perception check while actively searching you for hidden items. 
 
-Due to your smuggling skill, you’re more likely to find more lucrative smuggling jobs when using Underworld Lore to [[Earn Income]].
+Due to your smuggling skill, you’re more likely to find more lucrative smuggling jobs when using Underworld [[Lore]] to [[Earn Income]].

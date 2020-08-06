@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806180612998
+m-area: 
+m-components: Verbal
+m-domain: Family
+m-duration: 
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: Each ally targeted by the triggering spell
+m-time: 
+modified: 20200806180721699
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Cleric Fortune
+title: Unity
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You and 1 or more allies within range are targeted by a spell or ability that allows a saving throw.
+
+You put up a united defense. 
+
+Each ally can use your saving throw modifier instead of its own against the triggering spell. 
+
+Each ally decides individually which modifier to use.
+

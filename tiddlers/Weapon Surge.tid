@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806181351170
+m-area: 
+m-components: Verbal
+m-domain: Zeal
+m-duration: 
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 weapon you're wielding
+m-time: 
+modified: 20200806181451448
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Evocation
+title: Weapon Surge
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Holding your weapon aloft, you fill it with divine energy. 
+
+On your next [[Strike]] with that weapon before the start of your next turn, you gain a +1 status bonus to the attack roll and the weapon deals an additional die of damage. 
+
+If the weapon has a [[Striking]] rune, this instead increases the number of dice from the striking rune by 1 (to a maximum of 3 extra weapon dice).
+
+If the target weapon leaves your possession, weapon surge immediately ends.

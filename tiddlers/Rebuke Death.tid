@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806170228642
+m-area: 20 foot [[Emanation]]
+m-components: Somatic
+m-domain: Healing (Domain)
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 1 living creature per action spent to cast this spell
+m-time: 
+modified: 20200806171808838
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Healing Necromancy Positive
+title: Rebuke Death
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You snatch creatures from the jaws of death. 
+
+You can spend 1 to 3 actions Casting this Spell, and you can target a number of creatures equal to the actions spent. 
+
+Each target regains 3d6 Hit Points. 
+
+If the target had the [[Dying]] condition, coming back from dying due to this healing doesn’t increase its [[Wounded]] condition.
+
+''Heightened (+1)'' Increase the healing by 1d6.

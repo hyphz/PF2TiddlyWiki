@@ -1,0 +1,16 @@
+a-actions: 2
+created: 20200806160736570
+feat-anc: Shoony
+feat-level: 1
+modified: 20200806160840045
+tags: Ancestry Shoony Feat Action Manipulate
+title: Dig Quickly
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are standing on dirt, sand, snow, or similar particulate material.
+
+Your hands work as effectively as shovels when you need to dig a quick hole.
+
+You dig a shallow pit in the square you currently occupy, turning the square into [[Difficult Terrain]] (including for you). 
+
+In addition, you also kick up a cloud of grit in a direction of your choice. The cloud extinguishes small, unattended, non-magical fires and helps smother the flames on burning creatures located within the cone; creatures in this cone that are taking persistent <<tag Fire>> damage can immediately attempt an additional flat DC 15 check to end the persistent damage.

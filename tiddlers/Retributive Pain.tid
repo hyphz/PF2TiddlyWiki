@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806170445097
+m-area: 
+m-components: Somatic
+m-domain: Pain
+m-duration: 
+m-level: 4
+m-range: 30 feet
+m-save: Fortitude
+m-targets: The triggering creature
+m-time: 
+modified: 20200806171824651
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Cleric Mental Nonlethal Reaction
+title: Retributive Pain
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' A creature in range damages you.
+
+You vengefully reflect your pain upon your tormentor. 
+
+The target takes <<tag Mental>>damage equal to half the amount it dealt to you when it triggered the spell.
+

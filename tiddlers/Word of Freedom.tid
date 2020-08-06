@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806181504257
+m-area: 
+m-components: Verbal
+m-domain: Freedom
+m-duration: 1 round
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200806181643804
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal [[Focus Spell]] Concentrate
+title: Word of Freedom
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You utter a liberating word of power that frees a creature. //They do not have to be able to hear or understand you.//
+
+You suppress one of the following conditions of your choice: [[Confused]], [[Frightened]], [[Grabbed]], or [[Paralyzed]]. 
+
+The target isn’t affected by the chosen condition, and if you suppress the [[Grabbed]] condition, the target automatically breaks free from any grab affecting it when you Cast the Spell.
+
+If you don’t remove the effect that provided the condition, the condition returns after the spell ends. For example, if a spell was making the target confused for 1 minute, word of freedom would let the target act normally for a round, but the confused condition would return afterward.
+
+{{||SaveSuccessTable}}
+{{||ActionSuccessTable}}

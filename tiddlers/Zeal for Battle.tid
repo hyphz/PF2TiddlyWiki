@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806181921350
+m-area: 
+m-components: Somatic Verbal
+m-domain: Zeal
+m-duration: 
+m-level: 4
+m-range: 10 feet
+m-save: 
+m-targets: You and the triggering ally
+m-time: 
+modified: 20200806182037704
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Fortune Mental Reaction
+title: Zeal for Battle
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You stoke the righteous anger within yourself and an ally. 
+
+You and the target ally each roll a d20 and use the higher result for both your [[Initiative]] rolls. 
+
+You each still use your own [[Perception]] modifier or other statistic to determine your results.

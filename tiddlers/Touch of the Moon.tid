@@ -1,0 +1,45 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806173700301
+m-area: 
+m-components: Somatic
+m-domain: Moon
+m-duration: 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 1 creature
+m-time: 
+mod-ac: +1 status when Full or Waning.
+mod-attack_roll: +1 status when Waxing or Full.
+mod-damage_roll: +4 status when Waxing or Full.
+mod-fortitude: +1 status when Full or Waning.
+mod-reflex: +1 status when Full or Waning.
+mod-will: +1 status when Full or Waning.
+modified: 20200806174047421
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Light
+title: Touch of the Moon
+turn-etn: Advance current moon phase.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+When you touch the target, a symbol of the moon appears on its forehead, glowing with soft moonlight. 
+
+The target glows with [[Dim Light]] in a 20-foot radius. 
+
+It also gets a benefit based on a phase of the moon, starting with the new moon and changing to the next phase at the end of each of its turns. 
+
+* ''New Moon'' The target receives no benefit.
+* ''Waxing Moon'' The target gains a +1 status bonus to attack rolls and a +4 status bonus to damage rolls.
+* ''Full Moon'' The target gains a +1 status bonus to attack rolls, AC, and saving throws and a +4 status bonus to damage rolls.
+* ''Waning Moon'' The target gains a +1 status bonus to AC and saving throws. After this phase, return to the new moon.
+
+//The actual phase of the moon in the game world does not affect this spell.//

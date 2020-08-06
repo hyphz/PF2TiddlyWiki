@@ -12,7 +12,7 @@ m-range: 60 feet
 m-save: Fortitude Will
 m-targets: 1 corporeal creature
 m-time: 
-modified: 20200801161825924
+modified: 20200806182322071
 s-crit: 
 s-fail: The creature is [[Sickened]] 1.
 s-fumble: The creature is [[Sickened]] 2.
@@ -31,7 +31,7 @@ This spell has no effect on a target with a mutable anatomy or no limbs, such as
 
 In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they are temporarily immune to this secondary effect of grisly growths for 1 hour. 
 
-This additional effect is a <<Tag Mental>> and <<tag Visual>> effect.
+This additional effect is a <<tag Mental>> and <<tag Visual>> effect.
 
 ''Heightened (+1)'' The damage increases by 2d6.
 

@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806174125870
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 1
+m-range: [[Touch]]
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20200806174842716
+modtag-positive: Failing target healing reduced by half.
+s-crit: The target is unaffected.
+s-fail: The target takes full damage, and positive effects heal it only half as much as normal for 1 round.
+s-fumble: The target takes double damage, and positive effects heal it only half as much as normal for 1 minute.
+s-hit: The target takes half damage.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Cleric Necromancy Negative
+title: Touch of Undeath
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You attack the target’s life force with undeath, dealing 1d6 <<tag Negative>>damage. 
+
+The target must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}

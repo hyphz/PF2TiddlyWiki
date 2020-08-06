@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200727220506626
+modified: 20200806182920840
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -20,6 +20,7 @@ s-hit:
 tags: Evocation Light Arcane Occult Somatic Verbal Spell Concentrate Manipulate
 title: Prismatic Spray
 type: text/vnd.tiddlywiki
+virtual-tags: Fire Acid Electricity Poison Mental Teleportation
 
 {{||SpellSummaryTable}}
 

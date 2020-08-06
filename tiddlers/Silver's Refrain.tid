@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20200805233433869
 m-area: 60 foot [[Emanation]]
-m-components: Somatic Verbal
+m-components: Verbal
 m-duration: 1 round
 m-level: 1
 m-range: 
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200805233540083
+modified: 20200806171843800
 s-crit: 
 s-fail: 
 s-fumble: 

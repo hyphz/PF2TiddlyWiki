@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806170823180
+m-area: 
+m-components: Somatic
+m-domain: Pain
+m-duration: 
+m-level: 1
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200806171009697
+s-crit: The target is unaffected.
+s-fail: The target takes full initial and persistent damage.
+s-fumble: The target takes double initial and persistent damage.
+s-hit: The target takes half damage and no persistent damage.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Cleric Enchantment Mental Nonlethal
+title: Savor the Sting
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You inflict pain upon the target and revel in their anguish. 
+
+This deals 1d4 mental damage and 1d4 persistent mental damage; the target must attempt a Will save. 
+
+{{||SaveSuccessTable}}
+
+As long as the target is taking persistent damage from this spell, you gain a +1 status bonus to attack rolls and skill checks against the target.
+
+''Heightened (+1)'' The initial damage increases by 1d4 and the persistent damage increases by 1d4.

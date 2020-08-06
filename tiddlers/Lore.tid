@@ -1,5 +1,5 @@
 created: 20200630143444867
-modified: 20200720220239466
+modified: 20200806162346154
 skill-stat: Intelligence
 tags: Skill
 title: Lore
@@ -18,6 +18,11 @@ You gain a specific subcategory of the Lore skill from your background. The GM d
 If you have multiple subcategories of Lore that could apply to a check or that would overlap with another skill in the circumstances, you can use the skill with the better skill modifier or the one you would prefer to use. 
 
 If there’s any doubt whether a Lore skill applies to a specific topic or action, the GM decides whether it can be used or not.
+
+''Lore types suggested in backgrounds:'' <$list filter="[each[bg-lore]sort[bg-lore]]"><$link>{{!!bg-lore}}</$link>, </$list>
+
+''Lore types suggested in other abilities:'' <$list filter="[each[lore-mention]get[lore-mention]sort[]]"><<currentTiddler>>, </$list>
+
 
 {{||SkillActionList}}
 

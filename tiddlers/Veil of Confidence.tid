@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806180733676
+m-area: 
+m-components: Verbal
+m-domain: Confidence
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-frightened: Reduces new conditions by 1.
+modified: 20200806180926376
+modtag-fear: On fumbled save, spell ends and frightened is 1 greater.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Enchantment Mental
+title: Veil of Confidence
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You surround yourself in a veil of confidence. 
+
+You reduce your current [[Frightened]] condition by 1, and whenever you would become frightened during the duration, reduce the amount by 1.
+
+If you critically fail a save against <<tag Fear>>, veil of confidence ends immediately, and you increase any [[Frightened]] condition you gain from the critical failure by 1 instead of decreasing it.

@@ -12,7 +12,10 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20200729223457559
+modified: 20200806183554084
+modtag-auditory: Can't use in affected area.
+modtag-sonic: Can't use attacks in affected area.
+modtag-verbal: Can't cast in affected area.
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806171159789
+m-area: 
+m-components: Verbal
+m-domain: Knowledge (Domain)
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-recall_knowledge: Can give best of 2 rolls.
+mod-seek: Can give best of 2 rolls.
+modified: 20200806171912796
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Reaction Uncommon Cleric Divination Fortune
+title: Scholarly Recollection
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You attempt a [[Perception]] check to [[Seek]], or you attempt a skill check to [[Recall Knowledge]] with a skill you’re trained in.
+
+Speaking a short prayer as you gather your thoughts, you’re blessed to find that your deity gave you just the right bit of information for your situation. 
+
+Roll the triggering check twice and use the better result.

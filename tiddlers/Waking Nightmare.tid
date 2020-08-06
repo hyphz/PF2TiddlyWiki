@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806181132337
+m-area: 
+m-components: Somatic Verbal
+m-domain: Nightmares
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200806181332061
+s-crit: The target is unaffected.
+s-fail: The target is [[Frightened]] 2.
+s-fumble: The target is [[Frightened]] 3.
+s-hit: The target is [[Frightened]] 1.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Fear Mental
+title: Waking Nightmare
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fill the creature’s mind with a terrifying vision out of its nightmares. 
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}
+
+If the target is [[Unconscious]] when you Cast this Spell on it, it immediately wakes up before attempting its save, and if it fails its save, it gains the [[Fleeing]] condition for 1 round in addition to the effects noted above.
+
+//Common sense suggests that a creature that is unconscious because it is at 0 hit points cannot be woken up by a nightmare.//

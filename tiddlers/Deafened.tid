@@ -1,5 +1,7 @@
 created: 20200626162919189
-modified: 20200720204739250
+mod-perception: Automatically fail if needs hearing, else -2 status.
+modified: 20200806175709361
+modtag-auditory: Immune as target, must make DC 5 flat to use.
 tags: Condition
 title: Deafened
 type: text/vnd.tiddlywiki

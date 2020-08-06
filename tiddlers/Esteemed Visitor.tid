@@ -1,0 +1,13 @@
+created: 20200806160900028
+feat-anc: Shoony
+feat-level: 1
+mod-gather_information: Promotes fumbles using Diplomacy in a settlement.
+mod-make_an_impression: Promotes fumbles using Diplomacy in a settlement.
+modified: 20200806161007411
+tags: Ancestry Feat Shoony
+title: Esteemed Visitor
+type: text/vnd.tiddlywiki
+
+Your polite manners and natural ability to comfort others make it easy for you to break down cultural barriers and earn strangers’ trust. 
+
+While you are in a settlement, when you roll a critical failure on a [[Diplomacy]] check to [[Gather Information]] or [[Make an Impression]], you get a failure instead.

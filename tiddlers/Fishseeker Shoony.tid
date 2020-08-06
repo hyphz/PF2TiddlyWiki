@@ -1,0 +1,9 @@
+created: 20200806160420830
+mod-disarm: Demotes enemy's failures.
+mod-grab_an_edge: Promotes successes and fumbles.
+modified: 20200806160511079
+tags: Heritage Shoony
+title: Fishseeker Shoony
+type: text/vnd.tiddlywiki
+
+If you roll a success on an attempt to [[Grab an Edge]], you get a critical success instead; if you roll a critical failure, you get a failure instead. A creature that rolls a failure on a check to [[Disarm]] you gets a critical failure instead.

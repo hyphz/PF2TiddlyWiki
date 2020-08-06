@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806172431888
+m-area: 
+m-components: Somatic Verbal Material
+m-domain: Dreams
+m-duration: 10 minutes
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] creature
+m-time: 
+mod-charisma: +1 status after Glamour dream.
+mod-intelliegence: +1 status after Insight dream.
+mod-speed: +5' status after Voyaging dream.
+modified: 20200806172634792
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Material Uncommon Auditory Cleric Enchantment Linguistic Mental Sleep
+title: Sweet Dream
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+With soothing song or tales, you lull the target into an enchanting dream. 
+
+When you cast the spell, the target falls [[Unconscious]] if it wasn’t already. 
+
+While unconscious, it experiences a dream of your choice. If it sleeps for at least 1 minute, it gains the benefit of the dream for the remainder of the spell’s duration.
+
+* ''Dream of Insight'' +1 status bonus to [[Intelligence]]-based skill checks
+* ''Dream of Glamour'' +1 status bonus to [[Charisma]]-based skill checks
+* ''Dream of Voyaging'' +5-foot status bonus to Speed
+
+If you Cast this Spell again, the effects of any previous sweet dream you cast end.
