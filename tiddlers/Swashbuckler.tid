@@ -1,0 +1,60 @@
+cls-combt: Simple Martial Unarmed Light Unarmored
+cls-exskills: 4
+cls-fortitude: T
+cls-hpbase: 10
+cls-key: Dexterity
+cls-per: E
+cls-reflex: E
+cls-tskills: Acrobatics
+cls-will: E
+created: 20200806222019160
+modified: 20200806222452244
+tags: Class
+title: Swashbuckler
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Panache]], [[Precise Strike]] 2d6, [[Confident Finisher]] |
+| 2 | |
+| 3 | [[Great Fortitude]], [[Opportune Riposte]], [[Stylish Trick]], [[Vivacious Speed]] +10' |
+| 4 | |
+| 5 | [[Precise Strike]] 3d6, [[Weapon Expertise]] |
+| 6 | |
+| 7 | [[Evasion]], [[Stylish Trick]], [[Vivacious Speed]] +15', [[Weapon Specialization]] |
+| 8 | |
+| 9 | [[Exemplary Finisher]], [[Precise Strike]] 4d6, [[Swashbuckler Expertise]] |
+| 10 | |
+| 11 | [[Continuous Flair]], [[Vigilant Senses]], [[Vivacious Speed]] +20' |
+| 12 | |
+| 13 | [[Improved Evasion]], [[Light Armor Expertise]], [[Precise Strike]] 5d6, [[Weapon Mastery]] |
+| 14 | |
+| 15 | [[Greater Weapon Specialization]], [[Keen Flair]], [[Stylish Trick]], [[Vivacious Speed]] +25' |
+| 16 | |
+| 17 | [[Precise Strike]] 6d6, [[Resolve]] |
+| 18 | |
+| 19 | [[Eternal Confidence]], [[Light Armor Mastery]], [[Vivacious Speed]] +30' |
+| 20 | |
+
+!! Class Feats
+
+<table>
+<tr><th>Level</th><th>Feats</th></tr>
+<$list filter="1 2 4 6 8 10 12 14 16 18 20" variable="level">
+<tr><th><<level>></th>
+<td>
+<$list filter="[tag[Feat]tag[Class]tag<currentTiddler>field:feat-level<level>]">
+<$link />
+<$list filter="[all[current]has[feat-fpre]]">
+(Requires {{!!feat-fpre}})
+</$list>
+<br /> 
+</$list>
+</td></tr>
+</$list>
+</table>

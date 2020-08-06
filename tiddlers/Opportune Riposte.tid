@@ -1,0 +1,14 @@
+a-class: Swashbuckler
+a-level: 3
+a-subactions: Strike Disarm
+created: 20200806225238775
+modified: 20200806225301177
+tags: Action Swashbuckler Reaction
+title: Opportune Riposte
+type: text/vnd.tiddlywiki
+
+''Trigger'' A foe within your reach critically fails a Strike against you.
+
+You take advantage of an opening from your enemy’s fumbled attack. 
+
+You either make a melee [[Strike]] against the triggering foe or attempt to [[Disarm]] it of the weapon it used for the Strike.

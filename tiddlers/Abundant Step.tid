@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806203454433
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 4
+m-range: 15 feet or more
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200806203544612
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Conjuration Monk Teleportation Uncommon
+title: Abundant Step
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You move so fast you blur across planar boundaries. 
+
+You teleport up to a distance equal to your Speed within your line of sight.

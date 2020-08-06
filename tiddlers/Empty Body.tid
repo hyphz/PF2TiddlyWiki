@@ -1,0 +1,26 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806203556840
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 9
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200806203631172
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Monk Teleportation
+title: Empty Body
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You turn ethereal, with the effects of [[Ethereal Jaunt]], but you don’t need to concentrate.

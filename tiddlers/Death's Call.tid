@@ -13,7 +13,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200805174256277
+modified: 20200806200345413
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,7 +28,7 @@ type: text/vnd.tiddlywiki
 
 Seeing another pass from this world to the next invigorates you.
 
-You gain temporary Hit Points equal to the triggering creature’s level plus your Wisdom modifier. 
+You gain temporary Hit Points equal to the triggering creature’s level plus your __spellcasting ability__ modifier. 
 
 If the triggering creature was undead, double the number of temporary Hit Points you gain.
 

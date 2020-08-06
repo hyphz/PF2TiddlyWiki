@@ -1,0 +1,17 @@
+created: 20200806220619402
+mod-rage: Increase damage to 3/7/13 and make positive/negative.
+modified: 20200806220809716
+tags: Barbarian Splat
+title: Spirit Instinct
+type: text/vnd.tiddlywiki
+virtual-tags: Negative Positive Divine Necromancy
+
+Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession. 
+
+''Anathema'' Disrespecting corpses or spirits is anathema to your instinct; defending yourself against undead creatures is not.
+
+''Spirit Rage (Instinct Ability)'' When you are raging, you can increase your damage from [[Rage]] from 2 to 3 and deal <<tag Negative>> or <<tag Positive>> damage, instead of the normal damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the [[Ghost Touch]] property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the <<tag Divine>> and <<tag Necromancy>> traits, plus negative or positive, as appropriate.
+
+''Specialization Ability'' When using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.
+
+''Raging Resistance'' You resist negative damage, as well as damage dealt by the attacks and abilities of undead creatures, regardless of the damage type.

@@ -1,0 +1,60 @@
+cls-combt: Simple Martial Unarmed Light Medium Unarmored
+cls-exskills: 3
+cls-fortitude: E
+cls-hpbase: 12
+cls-key: Strength
+cls-per: E
+cls-reflex: T
+cls-tskills: Athletics
+cls-will: E
+created: 20200806212600661
+modified: 20200806215520405
+tags: Class
+title: Barbarian
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Rage]], Instinct |
+| 2 | |
+| 3 | [[Deny Advantage]] |
+| 4 | |
+| 5 | [[Brutality]] |
+| 6 | |
+| 7 | [[Juggernaut]], [[Weapon Specialization]] |
+| 8 | |
+| 9 | [[Lightning Reflexes]], [[Raging Resistance]] |
+| 10 | |
+| 11 | [[Mighty Rage]] |
+| 12 | |
+| 13 | [[Greater Juggernaut]], [[Medium Armor Expertise]], [[Weapon Fury]] |
+| 14 | |
+| 15 | [[Greater Weapon Specialization]], [[Indomitable Will]] |
+| 16 | |
+| 17 | [[Heightened Senses]], [[Quick Rage]] |
+| 18 | |
+| 19 | [[Armor of Fury]], [[Devastator]] |
+| 20 | |
+
+!! Class Feats
+
+<table>
+<tr><th>Level</th><th>Feats</th></tr>
+<$list filter="1 2 4 6 8 10 12 14 16 18 20" variable="level">
+<tr><th><<level>></th>
+<td>
+<$list filter="[tag[Feat]tag[Class]tag<currentTiddler>field:feat-level<level>]">
+<$link />
+<$list filter="[all[current]has[feat-fpre]]">
+(Requires {{!!feat-fpre}})
+</$list>
+<br /> 
+</$list>
+</td></tr>
+</$list>
+</table>

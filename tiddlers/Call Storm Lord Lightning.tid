@@ -1,0 +1,13 @@
+a-actions: 1
+a-defense: Reflex
+created: 20200806202118573
+modified: 20200806202303331
+tags: Action Concentrate Manipulate Implied
+title: Call Storm Lord Lightning
+type: text/vnd.tiddlywiki
+
+//Implied by [[Storm Lord]].//
+
+In addition, once per round you can use a single action, which has the <<tag Concentrate>>and <<tag Manipulate>> traits, to call down a bolt of lightning, striking any target in range that you can see. 
+
+You deal 10d6 electricity damage to the target; it must attempt a basic [[Reflex]] save. On a failure, it is also [[Deafened]] for 1 round.

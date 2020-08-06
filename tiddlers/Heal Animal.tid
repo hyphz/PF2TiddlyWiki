@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806195955286
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: [[Touch]] or 30 feet
+m-save: 
+m-targets: 1 [[Willing]] living <<tag Animal>>creature
+m-time: 
+modified: 20200806230851345
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy Positive Verbal Concentrate
+title: Heal Animal
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You heal an animal’s wounds, restoring 1d8 Hit Points to the target. 
+
+The number of actions spent Casting this Spell determines its effect.
+
+* {{OneAction}} [[Somatic]]: The spell has a range of [[Touch]].
+* {{TwoAction}} [[Somatic]], [[Verbal]]: The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.
+
+''Heightened (+1)'' The amount of healing increases by 1d8, and the additional healing for the 2-action version increases by 8.

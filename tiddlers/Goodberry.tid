@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806193606470
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 ripe berry
+m-time: 
+modified: 20200806195917129
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy
+title: Goodberry
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You imbue the target berry with the bounty of nature, __turning it into a goodberry that can heal and sustain far beyond its normal capacity.__
+
+A living __can eat__ the __goodberry__ with an [[Interact]] action to regain __1d6+4__ Hit Points.
+
+__A berry not consumed during the duration__ withers away.
+
+__Every six goodberries consumed gives as much nourishment as one square meal for a typical human.__
+
+Heightened (+1) You can target an additional berry. __A creature can consume any number of goodberries from the same casting with a single Interact action.__

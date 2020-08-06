@@ -1,0 +1,15 @@
+created: 20200806223255121
+mod-grapple: Gain Panache on success.
+mod-panache: Gain Panache from Grapple, Shove or Trip.
+mod-shove: Gain Panache on success.
+mod-trip: Gain Panache on success.
+modified: 20200806223408880
+tags: Swashbuckler Splat
+title: Gymnast
+type: text/vnd.tiddlywiki
+
+You reposition, maneuver, and bewilder your foes with daring feats of physical prowess. 
+
+You are trained in [[Athletics]]. 
+
+You gain panache during an encounter whenever you successfully [[Grapple]], [[Shove]], or [[Trip]] a foe.

@@ -1,0 +1,31 @@
+created: 20200806214855969
+mod-rage: Gain animal's unarmed attack. Anathema to use weapons.
+modified: 20200806215300492
+tags: Barbarian Splat
+title: Animal Instinct
+type: text/vnd.tiddlywiki
+virtual-tags: Morph Primal Transmutation
+
+The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks.  Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. 
+
+''Anathema'': Flagrantly disrespecting an animal of your chosen kind is anathema to your instinct, as is using weapons while raging.
+
+| !Animal | !Attack | !Damage | !Traits |
+|Ape |Fist |1d10 B |Grapple, unarmed |
+|Bear |Jaws |1d10 P |Unarmed |
+| |Claw |1d6 S |Agile, unarmed |
+|Bull |Horn |1d10 P |Shove, unarmed |
+|Cat |Jaws |1d10 P |Unarmed |
+| |Claw |1d6 S |Agile, unarmed |
+|Deer |Antler |1d8 P |Charge, unarmed |
+|Frog |Jaws |1d10 B |Unarmed |
+| |Tongue |1d4 B |Agile, unarmed |
+|Shark |Jaws |1d10 P |Grapple, unarmed |
+|Snake |Fangs |1d10 P |Grapple, unarmed |
+|Wolf |Jaws |1d10 P |Trip, unarmed |
+
+''Bestial Rage (Instinct Ability)'' When you Rage, you gain your chosen animal’s unarmed attack (or attacks). These attacks are in the brawling group. Your Rage action gains the <<tag Morph>>, <<tag Primal>>, and <<tag Transmutation>> traits.
+
+''Specialization Ability'' Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal’s unarmed attacks. The frog’s tongue attack and deer’s antler attack gain reach 10 feet. If you have [[Greater Weapon Specialization]], increase the damage from Rage from 5 to 12 for your chosen animal’s unarmed attacks.
+
+''Raging Resistance'' You resist piercing and slashing damage.

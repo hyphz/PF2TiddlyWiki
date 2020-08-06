@@ -1,0 +1,12 @@
+created: 20200806225909982
+mod-panache: Out-of-combat panache gives +1 circumstance to panache actions.
+modified: 20200806225954947
+tags: Ability Swashbuckler
+title: Continuous Flair
+type: text/vnd.tiddlywiki
+
+While not equal to the heights of your panache in combat, you have a dramatic flair about you in any situation.
+
+Whenever you succeed at a check during exploration that would have granted you [[Panache]] in combat, you gain a +1 circumstance bonus to further checks for actions that would grant you panache in combat. 
+
+This benefit ends when the exploration changes to a different scene (as determined by the GM) or shifts to an encounter or downtime.

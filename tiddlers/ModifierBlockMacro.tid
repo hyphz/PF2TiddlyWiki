@@ -1,6 +1,6 @@
 created: 20200707221717495
 mod-testblock: Hello
-modified: 20200806182849492
+modified: 20200806224849616
 tags: $:/tags/Macro
 title: ModifierBlockMacro
 type: text/vnd.tiddlywiki
@@ -12,6 +12,18 @@ type: text/vnd.tiddlywiki
 <tr><th><$link/></th><td><<x>></td><td><$view field=<<mfield>> /></td></tr>
 <$macrocall $name="innermodifierblock" for=<<currentTiddler>> />
 </$list>
+<$list filter="[list[!!modified-by]]">
+<tr><th><$link/></th><td><<x>></td><td></td></tr>
+<$macrocall $name="innermodifierblock" for=<<currentTiddler>> />
+</$list>
+</$set>
+</$set>
+\end
+
+\define ModifierBlock(for:"")
+<table>
+<$macrocall $name="innermodifierblock" for=<<__for__>> />
+<$set name="x" value=<<__for__>> >
 <$set name="tfield" filter="[title<x>lowercase[]split[ ]join[_]addprefix[modtag-]]">
 <$list filter="[all[tiddlers]has<tfield>]">
 <tr><th><$link/></th><td><<x>></td><td><$view field=<<tfield>> /></td></tr>
@@ -24,11 +36,6 @@ type: text/vnd.tiddlywiki
 </$list>
 </$set>
 </$list>
-<$list filter="[list[!!modified-by]]">
-<tr><th><$link/></th><td><<x>></td><td></td></tr>
-<$macrocall $name="innermodifierblock" for=<<currentTiddler>> />
-</$list>
-</$set>
 <$list filter="[list[!!virtual-tags]]" variable="tag">
 <$set name="tagmod" filter="[<tag>lowercase[]addprefix[modtag-]]" variable="tagmod">
 <$list filter="[all[tiddlers]has<tagmod>!title<x>!title<tag>]">
@@ -37,11 +44,6 @@ type: text/vnd.tiddlywiki
 </$set>
 </$list>
 </$set>
-\end
-
-\define ModifierBlock(for:"")
-<table>
-<$macrocall $name="innermodifierblock" for=<<__for__>> />
 </table>
 \end
 

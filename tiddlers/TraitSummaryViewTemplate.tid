@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200803174523170
+modified: 20200806224930936
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -46,6 +46,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Exploration]]">
 <tr><th>[[Exploration]]</th><td>This can only be used in Exploration Mode, not Encounter Mode (ie, not combat).</td></tr>
+</$list>
+<$list filter="[all[current]tag[Finisher]]">
+<tr><th>[[Finisher]]</th><td>Uses up [[Panache]] and must be last attack in turn.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Fire]]">
 <tr><th>[[Fire]]</th><td>You can't use this underwater.</td></tr>

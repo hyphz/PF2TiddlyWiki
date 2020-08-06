@@ -2,8 +2,8 @@ a-actions: 1
 a-crit: As success, but you deal double damage.
 a-hit: You deal damage according to the weapon or unarmed attack, including any modifiers, bonuses, and penalties you have to damage.
 created: 20200626205737046
-modified: 20200626205853887
-tags: Move Attack
+modified: 20200806225019695
+tags: Attack
 title: Strike
 type: text/vnd.tiddlywiki
 

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806211157273
+m-area: 
+m-components: Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200806211311579
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Sorcerer
+title: Ancestral Memories
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The memories of long-dead spellcasters grant you knowledge in a specific skill. 
+
+Choose any non-Lore skill, or a Lore skill related to the ancient empire from which your bloodline sprang. You temporarily become trained in that skill and might gain other memories associated with an ancestor who was trained in that skill. 
+
+If you attempt a task or activity that lasts beyond this spell’s duration, use the lower proficiency modifier.
+
+''Heightened (6th)'' You temporarily become an expert in the skill you choose.

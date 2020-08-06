@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806205636736
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200806205755411
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Healing Monk Necromancy Positive
+title: Wholeness of Body
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You heal yourself in one of the following ways, chosen by you when you cast the spell.
+
+* You regain 8 Hit Points.
+* You attempt to cure one [[Poison]] or [[Disease]] afflicting you; attempt to [[Counteract]] the affliction.
+
+''Heightened (+1)'' If you choose to regain Hit Points, the Hit Points regained increase by 8.

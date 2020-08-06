@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806201415493
+m-area: 100 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 9
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200806202254316
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Electricity Evocation
+title: Storm Lord
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The sky above you darkens in a matter of moments, swirling with ominous clouds punctuated by flashes of lighting. 
+
+Each round when you [[Sustain the Spell|Sustain a Spell]], you can select one of the following effects to occur in the area.
+
+* ''Calm'' No additional effect.
+* ''Fog'' Heavy fog rolls in, concealing the area with the effects of [[Obscuring Mist]].
+* ''Rain'' Torrential rain falls from the sky, dousing ordinary flames. Creatures in the area take a –2 circumstance penalty to [[Acrobatics]] and [[Perception]] checks.
+* ''Wind'' Powerful winds buffet the area in all directions. Ranged attacks take a –4 circumstance penalty, and all flying is against the wind and counts as moving through [[Difficult Terrain]].
+
+In addition, once per round you can use a single action, which has the <<tag Concentrate>>and <<tag Manipulate>> traits, to call down a bolt of lightning, striking any target in range that you can see. 
+
+You deal 10d6 electricity damage to the target; it must attempt a basic [[Reflex]] save. On a failure, it is also [[Deafened]] for 1 round.

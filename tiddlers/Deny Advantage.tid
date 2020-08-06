@@ -1,0 +1,14 @@
+created: 20200806213238743
+mod-flanking: Prevents flat-footed.
+mod-hidden: Prevents flat-footed.
+mod-undetected: Prevents flat-footed.
+modified: 20200806213345794
+tags: Ability
+title: Deny Advantage
+type: text/vnd.tiddlywiki
+
+Your foes struggle to pass your defenses. 
+
+You aren’t [[Flat-Footed]] to [[Hidden]], [[Undetected]], or [[Flanking]] creatures of your level or lower, or creatures of your level or lower using [[Surprise Attack]]. 
+
+However, they can still help their allies flank.

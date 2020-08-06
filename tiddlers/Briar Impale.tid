@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200806200913618
+modified: 20200806201026632
+tags: Action Implied Concentrate Manipulate
+title: Briar Impale
+type: text/vnd.tiddlywiki
+
+//Implied by [[Impaling Briars]].//
+
+In addition, once per round you can direct the briars to impale any target in the area (or flying up to 20 feet above the area) that you can see by using a single action, which has the Concentrate and Manipulate traits.
+
+Make a spell attack roll. On a success, the target takes 10d6 piercing damage and takes a –10-foot circumstance penalty to all Speeds for 1 round; on a critical success, the target is [[Immobilized]] for 1 round unless it [[Escape]]s. 

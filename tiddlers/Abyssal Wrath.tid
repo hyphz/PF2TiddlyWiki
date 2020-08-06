@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806210803016
+m-area: 60 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200806211110016
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Sorcerer
+title: Abyssal Wrath
+type: text/vnd.tiddlywiki
+virtual-tags: Bludgeoning Electricity Acid Slashing Cold Fire Piercing
+
+{{||SpellSummaryTable}}
+
+You evoke the energy of an Abyssal realm. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below.
+
+| !1d4 | !Realm | !Manifestation | !Damage Type |
+|1 |Skies |Bolts of lightning and flying debris |<<tag Bludgeoning>> and <<tag Electricity>> |
+|2 |Depths |Acid and demonic shells |<<tag Acid>> and <<tag Slashing>> |
+|3 |Frozen |Frigid air and ice |<<tag Bludgeoning>> and <<tag Cold>> |
+|4 |Volcanic |Jagged volcanic rocks and magma |<<tag Fire>> and <<tag Piercing>> |
+
+You deal 4d6 damage of each of the corresponding damage types to each creature in the cone (8d6 total damage).
+
+''Heightened (+1)'' The damage for each type increases by 1d6.

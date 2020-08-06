@@ -12,8 +12,8 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-mod-athletics: Gives +1 athletics and +1 DCs against athletics actions.
-modified: 20200803182408941
+mod-athletics: +1 status on rolls, and DCs against athletics actions.
+modified: 20200806223450264
 s-crit: 
 s-fail: 
 s-fumble: 

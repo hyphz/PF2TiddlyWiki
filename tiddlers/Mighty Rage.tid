@@ -1,9 +1,11 @@
 created: 20200723211329833
 mod-rage: Lets you take a Rage action at the time you Rage.
-modified: 20200723211416741
+modified: 20200806213725073
 tags: Action Barbarian Free
 title: Mighty Rage
 type: text/vnd.tiddlywiki
+
+When you gain this action as a Barbarian, your proficiency rank for your barbarian class DC increases to Expert.
 
 ''Trigger'' You use the [[Rage]] action on your turn.
 

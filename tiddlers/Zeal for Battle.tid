@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200806181921350
 m-area: 
-m-components: Somatic Verbal
+m-components: Verbal
 m-domain: Zeal
 m-duration: 
 m-level: 4
@@ -13,7 +13,7 @@ m-range: 10 feet
 m-save: 
 m-targets: You and the triggering ally
 m-time: 
-modified: 20200806182037704
+modified: 20200806230807029
 s-crit: 
 s-fail: 
 s-fumble: 

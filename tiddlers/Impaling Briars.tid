@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806200416079
+m-area: Ground within a 100-foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 8
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-sustain_a_spell: Choose an effect when sustained.
+modified: 20200806200903585
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Druid Plant
+title: Impaling Briars
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The ground within the area transforms into a mass of dangerous briars that assault and impede your foes. 
+
+Each round when you [[Sustain the Spell|Sustain a Spell]], you can select one of the
+following effects to occur in the area.
+
+* ''Ensnare'' The briars clump around your foes, attempting to hold them in place. A foe within the area (or flying at most 20 feet above the area) must attempt a [[Reflex]] save. On a failure, it takes a –10-foot circumstance penalty to all [[Speed]]s for 1 round, and on a critical failure, it is [[Immobilized]] for 1 round unless it [[Escape]]s.
+* ''Impede'' The briars twist and writhe, making the entire area [[Difficult Terrain]].
+* ''Wall'' A [[Wall of Thorns]] appears in the area, lasting for 1 round. The wall is greater difficult terrain instead of difficult terrain.
+ 
+In addition, once per round you can direct the briars to impale any target in the area (or flying up to 20 feet above the area) that you can see by using a single action, which has the <<tag Concentrate>> and <<tag Manipulate>> traits. 
+
+Make a spell attack roll. On a success, the target takes 10d6 piercing damage and takes a –10-foot circumstance penalty to all Speeds for 1 round; on a critical success, the target is [[Immobilized]] for 1 round unless it [[Escape]]s.

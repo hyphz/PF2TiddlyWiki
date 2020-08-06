@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806210207854
+m-area: 
+m-components: Verbal
+m-duration: 1 minute
+m-level: 5
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200806210258906
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Air Monk Transmutation
+title: Wind Jump
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.
+
+''Heightened (6th)'' At the end of your turn, you can attempt a DC 30 [[Acrobatics]] check to find purchase in midair. If you succeed, you don’t fall.

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200806202519431
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Reflex
+m-targets: 1 creature
+m-time: 
+modified: 20200806202711056
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Electricity Evocation
+title: Tempest Surge
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You surround a foe in a swirling storm of violent winds, roiling clouds, and crackling lightning. 
+
+The storm deals 1d12 <<tag Electricity>>damage. The target must attempt a basic [[Reflex]] save. On a failure, the target also is [[Clumsy]] 2 for 1 round and takes 1 persistent electricity damage.
+
+''Heightened (+1)'' The initial damage increases by 1d12, and the persistent electricity damage on a failure increases by 1.
