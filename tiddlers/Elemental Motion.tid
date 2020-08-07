@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807182542587
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200807182630651
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Sorcerer
+title: Elemental Motion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon your element to propel you, improving your Speed depending on your element. 
+
+This spell has your element’s trait.
+
+* ''Air'' You gain a fly Speed equal to your Speed.
+* ''Earth'' You gain a burrow Speed of 10 feet.
+* ''Fire'' You gain a fly Speed equal to your Speed.
+* ''Water'' You gain a swim Speed equal to your Speed and can breathe underwater.
+
+''Heightened (6th)'' You also gain a +10-foot status bonus to your Speeds.
+
+''Heightened (9th)'' The status bonus increases to +20 feet.

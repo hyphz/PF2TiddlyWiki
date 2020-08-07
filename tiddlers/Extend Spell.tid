@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807183130340
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200807183804890
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Metamagic Sorcerer
+title: Extend Spell
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon your blood’s knowledge of the ancients to extend your magic. 
+
+If your next action is to [[Cast a Spell]] with a duration of 1 minute on a single target, and the spell isn’t of the highest spell level you can cast, the spell instead lasts 10 minutes. 
+
+You can have only one active spell at a time extended in this way.
+
+''Possible Spells:'' <$list filter="[tag[Spell]!has[m-area]has[m-targets]field:m-duration[1 minute]!field:m-targets[You]]"><$link/>, </$list>
+

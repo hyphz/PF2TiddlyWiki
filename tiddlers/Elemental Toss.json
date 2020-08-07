@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20200807182659002",
+        "text": "{{||SpellSummaryTable}}\n\nWith a flick of your wrist, you fling a chunk of your elemental matter at your foe. \n\nMake a spell attack roll, dealing 1d8 bludgeoning damage (or <<tag Fire>>damage if your element is fire) on a success, and double damage on a critical success. \n\nThis spell has your element’s trait.\n\n''Heightened (+1)'' The damage increases by 1d8.\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Elemental Toss",
+        "tags": "Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Evocation Sorcerer",
+        "modified": "20200807182804448",
+        "s-hit": "",
+        "s-fumble": "",
+        "s-fail": "",
+        "s-crit": "",
+        "m-time": "",
+        "m-targets": "1 creature",
+        "m-save": "",
+        "m-range": "30 feet",
+        "m-level": "",
+        "m-duration": "",
+        "m-components": "Somatic ",
+        "m-area": "",
+        "a-hit": "",
+        "a-fumble": "",
+        "a-fail": "",
+        "a-defense": "",
+        "a-crit": "",
+        "virtual-tags": "Air Fire Water Earth"
+    }
+]

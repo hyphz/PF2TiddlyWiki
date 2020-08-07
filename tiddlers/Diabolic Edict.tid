@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807020615197
+m-area: 
+m-components: Verbal
+m-duration: 1 round
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] living creature
+m-time: 
+modified: 20200807020712146
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Enchantment Sorcerer
+title: Diabolic Edict
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You issue a diabolic edict, demanding the target perform a particular task and offering rewards for its fulfillment. 
+
+It gains a +1 status bonus to attack rolls and skill checks related to performing the task. 
+
+If it refuses to perform the task you proclaimed, it instead takes a –1 status penalty to all its attack rolls and skill checks.

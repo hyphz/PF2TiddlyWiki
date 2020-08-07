@@ -3,7 +3,8 @@ mod-cast_a_spell: Gives risk of disruption on flat check.
 mod-charisma: Gives status penalty of condition value.
 mod-intelligence: Gives status penalty of condition value.
 mod-wisdom: Gives status penalty of condition value.
-modified: 20200720215842895
+modified: 20200807015925000
+modtag-spell: Risk of casting disruption on flat check.
 tags: Condition
 title: Stupefied
 type: text/vnd.tiddlywiki

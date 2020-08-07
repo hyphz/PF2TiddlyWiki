@@ -1,0 +1,18 @@
+created: 20200807184657470
+modified: 20200807185038668
+title: Feat
+type: text/vnd.tiddlywiki
+
+General feats are listed below.
+
+Skill feats are listed with [[Skill]]s and on the page for their particular skill. In most cases, Skill feats can be taken in place of General feats.
+
+Class feats are listed on the page for their particular class.
+
+<table>
+<tr><th>Feat</th><th>Level</th></tr>
+<$list filter="[tag[Feat]tag[General]!tag[Skill]]">
+<tr><td><$link /></td><td>{{!!feat-level}}</td></tr>
+</$list>
+</table>
+

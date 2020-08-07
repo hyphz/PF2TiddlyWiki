@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807182859755
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200807183028855
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Verbal Concentrate [[Focus Spell]] Spell Uncommon Evil Morph Sorcerer Transmutation
+title: Embrace the Pit
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline.
+
+You gain resistance 5 to <<tag Evil>>, <<tag Fire>>, and <<tag Poison>>, and resistance 1 to physical damage (except silver). 
+
+You can take <<tag Good>> damage, even if you aren’t evil, and you gain weakness 5 to good damage.
+
+''Heightened (+2)'' The resistance to evil, fire, and poison increases by 5, the resistance to physical damage (except silver) by 2, and the weakness to good damage by 5.

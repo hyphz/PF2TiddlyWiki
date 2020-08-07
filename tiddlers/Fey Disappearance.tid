@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807184356329
+m-area: 
+m-components: Somatic
+m-duration: Until the end of your next turn
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-difficult_terrain: Ignore if natural.
+modified: 20200807184529493
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Enchantment Sorcerer
+title: Fey Disappearance
+turn-eun: Wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You become [[Invisible]] and ignore natural [[Difficult Terrain]] (such as underbrush). 
+
+Any [[Hostile Action]] you use ends this invisibility, but you still ignore natural difficult terrain.
+
+''Heightened (5th)'' If you use a hostile action, the invisibility doesn’t end.

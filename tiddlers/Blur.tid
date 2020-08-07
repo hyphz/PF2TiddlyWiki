@@ -4,10 +4,12 @@ m-duration: 1 minute
 m-level: 2
 m-range: Touch
 m-targets: 1 creature
-modified: 20200805230213391
+modified: 20200807183649758
 tags: Illusion Visual Spell Arcane Occult Somatic Verbal Concentrate Manipulate
 title: Blur
 type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
 
 The target’s form appears blurry. 
 

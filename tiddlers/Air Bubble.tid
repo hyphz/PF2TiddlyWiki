@@ -4,10 +4,12 @@ m-duration: 1 minute
 m-level: 1
 m-range: 60 feet
 m-targets: The triggering creature
-modified: 20200627230910700
+modified: 20200807183439840
 tags: Spell Air Conjuration Arcane Divine Primal Verbal Reaction Concentrate
 title: Air Bubble
 type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
 
 ''Trigger'' A creature within range enters an environment where it can’t breathe.
 

@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807014909429
+m-area: 15 foot [[Emanation]]
+m-components: Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-heal: +2 status HP healed to allies.
+modified: 20200807015027026
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration Good Sorcerer
+title: Angelic Halo
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You gain an angelic halo with an aura that increases allies’ healing from the heal spell. 
+
+[[Heal]] spells gain a +2 status bonus to Hit Points healed to your allies in the area.
+
+''Heightened (+1)'' The status bonus increases by 2.

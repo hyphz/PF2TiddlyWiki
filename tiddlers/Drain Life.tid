@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807182210055
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 3
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200807182309575
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncomon Necromancy Negative Sorcerer
+title: Drain Life
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You close your hand and pull life energy from another creature into yourself. 
+
+This deals 3d4 <<tag Negative>>damage; the target must attempt a basic [[Fortitude]] save. 
+
+You gain temporary Hit Points equal to the damage the target takes, after resolving its save and applying your blood magic if applicable. 
+
+If the target’s Hit Points were lower than the damage you dealt, you gain temporary Hit Points equal to their remaining Hit Points instead. 
+
+The temporary Hit Points last for 1 minute.
+
+''Heightened (+1)'' The damage increases by 1d4.

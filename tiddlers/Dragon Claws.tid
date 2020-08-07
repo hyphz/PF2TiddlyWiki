@@ -1,0 +1,42 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807181816680
+m-area: 
+m-components: Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200807182029225
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]]
+title: Dragon Claws
+type: text/vnd.tiddlywiki
+virtual-tags: Acid Electricity Fire Cold Poison
+
+{{||SpellSummaryTable}}
+
+Vicious claws grow from your fingers. 
+
+They are [[Finesse]] [[Unarmed]] attacks that deal 1d4 slashing damage and 1d6 extra damage of a type determined by the dragon in your bloodline.
+
+| !Dragon | !Damage Type |
+|Black or Copper |<<tag Acid>> |
+|Blue or Bronze |<<tag Electricity>> |
+|Brass, Gold, or Red |<<tag Fire>> |
+|Silver or White |<<tag Cold>> |
+|Green |<<tag Poison>> |
+ 
+Your scales from blood magic glow with faint energy, giving you resistance 5 to the same damage type.
+
+''Heightened (5th)'' The extra damage increases to 2d6, and the resistance increases to 10.
+
+''Heightened (9th)'' The extra damage increases to 3d6, and the resistance increases to 15.

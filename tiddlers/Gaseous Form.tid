@@ -15,7 +15,9 @@ m-time:
 mod-ac: Removes any item bonus to AC.
 mod-attack: Prevents attacking.
 mod-manipulate: Prevents Manipulate actions.
-modified: 20200727221505052
+modified: 20200807015426728
+modtag-attack: Prevents attacking.
+modtag-manipulate: Prevents Manipulate actions.
 s-crit: 
 s-fail: 
 s-fumble: 

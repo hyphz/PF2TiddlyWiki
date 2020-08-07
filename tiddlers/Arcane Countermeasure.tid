@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807020040652
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 5
+m-range: 120 feet
+m-save: 
+m-targets: The spell cast by the triggering creature
+m-time: 
+mod-ac: +2 status vs targeted spell.
+mod-fortitude: +2 status vs target spell.
+mod-reflex: +2 status vs target spell.
+mod-will: +2 status vs target spell.
+modified: 20200807020249965
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Sorcerer
+title: Arcane Countermeasure
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' A creature within range that you can see Casts a Spell.
+
+You undermine the target spell, making it easier to defend against. You reduce the spell’s level by 1, and targets of the spell gain a +2 status bonus to any saving throws, skill checks, AC, or DC against it.
+
+You can’t reduce the spell’s level below its minimum. For example, a 5th-level [[Cone of Cold]] would remain 5th-level, but a 5th-level [[Fireball[[ would become 4th-level. Targets still gain all the other benefits, even if you don’t reduce the spell’s level.

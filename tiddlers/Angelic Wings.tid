@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807015032464
+m-area: 
+m-components: Somatic Verbal
+m-duration: 3 rounds
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200807015124466
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Light Sorcerer
+title: Angelic Wings
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. 
+
+Your wings cast [[Bright Light]] in a 30-foot radius. 
+
+When this spell’s duration would end, if you’re still flying, you float to the ground, as [[Feather Fall]].
+
+''Heightened (5th)'' The duration increases to 1 minute.

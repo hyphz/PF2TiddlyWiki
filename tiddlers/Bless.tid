@@ -4,7 +4,7 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200719163956655
-m-area: 
+m-area: 5 foot [[Emanation]]
 m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 1
@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: You and allies in the area
 m-time: 
-modified: 20200805230136625
+modified: 20200807183621866
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -20,6 +20,8 @@ s-hit:
 tags: Enchantment Mental Spell Divine Occult Somatic Verbal Manipulate Concentrate
 title: Bless
 type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
 
 Blessings from beyond help your companions strike true.
 

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807182037653
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 5
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200807182133299
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Sorcerer Transmutation
+title: Dragon Wings
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. 
+
+When this spell’s duration would end, if you’re still flying, you float to the ground, as [[Feather Fall]]. 
+
+You can increase the Focus Point cost by 1 to gain the effects of [[Dragon Claws]] as long as the wings last.
+
+''Heightened (8th)'' The duration increases to 10 minutes.

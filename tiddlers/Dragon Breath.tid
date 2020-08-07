@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807181030336
+m-area: 30 foot [[Cone]] or 60 foot [[Line]] originating from you
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 
+m-save: Reflex Fortitude
+m-targets: 
+m-time: 
+modified: 20200807181349737
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Sorcerer
+title: Dragon Breath
+type: text/vnd.tiddlywiki
+virtual-tags: Acid Electricity Fire Poison Cold
+
+{{||SpellSummaryTable}}
+
+You spew energy from your mouth, dealing 5d6 damage. 
+
+The area, damage type, and //basic// save depend on the dragon type in your bloodline.
+
+| !Dragon Type | !Area and Damage Type | !Saving Throw |
+|Black or copper |60-foot [[Line]] of <<tag Acid>> |Reflex |
+|Blue or bronze |60-foot [[Line]] of <<tag Electricity>> |Reflex |
+|Brass |60-foot [[Line]] of <<tag Fire>> |Reflex |
+|Green |30-foot [[Cone]] of <<tag Poison>> |Fortitude |
+|Gold or red |30-foot [[Cone]] of <<tag Fire>> |Reflex |
+|Silver or white |30-foot [[Cone]] of <<tag Cold>> |Reflex |
+
+''Heightened (+1)'' The damage increases by 2d6.
