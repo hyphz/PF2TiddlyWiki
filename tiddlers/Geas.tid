@@ -1,0 +1,48 @@
+a-crit: The geas succeeds, and the target receives a +1 status bonus to skill checks that directly uphold the geas (at the GM’s discretion).
+a-defense: 
+a-fail: The geas fails.
+a-fumble: The geas fails, and you are instead affected by the geas you were attempting to place on the target. You are considered an unwilling target, so the geas can be [[Counteract]]ed with a [[Remove Curse]] spell.
+a-hit: The geas succeeds.
+created: 20200808162125822
+lore-mention: Legal
+m-area: 
+m-components: 
+m-duration: 
+m-level: 3
+m-range: 10 feet
+m-save: 
+m-targets: 1 creature of a level no greater than double the Geas ritual's level
+m-time: 1 day
+mod-sickened: Can't remove condition without obeying geas.
+modified: 20200808162925516
+rit-pskill: Arcana Occultism Religion
+rit-pspre: E
+rit-secondaries: 1
+rit-sskill: Society [[Legal Lore]]
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Curse Enchantment Mental
+title: Geas
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+You enforce a magic rule on a willing target, forcing it to either perform or refrain from carrying out a certain act. 
+
+A geas to perform an act is usually conditional, such as, “Always offer hospitality to strangers seeking a place to stay.” An unconditional geas to perform a certain act doesn’t require the target to perform that act exclusively, though it must prioritize the task above all leisurely pursuits. 
+
+The most common geas to refrain from carrying out an act is a specification to avoid violating a contract. In those cases, the secondary caster usually takes charge of making sure the wording of the contract is attuned correctly with the ritual’s magic. 
+
+If the target is unable to fulfill the geas, it becomes [[Sickened]] 1, and the sickened condition increases by 1 for each consecutive day it is prevented from following the geas, to a maximum of [[Sickened]] 4. The sickened condition ends immediately when it follows the geas again; it can’t remove the sickened condition in any other way. //Note that since this prevents them from ingesting anything, they may suffer from [[Thirst]] and [[Starvation]].//
+
+//At level 3 this spell can be used only on a [[Willing]] target.// Because the target is willing, geas can have a duration that lasts for as long as the target agrees to. Only powerful magic such as a [[Wish]] spell can remove the effects of geas from a willing target.
+
+''Heightened (5th)'' You can use geas on an unwilling creature; it can attempt a [[Will]] save to negate the effect. If the target fails this Will save, the geas lasts up to 1 week. A [[Remove Curse]] spell can [[Counteract]] a geas on an unwilling creature, in addition to powerful magic such as a [[Wish]] spell. A clever unwilling creature can subvert the geas by contriving situations that prevent it from complying, but in that case it becomes [[Sickened]] (as described above).
+
+''Heightened (7th)'' As 5th level, but the geas lasts for up to 1 year on an unwilling creature.
+
+''Heightened (9th)'' As 5th level, but the geas lasts for a duration you choose (even unlimited) on an unwilling creature.
+
+{{||ActionSuccessTable}}

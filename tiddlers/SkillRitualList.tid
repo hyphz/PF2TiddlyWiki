@@ -1,0 +1,21 @@
+created: 20200808160541683
+modified: 20200808161120991
+tags: 
+title: SkillRitualList
+type: text/vnd.tiddlywiki
+
+''Rituals using this skill as primary caster:''
+
+<ul>
+<$list filter="[all[current]listed[rit-pskill]sort[]]">
+<li><$link to=<<currentTiddler>> /></li>
+</$list>
+</ul>
+
+''Rituals using this skill as secondary caster:''
+
+<ul>
+<$list filter="[all[current]listed[rit-sskill]sort[]]">
+<li><$link to=<<currentTiddler>> /></li>
+</$list>
+</ul>

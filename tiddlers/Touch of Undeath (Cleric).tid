@@ -12,14 +12,14 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200806200220410
+modified: 20200808140355210
 modtag-positive: Failing target healing reduced by half.
 s-crit: The target is unaffected.
 s-fail: The target takes full damage, and positive effects heal it only half as much as normal for 1 round.
 s-fumble: The target takes double damage, and positive effects heal it only half as much as normal for 1 minute.
 s-hit: The target takes half damage.
 tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Necromancy Negative
-title: Touch of Undeath
+title: Touch of Undeath (Cleric)
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}

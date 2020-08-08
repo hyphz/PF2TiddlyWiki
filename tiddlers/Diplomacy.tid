@@ -1,5 +1,5 @@
 created: 20200630143129523
-modified: 20200705233053141
+modified: 20200808170651277
 skill-stat: Charisma
 tags: Skill
 title: Diplomacy
@@ -12,3 +12,5 @@ You influence others through negotiation and flattery.
 {{||SkillActionList}}
 
 {{||SkillFeatList}}
+
+{{||SkillRitualList}}

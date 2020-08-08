@@ -1,0 +1,44 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808135204670
+m-area: 
+m-components: Verbal
+m-duration: Up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200808140150503
+s-crit: 
+s-fail: The condition's value is 1.
+s-fumble: The condition's value is 2.
+s-hit: The target is unaffected.
+tags: Spell Verbal [[Focus Spell]] Concentrate
+title: Jealous Hex
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You draw forth a hag’s innate jealousy to deny a target its greatest attribute. 
+
+The target gains an adverse condition depending on its highest ability modifier: 
+
+| !Highest Ability | !Condition |
+|[[Strength]] |[[Enfeebled]] |
+|[[Dexterity]] |[[Clumsy]] |
+|[[Constitution]] |[[Drained]] |
+|[[Intelligence]] |[[Stupefied]] |
+|[[Wisdom]] |[[Stupefied]] |
+|[[Charisma]] |[[Stupefied]] |
+
+On a tie, the creature decides which of the conditions associated with the tied ability modifiers to take. 
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}
+
+At the start of each of your turns, the target can attempt another Will save, ending the effect on a success.

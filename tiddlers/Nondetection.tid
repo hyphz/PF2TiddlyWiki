@@ -12,7 +12,10 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature or object
 m-time: 10 minutes
-modified: 20200727210543405
+modified: 20200808143316161
+modtag-detection: Attempts to counter effects.
+modtag-revelation: Attempts to counter effects.
+modtag-scrying: Attempts to counter effects.
 s-crit: 
 s-fail: 
 s-fumble: 

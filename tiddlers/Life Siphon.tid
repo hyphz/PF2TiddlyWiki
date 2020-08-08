@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808144918637
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200808145058804
+modtag-necromancy: Caster can use to heal themselves after casting.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Healing Necromancy Wizard Reaction
+title: Life Siphon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You expend one of your wizard spell slots to cast a wizard spell of the <<tag Necromancy>> school.
+
+You use some of the spell’s magic to heal yourself, regaining 1d8 Hit Points per level of the spell.

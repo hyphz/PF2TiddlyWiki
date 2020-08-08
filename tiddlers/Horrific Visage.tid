@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808134623642
+m-area: 30 foot radius [[Emanation]] centered on you
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200808135029718
+s-crit: 
+s-fail: The foe is [[Frightened]] 1.
+s-fumble: The foe is [[Frightened]] 2.
+s-hit: The foe is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Emotion Fear Illusion Mental Sorcerer Visual
+title: Horrific Visage
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You briefly transform your features into the horrific visage of a hag, striking fear into your enemies. 
+
+Foes in the area must attempt a [[Will]] save.
+
+''Heightened (5th)'' Foes in the area are [[Frightened]] 1 on a success, [[Frightened]] 2 on a failure, and [[Frightened]] 3 and [[Fleeing]] for 1 round on a critical failure. They are still unaffected on a critical success.
+
+{{||SaveSuccessTable}}

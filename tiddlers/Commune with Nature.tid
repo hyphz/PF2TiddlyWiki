@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808153644864
+m-area: 
+m-components: 
+m-duration: Up to 10 minutes
+m-level: 6
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 day
+modified: 20200808153908209
+rit-pskill: Nature
+rit-pspre: M
+rit-secondaries: 1
+rit-sskill: Nature
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Divination Prediction
+title: Commune with Nature
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' Rare incense worth a total value of 60 gp.
+
+As [[Commune]], except you contact the primal spirits of nature, which know about <<tag Animal>>s, <<tag Beast>>s, <<tag Fey>>, <<tag Plant>>s, topography, and natural resources within a 3-mile radius of the ritual’s location.

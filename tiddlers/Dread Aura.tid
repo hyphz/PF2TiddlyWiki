@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808143342516
+m-area: 30 foot radius [[Emanation]] centered on you
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200808143429923
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Enchantment Emotion Fear Mental Wizard
+title: Dread Aura
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You emit an aura of terror. 
+
+Foes in the area are [[Frightened]] 1 and unable to reduce the condition.

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808150827616
+m-area: 
+m-components: 
+m-duration: 
+m-level: 
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200808151049818
+rit-pskill: 
+rit-pspre: 
+rit-secondaries: 
+rit-sskill: 
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration
+title: RitualFieldTemplate
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+{{||ActionSuccessTable}}

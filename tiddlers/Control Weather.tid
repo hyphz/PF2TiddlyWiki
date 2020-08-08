@@ -1,0 +1,41 @@
+a-crit: You change the weather as desired and can affect a larger area (up to a 5-mile-radius circle), or a longer duration (any number of additional d12 hours, up to 16d12).
+a-defense: 
+a-fail: You fail to change the weather as desired.
+a-fumble: The weather changes in an unanticipated way, determined by the GM but generally as contradictory to your true desires as possible (for instance, a terrible storm emerges when you would prefer good weather).
+a-hit: You change the weather as desired.
+created: 20200808155612544
+m-area: 2 mile radius circle centered on you
+m-components: 
+m-duration: 4d12 hours
+m-level: 8
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 day
+modified: 20200808155814623
+rit-pskill: Nature
+rit-pspre: M
+rit-secondaries: 1
+rit-sskill: Survival
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Evocation
+title: Control Weather
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+You alter the weather, making it calm and normal for the season or choosing up to two effects based on the season:
+
+* ''Spring'' drizzle, heat, hurricane, sleet, thunderstorm, tornado
+* ''Summer'' drizzle, downpour, extreme heat, hail, heat
+* ''Autumn'' cold weather, fog, mild heat, sleet
+* ''Winter'' blizzard, mild cold, extreme cold, thaw
+
+You can’t specifically control the manifestations, such as the exact path of a tornado or the targets of lightning strikes.
+
+''Heightened (9th)'' You can create unseasonable weather and contradictory weather effects, such as extreme cold and a hurricane. You can make the weather calm and normal weather for a different season or choose weather effects from any season’s list.
+
+{{||ActionSuccessTable}}

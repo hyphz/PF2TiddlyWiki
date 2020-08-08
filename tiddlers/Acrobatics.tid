@@ -1,5 +1,5 @@
 created: 20200630093124108
-modified: 20200725141523525
+modified: 20200808160534209
 skill-stat: Dexterity
 tags: Skill
 title: Acrobatics
@@ -14,3 +14,6 @@ When you use the [[Escape]] basic action, you can use your Acrobatics modifier i
 {{||SkillActionList}}
 
 {{||SkillFeatList}}
+
+{{||SkillRitualList}}
+

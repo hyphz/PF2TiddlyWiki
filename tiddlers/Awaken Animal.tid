@@ -1,0 +1,56 @@
+a-crit: The target’s [[Intelligence]], [[Wisdom]], and [[Charisma]] modifiers each increase to +2 if they were lower, and it becomes [[Helpful]] to you for awakening it.
+a-defense: 
+a-fail: You fail to awaken the target.
+a-fumble: You accidentally awaken the target with a pure bestial hatred toward you. The target’s Intelligence, Wisdom, and Charisma modifiers increase to –2 if they were worse. It becomes [[Hostile]] to you, attempting to destroy you.
+a-hit: The target’s Intelligence, Wisdom, and Charisma modifiers increase to +0 if they were worse and it becomes [[Friendly]] to you for awakening it.
+created: 20200808152041243
+m-area: 
+m-components: 
+m-duration: 
+m-level: 6
+m-range: 10 feet
+m-save: 
+m-targets: 1 animal up to the approriate level
+m-time: 1 day
+modified: 20200808152558384
+rit-pskill: Nature
+rit-pspre: M
+rit-secondaries: 3
+rit-sskill: Lore Society Survival
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Divination Mental
+title: Awaken Animal
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' Herbs based on the level of the animal:
+
+| !Creature Level | !Spell Level | !Cost (gp) |
+|-1 or 0 |2 |3 |
+|1 |2 |12 |
+|2 |3 |21 |
+|3 |3 |36 |
+|4 |4 |60 |
+|5 |4 |96 |
+|6 |5 |150 |
+|7 |5 |216 |
+|8 |6 |300 |
+|9 |6 |420 |
+|10 |7 |600 |
+|11 |7 |840 |
+|12 |8 |1200 |
+|13 |8 |1800 |
+|14 |9 |2700 |
+|15 |9 |3400 |
+|16 |10 |6000 |
+|17 |10 |9000 |
+
+You grant intelligence to the target, transforming it into a <<tag Beast>>.
+
+If it was previously an animal companion or minion, it can no longer serve as one.
+
+{{||ActionSuccessTable}}

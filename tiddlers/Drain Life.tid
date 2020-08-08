@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200807182309575
+modified: 20200808163022395
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncomon Necromancy Negative Sorcerer
+tags: Spell Somatic Manipulate [[Focus Spell]] Necromancy Negative Sorcerer Uncommon
 title: Drain Life
 type: text/vnd.tiddlywiki
 

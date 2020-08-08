@@ -1,0 +1,34 @@
+a-crit: Completely spoil the crop yield in the area, or decrease the yield by half in an area with up to a 1-mile radius.
+a-defense: 
+a-fail: The ritual has no effect.
+a-fumble: The flora in the area changes in an unexpected way, determined by the GM but generally as contradictory to your true desires as possible (for instance, enriching crops when you would prefer to blight them).
+a-hit: Decease the crop yield in the area by half.
+created: 20200808152826791
+m-area: 1/2-mile-radius (2640 feet) circle centred on you
+m-components: 
+m-duration: 1 year
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 day
+modified: 20200808153026285
+rit-pskill: Nature
+rit-pspre: E
+rit-secondaries: 1
+rit-sskill: Survival
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Necromancy Negative Plant
+title: Blight
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+You twist and stunt plants in the area, causing them to wither. In addition to other dangers from failing plant life, this decreases the crop yield for farms. 
+
+If you cast this ritual in an area affected by [[Plant Growth]], blight attempts to [[Counteract]] plant growth instead of producing its usual effect.
+
+{{||ActionSuccessTable}}

@@ -1,5 +1,5 @@
 created: 20200630143757420
-modified: 20200712162629642
+modified: 20200808160657189
 skill-stat: Wisdom
 tags: Skill
 title: Nature
@@ -12,3 +12,5 @@ You know a great deal about the natural world, and you command and train animals
 {{||SkillActionList}}
 
 {{||SkillFeatList}}
+
+{{||SkillRitualList}}

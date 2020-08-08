@@ -1,5 +1,5 @@
 created: 20200630145014223
-modified: 20200720220302257
+modified: 20200808161031392
 skill-stat: Intelligence
 tags: Skill
 title: Society
@@ -12,4 +12,6 @@ You understand the people and systems that make civilization run, and you know t
 {{||SkillActionList}}
 
 {{||SkillFeatList}}
+
+{{||SkillRitualList}}
 

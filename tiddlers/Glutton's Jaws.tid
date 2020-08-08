@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808133949626
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200808134034960
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Necromancy Sorcerer
+title: Glutton's Jaws
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your mouth transforms into a shadowy maw bristling with pointed teeth. 
+
+These jaws are an [[Unarmed]] attack with the [[Forceful]] trait dealing 1d8 piercing damage. 
+
+If you hit with your jaws and deal damage, you gain 1d6 temporary Hit Points.
+
+''Heightened (+2)'' The temporary Hit Points increase by 1d6.

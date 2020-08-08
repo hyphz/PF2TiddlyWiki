@@ -1,0 +1,28 @@
+a-crit: The target becomes [[Sickened]] 2 and [[Slowed]] 1 as long as it's sickened.
+a-defense: AC
+a-fail: The target becomes [[Sickened]] 1.
+a-fumble: 
+a-hit: The target becomes [[Sickened]] 1.
+created: 20200808141753007
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 living creature
+m-time: 
+modified: 20200808142033839
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Arcane Attack Necromancy Wizard
+title: Call of the Grave
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fire a ray of sickening energy. Make a spell attack roll.
+
+{{||ActionSuccessTable}}

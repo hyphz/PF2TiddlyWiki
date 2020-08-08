@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808170440521
+m-area: 
+m-components: 
+m-duration: 
+m-level: 6
+m-range: 100 miles
+m-save: 
+m-targets: 1 animal, beast, fey, fungus or plant
+m-time: 1 day
+modified: 20200808170614644
+rit-pskill: Nature
+rit-pspre: M
+rit-secondaries: 4
+rit-sskill: Crafting Diplomacy Survival
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Abjuration Conjuration
+title: Primal Call
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' Faerie circle ingredients worth a total value of 1 gp times the spell level times the target’s level.
+
+This functions as [[Planar Ally]] except you craft a faerie circle and call an <<tag Animal>>, <<tag Beast>>, <<tag Fey>>, <<tag Fungus>>, or <<tag Plant>> from within 100 miles.
+
+

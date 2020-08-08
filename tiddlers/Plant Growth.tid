@@ -1,0 +1,37 @@
+a-crit: Double the crop yield in the area, or increase the area to a 1-mile radius.
+a-defense: 
+a-fail: The ritual has no effect.
+a-fumble: The flora in the area changes in an unanticipated way, determined by the GM but generally as contradictory to your true desires as possible (for instance, blighting crops when you would prefer to enrich them).
+a-hit: Increase the crop yield in the area by one-third.
+created: 20200808170053344
+lore-mention: Farming
+m-area: 1/2 mile radius circle centered on you
+m-components: 
+m-duration: 1 year
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 day
+modified: 20200808170413677
+rit-pskill: Nature
+rit-pspre: E
+rit-secondaries: 1
+rit-sskill: [[Farming Lore]] Survival
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Necromancy Plant Positive
+title: Plant Growth
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+You cause the plants within the area to be healthier and more fruitful. 
+
+In addition to other benefits of healthy plants, this increases the crop yield for farms, depending on your success.
+
+If you cast it in the area of a [[Blight]], plant growth attempts to [[Counteract]] the blight instead of producing its usual effect.
+
+{{||ActionSuccessTable}}

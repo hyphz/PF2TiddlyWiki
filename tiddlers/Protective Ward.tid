@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808145504640
+m-area: 5 foot radius [[Emanation]] centered on you
+m-components: Somatic
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-sustain_a_spell: Increases radius by 5 foot.
+modified: 20200808145631334
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]]
+title: Protective Ward
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You emanate a shimmering aura of protective magic. 
+
+You and any allies in the area gain a +1 status bonus to [[AC]]. 
+
+Each time you [[Sustain the Spell|Sustain a Spell]], the emanation’s radius increases by 5 feet, to a maximum of 30 feet.

@@ -1,0 +1,42 @@
+a-crit: The consecration succeeds, and it either lasts for 10 years instead of 1 or covers an area with twice the radius. Occasionally, with your deity’s favor, this might produce an even more amazing effect, such as a permanently consecrated area or the effect covering an entire cathedral.
+a-defense: 
+a-fail: The consecration fails.
+a-fumble: The consecration fails spectacularly and angers your deity, who sends a sign of displeasure. For at least 1 year, further attempts to consecrate the site fail.
+a-hit: The consecration succeeds.
+created: 20200808154346948
+m-area: 40 foot radius [[Burst]] around an immobile altar, shrine, or fixture of your deity
+m-components: 
+m-duration: 1 year
+m-level: 2
+m-range: 40 feet
+m-save: 
+m-targets: 
+m-time: 3 days
+modified: 20200808154719940
+rit-pskill: Religion
+rit-pspre: U
+rit-secondaries: 2
+rit-sskill: Crafting Performance
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Consecration Evocation
+title: Consecrate
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' Rare incense and offerings worth a total value of 20 gp times the spell level.
+
+Secondary casters must be worshippers of your religion.
+
+You consecrate a site to your deity, chanting praises and creating a sacred space. 
+
+While within the area, worshippers of your deity gain a +1 status bonus to attack rolls, skill checks, saving throws, and [[Perception]] checks, and creatures anathema to your deity take a –1 status penalty to those checks. 
+
+Attacks made by worshippers of your deity within the area deal 1 damage of one of your deity’s alignment types (your choice); if your deity is true neutral, you don’t gain this benefit.
+
+{{||ActionSuccessTable}}
+
+''Heightened (7th)'' The consecrated area also gains the effects of the [[Dimensional Lock]] spell, but the effect doesn’t attempt to counteract teleportation by worshippers of your deity. The cost increases to 200 gp times the spell level.

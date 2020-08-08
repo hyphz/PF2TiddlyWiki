@@ -12,7 +12,8 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200720211834494
+modified: 20200808142622668
+modtag-teleportation: Attempts to counter on target.
 s-crit: The target is unaffected.
 s-fail: The effect's duration is 10 minutes.
 s-fumble: The effect's duration is 1 hour.

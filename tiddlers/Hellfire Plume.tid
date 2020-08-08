@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808134444256
+m-area: 10 foot radius, 60 foot tall cylinder
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 60 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200808134549685
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evil Evocation Fire Sorcerer
+title: Hellfire Plume
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a plume of hellfire that erupts from below, dealing 4d6 <<tag Fire>>damage and 4d6 <<tag Evil>> damage //with a basic [[Reflex]] save//.
+
+''Heightened (+1)'' The fire damage increases by 1d6, and the evil damage increases by 1d6.

@@ -12,7 +12,8 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200720212207294
+modified: 20200808154759380
+modtag-teleportation: Attempts to counter effects.
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -25,4 +26,4 @@ type: text/vnd.tiddlywiki
 
 You create a shimmering barrier that attempts to [[Counteract]] <<tag Teleportation>>effects and planar travel into or out of the area, including items that allow access to extradimensional spaces (such as a [[Bag of Holding]]. 
 
-Dimensional lock tries to [[Counteract]] any attempt to <<tag Summon>>a creature into the area but doesn’t stop the creature from departing when the summoning ends.
+Dimensional lock tries to [[Counteract]] any attempt to summon a creature into the area but doesn’t stop the creature from departing when the summoning ends.

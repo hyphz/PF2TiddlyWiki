@@ -1,5 +1,5 @@
 created: 20200630144920733
-modified: 20200712162701866
+modified: 20200808160932919
 skill-stat: Wisdom
 tags: Skill
 title: Religion
@@ -14,3 +14,5 @@ You also understand how magic works, though your training imparts a religious sl
 {{||SkillActionList}}
 
 {{||SkillFeatList}}
+
+{{||SkillRitualList}}

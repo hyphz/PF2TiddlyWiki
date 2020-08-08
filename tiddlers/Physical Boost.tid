@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808145233295
+m-area: 
+m-components: Verbal
+m-duration: Until the end of the target's next turn
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 living creature
+m-time: 
+mod-acrobatics: +2 status to one check.
+mod-athletics: +2 status to one check.
+mod-fortitude: +2 status to one check.
+mod-reflex: +2 status to one check.
+modified: 20200808145407553
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Transmutation Wizard
+title: Physical Boost
+turn-etn: Wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You temporarily improve the target’s physique. 
+
+The target gains a +2 status bonus to the next [[Acrobatics]] check, [[Athletics]] check, [[Fortitude]] save, or [[Reflex]] save it attempts.

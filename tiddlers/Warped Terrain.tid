@@ -1,0 +1,35 @@
+a-actions: 1
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808150302289
+m-area: 5 foot [[Burst]] or more
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200808150421471
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Illusion Visual Wizard
+title: Warped Terrain
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create illusory hazards that cover all surfaces in the area (typically the ground). 
+
+Any creature moving through the illusion treats the squares as [[Difficult Terrain]]. 
+
+A creature can attempt to disbelieve the effect as normal after using a [[Seek]] action or otherwise spending actions interacting with the illusion. If it successfully disbelieves, it ignores the effect for the remaining duration. 
+
+For each additional action you use casting the spell, the burst’s radius increases by 5 feet, to a maximum of 10 extra feet for 3 actions.
+
+''Heightened (4th)'' You can make the illusion appear in the air rather than on a surface, causing it to function as difficult terrain for flying creatures.

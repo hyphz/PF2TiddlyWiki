@@ -1,0 +1,19 @@
+created: 20200808151100053
+modified: 20200808151610709
+tags: 
+title: RitualSummaryTable
+type: text/vnd.tiddlywiki
+
+<table>
+<tr><th>Level</th><td>{{!!m-level}}</td></tr>
+<tr><th>Cast Time</th><td>{{!!m-time}}</td></tr>
+<tr><th>Range</th><td>{{!!m-range}}</td></tr>
+<tr><th>Area</th><td>{{!!m-area}}</td></tr>
+<tr><th>Target</th><td>{{!!m-targets}}</td></tr>
+<tr><th>Duration</th><td>{{!!m-duration}}</td></tr>
+<tr><th>Secondary Casters</th><td>{{!!rit-secondaries}}</td></tr>
+<tr><th>Primary Checks</th><td><<spacedlist "[list[!!rit-pskill]]">></td></tr>
+<tr><th>Secondary Checks</th><td><<spacedlist "[list[!!rit-sskill]]">></td></tr>
+<tr><th>Primary Skill Proficiency</th><td>{{!!rit-pspre}}</td></tr>
+</table>
+

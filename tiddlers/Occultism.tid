@@ -1,5 +1,5 @@
 created: 20200630143949113
-modified: 20200720220254700
+modified: 20200808161106545
 skill-stat: Intelligence
 tags: Skill
 title: Occultism
@@ -12,3 +12,6 @@ You know a great deal about ancient philosophies, esoteric lore, obscure mystici
 {{||SkillActionList}}
 
 {{||SkillFeatList}}
+
+{{||SkillRitualList}}
+

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808144254824
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature or object
+m-time: 
+modified: 20200808144351485
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Evocation Force Wizard
+title: Force Bolt
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fire an unerring dart of force from your fingertips. 
+
+It automatically hits and deals 1d4+1 <<tag Force>> damage to the target.
+
+''Heightened (+2)'' The damage increases by 1d4+1.

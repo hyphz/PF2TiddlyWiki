@@ -1,0 +1,36 @@
+a-crit: You free the target from all magical effects imprisoning it, petrifying it, or putting it into stasis. It gains a +1 status bonus to saving throws to resist those same magical effects for 1 week.
+a-defense: 
+a-fail: You fail to free the target.
+a-fumble: The magical effects imprisoning the target, petrifying the target, or putting it into stasis affect you and all secondary casters.
+a-hit: You free the target from all magical effects imprisoning it, petrifying it, or putting it into stasis.
+created: 20200808161503432
+m-area: 
+m-components: 
+m-duration: 
+m-level: 8
+m-range: 
+m-save: 
+m-targets: 1 creature
+m-time: 1 day
+modified: 20200808162106558
+rit-pskill: Arcana Occultism
+rit-pspre: L
+rit-secondaries: 2
+rit-sskill: Society
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Abjuration
+title: Freedom (Ritual)
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+You perform a ritual to free a creature imprisoned, [[Petrified]], or otherwise put into stasis by any magical effects from all such effects, even effects like [[Imprisonment]] that don’t have a duration, as long as freedom’s spell level is equal to or higher than the effect’s spell level. 
+
+To perform the ritual, you must be within 10 feet of the target, or within 10 feet of the place where the target was imprisoned (in the case of effects that trap the creature in an unreachable prison, like the oubliette form of imprisonment). 
+
+You must know the name of the creature and details of its background; if the creature is not a close associate, a failure or critical failure on a secondary Society check reduces even a critical success on the primary check to a failure.
+
+{{||ActionSuccessTable}}

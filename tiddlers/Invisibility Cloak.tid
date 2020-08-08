@@ -1,0 +1,31 @@
+a-actions: 2
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808144555798
+m-area: 
+m-components: Somatic
+m-duration: 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200808144655699
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Illusion Wizard
+title: Invisibility Cloak
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You become [[Invisible]], with the same restrictions as the 2nd-level [[Invisibility]] spell.
+
+''Heightened (6th)'' The duration increases to 10 minutes.
+
+''Heightened (8th)'' The duration increases to 1 hour.

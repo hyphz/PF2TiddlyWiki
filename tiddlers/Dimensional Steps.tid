@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808142441289
+m-area: 
+m-components: Somatic
+m-duration: 
+m-level: 4
+m-range: 20 feet
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200808142529397
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Conjuration Teleportation Wizard
+title: Dimensional Steps
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You teleport to a location up to 20 feet away within your line of sight.
+
+''Heightened (+1)'' The distance you can teleport increases by 5 feet.

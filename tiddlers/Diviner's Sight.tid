@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808143028125
+m-area: 
+m-components: Verbal
+m-duration: Until the end of your next turn
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] living creature
+m-time: 
+modified: 20200808143221677
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Fortune Wizard
+title: Diviner's Sight
+turn-eun: Wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You glimpse into the target’s future. 
+
+Roll a d20; when the target attempts a non-<<tag Secret>> saving throw or skill check, it can use the number you rolled instead of rolling, and the spell ends.
+
+Alternatively, you can instead reveal the result of the die roll for one of the target’s secret checks during the duration, and the spell ends. 
+
+Casting it again ends any active diviner’s sight you have cast, as well as any active diviner’s sight on the target.

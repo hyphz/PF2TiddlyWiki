@@ -1,5 +1,5 @@
 created: 20200630143030975
-modified: 20200720220228376
+modified: 20200808161008068
 skill-stat: Intelligence
 tags: Skill
 title: Crafting
@@ -13,3 +13,4 @@ You can use this skill to create, understand, and repair items.
 
 {{||SkillFeatList}}
 
+{{||SkillRitualList}}

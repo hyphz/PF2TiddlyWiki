@@ -1,5 +1,5 @@
 created: 20200630093249875
-modified: 20200720220215647
+modified: 20200808160950444
 skill-stat: Intelligence
 tags: Skill
 title: Arcana
@@ -12,3 +12,5 @@ Arcana measures how much you know about arcane magic and creatures.
 {{||SkillActionList}}
 
 {{||SkillFeatList}}
+
+{{||SkillRitualList}}

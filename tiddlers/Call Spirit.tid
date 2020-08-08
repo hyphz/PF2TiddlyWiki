@@ -1,0 +1,44 @@
+a-crit: The spirit is particularly cooperative, and even if it has strong reasons to deceive you, it takes a –2 circumstance penalty to its [[Deception]] checks.
+a-defense: 
+a-fail: You fail to call a spirit.
+a-fumble: One or more evil spirits appear and attack.
+a-hit: You call the spirit.
+created: 20200808153304642
+m-area: 
+m-components: 
+m-duration: Up to 10 minutes
+m-level: 5
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 1 hour
+modified: 20200808153627539
+rit-pskill: Occultism Religion
+rit-pspre: E
+rit-secondaries: 1
+rit-sskill: Occultism Religion
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Necromancy
+title: Call Spirit
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' Rare candles and incense worth a total value of 50 gp.
+
+The secondary caster must use a different skill to the primary caster.
+
+You tear the veil to the afterlife and call a spirit from its final resting place. 
+
+You must call the spirit by name, and you must provide a connection to the spirit, such as a possession, a garment, or a piece of its corpse. 
+
+A spirit unwilling to heed your call can attempt a [[Will]] save to avoid it; on a critical success, a trickster spirit [[Impersonate]]s the spirit you meant to call. The DC of the [[Will]] save is 2 lower if you haven’t met the spirit in life.
+
+Either way, the spirit appears as a wispy form of the creature you meant to call. Each minute of the duration, you can ask the spirit a question. It can answer how it pleases or even refuse to answer. 
+
+If the spirit isn’t in the afterlife (such as if it’s an undead), all results other than critical failures use the failure effect.
+
+{{||ActionSuccessTable}}

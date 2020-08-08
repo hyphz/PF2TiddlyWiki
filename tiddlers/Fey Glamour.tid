@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808133805540
+m-area: 30 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: Up to 10 creatures
+m-time: 
+modified: 20200808133914834
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Illusion Sorcerer
+title: Fey Glamour
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon fey glamours to cloak an area or the targets in illusion. 
+
+This has the effect of either [[Illusory Scene]] on the area or [[Veil]] on the creatures, as if heightened to a level 1 level lower than fey glamour, using fey glamour’s range and duration.

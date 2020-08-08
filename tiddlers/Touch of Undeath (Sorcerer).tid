@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200808140359853
+m-area: 
+m-components: Somatic
+m-duration: 1 minute
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 living creature touched
+m-time: 
+mod-harm: Fully affected creature is always healed as undead.
+modified: 20200808140716681
+s-crit: The target is unaffected.
+s-fail: For the duration, [[Harm]] spells treat the creature as undead and [[Heal]] spells treat the creature as living. In addition, [[Harm]] spells gain a +2 status bonus to the Hit Points restored to the target.
+s-fumble: 
+s-hit: The target heals half as much from [[Heal]] and takes half as much damage from [[Harm]] for 1 round.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Necromancy Negative Sorcerer
+title: Touch of Undeath (Sorcerer)
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You instill within a creature the touch of the grave. 
+
+If the target wishes to avoid the spell, it can attempt a [[Will]] save to reduce the effects. //If it doesn't want to save, it gets the failure effect.//
+
+''Heightened (+1)'' The status bonus to the Hit Points restored increases by 2.
+
+{{||SaveSuccessTable}}
