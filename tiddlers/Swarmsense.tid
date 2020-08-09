@@ -1,0 +1,42 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809210657354
+m-area: 
+m-components: Somatic Verbal
+m-domain: Swarm
+m-duration: [[Sustained|Sustain a Spell]]
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 minute
+mod-sustain_a_spell: Move swarm on sustain.
+modified: 20200809211229848
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Divination
+title: Swarmsense
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You extend your senses through a multitude of crawling and flying creatures. 
+
+You create a crawling swarm in your square.
+
+You can hear through the swarm as if using your normal auditory senses. 
+
+The first time you [[Sustain the Spell|Sustain a Spell]] each round, you can move the swarm 10 feet along the ground in any direction. 
+
+The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell.
+
+''Heightened (3rd)'' The swarm has the benefits of [[Spider Climb]].
+
+''Heightened (5th)'' The swarm has a fly Speed of 10 feet. You can see through the swarm using your visual senses.
+
+''Heightened (7th)'' The swarm gains a 10-foot status bonus to its Speeds.

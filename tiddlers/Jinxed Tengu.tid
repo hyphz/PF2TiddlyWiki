@@ -1,9 +1,8 @@
 created: 20200801215042627
 mod-doomed: Make DC 17 flat check to reduce gained doomed level by 1.
-mod-fortitude: Promote successes vs curse or misfortune.
-mod-reflex: Promote successes vs curse or misfortune.
-mod-will: Promote successes vs curse or misfortune.
-modified: 20200801215157446
+modified: 20200809204608111
+modtag-curse: Promote successes on saves.
+modtag-misfortune: Promote successes on saves.
 tags: Heritage Tengu
 title: Jinxed Tengu
 type: text/vnd.tiddlywiki

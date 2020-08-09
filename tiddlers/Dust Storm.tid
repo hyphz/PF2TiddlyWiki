@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809185425986
+m-area: 20 foot radius [[Burst]]
+m-components: Somatic Verbal
+m-domain: Dust
+m-duration: 1 minute
+m-level: 4
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200809185733580
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Air Conjuration Nonlethal
+title: Dust Storm
+turn-stn: Creatures in storm take damage.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a swirling storm of dust. 
+
+The dust storm obscures vision, with the effect of [[Obscuring Mist]]. //(All creatures within the mist become [[Concealed]], and all creatures outside the mist become concealed to creatures within it.)// 
+
+The dust also makes the air unbreathable; creatures in the area must [[hold their breath|Drowning]], though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath to 5 rounds. 
+
+Creatures entering or starting their turn in the dust storm take 1d6 slashing damage. Creatures that have the <<tag Water>> trait or that are made primarily of liquid take double damage.
+
+''Heightened (+2)'' The damage increases by 1d6.

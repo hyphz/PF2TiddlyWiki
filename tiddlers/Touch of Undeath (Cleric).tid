@@ -6,13 +6,14 @@ a-hit:
 created: 20200806174125870
 m-area: 
 m-components: Somatic
+m-domain: Undeath
 m-duration: 
 m-level: 1
 m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200808140355210
+modified: 20200809213229569
 modtag-positive: Failing target healing reduced by half.
 s-crit: The target is unaffected.
 s-fail: The target takes full damage, and positive effects heal it only half as much as normal for 1 round.

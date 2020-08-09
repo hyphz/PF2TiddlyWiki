@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809212705332
+m-area: 
+m-components: Verbal
+m-domain: Void
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200809212751916
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Abjuration Mental
+title: Empty Inside
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. 
+
+Attempt a [[Counteract]] check against one <<tag Emotion>> effect affecting you.
+
+''Heightened (5th)'' You can attempt counteract checks against any number of emotion effects affecting you.

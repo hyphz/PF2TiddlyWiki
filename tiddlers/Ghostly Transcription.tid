@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809191144324
+m-area: 
+m-components: Somatic Material
+m-domain: Glyph
+m-duration: 1 minute
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200809191344586
+modtag-auditory: Can replace auditory with visual.
+modtag-verbal: Can enable verbal components in silence.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Material
+title: Ghostly Transcription
+type: text/vnd.tiddlywiki
+virtual-tags: Visual
+
+{{||SpellSummaryTable}}
+
+Glowing letters assemble in the air, providing a transcription of the target’s speech in all languages you speak. 
+
+For the spell’s duration, any words spoken aloud by the target are spelled out in letters in front of them. 
+
+When you Cast the Spell, you can choose whether these letters are visible to all creatures or only certain creatures you specify. 
+
+Any words the target mouths silently are similarly spelled out, allowing the target to communicate silently or in areas where sound doesn’t carry. This even allows the target to provide verbal casting components in such areas, but only if you choose to make the letters visible to all creatures. 
+
+Furthermore, any of the target’s <<tag Auditory>> abilities can affect creatures even in areas where sound does not carry as long as you have made the glyphs visible to them and they have line of sight to the target; in this case, they gain the <<tag Visual>> trait. 
+
+You can [[Dismiss]] the spell.

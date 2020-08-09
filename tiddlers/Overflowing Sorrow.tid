@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809195741750
+m-area: 15 foot [[Emanation]] centered on you
+m-components: Somatic Verbal
+m-domain: Sorrow
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 4
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200809200010502
+modtag-emotion: May disrupt action on flat check or crit fail.
+s-crit: The creature is unaffected.
+s-fail: While the creature is in the area, any <<tag Emotion>> effects of lower counteract level than overflowing sorrow are suppressed, and whenever the creature attempts to use an emotion action or cast an emotion spell, it must succeed at a DC 11 flat check or the action or spell is disrupted.
+s-fumble: As failure, but the creature cannot use emotion actions or spells.
+s-hit: The creature takes a –1 status penalty to skill checks and [[Perception]] checks as long as it remains in the area.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Emotion Enchantment Incapacitation Mental
+title: Overflowing Sorrow
+turn-btn: Must make Will save in area.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Sadness flows out of you into nearby creatures, blotting out any other thoughts they had. 
+
+The first time a creature begins its turn in the area or enters the area, it must attempt a [[Will]] save. If it later leaves and reenters the area, it uses the same effect as before.
+
+''Heightened (+2)'' When you Cast the Spell, you can choose to increase the area by 5 feet.
+
+{{||SaveSuccessTable}}

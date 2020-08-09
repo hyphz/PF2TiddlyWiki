@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809190948129
+m-area: 
+m-components: Somatic Material
+m-domain: Glyph
+m-duration: 1 day
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: Unattended written materials of up to 1 Bulk or less
+m-time: 
+modified: 20200809191127733
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Transmutation Material
+title: Redact
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You strike mention of a specific name from one or more documents. 
+
+When you cast the spell, give one proper name, be it a creature, location, or object. Any mention of that name within the document becomes blurred, smudged, or otherwise completely illegible. 
+
+Epithets and unambiguous references to the name are redacted as well; for instance, redacting the name of //a goddess// from a book would also remove references to her title.
+
+''Heightened (3rd)'' Instead of striking out a given name, you can replace it with a different name you choose. Epithets and references are substituted with similar ones relating to the replacement name. Anyone reading the text can attempt a [[Perception]] or [[Society]] check against your spell DC to notice the altered text, though that doesn’t tell them what the original said.
+
+''Heightened (4th)'' At your choice, the duration is unlimited.

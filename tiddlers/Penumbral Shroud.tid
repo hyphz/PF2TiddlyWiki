@@ -12,10 +12,8 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-mod-fortitude: +1 status vs Light.
-mod-reflex: +1 status vs Light.
-mod-will: +1 status vs Light.
-modified: 20200805230621174
+modified: 20200809204405789
+modtag-light: +1 status on saves.
 s-crit: The target is unaffected.
 s-fail: The effect lasts its normal duration.
 s-fumble: 

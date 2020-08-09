@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200809193937428
+modified: 20200809194018115
+tags: Action Attack Electricity Implied
+title: Unbottle the Storm
+type: text/vnd.tiddlywiki
+
+//Implied by [[Bottle the Storm]].//
+
+If you successfully prevent damage in this way, at any time during the spell’s duration, you can spend a single action, which has the Attack trait, to expend the charge and make a melee spell attack at an adjacent target or a ranged spell attack at a target within 60 feet.
+
+This attack deals electricity damage equal to the damage prevented by bottle the storm. 

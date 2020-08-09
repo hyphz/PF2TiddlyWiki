@@ -12,10 +12,11 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-mod-fortitude: Gives +4 status vs mental effects.
-mod-reflex: Gives +4 status vs mental effects.
-mod-will: Gives +4 status vs mental effects.
-modified: 20200806182646596
+modified: 20200809204320988
+modtag-detection: Attempts to counter on target.
+modtag-mental: +4 status on saves.
+modtag-revelation: Attempts to counter on target.
+modtag-scrying: Attempts to counter on target.
 s-crit: 
 s-fail: 
 s-fumble: 

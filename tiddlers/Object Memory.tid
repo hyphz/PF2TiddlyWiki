@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809212329078
+m-area: 
+m-components: Somatic Verbal
+m-domain: Vigil
+m-duration: 1 minute
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 weapon or tool
+m-time: 
+modified: 20200809212437503
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Divination
+title: Object Memory
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+By touching an object, you draw forth the experience of those who created and used it. 
+
+If you touch a weapon, your proficiency rank with that weapon temporarily increases to trained (if it is not already higher). 
+
+If you touch a tool, your proficiency rank with the next skill check you attempt with that tool (such as a [[Crafting]] check with a blacksmith’s hammer) within the spell’s duration temporarily increases to trained (if it is not already higher). 
+
+This spell has no benefit for activities that take longer than a minute to complete.
+
+''Heightened (6th)'' Your proficiency rank increases to expert instead of trained.

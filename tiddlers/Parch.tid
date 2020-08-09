@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809185053787
+m-area: 
+m-components: Somatic Verbal
+m-domain: Dust
+m-duration: 
+m-level: 1
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200809185246014
+s-crit: The target is unaffected.
+s-fail: The target takes a –1 status penalty to its checks and DCs for 1 minute.
+s-fumble: The target takes a –2 status penalty to its checks and DCs for 1 minute and is [[Dazzled]] as long as it has this penalty.
+s-hit: The target takes a –1 status penalty to its checks and DCs for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Air Evocation
+title: Parch
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Dry winds dehydrate a creature. 
+
+The target must attempt a [[Fortitude]] save; if used on a creature with the <<tag Water>> trait or a creature made primarily of liquid (such as many oozes), the creature uses the outcome for one degree of success worse than the result. 
+
+Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to parch.
+
+If a creature affected by parch drinks a liquid, such as a swig of water or a potion, the spell ends. 
+
+Affected creatures that have the water trait or are made primarily of liquid, as well as affected creatures that can’t drink, can end the effect as a two-action activity, which has the <<tag Concentrate>> trait.
+
+''Heightened (4th)'' You can target up to 4 creatures.
+
+{{||SaveSuccessTable}}

@@ -3,8 +3,8 @@ feat-level: 1
 feat-skill: Medicine
 feat-spre: T
 mod-treat_disease: Recovered patient gets a bonus vs being re-infected.
-modified: 20200730004107152
-tags: General Healing Skill
+modified: 20200809211917164
+tags: General Healing Skill Feat
 title: Inoculation
 type: text/vnd.tiddlywiki
 

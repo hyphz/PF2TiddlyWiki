@@ -1,5 +1,5 @@
 created: 20200630150103358
-modified: 20200702143148805
+modified: 20200809212120367
 title: Skill
 type: text/vnd.tiddlywiki
 
@@ -19,9 +19,7 @@ The Skill trait is also used to indicate Skill Feats, which are as follows:
 <table>
 <tr><th>Skill Feat</th><th>Skill</th></tr>
 <$list filter = "[tag[Skill]tag[Feat]sort[]]">
-<$set name="skill" tiddler=<<currentTiddler>> field="feat-skill">
-<tr><td><$link to=<<currentTiddler>>/></td><td><$link to=<<skill>>/></td></tr>
-</$set>
+<tr><td><$link to=<<currentTiddler>>/></td><td><<spacedlist "[list[!!feat-skill]]">></td></tr>
 </$list>
 </table>
 

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809193518218
+m-area: 
+m-components: Somatic Verbal
+m-domain: Lightning
+m-duration: 
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 1 or more creatures
+m-time: 
+modified: 20200809193712237
+modtag-electricity: Target takes save penalty and attackers gain bonus.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Electricity Evocation
+title: Charged Javelin
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fire a javelin of electricity that leaves a charged field around its target. 
+
+Make a spell attack roll. 
+
+The javelin deals 1d6 electricity damage and 1 persistent electricity damage. //On a critical hit, // the javelin deals double damage, both initial and persistent.
+
+As long as the target is taking persistent damage from this spell, creatures gain a +1 status bonus to attack rolls with metal weapons or <<tag Electricity>> effects against the target, and the target takes a –1 status penalty to saves against <<tag Electricity>> effects.
+
+''Heightened (+1)'' The initial damage increases by 1d6, and the persistent damage increases by 1.

@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809183043404
+m-area: 
+m-components: Somatic
+m-domain: Change
+m-duration: 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200809183222461
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Abjuration
+title: Adaptive Ablation
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You take <<tag Acid>>, <<tag Cold>>, <<tag Fire>>, <<tag Electricity>>, or <<tag Sonic>> damage.
+
+You shift yourself to adapt to the mystical wavelengths of the energy damage, protecting yourself from further harm. 
+
+You gain resistance 5 to the triggering energy type; you gain this resistance after you take the triggering damage, so it applies only to future damage you take during the duration.
+
+''Heightened (+2)'' Increase the resistance by 5.

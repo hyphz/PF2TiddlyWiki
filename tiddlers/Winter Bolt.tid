@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809183249557
+m-area: 
+m-components: Somatic Verbal
+m-domain: Cold (Domain)
+m-duration: 
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: 1 creature or object
+m-time: 
+modified: 20200809183500320
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Attack Cold Evocation
+title: Winter Bolt
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fling a hollow icicle filled with winter’s wrath. 
+
+Make a spell attack against a target within range. 
+
+The bolt deals 1d8 piercing damage and lodges in the target. 
+
+At the end of the target’s next turn, the bolt shatters, releasing a whirl of snow and ice that deals 1d12 cold damage to the target and all adjacent creatures. 
+
+The bolt can be removed with an [[Interact]] action, which causes it to melt harmlessly without detonating.
+
+//If the spell attack is a critical success, the initial bolt does not deal extra damage, but// the bolt becomes especially well anchored, taking 2 Interact actions to remove; and the bolt’s explosion deals double damage.
+
+''Heightened (+1)'' The initial damage increases by 1d8 and the secondary damage increases by 1d12.

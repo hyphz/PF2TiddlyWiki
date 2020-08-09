@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809213647809
+m-area: 30 foot [[Emanation]]
+m-components: Somatic Verbal
+m-domain: Wyrmkin
+m-duration: 
+m-level: 4
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+mod-diplomacy: +10 circumstance vs dragons that hear the roar.
+modified: 20200809213850720
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Frightened]] 2.
+s-fumble: The creature is [[Frightened]] 3 and [[Fleeing]] for 1 round.
+s-hit: The creature is [[Frightened]] 1.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Auditory Emotion Enchantment Mental
+title: Roar of the Wyrm
+type: text/vnd.tiddlywiki
+virtual-tags: Fear
+
+{{||SpellSummaryTable}}
+
+You channel the might of dragons into your voice, letting out a roar that engenders respect in dragonkind but that instills fear in most other creatures. 
+
+The impressive roar grants you a +2 circumstance bonus to [[Diplomacy]] checks for 10 minutes against dragons that were in the area at the time of casting.
+
+All enemies within the area other than dragons must attempt a [[Will]] save; to these enemies, roar of the wyrm is a fear effect.
+
+{{||SaveSuccessTable}}
+
+Roar of the wyrm affects non-dragon creatures with deep ties to dragonkind (such as a barbarian with the draconic instinct, a sorcerer with the draconic bloodline, or a member of a culture that reveres dragons) as if they had the dragon trait. The GM decides if a creature is aligned enough with dragonkind to be affected in this way.

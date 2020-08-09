@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809182847033
+m-area: 
+m-components: Somatic Verbal
+m-domain: Change
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200809183011653
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Morph Transmutation
+title: Adapt Self
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You make subtle changes to yourself to adapt to the situation. Choose one of the following options that applies to you.
+
+* If you are in water, you gain a swim Speed equal to half your Speed.
+* If you are in water, you become able to breathe water.
+* If it’s too dark for you to see, you gain [[Darkvision]].
+* If you are in an environment of severe heat or severe cold, you are protected from the effects of severe heat or severe cold, and the spell lasts 10 minutes.

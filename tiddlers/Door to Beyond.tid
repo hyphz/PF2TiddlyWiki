@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809212803793
+m-area: 20 foot [[Emanation]]
+m-components: Somatic Verbal
+m-domain: Void
+m-duration: 1 minute
+m-level: 4
+m-range: 5 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200809213022782
+s-crit: 
+s-fail: The creature is pulled 10 feet toward the door.
+s-fumble: The creature is pulled 20 feet toward the door.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Conjuration
+title: Door to Beyond
+turn-etc: Creatures on door take damage.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality. Air rushes through the cracks, drawing Large or smaller creatures and objects of light Bulk or less toward the center. 
+
+Large or smaller creatures in the area must attempt a [[Fortitude]] save at the start of their turn; creatures that move into the area must attempt the save on entering.
+
+{{||SaveSuccessTable}}
+
+The cracks of the door to beyond are too thin for anything to fully slip through, but decompressive effects deal 4d6 slashing damage to any creature or object that ends its turn in the door’s space. 
+
+You are unaffected by your own door to beyond. 
+
+You can [[Dismiss]] the spell.
+
+''Heightened (+1)'' The damage increases by 1d6.

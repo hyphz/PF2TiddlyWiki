@@ -6,14 +6,14 @@ a-hit:
 created: 20200806181504257
 m-area: 
 m-components: Verbal
-m-domain: Freedom
+m-domain: Freedom (Domain)
 m-duration: 1 round
 m-level: 4
 m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200806181643804
+modified: 20200809215440020
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809185749419
+m-area: 
+m-components: Verbal
+m-domain: Duty
+m-duration: 1 hour
+m-level: 1
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200809185946477
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Free Conjuration
+title: Oathkeeper's Insignia
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A magical indicator assures a creature that you’ve upheld your end of a bargain. 
+
+When you Cast the Spell, you create a bracelet, flower, or other such trinket. 
+
+If, while the spell persists, you complete the terms of the promise or deal you made, the trinket fades away with a pleasant chime; if you violate the terms instead, the trinket breaks with a dissonant crash.
+
+''Heightened (3rd)'' The duration becomes 1 day.
+
+''Heightened (5th)'' The duration becomes 1 week.
+
+''Heightened (7th)'' The duration becomes 1 month.
+
+''Heightened (9th)'' The duration becomes 1 year.

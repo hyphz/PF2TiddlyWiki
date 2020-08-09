@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809195603482
+m-area: 30 foot [[Cone]]
+m-components: Somatic Verbal
+m-domain: Sorrow
+m-duration: 
+m-level: 1
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20200809195710491
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Auditory Emotion Enchantment Mental
+title: Lament
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You let out your negative emotions in a guttural wail that shakes your enemies’ hearts and deals 1d8 mental damage (basic [[Will]] save). 
+
+If you have any harmful conditions imposed by <<tag Emotion>> effects, lament deals additional mental damage equal to the [[Counteract]] level of the highest-level effect.
+
+''Heightened (+1)'' The damage increases by 1d8.

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809194533807
+m-area: 
+m-components: Somatic Verbal
+m-domain: Plague
+m-duration: 1 minute
+m-level: 4
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature affected by a [[Disease]]
+m-time: 
+modified: 20200809194834655
+s-crit: The target receives the benefit of a successful save against the lowest-level disease affecting it.
+s-fail: One randomly chosen disease affecting the target fills the air in a 15-foot [[Emanation]] centered on the target. For the spell’s duration, any creature that enters or ends its turn within the area is exposed to that disease.
+s-fumble: As failure, except the miasma contains all the diseases affecting the target.
+s-hit: The target is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]]
+title: Foul Miasma
+turn-etc: Creatures inside miasma suffer disease exposure.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You multiply the disease within a creature, drawing it into an infectious mist outside their body where it can spread to other creatures. 
+
+The target must attempt a [[Will]] save. 
+
+If the target is [[Willing]], it can choose to take the effects of critical failure.
+
+{{||SaveSuccessTable}}

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809195302349
+m-area: 15 foot [[Emanation]]
+m-components: Somatic Verbal
+m-domain: Repose
+m-duration: 1 minute
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200809195531758
+modtag-emotion: +1 status to saves.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Abjuration Emotion Mental
+title: Font of Serenity
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A divine beacon radiates serenity, soothing nearby allies.
+
+Allies within the area gain a +1 status bonus to saving throws against <<tag Emotion>> effects. 
+
+An ally can touch the font as an [[Interact]] action; if they do so, the spell attempts to [[Counteract]] one emotion effect affecting the ally of the ally’s choice, after which that emotion effect is temporarily immune for 1 day.
+
+If the spell succeeds at the counteract check, it removes the emotion effect from your ally, though not from any other creatures the effect might be affecting.
+
+''Heightened (+4)'' The bonus increases by 1.

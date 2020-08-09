@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200809184110257
+m-area: 15 foot [[Emanation]]
+m-components: Somatic Verbal
+m-domain: Decay
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 4
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+mod-fast_healing: May block healing if Will save failed.
+mod-regeneration: May block healing if Will save failed.
+modified: 20200809184351947
+modtag-healing: May block healing if Will save failed.
+s-crit: The creature regains the full number of Hit Points that would be restored by the healing effect, and is temporarily immune for 1 minute.
+s-fail: The creature regains only half the number of Hit Points that would be restored.
+s-fumble: The creature does not regain Hit Points from the healing effect.
+s-hit: The creature regains the full number of Hit Points that would be restored.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Necromancy Negative
+title: Fallow Field
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A sickly yellow light fills the area as entropic forces prevent healing. 
+
+When a creature within the area would regain Hit Points, such as from a <<tag Healing>>effect or an ability like [[Fast Healing]] or [[Regeneration]], it must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

@@ -12,10 +12,8 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-mod-fortitude: Gives +2 status vs Mental.
-mod-reflex: Gives +2 status vs Mental.
-mod-will: Gives +2 status vs Mental.
-modified: 20200729224920684
+modified: 20200809204445897
+modtag-mental: +2 status on saves.
 s-crit: 
 s-fail: 
 s-fumble: 
