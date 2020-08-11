@@ -1,0 +1,11 @@
+created: 20200811001708564
+modified: 20200811001724977
+tags: Trait
+title: Cursebound
+type: text/vnd.tiddlywiki
+
+Spells with this trait increase the severity of your oracular curse when cast. 
+
+Usually only <<tag Revelation>> spells have this trait. 
+
+You can’t cast a cursebound spell if you don’t have an oracular curse.

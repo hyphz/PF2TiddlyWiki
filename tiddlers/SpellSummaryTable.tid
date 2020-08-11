@@ -1,5 +1,5 @@
 created: 20200627214018361
-modified: 20200804193019195
+modified: 20200811000918460
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
@@ -24,6 +24,12 @@ type: text/vnd.tiddlywiki
 </$list>
 </td></tr>
 <tr><th>Duration</th><td>{{!!m-duration}}</td></tr>
+<$list filter="[all[current]has[m-domain]]">
 <tr><th>Domain</th><td>{{!!m-domain}}</td></tr>
+</$list>
+<$list filter="[all[current]has[m-mystery]]">
+<tr><th>Mystery</th><td>{{!!m-mystery}}</td></tr>
+</$list>
+
 </table>
 

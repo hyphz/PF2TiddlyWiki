@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811010729027
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 4
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature other than you
+m-time: 
+modified: 20200811010831109
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Mental Oracle
+title: Debilitating Dichotomy
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You reveal a glimpse of the impossible conflicts between the divine anathema behind your curse, forcing you to reckon with another’s conflicts as well. 
+
+You and the target each take 9d6 <<tag Mental>> damage with a basic [[Will]] save, and the target is [[Stunned]] 1 if it critically fails its save. 
+
+You get a degree of success one better than you rolled for your saving throw.
+
+''Heightened (+1)'' The damage increases by 3d6.
+

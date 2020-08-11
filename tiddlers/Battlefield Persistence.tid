@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811002109938
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 3
+m-mystery: Battle
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200811002247122
+modtag-incapacitation: Can make target treated as 2 levels higher.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cursebound Divination Divine Oracle Reaction
+title: Battlefield Persistence
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You are about to attempt a saving throw, but you haven’t rolled yet.
+
+You’re difficult to remove from battle. 
+
+You gain a +2 status bonus to the triggering save, and if the triggering save is against an <<tag Incapacitation>> effect, it treats you as if you were 2 levels higher.

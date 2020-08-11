@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811001437066
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 1
+m-mystery: Ancestors
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 living creature
+m-time: 
+modified: 20200811001632291
+s-crit: The target is unaffected.
+s-fail: The target is [[Frightened]] 1 and takes full damage.
+s-fumble: The target is [[Frightened]] 2 and takes double damage.
+s-hit: The target takes half damage.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Emotion Enchantment Fear Mental Oracle
+title: Ancestral Touch
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You touch a creature and force them to see and feel the ancestors surrounding you. 
+
+The target takes 1d4 <<tag Mental>> damage, with results depending on a [[Will]] save.
+
+''Heightened (+1)'' The mental damage increases by 1d4.
+
+{{||SaveSuccessTable}}
+

@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200809193742093
 m-area: 
-m-components: Somatic Verbal
+m-components: Somatic
 m-domain: Lightning
 m-duration: 1 minute
 m-level: 4
@@ -13,7 +13,7 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200809193932364
+modified: 20200811002702483
 s-crit: 
 s-fail: 
 s-fumble: 

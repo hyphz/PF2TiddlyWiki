@@ -1,0 +1,41 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811001152669
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 6
+m-mystery: Ancestors
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-fly: Moving upward isn't difficult terrain.
+modified: 20200811001356716
+modtag-attack: Prevents action.
+modtag-manipulate: Prevents action.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Oracle Transmutation
+title: Ancestral Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You take the form of your ancestral spirits, becoming [[Invisible]] and quasi‑corporeal. 
+
+You gain resistance 10 to all damage (except <<tag Force>> and damage from Strikes with the [[Ghost Touch]] property rune), and this resistance is doubled against non‑magical and precision damage. 
+
+You gain a fly Speed equal to your land Speed; when Flying, moving upward isn’t difficult terrain for you. 
+
+You can’t move through solid objects, but you can float through tiny gaps. 
+
+You can’t Cast Spells (but you can [[Sustain a Spell]]), activate items, or use actions that have the <<tag Attack>> or <<tag Manipulate>> trait.
+
+''Heightened (+2)'' The resistance increases by 5.

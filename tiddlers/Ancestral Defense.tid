@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811000953847
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 3
+m-mystery: Ancestors
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-will: Can allow best of 2 rolls.
+modified: 20200811001109948
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Cursebound Fortune Mental Oracle Reaction
+title: Ancestral Defense
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You are about to attempt a [[Will]] save.
+
+Your ancestor protects you against those who would bend your will. 
+
+You roll the triggering save twice and use the better result. 
+
+If you’re in an encounter when you cast this spell, you immediately roll to change your predominant ancestor.

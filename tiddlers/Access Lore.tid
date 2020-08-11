@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811000730111
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 1 minute
+m-level: 3
+m-mystery: Lore (Mystery)
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200811000939415
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Divination Fortune Oracle
+title: Access Lore
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You sift through the multiverse’s divine knowledge, seeking out tidbits related to a particular subject. 
+
+Choose one [[Lore]] skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200808142255759
+modified: 20200811002541387
 s-crit: The target is unaffected.
 s-fail: The target can't use [[Hostile Action]]s against you.
 s-fumble: The target is [[Stunned]] 1 and can't use [[Hostile Action]]s against you.
 s-hit: The target takes a -1 circumstance penalty to attack rolls and damage rolls against you.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Auditory Enchantment Incapacitation Linguistic Mental Wizard
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Auditory Enchantment Incapacitation Linguistic Mental Wizard
 title: Charming Words
 turn-sun: Effects wear off.
 type: text/vnd.tiddlywiki

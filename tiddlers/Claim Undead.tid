@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811010508113
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 10 minutes
+m-level: 6
+m-mystery: Bones
+m-range: 30 feet
+m-save: Will
+m-targets: 1 <<tag Undead>>creature
+m-time: 
+modified: 20200811010712115
+s-crit: The target is unaffected.
+s-fail: The target becomes [[Controlled]] by you and follows your orders. It (or the creature previously controlling it) can attempt a new Will save at the end of each of its turns, and the spell ends on a success. If you issue an obviously self‑destructive order, the target doesn’t act until you issue a new order.
+s-fumble: As failure, but the target (or the creature previously controlling it) receives a new save only if you give it a new order that is against its nature.
+s-hit: The target is [[Stunned]] 1 as it fights off your commands.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Incapacitation Necromancy Oracle
+title: Claim Undead
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You attempt to wrest control of a target undead or force it to recognize you as its master. 
+
+If the target is controlled by another creature, that controller attempts a [[Will]] saving throw to retain control; otherwise, the target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

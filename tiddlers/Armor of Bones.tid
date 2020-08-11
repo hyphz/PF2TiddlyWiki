@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811001935135
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 1 minute
+m-level: 3
+m-mystery: Bones
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200811002039589
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Necromancy Oracle
+title: Armor of Bones
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You ossify your physical form, mimicking the durability of bone. 
+
+You gain resistance 3 to <<tag Cold>>, <<tag Electricity>>, <<tag Fire>>, <<tag Piercing>>, and <<tag Slashing>> damage.
+
+''Heightened (+1)'' Increase the resistance by 1.

@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200809211511161
 m-area: 
-m-components: Verbal
+m-components: Somatic
 m-domain: Time
 m-duration: 1 round
 m-level: 1
@@ -13,7 +13,7 @@ m-range:
 m-save: 
 m-targets: The triggering creature
 m-time: 
-modified: 20200809211622704
+modified: 20200811002625198
 s-crit: 
 s-fail: 
 s-fumble: 

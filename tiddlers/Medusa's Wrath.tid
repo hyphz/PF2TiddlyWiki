@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811000153880
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 8
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200811000443557
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Monk Transmutation
+title: Medusa's Wrath
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You make an attack filled with a medusa’s petrifying power.
+
+Make an unarmed [[Strike]].
+
+//If you hit, the target is [[Slowed]] 1 and// must attempt a [[Fortitude]] save at the end of each of its turns; this ongoing save has the <<tag Incapacitation>> trait. ''//(This means that enemies of level higher than double the spell's level promote their save results.)//''
+
+On a failed save, the slowed condition increases by 1 (2 on a critical failure). A successful save reduces the slowed condition by 1. 
+
+When a creature is unable to act due to the slowed condition from medusa’s wrath, it is [[Petrified]] permanently. 
+
+The spell ends if the creature is petrified or the slowed condition is removed.
+
+//If your unarmed Strike is a critical hit, the target begins Slowed 2.//

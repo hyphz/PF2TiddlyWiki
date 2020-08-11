@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811011328978
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 6
+m-mystery: Flames
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-produce_flame: Changes casting time to 1 action.
+modified: 20200811011453666
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
+title: Flaming Fusillade
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon an endless barrage of flames, producing miniature fireballs in your hands to hurl at foes. 
+
+You cast [[Produce Flame]] as part of casting flaming fusillade. 
+
+For the duration of flaming fusillade, produce flame’s casting time is reduced from 2 actions to 1.
+
+''Heightened (9th)'' For the duration, you also gain a status bonus to the damage dealt by produce flame equal to flaming fusillade’s spell level.}

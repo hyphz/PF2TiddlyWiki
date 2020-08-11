@@ -1,0 +1,41 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200810235651158
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 9
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200811000134385
+modtag-darkness: Glow attempts automatic counteraction.
+modtag-emotion: -2 status.
+modtag-mental: +2 status against non-Emotion.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Monk Polymorph
+title: Ki Form
+type: text/vnd.tiddlywiki
+virtual-tags: Light Force Lawful Negative Positive
+
+{{||SpellSummaryTable}}
+
+Drawing from deep wells of spiritual power, you take on a special ki form. In your ki form, your hair, feathers, skin, or scales change color and begin to glow. 
+
+In this form you gain a fly Speed equal to your land Speed. Choose <<tag Force>>, <<tag Lawful>> (only if you are lawful), <<tag Negative>>, or <<tag Positive>> damage. All your [[Strike]]s deal 1d6 additional damage of the chosen type. 
+
+Your entire body is also surrounded by a glowing corona of the same color as your inner ki; this is a <<tag Light>> effect. Your corona is a 5-foot [[Emanation]] that deals 2d6 damage of the chosen type to creatures who start their turn within the emanation. 
+
+If the emanation overlaps with a <<tag Darkness>> effect, the corona’s glow attempts to [[Counteract]] the Darkness effect. Regardless of the outcome, the corona can’t attempt to counteract that effect again for 1 day. 
+
+As a single action, which has the <<tag Concentrate>> trait, you can flare your corona out to become a 30-foot emanation.
+
+In your ki form, your emotions surge to the forefront and it’s difficult to moderate your attacks. Your weapons and <<tag Unarmed>> attacks lose the nonlethal trait. You take a –2 status penalty to saves against <<tag Emotion>> effects but gain a +2 status bonus to saves against all other <<tag Mental>> effects.

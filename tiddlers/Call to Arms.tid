@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200811003149461
+m-area: 20 foot [[Emanation]]
+m-components: Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 1
+m-mystery: Battle
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200811003306396
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Auditory Cursebound Emotion Enchantment Mental Oracle Reaction
+title: Call to Arms
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You are about to roll for [[Initiative]].
+
+You cry out a call to arms, inspiring your allies to enter the fray.
+
+Each ally in the area gains a +2 status bonus to their initiative roll and gains temporary Hit Points equal to the spell’s level; these temporary Hit Points last for the spell’s duration.
+
+''Heightened (6th)'' The bonus increases to +3.
+
+''Heightened (9th)'' The bonus increases to +4.
