@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812223956933
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Reflex
+m-targets: 1 creature
+m-time: 
+modified: 20200812224137797
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cantrip Cold Conjuration Hex Witch
+title: Clinging Ice
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Freezing sleet and heavy snowfall collect on the target’s feet and legs, dealing 1d4 cold damage //with a basic [[Reflex]] save. If it fails its save, it also takes a -5 foot circumstance penalty to its Speeds until the spell ends. If it critically fails, the penalty is -10 foot.//
+
+Once this spell ends, the target becomes temporarily immune for 1 minute.
+
+''Heightened (+1)'' The damage increases by 1d4.

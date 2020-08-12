@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812222616530
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 3
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200812222748613
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Illusion Sorcerer
+title: Spirit Veil
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You draw an occluding veil of spirits around yourself, blocking yourself especially well from undead eyes. 
+
+You become [[Concealed]] to all creatures, and you are hidden from undead creatures regardless of what precise senses they have; this grants the effects of [[invisibility|Invisible]], but against all the undead creature’s precise senses. 
+
+If you physically interact with an undead creature or use a [[Hostile Action]], the spell ends. 
+
+''Heightened (+1)'' You can target one additional willing creature within 30 feet. The spell ends if any target physically interacts with an undead creature or uses a hostile action.

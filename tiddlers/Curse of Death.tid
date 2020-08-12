@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812224151223
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200812224428304
+s-crit: The target is unaffected.
+s-fail: The target is afflicted with the curse of death at stage 1.
+s-fumble: The target is afflicted with the curse of death at stage 2.
+s-hit: The target is afflicted with the curse of death at stage 1, and the stage of the curse can't increase beyond stage 1.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Curse Death Hex Necromancy Witch
+title: Curse of Death
+type: text/vnd.tiddlywiki
+virtual-tags: Negative
+
+{{||SpellSummaryTable}}
+
+You focus your malevolent gaze on a target, causing their heart to seize in dread. 
+
+The target must attempt a [[Fortitude]] saving throw. 
+
+Regardless of the result, the target is temporarily immune to further castings of curse of death for 1 day.
+
+''Curse of Death'' (curse) This curse ends immediately when the spell ends; ''Stage 1'' 4d6 <<tag Negative>> damage and [[Fatigued]] (1 round); ''Stage 2'' 8d6 negative damage and [[Fatigued]] (1 round); Stage 3 12d6 negative damage and [[Fatigued]] (1 round); Stage 4 death.
+
+''Heightened (+1)'' Increase the negative damage taken on a success and during the first three stages of the curse by 1d6.
+
+{{||SaveSuccessTable}}

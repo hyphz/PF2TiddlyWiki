@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812214856181
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: [[Touch]] or 30 feet
+m-save: 
+m-targets: Your animal companion
+m-time: 
+modified: 20200812215001106
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger
+title: Heal Companion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You harness positive energy to heal your animal companion’s wounds. 
+
+You restore 1d10 Hit Points to your animal companion. 
+
+The number of actions you spend Casting this Spell determines range and other parameters.
+
+{{OneAction}} (somatic) The spell has a range of touch.
+
+{{TwoAction}} (verbal) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.
+
+''Heightened (+1)'' The amount of healing increases by 1d10, and the additional healing for the 2-action version increases by 8.

@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812224823077
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200812225040215
+modtag-air: Target takes additional damage.
+modtag-earth: Target takes additional damage.
+modtag-fire: Target takes additional damage.
+modtag-water: Target takes additional damage.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation Hex Witch
+title: Elemental Betrayal
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon the elements to undermine your foe. 
+
+When you Cast this Spell, choose <<tag Air>>, <<tag Earth>>, <<tag Fire>>, or <<tag Water>>. 
+
+Each time the target takes damage from a spell or effect with the chosen trait, it takes an additional 2 damage of one damage type dealt by the spell or effect. 
+
+If you chose fire or water, the target also takes this additional damage when taking fire or <<tag Cold>> damage, respectively, from effects or spells without the chosen trait.
+
+''Heightened (+2)'' Increase the additional damage by 1.

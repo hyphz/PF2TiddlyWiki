@@ -1,7 +1,8 @@
 a-actions: 1
 a-skill: Survival
 created: 20200706230426608
-modified: 20200725144816813
+mod-track: Use coverer's Survival DC instead of default DC.
+modified: 20200812214533994
 modified-by: Survival
 tags: Action Concentrate Exploration Move Trained
 title: Cover Tracks

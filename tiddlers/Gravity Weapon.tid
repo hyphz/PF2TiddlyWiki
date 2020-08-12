@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812214659052
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200812214747989
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Ranger
+title: Gravity Weapon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You build up gravitational force and funnel it into your blows, leading to more powerful attacks with blade and bow alike.
+
+On your first weapon [[Strike]] each round, you gain a status bonus to damage equal to twice the number of weapon damage dice.

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812220703127
+m-area: 10 foot [[Emanation]]
+m-components: Somatic Verbal
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 
+m-save: Reflex
+m-targets: Enemies in the area
+m-time: 
+modified: 20200812220928758
+s-crit: The creature is unaffected.
+s-fail: As success, but the creature takes full damage and a –10-foot circumstance penalty.
+s-fumble: The creature is absorbed into the shadows, where it can be seen below the surface; it takes double damage and is [[Immobilized]] for 1 round or until it [[Escape]]s.
+s-hit: The creature sinks partially into the shadow, taking half damage and a –5-foot circumstance penalty to its Speeds for as long it remains in the area.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Shadow Sorcerer
+title: Consuming Darkness
+type: text/vnd.tiddlywiki
+virtual-tags: Negative
+
+{{||SpellSummaryTable}}
+
+Your shadow wriggles before spreading out from you, forming a gateway of clinging, consuming shadow through which the horrors of another plane can barely be seen. 
+
+The first time each turn you [[Sustain the Spell|Sustain a Spell]], the radius increases by 5 feet. 
+
+Each enemy that enters the area or begins its turn in the area takes 2d6 <<tag Negative>> damage and must attempt a [[Reflex]] save.
+
+''Heightened (+1)'' The damage increases by 1d6.
+
+{{||SaveSuccessTable}}

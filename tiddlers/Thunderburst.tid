@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812213316443
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 3
+m-mystery: Tempest
+m-range: 100 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200812213522682
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Cursebound Evocation Oracle Sonic
+title: Thunderburst
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a powerful blast of air and a loud peal of thunder, dealing 2d6 <<tag Bludgeoning>> damage and 2d6 <<tag Sonic>> damage, //with a basic [[Fortitude]] save.//
+
+//Any creature who fails its save is also [[Deafened]] for 1 minute, or 1 hour on a critical failure.//
+
+''Heightened (+2)'' Increase each type of damage by 2d6 and the area by 5 feet.
+

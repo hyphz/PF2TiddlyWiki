@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812215252788
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 10 minutes
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: 1 hunted prey
+m-time: 
+mod-concealed: Hunted prey still visible and no flat check.
+mod-darkness: Hunted prey still visible.
+mod-invisible: Hunted prey still visible.
+modified: 20200812215510932
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Ranger
+title: Hunter's Vision
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your target glows with a magical aura visible only to you and those who follow your lead. 
+
+Your target is visible to you and others sharing your [[Hunt Prey]] benefits even if it wouldn’t normally be due to lighting or the [[Concealed]] or [[Invisible]] conditions, though cover from opaque objects still blocks your sight. 
+
+You ignore the flat check against the target due to the concealed condition, and the target isn’t automatically [[Hidden]] from you due to darkness or being invisible.

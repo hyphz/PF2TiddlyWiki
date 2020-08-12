@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812211631124
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 10 minutes
+m-level: 6
+m-mystery: Cosmos
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200812211737863
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Cursebound Light Oracle
+title: Moonlight Bridge
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You summon a bridge of radiant, shimmering moonlight. 
+
+The 10‑foot‑wide span must start at the ground on a point within range, and it extends as a horizontal plane, either in a straight line or at any angle up to 45 degrees upward or downward, for up to 120 feet. 
+
+This bridge has AC 10, Hardness 30, and 60 Hit Points, and it’s immune to critical hits and precision damage. 
+
+You and your allies can cross the bridge normally, but other creatures simply pass through it if they try to do so.
+
+The bridge blocks physical, ethereal, and incorporeal attacks from crossing, whether from above or below. 
+
+You can [[Dismiss]] the spell.
+
+''Heightened (+1)'' The length of the bridge increases by 20 feet, and its Hit Points increase by 20.

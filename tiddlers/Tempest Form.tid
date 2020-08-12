@@ -1,0 +1,51 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812212220802
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 6
+m-mystery: Tempest
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200812212935797
+modtag-attack: Prevents use.
+modtag-manipulate: Prevents use.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Oracle Polymorph Transmutation
+title: Tempest Form
+type: text/vnd.tiddlywiki
+virtual-tags: Air Water Electricity
+
+{{||SpellSummaryTable}}
+
+Your body becomes fluid to better suit your surroundings.
+
+When you Cast this Spell, choose whether to become air, water, or mist. The spell gains the <<tag Air>> trait if you choose air or mist, and the <<tag Water>> trait if you choose water or mist. 
+
+You become amorphous, as does your armor. You lose any item bonus to AC and use your proficiency bonus for unarmored defense to determine your AC. 
+
+You also gain resistance 10 to physical damage and become immune to precision damage. 
+
+You can slip through tiny cracks and don’t need to breathe.
+
+You can’t cast spells, activate items, or use actions that have the <<tag Attack>> or <<tag Manipulate>> trait. //(Other than the ones that are given to you by your form.)//
+
+You also gain the following effects based on your form:
+
+* ''Air'' You gain a fly Speed of 20 feet and become [[Invisible]] while you are in the air. You can create the effects of a [[Gust of Wind]] from your space as a 2-action activity, which has the <<tag Manipulate>> trait.
+
+* ''Mist'' You gain a fly Speed of 20 feet, and it becomes hard to see through you. Any creature on one side of your space who is targeted by a creature on the opposite side is [[Concealed]] to the targeting creature.
+
+* ''Water'' You gain a swim Speed of 20 feet and become [[Invisible]] while you are in the water. You can electrically charge yourself by taking a single action, which has the <<tag Manipulate>> trait. If you do, you are no longer invisible in the water due to electricity indicating your location, but any creature that makes a melee attack against you takes 1d6 <<tag Electricity>> damage; if it touches you, this is cumulative with the damage from your major curse.
+
+''Heightened (+2)'' Increase the resistance by 5 and the electricity damage from the charged water form by 1.

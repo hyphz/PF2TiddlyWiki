@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812214204460
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: Your animal companion
+m-time: 
+modified: 20200812214300133
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Polymorph Ranger Transmutation
+title: Enlarge Companion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your animal companion grows much larger, towering over its foes in battle. 
+
+Your animal companion becomes <<tag Huge>>, gaining the effects of a 4th-level [[Enlarge]] spell.

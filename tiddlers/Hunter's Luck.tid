@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812215029829
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 2
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+mod-recall_knowledge: Can give best of 2 rolls about a creature.
+modified: 20200812215146158
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Fortune Ranger Free
+title: Hunter's Luck
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You attempt a check to [[Recall Knowledge]] about a creature, but you haven't rolled yet.
+
+You have a preternatural ability to remember details about your foes. 
+
+Roll the triggering check twice and use the better result.

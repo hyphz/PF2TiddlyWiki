@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812223226017
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 5
+m-range: 60 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200812223412837
+s-crit: The target is unaffected.
+s-fail: The target takes the penalties for 1 minute.
+s-fumble: As failure, and the target takes a -1 status penalty to [[AC]] for the duration.
+s-hit: The target takes the penalties for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Sorcerer Transmutation
+title: Wish-Twisted Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You focus your magic upon an enemy, wishing for their defenses to fail and turning their strengths into weaknesses.
+
+The target must attempt one [[Will]] saving throw for all of the following effects.
+
+* The target gains weakness 5 to one energy type of your choice.
+* The target’s resistances are reduced by 5.
+* The target takes a –10-foot status penalty to all its Speeds.
+* The target takes a –1 status penalty to its saving throws.
+
+''Heightened (+1)'' Increase the weakness and the reduction to resistances by 1.
+
+{{||SaveSuccessTable}}

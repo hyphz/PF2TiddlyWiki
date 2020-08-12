@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812221203710
+m-area: 30 foot [[Burst]]
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 5
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200812221311547
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Abjuration Sorcerer
+title: Establish Ward
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You bind a part of your essence to your surroundings, creating a warded area that grants you power within it, but drains you outside of it. 
+
+While within the area, you can make nature’s wrath [[Strike]]s by commanding plants, wind, rocks, and other natural features to attack enemies. These are melee Strikes that use your spell attack modifier, can target any creature within the ward, and deal bludgeoning, piercing, or slashing damage equal to 2d8 plus your spellcasting ability modifier.
+
+Upon Casting the Spell, you can immediately make a single nature’s wrath Strike. 
+
+You are [[Quickened]] while inside the ward, and can use the additional action only to make nature’s wrath [[Strike]]s. 
+
+You are [[Slowed]] 1 while outside the area.
+
+''Heightened (+2)'' The area increases by 5 feet, and the Strikes deal an additional 1d8 damage.

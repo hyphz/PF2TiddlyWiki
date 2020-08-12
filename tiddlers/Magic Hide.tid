@@ -1,0 +1,27 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812215547221
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: Your animal companion
+m-time: 
+modified: 20200812215624509
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Ranger
+title: Magic Hide
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your animal companion grows a thicker hide, matted fur, or a harder shell, granting it a +1 status bonus to AC.

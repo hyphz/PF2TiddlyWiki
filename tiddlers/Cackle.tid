@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812223828273
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200812223920472
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Enchantment Hex Witch Free
+title: Cackle
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+With a quick burst of laughter, you prolong a magical effect you created. 
+
+You [[Sustain a Spell]].

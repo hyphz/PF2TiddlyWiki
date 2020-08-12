@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812213710685
+m-area: Up to two 5 foot [[Burst]]s that don't overlap
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 3
+m-mystery: Flames
+m-range: 30 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20200812213849397
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
+title: Whirling Flames
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a storm of whirling flames, engulfing all creatures in that area and dealing 5d6 <<tag Fire>> damage with a basic [[Reflex]] save.
+
+''Heightened (+2)'' The damage increases by 3d6, and you can add another nonoverlapping 5-foot [[Burst]] to the area.

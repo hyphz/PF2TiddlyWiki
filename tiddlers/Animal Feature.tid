@@ -1,0 +1,38 @@
+a-actions: 1
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812213957694
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 2
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200812214144807
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Ranger Transmutation
+title: Animal Feature
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Without fully transforming your body, you gain one animalistic feature, which you select from the list below each time you Cast the Spell.
+
+* ''Cat Eyes'' You gain [[Low-Light Vision]].
+* ''Claws'' You gain a claw attack that deals 1d6 slashing damage and has the [[Agile]], [[Finesse]], and [[Unarmed]] traits.
+* ''Jaws'' You gain a jaws attack that deals 1d8 piercing damage and has the [[Unarmed]] trait.
+
+''Heightened (4th)'' Add the following options to the list you can choose from.
+
+* ''Fish Tail'' You gain a swim Speed equal to your land Speed.
+* ''Owl Eyes'' You gain [[Darkvision]].
+* ''Wings'' You gain a fly Speed equal to your land Speed.

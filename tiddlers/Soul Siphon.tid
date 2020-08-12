@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812211754352
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20200812211957306
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Necromancy Negative Oracle
+title: Soul Siphon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You siphon off a portion of the target’s soul to bolster your own vitality. 
+
+The target //takes 1d4// <<tag Negative>> damage //with a basic [[Fortitude]] save//.
+
+//In addition, if the target fails the save they become [[Drained]] 1. If they critically fail, they become [[Drained]] 2.// 
+
+You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming drained.
+
+''Heightened (+1)'' Increase the damage by 1d4.

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812214330428
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 hour
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-track: Can track through air and water at min DC 30.
+modified: 20200812214458212
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Divination Ranger
+title: Ephemeral Tracking
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You can look at currents in the air and water and see tracks that you can follow just as you would on land. 
+
+You can use [[Survival]] to [[Track]] through both air and water, noticing aerial or aquatic “tracks” of all creatures who passed nearby in the last hour. 
+
+It’s more difficult to Track in this way: the DC to Track through air or water is always at least 30, or higher after precipitation or wind (in the air) or heavy tides or currents (in the water). 
+
+It’s possible to [[Cover Tracks]] against this spell, but creatures might not realize they need to do so.

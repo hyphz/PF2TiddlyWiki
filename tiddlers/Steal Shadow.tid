@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812222759082
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+mod-sustain_a_spell: Can repeat damage on sustain.
+modified: 20200812223016637
+s-crit: The target is unaffected.
+s-fail: The target takes 3d4 negative damage and is [[Enfeebled]] 1 for the spell’s duration as you tear its shadow away, collecting it in your hand. On subsequent rounds, when you [[Sustain the Spell|Sustain a Spell]], you can throttle the shadow to deal 3d4 negative damage to the target (basic [[Fortitude]] save). Until the spell ends, the target doesn’t cast a shadow.
+s-fumble: As failure, but the target is enfeebled 2.
+s-hit: The target is [[Enfeebled]] 1 for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Necromancy Shadow Sorcerer
+title: Steal Shadow
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You steal a creature’s shadow, leaving it weakened and vulnerable. 
+
+The target must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+
+''Heightened (+1)'' The damage when the spell is cast and when it is sustained increases by 1d4.

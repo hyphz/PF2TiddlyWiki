@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812210921483
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-mystery: Cosmos
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+mod-sustain_a_spell: Repeats damage on sustain.
+modified: 20200812211111948
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cold Cursebound Evocation Oracle
+title: Interstellar Void
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon the frigid depths of outer space to bring a terrible chill to your enemy. 
+
+The target is cloaked in the freezing void, which deals 3d6 <<tag Cold>> damage immediately and when you [[Sustain the Spell|Sustain a Spell]] on future turns, with a basic [[Fortitude]] save.
+
+The target is [[Fatigued]] for as long as the effect persists.
+
+''Heightened (+1)'' The cold damage increases by 1d6.

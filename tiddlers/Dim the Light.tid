@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812220954723
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200812223148503
+modtag-darkness: Can use after spell to hide.
+modtag-shadow: Can use after spell to hide.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Darkness Evocation Sorcerer
+title: Dim the Light
+turn-euc: Reaction hiding wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You cast a <<tag Darkness>> or <<tag Shadow>> spell.
+
+You magnify the darkness from the triggering effect, causing the ambient light level to flicker briefly so you can slip from sight. 
+
+You can immediately attempt a [[Stealth]] check to [[Hide]], and you can become [[Hidden]] to a creature even if you don’t have cover and aren’t otherwise concealed from that creature.
+
+You cease being hidden at the end of your turn unless you move into [[Cover]] or become [[Concealed]] before then.

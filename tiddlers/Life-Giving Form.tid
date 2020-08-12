@@ -1,0 +1,42 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812211144021
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 6
+m-mystery: Life
+m-range: 
+m-save: 
+m-targets: You
+m-time: 
+modified: 20200812211342449
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Healing Light Necromancy Oracle Positive
+title: Life-Giving Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transcend your physical form, becoming a beacon of healing energy. 
+
+Your body exudes [[Bright Light]] like a torch. {{TorchLight}}
+
+You gain resistance 5 to precision damage and weakness 5 to <<tag Negative>> damage, and your unarmed Strikes deal an extra 1d4 <<tag Positive>> damage.
+
+You can touch a living creature with an [[Interact]] action to restore 6d8 Hit Points to it, and when a creature touches you with an Interact action you can allow it to gain the same healing; either way, the creature becomes temporarily immune to life-giving form’s healing for 1 minute. This is a positive healing effect. 
+
+You can’t heal yourself with life‑giving form. 
+
+A creature harmed by positive damage (such as an undead) that touches you or damages you with an unarmed attack or non‑reach melee weapon instead takes 3d4 positive damage, and it doesn’t become temporarily immune.
+
+You can [[Dismiss]] this spell.
+
+''Heightened (+1)'' Increase the Hit Points restored with an Interact action by 1d8, the positive damage by 1, and the resistance and weakness by 1.

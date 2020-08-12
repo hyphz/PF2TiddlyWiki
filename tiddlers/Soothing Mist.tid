@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812220037187
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 2
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 [[Willing]] living creature or 1 undead creature
+m-time: 
+modified: 20200812220239001
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger
+title: Soothing Mist
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a magical mist of positive energy that envelops a creature. 
+
+The mist restores 2d8 Hit Points to a target living creature and ends one source of persistent <<tag Acid>>, <<tag Bleed>>, <<tag Fire>>, <<tag Negative>>, or <<tag Poison>> damage affecting it. 
+
+If the creature is taking persistent damage from multiple sources, you select which one is removed. 
+
+Against an <<tag Undead>> target, you deal 2d8 positive damage (basic [[Fortitude]] save); if it fails the save, it also takes 2 persistent positive damage.
+
+''Heightened (+1)'' The amount of healing (or damage to an undead target) increases by 1d8, and the persistent positive damage to an undead creature increases by 1.

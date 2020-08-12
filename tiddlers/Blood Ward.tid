@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812223515058
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+mod-fortitude: +1 status vs named creature type.
+mod-reflex: +1 status vs named creature type.
+mod-will: +1 status vs named creature type.
+modified: 20200812223812288
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Hex Witch
+title: Blood Ward
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You consolidate warding energies with a gesture, guarding a creature against attacks from a certain type of foe. 
+
+Designate one of the following creature traits: <<tag Aberration>>, <<tag Animal>>, <<tag Beast>>, <<tag Celestial>>, <<tag Construct>>, <<tag Dragon>>, <<tag Elemental>>, <<tag Fey>>, <<tag Fiend>>, <<tag Fungus>>, <<tag Monitor>>, <<tag Ooze>>, <<tag Plant>>, or <<tag Undead>>. 
+
+The target gains a +1 status bonus to its saving throws and AC against creatures with that trait. 
+
+The target is temporarily immune for 10 minutes.
+
+''Heightened (5th)'' The status bonus increases to +2.

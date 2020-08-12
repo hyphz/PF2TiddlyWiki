@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200812212955346
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 1
+m-mystery: Tempest
+m-range: [[Touch]]
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200812213249079
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cold Cursebound Evocation Oracle Water
+title: Tempest Touch
+turn-eun: Speed penalty wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your touch calls forth a churning mass of icy water that clings to your target, dealing 1d4 <<tag Bludgeoning>> damage and 1d4 <<tag Cold>> damage //with a basic [[Fortitude]] save.//
+
+//If the target succeeds, but not critically, on their save they take a -5 foot circumstance penalty to their Speeds until the end of your next turn.//
+
+//If they fail (or critically fail) the penalty is -10 feet.//
+
+''Heightened (+1)'' The bludgeoning and cold damage each increase by 1d4.
