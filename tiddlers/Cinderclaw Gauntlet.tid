@@ -1,0 +1,18 @@
+created: 20200814205714079
+item-bulk: L
+item-level: 5
+item-price: 15000
+item-slot: Hand
+modified: 20200814205918692
+tags: Item Uncommon Evocation Magical
+title: Cinderclaw Gauntlet
+type: text/vnd.tiddlywiki
+
+This sharp-taloned +1 [[Striking]] [[Spiked Gauntlet]] appears to have been crafted from dragon scales, with claws built from iron. 
+
+In addition to the typical weapon traits, a Cinderclaw gauntlet has the [[Versatile]] S trait.
+
+On a critical hit, the Cinderclaw gauntlet deals an additional 1d6 <<tag Fire>> damage.
+
+''Activate'' {{ReactionIcon}} command; ''Trigger'' Your attack roll with the Cinderclaw gauntlet is a critical success. 
+''Effect'' The creature you hit must succeed at a DC 19 Fortitude save or be [[Sickened]] 1 by the gauntlet’s acrid smoke. Creatures that don’t need to breathe are immune.

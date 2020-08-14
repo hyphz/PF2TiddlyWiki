@@ -1,0 +1,16 @@
+created: 20200814212152441
+feat-class: Rogue
+feat-fpre: [[Debilitating Strike]]
+feat-level: 20
+modified: 20200814212244595
+tags: Uncommon Class Feat Rogue Action Free
+title: Enduring Debilitation
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per minute
+
+''Trigger'' You apply a <<tag Debilitation>> to a creature.
+
+You can make your debilitation last an exceptionally long time. 
+
+The triggering debilitation lasts for 1 minute instead of until the end of your next turn.

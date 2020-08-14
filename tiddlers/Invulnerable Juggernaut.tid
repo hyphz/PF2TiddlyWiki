@@ -1,0 +1,13 @@
+created: 20200814212344982
+feat-class: Barbarian
+feat-level: 20
+modified: 20200814212426195
+tags: Uncommon Class Feat Barbarian
+title: Invulnerable Juggernaut
+type: text/vnd.tiddlywiki
+
+You are unstoppable, able to shrug off mortal wounds with ease. 
+
+You gain resistance equal to 3 + your Constitution modifier to all damage, and your resistance from [[Raging Resistance]] increases to 8 + your Constitution modifier.
+
+In addition, if you are reduced to 0 Hit Points, you can end your rage as a reaction to stay at 1 Hit Point. If you do, you become [[Wounded]] 2 (or increase your wounded condition by 2 if you are already wounded).

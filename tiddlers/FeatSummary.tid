@@ -1,9 +1,12 @@
 created: 20200712160917173
-modified: 20200801193842131
+modified: 20200814213238008
 tags: 
 title: FeatSummary
 type: text/vnd.tiddlywiki
 
+<$list filter="[all[current]tag[Focus Spell]]">
+//This Focus Spell is gained by taking a Feat, which grants the spell plus one focus point.//
+</$list>
 <table>
 <tr><th>Feat Type</th><td>
 <$list filter="[all[current]tag[Class]]">Class</$list>

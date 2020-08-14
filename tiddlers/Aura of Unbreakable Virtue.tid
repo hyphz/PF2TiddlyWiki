@@ -1,0 +1,13 @@
+created: 20200814211529555
+feat-class: Champion
+feat-level: 20
+modified: 20200814211615581
+tags: Uncommon Class Feat Champion
+title: Aura of Unbreakable Virtue
+type: text/vnd.tiddlywiki
+
+You are a paragon of all that is good, your overwhelming aura causing evildoers to cower. 
+
+All <<tag Evil>> creatures within 15 feet of you take a –1 status penalty to checks and DCs that target you or your allies. This penalty is –2 against creatures you have taken an oath against (such as dragons if you have the [[Dragonslayer Oath]] feat). 
+
+You can choose to suppress or resume this aura as an action, which has the <<tag Concentrate>> trait.

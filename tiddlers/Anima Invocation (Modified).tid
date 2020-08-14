@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814211232371
+m-area: 
+m-components: 
+m-duration: 1 day
+m-level: 10
+m-range: 10 miles
+m-save: 
+m-targets: Primary and secondary casters
+m-time: 1 hour
+modified: 20200814211343006
+rit-pskill: Occultism
+rit-pspre: L
+rit-secondaries: 4
+rit-sskill: Arcana Religion
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Rare Abjuration
+title: Anima Invocation (Modified)
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+//This ritual is indexed here for completeness but is a part of the plot of the Age of Ashes Adventure Path and is likely inappropriate outside of it. The description can be found in Age Of Ashes 6: Broken Promises.//

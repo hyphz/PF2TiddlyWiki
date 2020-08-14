@@ -1,0 +1,28 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814185824442
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 3
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200814190001109
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy
+title: Neutralize Poison
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You pour healing magic through the target in an attempt to cure one [[Poison]] afflicting it. 
+
+Attempt a [[Counteract]] check against the poison.

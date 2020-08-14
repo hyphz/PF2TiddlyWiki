@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814215456110
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the start of your next turn
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200814215716416
+s-crit: 
+s-fail: The creature is knocked [[Prone]]. If the creature was [[Swim]]ming, it gets a critical failure instead.
+s-fumble: The creature is pushed 20 feet in the wave’s direction, is knocked [[Prone]], and takes 3d6 bludgeoning damage.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Evocation Water Arcane Primal
+title: Sea Surge
+turn-sun: Wave advances 60 feet then disappears.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You slap or stomp on a nearby solid or liquid surface, sending a surge of water rushing away from you. 
+
+The water forms a flat, 5-foot-thick, 10-foot-high wall of water between 5 and 15 feet wide (you decide). It moves 60 feet in a direction of your choice along the struck surface, extinguishing all non-magical fires, carrying along unattended objects of 1 Bulk or less, and pushing larger objects. 
+
+The wave moves another 60 feet in the same direction at the start of your next turn, then vanishes. 
+
+Large or smaller creatures in the area or that enter the area the wave moves through must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+

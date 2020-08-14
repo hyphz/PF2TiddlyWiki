@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814220151676
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200814220253726
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Plant Primal Material
+title: Verdant Sprout
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You imbue a single ordinary, inexpensive plant seed with primal energy and throw it onto a surface, where it gradually sprouts into a Medium plant. 
+
+After 10 minutes, the plant is sturdy enough to provide standard [[Cover]], and its space is [[Difficult Terrain]]. 
+
+The plant is laden with nutritious nuts or fruit sufficient to feed one Medium creature for a day. 
+
+The plant has AC 10, Hardness 5, and 20 Hit Points.
+
+''Heightened (+1)'' You throw an additional seed, which grows into an additional plant within range.

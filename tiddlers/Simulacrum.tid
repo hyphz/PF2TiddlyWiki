@@ -1,0 +1,46 @@
+a-crit: You bring the simulacrum to life. It has the <<tag Minion>> trait and is under your absolute control. You gain a direct mental link with the simulacrum and can spend an action to command the simulacrum via this link, even at a distance.
+a-defense: 
+a-fail: The ritual fails and has no effect.
+a-fumble: The simulacrum awakens, but it isn’t your minion and is [[Hostile]] to all the casters. It does everything it can to destroy them, but if it can’t immediately slay them, the simulacrum tries to escape and plots their demise.
+a-hit: As a critical success, but there is no special link between you and the simulacrum. You must spend an action to command it verbally or by some other means.
+created: 20200814200717977
+m-area: 
+m-components: 
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 1 living creature
+m-time: 1 day
+modified: 20200814205114815
+rit-pskill: Arcana Occultism
+rit-pspre: M
+rit-secondaries: 3
+rit-sskill: Arcana Nature Occultism Religion Society Crafting Deception
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Rare Illusion
+title: Simulacrum
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' a piece of hair, drop of blood, or other part of the creature to be duplicated, plus rare oils, minerals, and pigments with a total value of 300 gp;
+
+You create an illusory duplicate of the target creature by animating ice or snow sculpted in its shape. 
+
+//The skill used by a secondary caster must be an appropriate one to [[Recall Knowledge]] about the target.//
+
+//The ritual check is made in <<tag Secret>>.//
+
+The simulacrum is a 4th-level creature with no special abilities. If it needs to attempt a roll or use a DC, use the moderate number for a monster, except as noted below. 
+
+It doesn’t have any specific memories from the target, but it can use information about the creature gained from any of the casters to [[Impersonate]] the target. It looks exactly like the target and has a [[Deception]] modifier to Impersonate that creature equal to the modifier of the secondary spellcaster who rolled the Deception check, with a +4 status bonus.
+
+While it doesn’t have any of the original’s special abilities, like a dragon’s breath weapon, the illusions that make up the simulacrum allow it to appear to use those abilities; they just never seem to have an effect. For instance, against a simulacrum dragon’s breath weapon, all creatures in the area seem to critically succeed at their saving throws and take no damage. 
+
+Creatures can attempt to disbelieve the illusion by attempting a [[Perception]] check against the Deception DC of the secondary spellcaster who rolled the Deception check.
+
+{{||ActionSuccessTable}}

@@ -1,0 +1,46 @@
+a-crit: You create the effects described above, and you protect an area twice as large.
+a-defense: 
+a-fail: The ritual has no effect.
+a-fumble: The area becomes trapped and hostile to you and your allies in a way you didn’t anticipate.
+a-hit: You create the effects described above.
+created: 20200814204341774
+m-area: 100 foot by 100 foot cube, up to 50 feet high
+m-components: 
+m-duration: 1 week
+m-level: 6
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 day
+modified: 20200814204733538
+modtag-scrying: Can't scry protected area.
+modtag-teleportation: Tries to counter attempts to teleport in.
+rit-pskill: Arcana Nature Occultism
+rit-pspre: M
+rit-secondaries: 3
+rit-sskill: Lore Survival Thievery
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Abjuration
+title: Ward Domain
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' rare incenses, oils, and powdered silver, worth 150 gp total
+
+This ritual has long been used to guard the private sanctums of powerful rulers, spellcasters, and other figures of import. You and the other casters spend the casting time burning incense, anointing doorframes, and drawing lines of powered silver across entryways. 
+
+The ritual creates the following magical effects within the area; these effects are heightened to the level of ward domain and remain throughout the duration.
+
+* All gates, doors, windows, and similar apertures in the area (if any) are locked, with the effects of [[Lock]]. 
+* You can obscure up to six doors, doorways, or similar entrances within the area with the effects of [[Illusory Object]] to appear as plain walls. 
+* <<tag Scrying>> spells can’t perceive any stimuli from the area, and ward domain attempts to [[Counteract]] <<tag Teleportation>> effects into or out of the area, including attempts to summon creatures into the area, using a modifier equal to the ritual’s save DC – 10.
+
+A successful [[Dispel Magic]] used on a specific effect removes only that effect (such as the lock effect on one window). A successful [[Disjunction]] ends the entire ritual.
+
+''Heightened (+1)'' The ward covers an additional area 100 feet × 100 feet, up to 50 feet high, which must be contiguous with the original area.
+
+{{||ActionSuccessTable}}

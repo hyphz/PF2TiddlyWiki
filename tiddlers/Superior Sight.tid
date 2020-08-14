@@ -1,0 +1,16 @@
+created: 20200814212625064
+feat-class: Ranger
+feat-level: 20
+mod-concealed: Automatically pass flat check.
+mod-hidden: Automatically pass flat check.
+mod-undetected: Automatically pass flat check.
+modified: 20200814212753403
+tags: Uncommon Class Feat Ranger
+title: Superior Sight
+type: text/vnd.tiddlywiki
+
+Your senses are peerless. 
+
+You gain a +2 circumstance bonus to [[Perception]] checks, and you gain [[Low-Light Vision]]. If you already have low-light vision, gain [[Darkvision]] instead. 
+
+Furthermore, when you target an enemy, you automatically succeed at the flat check if that enemy is [[Concealed]], [[Hidden]], or [[Undetected]].

@@ -1,0 +1,40 @@
+a-crit: The object remains a statuette for 1 week.
+a-defense: 
+a-fail: You fail to shrink the object.
+a-fumble: You fail to shrink the object, and the highest-level item you carry of light Bulk or more shrinks to a tiny, unusable figurine of itself, weighing negligible bulk, for 1 week.
+a-hit: The object remains a statuette for 1 day.
+created: 20200814222328808
+m-area: 
+m-components: 
+m-duration: 
+m-level: 6
+m-range: 10 feet
+m-save: 
+m-targets: 1 freestanding non-magical object no larger than 3000 cubic feet (the size of a Huge creature)
+m-time: 1 hour
+modified: 20200814222549051
+rit-pskill: Arcana
+rit-pspre: E
+rit-secondaries: 2
+rit-sskill: Crafting Occultism
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Rare Polymorph Transmutation
+title: Statuette
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+This ritual is a variant of the [[Shrink Item]] spell that allows for the transformation of significantly larger items. 
+
+You transform the object into a tiny statuette of itself that is light Bulk. The ritual does not shrink any creatures inside or on top of the item when it is transformed. 
+
+The item remains in statuette form until the ritual’s duration expires or until a creature places it on a stable surface and uses a 10-minute activity to [[Interact]] with the item to enlarge it. 
+
+When restored to its normal size, the object simply pushes other creatures and objects aside or harmlessly contains them, as a magic item with the <<tag Structure>> trait.
+
+Your Arcana check determines how long the object remains in statuette form.
+
+{{||ActionSuccessTable}}

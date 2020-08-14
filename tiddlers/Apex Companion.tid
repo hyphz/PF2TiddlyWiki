@@ -1,0 +1,25 @@
+created: 20200814212931903
+feat-class: Druid
+feat-level: 20
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 10
+m-range: 30 feet
+m-targets: 1 animal companion in your service
+modified: 20200814213542881
+tags: Uncommon Druid Class Feat Polymorph Transmutation [[Focus Spell]] Manipulate Concentrate
+title: Apex Companion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You focus on the energies of all members of your animal companion’s species, transforming your animal companion into its apex battle form. 
+
+Your animal companion gains the following statistics and abilities while in its apex form.
+
+* Your animal companion becomes Huge and its attacks have 15-foot reach. It must have enough space to expand into or the spell is lost.
+* 30 temporary Hit Points.
+* [[Darkvision]].
+* Your animal companion’s attack’s damage dice increase by one step, and its attack gains the [[Deadly]] d12 trait.
+* +10-foot status bonus to its Speeds.
+* Ignores [[Difficult Terrain]] and greater difficult terrain.

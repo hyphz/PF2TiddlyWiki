@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814220939668
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 1 fire
+m-time: 
+modified: 20200814221240919
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Sickened]] 1 by smoke, or [[Blinded]] for 1 round by fireworks.
+s-fumble: The creature is [[Sickened]] 1 and cannot recover from the sickened condition while in the area of the smoke cloud; or is [[Blinded]] for 1 minute by fireworks.
+s-hit: The creature is unaffected by smoke, or [[Dazzled]] for 1 round by fireworks.
+tags: Spell Somatic Manipulate Uncommon Fire Transmutation Arcane Occult
+title: Pyrotechnics
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You turn a fire into either a burst of blinding fireworks or a thick cloud of choking smoke, chosen when you Cast the Spell. The spell targets one fire source, which is immediately extinguished if it is a non-magical fire the size of a campfire or smaller. 
+
+If the fire source is a creature, the creature takes 1d6 points of cold damage and is not extinguished.
+
+''Fireworks'' The targeted fire explodes into a colorful array of flashy, fiery, glowing aerial fireworks in a 20-foot-radius burst. The first time you Sustain the Spell each round, you can cause the area of fireworks to ascend up to 20 feet, but you cannot move the area laterally. Creatures that start their turn within the area of the fireworks must attempt a [[Fortitude]]
+save, and are then temporarily immune for 1 minute.
+
+''Smoke Cloud'' Thick smoke billows out from the fire and coalesces into a cloud that spreads to fill a 20-foot-radius [[Burst]] centered on the targeted fire. Creatures within the smoke cloud take a –4 circumstance penalty to visual [[Perception]] checks, and creatures outside the smoke cloud take a –4 circumstance penalty to visual Perception checks to detect creatures or objects within it. The first time you Sustain the Spell each round, you can cause the smoke cloud to descend up to 20 feet, but you cannot move the area laterally. Creatures that start their turn within the smoke cloud must attempt a [[Fortitude]] save, and are then temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}
+

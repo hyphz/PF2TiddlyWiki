@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814215858781
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: Until the start of your next turn
+m-level: 3
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200814220145879
+s-crit: 
+s-fail: The creature is knocked [[Prone]]. If the creature was [[Fly]]ing, it gets a critical failure instead.
+s-fumble: The creature is pushed 30 feet away from the center of the burst, is knocked [[Prone]], and takes 2d6 bludgeoning damage.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Air Uncommon Evocation Arcane Primal
+title: Unseasonable Squall
+turn-sun: Wears off.
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You issue a blast of sudden wind that ripples outward from the center of the burst. 
+
+The wind extinguishes small non-magical fires, disperses fog and mist, scatters objects of light Bulk or less, and pushes unsecured objects of 1 Bulk or less 5 feet away from the spell’s origin point. 
+
+Each Medium or smaller creature in the area when you Cast the Spell or that moves into spell’s area must attempt a Fortitude saving throw.
+
+{{||SaveSuccessTable}}

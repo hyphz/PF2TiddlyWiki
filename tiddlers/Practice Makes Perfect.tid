@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814210816896
+m-area: 
+m-components: Somatic
+m-domain: Toil
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200814210918402
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Divination Reaction
+title: Practice Makes Perfect
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You or an ally within range fails a skill check for a skill in which you or they are trained.
+
+The target gains a +2 status bonus to the triggering check, or a +3 bonus if the target has master or better proficiency in the skill. This bonus can change the outcome of the target’s check.
