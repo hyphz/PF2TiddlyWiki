@@ -1,0 +1,31 @@
+[
+    {
+        "created": "20200814002622109",
+        "text": "{{||RitualSummaryTable}}\n\n''Cost'' rare laboratory supplies and reagents worth the target’s level (minimum 1) × 100 gp.\n\nYou remove 1 cubic inch of flesh from the target, who must be present throughout the ritual and can be one of the casters. You then use that flesh to grow a duplicate of the target’s physical form that will house the target’s soul upon death.\n\nThis duplicate is physically identical to the original creature. In order to perform the ritual, you need an [[Expanded Alchemist’s Lab]] or a superior set of equipment. \n\nOnce the ritual is successfully completed, the duplicate grows within the laboratory equipment for 2d4 months. While direct involvement isn’t required during this period of growth, you must prevent any interference or interruption or the ritual fails. \n\nWhen the duplicate is complete, the original creature’s soul enters it as soon as their original body dies, or immediately if the creature died during the intervening months, as long as the soul is free and willing. If //the gods have// decided that the target’s time has come or the target’s soul is trapped or doesn’t wish to return, the duplicate remains empty until the impediment is removed. While unoccupied, the inert duplicate must be preserved in suitable alchemical equipment to prevent it from rotting.\n\n{{||ActionSuccessTable}}\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Clone",
+        "tags": "Spell Ritual Exploration Rare Necromancy",
+        "modified": "20200814002928494",
+        "s-hit": "",
+        "s-fumble": "",
+        "s-fail": "",
+        "s-crit": "",
+        "rit-sskill": "Arcana Occultism Medicine",
+        "rit-secondaries": "3",
+        "rit-pspre": "L",
+        "rit-pskill": "Crafting",
+        "m-time": "7 days",
+        "m-targets": "1 living creature up to 20th level",
+        "m-save": "",
+        "m-range": "10 feet",
+        "m-level": "9",
+        "m-duration": "",
+        "m-components": "",
+        "m-area": "",
+        "a-hit": " As critical success, but each condition value is 2.",
+        "a-fumble": "The clone appears to be successful, but something went horribly wrong. Once it grows to its full size, it can’t hold the target’s soul and instead houses a malevolent intelligence or an invasive creature such as a demon.",
+        "a-fail": "You fail to form the clone.",
+        "a-defense": "",
+        "a-crit": "The cloning process is successful. When the soul occupies the completed clone, it is [[Clumsy]] 1, [[Drained]] 1, [[Doomed]] 1, and [[Enfeebled]] 1 for 1 week; these conditions can’t be removed or reduced by any means until the week has passed."
+    }
+]

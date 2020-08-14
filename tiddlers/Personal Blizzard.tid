@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814000753434
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20200814000928698
+s-crit: The target is unaffected.
+s-fail: The target takes 1d6 cold damage and 1d6 persistent cold damage. The persistent cold damage automatically ends when the spell ends. It is [[Concealed]] to other creatures and other creatures are concealed to it.
+s-fumble: As failure, but both the cold damage and the persistent cold damage increase to 2d6.
+s-hit: The target takes 1d6 cold damage, and the spell ends.
+tags: Spell Somatic Manipulate [[Focus Spell]]
+title: Personal Blizzard
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You summon an isolated blizzard of obscuring, scouring ice to follow your target. 
+
+The target attempts a [[Fortitude]] save.
+
+''Heightened (+1)'' The cold damage and persistent cold damage increase by 1 (2 on a critical failure).
+
+{{||SaveSuccessTable}}
+

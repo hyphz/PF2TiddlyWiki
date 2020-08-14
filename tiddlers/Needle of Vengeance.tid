@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814000517794
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 enemy
+m-time: 
+modified: 20200814000617208
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Enchantment Hex Mental Witch
+title: Needle of Vengeance
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A long, jagged needle jabs into the target foe’s psyche whenever it tries to attack a specifically forbidden creature. 
+
+Name yourself or one of your allies. The target takes 2 <<tag Mental>> damage any time it uses a [[Hostile Action]] against the named creature.
+
+''Heightened (+1)'' Increase the damage by 2.

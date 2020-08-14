@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200813235806448
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+mod-frightened: Can't remove while affected and in LoS.
+modified: 20200814000009953
+s-crit: 
+s-fail: The target is [[Frightened]] 1.
+s-fumble: The target is [[Frightened]] 2.
+s-hit: The target is unaffected.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cantrip Curse Emotion Enchantment Fear Hex Mental Witch
+title: Evil Eye
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your fix your eye on the target, imposing a malevolent hex.
+
+The target becomes [[Frightened]] based on the results of its [[Will]] save. 
+
+This condition value can’t be reduced below 1 while the spell is active and you can see the target. 
+
+Regardless of the outcome, the target is then temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}
+

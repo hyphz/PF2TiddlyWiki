@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814001151531
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20200814001312637
+s-crit: 
+s-fail: The target is shrouded in murky darkness. Unless the target has [[Darkvision]], other creatures are [[Concealed]] to it.
+s-fumble: 
+s-hit: The target is unaffected.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cantrip Darkness Evocation Hex Witch
+title: Shroud of Night
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Drawing your hand in a sweeping gesture, you shroud the target in a veil of night. The target’s eyes are blanketed in darkness. 
+
+If you cast this hex on a [[Willing]] ally (for instance, one with light blindness), the ally can choose which result it gets without rolling. 
+
+Regardless of the outcome, the target is then temporarily immune for 1 minute.
+
+{{||SaveSuccessTable}}

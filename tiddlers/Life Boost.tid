@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814000104100
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 4 rounds
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200814000243614
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Healing Hex Necromancy Witch
+title: Life Boost
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You temporarily bolster the target’s vitality. 
+
+The target gains [[Fast Healing]] equal to double the spell’s level.

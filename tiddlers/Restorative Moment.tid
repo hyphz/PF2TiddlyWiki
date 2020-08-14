@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814001046969
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20200814001141142
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Hex Necromancy Witch
+title: Restorative Moment
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You manipulate the threads of time around the target, giving them some of the benefits of a day’s passage. 
+
+The target decreases the values of any [[Doomed]] and [[Drained]] conditions it has by 1 and can immediately attempt one saving throw against each [[Affliction]] it has with a stage length of 1 day or less. 
+
+The target is then temporarily immune for 1 day.

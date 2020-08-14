@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814001436837
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+mod-will: -1 status.
+modified: 20200814001703151
+modtag-concentrate: Failers must flat DC 5 or lose the action.
+modtag-sleep: -2 to Will saves against sleep.
+s-crit: The target is unaffected.
+s-fail: As success, and any time the target uses a <<tag Concentrate>> action, it must succeed at a DC 5 flat check or the action is disrupted.
+s-fumble: 
+s-hit: The target takes a -1 status penalty to [[Perception]], attack rolls, and [[Will]] saves. This penalty increases to -2 for Will saves against <<tag Sleep>> effects.
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Enchantment Hex Mental Witch
+title: Veil of Dreams
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You draw the target into a drowsy state, causing daydreams and sluggishness. 
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

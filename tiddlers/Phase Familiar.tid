@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200814000940534
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: 60 feet
+m-save: 
+m-targets: Your familiar
+m-time: 
+modified: 20200814001035688
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Hex Witch
+title: Phase Familiar
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' Your familiar would take damage.
+
+You draw upon your patron’s power to momentarily shift your familiar from its solid, physical form into an ephemeral version of itself shaped of mist. 
+
+Your familiar gains resistance 5 to all damage and is immune to precision damage. These apply only against the triggering damage.
+
+''Heightened (+1)'' Increase the resistance by 2.
