@@ -1,0 +1,16 @@
+created: 20200815155839973
+feat-anc: Gnome
+feat-level: 1
+modified: 20200815160016544
+tags: Gnome Ancestry Feat
+title: First World Magic
+type: text/vnd.tiddlywiki
+
+Your connection to the First World grants you a primal innate spell, much like those of the fey. 
+
+Choose one cantrip from the primal spell list. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+
+''Spells available:''
+
+<<bulletlist "[tag[Primal]tag[Cantrip]]">>
+

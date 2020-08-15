@@ -1,0 +1,16 @@
+created: 20200815141052271
+feat-class: Cleric
+feat-fpre: [[Healing Font]]
+feat-level: 20
+modified: 20200815141246146
+tags: Feat Class Action Uncommon Cleric Reaction
+title: Denier of Destruction
+type: text/vnd.tiddlywiki
+
+''Trigger'' Any ally within 30 feet that you can heal with your [[Heal]] spell would take damage from an attack or effect from a source you can observe.
+
+''Requirements'' You have a heal spell prepared and you aren’t [[Flat-Footed]] to the source of the damage.
+
+You cast [[Heal]] on the triggering target. Instead of its normal effects, the heal spell reduces the triggering damage by an amount equal to the Hit Points a 1-action heal spell of that level would have recovered.
+
+As usual, if this reduces the damage to 0, it might also remove additional effects of the triggering attack, such as injury poisons.

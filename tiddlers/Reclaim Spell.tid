@@ -1,0 +1,14 @@
+created: 20200815142249385
+feat-class: Wizard
+feat-fpre: [[Reprepare Spell]]
+feat-level: 20
+modified: 20200815142357446
+tags: Feat Class Uncommon Wizard
+title: Reclaim Spell
+type: text/vnd.tiddlywiki
+
+You reclaim the magic of an ongoing spell, using it reprepare a spell with a duration. 
+
+You [[Dismiss]] a Spell of 4th level or lower that you cast today from a spell slot with at least half its duration remaining, even if that spell can’t normally be Dismissed. 
+
+You can then spend 10 minutes to reprepare the spell in that spell slot, as [[Reprepare Spell]].

@@ -1,0 +1,16 @@
+created: 20200815162358350
+feat-anc: Goblin
+feat-level: 1
+mod-subsist: +1/+2 circumstance and can use Society or Survival in a settlement.
+modified: 20200815162530841
+tags: Goblin Ancestry Feat
+title: City Scavenger
+type: text/vnd.tiddlywiki
+
+You know that the greatest treasures often look like refuse, and you scoff at those who throw away perfectly good scraps. 
+
+You gain a +1 circumstance bonus to checks to [[Subsist]], and you can use [[Society]] or [[Survival]] when you Subsist in a settlement.
+
+When you Subsist in a city, you also gather valuable junk that silly longshanks threw away. You can [[Earn Income]] using Society or Survival in the same time as you Subsist, without spending any additional days of downtime. You also gain a +1 circumstance bonus to this check.
+
+''Special'' If you have the irongut goblin heritage, increase the bonuses to +2.

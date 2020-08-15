@@ -1,0 +1,14 @@
+created: 20200815160231418
+feat-anc: Gnome
+feat-level: 1
+modified: 20200815160318749
+modtag-illusion: +1 circumstance Perception and Will; auto disbelieve in 10 feet.
+tags: Gnome Ancestry Feat
+title: Illusion Sense
+type: text/vnd.tiddlywiki
+
+Your ancestors spent their days cloaked and cradled in illusions, and as a result, sensing illusion magic is second nature to you. 
+
+You gain a +1 circumstance bonus to both Perception checks and Will saves against illusions.
+
+When you come within 10 feet of an illusion that can be disbelieved, the GM rolls a secret check for you to disbelieve it, even if you didn’t spend an action to [[Interact]] with the illusion.

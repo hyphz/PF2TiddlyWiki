@@ -1,0 +1,11 @@
+created: 20200815172110515
+feat-anc: Halfling
+feat-fpre: [[Halfling Luck]]
+feat-level: 9
+mod-halfling_luck: Can use a second time/day on failing an attack or Perception.
+modified: 20200815172159787
+tags: Ancestry Feat Halfling
+title: Guiding Luck
+type: text/vnd.tiddlywiki
+
+Your luck guides you to look the right way and aim your blows unerringly. You can use [[Halfling Luck]] twice per day: once in response to its normal trigger, and once when you fail a [[Perception]] check or attack roll instead of the normal trigger.

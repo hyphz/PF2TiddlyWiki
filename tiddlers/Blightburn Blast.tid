@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200815133933433
+m-area: 15 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 7
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20200815134039603
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Disease Evocation Arcane Occult Primal
+title: Blightburn Blast
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You channel a blast of powerful blightburn radiation from your hands. 
+
+You deal 4d6 poison damage to creatures in the area. Creatures who fail their save are afflicted with stage 1 of [[Blightburn Sickness]] (on a critical failure, the creature moves immediately to stage 2). 
+
+The level of blightburn sickness caused by this spell is equal to twice the spell’s level, and the disease’s save DC uses the caster’s DC.

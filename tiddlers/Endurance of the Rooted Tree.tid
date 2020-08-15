@@ -1,0 +1,16 @@
+created: 20200815141926702
+feat-class: Monk
+feat-fpre: [[Wholeness of Body]]
+feat-level: 20
+mod-starvation: Don't need to eat.
+mod-suffocating: Don't need to breathe.
+mod-thirst: Don't need to drink.
+mod-wholeness_of_body: Can cast as a free action.
+modified: 20200815142103767
+tags: Feat Class Uncommon Monk
+title: Endurance of the Rooted Tree
+type: text/vnd.tiddlywiki
+
+You don’t need to eat, drink, or breathe. 
+
+In addition, you can cast the [[Wholeness of Body]] ki spell almost effortlessly. You can cast it as a [[Free]] action that triggers at the start of your turn.

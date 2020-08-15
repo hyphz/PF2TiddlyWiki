@@ -1,0 +1,8 @@
+created: 20200815150335813
+mod-temperature_effects: Cold effects reduced by one step.
+modified: 20200815150518756
+tags: Heritage Elf
+title: Arctic Elf
+type: text/vnd.tiddlywiki
+
+You gain you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).

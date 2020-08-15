@@ -1,0 +1,11 @@
+created: 20200815150858091
+mod-climb: Half speed on success, full speed on crit.
+mod-take_cover: Can always take cover in forest terrain.
+modified: 20200815151000216
+tags: Heritage Elf
+title: Woodland Elf
+type: text/vnd.tiddlywiki
+
+When [[Climb]]ing trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have [[Quick Climb]]). This doesn’t affect you if you’re using a climb Speed.
+
+You can always use the [[Take Cover]] action when you are within forest terrain to gain cover, even if you’re not next to an obstacle you can Take Cover behind.

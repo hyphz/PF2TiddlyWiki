@@ -1,0 +1,18 @@
+created: 20200815140727505
+feat-class: Champion
+feat-level: 20
+feat-sppre: [[Fiendsbane Oath]]
+modified: 20200815141041879
+tags: Feat Class Action Uncommon Champion Free
+title: Banishing Blow
+type: text/vnd.tiddlywiki
+
+''Trigger'' You use your champion’s reaction, triggered by a fiend within your reach.
+
+The erratic teleportation magic you //have// experienced in the has taught you a few tricks. 
+
+You attempt an [[Athletics]] check to [[Shove]] the fiend that triggered your champion’s reaction; on a success, the target can’t teleport or summon creatures for 1 minute. 
+
+On a critical success, the target is also [[Stunned]] 1 and can’t teleport or summon creatures for 1 hour, and if you are on your home plane and the target is a <<tag Fiend>> of level 18 or lower from another plane, it is also banished to its home plane. 
+
+Your [[Multiple Attack Penalty]] doesn’t apply to this attack.

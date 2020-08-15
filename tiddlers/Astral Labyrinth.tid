@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200815143542516
+m-area: 80 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 1 day
+m-level: 9
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200815143800811
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Stunned]] 1, you are mentally alerted that something has failed its save against this spell, and the creature arrives in the empty space closest to the point you chose instead of its intended destination.
+s-fumble: The creature is [[Stunned]] 3, you get a mental glimpse of its appearance, and the creature arrives in the empty space closest to the point you chose instead of its intended destination.
+s-hit: The creature is [[Stunned]] 1.
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Abjuration Incapacitation Arcane Divine Occult
+title: Astral Labyrinth
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You connect the entire area with an invisible maze of astral energy that interferes with dimensional and mental magic.
+
+Choose a point in the area that you can see when you cast this spell. Objects other than force effects and rare metals can’t block this spell’s area. 
+
+Astral labyrinth attempts to [[Counteract]] magical <<tag Mental>> effects targeting or including anyone other than the caster in the area, though it has no effect on mental effects that began outside the area or before the spell was cast.
+
+In addition, any creature that tries to depart or arrive in a location in the area by <<tag Teleportation>> or extradimensional travel (including extradimensional spaces) must attempt a Will saving throw. Summoned creatures must attempt the save when they are summoned, but not when the summoning ends.
+
+''Heightened (10th)'' You and creatures transported by your spells can’t get a result worse than success on the saving throw to teleport into or out of the area.
+
+{{||SaveSuccessTable}}
+

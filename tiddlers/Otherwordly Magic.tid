@@ -1,0 +1,15 @@
+created: 20200815151453126
+feat-anc: Elf
+feat-level: 1
+modified: 20200815160004734
+tags: Feat Ancestry Elf
+title: Otherwordly Magic
+type: text/vnd.tiddlywiki
+
+Your elven magic manifests as a simple arcane spell, even if you aren’t formally trained in magic. 
+
+Choose one cantrip from the arcane spell list. You can cast this cantrip as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+
+''Available Spells:''
+
+<<bulletlist "[tag[Arcane]tag[Cantrip]]">>

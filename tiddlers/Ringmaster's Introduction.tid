@@ -1,0 +1,15 @@
+created: 20200815142835814
+feat-class: Bard
+feat-level: 20
+modified: 20200815142959478
+tags: Feat Class Uncommon Bard Auditory Reaction Action
+title: Ringmaster's Introduction
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally’s turn begins.
+
+''Requirements'' The ally hasn’t acted in the current combat.
+
+You announce the triggering ally with a litany of their legendary achievements, spurring them to action. 
+
+The target is [[Quickened]] this turn and can spend the extra action to [[Stride]], [[Strike]], [[Demoralize]], [[Feint]], or [[Perform]].

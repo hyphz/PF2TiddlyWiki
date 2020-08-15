@@ -1,0 +1,12 @@
+created: 20200815170532960
+feat-anc: Halfling
+feat-level: 1
+lore-mention: Halfling
+modified: 20200815170611755
+tags: Ancestry Feat Halfling
+title: Halfling Lore
+type: text/vnd.tiddlywiki
+
+You’ve dutifully learned how to keep your balance and how to stick to the shadows where it’s safe, important skills passed down through generations of halfling tradition. You gain the trained proficiency rank in [[Acrobatics]] and [[Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. 
+
+You also become trained in Halfling [[Lore]].

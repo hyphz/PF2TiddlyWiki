@@ -1,0 +1,12 @@
+created: 20200815165436330
+feat-anc: Goblin
+feat-fpre: [[Very Sneaky]]
+feat-level: 13
+mod-hide: Needn't be out of sight to hide.
+mod-sneak: Needn't be out of sight, and move up to speed.
+modified: 20200815165520908
+tags: Goblin Ancestry Feat
+title: Very, Very Sneaky
+type: text/vnd.tiddlywiki
+
+You can move up to your Speed when you use the [[Sneak]] action, and you no longer need to have cover or greater cover or be concealed to [[Hide]] or [[Sneak]].

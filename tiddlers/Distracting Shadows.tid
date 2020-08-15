@@ -1,0 +1,11 @@
+created: 20200815170334580
+feat-anc: Halfling
+feat-level: 1
+mod-hide: Can use a larger creature as cover.
+mod-sneak: Can use a larger creature as cover.
+modified: 20200815170520764
+tags: Ancestry Feat Halfling
+title: Distracting Shadows
+type: text/vnd.tiddlywiki
+
+You have learned to remain hidden by using larger folk as a distraction to avoid drawing attention to yourself. You can use creatures that are at least one size larger than you (usually Medium or larger) as cover for the [[Hide]] and [[Sneak]] actions, though you still can’t use such creatures as cover for other uses, such as the [[Take Cover]] action.

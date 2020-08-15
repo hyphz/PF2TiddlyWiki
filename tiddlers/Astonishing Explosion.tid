@@ -1,0 +1,18 @@
+created: 20200815140448437
+feat-class: Alchemist
+feat-level: 20
+mod-quick_alchemy: Bombs fascinate and stun enemies (Additive 2).
+modified: 20200815140655176
+tags: Feat Class Action Alchemist Uncommon Additive Free
+title: Astonishing Explosion
+type: text/vnd.tiddlywiki
+
+''Additive 2''.
+
+''Frequency'' once per minute.
+
+''Trigger'' You use [[Quick Alchemy]] to craft an alchemical bomb that deals splash damage and is at least 2 levels lower than your [[Advanced Alchemy]] level.
+
+Your bomb incorporates an explosive spark of wonder that leaves witnesses dumbfounded. 
+
+Any target hit by your Strike with the bomb is [[Fascinated]] by you for 1 round. On a critical success, the target is also [[Stunned]] 1.

@@ -1,0 +1,18 @@
+created: 20200815142518867
+feat-class: Fighter
+feat-fpre: [[Dueling Riposte]] [[Mirror Shield]] [[Twin Riposte]]
+feat-level: 20
+modified: 20200815142822262
+tags: Feat Class Uncommon Fighter
+title: Reflecting Riposte
+type: text/vnd.tiddlywiki
+
+''Trigger'' An opponent casts a spell and you critically succeed at a saving throw against it.
+
+''Requirements'' You have a shield raised or are benefiting from [[Dueling Parry]] or [[Twin Parry]].
+
+You attempt to counteract the triggering spell. Use your attack roll modifier with your shield or parrying weapon for your [[Counteract]] check. 
+
+If you counteract the spell, it is reflected upon the caster. If the spell targeted individual creatures, it targets the caster only. If the spell targeted an area centered on a point, the new area is centered on the caster. If the spell was a cone or line, the cone or line emanates from you toward the caster. 
+
+If the spell has a save DC, it uses your class DC, and if it requires a spell attack roll, use the same attack roll modifier as the counteract check.

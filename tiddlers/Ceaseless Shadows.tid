@@ -1,0 +1,17 @@
+created: 20200815172258356
+feat-anc: Halfling
+feat-fpre: [[Distracting Shadows]]
+feat-level: 13
+mod-cover: Increase cover from creatures by one step.
+mod-hide: Do not need cover or concealment.
+mod-sneak: Do not need cover or concealment.
+modified: 20200815172409754
+tags: Ancestry Feat Halfling
+title: Ceaseless Shadows
+type: text/vnd.tiddlywiki
+
+You excel at going unnoticed, especially among a crowd. 
+
+You no longer need to have [[Cover]] or be [[Concealed]] to [[Hide]] or [[Sneak]]. 
+
+If you would have lesser cover from creatures, you gain cover and can [[Take Cover]], and if you would have cover from creatures, you gain greater cover.

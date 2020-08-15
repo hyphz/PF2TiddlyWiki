@@ -1,0 +1,13 @@
+created: 20200815170958934
+feat-anc: Halfling
+feat-level: 1
+mod-balance: Promote successes, and not flat-footed.
+mod-climb: Promote successes, and not flat-footed.
+modified: 20200815171108381
+tags: Ancestry Feat Halfling
+title: Sure Feet
+type: text/vnd.tiddlywiki
+
+Whether keeping your balance or scrambling up a tricky climb, your hairy, calloused feet easily find purchase. If you roll a success on an [[Acrobatics]] check to [[Balance]] or an [[Athletics]] check to [[Climb]], you get a critical success instead.
+
+You’re not [[Flat-Footed]] when you attempt to Balance or Climb.

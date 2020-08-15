@@ -1,0 +1,19 @@
+created: 20200815171147465
+feat-anc: Halfling
+feat-level: 1
+mod-escape: Promote successes.
+mod-fortitude: Promote against grabbed or restrained.
+mod-grab: Must make Athletics check, not automatic.
+mod-grapple: Demote failures to grab.
+mod-reflex: Promote against grabbed or restrained.
+mod-will: Promote against grabbed or restrained.
+modified: 20200815171654544
+tags: Ancestry Feat Halfling
+title: Unfettered Halfling
+type: text/vnd.tiddlywiki
+
+You were forced into service as a laborer, either pressed into indentured servitude or shackled by the evils of slavery, but you’ve since escaped and have trained to ensure you’ll never be caught again. 
+
+Whenever you roll a success on a check to [[Escape]] or a saving throw against an effect that would impose the [[Grabbed]] or [[Restrained]] condition on you, you get a critical success instead. 
+
+Whenever a creature rolls a failure on a check to [[Grapple]] you, they get a critical failure instead. If a creature uses the [[Grab]] ability on you, it must succeed at an [[Athletics]] check to grab you instead of automatically grabbing you.

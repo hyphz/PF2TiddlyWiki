@@ -1,0 +1,20 @@
+a-actions: 1
+a-crit: The target takes a –1 status penalty to [[Perception]] checks and [[Will]] saves for 1 minute.
+a-defense: Will
+a-fumble: The target is temporarily immune to attempts to use Goblin Song for 1 hour.
+a-hit: The target takes a –1 status penalty to [[Perception]] checks and [[Will]] saves for 1 round.
+a-skill: Performance
+created: 20200815162941207
+feat-anc: Goblin
+feat-level: 1
+modified: 20200815163214883
+modified-by: Performance
+tags: Goblin Ancestry Feat Action Untrained
+title: Goblin Song
+type: text/vnd.tiddlywiki
+
+You sing annoying goblin songs, distracting your foes with silly and repetitive lyrics. 
+
+Attempt a [[Performance]] check against the [[Will]] DC of a single enemy within 30 feet. This has all the usual traits and restrictions of a [[Performance]] check.
+
+You can affect up to two targets within range if you have expert proficiency in Performance, four if you have master proficiency, and eight if you have legendary proficiency.

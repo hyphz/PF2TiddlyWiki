@@ -1,0 +1,14 @@
+created: 20200815161347295
+mod-fortitude: +2 circumstance vs afflictions or sickened from ingestion, promote successes.
+mod-reflex: +2 circumstance vs afflictions or sickened from ingestion.
+mod-sickened: Can still eat and drink, +2 circumstance on saves.
+mod-will: +2 circumstance vs afflictions or sickened from ingestion.
+modified: 20200815161700130
+modtag-affliction: +2 circumstance on saves due to ingestion.
+tags: Heritage Goblin
+title: Irongut Goblin
+type: text/vnd.tiddlywiki
+
+You can keep yourself fed with poor meals in a settlement as long as garbage is readily available, without using the [[Subsist]] downtime activity. You can eat and drink things when you are [[Sickened]]. 
+
+You gain a +2 circumstance bonus to saving throws against [[Affliction]]s, against gaining the [[Sickened]] condition, and to remove the sickened condition. When you roll a success on a [[Fortitude]] save affected by this bonus, you get a critical success instead. All these benefits apply only when the affliction or condition resulted from something you ingested.

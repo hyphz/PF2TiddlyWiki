@@ -1,0 +1,19 @@
+a-actions: 2
+a-subactions: Strike
+created: 20200815140033556
+feat-class: Barbarian
+feat-level: 20
+modified: 20200815140530602
+tags: Feat Class Barbarian Action Uncommon
+title: Annihilating Swing
+type: text/vnd.tiddlywiki
+
+You have learned from the brute destructive power of //monsters//. 
+
+You make a melee [[Strike]] that ignores any resistances the target has. 
+
+If you target a solid unattended object or surface with your Strike, you might automatically destroy it without an attack roll. If you target any object or surface with Hardness 20 or less that isn’t a magic item or the effect of a spell, you destroy it. 
+
+If the target object or surface is a magic item or the effect of a spell, you attempt to [[Counteract]] it using your attack bonus with the Strike for the counteract check. On a successful counteract check, you destroy the object or surface unless it has Hardness greater than 20, is an artifact, or is similarly difficult to destroy. 
+
+You destroy up to a 5-foot cube of an object or surface larger than Medium.

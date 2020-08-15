@@ -1,0 +1,10 @@
+created: 20200815162229017
+feat-anc: Goblin
+feat-level: 1
+modified: 20200815162345247
+modtag-fire: +Half level on fire damage from spells or items, +1 status on persistent.
+tags: Goblin Ancestry Feat
+title: Burn It!
+type: text/vnd.tiddlywiki
+
+Fire fascinates you. Your spells and alchemical items that deal fire damage gain a status bonus to damage equal to half the spell’s level or one-quarter the item’s level (minimum 1). You also gain a +1 status bonus to any persistent fire damage you deal.

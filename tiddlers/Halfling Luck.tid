@@ -1,0 +1,15 @@
+created: 20200815170634805
+feat-anc: Halfling
+feat-level: 1
+modified: 20200815170719299
+tags: Ancestry Feat Halfling Action Free Fortune
+title: Halfling Luck
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' You fail a skill check or saving throw.
+
+Your happy-go-lucky nature makes it seem like misfortune avoids you, and to an extent, that might even be true. 
+
+You can reroll the triggering check, but you must use the new result, even if it’s worse than your first roll.

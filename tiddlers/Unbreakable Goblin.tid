@@ -1,0 +1,8 @@
+created: 20200815161836047
+mod-falling: Take falling damage per half the distance.
+modified: 20200815161930097
+tags: Heritage Goblin
+title: Unbreakable Goblin
+type: text/vnd.tiddlywiki
+
+You gain 10 Hit Points from your ancestry instead of 6. When you fall, reduce the [[Falling]] damage you take as though you had fallen half the distance.

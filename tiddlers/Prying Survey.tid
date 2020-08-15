@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200815144445054
+m-area: 120 foot [[Emanation]]
+m-components: Somatic Verbal Material
+m-duration: 1 hour
+m-level: 8
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 minute
+modified: 20200815144848704
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Divination Scrying Arcane Occult Material
+title: Prying Survey
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create eight invisible, floating eyes, each about 3 inches in diameter, that scan the area around you, transmitting rough impressions of the environment. 
+
+The eyes constantly examine and send you summaries of their findings. They are solid and can’t move through barriers, and they don’t follow routes that they fail to find while [[Search]]ing. 
+
+Any damage to an eye destroys it. When all eyes are destroyed, the spell ends. 
+
+As a single action, which has the <<tag Concentrate>> trait, you can concentrate on a location within the area that an eye can reach. An eye travels to that location, and you [[Seek]] visually as if you were there. 
+
+As an exploration activity, you can travel at half speed while continuing to concentrate on the eyes to gain the benefits of both the [[Scout]] and [[Search]] activities. 
+
+With the eyes, you can check everything even if you are traveling faster than 300 feet per minute. The eyes use your [[Perception]] modifier. 
+
+You can have only one prying survey in effect at a time.
+
+''Heightened (10th)'' The area increases to a 500-foot emanation.

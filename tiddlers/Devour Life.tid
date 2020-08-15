@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200815144121524
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 8
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20200815144234797
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Death Healing Necromancy Negative Divine Occult
+title: Devour Life
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You attempt to utterly consume the target’s life force. 
+
+The target takes 60 <<tag Negative>> damage with a basic [[Fortitude]] save. 
+
+If this damage reduces the target to 0 Hit Points, it dies immediately. 
+
+You regain Hit Points equal to half the negative damage the target takes (after applying resistance and the like). Any excess healing is gained as temporary Hit Points, which you lose after 1 minute.
+
+''Heightened (+1)'' The damage increases by 10.
+

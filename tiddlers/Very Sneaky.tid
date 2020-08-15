@@ -1,0 +1,15 @@
+created: 20200815163857299
+feat-anc: Goblin
+feat-level: 1
+mod-sneak: Move 5 feet further and have till end of turn to get out of sight.
+modified: 20200815164004873
+tags: Goblin Ancestry Feat
+title: Very Sneaky
+type: text/vnd.tiddlywiki
+
+Taller folk rarely pay attention to the shadows at their feet, and you take full advantage of
+this. 
+
+You can move 5 feet farther when you take the [[Sneak]] action, up to your Speed. 
+
+In addition, as long as you continue to use Sneak actions and succeed at your Stealth check, you don’t become [[Observed]] if you don’t have [[Cover]] or greater cover and aren’t [[Concealed]] at the end of the Sneak action, as long as you have cover or greater cover or are concealed at the end of your turn.
