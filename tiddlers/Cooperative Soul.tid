@@ -1,0 +1,13 @@
+created: 20200815214235740
+feat-anc: Human
+feat-fpre: [[Cooperative Nature]]
+feat-level: 9
+mod-aid: Can't get lower than a success if expert in skill.
+modified: 20200815214333868
+tags: Ancestry Feat Human
+title: Cooperative Soul
+type: text/vnd.tiddlywiki
+
+You have developed a soul-deep bond with your comrades and maintain an even greater degree of cooperation with them. 
+
+If you are at least an expert in the skill you are [[Aid]]ing, you get a success on any outcome rolled to Aid other than a critical success.

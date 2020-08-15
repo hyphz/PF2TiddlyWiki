@@ -1,0 +1,15 @@
+created: 20200815213737372
+feat-anc: Human
+feat-level: 1
+mod-coerce: Demote failures.
+modified: 20200815213835180
+modtag-mental: Promote successes on saves vs action control.
+tags: Ancestry Feat Human
+title: Haughty Obstinacy
+type: text/vnd.tiddlywiki
+
+Your powerful ego makes it harder for others to order you around. 
+
+If you roll a success on a saving throw against a <<tag Mental>> effect that attempts to directly control your actions, you critically succeed instead. 
+
+If a creature rolls a failure on a check to [[Coerce]] you using [[Intimidation]], it gets a critical failure instead (so it can’t try to Coerce you again for 1 week).

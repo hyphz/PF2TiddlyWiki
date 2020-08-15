@@ -1,0 +1,12 @@
+created: 20200815214607208
+feat-anc: Human
+feat-fpre: [[Unconventional Weaponry]]
+feat-level: 13
+modified: 20200815214653971
+tags: Ancestry Feat Human
+title: Unconventional Expertise
+type: text/vnd.tiddlywiki
+
+//You must be trained in the weapon you chose for [[Unconventional Weaponry]] to take this.//
+
+You’ve continued to advance your powers using your unconventional weapon. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in the weapon you chose for Unconventional Weaponry.

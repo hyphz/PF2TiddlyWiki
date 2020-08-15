@@ -1,0 +1,15 @@
+created: 20200815213932603
+feat-anc: Human
+feat-level: 1
+modified: 20200815214008675
+tags: Ancestry Feat Human
+title: Unconventional Weaponry
+type: text/vnd.tiddlywiki
+
+You’ve familiarized yourself with a particular weapon, potentially from another ancestry or culture. 
+
+Choose an uncommon simple or martial weapon with a trait corresponding to an ancestry (such as <<tag Dwarf>>, <<tag Goblin>>, or <<tag Orc>>) or that is common in another culture. 
+
+You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a simple weapon.
+
+If you are trained in all martial weapons, you can choose an uncommon advanced weapon with such a trait. You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a martial weapon.
