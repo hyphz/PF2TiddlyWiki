@@ -1,0 +1,15 @@
+created: 20200817234542425
+feat-anc: Human
+feat-level: 1
+modified: 20200817234638238
+tags: Ancestry Feat Human Uncommon
+title: Quah Bond
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You grew up among tribes, with the spirits watching over you, and they offer you guidance. 
+
+You gain the trained proficiency rank in the //one of the skills listed below// (or another skill of your choice, if you’re already trained in that skill). You gain the [[Assurance]] skill feat in that skill, as the spirits’ help guides your actions.
+
+[[Religion]], [[Athletics]], [[Nature]], [[Diplomacy]], [[Intimidation]], [[Medicine]], [[Acrobatics]].

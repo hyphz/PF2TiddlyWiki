@@ -1,0 +1,14 @@
+created: 20200817234905931
+feat-anc: Human
+feat-level: 1
+mod-perception: +4 status if construct looking for creature it was built for.
+modified: 20200817235032676
+tags: Ancestry Feat Human Uncommon
+title: Tupilaq Carver
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' You have a spellcasting class feature with the [[Divine]] or [[Primal]] tradition.
+
+Add the [[Summon Construct]] spell to your spell list. The constructs you summon have a distinct ivory scrimshaw appearance, and if you include a drop of blood, lock of hair, or other portion of a creature’s body as part of the spell’s material component, the summoned construct gains a +4 status bonus to [[Perception]] checks to sense or locate that creature.

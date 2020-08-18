@@ -1,0 +1,12 @@
+created: 20200818000002999
+feat-anc: Human
+feat-fpre: [[Wintertouched Human]]
+feat-level: 13
+modified: 20200818000036940
+tags: Ancestry Feat Human
+title: Irriseni Ice-Witch
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+Your resistance to cold increases to 5 + half your level, and you can cast 5th-level [[Wall of Ice]] as an innate arcane spell once per day.

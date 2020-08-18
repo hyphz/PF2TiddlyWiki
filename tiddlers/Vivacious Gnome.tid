@@ -1,0 +1,8 @@
+created: 20200818000545467
+mod-doomed: Has effect as if value was 1 lower.
+modified: 20200818000622337
+tags: Heritage Gnome
+title: Vivacious Gnome
+type: text/vnd.tiddlywiki
+
+You gain <<tag Negative>> resistance equal to half your level (minimum 1). When you have the [[Doomed]] condition, the condition affects you as if its value was 1 lower than it actually is (doomed 1 has no effect, doomed 2 causes you to die at dying 3, and so on).

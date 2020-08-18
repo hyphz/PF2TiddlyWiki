@@ -1,5 +1,5 @@
 created: 20200801191700212
-modified: 20200801213240247
+modified: 20200817234104238
 tags: 
 title: AncestrySummary
 type: text/vnd.tiddlywiki
@@ -24,7 +24,7 @@ type: text/vnd.tiddlywiki
 <$list filter="1 5 9 13 17" variable="level">
 <h3>Level <<level>> {{!!title}} Feats</h3>
 <ul>
-<$list filter="[tag[Feat]field:feat-anc{!!title}}field:feat-level<level>]">
+<$list filter="[tag[Feat]field:feat-anc{!!title}}field:feat-level<level>sort[]]">
 <li><$link/></li>
 </$list>
 </ul>

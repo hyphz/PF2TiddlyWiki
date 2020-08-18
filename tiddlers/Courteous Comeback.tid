@@ -1,0 +1,16 @@
+created: 20200817233552866
+feat-anc: Human
+feat-level: 1
+mod-diplomacy: Reroll once on critical failures.
+modified: 20200817233702361
+tags: Ancestry Feat Human Uncommon Action Free Fortune
+title: Courteous Comeback
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Trigger'' You critically fail a [[Diplomacy]] check.
+
+''Requirements'' You’re in a settlement or community, and you haven’t used Courteous Comeback in this settlement or community within the past month.
+
+Reroll the triggering [[Diplomacy]] check, using the second result.

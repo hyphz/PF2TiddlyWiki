@@ -1,0 +1,13 @@
+created: 20200817235703414
+feat-anc: Human
+feat-fpre: [[Saoc Astrology]]
+feat-level: 9
+mod-saoc_astrology: Alters roll table.
+modified: 20200817235757375
+tags: Ancestry Feat Human
+title: Heir of the Saoc
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+When you use [[Saoc Astrology]], roll 1d4 instead; on a 1, you take a –1 penalty to the skill check. On any other result, you gain a circumstance bonus of that value (for instance, a +3 circumstance bonus on a 3).

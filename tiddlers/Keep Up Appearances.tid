@@ -1,0 +1,18 @@
+a-defense: Perception
+a-skill: Deception
+created: 20200817234201785
+feat-anc: Human
+feat-level: 1
+modified: 20200817234336721
+modtag-emotion: Can respond to trick user that effect didn't work.
+tags: Ancestry Feat Human Uncommon Reaction Action
+title: Keep Up Appearances
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Trigger'' You are affected by an <<tag Emotion>> effect.
+
+Roll a [[Deception]] check and compare the result to any observing creatures’ [[Perception]] DCs. On a success, that creature believes you were unaffected by the emotion effect. 
+
+A creature tricked in this manner can’t benefit from the emotion effect and can’t use abilities that require you to be under this emotion effect; for example, if you successfully use this ability to trick a will-o’-wisp into believing you aren’t under a fear effect, it can’t use its Feed on Fear ability on you.

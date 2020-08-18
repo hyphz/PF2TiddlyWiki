@@ -1,0 +1,17 @@
+created: 20200817235146218
+feat-anc: Human
+feat-level: 1
+mod-fortitude: +1 circumstance and promote successes vs witch/hag spells.
+mod-reflex: +1 circumstance and promote successes vs witch/hag spells.
+mod-will: +1 circumstance and promote successes vs witch/hag spells.
+modified: 20200817235307958
+modtag-curse: +1 circumstance to saves and promote successes.
+tags: Ancestry Feat Human Uncommon
+title: Witch Warden
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You gain a +1 circumstance bonus to saving throws against <<tag Curse>>s, and to saving throws against spells cast by a witch or hag. 
+
+If you roll a success on a saving throw against a curse or a spell cast by a witch or hag, you get a critical success instead.

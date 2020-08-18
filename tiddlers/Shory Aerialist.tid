@@ -1,0 +1,15 @@
+created: 20200818000224172
+feat-anc: Human
+feat-fpre: [[Shory Aeromancer]]
+feat-level: 13
+mod-maneuver_in_flight: +2 circumstance.
+modified: 20200818000328347
+tags: Ancestry Feat Human
+title: Shory Aerialist
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+//You can take this feat without the prerequisite if you are able to cast [[Fly]].//
+
+You gain a +2 circumstance bonus to [[Acrobatics]] checks to [[Maneuver in Flight]] and a +5-foot status bonus to your fly Speed whenever you are flying via magic.

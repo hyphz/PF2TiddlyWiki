@@ -1,0 +1,14 @@
+created: 20200817235557628
+feat-anc: Human
+feat-fpre: [[Dragon Spit]]
+feat-level: 9
+modified: 20200817235638504
+tags: Ancestry Feat Human
+title: Dragon Prince
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You can cast the [[Dragon Breath]] sorcerer bloodline spell as an innate arcane spell once per day, but you can use only the dragon breath that is associated with your heritage and that matches the energy type of your [[Dragon Spit]] feat. 
+
+At 12th level and every 3 levels thereafter, the spell is heightened by an additional spell level.

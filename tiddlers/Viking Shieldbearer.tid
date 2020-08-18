@@ -1,0 +1,13 @@
+created: 20200817235045436
+feat-anc: Human
+feat-level: 1
+modified: 20200817235115669
+tags: Ancestry Feat Human Uncommon
+title: Viking Shieldbearer
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You trained with shields and weapons as soon as you were old enough to hold them, eager to win honor and glory for yourself. 
+
+You gain the [[Shield Block]] reaction and are trained in your choice of the [[Battle Axe]] or [[Longsword]].

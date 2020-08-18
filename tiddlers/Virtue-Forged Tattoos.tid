@@ -1,0 +1,14 @@
+created: 20200817235840922
+feat-anc: Human
+feat-fpre: [[Ornate Tattoo]]
+feat-level: 9
+modified: 20200817235926956
+tags: Ancestry Feat Human
+title: Virtue-Forged Tattoos
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+Choose a 3rd-level arcane spell from the same school as your [[Arcane Tattoos]], either a common spell or another to which you have access, including a lower-level spell heightened to 3rd level if you wish.
+
+You can cast that spell once per day as an innate arcane spell.
