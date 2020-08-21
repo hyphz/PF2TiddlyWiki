@@ -1,0 +1,19 @@
+created: 20200821214649011
+feat-anc: Elf
+feat-level: 1
+mod-fortitude: +1 circumstance vs immobilized/paralyzed/slowed.
+mod-immobilized: Reduce duration by 1 round to minimum 1.
+mod-paralyzed: Reduce duration by 1 round to minimum 1.
+mod-reflex: +1 circumstance vs immobilized/paralyzed/slowed.
+mod-slowed: Reduce duration by 1 round to minimum 1.
+mod-will: +1 circumstance vs immobilized/paralyzed/slowed.
+modified: 20200821214825114
+tags: Ancestry Feat Elf
+title: Elven Verve
+type: text/vnd.tiddlywiki
+
+While all elves are immune to the paralyzing touch of ghouls, you can shake off flesh-numbing magic of all kinds. 
+
+You gain a +1 circumstance bonus to saves against effects that would impose the [[Immobilized]], [[Paralyzed]], or [[Slowed]] conditions. 
+
+When you would be immobilized, paralyzed, or slowed for at least 2 rounds, reduce that duration by 1 round.

@@ -1,0 +1,15 @@
+created: 20200821215902375
+feat-anc: Elf
+feat-level: 5
+mod-confused: At turn start, reattempt Will save to be paralyzed instead.
+mod-controlled: At turn start, reattempt Will save to be paralyzed instead.
+mod-fleeing: At turn start, reattempt Will save to be paralyzed instead.
+modified: 20200821220042678
+tags: Ancestry Feat Elf Uncommon
+title: Defiance unto Death
+turn-stn: If confused
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+If you would start your turn [[Confused]], [[Controlled]], or [[Fleeing]] due to a failed Will save, you can attempt a [[Will]] save against the same DC; on a success, you become [[Paralyzed]] until your next turn, rather than act against your will.

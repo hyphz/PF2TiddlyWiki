@@ -4,8 +4,9 @@ a-fail: The target doesn’t do what you say, and if they were not already [[Unf
 a-fumble: The target refuses to comply, becomes [[Hostile]] if they weren’t already, and can’t be Coerced by you for at least 1 week.
 a-hit: As critical success, but once the target becomes [[Unfriendly]], they might decide to act against you—for example, by reporting you to the authorities or assisting your enemies.
 a-skill: Intimidation
+a-time: 1 minute
 created: 20200706220844293
-modified: 20200725144724143
+modified: 20200821231032467
 modified-by: Intimidation
 tags: Auditory Concentrate Emotion Exploration Linguistic Mental Action
 title: Coerce

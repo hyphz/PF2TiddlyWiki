@@ -1,5 +1,5 @@
 created: 20200722215251349
-modified: 20200814002603436
+modified: 20200821231114104
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/title
 type: text/vnd.tiddlywiki
@@ -42,6 +42,9 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 <$transclude tiddler="ReactionIcon"/>
 </$list>
 <$list filter="[all[current]!tag[Ritual]has[m-time]]">
+<$transclude tiddler="ClockIcon"/>
+</$list>
+<$list filter="[all[current]has[a-time]]">
 <$transclude tiddler="ClockIcon"/>
 </$list>
 <$list filter="[all[current]!tag[Reaction]!tag[Free]!has[a-actions]!has[m-time]]">

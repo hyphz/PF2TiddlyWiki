@@ -1,0 +1,14 @@
+created: 20200819192111967
+feat-anc: Dwarf
+feat-level: 5
+mod-parry: With Clan Dagger, can give the bonus to an ally.
+modified: 20200819192308398
+tags: Feat Ancestry Dwarf
+title: Clan Protector
+type: text/vnd.tiddlywiki
+
+Your clan dagger can protect your allies as easily as yourself. 
+
+When you use an [[Interact]] action to gain a circumstance bonus to AC from your clan dagger’s [[Parry]] trait, you can grant the circumstance bonus to an adjacent ally instead of gaining it yourself. 
+
+You can use multiple [[Interact]] actions to protect multiple allies, or to protect yourself and an ally. The ally benefits from the bonus to AC only when they are adjacent to you.

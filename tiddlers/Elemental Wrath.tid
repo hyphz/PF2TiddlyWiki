@@ -1,0 +1,13 @@
+created: 20200821213516878
+feat-anc: Elf
+feat-level: 1
+modified: 20200821213629518
+tags: Ancestry Feat Elf
+title: Elemental Wrath
+type: text/vnd.tiddlywiki
+
+You are so attuned to the land that you can call forth a bolt of energy from your surroundings. 
+
+When you gain this feat, select <<tag Acid>>, <<tag Cold>>, <<tag Electricity>>, or <<tag Fire>>. You can call to the land to cast the [[Acid Splash]] cantrip as an innate primal spell at will, except the spell has only [[Verbal]] components and deals the type of damage you chose instead of <<tag Acid>> damage; the spell gains the trait appropriate to its damage instead of the acid trait. 
+
+A cantrip is heightened to a spell level equalto half your level rounded up.

@@ -1,0 +1,17 @@
+created: 20200819192935080
+feat-anc: Dwarf
+feat-level: 9
+feat-skill: Crafting
+feat-spre: M
+modified: 20200819193102714
+tags: Feat Ancestry Dwarf
+title: Battleforger
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' Master in [[Crafting]].
+
+You can sharpen weapons, polish armor, and apply special techniques to temporarily gain better effects from your armaments. 
+
+By spending 1 hour working on a weapon or armor, you can grant it the effects of a +1 potency rune until your next daily preparations, gaining a +1 item bonus to attack rolls for a weapon or increasing armor’s item bonus to AC by 1. 
+
+This has no effect if the weapon or armor already had a potency rune.

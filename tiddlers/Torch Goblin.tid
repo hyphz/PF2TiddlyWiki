@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20200821223733184
+feat-anc: Goblin
+feat-fpre: [[Charhide Goblin]]
+feat-level: 5
+modified: 20200821223830827
+tags: Ancestry Feat Goblin Action
+title: Torch Goblin
+type: text/vnd.tiddlywiki
+
+You’ve spent enough time on fire that you know how to use it to your advantage.
+
+You can light yourself thoroughly on fire with a held torch, a bottle of alchemist’s fire, or a similar incendiary, dealing yourself 1d6 persistent fire damage. 
+
+As long as you are suffering persistent fire damage, all your melee attacks against adjacent creatures deal an additional 1 fire damage per weapon damage die. 
+
+Any creature that successfully [[Grapple]]s, [[Shove]]s, or [[Trip]]s you takes 1d6 fire damage; if it uses a weapon for that action, the weapon takes the damage instead. 
+
+You must still attempt the flat check to remove the persistent fire damage each round, as normal.

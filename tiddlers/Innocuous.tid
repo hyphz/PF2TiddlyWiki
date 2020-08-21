@@ -1,0 +1,14 @@
+created: 20200821224925504
+feat-anc: Halfling
+feat-level: 1
+mod-create_a_diversion: On non-crit fail, humanoids don't know you were tricking them.
+modified: 20200821225011872
+tags: Ancestry Feat Halfling
+title: Innocuous
+type: text/vnd.tiddlywiki
+
+Halflings have been unobtrusive assistants of larger folk for untold ages, and your people count on this assumption of innocence. 
+
+You gain the trained proficiency rank in [[Deception]] (or another skill of your choice, if you’re already trained in Deception).
+
+If you fail a Deception check to [[Create a Diversion]], humanoid creatures aren’t aware that you were trying to trick them unless you get a critical failure on your roll.

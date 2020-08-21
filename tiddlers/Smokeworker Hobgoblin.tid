@@ -1,0 +1,10 @@
+created: 20200821231135444
+mod-concealed: Auto succeed if creature concealed by smoke.
+modified: 20200821231206896
+tags: Heritage Hobgoblin
+title: Smokeworker Hobgoblin
+type: text/vnd.tiddlywiki
+
+You gain fire resistance equal to half your level (minimum 1). 
+
+You automatically succeed at the DC 5 flat check to target a [[Concealed]] creature if that creature is concealed only by smoke.

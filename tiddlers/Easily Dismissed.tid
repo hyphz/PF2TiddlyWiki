@@ -1,0 +1,21 @@
+created: 20200821225207354
+feat-anc: Halfling
+feat-level: 5
+mod-hide: Can hide when observed in crowds as SEP field.
+mod-sneak: Can hide when observed in crowds as SEP field.
+modified: 20200821225332900
+tags: Ancestry Feat Halfling Uncommon
+title: Easily Dismissed
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You are practiced at blending into the background of the streets and halls of larger folk to ensure that you are overlooked. 
+
+When you are in a crowd or well trafficked urban area, you can attempt to [[Hide]] and [[Sneak]], even when observed.
+
+On a success, you aren’t [[Hidden]] or [[Undetected]], but other creatures simply don’t take particular notice of you, even though they can see you. 
+
+You can’t use this ability on observers who have already seen you perform obtrusive or notable actions. 
+
+If you perform any action other than to Hide or Sneak or otherwise take particularly salient actions (GM’s discretion), observers notice you right away.

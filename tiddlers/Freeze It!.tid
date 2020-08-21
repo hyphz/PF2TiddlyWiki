@@ -1,0 +1,22 @@
+a-actions: 1
+a-crit: The target becomes [[Clumsy]] 2 for 1 round.
+a-defense: Fortitude
+a-fumble: The target is temporarily immune for 1 minute.
+a-hit: The target becomes [[Clumsy]] 1 for 1 round.
+a-skill: Athletics
+created: 20200821223957333
+feat-anc: Goblin
+feat-fpre: [[Snow Goblin]]
+feat-level: 9
+modified: 20200821224124300
+tags: Ancestry Feat Goblin Action
+title: Freeze It!
+type: text/vnd.tiddlywiki
+
+Frigid ice runs through your veins, and you can expel frost from your body to freeze your foes. 
+
+Attempt an [[Athletics]] check against the [[Fortitude]] DC of an adjacent foe. 
+
+If you have master proficiency in Athletics, you can affect up to two adjacent foes, rolling one Athletics check against each foe.
+
+{{||ActionSuccessTable}}

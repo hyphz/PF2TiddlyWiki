@@ -1,0 +1,21 @@
+a-actions: 1
+a-subactions: [[Take Cover]] Hide
+created: 20200821220219731
+feat-anc: Elf
+feat-level: 5
+feat-skill: Stealth
+feat-spre: E
+mod-initiative: Win ties.
+mod-perception: +2 circumstance for Initiative.
+modified: 20200821220319385
+tags: Ancestry Feat Elf Action
+title: Forest Stealth
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Expert in [[Stealth]].
+
+''Requirements'' You are in a forest or jungle environment near an environmental feature that would allow you to [[Take Cover]].
+
+You are skilled at quickly hiding behind bits of underbrush or foliage. 
+
+You [[Take Cover]] and then use that cover to [[Hide]].

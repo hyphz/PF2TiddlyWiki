@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Strike Interact
+created: 20200819191533623
+feat-anc: Dwarf
+feat-level: 1
+modified: 20200819192220003
+tags: Feat Ancestry Dwarf Action
+title: Clan's Edge
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' Trained in Clan Daggers.
+
+By moving your clan dagger with rapid precision, you can protect yourself more effectively. 
+
+Make two clan dagger [[Strike]]s against different targets. Your [[Multiple Attack Penalty]] applies normally to these Strikes. You then use an [[Interact]] action to gain the +1 circumstance bonus to your AC from your clan dagger’s [[Parry]]ing trait.

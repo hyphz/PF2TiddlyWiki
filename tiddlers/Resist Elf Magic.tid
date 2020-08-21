@@ -1,0 +1,17 @@
+created: 20200821230649255
+modified: 20200821230750310
+tags: Action Reaction Implied
+title: Resist Elf Magic
+type: text/vnd.tiddlywiki
+
+//Implied by [[Elfbane Hobgoblin]].//
+
+''Trigger'' You attempt a saving throw against a magical effect but haven’t rolled yet.
+
+Your ancestral resistance to magic protects you. 
+
+You gain a +1 circumstance bonus to the triggering saving throw. 
+
+If the triggering effect is <<tag Arcane>>, you gain a +2 circumstance bonus instead.
+
+//The action's name is flavor text. The ancestry of the magic user has no effect.//

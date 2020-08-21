@@ -1,0 +1,15 @@
+created: 20200819193049723
+feat-anc: Dwarf
+feat-fpre: [[Elemental Heart Dwarf]]
+feat-level: 9
+mod-energy_emanation: Can choose size and increase damage by level.
+modified: 20200819193423973
+tags: Feat Ancestry Dwarf
+title: Energy Blessed
+type: text/vnd.tiddlywiki
+
+Energy runs through your blood more powerfully.
+
+When you use [[Energy Emanation]], you can create an emanation of 5 feet, 10 feet, or 15 feet. 
+
+The damage increases to 6d6 plus an additional 1d6 for every level you have above 9th, instead of 1d6 plus an additional 1d6 for every 2 levels above 1st.

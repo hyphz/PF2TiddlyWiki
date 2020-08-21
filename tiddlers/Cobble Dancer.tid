@@ -1,0 +1,12 @@
+created: 20200821230227234
+feat-anc: Halfling
+feat-level: 13
+mod-step: Can step into Difficult Terrain in outdoor urban.
+modified: 20200821230312608
+tags: Ancestry Feat Halfling
+title: Cobble Dancer
+type: text/vnd.tiddlywiki
+
+You know how to take advantage of foes thrown off-balance by unstable flooring, loose cobblestones, or similar impediments. 
+
+While in an outdoor urban environment, you can [[Step]] into [[Difficult Terrain]] and enemies in difficult terrain are [[Flat-Footed]] to you.

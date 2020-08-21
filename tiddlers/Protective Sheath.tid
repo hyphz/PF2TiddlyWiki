@@ -1,0 +1,15 @@
+created: 20200819192410052
+feat-anc: Dwarf
+feat-fpre: [[Clan's Edge]]
+feat-level: 5
+mod-parry: With clan dagger, against hit target, bonus is +2.
+modified: 20200819192613313
+tags: Feat Ancestry Dwarf
+title: Protective Sheath
+type: text/vnd.tiddlywiki
+
+When you lash out with your clan dagger, you keep its sheath close at hand. 
+
+When you use [[Clan's Edge]], if the hand you’re not holding the dagger with is empty, you can use your clan dagger’s sheath to block attacks as well. 
+
+The circumstance bonus to your AC from parrying increases to a +2 against any target you hit with a [[Strike]] this turn.

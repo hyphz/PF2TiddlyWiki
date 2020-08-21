@@ -1,0 +1,15 @@
+created: 20200821220111972
+feat-anc: Elf
+feat-level: 5
+mod-initiative: Win ties.
+mod-perception: +2 circumstance for Initiative.
+modified: 20200821220150096
+tags: Ancestry Feat Elf
+title: Elven Instincts
+type: text/vnd.tiddlywiki
+
+Your senses let you react rapidly. 
+
+You gain a +2 circumstance bonus to [[Perception]] checks made as initiative rolls. 
+
+Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.

@@ -1,0 +1,17 @@
+created: 20200821230357895
+feat-anc: Halfling
+feat-fpre: [[Halfling Luck]]
+feat-level: 13
+mod-halfling_luck: Use normal version 1/hour.
+modified: 20200821230522767
+tags: Ancestry Feat Halfling
+title: Incredible Luck
+type: text/vnd.tiddlywiki
+
+Even other halflings consider you to be particularly lucky. 
+
+You can use [[Halfling Luck]] once per hour, rather than once per day. 
+
+If you have [[Guiding Luck]], you can still use Halfling Luck when you fail a [[Perception]] check or attack roll only once per day (though you can use it within the same hour that you used Halfling Luck), and if you have [[Helpful Halfling]], you can still use Halfling Luck on an ally instead of yourself only once per day.
+
+//The latter text probably means [[Share Luck]], not Helpful Halfling.//

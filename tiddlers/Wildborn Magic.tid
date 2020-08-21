@@ -1,0 +1,19 @@
+created: 20200821215541461
+feat-anc: Elf
+feat-level: 1
+modified: 20200821215655722
+tags: Ancestry Feat Elf
+title: Wildborn Magic
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You have learned to access the old magic of wild places. Choose one cantrip from the <<tag Primal>> spell list. 
+
+You can cast this cantrip as an innate primal spell at will. 
+
+A cantrip is heightened to a spell level equal to half your level rounded up.
+
+''Cantrips available:''
+
+<<bulletlist "[tag[Primal]tag[Cantrip]]">>

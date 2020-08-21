@@ -1,0 +1,8 @@
+created: 20200821230827088
+mod-coerce: Promote successes and fumbles vs goblins (specifically).
+modified: 20200821230927016
+tags: Heritage Hobgoblin
+title: Runtboss Hobgoblin
+type: text/vnd.tiddlywiki
+
+You gain the [[Group Coercion]] skill feat. If you roll a success on an [[Intimidation]] check to [[Coerce]] a goblin (but not other creatures with the goblin trait), you get a critical success instead; if you roll a critical failure, you get a failure instead.

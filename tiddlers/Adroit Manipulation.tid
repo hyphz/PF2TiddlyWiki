@@ -1,0 +1,16 @@
+created: 20200821224814536
+feat-anc: Halfling
+feat-level: 1
+mod-pick_a_lock: Promote successes.
+modified: 20200821224918876
+tags: Ancestry Feat Halfling Uncommon
+title: Adroit Manipulation
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You’ve fiddled with knots, locks, and blacksmith’s puzzles since you were a child to give your hands something to do. 
+
+You gain the trained proficiency rank in [[Thievery]] (or another skill of your choice, if you’re already trained in Thievery). 
+
+If you roll a success on a Thievery check to [[Pick a Lock]], you get a critical success instead.

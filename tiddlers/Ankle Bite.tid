@@ -1,0 +1,16 @@
+created: 20200821223209431
+feat-anc: Goblin
+feat-fpre: [[Fang Sharpener]] [[Razortooth Goblin]]
+feat-level: 5
+modified: 20200821223307039
+tags: Ancestry Feat Goblin Action Reaction
+title: Ankle Bite
+type: text/vnd.tiddlywiki
+
+''Trigger'' A foe gives you the [[Grabbed]] or [[Restrained]] condition using a part of its body.
+
+Whenever someone grabs onto you, you instinctively bite down hard. Sometimes that makes them let go, and sometimes it just makes them angrier, but either way, it’s both satisfying and tasty. 
+
+Make a jaws [[Strike]] against the triggering foe. On a critical hit, you are no longer [[Grabbed]]. 
+
+This Strike doesn’t count toward your [[Multiple Attack Penalty]], and your multiple attack penalty doesn’t apply to this Strike.

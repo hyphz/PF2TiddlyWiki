@@ -1,0 +1,16 @@
+created: 20200821222938436
+feat-anc: Goblin
+feat-fpre: [[Irongut Goblin]] [[Razortooth Goblin]]
+feat-level: 1
+mod-irongut_goblin: Gain 1d4 unarmed jaws with bleed on crit.
+mod-razortooth_goblin: Jaws lose finesse, do 1d8, and bleed on crit.
+modified: 20200821223048971
+tags: Ancestry Feat Goblin
+title: Fang Sharpener
+type: text/vnd.tiddlywiki
+
+You have filed your teeth into jagged points and have an unusually powerful jaw, making your mouth a dangerous weapon. 
+
+If you’re an [[Irongut Goblin]], you gain a jaws unarmed attack that deals 1d4 piercing damage, and if you’re a [[Razortooth Goblin]], your jaws unarmed attack deals 1d8 piercing damage and loses the [[Finesse]] trait. 
+
+Whenever you score a critical hit with your jaws unarmed attack, your target takes 1 persistent bleed damage per weapon damage die.

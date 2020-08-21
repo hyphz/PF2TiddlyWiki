@@ -1,0 +1,15 @@
+created: 20200821222547127
+feat-anc: Gnome
+feat-fpre: [[Unexpected Shift]]
+feat-level: 9
+mod-unexpected_shift: Flat check is 11, and not Dazzled.
+modified: 20200821222719201
+tags: Ancestry Feat Gnome
+title: Fortuitous Shift
+type: text/vnd.tiddlywiki
+
+You have grown more comfortable with your penchant for supernatural disappearance. 
+
+The flat check DC of your //[[Unexpected Shift]]// feat decreases to 11, and you are no longer [[Dazzled]] if you succeed.
+
+//The original text reads "your Fortuitous Shift feat.." which would refer back to this feat again.//

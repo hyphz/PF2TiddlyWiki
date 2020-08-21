@@ -1,0 +1,24 @@
+created: 20200821221715309
+feat-anc: Gnome
+feat-level: 1
+mod-ac: Can use identification skill DC as AC.
+mod-demoralize: Can use identification skill vs identified creature.
+mod-feint: Can use identification skill vs identified creature.
+mod-fortitude: Can use identification skill vs identified creature.
+mod-reflex: Can use identification skill vs identified creature.
+mod-seek: Can use identification skill vs identified creature.
+mod-will: Can use identification skill vs identified creature.
+modified: 20200821221928663
+tags: Ancestry Feat Gnome Action Free
+title: Theoretical Acumen
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' You succeed at a skill check to [[Recall Knowledge]] to identify a creature.
+
+You study a creature’s form and behavior to hypothesize likely means of overcoming its strengths. 
+
+Once before the end of your next turn, you can use the skill modifier from the triggering check in place of your saving throw modifier against one of the creature’s abilities, in place of your [[Perception]] modifier to [[Seek]] the creature, in place of your [[Deception]] modifier to [[Feint]] against the creature, or in place of your Intimidation modifier to [[Demoralize]] the creature. 
+
+Alternatively, against one of the creature’s attacks, you can use your DC for the skill used in the triggering check in place of your [[AC]].

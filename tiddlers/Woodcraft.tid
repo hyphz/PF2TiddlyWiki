@@ -1,0 +1,16 @@
+created: 20200821215708530
+feat-anc: Elf
+feat-level: 1
+mod-cover_tracks: Promote fumbles and successes in forest/jungle.
+mod-sense_direction: Promote fumbles and successes in forest/jungle.
+mod-subsist: Promote fumbles and successes in forest/jungle.
+modified: 20200821215848994
+tags: Ancestry Feat Elf
+title: Woodcraft
+type: text/vnd.tiddlywiki
+
+You have a innate familiarity with forested areas. 
+
+When in a forest or jungle environment, if you roll a critical failure on a [[Survival]] skill check to [[Sense Direction]], [[Subsist]], or [[Cover Tracks]], you get a failure instead, and if you roll a success, you get a critical success instead.
+
+//You do not normally attempt a Survival check to Cover Tracks. This may be an error.//

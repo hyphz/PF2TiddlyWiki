@@ -1,0 +1,12 @@
+created: 20200819193438978
+feat-anc: Dwarf
+feat-level: 9
+mod-call_on_ancient_blood: Promote fumbles vs Divine spells.
+modified: 20200819193552605
+tags: Feat Ancestry Dwarf
+title: Kneel for No God
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+When you use your [[Call on Ancient Blood]] reaction against a <<tag Divine>> spell and roll a critical failure on the saving throw against that spell, you get a failure instead.

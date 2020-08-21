@@ -1,0 +1,15 @@
+created: 20200821214831129
+feat-anc: Elf
+feat-level: 1
+modified: 20200821220759674
+tags: Ancestry Feat Elf
+title: Share Thoughts
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You have an uncanny knack of communicating with other elves without speaking, though this habit that is often uncomfortable to observers. 
+
+You can cast [[Mindlink]] as an innate occult spell once per day, but you can target only other [[elves|Elf]] or [[half-elves|Half-Elf]].
+
+//[[Mindlink]] has a verbal component, so "without speaking" is not quite true.//

@@ -2,7 +2,7 @@ created: 20200626163608455
 mod-fortitude: Gives -1 status to saves.
 mod-reflex: Gives -1 status to saves.
 mod-will: Gives -1 status to saves.
-modified: 20200720214828500
+modified: 20200819191957850
 tags: Condition
 title: Fatigued
 type: text/vnd.tiddlywiki
@@ -14,6 +14,8 @@ You take a –1 status penalty to [[AC]] and saving throws ([[Fortitude]], [[Ref
 While exploring, you can’t choose an exploration activity.
 
 You recover from fatigue after a full night’s rest.
+
+//You become Fatigued if you go without rest for 16 hours, or if you rest wearing armor.//
 
 //You become Fatigued if you fail to [[Subsist]] in an environment without food or shelter.//
 

@@ -1,0 +1,19 @@
+created: 20200819191413571
+feat-anc: Dwarf
+feat-level: 1
+mod-attack_roll: +1 circumstance while holding temp HP.
+mod-damage_roll: +1 circumstance while holding temp HP.
+modified: 20200819191731436
+tags: Feat Ancestry Dwarf Uncommon Action Reaction
+title: Avenge in Glory
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Frequency'' once per day
+
+''Trigger'' An ally within 30 feet gains the [[Dying]] condition.
+
+You honor your ally’s life, gaining temporary Hit Points equal to your level for 1 minute. 
+
+As long as you have these temporary Hit Points, you gain a +1 circumstance bonus to attack and damage rolls.

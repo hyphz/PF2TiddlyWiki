@@ -1,0 +1,13 @@
+created: 20200819192023290
+feat-anc: Dwarf
+feat-level: 1
+modified: 20200819192647587
+tags: Feat Ancestry Dwarf Uncommon
+title: Surface Culture
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+Your interactions with other cultures on the surface have not only taught you about many other ancestries, but have also helped you realize the value of your own. 
+
+You gain the trained proficiency rank in the [[Society]] skill (or another skill of your choice if you were already trained in Society), and you gain the [[Additional Lore]] skill feat for the Lore corresponding to your culture.

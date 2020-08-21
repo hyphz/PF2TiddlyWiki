@@ -1,0 +1,16 @@
+created: 20200821222338854
+feat-anc: Gnome
+feat-fpre: [[Illusion Sense]]
+feat-level: 5
+modified: 20200821222431074
+tags: Ancestry Feat Gnome Action Free
+title: Intuitive Illusions
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day.
+
+''Trigger'' Your turn begins.
+
+Illusion magic comes to you so naturally that you can effortlessly sustain your magical ruses. 
+
+You immediately gain the effects of a [[Sustain a Spell]] action to extend the duration of one of your active <<tag Illusion>> spells.
