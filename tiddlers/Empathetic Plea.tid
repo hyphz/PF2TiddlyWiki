@@ -1,0 +1,24 @@
+a-crit: The creature pulls its attack, wasting its action, and can’t use [[Hostile Action]]s against you until the beginning of its next turn.
+a-defense: Will
+a-fail: The creature’s attack is unaffected, and the creature is temporarily immune to your Empathic Pleas for 24 hours.
+a-hit: The creature takes a –2 circumstance penalty to damage on the triggering Strike and all its Strikes against you until the beginning of its next turn. The penalty is –4 if you’re an expert in Diplomacy, –6 if you’re a master, and –8 if you’re legendary.
+a-skill: Diplomacy
+created: 20200822191418626
+feat-anc: Gnome
+feat-level: 1
+feat-skill: Diplomacy
+feat-spre: T
+modified: 20200822191631979
+tags: Auditory Emotion Gnome Mental Visual Ancestry Feat Action Reaction
+title: Empathetic Plea
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' trained in Diplomacy
+
+''Trigger'' You are attacked by a creature that you haven’t yet [[acted hostile|Hostile Action]] toward. You must use this reaction before the creature rolls its attack.
+
+The way you cringe or use those puppydog eyes you’ve been practicing elicits an empathetic response in the attacker.
+
+Attempt a [[Diplomacy]] check against your attacker’s [[Will]] DC.
+
+{{||ActionSuccessTable}}

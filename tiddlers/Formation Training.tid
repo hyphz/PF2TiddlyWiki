@@ -1,0 +1,17 @@
+created: 20200822173727510
+feat-anc: Hobgoblin
+feat-level: 5
+mod-ac: +1 circumstance when adjacent 2 hobgoblin allies.
+mod-fortitude: +1 circumstance when adjacent 2 hobgoblin allies.
+mod-reflex: +1 circumstance, or +2 vs area, when adjacent 2 hobgoblin allies.
+mod-will: +1 circumstance when adjacent 2 hobgoblin allies.
+modified: 20200822173843852
+tags: Ancestry Feat Hobgoblin
+title: Formation Training
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' trained in all martial weapons.
+
+You know how to fight in formation with your brethren. 
+
+When you are adjacent to at least two hobgoblin allies, you gain a +1 circumstance bonus to AC and saving throws. This bonus increases to +2 on [[Reflex]] saves against area effects.

@@ -1,0 +1,17 @@
+created: 20200822181407816
+feat-anc: Lizardfolk
+feat-level: 1
+mod-balance: Not flat footed and promote successes on narrow surfaces or marshes.
+mod-step: Ignore difficult terrain from swamp, flood or quicksand.
+modified: 20200822181528669
+tags: Feat Ancestry Lizardfolk
+title: Marsh Runner
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' You have a swim Speed.
+
+You are adept at moving through marshy terrain. 
+
+When you use the [[Step]] action, you can ignore [[Difficult Terrain]] caused by flooding, swamps, or quicksand. 
+
+In addition, when you use the Acrobatics skill to [[Balance]] on narrow surfaces or uneven marshy ground, you aren’t [[Flat-Footed]], and if you roll a success on the Acrobatics check, you get a critical success instead.

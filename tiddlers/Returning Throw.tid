@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike
+created: 20200822185817662
+feat-anc: Dwarf
+feat-level: 9
+modified: 20200822185854023
+tags: Ancestry Feat Dwarf Action
+title: Returning Throw
+type: text/vnd.tiddlywiki
+
+You have mastered the technique of arcing a projectile so that it returns to your hand after being thrown, though this requires a moment to precisely calculate the trajectory and possible ricochets. 
+
+Make a ranged [[Strike]] with a thrown weapon. Once the Strike is complete, the weapon arcs or ricochets back to your hand. 
+
+If your hands are full when the weapon returns, it falls to the ground in your space.

@@ -1,0 +1,16 @@
+created: 20200822183347057
+feat-anc: Dwarf
+feat-level: 5
+modified: 20200822183520766
+modtag-darkness: Can't use.
+tags: Ancestry Feat Dwarf
+title: Defy the Darkness
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Darkvision]].
+
+Using ancient dwarven methods developed to fight enemies wielding magical darkness, you’ve honed your darkvision and sworn not to use such magic yourself. 
+
+You gain greater [[Darkvision]], enabling you to see through magical darkness even if it normally hampers darkvision (such as the darkness created by a 4th-level [[Darkness|Darkness (Spell)]] spell). 
+
+You can’t cast spells with the <<tag Darkness>> trait, use item activations with the darkness trait, or use any other ability with the darkness trait.

@@ -1,0 +1,13 @@
+created: 20200822174104963
+feat-anc: Hobgoblin
+feat-level: 9
+modified: 20200822174144246
+tags: Ancestry Feat Hobgoblin Action Reaction
+title: Pride in Arms
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally within 30 feet brings a foe to 0 Hit Points.
+
+With a shout of triumph, you grant inspiration to an ally //to// fight on. 
+
+The triggering ally gains temporary Hit Points equal to their [[Constitution]] modifier until the end of their next turn.

@@ -1,0 +1,13 @@
+a-actions: 2
+a-defense: Will
+a-skill: Intimidation
+a-subactions: Stride Demoralize
+created: 20200822180831731
+modified: 20200822181042075
+tags: Action Implied
+title: Threatening Approach
+type: text/vnd.tiddlywiki
+
+You [[Stride]] to be adjacent to a foe and [[Demoralize]] that foe. 
+
+If you succeed, the foe is [[Frightened]] 2 instead of [[Frightened]] 1.

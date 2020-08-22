@@ -13,8 +13,8 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-mod-diplomacy: +10 circumstance vs dragons that hear the roar.
-modified: 20200809213850720
+mod-diplomacy: +2 circumstance vs dragons that hear the roar.
+modified: 20200822180252593
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Frightened]] 2.
 s-fumble: The creature is [[Frightened]] 3 and [[Fleeing]] for 1 round.

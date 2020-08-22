@@ -1,0 +1,15 @@
+created: 20200822174203170
+feat-anc: Hobgoblin
+feat-fpre: [[Formation Training]]
+feat-level: 13
+mod-formation_training: Get bonus from non-hobgoblins, share bonus with hobgoblins.
+modified: 20200822174320155
+tags: Ancestry Feat Hobgoblin
+title: Formation Master
+type: text/vnd.tiddlywiki
+
+You can assemble a formation even with members of ancestries that lack the hobgoblins’ military discipline, and you can extend these benefits to your hobgoblin allies. 
+
+When you are adjacent to at least two humanoid allies, you gain the benefits of [[Formation Training]], even if they aren’t hobgoblin allies. 
+
+Hobgoblin allies adjacent to you and at least one other hobgoblin ally also gain the bonuses from your [[Formation Training]] feat.

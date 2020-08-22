@@ -1,0 +1,11 @@
+created: 20200822182251032
+feat-anc: Lizardfolk
+feat-level: 5
+modified: 20200822182316063
+tags: Feat Ancestry Lizardfolk
+title: Iruxi Unarmed Cunning
+type: text/vnd.tiddlywiki
+
+You make the most of your iruxi unarmed attacks. 
+
+Whenever you score a critical hit with a claw or an unarmed attack you gained from a lizardfolk ancestry feat, you apply the unarmed attack’s [[Critical Specialization Effect]].

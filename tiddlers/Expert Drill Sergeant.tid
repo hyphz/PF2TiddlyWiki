@@ -1,0 +1,12 @@
+created: 20200822173617008
+feat-anc: Hobgoblin
+feat-level: 5
+mod-follow_the_expert: Grant +1 better bonus to max +4.
+modified: 20200822173700550
+tags: Ancestry Feat Hobgoblin
+title: Expert Drill Sergeant
+type: text/vnd.tiddlywiki
+
+You know how to get the most out of your allies. 
+
+While exploring, when you are leading and allies are [[Following the Expert|Follow the Expert]], you grant a +3 circumstance bonus instead of +2 if you’re an expert in the applicable skill, and a +4 circumstance bonus if you’re a master.

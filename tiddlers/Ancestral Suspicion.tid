@@ -1,0 +1,17 @@
+created: 20200822190600149
+feat-anc: Elf
+feat-level: 5
+mod-fortitude: +2 circumstance and promote successes vs controlled.
+mod-reflex: +2 circumstance and promote successes vs controlled.
+mod-sense_motive: +2 circumstance to find if someone is being controlled.
+mod-will: +2 circumstance and promote successes vs controlled.
+modified: 20200822190732665
+tags: Ancestry Feat Elf
+title: Ancestral Suspicion
+type: text/vnd.tiddlywiki
+
+Long-lived elves have seen civilizations rise and fall, often at the hands of outside forces. As a result, they have developed a wariness of others who might seek to influence or control them. 
+
+You’ve been trained to resist such manipulation, gaining a +2 circumstance bonus to saving throws against effects that would make you [[Controlled]], such as [[Dominate]], and to [[Perception]] checks to [[Sense Motive]] when trying to determine if a creature is under the influence of such an effect. 
+
+When you roll a success on a saving throw against such an effect, you get a critical success instead.

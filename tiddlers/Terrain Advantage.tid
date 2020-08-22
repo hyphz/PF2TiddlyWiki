@@ -1,0 +1,13 @@
+created: 20200822182608063
+feat-anc: Lizardfolk
+feat-level: 9
+modified: 20200822182701905
+tags: Feat Ancestry Lizardfolk
+title: Terrain Advantage
+type: text/vnd.tiddlywiki
+
+You can take advantage of the terrain to bypass foes’ defenses.
+
+Non-lizardfolk creatures in [[Difficult Terrain]] are [[Flat-Footed]] to you. 
+
+If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also flat-footed to you.

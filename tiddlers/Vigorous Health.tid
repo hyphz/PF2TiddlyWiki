@@ -1,0 +1,13 @@
+created: 20200822173343046
+feat-anc: Hobgoblin
+feat-level: 1
+mod-drained: Can make flat DC 17 to not gain condition.
+modified: 20200822173419440
+tags: Ancestry Feat Hobgoblin
+title: Vigorous Health
+type: text/vnd.tiddlywiki
+
+Your physique is robust and can withstand blood loss startlingly well. 
+
+Whenever you would gain the [[Drained]] condition, you can attempt a DC 17 flat check. On a
+success, you don’t gain the [[Drained]] condition.

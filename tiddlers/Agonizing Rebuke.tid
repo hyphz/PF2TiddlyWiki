@@ -1,0 +1,15 @@
+created: 20200822173430772
+feat-anc: Hobgoblin
+feat-level: 5
+mod-deromalize: Also deal mental damage while in combat.
+modified: 20200822173542040
+tags: Ancestry Feat Hobgoblin
+title: Agonizing Rebuke
+turn-stn: Take mental damage if in combat with demoralizer.
+type: text/vnd.tiddlywiki
+
+When you terrorize your enemies, you also cause them painful mental distress.
+
+When you successfully [[Demoralize]] a foe, that foe takes 1d4 mental damage at the start of each of its turns as long as it remains [[Frightened]] and continues to engage in combat with you. 
+
+If you have master proficiency in [[Intimidation]], the damage increases to 2d4, and if you have legendary proficiency, the damage increases to 3d4.

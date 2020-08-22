@@ -1,0 +1,18 @@
+created: 20200822181536795
+feat-anc: Lizardfolk
+feat-level: 1
+mod-starvation: Take damage every 2 days.
+mod-thirst: Take damage every 2 hours.
+modified: 20200822181658999
+modtag-disease: +1 circumstance to save and reduce by 1 extra stage.
+tags: Feat Ancestry Lizardfolk
+title: Parthenogenic Hatchling
+type: text/vnd.tiddlywiki
+
+You were hatched from an unfertilized egg during hard times for your people, and you are a biological copy of your mother. 
+
+You gain a +1 circumstance bonus to saving throws against <<tag Disease>>s. Each of your successful saving throws against a disease reduces its stage by 2, or by 1 for a virulent disease. Each critical success against an ongoing disease reduces its stage by 3, or by 2 for a virulent disease. 
+
+You take damage only every 2 hours from [[Thirst]] and every 2 days from [[Starvation]], rather than every hour and every day.
+
+''Special'' You can take this feat only at 1st level.

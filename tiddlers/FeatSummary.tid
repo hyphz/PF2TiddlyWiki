@@ -1,5 +1,5 @@
 created: 20200712160917173
-modified: 20200814213238008
+modified: 20200822173053894
 tags: 
 title: FeatSummary
 type: text/vnd.tiddlywiki
@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]has[feat-anc]]">Ancestry</$list>
 </td></tr>
 <$list filter="[list[!!feat-anc]]">
-<tr><th>Ancestry</th><td><<currentTiddler>></td></tr>
+<tr><th>Ancestry</th><td><$link/></td></tr>
 </$list>
 <tr><th>Level</th><td>{{!!feat-level}}</td></tr>
 <$list filter="[all[current]tag[Skill]]">

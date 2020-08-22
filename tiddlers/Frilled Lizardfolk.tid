@@ -1,0 +1,13 @@
+created: 20200822180717240
+mod-demoralize: Can demoralize as visual rather than auditory.
+modified: 20200822180827728
+tags: Heritage Lizardfolk
+title: Frilled Lizardfolk
+type: text/vnd.tiddlywiki
+
+You can flare your neck frill and flex your dorsal spines, Demoralizing your foes. 
+
+When you do, [[Demoralize]] loses the <<tag Auditory>> trait and gains the <<tag Visual>> trait, and you don’t take a penalty when you attempt to [[Demoralize]] a creature that doesn’t
+understand your language. 
+
+You also gain the [[Threatening Approach]] action.

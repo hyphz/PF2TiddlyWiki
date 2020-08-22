@@ -1,0 +1,12 @@
+created: 20200822183019851
+feat-anc: Dwarf
+feat-level: 1
+mod-frightened: Reduce by 2 each turn, not 1.
+modified: 20200822183101125
+tags: Ancestry Feat Dwarf
+title: Dwarven Doughtiness
+type: text/vnd.tiddlywiki
+
+You are either naturally calm and collected in the face of imminent danger, or you are very good at faking it. 
+
+At the end of your turn, reduce your [[Frightened]] condition by 2 instead of 1.

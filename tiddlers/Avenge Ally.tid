@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Strike
+created: 20200822191034624
+feat-anc: Elf
+feat-level: 13
+modified: 20200822191132315
+tags: Ancestry Feat Elf Action Fortune
+title: Avenge Ally
+type: text/vnd.tiddlywiki
+
+''Frequency'' once every 10 minutes.
+
+''Requirements'' You are adjacent to an ally with the [[Dying]] condition.
+
+Though you know that you will eventually outlive your companions, seeing them at death's door brings clarity to your attacks. 
+
+Make a [[Strike]]. Roll twice on the attack roll and use the higher result.

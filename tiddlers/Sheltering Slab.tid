@@ -1,0 +1,14 @@
+created: 20200822185615157
+feat-anc: Dwarf
+feat-level: 5
+mod-flanking: Not flat-footed if adjacent to a stone wall.
+modified: 20200822185715871
+tags: Ancestry Feat Dwarf
+title: Sheltering Slab
+type: text/vnd.tiddlywiki
+
+The stone around you is your ally, and you have learned to use it to shore up your weaknesses. 
+
+As long as you remain on the ground and are adjacent to a vertical stone wall that rises to your height or taller, you aren’t [[Flat-Footed]] against attacks as a result of being [[Flanked|Flanking]]. 
+
+This works even if you are at the outside corner of the wall.

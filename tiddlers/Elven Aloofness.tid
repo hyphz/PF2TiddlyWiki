@@ -1,0 +1,15 @@
+created: 20200822190356251
+feat-anc: Elf
+feat-level: 1
+mod-coerce: Demote failures by non-elves.
+mod-demoralize: Immunity is 1 day, not 10 minutes.
+modified: 20200822190446716
+tags: Ancestry Feat Elf
+title: Elven Aloofness
+type: text/vnd.tiddlywiki
+
+As much as you might care for them, you’ve come to terms with the ephemeral nature of non elves, and it makes their threats feel less troublesome. 
+
+If a non-elf rolls a failure on a check to [[Coerce]] you using [[Intimidation]], it gets a critical failure instead (and thus can’t try to Coerce you again for 1 week). 
+
+When a non-elf attempts to [[Demoralize]] you, you become temporarily immune for 1 day, instead of 10 minutes.

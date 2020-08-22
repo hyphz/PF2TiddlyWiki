@@ -1,0 +1,16 @@
+created: 20200822181225912
+feat-anc: Lizardfolk
+feat-level: 1
+lore-mention: Iruxi
+modified: 20200822181352180
+tags: Feat Ancestry Lizardfolk
+title: Lizardfolk Lore
+type: text/vnd.tiddlywiki
+
+//This is a Lizardfolk Ancestry Feat. Lizardfolk Lore is also a skill, a subtype of the [[Lore]] skill.//
+
+You listened carefully to the tales passed down among your community. 
+
+You gain the trained proficiency rank in [[Nature]] and [[Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. 
+
+You also become trained in Iruxi [[Lore]].

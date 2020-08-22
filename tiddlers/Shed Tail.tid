@@ -1,0 +1,19 @@
+created: 20200822182423503
+feat-anc: Lizardfolk
+feat-fpre: [[Tail Whip]]
+feat-level: 5
+mod-balance: -2 circumstance while tail growing back.
+modified: 20200822182522120
+tags: Feat Ancestry Lizardfolk Action Reaction
+title: Shed Tail
+type: text/vnd.tiddlywiki
+
+''Trigger'' You become [[Grabbed]].
+
+''Requirements'' You have a fully grown tail.
+
+You can shed your tail to escape. 
+
+You cease being grabbed, then [[Stride]] without triggering any reactions from the creature that grabbed you. 
+
+It takes 1 week for your tail to fully grow back. Until it does, you can’t use your tail unarmed attack, and you take a –2 circumstance penalty on checks to [[Balance]].

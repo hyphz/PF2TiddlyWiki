@@ -1,0 +1,13 @@
+created: 20200822173239677
+feat-anc: Hobgoblin
+feat-level: 1
+mod-frightened: Can't reduce to 0 in round you were hit.
+modified: 20200822173338450
+tags: Ancestry Feat Hobgoblin
+title: Remorseless Lash
+turn-sun: Frightened block wears off.
+type: text/vnd.tiddlywiki
+
+You’re skilled at beating a foe when their morale is already breaking. 
+
+When you succeed at a melee weapon [[Strike]] against a [[Frightened]] foe, that foe can’t reduce their frightened condition below 1 until the beginning of your next turn.
