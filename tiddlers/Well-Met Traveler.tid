@@ -1,0 +1,13 @@
+created: 20200823162000121
+feat-anc: Catfolk
+feat-level: 1
+modified: 20200823162443951
+tags: Ancestry Feat Catfolk
+title: Well-Met Traveler
+type: text/vnd.tiddlywiki
+
+You have seen people from so many walks of life in your travels that you naturally adopt a pleasant and affable demeanor when meeting others. 
+
+<<trainnodupe "Diplomacy">>
+
+In addition, you gain the [[Hobnobber]] skill feat.

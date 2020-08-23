@@ -1,0 +1,18 @@
+created: 20200823152541423
+feat-anc: Goblin
+feat-fpre: [[Unbreakable Goblin]]
+feat-level: 1
+mod-shove: +4 circumstance to DC if squeezing.
+mod-squeeze: Promote successes.
+modified: 20200823152708053
+tags: Ancestry Feat Goblin
+title: Extra Squishy
+type: text/vnd.tiddlywiki
+
+Your rubbery physique makes it easier for you to wedge yourself into tight spaces and more difficult for your enemies to dislodge you. 
+
+You become trained in [[Acrobatics]]. If you would automatically become trained in Acrobatics (from your background or class, for example), you instead become trained in a skill of your choice. 
+
+If you roll a success to [[Squeeze]], you get a critical success instead. 
+
+While you’re Squeezing, you gain a +4 circumstance bonus to your [[Fortitude]] or [[Reflex]] DCs against attempts to [[Shove]] you or otherwise move you from your space.

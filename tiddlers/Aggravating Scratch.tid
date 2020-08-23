@@ -1,0 +1,13 @@
+created: 20200823163620576
+feat-anc: Catfolk
+feat-level: 9
+modified: 20200823163751110
+tags: Ancestry Feat Catfolk Disease
+title: Aggravating Scratch
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' claw unarmed attack.
+
+Your claws carry an irritant that is harmless to you but can be damaging to others. 
+
+Your claw [[Strike]]s deal an additional 1d4 persistent <<tag Poison>> damage on a critical hit.

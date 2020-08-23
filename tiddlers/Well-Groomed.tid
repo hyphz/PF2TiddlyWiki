@@ -1,0 +1,12 @@
+created: 20200823164426813
+feat-anc: Catfolk
+feat-level: 5
+modified: 20200823164516679
+modtag-disease: +1 circumstance on saves and promote successes.
+tags: Ancestry Feat Catfolk
+title: Well-Groomed
+type: text/vnd.tiddlywiki
+
+You are fastidious about keeping yourself clean, whether licking your fur or carefully using traditional catfolk hygiene products, to salubrious effect. 
+
+You gain a +1 circumstance bonus to saving throws against <<tag Disease>>s. If you roll a success on a saving throw against a disease, you get a critical success instead.

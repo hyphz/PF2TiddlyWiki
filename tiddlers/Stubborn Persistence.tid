@@ -1,0 +1,14 @@
+created: 20200823155505446
+feat-anc: Human
+feat-level: 13
+mod-fatigued: Can flat 17 to not be fatigued.
+modified: 20200823155738865
+tags: Ancestry Feat Human
+title: Stubborn Persistence
+type: text/vnd.tiddlywiki
+
+Humans are renowned for their ability to persist through the most grueling of trials. 
+
+When you would become [[Fatigued]], attempt a DC 17 flat check. On a success, you aren’t fatigued. 
+
+If the fatigued condition has an underlying cause that you don’t address, such as lack of rest, you must attempt the check again at an interval determined by the GM until you fail the flat check or address the underlying cause.

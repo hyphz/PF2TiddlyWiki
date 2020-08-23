@@ -1,0 +1,17 @@
+created: 20200823171142966
+feat-anc: Kobold
+feat-level: 1
+feat-skill: Crafting
+feat-spre: T
+modified: 20200823171217117
+tags: Kobold Ancestry Feat Action Reaction Fortune
+title: Ally's Shelter
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day.
+
+''Trigger'' You attempt a saving throw while adjacent to one or more allies, but you haven’t rolled yet.
+
+In stressful circumstances, you find strength in your allies’ example. 
+
+Roll the save using an adjacent ally’s modifier for that type of saving throw instead of your own.

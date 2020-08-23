@@ -1,5 +1,5 @@
 created: 20200712160917173
-modified: 20200822173053894
+modified: 20200823160245443
 tags: 
 title: FeatSummary
 type: text/vnd.tiddlywiki
@@ -13,9 +13,13 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Skill]]">Skill</$list>
 <$list filter="[all[current]!tag[Skill]tag[General]]">General</$list>
 <$list filter="[all[current]has[feat-anc]]">Ancestry</$list>
+<$list filter="[all[current]has[feat-vher]]">Versatile Heritage</$list>
 </td></tr>
 <$list filter="[list[!!feat-anc]]">
 <tr><th>Ancestry</th><td><$link/></td></tr>
+</$list>
+<$list filter="[list[!!feat-vher]]">
+<tr><th>Heritage</th><td><$link/></td></tr>
 </$list>
 <tr><th>Level</th><td>{{!!feat-level}}</td></tr>
 <$list filter="[all[current]tag[Skill]]">

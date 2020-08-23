@@ -1,0 +1,15 @@
+created: 20200823164645038
+feat-anc: Catfolk
+feat-level: 13
+modified: 20200823164735760
+tags: Ancestry Feat Catfolk Action Reaction Auditory Concentrate Emotion Mental
+title: Caterwaul
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day.
+
+''Trigger'' An ally within 30 feet would be reduced to 0 HP but not immediately killed.
+
+You give a daring yowl in the face of adversity, calling your companion back from the brink of unconsciousness. 
+
+Your ally isn’t knocked out and remains at 1 Hit Point. Your ally’s [[Wounded]] condition still increases by 1 as though they had been [[Dying]] and recovered.

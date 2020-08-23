@@ -1,0 +1,17 @@
+a-actions: 2
+created: 20200823153744599
+modified: 20200823153844906
+s-fail: The target is [[Clumsy]] 1 for 1 minute.
+s-fumble: The target is [[Clumsy]] 2 for 1 minute.
+s-hit: The target is unaffected and is temporarily immune for 24 hours.
+tags: Curse Necromancy Occult Action
+title: Jinx
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day.
+
+You can curse another creature with clumsiness. This curse has a range of 30 feet, and you must be able to see your target. 
+
+The target gets a [[Will]] saving throw to resist this jinx, using your class DC or spell DC, whichever is higher.
+
+{{||SaveSuccessTable}}

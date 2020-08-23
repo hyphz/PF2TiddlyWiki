@@ -1,0 +1,9 @@
+created: 20200823162105260
+modified: 20200823162551942
+tags: $:/tags/Macro
+title: TrainSkillNoDupeMacro
+type: text/vnd.tiddlywiki
+
+\define trainnodupe(skill:"")
+You are trained in <$link to=<<__skill__>> />. If you would automatically become trained in <<__skill__>> (from your background or class, for example), you instead become trained in a skill of your choice.
+\end

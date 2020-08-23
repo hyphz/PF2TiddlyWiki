@@ -1,0 +1,19 @@
+a-actions: 1
+a-defense: Will
+a-skill: Deception
+a-subactions: Feint
+created: 20200823171412014
+feat-anc: Kobold
+feat-level: 5
+feat-skill: Deception
+feat-spre: T
+modified: 20200823171557886
+tags: Kobold Ancestry Feat Auditory Concentrate Emotion Mental Action
+title: Grovel
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained in [[Deception]].
+
+With obsequious words and begging gestures, you convince your foe you’re less of a threat. 
+
+You attempt to [[Feint]] against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its [[Will]] DC instead of its [[Perception]] DC.

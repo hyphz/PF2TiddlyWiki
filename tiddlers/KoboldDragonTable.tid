@@ -1,0 +1,17 @@
+created: 20200823165032041
+modified: 20200823165307494
+tags: 
+title: KoboldDragonTable
+type: text/vnd.tiddlywiki
+
+| !Dragon | !Shape | !Damage | !Save |
+| Black | [[Line]] | <<tag Acid>> | [[Reflex]] |
+| Blue | [[Line]] | <<tag Electricity>> | [[Reflex]] |
+| Green | [[Cone]] | <<tag Poison>> | [[Fortitude]] |
+| Red | [[Cone]] | <<tag Fire>> | [[Reflex]] |
+| White | [[Cone]] | <<tag Cold>> | [[Reflex]] |
+| Brass | [[Line]] | <<tag Fire>> | [[Reflex]] |
+| Bronze | [[Line]] | <<tag Electricity>> | [[Reflex]] |
+| Copper | [[Line]] | <<tag Acid>> | [[Reflex]] |
+| Gold | [[Cone]] | <<tag Fire>> | [[Reflex]] |
+| Silver | [[Cone]] | <<tag Cold>> | [[Reflex]] |

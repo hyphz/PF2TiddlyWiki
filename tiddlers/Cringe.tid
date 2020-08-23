@@ -1,0 +1,15 @@
+created: 20200823170208507
+feat-anc: Kobold
+feat-level: 1
+modified: 20200823170314994
+tags: Ancestry Kobold Feat Emotion Mental Visual Action Reaction
+title: Cringe
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature you are aware of critically succeeds on a [[Strike]] against you and would deal damage to you.
+
+With pitiful posturing, you cause your foe to pull back a deadly attack. 
+
+The attacking creature takes a circumstance penalty to the damage of the triggering Strike equal to your level + 2. This penalty applies after doubling the damage for a critical hit. 
+
+The attacker is then immune to your Cringe for 24 hours.

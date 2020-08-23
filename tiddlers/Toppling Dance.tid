@@ -1,0 +1,12 @@
+created: 20200823154536268
+feat-anc: Halfling
+feat-fpre: [[Dance Underfoot]]
+feat-level: 13
+modified: 20200823154624938
+tags: Halfling Ancestry Feat
+title: Toppling Dance
+type: text/vnd.tiddlywiki
+
+While sharing a creature’s space using Dance Underfoot, your weapons and unarmed attacks gain the [[Trip]] trait, but only against the creature whose space you share. 
+
+You can be in the same space as a Large or larger [[Prone]] creature, even if it’s not your ally.

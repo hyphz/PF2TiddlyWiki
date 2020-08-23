@@ -1,0 +1,19 @@
+created: 20200823171032440
+feat-anc: Kobold
+feat-level: 1
+feat-skill: Crafting
+feat-spre: T
+modified: 20200823171129347
+tags: Kobold Ancestry Feat
+title: Snare Setter
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' trained in [[Crafting]].
+
+You are adept at the time-honored kobold art of trap making. 
+
+<<trainnodupe "Crafting">>
+
+You gain access to all uncommon kobold snares.
+
+You gain the [[Snare Crafting]] feat, though when choosing your formulas for that feat, you can also choose from uncommon kobold snares, as well as common snares.

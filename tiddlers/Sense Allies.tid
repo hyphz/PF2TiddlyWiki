@@ -1,0 +1,15 @@
+created: 20200823155017346
+feat-anc: Human
+feat-level: 5
+mod-hidden: For willing allies is 60 feet, flat check is 5.
+mod-undetected: Willing allies in 60 feet are hidden.
+modified: 20200823155135658
+tags: Ancestry Feat Human
+title: Sense Allies
+type: text/vnd.tiddlywiki
+
+Like many humans raised in a close-knit community, you have always been strongly attuned to the presence of others. 
+
+[[Willing]] allies that you are aware of within 60 feet that would otherwise be [[Undetected]] by you are instead [[Hidden]] from you. 
+
+The flat check for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.

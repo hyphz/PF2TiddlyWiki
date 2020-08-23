@@ -1,0 +1,14 @@
+a-subactions: Step
+created: 20200823154222987
+feat-anc: Halfling
+feat-level: 5
+modified: 20200823154309754
+tags: Halfling Ancestry Feat Action Reaction
+title: Step Lively
+type: text/vnd.tiddlywiki
+
+''Trigger'' A Large or larger enemy ends a move action adjacent to you.
+ 
+You are an expert at avoiding the lumbering footsteps of larger creatures. 
+
+You [[Step]] to another space adjacent to the enemy.

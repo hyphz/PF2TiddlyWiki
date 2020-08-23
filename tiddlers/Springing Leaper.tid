@@ -1,0 +1,17 @@
+created: 20200823163329893
+feat-anc: Catfolk
+feat-level: 5
+feat-skill: Athletics
+feat-spre: E
+mod-leap: Leap with 2/3 actions for 2x/3x distance.
+mod-long_jump: Jump a different way to your Stride.
+modified: 20200823163544629
+tags: Ancestry Feat Catfolk
+title: Springing Leaper
+type: text/vnd.tiddlywiki
+
+Your powerful legs allow you to make sudden and dramatic leaps. 
+
+You can [[Leap]] as a 2-action activity to double the distance you can Leap vertically, or Leap as a 3-action activity to triple the distance you can Leap vertically. 
+
+You don’t automatically fail [[Long Jump]]s for jumping in a different direction than your Stride.

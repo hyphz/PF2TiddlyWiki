@@ -1,0 +1,16 @@
+created: 20200823154321866
+feat-anc: Halfling
+feat-fpre: [[Step Lively]]
+feat-level: 9
+mod-step_lively: Can step into enemy's space if it makes sense.
+mod-tumble_through: Can end in Large enemy's space.
+modified: 20200823154433445
+tags: Halfling Ancestry Feat
+title: Dance Underfoot
+type: text/vnd.tiddlywiki
+
+You dart under the legs of your enemies in combat. 
+
+You can end a successful [[Tumble Through]] action in a Large or larger enemy’s space. 
+
+Also, when using the [[Step Lively]] feat, you can [[Step]] into the triggering enemy’s space. The enemy must have limbs or otherwise leave you enough room for this maneuver, as determined by the GM. For instance, you could share space with a giant or dragon, but not an ooze.

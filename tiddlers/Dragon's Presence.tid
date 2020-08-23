@@ -1,0 +1,17 @@
+created: 20200823170350190
+feat-anc: Kobold
+feat-level: 1
+mod-demoralize: +1 circumstance vs same or lower level.
+modified: 20200823170525077
+modtag-fear: Promote successes, demote failures.
+tags: Kobold Ancestry Feat
+title: Dragon's Presence
+type: text/vnd.tiddlywiki
+
+As a member of dragonkind, you project unflappable confidence (that collapses catastrophically against the deadliest foes).
+
+When you roll a success on a saving throw against a <<tag Fear>> effect, you get a critical success instead. 
+
+When you roll a failure against a fear effect, you get a critical failure instead.
+
+In addition, when you attempt to [[Demoralize]] a foe of your level or lower, you gain a +1 circumstance bonus to the [[Intimidation]] check.

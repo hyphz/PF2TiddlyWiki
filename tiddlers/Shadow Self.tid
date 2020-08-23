@@ -1,0 +1,21 @@
+created: 20200823154634187
+feat-anc: Halfling
+feat-level: 17
+feat-skill: Stealth
+feat-spre: L
+modified: 20200823154808947
+tags: Halfling Ancestry Feat
+title: Shadow Self
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' legendary Stealth.
+
+''Frequency'' once per hour.
+
+''Trigger'' You successfully use [[Stealth]] to [[Hide]] and become [[Hidden]] from all your current foes, or use [[Stealth]] to [[Sneak]] and become [[Undetected]] to all your current foes.
+
+With a powerful talent for misdirection, you slip from your adversaries’ notice so thoroughly you appear to be somewhere else. 
+
+You become [[Invisible]] for 1 minute or until you take a [[Hostile Action]], whichever comes first. 
+
+Choose a location within 10 feet of you. Until your invisibility ends, you appear to be [[Hidden]] in that location to anyone trying to find you. If the searcher gets clear evidence that you’re not there, they no longer think you’re hidden there, but they don’t discover your actual location.

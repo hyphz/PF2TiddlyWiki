@@ -12,7 +12,8 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200728201351132
+modified: 20200823163829161
+modtag-disease: Can be counteracted by this.
 s-crit: 
 s-fail: 
 s-fumble: 

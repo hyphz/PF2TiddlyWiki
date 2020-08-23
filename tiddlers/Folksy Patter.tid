@@ -1,0 +1,15 @@
+created: 20200823153929300
+feat-anc: Halfling
+feat-level: 1
+modified: 20200823154028071
+tags: Halfling Ancestry Feat
+title: Folksy Patter
+type: text/vnd.tiddlywiki
+
+You are adept at disguising coded messages as folksy idioms.
+
+Using slang, jokes, halfling loanwords, and the like, you convey a simple message consisting of three basic words (such as “Danger assassin flee” or “Meet me moonrise”). 
+
+Your intended listener can attempt a [[Perception]] check to discern the message (DC 20 if an ally, DC 15 if a halfling ally, DC 10 if a halfling ally with Folksy Patter). 
+
+Eavesdroppers can also attempt a [[Perception]] check against your [[Deception]] DC to discern your meaning. Any bonuses or penalties to Perception checks to [[Sense Motive]] apply.

@@ -1,0 +1,16 @@
+created: 20200823152736624
+feat-anc: Goblin
+feat-level: 1
+mod-ac: +1 circumstance vs hazards.
+mod-fortitude: +1 circumstance vs hazards.
+mod-initiative: +1 circumstance, or +4 if opponent using deception/diplomacy.
+mod-reflex: +1 circumstance vs hazards.
+mod-will: +1 circumstance vs hazards.
+modified: 20200823152921788
+tags: Ancestry Feat Goblin
+title: Twitchy
+type: text/vnd.tiddlywiki
+
+You are naturally suspicious and wary of danger, especially when you suspect someone might be leading you into an ambush. 
+
+You gain a +1 circumstance bonus to AC and saves against hazards, and to all of your [[Initiative]] rolls. If at least one of your opponents is using [[Deception]] or [[Diplomacy]] to determine their initiative, your bonus to initiative from this feat increases to +4.

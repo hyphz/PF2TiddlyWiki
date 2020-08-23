@@ -1,0 +1,9 @@
+created: 20200823165329529
+mod-climb: Half speed on success, full speed on crit.
+mod-squeeze: Promote successes.
+modified: 20200823165432610
+tags: Heritage Kobold
+title: Cavern Kobold
+type: text/vnd.tiddlywiki
+
+When [[Climb]]ing rock walls, stalactites, and other natural stone features, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have [[Quick Climb]]). This doesn’t affect you if you’re using a climb Speed. If you roll a success on an [[Acrobatics]] check to [[Squeeze]], you get a critical success instead.
