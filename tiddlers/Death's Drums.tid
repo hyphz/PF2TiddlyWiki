@@ -1,0 +1,12 @@
+created: 20200828185421834
+feat-anc: Orc
+feat-level: 9
+mod-fortitude: +2 circumstance when wounded or taking Persistent.
+modified: 20200828185511095
+tags: Feat Ancestry Orc
+title: Death's Drums
+type: text/vnd.tiddlywiki
+
+Your life has been spent challenging death itself, and proximity to that implacable foe only makes your heart beat harder. 
+
+When you are taking [[Persistent Damage]] or your [[Wounded]] value is 1 or greater, you gain a +2 circumstance bonus to [[Fortitude]] saving throws.

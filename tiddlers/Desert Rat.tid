@@ -1,0 +1,14 @@
+created: 20200828190102157
+mod-starvation: 10x as long as normal before affected.
+mod-temperature_effects: Heat effects are one step better, cold effects one step worse.
+mod-thirst: 10x as long as normal before affected.
+modified: 20200828190202338
+tags: Heritage Ratfolk
+title: Desert Rat
+type: text/vnd.tiddlywiki
+
+If you have both hands free, you can increase your Speed to 30 feet as you run on all fours. 
+
+In addition, environmental heat effects are one step less extreme for you, and you can go 10 times as long as normal before you are affected by [[Starvation]] or [[Thirst]]. 
+
+However, unless you wear protective gear or take shelter, environmental cold effects are one step more extreme for you.

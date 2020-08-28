@@ -1,0 +1,13 @@
+created: 20200828185122417
+feat-anc: Orc
+feat-level: 5
+modified: 20200828185206599
+tags: Feat Ancestry Orc
+title: Bloody Blows
+type: text/vnd.tiddlywiki
+
+Your lethal unarmed attacks leave bloody gouges or cause severe internal bleeding. 
+
+When you critically hit with a [[Strike]] using an unarmed attack that isn’t [[Nonlethal]], the target takes 1d4 persistent bleed damage. 
+
+This can be because you’re taking the penalty to use a fist for a lethal attack or because you have an unarmed attack without the nonlethal trait due to [[Iron Fists]], [[Tusks]], or a similar ability.

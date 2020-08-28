@@ -1,0 +1,26 @@
+created: 20200828183707135
+feat-anc: Kobold
+feat-fpre: Dracomancer
+feat-level: 13
+modified: 20200828184427396
+tags: Kobold Ancestry Feat
+title: Elite Dracomancer
+type: text/vnd.tiddlywiki
+
+Your magic rivals that of lesser dragons. 
+
+Choose one 3rd‑level spell and one 4th-level spell from those listed for a dragon spellcaster of your draconic exemplar’s type. 
+
+You can cast each of these spells once per day as arcane innate spells.
+
+| !Dragon | !3rd | !4th |
+| Black | [[Slow]], [[Stinking Cloud]], [[Paralyze]] | [[Clairvoyance]], [[Dimension Door]], [[Suggestion]] |
+| Blue | [[Dream Message]], [[Hypnotic Pattern]], [[Paralyze]] | [[Dimension Door]], [[Hallucinatory Terrain]], [[Clairvoyance]] |
+| Green | [[Dispel Magic]], [[Locate]], [[Mind Reading]] | [[Clairvoyance]], [[Dimension Door]], [[Stoneskin]] |
+| Red | [[Grease]], [[Haste]], [[Mind Reading]] | [[Crushing Despair]], [[Invisibility]], [[Stoneskin]] |
+| White | [[Earthbind]], [[Haste]], [[Vampiric Touch]] | [[Charm]], [[Dimension Door]], [[Freedom of Movement]] |
+| Brass | [[Earthbind]], [[Paralyze]] | [[Confusion]], [[Dimensional Anchor]], [[Dimension Door]] |
+| Bronze | [[Dispel Magic]], [[Mind Reading]], [[Slow]] | [[Dimension Door]], [[Solid Fog]], [[Suggestion]] |
+| Copper | [[Dispel Magic]], [[Haste]], [[Meld into Stone]] | [[Confusion]], [[Creation (Spell)]], [[Stoneskin]] |
+| Gold | [[Dispel Magic]], [[Haste]], [[Heal]] | [[Discern Lies]], [[Heal]], [[Restoration]] |
+| Silver | [[Heal]], [[Paralyze]], [[Wall of Wind]] | [[Freedom of Movement]], [[Read Omens]], [[Restoration]] |

@@ -1,0 +1,13 @@
+a-actions: 1
+a-subactions: Leap
+created: 20200828193356877
+feat-anc: Tengu
+feat-level: 5
+modified: 20200828193436803
+tags: Feat Ancestry Tengu Action
+title: One-Toed Hop
+type: text/vnd.tiddlywiki
+
+Assuming a peculiar stance, you make a short hop on each toe. 
+
+You make a vertical [[Leap]] without triggering reactions that can be triggered by move actions or upon leaving or entering a square.

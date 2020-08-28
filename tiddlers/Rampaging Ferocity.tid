@@ -1,0 +1,17 @@
+a-subactions: Strike
+created: 20200828185752451
+feat-anc: Orc
+feat-fpre: [[Orc Ferocity]]
+feat-level: 17
+modified: 20200828185847799
+tags: Feat Ancestry Orc Action Free
+title: Rampaging Ferocity
+type: text/vnd.tiddlywiki
+
+''Trigger'' You use [[Orc Ferocity]].
+
+You lash out viciously even as you fend off death. 
+
+Make a single melee [[Strike]]. 
+
+If this Strike brings a foe to 0 Hit Points, this activation of Orc Ferocity doesn’t count against its frequency.

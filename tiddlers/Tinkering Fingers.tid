@@ -1,0 +1,14 @@
+created: 20200828191110750
+feat-anc: Ratfolk
+feat-level: 1
+mod-repair: No penalty for not using a repair kit.
+modified: 20200828191150381
+tags: Ancestry Feat Ratfolk
+title: Tinkering Fingers
+type: text/vnd.tiddlywiki
+
+You’re good with your hands and can quickly improvise a fix for broken or damaged equipment. 
+
+You’re trained in [[Crafting]]. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. 
+
+You can [[Repair]] an item without using a [[Repair Kit]] without taking the –2 circumstance penalty, improvising tools from whatever you have at hand.

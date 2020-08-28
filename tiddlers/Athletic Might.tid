@@ -1,0 +1,13 @@
+created: 20200828185045444
+feat-anc: Orc
+feat-level: 5
+mod-climb: Promote successes.
+mod-swim: Promote successes.
+modified: 20200828185117757
+tags: Feat Ancestry Orc
+title: Athletic Might
+type: text/vnd.tiddlywiki
+
+Surviving in hostile terrain has given you a great talent for mobility. 
+
+Whenever you roll a success on an [[Athletics]] check to [[Climb]] or [[Swim]], you get a critical success instead.
