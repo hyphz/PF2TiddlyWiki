@@ -1,5 +1,5 @@
 created: 20200630143444867
-modified: 20200806162346154
+modified: 20200829214741608
 skill-stat: Intelligence
 tags: Skill
 title: Lore
@@ -21,7 +21,7 @@ If there’s any doubt whether a Lore skill applies to a specific topic or actio
 
 ''Lore types suggested in backgrounds:'' <$list filter="[each[bg-lore]sort[bg-lore]]"><$link>{{!!bg-lore}}</$link>, </$list>
 
-''Lore types suggested in other abilities:'' <$list filter="[each[lore-mention]get[lore-mention]sort[]]"><<currentTiddler>>, </$list>
+''Lore types suggested in other abilities:'' <$list filter="[each:list-item[lore-mention]sort[]]"><<currentTiddler>>, </$list>
 
 
 {{||SkillActionList}}

@@ -1,0 +1,11 @@
+created: 20200829223236453
+feat-level: 13
+feat-vher: Tiefling
+modified: 20200829223503467
+tags: Heritage Feat Tiefling
+title: Fiendish Strikes
+type: text/vnd.tiddlywiki
+
+Your festering connection to the forces of evil infuses your weapons with debilitating malevolence, tearing down creatures of good with every attack. 
+
+All your weapon and unarmed [[Strike]]s deal 1 additional <<tag Evil>> damage and have the <<tag Evil>> and <<tag Magical>> traits.

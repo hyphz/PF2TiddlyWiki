@@ -1,0 +1,18 @@
+created: 20200829222020901
+feat-level: 1
+feat-vher: Tiefling
+modified: 20200829222137242
+tags: Heritage Feat Tiefling
+title: Form of the Fiend
+type: text/vnd.tiddlywiki
+
+Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine. 
+
+You gain your choice of one of the following unarmed attacks. The attack is in the brawling group and has the listed damage die and traits.
+
+* ''Claw'': 1d4 slashing ([[Agile]], [[Finesse]], [[Unarmed]], [[Versatile]] piercing)
+* ''Hoof'': 1d6 bludgeoning ([[Finesse]], [[Unarmed]])
+* ''Jaws'': 1d6 piercing ([[Finesse]], [[Unarmed]])
+* ''Tail'': 1d4 bludgeoning ([[Agile]], [[Finesse]], [[Unarmed]])
+
+''Special'' You can select this feat only at 1st level, and you can’t retrain into or out of this feat, nor can you change the type of attack you gained.

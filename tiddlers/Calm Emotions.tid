@@ -13,7 +13,8 @@ m-save: Will
 m-targets: 
 m-time: 
 mod-attack: -1 status for the duration on a failed save.
-modified: 20200805230224358
+modified: 20200829223851290
+modtag-emotion: Can suppress other effects temporarily.
 s-crit: The creature is unaffected.
 s-fail: Any [[Emotion]] effects that would affect the creature are suppressed and the creature can't use [[Hostile Action]]s. If the target is subject to hostility from any other creature, it ceases to be affected by calm emotions.
 s-fumble: As failure, but hostility doesn’t end the effect.

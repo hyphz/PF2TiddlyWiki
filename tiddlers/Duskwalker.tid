@@ -1,0 +1,17 @@
+created: 20200829220656029
+modified: 20200829220804212
+tags: Heritage Versatile Uncommon
+title: Duskwalker
+type: text/vnd.tiddlywiki
+
+Thanks to an ancient bargain, your soul has been reborn as a duskwalker, a planar scion with a connection to psychopomps and the Boneyard. 
+
+You gain the <<tag Duskwalker>> trait in addition to the traits from your ancestry. 
+
+You also gain [[Low-Light Vision]], or you gain [[Darkvision]] if your ancestry already has low light vision. 
+
+Neither your body nor your spirit can ever become <<tag Undead>>. 
+
+You can choose from <<tag Duskwalker>> feats and feats from your ancestry whenever you gain an ancestry feat.
+
+{{||VHerFeatList}}

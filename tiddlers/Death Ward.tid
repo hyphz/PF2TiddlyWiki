@@ -12,7 +12,10 @@ m-range: Touch
 m-save: 
 m-targets: 1 living creature touched
 m-time: 
-modified: 20200720205709009
+mod-doomed: Suppresses all effects.
+modified: 20200829221621857
+modtag-death: +4 status to saves.
+modtag-negative: +4 status to Saves.
 s-crit: 
 s-fail: 
 s-fumble: 

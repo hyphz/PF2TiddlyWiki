@@ -1,0 +1,14 @@
+created: 20200829215230631
+feat-level: 5
+feat-vher: Aasimar
+mod-craft: +4 circumstance to make holy water from your blood.
+modified: 20200829215421586
+tags: Heritage Feat Aasimar
+title: Blessed Blood (Aasimar)
+type: text/vnd.tiddlywiki
+
+Your freshly spilled blood is sanctified, and ingesting it causes effects similar to those of [[Holy Water]].
+
+Whenever a <<fag Fiend>>, <<tag Undead>>, or creature with a weakness to <<tag Good>> damage drinks your blood or deals piercing or slashing damage to you with jaws, fangs, or a similar attack, that creature takes 1d6 good damage. 
+
+You gain a +4 circumstance bonus to [[Crafting]] checks to [[Craft]] [[Holy Water]] using your own blood as one of the ingredients.

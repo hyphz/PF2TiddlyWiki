@@ -1,0 +1,15 @@
+created: 20200829214217872
+modified: 20200829220757017
+tags: Heritage Versatile Uncommon
+title: Aasimar
+type: text/vnd.tiddlywiki
+
+You descend from celestials or were touched by the celestial realms, gaining an air of awe and grace, as well as features distinctive to your celestial forebears.
+
+You gain the <<tag Aasimar>> trait, in addition to the traits from your ancestry. 
+
+You also gain [[Low-Light Vision]], or you gain [[Darkvision]] if your ancestry already has low light vision.
+
+You can choose from <<tag Aasimar>> feats and feats from your ancestry whenever you gain an ancestry feat.
+
+{{||VHerFeatList}}

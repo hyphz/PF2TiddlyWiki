@@ -1,0 +1,10 @@
+a-actions: 1
+created: 20200829214933803
+modified: 20200829215005962
+tags: Action Implied Concentrate
+title: Toggle Halo
+type: text/vnd.tiddlywiki
+
+//Implied by [[Halo]].//
+
+You can suppress or reestablish the halo with a single action, which has the Concentrate trait.

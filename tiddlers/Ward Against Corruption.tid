@@ -1,0 +1,15 @@
+created: 20200829221254352
+feat-level: 5
+feat-vher: Duskwalker
+modified: 20200829221338904
+modtag-death: +1 circumstance to saves.
+modtag-disease: +1 circumstance to saves.
+tags: Feat Heritage Duskwalker
+title: Ward Against Corruption
+type: text/vnd.tiddlywiki
+
+Your soul is warded against the power of undeath and plague, as well as that of the evil former psychopomps known as sahkils. 
+
+You gain a +1 circumstance bonus to saving throws against <<tag Death>> effects, <<tag Disease>>, and all effects from undead or sahkils. 
+
+This bonus increases to +2 against an undead or sahkil’s death effect or disease.

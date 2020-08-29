@@ -1,0 +1,11 @@
+created: 20200829221507509
+feat-level: 13
+feat-vher: Duskwalker
+modified: 20200829221713934
+tags: Feat Heritage Duskwalker
+title: Resist Ruin
+type: text/vnd.tiddlywiki
+
+Your duskwalker heritage allows you to extend protection against negative energy to yourself or an ally in need. 
+
+You gain resistance 5 to <<tag Negative>> energy, and once per day, you can cast [[Death Ward]] as a divine innate spell.

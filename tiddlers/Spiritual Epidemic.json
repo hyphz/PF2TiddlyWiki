@@ -5,11 +5,12 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Spiritual Epidemic",
         "tags": "Spell Somatic Verbal Concentrate Manipulate Curse Necromancy Divine Occult",
-        "modified": "20200730192745402",
+        "modified": "20200829220505325",
         "s-hit": "The target is [[Enfeebled]] 2 and [[Stupefied]] 2 for 1 round.",
         "s-fumble": " The target is [[Enfeebled]] 3 and [[Stupefied]] 3 for 1 minute and [[Enfeebled]] 2 and [[Stupefied]] 2 permanently.",
         "s-fail": "The target is [[Enfeebled]] 2 and [[Stupefied]] 2 for 1 minute and [[Enfeebled]] 1 and [[Stupefied]] 1 permanently.",
         "s-crit": "The target is unaffected.",
+        "mod-cast_a_spell": "Casting on an affected target may spread the curse.",
         "m-time": "",
         "m-targets": "1 creature",
         "m-save": "Will",
@@ -23,6 +24,7 @@
         "a-fail": "",
         "a-defense": "",
         "a-crit": "",
-        "mod-cast_a_spell": "Casting on an affected target may spread the curse."
+        "modtag-divine": "Casting on infected target may infect you.",
+        "modtag-occult": "Casting on infected target may infect you."
     }
 ]

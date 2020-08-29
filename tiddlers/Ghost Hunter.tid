@@ -1,0 +1,13 @@
+created: 20200829220920366
+feat-level: 1
+feat-vher: Duskwalker
+modified: 20200829220949821
+tags: Feat Heritage Duskwalker
+title: Ghost Hunter
+type: text/vnd.tiddlywiki
+
+Your connection to the Boneyard ensures that your blows strike true against spectral beings. 
+
+Your weapon and unarmed attack [[Strike]]s against <<tag Incorporeal>> creatures become <<tag Magical>>.
+
+If they are already magical, they instead gain the effects of a [[Ghost Touch]] property rune.
