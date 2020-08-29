@@ -1,7 +1,17 @@
-created: 20200725160108426
-modified: 20200725160125764
-tags: Trait
+created: 20200828235843358
+modified: 20200829000353049
+tags: Heritage Versatile Uncommon
 title: Dhampir
 type: text/vnd.tiddlywiki
 
-These humanoids are the immortal offspring of vampires and members of other ancestries.
+You are the scion of a vampire, half living and half undead, gifted with uncanny charm and grace, a bloodless pallor, and elongated incisors. 
+
+You gain the <<tag Dhampir>> trait, in addition to the traits from your ancestry. 
+
+You have the [[Negative Healing]] ability, which means you are harmed by positive damage and healed by negative effects as if you were <<tag Undead>>.  //(NB: you are ''not'' damaged by positive healing.)//
+
+You also gain [[Low-Light Vision]], or you gain [[Darkvision]] if your ancestry already has low light vision.
+
+You can choose from <<tag Dhampir>> feats and feats from your ancestry whenever you gain an ancestry feat.
+
+{{||VHerFeatList}}

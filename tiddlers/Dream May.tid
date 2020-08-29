@@ -1,0 +1,18 @@
+created: 20200828234541057
+feat-level: 1
+feat-vher: Changeling
+mod-doomed: Reduce by 2 per rest.
+mod-drained: Reduce by 2 per rest.
+mod-rest: Gain Con times level times 2 HP.
+modified: 20200828234716587
+modtag-dream: +2 circumstance to saves.
+modtag-sleep: +2 circumstance to saves.
+tags: Feat Heritage Changeling Lineage
+title: Dream May
+type: text/vnd.tiddlywiki
+
+You are the child of a night hag, making one of your eyes violet or even black. 
+
+Your mother’s powers over sleep and dreams have given you a degree of resistance to those effects, granting you a +2 circumstance bonus to all saving throws against <<tag Sleep>> effects and effects that cause or alter dreams.
+
+In addition, sleep is more restorative for you. You regain HP equal to your Constitution modifier times double your level instead of just times your level, and you reduce any [[Drained]] and [[Doomed]] conditions you have by 2 instead of by 1.

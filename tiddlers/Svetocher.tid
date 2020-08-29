@@ -1,0 +1,14 @@
+created: 20200829000647482
+feat-level: 1
+feat-vher: Dhampir
+mod-drained: Fortitude and HP affected as if condition 1 lower.
+modified: 20200829000749195
+tags: Dhampir Heritage Feat Lineage
+title: Svetocher
+type: text/vnd.tiddlywiki
+
+You were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. 
+
+When you have the [[Drained]] condition, calculate the penalty to your [[Fortitude]] saves and your Hit Point reduction as though the condition value were 1 lower. 
+
+You are trained //in// [[Diplomacy]]. If you would automatically be trained in it, you instead become trained in a skill of your choice.

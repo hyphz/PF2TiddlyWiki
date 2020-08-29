@@ -2,7 +2,8 @@ created: 20200828185557279
 feat-anc: Orc
 feat-fpre: [[Orc Ferocity]]
 feat-level: 9
-modified: 20200828185622835
+mod-orc_ferocity: Also gain temp HP equal to your level.
+modified: 20200828233542214
 tags: Feat Ancestry Orc
 title: Undying Ferocity
 type: text/vnd.tiddlywiki

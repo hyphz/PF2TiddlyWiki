@@ -1,0 +1,13 @@
+created: 20200828235239892
+feat-level: 9
+feat-vher: Changeling
+modified: 20200828235312618
+tags: Feat Heritage Changeling
+title: Accursed Claws
+type: text/vnd.tiddlywiki
+
+Your claws carry your mother’s hag magic. 
+
+When you critically hit with a claw [[Strike]], the target takes an additional 1d4 persistent <<tag Mental>> damage.
+
+//This feat does not give you claws if you don't have them.//

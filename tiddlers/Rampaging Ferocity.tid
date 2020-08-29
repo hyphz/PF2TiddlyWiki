@@ -3,7 +3,8 @@ created: 20200828185752451
 feat-anc: Orc
 feat-fpre: [[Orc Ferocity]]
 feat-level: 17
-modified: 20200828185847799
+mod-orc_ferocity: Also Strike an enemy; no cooldown on a kill.
+modified: 20200828233624127
 tags: Feat Ancestry Orc Action Free
 title: Rampaging Ferocity
 type: text/vnd.tiddlywiki

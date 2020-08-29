@@ -1,0 +1,13 @@
+created: 20200828233316435
+feat-anc: Orc
+feat-fpre: [[Orc Ferocity]]
+feat-level: 13
+mod-orc_ferocity: Use once per hour.
+modified: 20200828233352375
+tags: Ancestry Feat Orc
+title: Incredible Ferocity
+type: text/vnd.tiddlywiki
+
+Given time to collect yourself after a near-death scrape, you can rebuild your ferocity and withstand additional finishing blows. 
+
+You can use [[Orc Ferocity]] with a frequency of once per hour, rather than once per day.

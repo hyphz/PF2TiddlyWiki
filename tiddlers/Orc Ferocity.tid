@@ -1,0 +1,15 @@
+created: 20200828232843623
+feat-anc: Orc
+feat-level: 1
+modified: 20200828232929953
+tags: Ancestry Feat Orc Action Reaction
+title: Orc Ferocity
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day.
+
+''Trigger'' You would be reduced to 0 Hit Points but not immediately killed.
+
+Fierceness in battle runs through your blood, and you refuse to fall from your injuries. 
+
+You avoid being knocked out and remain at 1 Hit Point, and your [[Wounded]] condition increases by 1.

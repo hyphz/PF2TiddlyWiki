@@ -1,0 +1,12 @@
+created: 20200828235044677
+feat-level: 5
+feat-vher: Changeling
+modified: 20200828235135719
+modtag-mental: +1 circumstance to saves, promote successes vs controlled.
+tags: Feat Heritage Changeling
+title: Called
+type: text/vnd.tiddlywiki
+
+You have heard the Call, and in constantly resisting that persistent demand, you’ve developed a mental bulwark against effects that would target your mind. 
+
+You gain a +1 circumstance bonus to [[Will]] saving throws against <<tag Mental>> effects. If you roll a success on your saving throw against a mental effect that would make you [[Controlled]], you get a critical success instead.

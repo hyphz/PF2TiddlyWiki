@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200811001814698
+modified: 20200828234420843
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -76,6 +76,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Lawful]]">
 <tr><th>[[Lawful]]</th><td>Lawful damage harms only chaotic creatures.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Lineage]]">
+<tr><th>[[Lineage]]</th><td>Only one, at 1st level and can never be retrained.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Linguistic]]">
 <tr><th>[[Linguistic]]</th><td>Your target must be able to understand your language.</td></tr>

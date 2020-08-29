@@ -1,0 +1,13 @@
+created: 20200829001133897
+feat-level: 5
+feat-vher: Dhampir
+modified: 20200829001205032
+tags: Dhampir Heritage Feat
+title: Undead Slayer
+type: text/vnd.tiddlywiki
+
+Your knowledge of your own not-quite-living anatomy, combined with your experience in combat, helps you take down undead foes with ease. 
+
+Against <<tag Undead>> creatures, you gain a circumstance bonus to damage with weapons and unarmed attacks equal to the number of weapon damage dice for the [[Strike]]. 
+
+This bonus increases to double the number of weapon damage dice if your target has the <<tag Vampire>> trait.
