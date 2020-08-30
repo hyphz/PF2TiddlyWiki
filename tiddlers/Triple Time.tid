@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803181051311
+feat-class: Bard
+feat-level: 4
 m-area: 60 foot [[Emanation]]
 m-components: Somatic
 m-duration: 1 round
@@ -12,12 +14,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200803181142159
+modified: 20200830145146616
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+tags: Spell Somatic Manipulate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class [[Focus Spell]]
 title: Triple Time
 type: text/vnd.tiddlywiki
 

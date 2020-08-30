@@ -1,0 +1,13 @@
+created: 20200830153444173
+feat-class: Bard
+feat-fpre: [[Harmonize]]
+feat-level: 20
+mod-composition: Remove all 1/round and 1 at a time limits.
+modified: 20200830153520439
+tags: Bard Class Feat
+title: Symphony of the Muse
+type: text/vnd.tiddlywiki
+
+You are able to weave countless performances together into a solo symphony. 
+
+You are no longer limited to a single composition each turn or a single composition at a time; when you use a new composition, all previous compositions’ effects continue for their remaining duration.

@@ -1,0 +1,16 @@
+created: 20200830153937985
+feat-class: Bard
+feat-level: 1
+modified: 20200830154054839
+modtag-auditory: +1 circumstance to saves.
+modtag-illusion: +1 circumstance to saves.
+modtag-linguistic: +1 circumstance to saves.
+modtag-sonic: +1 circumstance to saves.
+modtag-visual: +1 circumstance to saves.
+tags: Bard Class Feat
+title: Well-Versed
+type: text/vnd.tiddlywiki
+
+You’re resilient to performative influences that aren’t your own. 
+
+You gain a +1 circumstance bonus to saving throws against effects with the <<tag Auditory>>, <<tag Illusion>>, <<tag Linguistic>>, <<tag Sonic>>, or <<tag Visual>> traits.

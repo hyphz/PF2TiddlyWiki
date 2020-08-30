@@ -1,0 +1,15 @@
+created: 20200830145519188
+feat-class: Bard
+feat-level: 6
+modified: 20200830145609786
+tags: Bard Class Feat
+title: Steady Spellcasting
+type: text/vnd.tiddlywiki
+
+You don’t lose spells easily. 
+
+If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. 
+
+If you succeed, your action isn’t disrupted.
+
+//NB: there is no protection against spellcasting being disrupted by things other than reactions.//

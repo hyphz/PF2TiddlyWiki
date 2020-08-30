@@ -1,0 +1,11 @@
+created: 20200830151249786
+feat-class: Bard
+feat-level: 10
+modified: 20200830151330614
+tags: Bard Class Feat Action Free Concentrate Metamagic
+title: Quickened Casting
+type: text/vnd.tiddlywiki
+
+''Frequency'' Once per day.
+
+If your next action is to cast a bard cantrip or a bard spell that is at least 2 levels lower than the highest level bard spell you can cast, reduce the number of actions to cast it by 1 (minimum 1 action).

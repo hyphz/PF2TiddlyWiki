@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20200830151350192
+feat-class: Bard
+feat-level: 10
+feat-sppre: [[Polymath Muse]]
+modified: 20200830151446195
+tags: Bard Class Feat Action Concentrate Metamagic Manipulate
+title: Unusual Composition
+type: text/vnd.tiddlywiki
+
+You can translate the emotion and power of a composition to other mediums. 
+
+If your next action is to cast a composition spell, you can use a different kind of performance than usual for the composition to change any of its somatic components to verbal components or vice versa. 
+
+As usual for composition spells, this changes whether the composition is <<tag Auditory>> or <<tag Visual>>.

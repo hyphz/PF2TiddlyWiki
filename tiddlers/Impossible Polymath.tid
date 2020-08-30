@@ -1,0 +1,16 @@
+created: 20200830152444555
+feat-class: Bard
+feat-fpre: [[Esoteric Polymath]]
+feat-level: 18
+mod-eclectic_polymath: Can't retain spells from non-occult traditions.
+mod-esoteric_polymath: Use spells from other traditions if skill trained. 
+modified: 20200830152646082
+tags: Bard Class Feat
+title: Impossible Polymath
+type: text/vnd.tiddlywiki
+
+Your esoteric formulas are so unusual that they allow you to dabble in magic from diverse traditions that other bards don’t understand. 
+
+As long as you’re trained in [[Arcana]], you can add arcane spells to your book from [[Esoteric Polymath]]; as long as you’re trained in [[Nature]], you can add primal spells to your book; and as long as you are trained in [[Religion]], you can add divine spells to your book.
+
+Like your other spells in your book, you can add one of these spells from another tradition to your repertoire as an occult spell each day using Esoteric Polymath, but you can’t retain any spells from another tradition when you prepare again, even if you have [[Eclectic Polymath]].

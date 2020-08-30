@@ -8,7 +8,7 @@ cls-reflex: T
 cls-tskills: Athletics
 cls-will: E
 created: 20200830011028945
-modified: 20200830012039371
+modified: 20200830150634740
 tags: Class
 title: Bard
 type: text/vnd.tiddlywiki
@@ -43,18 +43,5 @@ type: text/vnd.tiddlywiki
 
 !! Class Feats
 
-<table>
-<tr><th>Level</th><th>Feats</th></tr>
-<$list filter="1 2 4 6 8 10 12 14 16 18 20" variable="level">
-<tr><th><<level>></th>
-<td>
-<$list filter="[tag[Feat]tag[Class]tag<currentTiddler>field:feat-level<level>]">
-<$link />
-<$list filter="[all[current]has[feat-fpre]]">
-(Requires {{!!feat-fpre}})
-</$list>
-<br /> 
-</$list>
-</td></tr>
-</$list>
-</table>
+{{||ClassFeatList}}
+

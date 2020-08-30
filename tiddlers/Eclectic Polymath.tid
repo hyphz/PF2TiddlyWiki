@@ -1,0 +1,13 @@
+created: 20200830151508446
+feat-class: Bard
+feat-level: 12
+feat-sppre: [[Esoteric Polymath]]
+mod-esoteric_polymath: Can swap gained spell into repertoire.
+modified: 20200830151628437
+tags: Bard Class Feat
+title: Eclectic Polymath
+type: text/vnd.tiddlywiki
+
+Your flexible mind can quickly shift spells. 
+
+If you add a spell to your repertoire during your daily preparations using [[Esoteric Polymath]], when you prepare again, you can choose to keep the new spell from Esoteric Polymath in your repertoire and instead lose access to another spell of the same level in your repertoire.

@@ -5,6 +5,9 @@ a-fumble:
 a-hit: The status bonus from inspire courage or inspire defense increases to +2.
 a-skill: Performance
 created: 20200803180059119
+feat-class: Bard
+feat-level: 8
+feat-sppre: [[Maestro Muse]]
 m-area: 
 m-components: Verbal
 m-duration: 
@@ -16,13 +19,13 @@ m-time:
 mod-inspire_courage: Perform to increase bonus to +2/+3.
 mod-inspire_defense: Perform to increase bonus to +2/+3.
 mod-song_of_strength: Perform to increase bonus to +2/+3.
-modified: 20200805231230908
+modified: 20200830150009728
 modified-by: Performance
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Free Uncommon Bard Enchantment Action
+tags: Spell Verbal Concentrate [[Focus Spell]] Free Uncommon Bard Enchantment Action Feat Class
 title: Inspire Heroics
 type: text/vnd.tiddlywiki
 

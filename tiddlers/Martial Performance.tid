@@ -1,0 +1,15 @@
+created: 20200830153827758
+feat-class: Bard
+feat-level: 1
+feat-sppre: [[Warrior Muse]]
+mod-bard_weapon_expertise: Martial proficiency raised to expert.
+modified: 20200830153913408
+tags: Bard Class Feat
+title: Martial Performance
+type: text/vnd.tiddlywiki
+
+Your muse has taught you how to handle a wider variety of weapons than most bards, empowering you to effortlessly blend your performance into combat even with the most inelegant tools. 
+
+You become trained with all martial weapons.
+
+If you gain the [[Bard Weapon Expertise]] class feature, your proficiency rank with martial weapons increases to expert.

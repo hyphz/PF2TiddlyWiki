@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200830154639826
+feat-class: Bard
+feat-level: 4
+feat-sppre: [[Warrior Muse]]
+mod-inspire_courage: One ally can also Stride.
+modified: 20200830154759940
+tags: Class Feat Bard Action Auditory Concentrate Metamagic
+title: Courageous Advance
+type: text/vnd.tiddlywiki
+
+With a rousing call, you exhort an ally to advance. 
+
+If your next action is to cast the [[Inspire Courage]] composition cantrip, one ally who gains a status bonus from the spell can immediately use a reaction to [[Stride]].

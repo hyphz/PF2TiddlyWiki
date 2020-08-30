@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803175754743
+feat-class: Bard
+feat-level: 4
+feat-sppre: [[Maestro Muse]]
 m-area: 60 foot [[Emanation]]
 m-components: Verbal
 m-duration: 1 round
@@ -17,16 +20,18 @@ mod-fortitude: +1 status.
 mod-reflex: +1 status.
 mod-resistance: Physical (half spell level).
 mod-will: +1 status.
-modified: 20200803175922769
+modified: 20200830144852184
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class
 title: Inspire Defense
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
+
+''Prerequisite'' [[Maestro Muse]].
 
 You inspire your allies to protect themselves more effectively.
 

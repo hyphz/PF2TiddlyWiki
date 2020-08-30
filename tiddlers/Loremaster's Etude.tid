@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803180727082
+feat-class: Bard
+feat-level: 2
+feat-sppre: [[Enigma Muse]]
 m-area: 
 m-components: Somatic
 m-duration: 
@@ -13,16 +16,18 @@ m-save:
 m-targets: You or the triggering ally
 m-time: 
 mod-recall_knowledge: Can use best of 2 rolls.
-modified: 20200803180905044
+modified: 20200830144551148
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Bard Divination Fortune Free Action
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Bard Divination Fortune Free Action Feat Class
 title: Loremaster's Etude
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
+
+''Prerequisites'' [[Enigma Muse]].
 
 ''Trigger'' You or an ally within range attempts a skill check to [[Recall Knowledge]].
 

@@ -1,0 +1,30 @@
+created: 20200830150614620
+modified: 20200830151058321
+tags: 
+title: ClassFeatList
+type: text/vnd.tiddlywiki
+
+<table>
+<tr><th>Level</th><th>Feats</th></tr>
+<$list filter="1 2 4 6 8 10 12 14 16 18 20" variable="level">
+<tr><th><<level>></th>
+<td>
+<$list filter="[tag[Feat]tag[Class]tag<currentTiddler>field:feat-level<level>sort[]]">
+<$link />
+<$list filter="[all[current]has[feat-fpre]]">
+(Requires 
+<$list filter="[all[current]list[!!feat-fpre]]">
+<$link/></$list>)</$list>
+<$list filter="[all[current]has[feat-sppre]]">
+(Requires 
+<$list filter="[all[current]list[!!feat-sppre]]">
+<$link/></$list>)</$list>
+<$list filter="[all[current]has[feat-skill]]">
+(Requires
+<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
+<$link to={{!!feat-skill}} />)</$list>
+<br /> 
+</$list>
+</td></tr>
+</$list>
+</table>

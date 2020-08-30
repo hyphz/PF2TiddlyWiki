@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803180917958
+feat-class: Bard
+feat-level: 14
 m-area: 
 m-components: Somatic Verbal
 m-duration: 
@@ -12,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: You and up to 9 allies
 m-time: 
-modified: 20200803181028185
+modified: 20200830151841001
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Bard Composition Emotion Enchantment Healing Mental
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Bard Composition Emotion Enchantment Healing Mental Feat Class
 title: Soothing Ballad
 type: text/vnd.tiddlywiki
 

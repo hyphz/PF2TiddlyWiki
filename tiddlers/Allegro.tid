@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200731182138875
+feat-class: Bard
+feat-level: 14
 m-area: 
 m-components: Verbal
 m-duration: 1 round
@@ -13,12 +15,12 @@ m-save:
 m-targets: 1 ally
 m-time: 
 mod-quickened: Allows Strike, Stride, or Step.
-modified: 20200805231142471
+modified: 20200830151737813
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class
 title: Allegro
 type: text/vnd.tiddlywiki
 

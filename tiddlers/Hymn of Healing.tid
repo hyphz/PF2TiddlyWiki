@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803181219325
+feat-class: Bard
+feat-level: 1
 m-area: 
 m-components: Verbal
 m-duration: [[Sustained|Sustain a Spell]] up to 4 rounds
@@ -13,12 +15,12 @@ m-save:
 m-targets: You or 1 ally
 m-time: 2 actions
 mod-sustain_a_spell: Target gains 2 temporary Hit Points.
-modified: 20200803181419138
+modified: 20200830153722224
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Healing Necromancy Positive
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Healing Necromancy Positive Feat Class
 title: Hymn of Healing
 type: text/vnd.tiddlywiki
 

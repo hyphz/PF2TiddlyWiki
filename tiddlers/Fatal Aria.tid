@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803175059225
+feat-class: Bard
+feat-level: 20
 m-area: 
 m-components: Verbal
 m-duration: 
@@ -12,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200803175209560
+modified: 20200830153238150
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Death Emotion Enchantment Mental
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Death Emotion Enchantment Mental Feat Class
 title: Fatal Aria
 type: text/vnd.tiddlywiki
 

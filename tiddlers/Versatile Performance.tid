@@ -1,0 +1,22 @@
+created: 20200830142616337
+feat-class: Bard
+feat-level: 1
+feat-sppre: [[Polymath Muse]]
+mod-demoralize: Can use Performance.
+mod-impersonate: Can use Performance.
+mod-make_an_impression: Can use Performance.
+modified: 20200830143834581
+tags: Bard Class Feat
+title: Versatile Performance
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' polymath muse
+
+You can rely on the grandeur of your performances rather than ordinary social skills.
+
+You can use [[Performance]] instead of [[Diplomacy]] to [[Make an Impression]] and instead of
+[[Intimidation]] to [[Demoralize]]. 
+
+You can also use an acting [[Performance]] instead of [[Deception]] to [[Impersonate]]. 
+
+You can use your proficiency rank in Performance to meet the requirements of skill feats that require a particular rank in Deception, Diplomacy, or Intimidation.

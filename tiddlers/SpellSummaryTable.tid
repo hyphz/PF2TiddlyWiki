@@ -1,5 +1,5 @@
 created: 20200627214018361
-modified: 20200811000918460
+modified: 20200830144322931
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]list[!!m-components]]">
 <$link/> 
 </$list>
-<$list filter = "[all[current]tag[Focus Spell]]">
+<$list filter = "[all[current]tag[Focus Spell]!tag[Cantrip]]">
 1 Focus Point
 </$list>
 </td></tr>
@@ -30,6 +30,14 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]has[m-mystery]]">
 <tr><th>Mystery</th><td>{{!!m-mystery}}</td></tr>
 </$list>
-
 </table>
+<$list filter="[all[current]tag[Composition]tag[Somatic]!tag[Verbal]]">
+<p style="border: 1px solid black; padding:2px">Because this is a somatic composition spell, to cast it you must act (adds <<tag Auditory>>, <<tag Linguistic>> and <<tag Visual>>) or dance (adds <<tag Move>> and <<tag Visual>>).</p>
+</$list>
+<$list filter="[all[current]tag[Composition]tag[Verbal]!tag[Somatic]]">
+<p style="border: 1px solid black; padding:2px">Because this is a verbal composition spell, to cast it you must sing (adds <<tag Auditory>> and <<tag Linguistic>>) or play an instrument (adds <<tag Auditory>> and <<tag Manipulate>>).</p>
+</$list>
+<$list filter="[all[current]tag[Composition]tag[Verbal]tag[Somatic]]">
+<p style="border: 1px solid black; padding:2px">Because this is a verbal and somatic composition spell, to cast it you must act (adds <<tag Audistory>>, <<tag Linguistic>> and <<tag Visual>>)..</p>
+</$list>
 

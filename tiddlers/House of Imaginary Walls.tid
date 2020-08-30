@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803175221885
+feat-class: Bard
+feat-level: 10
 m-area: 
 m-components: Somatic
 m-duration: 1 round
@@ -12,12 +14,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200805230922230
+modified: 20200830151221734
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Uncommon Bard Cantrip Composition Illusion
+tags: Spell Somatic Manipulate Uncommon Bard Cantrip Composition Illusion Feat Class [[Focus Spell]]
 title: House of Imaginary Walls
 type: text/vnd.tiddlywiki
 

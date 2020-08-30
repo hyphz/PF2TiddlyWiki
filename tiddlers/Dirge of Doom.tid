@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803174539744
+feat-class: Bard
+feat-level: 6
 m-area: 30 foot [[Emanation]]
 m-components: Verbal
 m-duration: 1 round
@@ -13,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-frightened: Can't reduce to below 1 in dirge's emanation.
-modified: 20200803175016567
+modified: 20200830145327121
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Composition Emotion Enchantment Fear Mental Cantrip
+tags: Spell Verbal Concentrate Uncommon Bard Composition Emotion Enchantment Fear Mental Cantrip [[Focus Spell]] Feat Class
 title: Dirge of Doom
 type: text/vnd.tiddlywiki
 

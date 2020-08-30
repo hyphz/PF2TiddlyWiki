@@ -1,11 +1,14 @@
 created: 20200712160917173
-modified: 20200823160245443
+modified: 20200830145927952
 tags: 
 title: FeatSummary
 type: text/vnd.tiddlywiki
 
-<$list filter="[all[current]tag[Focus Spell]]">
+<$list filter="[all[current]tag[Focus Spell]!tag[Cantrip]]">
 //This Focus Spell is gained by taking a Feat, which grants the spell plus one focus point.//
+</$list>
+<$list filter="[all[current]tag[Focus Spell]tag[Cantrip]]">
+//This Focus Cantrip is gained by taking a Feat.//
 </$list>
 <table>
 <tr><th>Feat Type</th><td>
@@ -22,17 +25,27 @@ type: text/vnd.tiddlywiki
 <tr><th>Heritage</th><td><$link/></td></tr>
 </$list>
 <tr><th>Level</th><td>{{!!feat-level}}</td></tr>
-<$list filter="[all[current]tag[Skill]]">
+<$list filter="[all[current]has[feat-skill]]">
 <tr><th>Skill</th><td>
 <$list filter="[list[!!feat-skill]]"><$link/> </$list>
 </td></tr>
-<tr><th>Requirement</th><td>{{!!feat-spre}}
-<$transclude tiddler="TraitSummaryLongName" index={{!!feat-spre}} />
+<tr><th>Proficiency</th><td>
+<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
 </td></tr>
 </$list>
 <tr><th>Requires</th><td>{{!!feat-fpre}}</td></tr>
 <$list filter="[all[current]tag[Class]]">
-<tr><th>Class</th><td>{{!!feat-class}}</td></tr>
+<tr><th>Class</th><td>
+<$list filter="[list[!!feat-class]]">
+<$link/>
+</$list></td></tr>
+</$list>
+<$list filter="[all[current]has[feat-sppre]]">
+<tr><th><$transclude tiddler="SplatNameDict" index={{!!feat-class}} />
+</th><td>
+<$list filter="[list[!!feat-sppre]]">
+<$link/>
+</$list></td></tr>
 </$list>
 </table>
 

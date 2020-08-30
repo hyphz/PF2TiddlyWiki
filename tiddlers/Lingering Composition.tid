@@ -4,6 +4,9 @@ a-fail: The composition lasts 1 round, but you don't spend the focus point for c
 a-fumble: 
 a-hit: The composition lasts 3 rounds.
 created: 20200803180406479
+feat-class: Bard
+feat-level: 1
+feat-sppre: [[Maestro Muse]]
 m-area: 
 m-components: Verbal
 m-duration: 
@@ -12,16 +15,18 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200803180701122
+modified: 20200830142253560
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Enchantment Action Free
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Enchantment Action Free Feat Class Bard
 title: Lingering Composition
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
+
+''Prerequisites'' [[Maestro Muse]].
 
 You add a flourish to your composition to extend its benefits.
 

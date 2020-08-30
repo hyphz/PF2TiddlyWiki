@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20200830145341230
+feat-class: Bard
+feat-level: 6
+feat-sppre: [[Maestro Muse]]
+mod-composition: 1 harmonized and one not composition at once.
+modified: 20200830145502383
+tags: Bard Class Feat Concentrate Manipulate Metamagic
+title: Harmonize
+type: text/vnd.tiddlywiki
+
+You can perform multiple compositions simultaneously. 
+
+If your next action is to cast a composition, it becomes a harmonized composition. 
+
+Unlike a normal composition, a harmonized composition doesn’t end if you cast another composition, and you can cast another composition on the same turn as a harmonized one. 
+
+Casting another harmonized composition ends any harmonized composition you have in effect.

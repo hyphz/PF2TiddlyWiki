@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803175344496
+feat-class: Bard
+feat-level: 2
+feat-sppre: [[Maestro Muse]]
 m-area: 
 m-components: Verbal
 m-duration: 1 round
@@ -13,16 +16,18 @@ m-save:
 m-targets: 1 ally
 m-time: 
 mod-aid: Aid with Performance and promote non-fumble fails.
-modified: 20200803175523966
+modified: 20200830150502091
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Class Feat [[Focus Spell]]
 title: Inspire Competence
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
+
+''Prerequisite'' [[Maestro Muse]].
 
 Your encouragement inspires your ally to succeed at a task.
 

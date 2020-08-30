@@ -1,0 +1,23 @@
+a-actions: 1
+a-crit: The GM chooses and tells you two of the following pieces of information about the enemy: which of the enemy’s weaknesses is highest, which of the enemy’s saving throws has the lowest modifier, one immunity the enemy has, or which of the enemy’s resistances is highest. In the event of a tie, the GM should pick one at random.
+a-defense: Deception Stealth
+a-fumble: The GM gives you false information (the GM makes up the information).
+a-hit: The GM chooses one piece of information from the above list to tell you about the enemy.
+a-skill: Occultism
+created: 20200830154412478
+feat-class: Bard
+feat-level: 4
+modified: 20200830154614313
+tags: Class Feat Bard Secret Action
+title: Combat Reading
+type: text/vnd.tiddlywiki
+
+You use a performer’s cold reading techniques, aura reading, and other tricks to discover your foe’s strengths and weaknesses. 
+
+The GM rolls a secret [[Occultism]] check for you against the [[Deception]] or [[Stealth]] DC (whichever is higher) of an enemy of your choice who is engaged in combat and isn’t [[Concealed]] from you, [[Hidden]] from you, or [[Undetected]] by you.
+
+The GM might apply a penalty for the distance between you and the enemy. 
+
+The enemy is then temporarily immune to your Combat Reading for 1 day.
+
+{{||ActionSuccessTable}}

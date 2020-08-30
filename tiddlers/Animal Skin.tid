@@ -1,9 +1,9 @@
 created: 20200723215904232
 feat-class: Barbarian
 feat-level: 6
-feat-sppre: Animal Instinct
+feat-sppre: [[Animal Instinct]]
 mod-rage: Reverses AC penalty and improves Dex cap.
-modified: 20200723220138343
+modified: 20200830151109777
 tags: Barbarian Instinct Morph Primal Transmutation Class Feat
 title: Animal Skin
 type: text/vnd.tiddlywiki

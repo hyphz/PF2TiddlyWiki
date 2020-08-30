@@ -1,5 +1,5 @@
 created: 20200702142122585
-modified: 20200809212248935
+modified: 20200830153033333
 tags: 
 title: SkillFeatList
 type: text/vnd.tiddlywiki
@@ -7,7 +7,8 @@ type: text/vnd.tiddlywiki
 ''Feats for this skill:''
 
 <ul>
-<$list filter="[all[current]listed[feat-skill]sort[]]">
-<li><$link to=<<currentTiddler>> /> ({{!!feat-spre}})</li>
+<$list filter="[all[current]!tag[Class]listed[feat-skill]sort[]]">
+<li><$link to=<<currentTiddler>> /> (<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}}/>)
+</li>
 </$list>
 </ul>

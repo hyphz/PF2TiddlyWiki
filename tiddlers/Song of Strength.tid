@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803182248756
+feat-class: Bard
+feat-level: 2
+feat-sppre: [[Warrior Muse]]
 m-area: 60 foot [[Emanation]]
 m-components: Verbal
 m-duration: 1 round
@@ -13,12 +16,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-athletics: +1 status on rolls, and DCs against athletics actions.
-modified: 20200806223450264
+modified: 20200830154352695
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental
+tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class [[Focus Spell]]
 title: Song of Strength
 type: text/vnd.tiddlywiki
 
