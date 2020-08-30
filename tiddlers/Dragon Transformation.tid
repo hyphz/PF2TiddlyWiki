@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20200830010023373
+feat-class: Barbarian
+feat-fpre: [[Dragon's Rage Wings]]
+feat-level: 16
+feat-sppre: [[Dragon Instinct]]
+modified: 20200830010206320
+tags: Barbarian Class Feat Concentrate Instinct Polymorph Primal Rage Transmutation Action
+title: Dragon Transformation
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Dragon Instinct]].
+
+You transform into a ferocious Large dragon, gaining the effects of 6th-level [[Dragon Form]] except that you use your own AC and attack modifier; you also apply your extra damage from [[Rage]].
+
+The action to [[Dismiss]] the transformation gains the <<tag Rage>> trait.
+
+At 18th level, you gain a +20-foot status bonus to your fly Speed, your damage bonus with dragon Strikes increases to +12, your breath weapon DC increases to 30, and you gain a +14 status bonus to your breath weapon damage.

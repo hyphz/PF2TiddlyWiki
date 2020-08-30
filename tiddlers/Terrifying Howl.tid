@@ -1,0 +1,16 @@
+a-actions: 1
+a-subactions: Demoralize
+created: 20200830003755274
+feat-class: Barbarian
+feat-fpre: [[Intimidating Glare]]
+feat-level: 10
+modified: 20200830003851399
+tags: Barbarian Feat Rage Class Action Auditory
+title: Terrifying Howl
+type: text/vnd.tiddlywiki
+
+You unleash a terrifying howl. 
+
+Attempt //[[Intimidation]]// checks to [[Demoralize]] each creature within 30 feet. 
+
+Regardless of the results of your checks, each creature is then temporarily immune to Terrifying Howl for 1 minute.

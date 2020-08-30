@@ -1,0 +1,15 @@
+created: 20200830010613074
+feat-class: Barbarian
+feat-fpre: [[Share Rage]]
+feat-level: 20
+mod-share_rage: Use multiple per Rage, give allies anathema and instinct ability.
+modified: 20200830010725214
+tags: Barbarian Class Feat Auditory Visual Rage
+title: Contagious Rage
+type: text/vnd.tiddlywiki
+
+You can drive your allies into a frenzy, granting them incredible benefits. 
+
+You can ignore the requirements on [[Share Rage]], using it multiple times in a Rage. 
+
+Allies affected by Share Rage who accept your anathema for the duration of the Rage gain your instinct ability and the specialization ability it gains from [[Weapon Specialization]], but not greater weapon specialization.

@@ -1,0 +1,18 @@
+created: 20200830005338864
+feat-class: Barbarian
+feat-fpre: [[Come and Get Me]]
+feat-level: 14
+modified: 20200830005434966
+tags: Barbarian Feat Rage Class Action Reaction
+title: Vengeful Strike
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within your reach succeeds or critically succeeds at an attack against you.
+
+''Requirements'' You’re under the effect of [[Come and Get Me]].
+
+When struck by an enemy, you respond in turn. 
+
+Make a melee [[Strike]] against the triggering creature. 
+
+This Strike doesn’t count toward your [[Multiple Attack Penalty]], and your multiple attack penalty doesn’t apply to this Strike.

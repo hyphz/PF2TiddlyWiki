@@ -1,0 +1,9 @@
+created: 20200830011519309
+modified: 20200830011601851
+tags: Ability
+title: Occult Spellcasting
+type: text/vnd.tiddlywiki
+
+You draw upon magic from esoteric knowledge. You can cast <<tag Occult>> spells using the [[Cast a Spell]] activity, and you can supply material, somatic, and verbal components when casting spells.
+
+{{BardConSub}}

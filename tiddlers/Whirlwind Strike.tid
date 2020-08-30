@@ -1,0 +1,15 @@
+a-actions: 3
+a-subactions: Strike
+created: 20200830005501547
+feat-class: Barbarian
+feat-level: 14
+modified: 20200830005559996
+tags: Barbarian Feat Class Action Flourish Open
+title: Whirlwind Strike
+type: text/vnd.tiddlywiki
+
+You attack all nearby adversaries. 
+
+Make a melee [[Strike]] against each enemy within your melee reach. 
+
+Each attack counts toward your [[Multiple Attack Penalty]], but do not increase your penalty until you have made all your attacks.

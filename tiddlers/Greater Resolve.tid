@@ -1,0 +1,14 @@
+created: 20200830012520782
+mod-will: Promote successes and fumbles, half damage on failure.
+modified: 20200830012547910
+tags: Ability
+title: Greater Resolve
+type: text/vnd.tiddlywiki
+
+Your unbelievable training grants you mental resiliency.
+
+Your proficiency rank for [[Will]] saves increases to legendary. 
+
+When you roll a success at a Will save, you get a critical success. When you roll a critical failure at a Will save, you get a failure instead. 
+
+When you fail a Will save against a damaging effect, you take half damage.

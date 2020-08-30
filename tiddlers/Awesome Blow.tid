@@ -1,0 +1,20 @@
+a-crit: You gan the critical success effect of a [[Shove]], then the critical success effect of a [[Trip]] against the target.
+a-defense: Fortitude
+a-fail: You gain the normal effect of [[Knockback]].
+a-hit: You gain the success effect of a [[Shove]], then the success effect of a [[Trip]] against the target.
+a-skill: Athletics
+created: 20200830004904945
+feat-class: Barbarian
+feat-fpre: Knockback
+feat-level: 14
+mod-knockback: Can make extra check for more results.
+modified: 20200830005137533
+tags: Barbarian Feat Rage Class Concentrate
+title: Awesome Blow
+type: text/vnd.tiddlywiki
+
+Your attacks are so powerful, they can flatten your opponents.
+
+When you use [[Knockback]], you can attempt an [[Athletics]] check against your target’s [[Fortitude]] DC.
+
+{{||ActionSuccessTable}}

@@ -1,0 +1,15 @@
+created: 20200830010315380
+feat-class: Barbarian
+feat-level: 18
+modified: 20200830010354147
+tags: Barbarian Class Feat Concentrate Fortune Rage Action Reaction
+title: Perfect Clarity
+type: text/vnd.tiddlywiki
+
+''Trigger'' You fail or critically fail an attack roll or [[Will]] save.
+
+You burn out all of your rage to ensure that your attack lands and your mind remains free. 
+
+Reroll the triggering attack roll or Will save with a +2 circumstance bonus, use the better result, and resolve the effect. 
+
+You then immediately stop raging.

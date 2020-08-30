@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200828234420843
+modified: 20200830013237618
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -28,6 +28,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Chaotic]]">
 <tr><th>[[Chaotic]]</th><td>Chaotic damage harms only lawful creatures.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Composition]]">
+<tr><th>[[Composition]]</th><td>Inherits traits from a [[Perform]] style, 1 per turn, only 1 active at once.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Concentrate]]">
 <tr><th>[[Concentrate]]</th><td>You can't use this while distracted, or while raging unless it also has Rage.</td></tr>

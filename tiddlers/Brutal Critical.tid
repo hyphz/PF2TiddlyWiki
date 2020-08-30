@@ -1,0 +1,15 @@
+created: 20200830010228569
+feat-class: Barbarian
+feat-level: 18
+modified: 20200830010306303
+tags: Barbarian Class Feat
+title: Brutal Critical
+type: text/vnd.tiddlywiki
+
+Your critical hits are particularly devastating. 
+
+On a critical hit, add one extra damage die. 
+
+This is in addition to any extra dice you gain if the weapon is [[Deadly]] or [[Fatal]]. 
+
+The target also takes persistent bleed damage equal to two damage dice.

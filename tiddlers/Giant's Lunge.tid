@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20200830005142826
+feat-class: Barbarian
+feat-level: 14
+feat-sppre: [[Giant Instinct]
+modified: 20200830005315785
+tags: Barbarian Feat Rage Class Concentrate Instinct Action
+title: Giant's Lunge
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Giant Instinct]].
+
+You extend your body and prepare to attack foes outside your normal reach. 
+
+Until your rage ends, all your melee weapons and unarmed attacks gain [[Reach]] 10. 
+
+This doesn’t increase the reach of any weapon or unarmed attack that already has the reach trait, but it does combine with abilities that increase your reach due to increased size, such as [[Giant’s Stature]].

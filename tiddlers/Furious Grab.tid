@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200830004425075
+feat-class: Barbarian
+feat-level: 12
+modified: 20200830004530023
+tags: Barbarian Feat Rage Class Action
+title: Furious Grab
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your last action was a successful [[Strike]], and either you have a hand free or your Strike used a grapple weapon.
+
+You grab your foe while it’s distracted by your attack. 
+
+The foe you hit becomes [[Grabbed]], as if you had succeeded at an [[Athletics]] check to [[Grapple]] the foe.

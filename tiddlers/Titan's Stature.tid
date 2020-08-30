@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20200830004537798
+feat-class: Barbarian
+feat-fpre: [[Giant's Stature]]
+feat-level: 12
+feat-sppre: [[Giant Instinct]]
+mod-giants_stature: Can become Huge, but also Clumsy 1.
+modified: 20200830004817387
+tags: Barbarian Feat Class Instinct Polymorph Transmutation
+title: Titan's Stature
+type: text/vnd.tiddlywiki
+
+You grow to even greater size. 
+
+When using [[Giant's Stature]], you can instead become Huge (increasing your reach by 10 feet if you were Medium or smaller) while you are raging.
+
+You have the [[Clumsy]] 1 condition as long as you are Huge.

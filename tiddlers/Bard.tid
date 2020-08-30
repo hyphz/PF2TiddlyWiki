@@ -1,0 +1,60 @@
+cls-combt: Simple Martial Unarmed Light Medium Unarmored
+cls-exskills: 3
+cls-fortitude: E
+cls-hpbase: 12
+cls-key: Strength
+cls-per: E
+cls-reflex: T
+cls-tskills: Athletics
+cls-will: E
+created: 20200830011028945
+modified: 20200830012039371
+tags: Class
+title: Bard
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Occult Spellcasting]], [[Composition Spells]], [[Inspire Courage]], [[Counter Performance]], Muse, 5 cantrips, 2 1st level slots and spells |
+| 2 | +1 1st level slot and spell |
+| 3 | 2 2nd level slots and spells, [[Lightning Reflexes]], [[Signature Spells]] |
+| 4 | +1 2nd level slot and spell |
+| 5 | 2 3rd level slots and spells |
+| 6 | +1 3rd level slot and spell |
+| 7 | 2 4th level slots and spells, [[Expert Spellcaster]] |
+| 8 | +1 4th level slot and spell |
+| 9 | 2 5th level slots and spells, [[Great Fortitude]], [[Resolve]] |
+| 10 | +1 5th level slot and spell |
+| 11 | 2 6th level slots and spells, [[Bard Weapon Expertise]], [[Vigilant Senses]] |
+| 12 | +1 6th level slot and spell |
+| 13 | 2 7th level slots and spells, [[Light Armor Expertise]], [[Weapon Specialization]] |
+| 14 | +1 7th level slot and spell |
+| 15 | 2 8th level slots and spells, [[Master Spellcaster]] |
+| 16 | +1 8th level slot and spell |
+| 17 | 2 9th level slots and spells, [[Greater Resolve]] |
+| 18 | +1 9th level slot and spell |
+| 19 | [[Legendary Spellcaster]], [[Magnum Opus]] |
+| 20 | |
+
+!! Class Feats
+
+<table>
+<tr><th>Level</th><th>Feats</th></tr>
+<$list filter="1 2 4 6 8 10 12 14 16 18 20" variable="level">
+<tr><th><<level>></th>
+<td>
+<$list filter="[tag[Feat]tag[Class]tag<currentTiddler>field:feat-level<level>]">
+<$link />
+<$list filter="[all[current]has[feat-fpre]]">
+(Requires {{!!feat-fpre}})
+</$list>
+<br /> 
+</$list>
+</td></tr>
+</$list>
+</table>

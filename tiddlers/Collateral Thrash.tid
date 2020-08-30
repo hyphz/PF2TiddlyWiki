@@ -1,0 +1,14 @@
+a-defense: Reflex
+created: 20200830005617421
+feat-class: Barbarian
+feat-fpre: Thrash
+feat-level: 16
+mod-thrash: Target a foe adjacent to grabbed one.
+modified: 20200830005746357
+tags: Barbarian Class Feat
+title: Collateral Thrash
+type: text/vnd.tiddlywiki
+
+When you [[Thrash]] a grabbed foe, you smack that foe into another nearby. 
+
+Another foe adjacent to the grabbed foe also takes your Thrash damage, with a basic [[Reflex]] save against your class DC.
