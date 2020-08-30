@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20200830164410663
+feat-class: Bard
+feat-fpre: [[Inspire Defense]]
+feat-level: 6
+feat-sppre: [[Warrior Muse]]
+mod-inspire_defense: You and one ally can raise shields.
+modified: 20200830164844771
+tags: Bard Class Feat Auditory Concentrate Metamagic Action
+title: Defensive Coordination
+type: text/vnd.tiddlywiki
+
+Like the storied heroes who persist in the face of overwhelming odds, you and your allies will hold the line.
+
+If your next action is to cast the [[Inspire Defense]] composition cantrip, you can [[Raise a Shield]], and one ally who gains a status bonus from the spell can immediately use a reaction to [[Raise a Shield]].
+
+//As written, this requires [[Warrior Muse]] and [[Inspire Defense]], but Inspire Defense is only available to [[Maestro Muse]]. This means that you must take [[Multifarious Muse]] to use this at all.//

@@ -1,0 +1,16 @@
+a-skill: Performance
+created: 20200830165613572
+feat-class: Bard
+feat-level: 8
+modified: 20200830165725563
+tags: Bard Class Feat Action Reaction Concentrate Manipulate
+title: Accompany
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally within 30 feet Casts a Spell.
+
+You use your performances to supplement an ally’s spellcasting, providing magical energy for their spells.
+
+Attempt a [[Performance]] check, using a very high DC for the ally’s level, and either spend a Focus Point (if the triggering spell is a focus spell) or expend a spell slot at least 1 level higher than the triggering spell.
+
+If you succeed at the Performance check, your ally’s spell doesn’t cost the Focus Point or spell slot.

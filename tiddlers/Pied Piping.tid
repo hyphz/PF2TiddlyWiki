@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803181655499
+feat-class: Bard
+feat-level: 20
 m-area: 5 foot [[Emanation]]
 m-components: Verbal
 m-duration: 1 minute
@@ -12,12 +14,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 2 actions
-modified: 20200803181914544
+modified: 20200830175101888
 s-crit: The creature is unaffected.
 s-fail: The creature uses all its actions to move toward you and compliment your performance. This effect ends if a [[Hostile Action]] is used against the affected creature.
 s-fumble: The target gains the <<tag Minion>> trait and is [[Controlled]] by you. This effect ends if a [[Hostile Action]] is used against the affected creature, or if you direct the creature to use any action that causes it harm.
 s-hit: The creature is [[Fascinated]] with you.
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Enchantment Incapacitation Mental Sonic
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Enchantment Incapacitation Mental Sonic Feat Class
 title: Pied Piping
 type: text/vnd.tiddlywiki
 

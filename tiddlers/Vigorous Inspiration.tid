@@ -1,0 +1,13 @@
+a-actions: 1
+created: 20200830174239457
+feat-class: Bard
+feat-level: 14
+mod-inspire_courage: Affected allies and you gain temp HP.
+modified: 20200830174335523
+tags: Bard Class Feat Action Auditory Concentrate Metamagic
+title: Vigorous Inspiration
+type: text/vnd.tiddlywiki
+
+You instill magical vigor in your allies when you inspire them to attack. 
+
+If your next action is to cast the [[Inspire Courage]] composition cantrip, you and all affected allies gain temporary Hit Points equal to 3 + your Charisma modifier that last for 1 minute.

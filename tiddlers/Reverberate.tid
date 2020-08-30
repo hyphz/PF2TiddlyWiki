@@ -1,0 +1,19 @@
+a-crit: You reduce the triggering damage by an amount up to four times your level. The caster takes sonic damage equal to the amount of damage you reduced in this way.
+a-fumble: You misdirect the sonic waves at yourself, taking twice the triggering damage.
+a-hit: As critical success, but you reduce the triggering damage by an amount up to twice your level.
+a-skill: Performance
+created: 20200830173707342
+feat-class: Bard
+feat-level: 12
+modified: 20200830173834360
+tags: Bard Class Feat Reaction Action
+title: Reverberate
+type: text/vnd.tiddlywiki
+
+''Trigger'' You would take <<tag Sonic>> damage from a spell.
+
+You can manipulate the acoustics around you to deflect sonic damage back at its source. 
+
+Attempt a [[Performance]] check against the spell DC of the creature that cast the triggering spell.
+
+{{||ActionSuccessTable}}

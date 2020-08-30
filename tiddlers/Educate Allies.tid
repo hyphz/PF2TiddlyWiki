@@ -1,0 +1,16 @@
+created: 20200830165227614
+feat-class: Bard
+feat-fpre: [[Well-Versed]]
+feat-level: 6
+modified: 20200830165336050
+tags: Bard Class Feat Abjuration Concentrate Action Reaction
+title: Educate Allies
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally benefiting from one of your composition spells is subject to an effect with the <<tag Auditory>>, <<tag Illusion>>, <<tag Linguistic>>, <<tag Sonic>>, or <<tag Visual>> trait.
+
+You tweak the properties of your composition spell to convey a bit of your defensive knowledge. 
+
+All allies affected by your composition spell gain your +1 circumstance bonus from [[Well-Versed]] until the start of your next turn. 
+
+Teaching your allies also bolsters your own skills; your personal circumstance bonus from [[Well-Versed]] also increases to +2 until the start of your next turn.

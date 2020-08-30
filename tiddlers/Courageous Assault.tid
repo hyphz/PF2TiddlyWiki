@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200830170627579
+feat-class: Bard
+feat-level: 10
+feat-sppre: [[Warrior Muse]]
+mod-inspire_courage: One ally can also Strike.
+modified: 20200830170704117
+tags: Class Feat Bard Action Auditory Concentrate Metamagic
+title: Courageous Assault
+type: text/vnd.tiddlywiki
+
+With a mighty shout, you can stir an ally to attack. 
+
+If your next action is to cast the [[Inspire Courage]] composition cantrip, one ally who gains a status bonus from the spell can immediately use a reaction to make a melee [[Strike]].

@@ -15,12 +15,12 @@ m-save:
 m-targets: You or 1 ally
 m-time: 2 actions
 mod-sustain_a_spell: Target gains 2 temporary Hit Points.
-modified: 20200830153722224
+modified: 20200830165148480
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Healing Necromancy Positive Feat Class
+tags: Spell Verbal Concentrate [[Focus Spell]] Bard Composition Healing Necromancy Positive Feat Class Uncommon
 title: Hymn of Healing
 type: text/vnd.tiddlywiki
 

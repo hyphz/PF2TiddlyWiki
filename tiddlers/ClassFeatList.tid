@@ -1,5 +1,5 @@
 created: 20200830150614620
-modified: 20200830151058321
+modified: 20200830165508220
 tags: 
 title: ClassFeatList
 type: text/vnd.tiddlywiki
@@ -10,7 +10,28 @@ type: text/vnd.tiddlywiki
 <tr><th><<level>></th>
 <td>
 <$list filter="[tag[Feat]tag[Class]tag<currentTiddler>field:feat-level<level>sort[]]">
+<$list filter="[all[current]field:a-actions[1]]">
+{{OneAction}}
+</$list>
+<$list filter="[all[current]field:a-actions[2]]">
+{{TwoAction}}
+</$list>
+<$list filter="[all[current]field:a-actions[3]]">
+{{ThreeAction}}
+</$list>
+<$list filter="[all[current]tag[Reaction]]">
+{{ReactionIcon}}
+</$list>
+<$list filter="[all[current]tag[Free]]">
+{{FreeAction}}
+</$list>
 <$link />
+<$list filter="[all[current]tag[Focus Spell]!tag[Cantrip]]">
+(Focus Spell)
+</$list>
+<$list filter="[all[current]tag[Focus Spell]tag[Cantrip]]">
+(Focus Cantrip)
+</$list>
 <$list filter="[all[current]has[feat-fpre]]">
 (Requires 
 <$list filter="[all[current]list[!!feat-fpre]]">

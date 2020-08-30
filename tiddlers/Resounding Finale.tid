@@ -1,0 +1,14 @@
+created: 20200830174545001
+feat-class: Bard
+feat-level: 16
+feat-sppre: [[Maestro Muse]]
+modified: 20200830174657707
+tags: Bard Class Feat Action Reaction Abjuration Concentrate
+title: Resounding Finale
+type: text/vnd.tiddlywiki
+
+''Trigger'' You or an ally benefiting from your composition spell would take <<tag Sonic>> damage.
+
+You bring your performance to a sudden, dramatic finish, drowning out other sounds. 
+
+Your composition spell ends immediately, and all allies that had been benefiting from the spell’s effects gain sonic resistance against the triggering damage equal to twice the composition spell’s level.

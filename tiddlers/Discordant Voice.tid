@@ -1,0 +1,12 @@
+created: 20200830174933124
+feat-class: Bard
+feat-level: 18
+mod-inspire_courage: Affected allies deal +1d6 sonic damage.
+modified: 20200830175020024
+tags: Bard Class Feat Evocation Sonic
+title: Discordant Voice
+type: text/vnd.tiddlywiki
+
+Your inspire courage lets loose a discordant shriek that imbues your allies’ attacks with powerful sonic reverberations. 
+
+While your allies are affected by your [[Inspire Courage]], their weapon Strikes and unarmed attacks deal an additional 1d6 sonic damage.

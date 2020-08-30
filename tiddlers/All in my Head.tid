@@ -1,0 +1,17 @@
+created: 20200830174705995
+feat-class: Bard
+feat-level: 18
+modified: 20200830174915224
+tags: Bard Class Feat Action Reaction Illusion Mental
+title: All in my Head
+type: text/vnd.tiddlywiki
+
+''Trigger'' You would take damage from a [[Strike]] or spell that doesn’t have the <<tag Death>> trait or otherwise cause instant death.
+
+Using your occult connections and incredible powers of persuasion, you convince yourself that the triggering damage is a figment of your imagination. 
+
+The damage changes from its usual damage type to <<tag Mental>> damage, and the damaging effect gains the [[Nonlethal]] trait. 
+
+You can’t use this reaction if you are immune to mental effects or mental damage.
+
+//NB: Since this is an Illusion effect, abilities that normally help you see through illusions will work against it.//

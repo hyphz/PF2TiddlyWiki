@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200830174418430
+feat-class: Bard
+feat-fpre: [[Courageous Advance]] [[Courageous Assault]]
+feat-level: 16
+mod-inspire_courage: One ally can also Stride and Strike.
+modified: 20200830174511400
+tags: Class Feat Bard Action Auditory Concentrate Metamagic
+title: Courageous Onslaught
+type: text/vnd.tiddlywiki
+
+You use your performance to orchestrate an onslaught against your enemies. 
+
+If your next action is to cast the [[Inspire Courage]] composition cantrip, one ally who gains a status bonus from the spell can immediately use a reaction to Stride and then make a melee Strike.
