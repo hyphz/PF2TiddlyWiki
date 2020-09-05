@@ -1,0 +1,17 @@
+created: 20200905175605008
+feat-class: Champion
+feat-level: 1
+feat-sppre: [[Tyrant Cause]]
+mod-iron_command: Can choose to deal persistent damage before enemy chooses to kneel.
+modified: 20200905175811345
+tags: Class Feat Champion Uncommon
+title: Iron Repercussions
+type: text/vnd.tiddlywiki
+
+Disobeying your [[Iron Command]] has lasting consequences.
+
+If an enemy refuses to kneel to you, you can deal persistent mental damage instead of normal mental damage. 
+
+You must decide whether the mental damage will be persistent before your enemy chooses whether to kneel or not. 
+
+The amount of damage is unchanged.

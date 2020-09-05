@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20200905181614029
+feat-class: Champion
+feat-fpre: [[Touch of Corruption]]
+feat-level: 4
+mod-touch_of_corruption: Also enfeebles on failed save.
+modified: 20200905181719711
+tags: Class Feat Champion Uncommon Action Concentrate Metamagic
+title: Cruelty
+type: text/vnd.tiddlywiki
+
+The harm you deal with your corrupting touch saps the strength from your enemy’s body. 
+
+If your next action is to cast [[Touch of Corruption]] on a living creature, the target is also [[Enfeebled]] 1 for 1 minute if it fails its save (enfeebled 2 if it critically fails).

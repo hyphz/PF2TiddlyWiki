@@ -1,0 +1,19 @@
+a-actions: 2
+a-subactions: Strike
+created: 20200905212451119
+feat-class: Barbarian
+feat-level: 14
+modified: 20200905212604888
+tags: Barbarian Class Feat Action Rage
+title: Impaling Thrust
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a melee weapon that deals piercing damage.
+
+You impale your enemy and hold them in place with your weapon. 
+
+Make a melee [[Strike]] with the required weapon. 
+
+If the Strike hits and deals damage, your target is [[Grabbed]] until they successfully [[Escape]], you attack with the required weapon, or you [[Release]] the required weapon, whichever comes first. 
+
+When the target is no longer grabbed, they take persistent bleed damage equal to the number of weapon damage dice.

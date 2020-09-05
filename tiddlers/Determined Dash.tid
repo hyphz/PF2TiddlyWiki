@@ -1,0 +1,21 @@
+a-actions: 2
+created: 20200905210631458
+feat-class: Barbarian
+feat-level: 10
+mod-balance: Use Athletics to balance during dash.
+modified: 20200905210745819
+tags: Barbarian Class Feat Action Rage
+title: Determined Dash
+type: text/vnd.tiddlywiki
+
+Nothing can keep you from your enemy. 
+
+[[Stride]] twice. 
+
+During this movement you ignore [[Difficult Terrain]], greater difficult terrain, and any effects that would impose a penalty to Speed. 
+
+You can attempt an [[Athletics]] check instead of an [[Acrobatics]] check to [[Balance]] when moving across narrow surfaces or uneven ground, using the same DC. 
+
+This doesn’t prevent you from being harmed by hazardous terrain. 
+
+You can increase the number of actions this activity takes to 3 to [[Stride]] three times instead.

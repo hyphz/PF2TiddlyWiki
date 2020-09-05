@@ -1,0 +1,14 @@
+a-subactions: Grapple Disarm
+created: 20200905211914100
+feat-class: Barbarian
+feat-level: 12
+modified: 20200905211950032
+tags: Barbarian Class Feat Rage Action Reaction
+title: Embrace the Pain
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature damages you with a melee attack.
+
+Ignoring your pain, you reach out and grab the creature or weapon that caused you harm. 
+
+Attempt an [[Athletics]] check to [[Grapple]] the triggering creature or to [[Disarm]] the creature of the triggering weapon.

@@ -1,0 +1,21 @@
+a-actions: 2
+a-defense: Fortitude
+a-skill: Athletics
+a-subactions: Stride [[Force Open]]
+created: 20200905203449514
+feat-class: Barbarian
+feat-level: 4
+feat-skill: Athletics
+feat-spre: T
+modified: 20200905203542561
+tags: Barbarian Class Feat Flourish Action
+title: Barreling Charge
+type: text/vnd.tiddlywiki
+
+You rush forward, moving enemies aside to reach your foe.
+
+You [[Stride]], attempting to move through your enemies’ spaces and make a melee [[Strike]]. 
+
+Roll an [[Athletics]] check and compare the result to the [[Fortitude]] DC of each creature whose space you attempt to move through during your [[Stride]], moving through its space on a success but ending your movement before entering its space on a failure. 
+
+You can use Barreling Charge to Burrow, Climb, Fly, or Swim instead of Stride, as long as you have the corresponding movement type.

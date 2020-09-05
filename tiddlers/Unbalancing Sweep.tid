@@ -1,0 +1,17 @@
+a-actions: 3
+a-subactions: Shove Trip
+created: 20200905212205359
+feat-class: Barbarian
+feat-level: 12
+modified: 20200905212314144
+tags: Barbarian Class Feat Action Flourish Open
+title: Unbalancing Sweep
+type: text/vnd.tiddlywiki
+
+You make a great sweep about yourself, knocking creatures off their feet and away from you. 
+
+Choose up to three adjacent foes and choose whether to [[Shove]] or [[Trip]] all three of them.
+
+Whichever of the two options you choose, roll a separate [[Athletics]] check against each foe, performing the same action against each foe. 
+
+Each attempt counts toward your [[Multiple Attack Penalty]], but don’t increase your penalty until you have made all the attempts.

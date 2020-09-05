@@ -1,0 +1,14 @@
+created: 20200905194915334
+feat-class: Champion
+feat-fpre: [[Lay on Hands]]
+feat-level: 12
+mod-lay_on_hands: Ally also gets +1 status to hit and 1 good damage until next turn.
+modified: 20200905194958549
+tags: Class Feat Champion
+title: Amplifying Touch
+turn-etn: Status attack bonus and extra damage end.
+type: text/vnd.tiddlywiki
+
+Your healing energies empower attacks. 
+
+An ally that recovers Hit Points from your [[Lay on Hands]] gains a +1 status bonus to their attack rolls and deals 1 additional good damage on all their [[Strike]]s until the end of their next turn.

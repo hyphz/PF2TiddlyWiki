@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20200905200928739
+feat-class: Champion
+feat-level: 16
+modified: 20200905201039463
+tags: Class Feat Champion Action Concentrate
+title: Expand Aura
+turn-sun: Aura radius decreases.
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' You have at least one [[Aura]] from a champion feat or feature.
+
+You focus your divine power to extend your influence. 
+
+Select one aura you have from a champion feat or feature, such as [[Aura of Courage]] or [[Aura of Life]]. 
+
+The radius of the aura is doubled until the start of your next turn.

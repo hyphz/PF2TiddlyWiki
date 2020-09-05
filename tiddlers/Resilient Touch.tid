@@ -1,0 +1,16 @@
+created: 20200905194303483
+feat-class: Champion
+feat-fpre: [[Lay on Hands]]
+feat-level: 10
+mod-fortitude: +1 status in turm after healing.
+mod-lay_on_hands: Ally also gets +1 status to saves for a turn.
+mod-reflex: +1 status in turn after healing.
+mod-will: +1 status in turn after healing.
+modified: 20200905194418852
+tags: Class Feat Champion
+title: Resilient Touch
+type: text/vnd.tiddlywiki
+
+Your healing energies create an aura of protection that defends your allies against more than just blades and arrows.
+
+An ally that recovers Hit Points from your [[Lay on Hands]] gains a +1 status bonus to their saving throws until the end of their next turn.

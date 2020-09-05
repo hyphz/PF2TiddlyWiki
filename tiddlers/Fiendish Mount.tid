@@ -1,0 +1,18 @@
+created: 20200905201801825
+feat-class: Champion
+feat-level: 20
+mod-divine_ally: Steed gets darkvision, +40 HP, weakness to good, and flight.
+modified: 20200905201929144
+tags: Class Feat Champion Uncommon
+title: Fiendish Mount
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Steed Ally|Divine Ally]], tenets of evil.
+
+Your steed ally manifests a suite of powerful and sinister gifts granted to it by your deity. 
+
+It gains [[Darkvision]], its maximum Hit Points increase by 40, and it gains weakness 10 to good damage.
+
+Additionally, it grows wings appropriate for a servitor of your deity (such as bat wings for a devil), granting it a fly Speed equal to its Speed. 
+
+It gains the <<tag Fiend>> trait and the trait appropriate to the type of servitor it has become (such as daemon, demon, or devil).

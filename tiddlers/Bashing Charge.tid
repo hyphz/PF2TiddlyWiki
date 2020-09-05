@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Stride [[Force Open]]
+created: 20200905203157534
+feat-class: Barbarian
+feat-level: 2
+feat-skill: Athletics
+feat-spre: T
+modified: 20200905203340669
+tags: Barbarian Class Feat Flourish Action
+title: Bashing Charge
+type: text/vnd.tiddlywiki
+
+You smash, bust, and charge through solid obstacles without hesitation. 
+
+[[Stride]] twice. 
+
+Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an [[Athletics]] check to [[Force Open]] the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.

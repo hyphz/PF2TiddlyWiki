@@ -1,0 +1,15 @@
+created: 20200905192848326
+feat-class: Champion
+feat-fpre: Mercy
+feat-level: 6
+mod-mercy: Can attempt to counteract clumsy or enfeebled.
+modified: 20200905193027798
+tags: Class Feat Champion
+title: Invigorating Mercy
+type: text/vnd.tiddlywiki
+
+Your divine touch rejuvenates the weak and tired. 
+
+When you use [[Mercy]], you can instead attempt a [[Counteract]] Check to remove the [[Clumsy]] or [[Enfeebled]] conditions, using the source of that condition to determine the counteract level and DC. 
+
+If the condition was caused by an ongoing effect and you don’t remove that effect, the condition returns at the end of your next turn.

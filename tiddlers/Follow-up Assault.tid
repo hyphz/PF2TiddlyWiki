@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike
+created: 20200905205931665
+feat-class: Barbarian
+feat-level: 8
+modified: 20200905210034890
+tags: Barbarian Class Feat Action Rage
+title: Follow-up Assault
+type: text/vnd.tiddlywiki
+
+''Requirements'' You used your previous action to make a melee [[Strike]] that missed.
+
+Even in the face of failure you press the attack, determined to succeed. 
+
+Make a [[Strike]] with the same weapon, adding the effects of the [[Backswing]] and [[Forceful]] weapon traits.

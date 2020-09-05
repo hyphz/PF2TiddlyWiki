@@ -1,0 +1,19 @@
+created: 20200905193519153
+feat-class: Champion
+feat-level: 8
+modified: 20200905193733957
+tags: Class Feat Champion Uncommon
+title: Sense Good
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' tenets of evil.
+
+The presence of goodness sickens you with its saccharine self-righteousness. 
+
+When in the presence of an aura of good that is powerful or overwhelming (//from a creature of level 16 or higher, or a spell of level 8 or higher; or a divine spellcaster of level 11 or higher//), you detect the aura, though you might not do so instantly, and you can’t pinpoint the location. 
+
+This acts as a [[Vague]] sense, similar to humans’ sense of smell. 
+
+A good creature using a disguise or otherwise trying to hide its presence attempts a [[Deception]] check against your [[Perception]] DC to hide its aura from you. 
+
+If the creature succeeds at its Deception check, it is then temporarily immune to your Sense Good for 1 day.

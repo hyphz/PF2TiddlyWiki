@@ -1,0 +1,19 @@
+created: 20200905200247222
+feat-class: Champion
+feat-fpre: [[Esoteric Oath]]
+feat-level: 14
+mod-fortitude: +1 status against aberrations to allies in 15 feet.
+mod-will: +1 status against aberrations to allies in 15 feet.
+modified: 20200905200454083
+modtag-mental: +1 to Will saves, or +2 vs aberrations.
+modtag-morph: +1 to Fortitude saves, or +2 vs aberrations.
+modtag-polymorph: +1 to Fortitude saves, or +2 vs aberrations.
+tags: Class Feat Champion
+title: Aura of Preservation
+type: text/vnd.tiddlywiki
+
+Your aura protects against the twisting powers of aberrations.
+
+You and all allies within 15 feet gain a +1 status bonus to [[Fortitude]] and [[Will]] saves against effects from aberrations. 
+
+You also gain a +1 status bonus to [[Fortitude]] saves against <<tag Morph>> or <<tag Polymorph>> effects and [[Will]] saves against <<tag Mental>> effects; this bonus increases to +2 against aberrations’ morph, polymorph, or mental effects.

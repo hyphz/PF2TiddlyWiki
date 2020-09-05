@@ -1,0 +1,16 @@
+created: 20200905210959911
+feat-class: Barbarian
+feat-fpre: [[Barreling Charge]]
+feat-level: 10
+mod-barreling_charge: Creatures you move through take damage.
+modified: 20200905211120045
+tags: Barbarian Class Feat
+title: Overpowering Charge
+turn-eun: Flat-Footed state from criticals ends.
+type: text/vnd.tiddlywiki
+
+You trample your foes as you charge past them. 
+
+When you use Barreling Charge and successfully move through a creature’s space, that creature takes bludgeoning damage equal to your [[Strength]] modifier. 
+
+If you critically succeed, the creature takes twice this amount of damage and becomes [[Flat-Footed]] until the end of your next turn.

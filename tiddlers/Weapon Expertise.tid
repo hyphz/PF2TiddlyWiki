@@ -1,5 +1,5 @@
 created: 20200806225525606
-modified: 20200806225539274
+modified: 20200831191636352
 tags: Ability
 title: Weapon Expertise
 type: text/vnd.tiddlywiki
@@ -8,4 +8,8 @@ You’ve dedicated yourself to learning the intricacies of your weapons.
 
 Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert. 
 
-You gain access to the [[Critical Specialization Effect]]s of all weapons for which you have expert proficiency.
+You may also gain access to the [[Critical Specialization Effect]]s of weapons, under the following conditions based on your class (not counting Dedication feats):
+
+* If you're a [[Champion]], an [[Investigator]], an [[Oracle]] or a [[Witch]], never.
+* If you're a [[Ranger]], with all simple and martial weapons when attacking your hunted prey.
+* If you're a [[Swashbuckler]], with all weapons with which you have expert proficiency.

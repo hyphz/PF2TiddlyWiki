@@ -1,0 +1,20 @@
+a-actions: 2
+a-hands: 1
+a-subactions: Strike
+created: 20200905203628046
+feat-class: Barbarian
+feat-level: 4
+modified: 20200905203818045
+tags: Barbarian Class Feat Action Rage
+title: Oversized Throw
+type: text/vnd.tiddlywiki
+
+With a great heave, you seize a piece of your surroundings, such as a boulder, log, table, wagon, or chunk of earth, and hurl it at your foes. 
+
+The object must be your size or one size smaller than you, and it must not have too much [[Bulk]] for you to lift it in the first place. 
+
+Make a ranged [[Strike]] with the object; regardless of the result, the object takes the same amount of damage it would deal on a success. 
+
+The object is a simple ranged weapon that deals 1d10 bludgeoning damage, has a [[Range Increment]] of 20 feet, and has the [[Thrown]] weapon trait. 
+
+The damage increases to 2d10 if you have [[Weapon Specialization]] in simple weapons, or 3d10 if you have [[Greater Weapon Specialization]].

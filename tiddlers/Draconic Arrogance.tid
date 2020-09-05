@@ -1,0 +1,13 @@
+created: 20200905203019915
+feat-class: Barbarian
+feat-level: 1
+feat-sppre: [[Dragon Instinct]]
+modified: 20200905203110329
+modtag-emotion: +2 status to saves while raging.
+tags: Barbarian Class Feat Rage
+title: Draconic Arrogance
+type: text/vnd.tiddlywiki
+
+Few can sway you from your goals while the fury of combat fills you. 
+
+While raging, you gain a +2 status bonus to saving throws against <<tag Emotion>> effects.

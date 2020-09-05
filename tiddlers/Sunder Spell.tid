@@ -1,0 +1,20 @@
+a-actions: 2
+a-subactions: Strike
+created: 20200905212017432
+feat-class: Barbarian
+feat-level: 12
+feat-sppre: [[Superstition Instinct]]
+modified: 20200905212140338
+tags: Barbarian Class Feat Rage Action Attack Concentrate
+title: Sunder Spell
+type: text/vnd.tiddlywiki
+
+You draw upon your superstitious fury to destroy a spell. 
+
+Make a [[Strike]] with a melee weapon or an unarmed attack against a creature, object, or a spell manifestation (such as the wall created by [[Wall of Fire]] or the guardian from [[Spiritual Guardian]]).
+
+If your Strike hits, you can attempt to [[Counteract]] a single spell or magical effect on the target. 
+
+Your counteract level for this attempt is equal to half your level rounded up, and you use the result of your attack roll for the counteract check.
+
+Whether or not you succeed at your [[Strike]], the target becomes temporarily immune to your Sunder Spell for 24 hours.

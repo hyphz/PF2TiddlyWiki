@@ -1,0 +1,21 @@
+a-actions: 2
+a-subactions: Strike
+created: 20200905213321335
+feat-class: Barbarian
+feat-level: 16
+modified: 20200905213420924
+tags: Barbarian Class Feat Rage Action Flourish
+title: Penetrating Projectile
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a ranged or thrown weapon that deals piercing damage.
+
+Your projectiles are unhindered by flesh and bone. 
+
+Make a ranged [[Strike]] against each creature in a 30-foot line. 
+
+These attacks ignore lesser cover, [[Cover]], and greater cover granted by creatures. 
+
+Roll damage only once and apply it to each creature you hit. 
+
+Each attack counts toward your [[Multiple Attack Penalty]], but don’t increase your penalty until you have made all your attacks.

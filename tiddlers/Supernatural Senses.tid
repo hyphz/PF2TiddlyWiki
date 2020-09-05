@@ -1,0 +1,17 @@
+created: 20200905204023661
+feat-class: Barbarian
+feat-level: 4
+mod-concealed: DC of flat check becomes 3.
+mod-hidden: DC of flat check becomes 9.
+modified: 20200905204136310
+tags: Barbarian Class Feat
+title: Supernatural Senses
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Acute Scent]] or precise or imprecise scent.
+
+Your scent is preternaturally sharp, and you can always rely on your sense of smell to help guide you when your vision is compromised. 
+
+When you target a [[Concealed]] or [[Hidden]] opponent while you are raging, you reduce the DC of the flat check to 3 for a concealed target or to 9 for a hidden one.
+
+//As written, it is not necessary for the target to emit an odor.//

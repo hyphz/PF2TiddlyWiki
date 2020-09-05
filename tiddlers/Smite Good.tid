@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20200905193046974
+feat-class: Champion
+feat-level: 6
+modified: 20200905193238011
+tags: Class Feat Champion Uncommon Action
+title: Smite Good
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Blade Ally|Divine Ally]], tenets of evil.
+
+Your blade ally shares your lust for the blood of good creatures. 
+
+Select one enemy you can see.
+
+Until the start of your next turn, your [[Strike]]s against that foe using the weapon your blade ally inhabits deal an extra 4 evil damage, increasing to 6 if you have master proficiency with this weapon.
+
+If the chosen enemy attacks you before the start of your next turn, the duration extends to the end of that enemy’s next turn. If the enemy continues to attack you each turn, the duration
+continues to extend.

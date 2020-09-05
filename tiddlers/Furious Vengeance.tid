@@ -1,0 +1,15 @@
+a-subactions: Strike
+created: 20200905213155079
+feat-class: Barbarian
+feat-level: 16
+feat-sppre: [[Fury Instinct]]
+modified: 20200905213251214
+tags: Barbarian Class Feat Rage Action Reaction
+title: Furious Vengeance
+type: text/vnd.tiddlywiki
+
+''Trigger'' An enemy within your melee reach critically hits you with a melee [[Strike]].
+
+Your enemy’s blow fuels your rage and provokes your immediate retaliation. 
+
+Make a melee [[Strike]] against the triggering enemy.

@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200830013237618
+modified: 20200831193228240
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -100,6 +100,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Misfortune]]">
 <tr><th>[[Misfortune]]</th><td>Doesn't stack with other Misfortune effects, and cancels with [[Fortune]].</td></tr>
+</$list>
+<$list filter="[all[current]tag[Oath]]">
+<tr><th>[[Oath]]</th><td>You may only take one Oath feat.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Occult]]">
 <tr><th>[[Occult]]</th><td>This spell can be identified using [[Occultism]].</td></tr>

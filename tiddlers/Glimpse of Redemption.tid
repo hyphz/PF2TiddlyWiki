@@ -1,0 +1,22 @@
+created: 20200905172706297
+modified: 20200905172934899
+tags: Action Champion Reaction
+title: Glimpse of Redemption
+type: text/vnd.tiddlywiki
+
+''Trigger'' An enemy damages your ally, and both are within 15 feet of you.
+
+Your foe hesitates under the weight of sin as visions of redemption play in their mind’s eye. 
+
+The foe must choose one of the following options: 
+
+* The ally is unharmed by the triggering damage.
+* The ally gains resistance to all damage against the triggering damage equal to 2 + your level.
+
+After the damaging effect is applied, the enemy becomes [[Enfeebled]] 2 until the end of its next turn.
+
+If you have the Divine Smite ability, a foe that responds to your Glimpse of Redemption by dealing damage takes persistent good damage equal to your Charisma modifier.
+
+If you have the Exalt ability, you can apply the resistance granted by Glimpse of Redemption to yourself and all allies within 15 feet of you, including the triggering ally, except the resistance is reduced by 2 for all.
+
+//This ability does not have any alignment or Mental tags, so as written, a construct, an animal and another champion of good can all be affected by glimpses of redemption.//

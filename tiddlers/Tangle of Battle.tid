@@ -1,0 +1,14 @@
+a-subactions: Grapple
+created: 20200905211701924
+feat-class: Barbarian
+feat-level: 10
+modified: 20200905211802959
+tags: Barbarian Class Feat Rage Action Reaction
+title: Tangle of Battle
+type: text/vnd.tiddlywiki
+
+''Trigger'' You critically hit an adjacent enemy.
+
+Your incredibly vicious Strike pulls you right in close, giving you the opportunity to grab your foe. 
+
+Attempt to [[Grapple]] the triggering enemy.

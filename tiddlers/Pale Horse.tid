@@ -1,0 +1,18 @@
+created: 20200905195519803
+feat-class: Champion
+feat-level: 12
+mod-divine_ally: Steed ally gets resistance 10 to one type and deals damage when touched.
+modified: 20200905200245087
+tags: Class Feat Champion Uncommon
+title: Pale Horse
+type: text/vnd.tiddlywiki
+
+Prerequisites [[Steed Ally|Divine Ally]], tenets of evil.
+
+Your mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of negative energy surrounds it, or poison leaks from its flesh. 
+
+When you [[Mount]] your steed ally, you can choose <<tag Fire>>, <<tag Negative>>, or <<tag Poison>>. 
+
+As long as you ride it, your steed gains resistance 10 to the chosen damage type, and any creature that touches your steed takes 1d6 damage of the chosen type; this includes hitting the steed with unarmed attacks or with a melee weapon Strike while adjacent to the steed. 
+
+This damage increases to 2d6 at 16th level and 3d6 at 20th level.

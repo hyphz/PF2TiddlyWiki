@@ -1,0 +1,14 @@
+created: 20200905180243085
+feat-class: Champion
+feat-level: 2
+modified: 20200905180357422
+modtag-mental: +2 circumstance to saves, promote successes, demote failures.
+tags: Class Feat Champion Uncommon
+title: Conceited Mindset
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' tenets of evil.
+
+Because you know your mind is superior, you scoff at anyone who would alter your mental state—but this hubris gets the better of you when you’re wrong. 
+
+You gain a +2 circumstance bonus to saves against <<tag Mental>> effects. If you succeed at a save against a mental effect, you critically succeed instead; similarly, if you fail at a save against a mental effect, you critically fail instead.

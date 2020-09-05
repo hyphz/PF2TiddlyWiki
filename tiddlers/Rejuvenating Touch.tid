@@ -1,0 +1,16 @@
+created: 20200905201602940
+feat-class: Champion
+feat-fpre: [[Lay on Hands]]
+feat-level: 18
+mod-lay_on_hands: Healed target gets +10 temp HP at start of next 10 rounds.
+modified: 20200905201711623
+tags: Class Feat Champion
+title: Rejuvenating Touch
+turn-stn: Gain 10 temporary hit points while active.
+type: text/vnd.tiddlywiki
+
+Your healing energies linger after you cast, providing continual benefits. 
+
+An ally that recovers Hit Points from your [[Lay on Hands]] gains 10 temporary Hit Points at the start of their turn during each of the next 10 rounds. 
+
+This effect ends if the ally is knocked [[Unconscious]].

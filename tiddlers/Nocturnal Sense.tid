@@ -1,0 +1,13 @@
+created: 20200905205507560
+feat-class: Barbarian
+feat-level: 6
+modified: 20200905205544413
+tags: Barbarian Class Feat
+title: Nocturnal Sense
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Acute Scent]]; or precise or imprecise scent and [[Low-Light Vision]].
+
+Your senses gain even greater clarity. 
+
+While raging, you gain [[Darkvision]] if you don’t already have it, and the range of your imprecise [[Scent]] increases to 60 feet.

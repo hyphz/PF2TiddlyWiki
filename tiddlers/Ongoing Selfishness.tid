@@ -1,0 +1,15 @@
+created: 20200905175824907
+feat-class: Champion
+feat-level: 1
+feat-sppre: [[Desecrator Cause]]
+mod-selfish_shield: Gain resistance against the enemy after selfish shielding.
+modified: 20200905175949685
+tags: Class Feat Champion Uncommon
+title: Ongoing Selfishness
+type: text/vnd.tiddlywiki
+
+Your powerful personality and incredible ego demand that you protect yourself above all else. 
+
+After you use [[Selfish Shield]], you gain resistance to all further damage from the triggering enemy until the end of the turn on which you used the reaction. 
+
+This resistance is equal to half your Selfish Shield resistance.

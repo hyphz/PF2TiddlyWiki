@@ -1,0 +1,17 @@
+created: 20200905174756283
+modified: 20200905175153049
+tags: Reaction Action Uncommon Champion
+title: Destructive Vengeance
+type: text/vnd.tiddlywiki
+
+''Trigger'' An enemy within 15 feet damages you.
+
+Bloodshed begets bloodshed as you drag your enemy toward oblivion. 
+
+You increase the amount of damage you take by 1d6, and you deal 1d6 damage to the triggering enemy, choosing evil or negative damage to deal to the enemy each time you use this reaction. 
+
+In addition, until the end of your next turn, your [[Strike]]s against the triggering creature deal 2 extra damage of the type you chose. The damage you take and deal when you use this reaction increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level. The extra damage on your [[Strike]]s increases to 4 at 9th level and 6 at 16th level.
+
+If you have Divine Smite, an enemy damaged by the initial damage from your Destructive Vengeance also takes persistent evil damage equal to your [[Charisma]] modifier. This applies only to the damage the reaction itself deals to the triggering creature, not the damage you deal with subsequent Strikes.
+
+If you have Exalt, when you use Destructive Vengeance, each enemy within 15 feet of you other than the triggering creature takes half the damage you deal to the triggering enemy, of the same damage type you chose.

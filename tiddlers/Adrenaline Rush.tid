@@ -1,0 +1,15 @@
+created: 20200905202829191
+feat-class: Barbarian
+feat-level: 1
+mod-athletics: +1 status to lift objects while raging.
+mod-escape: +1 status while raging.
+mod-force_open: +1 status while raging.
+mod-rage: Increase bulk limit and gain bonuses.
+modified: 20200905202956059
+tags: Barbarian Class Feat Rage
+title: Adrenaline Rush
+type: text/vnd.tiddlywiki
+
+In the heat of battle, you are capable of amazing feats of strength. 
+
+While you are raging, increase your encumbered and maximum [[Bulk]] limits by 2; you also gain a +1 status bonus to [[Athletics]] checks to lift heavy objects, [[Escape]], and [[Force Open]].

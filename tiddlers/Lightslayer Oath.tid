@@ -1,0 +1,18 @@
+created: 20200905180651159
+feat-class: Champion
+feat-level: 2
+mod-destructive_vengeance: Extra damage increases by 1 after reaction against celestials.
+mod-iron_command: Extra damage increases by 1 after reaction against celestials.
+mod-selfish_shield: Extra damage increases by 1 after reaction against celestials.
+modified: 20200905180854394
+tags: Class Feat Champion Uncommon Oath
+title: Lightslayer Oath
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' tenets of evil.
+
+You’ve sworn to rid the world of the self‑righteousness of celestial beings. 
+
+Add the following tenet to your code, after the other tenets. “You must banish or slay celestials you encounter as long as you have a reasonable chance of success; in the incredibly unlikely event you find an evil celestial, you don’t have to banish or kill it.”
+
+When you use your champion’s reaction against a celestial, the extra damage you deal with [[Strike]]s increases by 1 (or by 2 at 9th level and by 3 at 16th level).

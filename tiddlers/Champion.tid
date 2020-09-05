@@ -1,0 +1,47 @@
+cls-combt: Simple Martial Unarmed Armor Unarmored
+cls-exskills: 2
+cls-fortitude: E
+cls-hpbase: 10
+cls-key: Religion
+cls-per: T
+cls-reflex: T
+cls-tskills: Occultism Performance
+cls-will: E
+created: 20200831190013194
+modified: 20200905194635720
+tags: Class
+title: Champion
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Champion's Code]], Deity and Cause, [[Deific Weapon]], Champion's Reaction (Cause feature), Devotion Spells, [[Shield Block]] |
+| 2 | |
+| 3 | [[Divine Ally]] |
+| 4 | |
+| 5 | [[Weapon Expertise]] |
+| 6 |  |
+| 7 | [[Armor Expertise]], [[Weapon Specialization]] |
+| 8 |  |
+| 9 | [[Champion Expertise]], Divine Smite (Champion's Reaction feature), [[Juggernaut]], [[Lightning Reflexes]] |
+| 10 | |
+| 11 | [[Alertness]], [[Divine Will]], Exalt (Champion's Reaction feature) |
+| 12 |  |
+| 13 | [[Armor Mastery]], [[Weapon Mastery]] |
+| 14 | |
+| 15 | [[Greater Weapon Specialization]] |
+| 16 |  |
+| 17 | [[Champion Mastery]], [[Legendary Armor]] |
+| 18 |  |
+| 19 | [[Hero's Defiance]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

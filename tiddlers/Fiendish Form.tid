@@ -1,0 +1,17 @@
+created: 20200905201415395
+feat-class: Champion
+feat-level: 18
+modified: 20200905201539935
+tags: Class Feat Champion Uncommon
+title: Fiendish Form
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' tenets of evil.
+
+Your features reshape into those of a type of fiend who serves your deity; for example, as a demon you might have putrid scales, twisted horns, and red eyes. 
+
+You gain a fly Speed equal to your Speed. 
+
+You gain [[Darkvision]] if you don’t already have it, and you gain the <<tag Fiend>> trait and the trait appropriate to the type of servitor you’ve become (such as <<tag Daemon>>, <<tag Demon>>, or <<tag Devil>>).
+
+//You don't get the abilities, skills, attacks, etc. of your fiend.//

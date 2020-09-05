@@ -1,0 +1,18 @@
+created: 20200905192637521
+feat-class: Champion
+feat-level: 6
+mod-divine_ally: Attacker blocked by shield ally takes damage.
+modified: 20200905192809736
+tags: Class Feat Champion Uncommon Divine Necromancy Negative
+title: Corrupted Shield
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Shield Ally|Divine Ally]], tenets of evil.
+
+Your shield ally is more than just a spirit of protection - it’s a conduit for deadly divine magic. 
+
+When you use your shield ally to [[Shield Block]] a melee unarmed attack or a melee weapon [[Strike]] from an adjacent creature, the attacker takes 1d6 evil or negative damage (your choice). 
+
+If the attack or Strike breaks or destroys your shield, double this additional damage.
+
+The damage the attacker takes increases to 2d6 at 11th level and 3d6 at 16th level.

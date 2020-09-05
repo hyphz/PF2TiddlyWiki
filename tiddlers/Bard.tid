@@ -1,14 +1,14 @@
-cls-combt: Simple Martial Unarmed Light Medium Unarmored
-cls-exskills: 3
-cls-fortitude: E
-cls-hpbase: 12
-cls-key: Strength
+cls-combt: Simple Longsword Rapier Sap Shortbow Shortsword Whip Unarmed Light Unarmored
+cls-exskills: 4
+cls-fortitude: T
+cls-hpbase: 8
+cls-key: Charisma
 cls-per: E
 cls-reflex: T
-cls-tskills: Athletics
+cls-tskills: Occultism Performance
 cls-will: E
 created: 20200830011028945
-modified: 20200830150634740
+modified: 20200831185746025
 tags: Class
 title: Bard
 type: text/vnd.tiddlywiki

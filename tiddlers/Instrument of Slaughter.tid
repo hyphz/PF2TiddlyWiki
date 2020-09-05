@@ -1,0 +1,14 @@
+created: 20200905201230739
+feat-class: Champion
+feat-level: 16
+mod-divine_ally: Crits with blade ally boosted by champion's reaction also deal persistent bleed.
+modified: 20200905201333049
+tags: Class Feat Champion Uncommon
+title: Instrument of Slaughter
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Blade Ally|Divine Ally]], tenets of evil.
+
+Your blade ally thirsts for the blood of your foes. 
+
+Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion’s reaction, the target takes persistent bleed damage equal to two of the weapon’s damage dice.

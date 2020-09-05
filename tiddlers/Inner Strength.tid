@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200905204201165
+feat-class: Barbarian
+feat-level: 6
+modified: 20200905204406473
+tags: Barbarian Class Feat Concentrate Rage Action
+title: Inner Strength
+type: text/vnd.tiddlywiki
+
+Your strength is part of your rage, so as long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement. 
+
+You reduce your [[Enfeebled]] condition’s value by 1.

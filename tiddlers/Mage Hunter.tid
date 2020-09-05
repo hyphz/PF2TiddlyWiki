@@ -1,0 +1,16 @@
+created: 20200905204354379
+feat-class: Barbarian
+feat-level: 6
+feat-sppre: [[Superstition Instinct]]
+modified: 20200905204458393
+tags: Barbarian Class Feat Rage Action Reaction
+title: Mage Hunter
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within your reach [[Casts a Spell|Cast a Spell]].
+
+You use your hatred of magic to lash out at the sight of spellcasting, allowing you to interrupt an enemy’s spell.
+
+Make a melee [[Strike]] against the triggering creature. 
+
+If the attack is a critical hit, you disrupt the spell.

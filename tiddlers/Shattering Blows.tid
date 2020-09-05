@@ -1,0 +1,13 @@
+created: 20200905213435775
+feat-class: Barbarian
+feat-level: 16
+modified: 20200905213521309
+tags: Barbarian Class Feat Rage
+title: Shattering Blows
+type: text/vnd.tiddlywiki
+
+Your forceful blows shatter objects with ease. 
+
+While you are raging, your melee [[Strike]]s ignore 5 points of an object’s Hardness. 
+
+If you have the [[Devastator]] class feature, you instead ignore 10 points of an object’s Hardness.

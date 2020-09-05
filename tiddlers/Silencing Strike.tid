@@ -1,0 +1,23 @@
+a-actions: 1
+a-defense: Fortitude
+a-subactions: Strike
+created: 20200905211324661
+feat-class: Barbarian
+feat-level: 10
+modified: 20200905211627203
+modtag-linguistic: Affected target must DC 11 flat to make speech audible.
+modtag-verbal: Affected target must DC 11 flat or fail verbal component.
+s-fail: The target is dazed and can barely vocalize. It’s [[Stunned]] 1 and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use <<tag Linguistic>> actions or supply <<tag Verbal>> spellcasting components until the end of its next turn.
+s-fumble: As failure, but the creature is stunned 3 instead of stunned 1.
+s-hit: The target is unaffected.
+tags: Barbarian Class Feat Rage Action Incapacitation
+title: Silencing Strike
+type: text/vnd.tiddlywiki
+
+A quick strike to the face or mouth silences your opponent.
+
+Make a melee [[Strike]] against a foe. 
+
+The foe must succeed at a [[Fortitude]] save against your class DC.
+
+{{||SaveSuccessTable}}

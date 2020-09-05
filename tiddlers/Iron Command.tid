@@ -1,0 +1,20 @@
+created: 20200905173803517
+modified: 20200905173945539
+tags: Action Reaction Uncommon Champion Divine Emotion Enchantment Mental
+title: Iron Command
+type: text/vnd.tiddlywiki
+
+''Trigger'' An enemy within 15 feet damages you.
+
+You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. 
+
+The foe must choose one of the following options.
+
+* The enemy kneels, [[dropping prone|Drop Prone]] as a free action.
+• The enemy refuses, and you deal 1d6 <<tag Mental>> damage to it. This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level.
+
+In addition, your [[Strike]]s against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether the damage type is evil or negative each time you use this reaction. This extra damage increases to 2 at 9th level and 3 at 16th level.
+
+If you have Divine Smite, if an enemy refuses your Iron Command, it takes persistent evil damage equal to your [[Charisma]] modifier.
+
+If you have Exalt, when you use Iron Command, each enemy within 15 feet of you other than the triggering creature must also either drop prone or take mental damage (the enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can’t be adjusted by anything that changes your Iron Command. For instance, the [[Iron Repercussions]] feat couldn’t turn the damage into persistent mental damage for creatures other than the triggering creature.

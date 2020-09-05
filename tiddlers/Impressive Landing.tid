@@ -1,0 +1,17 @@
+created: 20200905210805264
+feat-class: Barbarian
+feat-level: 10
+modified: 20200905210855951
+tags: Barbarian Class Feat Action Reaction
+title: Impressive Landing
+type: text/vnd.tiddlywiki
+
+''Trigger'' You fall at least 10 feet and land on a solid surface.
+
+You slam into the ground, shattering it around you. 
+
+Treat the fall as 10 feet shorter. 
+
+You land on your feet. 
+
+All adjacent spaces become [[Difficult Terrain]], and creatures in those spaces when you land take 5 bludgeoning damage as the debris hits them and are [[Flat-Footed]] until the start of their next turn.

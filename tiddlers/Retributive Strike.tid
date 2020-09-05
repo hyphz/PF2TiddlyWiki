@@ -1,5 +1,5 @@
 created: 20200627200859803
-modified: 20200627200932234
+modified: 20200905172619121
 tags: Action Reaction
 title: Retributive Strike
 type: text/vnd.tiddlywiki
@@ -9,3 +9,7 @@ type: text/vnd.tiddlywiki
 The ally gains [[Resistance]] to all damage against the triggering damage equal to 2 + the monster’s level. 
 
 If the foe is within reach, the monster makes a melee [[Strike]] against it.
+
+When you gain the Divine Smite ability, if you hit, the target takes persistent good damage equal to your [[Charisma]] modifier.
+
+When you gain the Exalt ability, when you use Retributive Strike, each ally within 15 feet of you with the target in their melee reach can spend a reaction to [[Strike]] the target with a –5 penalty.

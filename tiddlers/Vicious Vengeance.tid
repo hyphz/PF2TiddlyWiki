@@ -1,0 +1,15 @@
+created: 20200905180025316
+feat-class: Champion
+feat-level: 1
+feat-sppre: [[Antipaladin Cause]]
+mod-destructive_vengeance: Get circumstance bonus to damage equal to number of dice.
+modified: 20200905180226857
+tags: Class Feat Champion Uncommon
+title: Vicious Vengeance
+type: text/vnd.tiddlywiki
+
+While your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more. 
+
+You gain a circumstance bonus to the damage you deal from [[Destructive Vengeance]] equal to the number of damage dice from the reaction. 
+
+This only applies to the damage the enemy takes, not the damage to yourself or the extra damage you gain after using the reaction.

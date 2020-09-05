@@ -1,5 +1,5 @@
 created: 20200830150614620
-modified: 20200830165508220
+modified: 20200905194706646
 tags: 
 title: ClassFeatList
 type: text/vnd.tiddlywiki
@@ -24,6 +24,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Free]]">
 {{FreeAction}}
+</$list>
+<$list filter="[all[current]tag[Focus Spell]]">
+{{SpellIcon}}
 </$list>
 <$link />
 <$list filter="[all[current]tag[Focus Spell]!tag[Cantrip]]">

@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Strike
+created: 20200905211201319
+feat-class: Barbarian
+feat-level: 10
+modified: 20200905211255986
+tags: Barbarian Class Feat Rage Action
+title: Resounding Blow
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a melee weapon that deals bludgeoning damage.
+
+You strike your enemy in the head with such force that their ears ring. 
+
+Make a melee [[Strike]]. 
+
+If the Strike hits and deals damage, the target is [[Deafened]] until the start of your next turn (or for 1 minute on a critical hit).

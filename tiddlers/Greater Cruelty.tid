@@ -1,0 +1,13 @@
+created: 20200905193307363
+feat-class: Champion
+feat-fpre: Cruelty
+feat-level: 8
+mod-cruelty: Can make creature clumsy or stupefied instead.
+modified: 20200905193404281
+tags: Class Feat Champion Uncommon
+title: Greater Cruelty
+type: text/vnd.tiddlywiki
+
+The extent of the corruption within you does more than simply sap your foes’ strength, it devastates their minds and reflexes. 
+
+When you use Cruelty, choose whether you want to make the creature [[Enfeebled]] as normal, to make it [[Clumsy]] 1 on a failed save (clumsy 2 on a critical failure), or to make it [[Stupefied]] 1 on a failed save (stupefied 2 on a critical failure).
