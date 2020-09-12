@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200831193228240
+modified: 20200912160932073
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -127,6 +127,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Somatic]]">
 <tr><th>[[Somatic]]</th><td>You must normally be able to make gestures to cast this spell.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Stance]]">
+<tr><th>[[Stance]]</th><td>One stance at a time; one stance action per round. Can only use in combat.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Trained]]">
 <tr><th>[[Trained]]</th><td>You must be trained in the relevant skill to use this. //Having [[Untrained Improvisation]] is ''not'' sufficient.//</td></tr>

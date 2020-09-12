@@ -1,0 +1,14 @@
+created: 20200912142042929
+feat-class: Champion
+feat-level: 10
+mod-divine_ally: Blade can choose flaming and cause's alingment trait.
+modified: 20200912142150495
+tags: Feat Class Champion
+title: Radiant Blade Spirit
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (blade).
+
+Your divine ally radiates power, enhancing your chosen weapon. 
+
+When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: [[Flaming]] and any aligned properties ([[Anarchic]], [[Axiomatic]], [[Holy]], or [[Unholy]]) that match your cause’s alignment.

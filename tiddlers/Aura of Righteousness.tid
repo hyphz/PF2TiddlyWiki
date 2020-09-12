@@ -1,0 +1,13 @@
+created: 20200912145539621
+feat-class: Champion
+feat-level: 14
+modified: 20200912145605554
+tags: Feat Class Champion
+title: Aura of Righteousness
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' tenets of good.
+
+Your righteous aura dampens evil’s might. 
+
+You and all allies within 15 feet gain <<tag Evil>> resistance 5.

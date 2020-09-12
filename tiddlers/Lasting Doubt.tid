@@ -1,0 +1,15 @@
+created: 20200912144702763
+feat-class: Champion
+feat-level: 12
+feat-sppre: [[Redeemer Cause]]
+mod-glimpse_of_redemption: Enfeebled/Stupefied 1 lasts 1 minute or until a spell lost.
+modified: 20200912144826139
+tags: Feat Class Champion
+title: Lasting Doubt
+type: text/vnd.tiddlywiki
+
+When you cast doubt upon your foes, the effect lasts longer than usual. 
+
+After being enfeebled 2 by your [[Glimpse of Redemption]], the foe is [[Enfeebled]] 1 for 1 minute. 
+
+If you have [[Weight of Guilt]], after being [[Stupefied]] 2 by your Glimpse of Redemption, the foe is [[Stupefied]] 1 for 1 minute or until the flat check from stupefied causes it to lose a spell, whichever comes first.

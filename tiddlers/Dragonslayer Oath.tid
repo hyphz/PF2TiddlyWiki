@@ -1,0 +1,24 @@
+created: 20200912134136549
+feat-class: Champion
+feat-level: 2
+mod-glimpse_of_redemption: Resistance vs evil dragons is 7 + level.
+mod-liberating_step: +4 circumstance to checks vs evil dragons and step twice.
+mod-retributive_strike: +4 circumstance against evil dragons or +6 if master.
+modified: 20200912134658458
+tags: Feat Class Champion Oath
+title: Dragonslayer Oath
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Tenets of Good.
+
+You’ve sworn to slay evil dragons. 
+
+Add the following tenet to your code after the others: “You must slay evil dragons you encounter as long as you have a reasonable chance of success.”
+
+Your [[Retributive Strike]] gains a +4 circumstance bonus to damage against an evil dragon, or +6 if you have master proficiency with the weapon you used. 
+
+Your [[Glimpse of Redemption]]’s resistance against damage from an evil dragon is 7 + your level. 
+
+If you use [[Liberating Step]] triggered by an evil dragon, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can [[Step]] twice afterward.
+
+You don’t consider evil dragons to be legitimate authorities, even in nations they rule.

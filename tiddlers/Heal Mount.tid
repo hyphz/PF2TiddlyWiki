@@ -1,0 +1,14 @@
+created: 20200912141304146
+feat-class: Champion
+feat-level: 8
+mod-lay_on_hands: Heal your mount for 10 per spell level.
+modified: 20200912141350007
+tags: Feat Class Champion
+title: Heal Mount
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (steed)
+
+Your devotion to your mount manifests as a surge of positive energy. 
+
+When you cast [[Lay on Hands]] on your mount, you can restore 10 Hit Points, plus 10 for each heightened level.

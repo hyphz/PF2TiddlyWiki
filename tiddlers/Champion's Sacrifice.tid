@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803182832155
+feat-class: Champion
+feat-level: 12
 m-area: 
 m-components: Somatic
 m-duration: 
@@ -12,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 ally
 m-time: 
-modified: 20200803182936745
+modified: 20200912143150438
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Champion
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Feat Class Champion
 title: Champion's Sacrifice
 type: text/vnd.tiddlywiki
 

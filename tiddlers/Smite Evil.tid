@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20200912140714330
+feat-class: Champion
+feat-level: 6
+modified: 20200912140840945
+tags: Feat Class Champion Action
+title: Smite Evil
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (blade).
+
+Your blade ally becomes an even more powerful tool against evildoers. 
+
+Select one foe you can see. 
+
+Until the start of your next turn, your [[Strike]]s with the weapon your blade ally inhabits against that foe deal an extra 4 <<tag Good>> damage, increasing to 6 if you have master proficiency with this weapon.
+
+If the foe attacks one of your allies, the duration extends to the end of that foe’s next turn. 
+
+If the foe continues to attack your allies each turn, the duration continues to extend.

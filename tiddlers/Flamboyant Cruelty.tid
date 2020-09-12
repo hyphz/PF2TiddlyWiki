@@ -1,0 +1,16 @@
+created: 20200912165703436
+feat-class: Swashbuckler
+feat-level: 8
+modified: 20200912165839957
+tags: Class Feat Swashbuckler Rare
+title: Flamboyant Cruelty
+type: text/vnd.tiddlywiki
+
+You love to kick your enemies when they’re down, and you look fabulous when you do.
+
+When you make a melee weapon [[Strike]] against a foe that has at least two of the following conditions, you gain a circumstance bonus to your damage roll equal to the number of
+these conditions the foe has. 
+
+The qualifying conditions are [[Clumsy]], [[Drained]], [[Enfeebled]], [[Frightened]], [[Sickened]]], and [[Stupefied]]. 
+
+If you hit such a foe, you gain a +1 circumstance bonus to skill checks to [[Tumble Through]] and to perform your style’s panache-granting actions until the end of your turn.

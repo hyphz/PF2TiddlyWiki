@@ -1,0 +1,18 @@
+created: 20200912151240242
+feat-class: Champion
+feat-level: 20
+mod-divine_ally: Steed gets darkvision, evil resistance, and flight.
+modified: 20200912151413189
+tags: Feat Class Champion
+title: Celestial Mount
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (steed), tenets of good.
+
+Your steed gains incredible celestial powers granted by your deity. 
+
+It gains [[Darkvision]], its maximum Hit Points increase by 40, and it gains weakness 10 to evil damage.
+
+Additionally, it grows wings appropriate to a servitor of your deity (such as metallic wings for an archon), granting it a fly Speed equal to its Speed. 
+
+It gains the <<tag Celestial>> trait and the trait appropriate to the type of servitor it has become (archon, angel, or azata, for example).

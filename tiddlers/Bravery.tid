@@ -1,0 +1,15 @@
+created: 20200912160210608
+mod-frightened: Gain at -1 level.
+modified: 20200912160252331
+modtag-fear: Promote successes on saves.
+tags: Ability
+title: Bravery
+type: text/vnd.tiddlywiki
+
+Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear and keep on fighting. 
+
+Your proficiency rank for [[Will]] saves increases to expert. 
+
+When you roll a success at a [[Will]] save against a <<tag Fear>> effect, you get a critical success instead.
+
+In addition, anytime you gain the [[Frightened]] condition, reduce its value by 1.

@@ -1,0 +1,13 @@
+created: 20200912141052871
+feat-class: Champion
+feat-fpre: Mercy
+feat-level: 8
+mod-mercy: Can counter blinded, deafened, sickened, or slowed.
+modified: 20200912141144525
+tags: Feat Class Champion
+title: Greater Mercy
+type: text/vnd.tiddlywiki
+
+Your faith enhances your ability to remove conditions. 
+
+When you use [[Mercy]], you can instead attempt to counteract the [[Blinded]], [[Deafened]], [[Sickened]], or [[Slowed]] conditions.

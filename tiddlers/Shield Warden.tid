@@ -1,0 +1,16 @@
+created: 20200912140524628
+feat-class: Champion
+feat-level: 6
+mod-shield_block: Can shield block for an adjacent ally.
+modified: 20200912140644456
+tags: Feat Class Champion
+title: Shield Warden
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (shield)
+
+You use your shield to protect your allies as well as yourself.
+
+When you have a shield raised, you can use your [[Shield Block]] reaction when an attack is made against an ally adjacent to you. 
+
+If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for Shield Block.

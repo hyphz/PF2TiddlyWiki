@@ -1,0 +1,15 @@
+created: 20200912150400184
+feat-class: Champion
+feat-level: 16
+mod-retributive_strike: On crit add a damage dice and slowed 1.
+mod-smite_evil: On crit add a damage dice and slowed 1.
+modified: 20200912150700791
+tags: Feat Class Champion
+title: Instrument of Zeal
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (blade), tenets of good.
+
+Divine energy fills your weapon. 
+
+Whenever you critically hit a foe with [[Smite Evil]] or a [[Retributive Strike]], your attack adds an extra damage die, and the target is [[Slowed]] 1 on its next turn.

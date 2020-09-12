@@ -1,0 +1,15 @@
+created: 20200912151425670
+feat-class: Champion
+feat-fpre: [[Radiant Blade Spirit]]
+feat-level: 20
+mod-divine_ally: Can make weapon dancing, greater disrupting or keen.
+modified: 20200912151522549
+tags: Feat Class Champion
+title: Radiant Blade Master
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (blade).
+
+Your divine ally turns your chosen weapon into a paragon of its type. 
+
+When you choose the weapon for your blade divine ally during your preparations, add the following property runes to the list of effects you can choose from: [[Dancing]], [[Greater Disrupting]], and [[Keen]].

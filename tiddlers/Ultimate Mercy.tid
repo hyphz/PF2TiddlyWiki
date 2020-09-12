@@ -1,0 +1,19 @@
+created: 20200912151013523
+feat-class: Champion
+feat-fpre: Mercy
+feat-level: 18
+mod-lay_on_hands: Can restore a creature who died last turn.
+modified: 20200912151212386
+tags: Feat Class Champion
+title: Ultimate Mercy
+type: text/vnd.tiddlywiki
+
+Your mercy transcends the bounds of life and death. 
+
+When you use [[Mercy]], you can cast [[Lay on Hands]] on a creature that died since your last turn to return it to life. 
+
+The target returns to life with 1 hit point and becomes [[Wounded]] 1. 
+
+You can’t use Ultimate Mercy if the triggering effect was [[Disintegrate]] or a <<tag Death>> effect.
+
+//(Since Mercy isn't a reaction, presumably "the triggering effect" here actually means "the effect that killed the creature".)//

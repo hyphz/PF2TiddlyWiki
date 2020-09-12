@@ -2,13 +2,13 @@ cls-combt: Simple Martial Unarmed Armor Unarmored
 cls-exskills: 2
 cls-fortitude: E
 cls-hpbase: 10
-cls-key: Religion
+cls-key: Strength Dexterity
 cls-per: T
 cls-reflex: T
-cls-tskills: Occultism Performance
+cls-tskills: Religion
 cls-will: E
 created: 20200831190013194
-modified: 20200905194635720
+modified: 20200912153633582
 tags: Class
 title: Champion
 type: text/vnd.tiddlywiki

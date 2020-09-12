@@ -1,0 +1,15 @@
+created: 20200912145619979
+feat-class: Champion
+feat-fpre: [[Vengeful Oath]]
+feat-level: 14
+mod-retributive_strike: Exalt penalty is -2, not -5.
+modified: 20200912145831299
+tags: Feat Class Champion
+title: Aura of Vengeance
+type: text/vnd.tiddlywiki
+
+''Requirements'' exalt.
+
+When you call upon others to take retribution, you also guide their aim. 
+
+When you use [[Retributive Strike]], your allies who make [[Strike]]s take only a –2 penalty, instead of a –5 penalty.

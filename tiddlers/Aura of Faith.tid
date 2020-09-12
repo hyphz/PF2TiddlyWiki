@@ -1,0 +1,16 @@
+created: 20200912142817499
+feat-class: Champion
+feat-level: 12
+mod-strike: +1 good damage for user and good allies in 15' 1/turn.
+modified: 20200912142903698
+tags: Feat Class Champion
+title: Aura of Faith
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' tenets of good
+
+You radiate an aura of pure belief that imbues your attacks and those of nearby allies with holy power. 
+
+Your [[Strike]]s deal an extra 1 good damage against evil creatures. 
+
+Also, each good-aligned ally within 15 feet gains this benefit on their first Strike that hits an evil creature each round.

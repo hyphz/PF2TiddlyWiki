@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803183634963
+feat-class: Champion
+feat-level: 14
 m-area: 
 m-components: Verbal
 m-duration: 1 round
@@ -12,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 <<tag Evil>> creature
 m-time: 
-modified: 20200803183959605
+modified: 20200912150038971
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany Class Feat
 title: Litany of Righteousness
 type: text/vnd.tiddlywiki
 

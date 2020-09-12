@@ -1,0 +1,13 @@
+a-actions: 1
+created: 20200912135954022
+feat-class: Champion
+feat-fpre: [[Lay on Hands]]
+feat-level: 4
+modified: 20200912140118291
+tags: Feat Class Champion Concentrate Metamagic Action
+title: Mercy
+type: text/vnd.tiddlywiki
+
+Your touch relieves fear and restores movement. 
+
+If the next action you use is to cast [[Lay on Hands]], you can attempt to counteract a <<tag Fear>> effect or an effect imposing the [[Paralyzed]] condition on the target, in addition to the other benefits of lay on hands.

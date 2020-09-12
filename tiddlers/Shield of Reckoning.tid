@@ -1,0 +1,16 @@
+created: 20200912142214289
+feat-class: Champion
+feat-fpre: [[Shield Warden]]
+feat-level: 10
+modified: 20200912142454461
+tags: Feat Class Champion Action Reaction Flourish
+title: Shield of Reckoning
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (shield), tenets of good.
+
+''Trigger'' A foe’s attack against an ally matches the trigger for both your [[Shield Block]] reaction and your Champion’s Reaction.
+
+When you shield your ally against an attack, you call upon your power to protect your ally further. 
+
+You use the [[Shield Block]] reaction to prevent damage to an ally and also use your Champion’s Reaction against the foe that attacked your ally.

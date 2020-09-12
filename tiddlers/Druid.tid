@@ -1,0 +1,47 @@
+cls-combt: Light Medium Unarmored Simple Unarmed
+cls-exskills: 2
+cls-fortitude: T
+cls-hpbase: 8
+cls-key: Wisdom
+cls-per: T
+cls-reflex: T
+cls-tskills: Nature
+cls-will: E
+created: 20200912153659413
+modified: 20200912154440697
+tags: Class
+title: Druid
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Druid Anathema]], Druidic Language, [[Shield Block]], [[Wild Empathy]], 4 cantrips, 2 1st-level slots |
+| 2 | +1 1st-level slot |
+| 3 | [[Alertness]], [[Great Fortitude]], 2 2nd-level slots |
+| 4 | +1 2nd-level slots |
+| 5 | [[Lightning Reflexes]], 2 3rd-level slots |
+| 6 | +1 3rd-level slots |
+| 7 | [[Expert Spellcaster]], 2 4th-level slots |
+| 8 | +1 4th-level slots |
+| 9 | 2 5th-level slots |
+| 10 | +1 5th-level slots |
+| 11 | [[Druid Weapon Expertise]], [[Resolve]], 2 6th-level slots |
+| 12 | +1 6th-level slots |
+| 13 | [[Medium Armor Expertise]], [[Weapon Specialization]], 2 7th-level slots |
+| 14 | +1 7th-level slots |
+| 15 | [[Master Spellcaster]], 2 8th-level slots |
+| 16 | +1 8th-level slots |
+| 17 | 2 9th-level slots |
+| 18 | +1 9th-level slot |
+| 19 | [[Legendary Spellcaster]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

@@ -1,0 +1,13 @@
+created: 20200912145425372
+feat-class: Champion
+feat-fpre: [[Shining Oath]]
+feat-level: 14
+modified: 20200912145507594
+modtag-necromancy: +1 status to saves in 15 foot.
+tags: Feat Class Champion
+title: Aura of Life
+type: text/vnd.tiddlywiki
+
+Your aura protects against necromantic effects. 
+
+You and all allies within 15 feet gain resistance 5 to <<tag Negative>> energy and a +1 status bonus to saves against <<tag Necromancy>> effects.

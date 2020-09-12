@@ -1,0 +1,24 @@
+created: 20200912134518357
+feat-class: Champion
+feat-level: 2
+mod-glimpse_of_redemption: Resistance vs fiends is 7 + level.
+mod-liberating_step: +4 circumstance to checks triggered by fiends and step twice.
+mod-retributive_strike: +4 circumstance against fiends or +6 if master.
+modified: 20200912134643160
+tags: Feat Class Champion Oath
+title: Fiendsbane Oath
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Tenets of Good.
+ 
+ou’ve sworn an oath to banish the corruption of fiends to the dark planes they call home.
+
+Add the following tenet to your champion’s code after the other tenets: “You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don’t have to banish or kill it.”
+
+Your [[Retributive Strike]] gains a +4 circumstance bonus to damage against a fiend, or +6 if you have master proficiency with the weapon you used. 
+
+Your [[Glimpse of Redemption]]’s resistance against damage from a fiend is 7 + your level. 
+
+If you use [[Liberating Step]] triggered by a fiend, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can [[Step]] twice afterward.
+
+You don’t consider fiends to be legitimate authorities, even in nations ruled by fiends.

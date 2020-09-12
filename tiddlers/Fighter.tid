@@ -1,0 +1,47 @@
+cls-combt: Simple Martial Advanced Unarmed Armor Unarmored
+cls-exskills: 3
+cls-fortitude: E
+cls-hpbase: 10
+cls-key: Strength Dexterity
+cls-per: E
+cls-reflex: E
+cls-tskills: Acrobatics Athletics
+cls-will: T
+created: 20200912155817083
+modified: 20200912160138373
+tags: Class
+title: Fighter
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Attack of Opportunity]], [[Shield Block]] |
+| 2 |  |
+| 3 | [[Bravery]] |
+| 4 |  |
+| 5 | [[Fighter Weapon Mastery]] |
+| 6 |  |
+| 7 | [[Battlefield Surveyor]], [[Weapon Specialization]] |
+| 8 | |
+| 9 | [[Combat Flexibility]], [[Juggernaut]] |
+| 10 | |
+| 11 | [[Armor Expertise]], [[Fighter Expertise]] |
+| 12 |  |
+| 13 | [[Weapon Legend]] |
+| 14 |  |
+| 15 | [[Evasion]], [[Greater Weapon Specialization]], [[Improved Flexibility]] |
+| 16 |  |
+| 17 | [[Armor Mastery]] |
+| 18 |  |
+| 19 | [[Versatile Legend]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

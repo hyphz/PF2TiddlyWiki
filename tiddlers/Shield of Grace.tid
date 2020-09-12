@@ -1,0 +1,13 @@
+created: 20200912150718132
+feat-class: Champion
+feat-fpre: [[Shield Warden]]
+feat-level: 16
+mod-shield_block: Can split damage between ally and yourself.
+modified: 20200912150842437
+tags: Feat Class Champion
+title: Shield of Grace
+type: text/vnd.tiddlywiki
+
+You protect an ally with both your shield and your body.
+
+Whenever you use the [[Shield Block]] reaction to prevent damage to an ally, you can evenly split the remaining damage after the Shield Block between the ally and yourself.

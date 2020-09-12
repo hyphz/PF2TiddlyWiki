@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike
+created: 20200912162847071
+modified: 20200912162919358
+tags: Action Monk Flourish
+title: Flurry of Blows
+type: text/vnd.tiddlywiki
+
+Make two unarmed [[Strike]]s. 
+
+If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. 
+
+Apply your [[Multiple Attack Penalty]] to the Strikes normally. 
+
+As it has the flourish trait, you can use Flurry of Blows only once per turn.

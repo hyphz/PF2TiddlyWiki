@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200912171209670
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20200912171356177
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Occult Rare Abjuration Reaction Action
+title: Rebounding Barrier
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You are hit by a physical Strike.
+
+You swiftly raise a reflective barrier, reducing physical damage and rebounding it onto your attacker.
+
+You gain resistance 10 against one physical damage type the triggering attack deals. 
+
+Your attacker takes 5 damage of the same type.
+
+''Heightened (+1)'' The resistance increases by 2. Damage dealt to your attacker increases by 1.

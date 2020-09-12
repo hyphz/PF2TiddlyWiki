@@ -1,0 +1,13 @@
+created: 20200912145143442
+feat-class: Champion
+feat-level: 12
+feat-sppre: [[Liberator Cause]]
+mod-liberating_step: Triggering ally can stride up to half speed.
+modified: 20200912145256806
+tags: Feat Class Champion
+title: Liberating Stride
+type: text/vnd.tiddlywiki
+
+Instead of you taking a [[Step]] at the end of your [[Liberating Step]], the triggering ally can [[Stride]] up to half their Speed. 
+
+Even if you have exalt, only the triggering ally gains this benefit.

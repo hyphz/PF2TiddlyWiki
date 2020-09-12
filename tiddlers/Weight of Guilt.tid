@@ -1,0 +1,13 @@
+created: 20200912133855807
+feat-class: Champion
+feat-level: 1
+feat-sppre: [[Redeemer Cause]]
+mod-glimpse_of_redemption: Can make enemy stupefied instead of enfeebled.
+modified: 20200912133951549
+tags: Feat Class Champion
+title: Weight of Guilt
+type: text/vnd.tiddlywiki
+
+Guilt clouds the minds of those who ignore your [[Glimpse of Redemption]]. 
+
+Instead of making the triggering creature [[Enfeebled]] 2, you can make it [[Stupefied]] 2 for the same duration.

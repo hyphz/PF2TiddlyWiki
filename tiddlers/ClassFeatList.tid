@@ -1,5 +1,5 @@
 created: 20200830150614620
-modified: 20200905194706646
+modified: 20200912165354702
 tags: 
 title: ClassFeatList
 type: text/vnd.tiddlywiki
@@ -34,6 +34,12 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Focus Spell]tag[Cantrip]]">
 (Focus Cantrip)
+</$list>
+<$list filter="[all[current]tag[Uncommon]]">
+(Uncommon)
+</$list>
+<$list filter="[all[current]tag[Rare]]">
+(Rare)
 </$list>
 <$list filter="[all[current]has[feat-fpre]]">
 (Requires 

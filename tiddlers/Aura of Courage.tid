@@ -1,0 +1,16 @@
+created: 20200912135642575
+feat-class: Champion
+feat-level: 4
+mod-frightened: Gain 1 level lower, and reduce for allies at end of turn.
+modified: 20200912135811315
+tags: Feat Class Champion
+title: Aura of Courage
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Tenets of Good.
+
+You stand strong in the face of danger and inspire your allies to do the same. 
+
+Whenever you become [[Frightened]], reduce the condition value by 1 (to a minimum of 0). 
+
+At the end of your turn when you would reduce your frightened condition value by 1, you also reduce the value by 1 for all allies within 15 feet.

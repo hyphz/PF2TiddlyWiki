@@ -1,0 +1,17 @@
+created: 20200912141755021
+feat-class: Champion
+feat-fpre: [[Loyal Warhorse]]
+feat-level: 10
+mod-divine_ally: Steed is now nimble or savage and can Stride/Strike for free.
+modified: 20200912141901622
+tags: Feat Class Champion
+title: Imposing Destrier
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Divine Ally]] (steed).
+
+Under your care, your mount has realized its innate potential.
+
+The mount you gained through the divine ally class feature is now a nimble or savage animal companion. 
+
+During an encounter, even if you don’t use the [[Command an Animal]] action, your mount can still use 1 action on your turn to Stride or Strike.

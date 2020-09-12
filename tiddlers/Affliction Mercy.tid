@@ -1,0 +1,13 @@
+created: 20200912142502375
+feat-class: Champion
+feat-fpre: Mercy
+feat-level: 12
+mod-mercy: Can also counteract an affliction.
+modified: 20200912142551177
+tags: Feat Class Champion
+title: Affliction Mercy
+type: text/vnd.tiddlywiki
+
+The divine grace that flows through you grants reprieve from an affliction. 
+
+When you use [[Mercy]], you can instead attempt to [[Counteract]] a <<tag Curse>>, <<tag Disease>>, or <<tag Poison>>.

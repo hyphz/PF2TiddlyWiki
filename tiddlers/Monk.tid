@@ -1,0 +1,47 @@
+cls-combt: Simple Unarmed Unarmored
+cls-exskills: 4
+cls-fortitude: E
+cls-hpbase: 10
+cls-key: Strength Dexterity
+cls-per: T
+cls-reflex: E
+cls-tskills: 
+cls-will: E
+created: 20200912162344673
+modified: 20200912164226318
+tags: Class
+title: Monk
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Flurry of Blows]], [[Powerful Fist]] |
+| 2 |  |
+| 3 | [[Incredible Movement]] +10 feet, [[Mystic Strikes]] |
+| 4 |  |
+| 5 | [[Alertness]], [[Expert Strikes]] |
+| 6 |  |
+| 7 | [[Incredible Movement]] +15 feet, [[Path to Perfection]], [[Weapon Specialization]] |
+| 8 | |
+| 9 | [[Metal Strikes]], [[Monk Expertise]] |
+| 10 | |
+| 11 | [[Incredible Movement]] +20 feet, [[Second Path to Perfection]] |
+| 12 |  |
+| 13 | [[Graceful Mastery]], [[Master Strikes]] |
+| 14 |  |
+| 15 | [[Incredible Movement]] +25 feet, [[Greater Weapon Specialization]], [[Third Path to Perfection]] |
+| 16 |  |
+| 17 | [[Adamantine Strikes]], [[Graceful Legend]] |
+| 18 |  |
+| 19 | [[Incredible Movement]] +30 feet, [[Perfected Form (Monk)]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+
