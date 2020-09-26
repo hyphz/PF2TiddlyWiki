@@ -1,0 +1,14 @@
+created: 20200926135719524
+feat-class: Cleric
+feat-level: 2
+mod-harm: When harming a living creature, gain HP equal to spell level.
+modified: 20200926135829883
+tags: Cleric Feat Class Healing
+title: Sap Life
+type: text/vnd.tiddlywiki
+
+You draw the life force out of your enemies to heal your own wounds. 
+
+When you cast a [[Harm]] spell and damage at least one living creature, you regain Hit Points equal to the spell level of your harm spell. 
+
+If you aren’t a living creature, you gain no benefit from this feat.

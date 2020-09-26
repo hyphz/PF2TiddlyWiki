@@ -1,0 +1,12 @@
+created: 20200926145239754
+feat-class: Cleric
+feat-fpre: [[Advanced Domain]]
+feat-level: 14
+modified: 20200926145316230
+tags: Cleric Feat Class
+title: Deity's Protection
+type: text/vnd.tiddlywiki
+
+When you call upon your deity’s power to fulfill the promise of their domain, you gain divine protection. 
+
+After you cast a domain spell, you gain resistance to all damage until the start of your next turn. The amount of resistance is equal to the level of the domain spell you cast.

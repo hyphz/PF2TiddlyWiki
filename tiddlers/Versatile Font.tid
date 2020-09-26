@@ -1,0 +1,14 @@
+created: 20200926140220802
+feat-class: Cleric
+feat-level: 2
+mod-divine_font: Can use font slots for harm or heal.
+modified: 20200926140300793
+tags: Cleric Feat Class
+title: Versatile Font
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' harmful font or healing font, deity that allows clerics to have both fonts.
+
+As you explore your deity’s aspects, you move beyond restrictions on healing or harming. 
+
+You can prepare either [[Harm]] or [[Heal]] in the spell slots gained from the harmful font or healing font.

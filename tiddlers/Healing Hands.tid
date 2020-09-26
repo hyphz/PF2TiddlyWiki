@@ -1,0 +1,14 @@
+created: 20200926135037645
+feat-class: Cleric
+feat-level: 1
+mod-heal: Roll d10s instead of d8s.
+modified: 20200926135125889
+tags: Cleric Feat Class
+title: Healing Hands
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' healing font
+
+Your positive energy is even more vibrant and restorative.
+
+When you cast [[Heal]], you roll d10s instead of d8s.

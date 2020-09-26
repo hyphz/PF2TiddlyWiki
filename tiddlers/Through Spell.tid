@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20200926154216051
+feat-class: Cleric
+feat-level: 10
+modified: 20200926154412713
+tags: Cleric Class Feat Concentrate Metamagic Action
+title: Through Spell
+type: text/vnd.tiddlywiki
+
+Spells you cast can transform briefly into vital essence, traveling harmlessly through living and undead creatures between you and your target, blocked only by solid objects. 
+
+If the next action you use is to [[Cast a Spell]] that requires a spell attack roll, your targets don’t benefit from [[Cover]] provided by living or undead creatures.

@@ -1,0 +1,13 @@
+created: 20200926141758840
+feat-class: Cleric
+feat-level: 6
+mod-harm: Exclude #Cha modifier creatures from area.
+mod-heal: Exclude #Cha modifier creatures from area.
+modified: 20200926141906258
+tags: Cleric Feat Class
+title: Selective Energy
+type: text/vnd.tiddlywiki
+
+As you call down divine power, you can prevent some enemies from benefiting or some allies from being hurt. 
+
+When you cast a version of [[Harm]] or [[Heal]] that has an area, you can designate a number of creatures equal to your [[Charisma]] modifier (minimum 1) that are not targeted by the spell.

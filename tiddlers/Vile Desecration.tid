@@ -1,0 +1,14 @@
+created: 20200926151343236
+feat-class: Cleric
+feat-level: 1
+mod-harm: Deal evil damage, not negative, to celestials.
+modified: 20200926151451388
+tags: Cleric Class Feat
+title: Vile Desecration
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' evil alignment
+
+You combine unholy might with negative energy to damage angels, archons, and other self righteous denizens of the Outer Planes. 
+
+When you cast a [[Harm]] spell, you can change the damage you deal to celestial creatures to <<tag Evil>> damage instead of <<tag Negative>> damage.

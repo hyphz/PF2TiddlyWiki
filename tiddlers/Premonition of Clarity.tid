@@ -1,0 +1,15 @@
+created: 20200926154543608
+feat-class: Cleric
+feat-level: 14
+modified: 20200926154622497
+tags: Cleric Class Feat Action Reaction
+title: Premonition of Clarity
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per hour
+
+''Trigger'' You fail a saving throw against a <<tag Mental>> effect.
+
+Your deity sends you a vision of faith to steel you against mental attacks. 
+
+Reroll the triggering saving throw with a +2 circumstance bonus. You must use the second result, even if it’s worse.

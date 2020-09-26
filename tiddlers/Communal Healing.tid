@@ -1,0 +1,13 @@
+created: 20200926135328155
+feat-class: Cleric
+feat-level: 2
+mod-heal: When healing another, gain HP equal to spell level.
+modified: 20200926135729748
+tags: Cleric Feat Class Healing Positive
+title: Communal Healing
+type: text/vnd.tiddlywiki
+
+You’re a conduit for positive energy, and as you channel it through you, it heals some of your
+minor injuries. 
+
+When you cast the [[Heal]] spell to heal a single creature other than yourself, you regain Hit Points equal to the spell level of the heal spell.

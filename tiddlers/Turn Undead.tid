@@ -1,0 +1,13 @@
+created: 20200926140048690
+feat-class: Cleric
+feat-level: 2
+mod-heal: Undead that fumble flee for 1 round.
+modified: 20200926140137295
+tags: Cleric Feat Class
+title: Turn Undead
+type: text/vnd.tiddlywiki
+
+Undead harmed by your positive energy might flee, compelled by an innate aversion to the
+force opposite undeath. 
+
+When you use a [[Heal]] spell to damage undead, each undead of your level or lower that critically fails its save gains the [[Fleeing]] condition for 1 round.

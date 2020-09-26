@@ -1,0 +1,14 @@
+created: 20200926134949016
+feat-class: Cleric
+feat-level: 1
+mod-harm: Roll d10s instead of d8s.
+modified: 20200926135021781
+tags: Cleric Feat Class
+title: Harming Hands
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' harmful font
+
+The mordant power of your negative energy grows. 
+
+When you cast [[Harm]], you roll d10s instead of d8s.

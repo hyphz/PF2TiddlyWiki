@@ -1,11 +1,11 @@
 created: 20200711181015739
-feat-class: Bard Wizard
+feat-class: Bard Wizard Cleric
 feat-level: 2
-modified: 20200830143919095
-tags: Ability Class Feat Wizard Bard
+modified: 20200926135316801
+tags: Ability Class Feat Wizard Bard Cleric
 title: Cantrip Expansion
 type: text/vnd.tiddlywiki
 
 Dedicated study allows you to prepare a wider range of simple spells. 
 
-You can prepare two additional [[Cantrips]] each day.
+You can prepare two additional [[Cantrip]]s each day.

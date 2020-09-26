@@ -1,0 +1,13 @@
+created: 20200926154956811
+feat-class: Cleric
+feat-fpre: [[Premonition of Clarity]]
+feat-level: 18
+mod-premonition_of_clarity: Allies nearby can also react to retry the save.
+modified: 20200926155043867
+tags: Cleric Class Feat
+title: Shared Clarity
+type: text/vnd.tiddlywiki
+
+You can project your premonitions of clarity to your allies.
+
+When you use [[Premonition of Clarity]], allies within 15 feet of you who failed the same saving throw against the same mental effect can also spend their reactions to reroll the failed saving throw with a +2 circumstance bonus.

@@ -1,0 +1,15 @@
+created: 20200926154650594
+feat-class: Cleric
+feat-level: 16
+modified: 20200926154808282
+tags: Cleric Class Feat Action Free Concentrate Metamagic
+title: Remediate
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' harmful font or healing font
+
+''Frequency'' once per hour
+
+If your next action is to use your divine font to cast a 3-action [[Heal]] or [[Harm]] spell to damage creatures, you can harness the residual energy to counterbalance opposing forces. 
+
+You use your heal or harm spell to attempt to [[Counteract]] one effect in the spell’s area with the <<tag Chaotic>>, <<tag Evil>>, <<tag Good>>, or <<tag Lawful>> trait. The chosen trait must oppose one component of your deity’s alignment; if your deity is neutral, you can choose any one trait.

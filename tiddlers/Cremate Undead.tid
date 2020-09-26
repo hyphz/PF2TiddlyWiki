@@ -1,0 +1,12 @@
+created: 20200926142724709
+feat-class: Cleric
+feat-level: 8
+mod-heal: Damaged undead also take persistent fire.
+modified: 20200926142830760
+tags: Cleric Feat Class
+title: Cremate Undead
+type: text/vnd.tiddlywiki
+
+Your positive energy sets undead alight. 
+
+When you use a [[Heal]] spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell’s level.

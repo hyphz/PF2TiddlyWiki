@@ -1,0 +1,16 @@
+created: 20200926142018215
+feat-class: Cleric
+feat-fpre: [[Domain Initiate]]
+feat-level: 8
+modified: 20200926142127129
+tags: Cleric Feat Class
+title: Advanced Domain
+type: text/vnd.tiddlywiki
+
+Your studies or prayers have unlocked deeper secrets of your deity’s domain. 
+
+You gain an advanced domain spell from one of your [[Domain]]s.
+
+Increase the number of Focus Points in your focus pool by 1.
+
+''Special'' You can select this feat multiple times. Each time, you must select a different advanced domain spell from a domain for which you have an initial domain spell.

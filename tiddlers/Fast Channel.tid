@@ -1,0 +1,15 @@
+created: 20200926145437088
+feat-class: Cleric
+feat-level: 14
+mod-harm: Can cast the 3-action version with 2 actions.
+mod-heal: Can cast the 3-action version with 2 actions.
+modified: 20200926145642414
+tags: Cleric Feat Class
+title: Fast Channel
+type: text/vnd.tiddlywiki
+
+Divine power is always at your fingertips, swiftly responding to your call. 
+
+When you cast [[Harm]] or [[Heal]] by spending 2 actions, you can get the effects of the 3-action version instead of the 2-action version.
+
+You can do this with [[Harm]] if you have harmful font or [[Heal]] if you have healing font (or both if you have [[Versatile Font]]).

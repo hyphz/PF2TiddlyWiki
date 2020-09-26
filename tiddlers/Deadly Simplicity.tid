@@ -1,0 +1,15 @@
+created: 20200926134649959
+feat-class: Cleric
+feat-level: 1
+modified: 20200926134752173
+tags: Cleric Feat Class
+title: Deadly Simplicity
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' deity with a simple favored weapon, trained with your deity’s favored weapon
+
+Your deity’s weapon is especially powerful in your hands.
+
+When you are wielding your deity’s favored weapon, increase the damage die size of that weapon by one step.
+
+If your deity’s favored weapon is an unarmed attack (such as a fist) and its damage die is smaller than d6, instead increase its damage die size to d6.

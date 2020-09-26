@@ -1,0 +1,13 @@
+created: 20200926145327700
+feat-class: Cleric
+feat-fpre: [[Align Armament]]
+feat-level: 14
+mod-align_armament: Increase duration to 1 minute.
+modified: 20200926145409317
+tags: Cleric Feat Class
+title: Extend Armament Alignment
+type: text/vnd.tiddlywiki
+
+The alignment you impose on a weapon lasts much longer. 
+
+The duration of [[Align Armament]] increases to 1 minute.

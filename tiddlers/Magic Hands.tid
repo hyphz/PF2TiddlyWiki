@@ -1,0 +1,15 @@
+created: 20200926152920288
+feat-class: Cleric
+feat-fpre: [[Healing Hands]]
+feat-level: 6
+mod-treat_wounds: Gain Divine trait and maximise base dice roll.
+modified: 20200926153113811
+tags: Cleric Class Feat
+title: Magic Hands
+type: text/vnd.tiddlywiki
+
+The blessing of your deity heightens your healing ability, making your mundane healing work as if by magic. 
+
+When you succeed at a [[Medicine]] check to [[Treat Wounds]], your action gains the divine trait and you heal the maximum amount for the 2d8 (or 4d8 on a critical success). 
+
+If you have an ability that adds additional dice to your [[Treat Wounds]], you still roll those normally.

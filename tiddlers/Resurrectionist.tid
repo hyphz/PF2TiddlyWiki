@@ -1,0 +1,13 @@
+created: 20200926150102367
+feat-class: Cleric
+feat-level: 16
+modified: 20200926150134885
+tags: Cleric Feat Class
+title: Resurrectionist
+type: text/vnd.tiddlywiki
+
+You can cause a creature you bring back from the brink of death to thrive and continue healing. 
+
+When you restore Hit Points to a [[Dying]] creature or bring a dead creature back to life and restore Hit Points to it, you grant that creature [[Fast Healing]] 5 for 1 minute. 
+
+This fast healing ends if the creature is knocked [[Unconscious]].

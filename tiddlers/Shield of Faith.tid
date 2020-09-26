@@ -1,0 +1,12 @@
+created: 20200926154058198
+feat-class: Cleric
+feat-fpre: [[Domain Initiate]]
+feat-level: 10
+modified: 20200926154125924
+tags: Cleric Class Feat
+title: Shield of Faith
+type: text/vnd.tiddlywiki
+
+Residual energy from your domain spells bolsters your defenses.
+
+When you spend a Focus Point to cast a domain spell, you gain a +1 status bonus to your AC until the start of your next turn.

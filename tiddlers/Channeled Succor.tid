@@ -1,0 +1,16 @@
+created: 20200926142408218
+feat-class: Cleric
+feat-level: 8
+mod-divine_font: Swap Heal spells for spells that cure conditions.
+modified: 20200926142717042
+tags: Cleric Feat Class
+title: Channeled Succor
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' healing font.
+
+You can remove conditions with divine grace. 
+
+You can sacrifice one [[Heal]] spell you’ve prepared in your extra slots from healing font to cast one of the following spells instead: [[Remove Curse]], [[Remove Disease]], [[Remove Paralysis]], or [[Restoration]]. 
+
+The spell is heightened to the same level as the heal spell you sacrificed.

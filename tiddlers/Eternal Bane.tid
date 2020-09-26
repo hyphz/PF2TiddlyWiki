@@ -1,0 +1,17 @@
+created: 20200926145841641
+feat-class: Cleric
+feat-level: 16
+modified: 20200926145922375
+tags: Cleric Feat Class
+title: Eternal Bane
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' evil alignment
+
+A life of evil has made you a nexus for your deity’s vile power. 
+
+You’re continuously surrounded by a [[Bane]] spell with a spell level equal to half your level (rounded up). 
+
+The radius is 15 feet, and you can’t increase it. 
+
+You can [[Dismiss]] the spell; if you do, it returns automatically after 1 minute.

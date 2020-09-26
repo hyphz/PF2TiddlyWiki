@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20200926151558713
+feat-class: Cleric
+feat-level: 4
+modified: 20200926151643416
+tags: Cleric Class Feat Action Concentrate Metamagic
+title: Radiant Infusion
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' good alignment, healing font.
+
+You pour invigorating positive energy into a living ally. 
+
+If the next action you use is to cast [[Heal]] to restore Hit Points to a single living creature, the target deals an additional 1d6 positive damage with its melee weapons and unarmed attacks until the end of its next turn. 
+
+If the heal spell is at least 5th level, this damage increases to 2d6, or 3d6 if the spell is at least 8th level.

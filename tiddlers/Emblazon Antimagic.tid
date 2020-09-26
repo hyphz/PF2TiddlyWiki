@@ -1,0 +1,16 @@
+created: 20200926144633385
+feat-class: Cleric
+feat-fpre: [[Emblazon Armament]]
+feat-level: 12
+mod-emblazon_armament: Choose antimagic effects as well as listed ones.
+modified: 20200926144801486
+tags: Cleric Feat Class
+title: Emblazon Antimagic
+type: text/vnd.tiddlywiki
+
+Your deity’s symbol protects against offensive magic. 
+
+When you [[Emblazon an Armament|Emblazon Armament]], you can choose from the following effects instead of the effects listed in that feat. These effects have the same restrictions as the base options.
+
+* ''Shield'' When the wielder has the shield raised, they gain the shield’s circumstance bonus to saving throws against magic, and they can use [[Shield Block]] against damage from their enemies’ spells.
+* ''Weapon'' When the weapon’s wielder critically hits with the weapon, they can attempt to [[Counteract]] a spell on their target, using their level as the counteract level. If they attempt to do so, the emblazoned symbol immediately disappears.

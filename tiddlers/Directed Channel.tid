@@ -1,0 +1,13 @@
+created: 20200926141049732
+feat-class: Cleric
+feat-level: 4
+mod-harm: Can choose a 60 foot cone instead of emanation.
+mod-heal: Can choose a 60 foot cone instead of emanation.
+modified: 20200926141211540
+tags: Cleric Feat Class
+title: Directed Channel
+type: text/vnd.tiddlywiki
+
+You can shape the energy you channel in a single direction, reaching farther and in a more directed fashion. 
+
+When you cast a version of [[Harm]] or [[Heal]] that has an area, you can make its area a 60-foot [[Cone]] instead of a 30-foot [[Emanation]].

@@ -1,0 +1,17 @@
+created: 20200926145720232
+feat-class: Cleric
+feat-level: 14
+modified: 20200926145819569
+tags: Cleric Feat Class Action Reaction
+title: Swift Banishment
+type: text/vnd.tiddlywiki
+
+''Trigger'' You critically hit a creature that is not on its home plane.
+
+''Requirements'' You have a [[Banishment]] spell prepared.
+
+The force of your blow sends your victim back to its home plane. 
+
+You expend a [[Banishment]] spell you have prepared, affecting the creature you critically hit without needing to cast the spell. 
+
+The creature can attempt to resist the spell as normal.

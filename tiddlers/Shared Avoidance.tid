@@ -1,0 +1,13 @@
+created: 20200926153920088
+feat-class: Cleric
+feat-fpre: [[Premonition of Avoidance]]
+feat-level: 10
+mod-premonition_of_avoidance: Give status save bonus to allies.
+modified: 20200926154031591
+tags: Cleric Class Feat
+title: Shared Avoidance
+type: text/vnd.tiddlywiki
+
+You can project your premonitions of danger to your allies.
+
+When you use [[Premonition of Avoidance]], allies within 15 feet of you who are rolling the same saving throw against the same hazard also gain a +2 circumstance bonus to their saving throws.

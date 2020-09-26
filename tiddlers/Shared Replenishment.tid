@@ -1,0 +1,15 @@
+created: 20200926145104722
+feat-class: Cleric
+feat-fpre: [[Replenishment of War]]
+feat-level: 12
+mod-replenishment_of_war: Give temp HP to your allies instead of yourself.
+modified: 20200926145209128
+tags: Cleric Feat Class
+title: Shared Replenishment
+type: text/vnd.tiddlywiki
+
+When your deity blesses your warlike acts, you can extend that favor to your allies. 
+
+You can grant the temporary Hit Points from [[Replenishment of War]] to an ally within 10 feet instead of gaining them yourself. 
+
+You can grant these temporary Hit Points to a different ally each time, meaning you might be able to grant them to multiple creatures in a single turn.

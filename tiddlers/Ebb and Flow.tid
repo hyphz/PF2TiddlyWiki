@@ -1,0 +1,13 @@
+a-actions: 1
+created: 20200926154424314
+feat-class: Cleric
+feat-fpre: [[Versatile Font]]
+feat-level: 14
+modified: 20200926154530154
+tags: Cleric Class Feat Concentrate Metamagic Action
+title: Ebb and Flow
+type: text/vnd.tiddlywiki
+
+You can pull forth both positive and negative energy simultaneously to harm your enemies and heal your allies.
+
+If your next action is to cast a 1-action or 2-action [[Heal]] or [[Harm]] spell, choose one creature in range that would be harmed by the spell, and choose another creature within range that would be healed by the spell. Your heal or harm targets both creatures.

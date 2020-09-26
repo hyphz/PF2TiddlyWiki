@@ -1,0 +1,12 @@
+created: 20200926135132505
+feat-class: Cleric
+feat-level: 1
+mod-heal: Damage fiends as if they were undead.
+modified: 20200926140614098
+tags: Cleric Feat Class
+title: Holy Castigation
+type: text/vnd.tiddlywiki
+
+You combine holy energy with positive energy to damage demons, devils, and their evil ilk. 
+
+[[Heal]] spells you cast damage <<tag Fiend>>s as though they were <<tag Undead>>.

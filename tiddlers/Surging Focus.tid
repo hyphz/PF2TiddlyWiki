@@ -1,0 +1,15 @@
+created: 20200926153801307
+feat-class: Cleric
+feat-level: 8
+modified: 20200926153846592
+tags: Cleric Class Feat Action Free
+title: Surging Focus
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' An ally you can see falls to 0 Hit Points.
+
+When an ally you can see falls in battle, your fight or flight response triggers a surge in your deity’s might within you. 
+
+You instantly regain 1 Focus Point.

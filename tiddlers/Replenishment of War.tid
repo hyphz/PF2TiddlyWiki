@@ -1,0 +1,15 @@
+created: 20200926144052430
+feat-class: Cleric
+feat-level: 10
+modified: 20200926144138323
+tags: Cleric Feat Class
+title: Replenishment of War
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' expert in your deity’s favored weapon
+
+Striking out against your enemies draws praise and protection from your deity. 
+
+When you damage a creature with a [[Strike]] using your deity’s favored weapon, you gain a number of temporary Hit Points equal to half your level, or equal to your level if the Strike was a critical hit. 
+
+These temporary Hit Points last until the start of your next turn.

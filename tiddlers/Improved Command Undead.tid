@@ -1,0 +1,19 @@
+created: 20200926143838219
+feat-class: Cleric
+feat-fpre: [[Command Undead]]
+feat-level: 10
+mod-command_undead: Extend duration and control undead on save.
+modified: 20200926144152590
+tags: Cleric Feat Class
+title: Improved Command Undead
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' harmful font, evil alignment
+
+Undead creatures find it all but impossible to resist your commands. 
+
+When you use [[Command Undead]], if the undead succeeds at its save but doesn’t critically succeed, it is your [[Minion]] for 1 round. 
+
+If the undead fails its save, it is your minion for 10 minutes. 
+
+If it critically fails, it is your minion for 24 hours.

@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20200926153141918
+feat-class: Cleric
+feat-fpre: [[Divine Font]]
+feat-level: 8
+modified: 20200926153230545
+tags: Cleric Class Feat Metamagic Action
+title: Martyr
+type: text/vnd.tiddlywiki
+
+You go to extreme lengths to support your allies, even when it means bringing harm to yourself. 
+
+If your next action is to cast [[Harm]] or [[Heal]] from your healing or harmful font to restore Hit Points to a single ally, you can channel your own vitality along with the spell. 
+
+You lose 1d8 Hit Points per level of the spell, which can’t be reduced or mitigated in any way, and your ally regains an equal number of Hit Points.

@@ -1,0 +1,15 @@
+created: 20200926141229708
+feat-class: Cleric
+feat-fpre: [[Communal Healing]]
+feat-level: 4
+mod-communal_healing: Give communal healing HP to another.
+modified: 20200926141336476
+tags: Cleric Feat Class
+title: Improved Communal Healing
+type: text/vnd.tiddlywiki
+
+You can direct excess channeled energy outward to benefit an ally. 
+
+You can grant the Hit Points you would regain from [[Communal]] Healing to any one creature within the range of your [[Heal]] spell instead of yourself. 
+
+You can also use Communal Healing when you target only yourself with a heal spell, though if you do, you must grant the additional healing to someone other than yourself.

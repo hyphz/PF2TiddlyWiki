@@ -1,0 +1,13 @@
+created: 20200926151229306
+feat-class: Cleric
+feat-level: 1
+modified: 20200926151336643
+tags: Cleric Class Feat Reaction Action
+title: Premonition of Avoidance
+type: text/vnd.tiddlywiki
+
+''Trigger'' You attempt a saving throw against a hazard, but you haven’t rolled yet.
+
+Your deity grants you limited foresight, warning you of dangers an instant before they occur. 
+
+You gain a +2 circumstance bonus to the triggering saving throw.

@@ -1,0 +1,26 @@
+a-actions: 1
+created: 20200926140627474
+feat-class: Cleric
+feat-level: 4
+modified: 20200926141018154
+s-crit: The target is unaffected and is temporarily immune for 24 hours.
+s-fail: The undead creature becomes a [[Minion]] under your control. The spell gains a duration of 1 minute, but it is dismissed if you or an ally attacks the minion undead.
+s-fumble: As failure, but the duration is 1 hour.
+s-hit: The target is unaffected.
+tags: Cleric Feat Class Action Concentrate Metamagic
+title: Command Undead
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' harmful font, evil alignment
+
+You grasp the animating force within an undead creature and bend it to your will. 
+
+If the next action you use is to cast [[Harm]] targeting one undead creature, you transform the effects of that harm spell. 
+
+Instead of harm’s normal effects, the target becomes [[Controlled]] by you if its level is equal to or lower than your level – 3. 
+
+It can attempt a [[Will]] saving throw to resist being controlled by you. 
+
+If the target is already under someone else’s command, the controlling creature also rolls a saving throw, and the undead uses the better result.
+
+{{||SaveSuccessTable}}
