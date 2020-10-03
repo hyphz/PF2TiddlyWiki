@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201003174614747
+feat-class: Fighter
+feat-level: 1
+modified: 20201003174743994
+tags: Feat Class Fighter Action Flourish
+title: Power Attack
+type: text/vnd.tiddlywiki
+
+You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. 
+
+Make a melee [[Strike]]. This counts as two attacks when calculating your [[Multiple Attack Penalty]]. 
+
+If this Strike hits, you deal an extra die of weapon damage. 
+
+If you’re at least 10th level, increase this to two extra dice, and if you’re at least 18th level, increase it to three extra dice.

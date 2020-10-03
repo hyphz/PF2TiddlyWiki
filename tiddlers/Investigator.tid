@@ -1,0 +1,47 @@
+cls-combt: Unarmored Simple Unarmed
+cls-exskills: 2
+cls-fortitude: T
+cls-hpbase: 8
+cls-key: Wisdom
+cls-per: T
+cls-reflex: T
+cls-tskills: Religion
+cls-will: E
+created: 20201003150901551
+modified: 20201003155109990
+tags: Class
+title: Investigator
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | On the Case ([[Pursue a Lead]] and [[Clue In]]), [[Devise a Stratagem]], [[Strategic Strike]] 1d6 |
+| 2 | Extra Skill Increase (Expert) |
+| 3 | [[Keen Recollection]], [[Skillful Lesson]] |
+| 4 | Extra Skill Increase (Expert) |
+| 5 | [[Skillful Lesson]], [[Strategic Strike]] 2d6, [[Weapon Expertise]] |
+| 6 | Extra Skill Increase (Expert) |
+| 7 | [[Skillful Lesson]], [[Vigilant Senses]], [[Weapon Specialization]] |
+| 8 | Extra Skill Increase (Master) |
+| 9 | [[Great Fortitude]], [[Investigator Expertise]], [[Skillful Lesson]], [[Strategic Strike]] 3d6 |
+| 10 | Extra Skill Increase (Master) |
+| 11 | [[Deductive Improvisation]], [[Resolve]], [[Skillful Lesson]] |
+| 12 | Extra Skill Increase (Master) |
+| 13 | [[Incredible Senses]], [[Light Armor Expertise]], [[Skillful Lesson]], [[Strategic Strike]] 4d6, [[Weapon Mastery]] |
+| 14 | Extra Skill Increase (Master) |
+| 15 | [[Evasion]], [[Greater Weapon Specialization]], [[Skillful Lesson]] |
+| 16 | Extra Skill Increase (Legendary) |
+| 17 | [[Greater Resolve]], [[Skillful Lesson]], [[Strategic Strike]] 5d6 |
+| 18 | Extra Skill Increase (Legendary) |
+| 19 | [[Light Armor Mastery]], [[Master Detective]], [[Skillful Lesson]] |
+| 20 | Extra Skill Increase (Legendary) |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

@@ -1,0 +1,20 @@
+created: 20201003170109345
+feat-class: Investigator
+feat-level: 8
+feat-skill: Perception
+feat-spre: M
+mod-concealed: Can target creatures without check.
+mod-hidden: Not flat-footed by creature being hidden; flat check DC 5.
+mod-undetected: Make creature Hidden if adjacent and equal or lower level.
+modified: 20201003170317324
+tags: Investigator Feat Class
+title: Blind-Fight
+type: text/vnd.tiddlywiki
+
+Your battle insights make you more aware of concealed and invisible opponents. 
+
+You don’t need to succeed at a flat check to target [[Concealed]] creatures. 
+
+You’re not [[Flat-Footed]] to creatures that are [[Hidden]] from you (unless you’re flat-footed to them for reasons other than the hidden condition), and you need only a successful DC 5 flat check to target a hidden creature.
+
+While you’re adjacent to an [[Undetected]] creature of your level or lower, it is instead only hidden from you.

@@ -1,0 +1,15 @@
+a-time: 1 minute
+created: 20201003173434307
+feat-class: Investigator
+feat-fpre: [[Clue Them All In]]
+feat-level: 18
+modified: 20201003173533381
+tags: Investigator Feat Class Action Exploration
+title: Lead Investigator
+type: text/vnd.tiddlywiki
+
+You spend 1 minute briefing up to four allies about one lead you’re pursuing. 
+
+Those allies gain the same circumstance bonus you do from [[Pursue a Lead]] to checks to investigate that lead. 
+
+This bonus lasts until you cease pursing that lead or for 1 day, whichever comes first. This doesn’t confer any other benefits of pursuing a lead, such as adding the circumstance bonus to your saves with [[Detective’s Readiness]].

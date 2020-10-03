@@ -1,0 +1,13 @@
+created: 20201003171010286
+feat-class: Investigator
+feat-fpre: [[Strategic Strike]]
+feat-level: 10
+mod-strategic_strike: Can add dice even if you didn't devise a stratagem.
+modified: 20201003171110831
+tags: Investigator Feat Class
+title: Ongoing Strategy
+type: text/vnd.tiddlywiki
+
+You’re constantly studying small aspects of everyone’s movements, even if you don’t have a stratagem in place ahead of time. 
+
+On any Strike for which you didn’t Devise a Stratagem, you still deal precision damage equal to your number of strategic strike damage dice so long as the weapon or unarmed attack you used is one that would have let you use your Intelligence modifier had you Devised a Stratagem.

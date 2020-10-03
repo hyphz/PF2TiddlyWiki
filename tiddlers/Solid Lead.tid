@@ -1,0 +1,18 @@
+created: 20201003163528948
+feat-class: Investigator
+feat-level: 2
+mod-pursue_a_lead: Can make a lead solid to revert to it freely.
+modified: 20201003163659520
+tags: Investigator Feat Class
+title: Solid Lead
+type: text/vnd.tiddlywiki
+
+Sometimes your case splinters into smaller mysteries, but you never lose sight of the big picture. 
+
+Once per day when you give up on the subject of a lead due to using [[Pursue a Lead]] again, you can designate the lead you stopped pursuing as your solid lead for the day. 
+
+Even though you stopped following the solid lead, you can change back to your solid lead any number of times by using a single action, which has the <<tag Concentrate>> trait.
+
+Doing so ends one of your current leads as normal.
+
+During your next daily preparations, you can maintain your solid lead or you can remove it; removing it allows you to designate a new solid lead later that day.

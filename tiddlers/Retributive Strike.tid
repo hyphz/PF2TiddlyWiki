@@ -1,14 +1,14 @@
 created: 20200627200859803
-modified: 20200905172619121
+modified: 20201003173344107
 tags: Action Reaction
 title: Retributive Strike
 type: text/vnd.tiddlywiki
 
-''Trigger'' An enemy damages the monster’s ally, and both are within 15 feet of the monster. 
+''Trigger'' An enemy damages the user’s ally, and both are within 15 feet of the user. 
 
-The ally gains [[Resistance]] to all damage against the triggering damage equal to 2 + the monster’s level. 
+The ally gains [[Resistance]] to all damage against the triggering damage equal to 2 + the user’s level. 
 
-If the foe is within reach, the monster makes a melee [[Strike]] against it.
+If the foe is within reach, the user makes a melee [[Strike]] against it.
 
 When you gain the Divine Smite ability, if you hit, the target takes persistent good damage equal to your [[Charisma]] modifier.
 

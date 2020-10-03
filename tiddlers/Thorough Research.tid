@@ -1,0 +1,12 @@
+created: 20201003165838573
+feat-class: Investigator
+feat-level: 6
+mod-recall_knowledge: Learn an additional fact on success.
+modified: 20201003165923487
+tags: Investigator Feat Class
+title: Thorough Research
+type: text/vnd.tiddlywiki
+
+When you succeed at a [[Recall Knowledge]] check, you learn an additional fact about the subject. 
+
+When you critically succeed at a Recall Knowledge check, you can gain even more additional information or context than normal, at the GM’s discretion.

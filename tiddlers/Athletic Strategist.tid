@@ -1,0 +1,18 @@
+created: 20201003163023988
+feat-class: Investigator
+feat-level: 2
+feat-skill: Athletics
+feat-spre: T
+mod-devise_a_stratagem: Can apply Int modifier to Athletics actions.
+modified: 20201003163226101
+tags: Investigator Feat Class
+title: Athletic Strategist
+type: text/vnd.tiddlywiki
+
+You know how to calculatedly manipulate joints and body weight. 
+
+In addition to using [[Devise a Stratagem]] to modify a [[Strike]], you can use it to modify a [[Disarm]], [[Grapple]], [[Shove]], or [[Trip]] attempt, substituting your Devise a Stratagem roll for the [[Athletics]] check. 
+
+You must apply the substitution to the first eligible attack you make, whether it’s a Strike or one of the Athletics actions.
+
+You can also use your [[Intelligence]] modifier instead of [[Strength]] for the [[Athletics]] check when you substitute your Devise a Stratagem roll, unless you’re using a weapon for the maneuver and the weapon doesn’t fit the restrictions for using Intelligence with a stratagem.

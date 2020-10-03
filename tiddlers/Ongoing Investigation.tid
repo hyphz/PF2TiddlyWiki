@@ -1,0 +1,12 @@
+created: 20201003164553303
+feat-class: Investigator
+feat-level: 4
+mod-investigate: Can move at full Speed and use another activity.
+modified: 20201003164651728
+tags: Investigator Feat Class
+title: Ongoing Investigation
+type: text/vnd.tiddlywiki
+
+You’re always investigating what’s around you, even as you perform other activities. 
+
+You can move at full Speed while using the [[Investigate]] exploration activity, and you can use another exploration activity while Investigating.

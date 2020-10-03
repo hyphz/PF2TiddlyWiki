@@ -1,0 +1,19 @@
+created: 20201003162619228
+feat-class: Investigator
+feat-level: 1
+mod-fortitude: +1/+2 circumstance vs traps.
+mod-perception: +1/+2 circumstance to find traps.
+mod-reflex: +1/+2 circumstance vs traps.
+mod-will: +1/+2 circumstance vs traps.
+modified: 20201003162748210
+tags: Investigator Feat Class
+title: Trap Finder
+type: text/vnd.tiddlywiki
+
+You have an intuitive sense that alerts you to the dangers and presence of traps. 
+
+You gain a +1 circumstance bonus to [[Perception]] checks to find traps, to [[AC]] against attacks made by traps, and to saves against traps. 
+
+Even if you aren’t [[Search]]ing, you get a check to find traps that normally require you to be Searching. You still need to meet any other requirements to find the trap.
+
+You can disable traps that require a proficiency rank of master in [[Thievery]]. If you have master proficiency in Thievery, you can disable traps that require a proficiency rank of legendary instead, and your circumstance bonuses against traps increases to +2.

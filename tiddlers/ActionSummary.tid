@@ -1,5 +1,5 @@
 created: 20200712160439668
-modified: 20200730114616508
+modified: 20201003165653112
 tags: 
 title: ActionSummary
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ type: text/vnd.tiddlywiki
 <tr><th>Time</th><td>{{!!a-time}}</td></tr>
 <tr><th>Free Hands</th><td>{{!!a-hands}}</td></tr>
 <tr><th>Skill</th><td><$list filter="[all[current]list[!!a-skill]]"><$link to=<<currentTiddler>>/>&nbsp;</$list></td></tr>
-<tr><th>Defense</th><td><$link to={{!!a-defense}} /></td></tr>
+<tr><th>Defense</th><td><$list filter="[all[current]list[!!a-defense]]"><$link to=<<currentTiddler>>/>&nbsp;</$list></td></tr>
 <tr><th>Tool</th><td>{{!!a-tool}}</td></tr>
 <tr><th>Sub-actions</th><td>{{!!a-subactions}}</td></tr>
 </table>

@@ -1,0 +1,15 @@
+created: 20201003164148331
+feat-class: Investigator
+feat-level: 4
+mod-lie: +1 perception DC and gain bonus if lie detected.
+mod-sense_motive: +1 circumstance.
+modified: 20201003164334545
+tags: Investigator Feat Class
+title: Lie Detector
+type: text/vnd.tiddlywiki
+
+You’re adept at noticing the tells of a liar—sweat, flushing, a quavering voice, a quickening pulse. 
+
+You gain a +1 circumstance bonus to [[Perception]] checks to [[Sense Motive]] and to [[Perception]] DCs against attempts to [[Lie]] to you. 
+
+When you determine someone is lying to you, you can use their deceit to your advantage to gain a +1 circumstance bonus to the next [[Deception]], [[Diplomacy]], [[Intimidation]], or [[Performance]] check you attempt against that creature within the next minute.

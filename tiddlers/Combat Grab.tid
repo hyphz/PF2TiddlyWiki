@@ -1,0 +1,20 @@
+a-actions: 1
+a-hands: 1
+a-subactions: Strike
+created: 20201003175640912
+feat-class: Fighter
+feat-level: 2
+modified: 20201003175730359
+tags: Feat Class Fighter Action Press
+title: Combat Grab
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have one hand free, and your target is within reach of that hand.
+
+You swipe at your opponent and grab at them. 
+
+Make a melee [[Strike]] while keeping one hand free. 
+
+If the Strike hits, you grab the target using your free hand. 
+
+The creature remains [[Grabbed]] until the end of your next turn or until it [[Escape]]s, whichever comes first.

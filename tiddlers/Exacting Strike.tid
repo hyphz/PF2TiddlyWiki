@@ -1,0 +1,13 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201003174433396
+feat-class: Fighter
+feat-level: 1
+modified: 20201003174505724
+tags: Feat Class Fighter Action
+title: Exacting Strike
+type: text/vnd.tiddlywiki
+
+You make a controlled attack, fully accounting for your momentum. 
+
+Make a [[Strike]]. The Strike gains the following failure effect: On failure, this attack does not count toward your [[Multiple Attack Penalty]].

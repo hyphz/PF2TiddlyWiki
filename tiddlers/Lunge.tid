@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201003180045892
+feat-class: Fighter
+feat-level: 2
+modified: 20201003180130642
+tags: Feat Class Fighter Action
+title: Lunge
+type: text/vnd.tiddlywiki
+
+''Requirement'' You are wielding a melee weapon.
+
+Extending your body to its limits, you attack an enemy that would normally be beyond your reach. 
+
+Make a [[Strike]] with a melee weapon, increasing your reach by 5 feet for that Strike.
+
+If the weapon has the [[Disarm]], [[Shove]], or [[Trip]] trait, you can use the corresponding action instead of a Strike.

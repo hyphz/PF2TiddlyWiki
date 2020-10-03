@@ -1,0 +1,13 @@
+created: 20201003162829135
+feat-class: Investigator
+feat-level: 1
+lore-mention: Underworld
+mod-pursue_a_lead: Bonus applies to Thievery checks as part of investigation.
+modified: 20201003162955620
+tags: Investigator Feat Class
+title: Underworld Investigator
+type: text/vnd.tiddlywiki
+
+Your work as an investigator makes you familiar with the criminal element. You might be a criminal yourself, or you might have gained an understanding of how they operate from the outside. 
+
+You become trained in Underworld [[Lore]], and you gain your [[Pursue a Lead]] circumstance bonus to [[Thievery]] checks to investigate the subject of your lead (such as checks to [[Steal]] a clue from a suspect or [[Pick a Lock]] to open a safe with damning documents).

@@ -1,0 +1,15 @@
+created: 20201003163837743
+feat-class: Investigator
+feat-level: 4
+feat-sppre: [[Alchemical Sciences]]
+mod-alchemical_sciences: Gain two formulas each level and create more vials.
+modified: 20201003163939760
+tags: Investigator Feat Class
+title: Alchemical Discoveries
+type: text/vnd.tiddlywiki
+
+You’ve devoted extra time in the lab to improve your knowledge of alchemy. 
+
+You learn the formulas for two alchemical items each time you level up instead of one; these must still be elixirs or tools. 
+
+The number of versatile vials you can create each day increases by 1 if you’re an expert in [[Crafting]], 2 if you’re a master, or 3 if you’re legendary.

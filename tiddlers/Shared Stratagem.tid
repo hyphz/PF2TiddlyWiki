@@ -1,0 +1,14 @@
+created: 20201003163422371
+feat-class: Investigator
+feat-level: 2
+mod-devise_a_stratagem: Make hit creature flat-footed to an ally.
+modified: 20201003163516381
+tags: Investigator Feat Class
+title: Shared Stratagem
+type: text/vnd.tiddlywiki
+
+The plans you make include your allies as well as yourself.
+
+When you hit a creature with an attack on which you substituted your attack roll due to [[Devising a Stratagem|Devise a Stratagem]], designate one ally. 
+
+The creature you hit is [[Flat-Footed]] to that ally on the next attack the designated ally makes against that creature before the start of your next turn.

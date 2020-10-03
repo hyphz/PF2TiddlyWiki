@@ -1,0 +1,14 @@
+created: 20201003165727462
+feat-class: Investigator
+feat-level: 6
+mod-prescient_planner: Take out item with 2 actions, not 1 minute.
+modified: 20201003165814430
+tags: Investigator Feat Class
+title: Predictive Purchase
+type: text/vnd.tiddlywiki
+
+You have just the thing for the situation. 
+
+You gain the [[Prescient Planner]] and [[Prescient Consumable]] feats. 
+
+When using Prescient Planner, you can pull out the item as a 2-action activity to remove your backpack (or a similar container) and draw the item, rather than taking 1 minute.

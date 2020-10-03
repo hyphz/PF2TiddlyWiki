@@ -1,0 +1,14 @@
+created: 20201003162130883
+feat-class: Investigator
+feat-level: 1
+mod-devise_a_stratagem: Can also Recall Knowledge about the target.
+modified: 20201003162219524
+tags: Investigator Feat Class
+title: Known Weaknesses
+type: text/vnd.tiddlywiki
+
+Whenever you [[Devise a Stratagem]], you can also attempt a check to [[Recall Knowledge]] as part of that action. 
+
+If you critically succeed at the Recall Knowledge check, you notice a weakness and gain a +1 circumstance bonus to your attack roll from Devise a Stratagem. 
+
+If you immediately convey this information to your allies as part of the check, each ally gains a +1 circumstance bonus to their next attack roll against the subject, as long as their attack is made before the beginning of your next turn.

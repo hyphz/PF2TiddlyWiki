@@ -1,0 +1,19 @@
+created: 20201003173904015
+feat-class: Investigator
+feat-fpre: [[Thorough Research]]
+feat-level: 20
+mod-recall_knowledge: Check not secret, promote outcome, and know if any information is wrong.
+modified: 20201003174028110
+tags: Investigator Feat Class
+title: Just the Facts
+type: text/vnd.tiddlywiki
+
+You fundamentally understand everything to the point where your research can’t possibly be wrong. 
+
+You are permanently [[Quickened]] and can use the extra action to [[Recall Knowledge]].
+
+Your checks to Recall Knowledge are no longer secret.
+
+When you Recall Knowledge, you use the outcome for one degree of success better than the result of your check, and if an effect (such as [[Dubious Knowledge]]) would give you inaccurate information from your Recall Knowledge check, you know which information is inaccurate. 
+
+When one of your allies Recalls Knowledge and gains false information, you also know that information is inaccurate if they share it with you.

@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Aid
+created: 20201003175306133
+feat-class: Fighter
+feat-level: 2
+modified: 20201003175425744
+tags: Feat Class Fighter Action
+title: Assisting Shot
+type: text/vnd.tiddlywiki
+
+With a quick shot, you interfere with a foe in combat.
+
+You can use the [[Aid]] action with a ranged weapon you wield. Instead of being within reach of the target, you must be within maximum range of the target. 
+
+An Assisting Shot uses ammunition and incurs penalties just like any other attack.

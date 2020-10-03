@@ -1,0 +1,13 @@
+created: 20201003172133068
+feat-class: Investigator
+feat-level: 14
+modified: 20201003172248849
+tags: Investigator Feat Class Action Reaction
+title: Sense the Unseen
+type: text/vnd.tiddlywiki
+
+''Trigger'' You fail a check to [[Seek]].
+
+When you look for foes, you notice the slightest of cues. 
+
+Even though you failed at the triggering check, you automatically sense any [[Undetected]] creatures in the area where you’re [[Seek]]ing, making them merely [[Hidden]] to you.

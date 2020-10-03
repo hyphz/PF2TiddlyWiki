@@ -1,0 +1,15 @@
+a-actions: 1
+a-hands: 1
+created: 20201003175745397
+feat-class: Fighter
+feat-level: 2
+modified: 20201003175816276
+tags: Feat Class Fighter Action
+title: Dueling Parry
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding only a single one-handed melee weapon and have your other hand or hands free.
+
+You can parry attacks against you with your one-handed weapon. 
+
+You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirements.

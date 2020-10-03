@@ -1,10 +1,10 @@
 a-actions: 2
 a-subactions: Stride Strike
 created: 20200723213136320
-feat-class: Barbarian
+feat-class: Barbarian Fighter
 feat-level: 1
-modified: 20200723213300624
-tags: Class Feat Barbarian Flourish Open Action
+modified: 20201003175105021
+tags: Class Feat Barbarian Flourish Open Action Fighter
 title: Sudden Charge
 type: text/vnd.tiddlywiki
 

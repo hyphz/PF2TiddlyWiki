@@ -1,0 +1,13 @@
+created: 20201003164657909
+feat-class: Investigator
+feat-level: 4
+feat-sppre: [[Forensic Medicine]]
+mod-devise_a_stratagem: If your attack crits, also deal persistent bleed.
+modified: 20201003164812457
+tags: Investigator Feat Class
+title: Scalpel's Point
+type: text/vnd.tiddlywiki
+
+Your stratagems benefit from your precise knowledge of anatomy. 
+
+When you critically hit with an attack on which you substituted your attack roll due to [[Devising a Stratagem|Devise a Stratagem]], if your attack dealt piercing or slashing damage, you also deal 1d6 persistent bleed damage to your target.

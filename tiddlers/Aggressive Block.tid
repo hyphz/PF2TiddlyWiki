@@ -1,0 +1,18 @@
+created: 20201003175138930
+feat-class: Fighter
+feat-level: 2
+modified: 20201003175249325
+tags: Feat Class Fighter Action Free
+title: Aggressive Block
+type: text/vnd.tiddlywiki
+
+''Trigger'' You use the [[Shield Block]] reaction, and the opponent that triggered Shield Block is adjacent to you and is your size or smaller.
+
+You push back as you block the attack, knocking your foe away or off balance. 
+
+You use your shield to push the triggering creature, either automatically [[Shoving|Shove]] it 5 feet or causing it to become [[Flat-Footed]] until the start of your next turn. 
+
+The triggering creature chooses whether to be moved or become flat-footed. If it chooses to be
+moved, you choose the direction. 
+
+If the Shove would cause it to hit a solid object, enter a square of difficult terrain, or enter another creature’s space, it must become [[Flat-Footed]] instead of being moved.

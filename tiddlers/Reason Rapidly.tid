@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: [[Recall Knowledge]]
+created: 20201003171500148
+feat-class: Investigator
+feat-level: 12
+modified: 20201003171806146
+tags: Investigator Feat Class Action
+title: Reason Rapidly
+type: text/vnd.tiddlywiki
+
+Your mind works through clues at an unbelievable speed. 
+
+You instantly use up to five [[Recall Knowledge]] actions. 
+
+If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can’t use them for these actions.

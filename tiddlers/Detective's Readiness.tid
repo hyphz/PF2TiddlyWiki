@@ -1,0 +1,13 @@
+created: 20201003164019256
+feat-class: Investigator
+feat-level: 4
+mod-clue_in: Can clue in ally to assist a save.
+mod-pursue_a_lead: Circumstance bonus applies to saves.
+modified: 20201003164111625
+tags: Investigator Feat Class
+title: Detective's Readiness
+type: text/vnd.tiddlywiki
+
+When you’re on a case, you stay watchful and resolute to avoid tricks your suspect might pull. 
+
+You gain your circumstance bonus from [[Pursue a Lead]] on saving throws (and their DCs, as normal) against the subject of a lead, and you can use [[Clue In]] to assist an ally’s saving throw against that subject.

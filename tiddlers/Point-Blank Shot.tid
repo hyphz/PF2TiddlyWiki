@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201003174522441
+feat-class: Fighter
+feat-level: 1
+modified: 20201003174603933
+tags: Feat Class Fighter Action Open Stance
+title: Point-Blank Shot
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a ranged weapon.
+
+You take aim to pick off nearby enemies quickly. 
+
+When using a ranged [[Volley]] weapon while you are in this stance, you don’t take the penalty to your attack rolls from the volley trait.
+
+When using a ranged weapon that doesn’t have the volley trait, you gain a +2 circumstance bonus to damage rolls on attacks against targets within the weapon’s first range increment.

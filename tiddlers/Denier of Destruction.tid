@@ -1,11 +1,12 @@
 created: 20200815141052271
 feat-class: Cleric
-feat-fpre: [[Healing Font]]
 feat-level: 20
-modified: 20200815141246146
+modified: 20201003174124802
 tags: Feat Class Action Uncommon Cleric Reaction
 title: Denier of Destruction
 type: text/vnd.tiddlywiki
+
+''Requires'' Healing Font.
 
 ''Trigger'' Any ally within 30 feet that you can heal with your [[Heal]] spell would take damage from an attack or effect from a source you can observe.
 

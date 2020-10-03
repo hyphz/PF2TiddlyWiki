@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201003175843689
+feat-class: Fighter
+feat-level: 2
+modified: 20201003175929663
+tags: Feat Class Fighter Action Emotion Fear Mental
+title: Intimidating Strike
+type: text/vnd.tiddlywiki
+
+Your blow not only wounds creatures but also shatters their confidence. 
+
+Make a melee [[Strike]]. 
+
+If you hit and deal damage, the target is [[Frightened]] 1, or frightened 2 on a critical hit.
