@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201010174934962
+feat-class: Monk
+feat-level: 1
+mod-step: Step 10 feet as long as speed is at least 20.
+modified: 20201010175100295
+tags: Feat Class Monk Action Stance
+title: Tiger Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are unarmored.
+
+You enter the stance of a tiger and can make tiger claw attacks. 
+
+These deal 1d8 slashing damage; are in the brawling group; and have the [[Agile]], [[Finesse]], [[Nonlethal]], and [[Unarmed]] traits. On a critical success with your tiger claws, if you deal damage, the target takes 1d4 persistent bleed damage.
+
+As long as your Speed is at least 20 feet while in Tiger Stance, you can [[Step]] 10 feet.

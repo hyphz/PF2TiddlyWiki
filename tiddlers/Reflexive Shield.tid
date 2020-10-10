@@ -1,0 +1,15 @@
+created: 20201010140956407
+feat-class: Fighter
+feat-level: 6
+mod-raise_a_shield: Gain shield's bonus to Reflex save.
+mod-shield_block: Can shield block in response to damage with Reflex save.
+modified: 20201010141156407
+tags: Feat Class Fighter
+title: Reflexive Shield
+type: text/vnd.tiddlywiki
+
+You can use your shield to fend off the worst of area effects and other damage. 
+
+When you [[Raise your Shield|Raise a Shield]], you gain your shield’s circumstance bonus to [[Reflex]] saves. 
+
+If you have the [[Shield Block]] reaction, damage you take as a result of a [[Reflex]] save can trigger that reaction, even if the damage isn’t physical damage.

@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201010155440980
+feat-class: Fighter
+feat-fpre: [[Double Slice]]
+feat-level: 16
+mod-double_slice: If second attack agile, counts as one attack.
+modified: 20201010155836113
+tags: Feat Class Fighter Action Stance
+title: Graceful Poise
+type: text/vnd.tiddlywiki
+
+With the right positioning, your off-hand weapon can strike like a scorpion’s stinger. 
+
+While you are in this stance, if you make your second Strike from [[Double Slice]] with an agile weapon, Double Slice counts as one attack when calculating your multiple attack penalty.

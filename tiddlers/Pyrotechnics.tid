@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 1 fire
 m-time: 
-modified: 20200814221240919
+modified: 20201010154703933
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Sickened]] 1 by smoke, or [[Blinded]] for 1 round by fireworks.
 s-fumble: The creature is [[Sickened]] 1 and cannot recover from the sickened condition while in the area of the smoke cloud; or is [[Blinded]] for 1 minute by fireworks.
 s-hit: The creature is unaffected by smoke, or [[Dazzled]] for 1 round by fireworks.
-tags: Spell Somatic Manipulate Uncommon Fire Transmutation Arcane Occult
+tags: Spell Somatic Manipulate Uncommon Fire Transmutation Arcane Occult Verbal Concentrate
 title: Pyrotechnics
 type: text/vnd.tiddlywiki
 

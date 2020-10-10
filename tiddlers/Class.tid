@@ -1,0 +1,7 @@
+created: 20201010172232688
+modified: 20201010172302431
+tags: 
+title: Class
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Class]!tag[Feat]sort[]]">

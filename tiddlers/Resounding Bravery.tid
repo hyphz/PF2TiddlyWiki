@@ -1,0 +1,14 @@
+created: 20201010161647704
+feat-class: Fighter
+feat-fpre: [[Bravery]]
+feat-level: 8
+modified: 20201010161730125
+tags: Feat Class Fighter
+title: Resounding Bravery
+type: text/vnd.tiddlywiki
+
+Even your fears serve as fuel for your fighting spirit. 
+
+When you critically succeed at a [[Will]] save against a foe’s ability, you gain a +1 status bonus to saves and a number of temporary Hit Points equal to half your level for 1 minute. 
+
+These benefits are doubled if you critically succeed against a <<tag Fear>> effect.

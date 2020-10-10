@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806203454433
+feat-class: Monk
+feat-fpre: [[Incredible Movement]]
+feat-level: 6
 m-area: 
 m-components: Somatic
 m-duration: 
@@ -12,12 +15,12 @@ m-range: 15 feet or more
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200806203544612
+modified: 20201010181132953
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Conjuration Monk Teleportation Uncommon
+tags: Spell Somatic Manipulate [[Focus Spell]] Conjuration Monk Teleportation Uncommon Feat Class
 title: Abundant Step
 type: text/vnd.tiddlywiki
 

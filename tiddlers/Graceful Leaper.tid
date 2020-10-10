@@ -1,0 +1,15 @@
+created: 20201010172852669
+feat-arch: Acrobat
+feat-level: 7
+feat-skill: Acrobatics
+feat-spre: M
+mod-high_jump: Can use Acrobatics.
+mod-long_jump: Can use Acrobatics.
+modified: 20201010173048384
+tags: Feat Archetype Skill
+title: Graceful Leaper
+type: text/vnd.tiddlywiki
+
+Mass and muscle are meaningless when you leap; only grace and balance matter. 
+
+You can roll an [[Acrobatics]] check instead of an Athletics check when making a [[High Jump]] or [[Long Jump]].

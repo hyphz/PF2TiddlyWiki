@@ -8,7 +8,8 @@ feat-class: Barbarian
 feat-fpre: Knockback
 feat-level: 14
 mod-knockback: Can make extra check for more results.
-modified: 20200830005137533
+modified: 20201010154848458
+modified-by: Athletics
 tags: Barbarian Feat Rage Class Concentrate
 title: Awesome Blow
 type: text/vnd.tiddlywiki

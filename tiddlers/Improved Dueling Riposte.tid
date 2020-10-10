@@ -1,0 +1,14 @@
+created: 20201010152223508
+feat-class: Fighter
+feat-fpre: [[Dueling Riposte]]
+feat-level: 12
+modified: 20201010152300910
+tags: Feat Class Fighter
+title: Improved Dueling Riposte
+type: text/vnd.tiddlywiki
+
+Your weapon whirls and darts, striking foes whenever the opportunity presents itself. 
+
+At the start of each of your turns, you gain an additional reaction that you can use only to make a [[Dueling Riposte]]. 
+
+You can use this extra reaction even if you are not benefiting from [[Dueling Parry]].

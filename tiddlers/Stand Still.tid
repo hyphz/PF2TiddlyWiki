@@ -1,0 +1,16 @@
+a-subactions: Strike
+created: 20201010180904063
+feat-class: Monk
+feat-level: 4
+modified: 20201010180947835
+tags: Feat Class Monk Action Reaction
+title: Stand Still
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within your reach uses a <<tag Move>> action or leaves a square during a move action it’s using.
+
+You strike out when your foe tries to flee. 
+
+Make a melee [[Strike]] against the triggering creature. 
+
+If the attack is a critical hit and the trigger was a move action, you disrupt that action.

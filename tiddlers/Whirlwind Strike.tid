@@ -1,10 +1,10 @@
 a-actions: 3
 a-subactions: Strike
 created: 20200830005501547
-feat-class: Barbarian
+feat-class: Barbarian Fighter
 feat-level: 14
-modified: 20200830005559996
-tags: Barbarian Feat Class Action Flourish Open
+modified: 20201010155356890
+tags: Barbarian Feat Class Action Flourish Open Fighter
 title: Whirlwind Strike
 type: text/vnd.tiddlywiki
 

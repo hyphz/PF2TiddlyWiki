@@ -1,0 +1,13 @@
+created: 20201010154146813
+feat-class: Fighter
+feat-level: 14
+modified: 20201010154244340
+tags: Feat Class Fighter Action Free
+title: Stance Savant
+type: text/vnd.tiddlywiki
+
+''Trigger'' You roll initiative.
+
+When there’s imminent danger, you drop into a stance with a mere thought. 
+
+Use an action that has the <<tag Stance>> trait.

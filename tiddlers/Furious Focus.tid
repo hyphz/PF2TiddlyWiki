@@ -1,0 +1,13 @@
+created: 20201010140425415
+feat-class: Fighter
+feat-fpre: [[Power Attack]]
+feat-level: 6
+mod-power_attack: Counts as only one attack for multiple attack penalty.
+modified: 20201010140519884
+tags: Feat Class Fighter
+title: Furious Focus
+type: text/vnd.tiddlywiki
+
+You’ve learned to maintain your balance even when swinging furiously. 
+
+When you make a [[Power Attack]] with a melee weapon you’re wielding in two hands, it counts as one attack toward your multiple attack penalty instead of two.

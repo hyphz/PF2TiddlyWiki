@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201010155715997
+feat-class: Fighter
+feat-fpre: [[Triple Shot]]
+feat-level: 16
+mod-double_shot: Penalty is only -1, or -2 for triple shot.
+modified: 20201010155917860
+tags: Feat Class Fighter Action Stance
+title: Multishot Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a ranged weapon with reload 0.
+
+You lock yourself in a stable position so you can fire swiftly and accurately. 
+
+While you are in this stance, your penalty for [[Double Shot]] is reduced to –1, or –2 if you add the extra action to make three Strikes. 
+
+If you move from your position, this stance ends.

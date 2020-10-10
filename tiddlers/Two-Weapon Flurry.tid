@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201010155226679
+feat-class: Fighter
+feat-level: 14
+modified: 20201010155311684
+tags: Feat Class Fighter Action Press Flourish
+title: Two-Weapon Flurry
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding two weapons, each in a different hand.
+
+You lash out with both your weapons in a sudden frenzy. 
+
+[[Strike]] twice, once with each weapon.

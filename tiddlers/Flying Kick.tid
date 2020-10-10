@@ -1,0 +1,18 @@
+a-actions: 2
+a-subactions: Leap [[High Jump]] [[Long Jump]] Strike
+created: 20201010180559710
+feat-class: Monk
+feat-level: 4
+modified: 20201010180704956
+tags: Feat Class Monk Action
+title: Flying Kick
+type: text/vnd.tiddlywiki
+
+You launch yourself at a foe. 
+
+Make a [[Leap]] or attempt a [[High Jump]] or [[Long Jump]]. 
+
+At the end of the jump, if you’re adjacent to a foe, you can immediately [[Strike]] that foe with an unarmed attack, even if the foe is in mid-air. 
+
+You fall to the ground after the Strike. If the distance you fall is no more than the height of
+your jump, you land upright and take no damage.

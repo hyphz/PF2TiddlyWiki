@@ -1,0 +1,17 @@
+a-subactions: Strike Disarm
+created: 20201010143506646
+feat-class: Fighter
+feat-fpre: [[Dueling Parry]]
+feat-level: 8
+modified: 20201010143702255
+tags: Feat Class Fighter Action Reaction
+title: Dueling Riposte
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within your reach critically fails a Strike against you.
+
+''Requirements'' You are benefiting from [[Dueling Parry]].
+
+You riposte against your flailing enemy. 
+
+Make a melee [[Strike]] against or attempt to [[Disarm]] the triggering creature.

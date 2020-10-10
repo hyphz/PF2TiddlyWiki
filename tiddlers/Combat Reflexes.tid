@@ -1,0 +1,11 @@
+created: 20201010150302642
+feat-class: Fighter
+feat-level: 10
+modified: 20201010150331278
+tags: Feat Class Fighter
+title: Combat Reflexes
+type: text/vnd.tiddlywiki
+
+You are particularly swift at punishing foes who leave you openings. 
+
+At the start of each of your turns when you regain your actions, you gain an additional reaction that can be used only to make an [[Attack of Opportunity]].

@@ -1,0 +1,14 @@
+created: 20201010154036002
+feat-class: Fighter
+feat-fpre: [[Twin Riposte]]
+feat-level: 14
+modified: 20201010154220057
+tags: Feat Class Fighter
+title: Improved Twin Riposte
+type: text/vnd.tiddlywiki
+
+Your weapons are a blur, blocking and biting at your foes. 
+
+At the start of each of your turns, you gain an additional reaction that you can use only to perform a [[Twin Riposte]]. 
+
+You can use this extra reaction even if you are not benefiting from Twin Parry.

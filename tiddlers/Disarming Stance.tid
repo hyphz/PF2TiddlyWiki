@@ -1,0 +1,20 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201010140223236
+feat-class: Fighter
+feat-level: 6
+feat-skill: Athletics
+feat-spre: T
+mod-disarm: +1 circumstance to disarm, +2 vs being disarmed, and up to two sizes larger.
+modified: 20201010140416061
+tags: Feat Class Fighter Action Stance
+title: Disarming Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding only a single one-handed melee weapon and have your other hand or hands free.
+
+You adopt a fencing stance that improves your control over your weapon. 
+
+While you are in this stance, you gain a +1 circumstance bonus to [[Athletics]] checks to [[Disarm]] and a +2 circumstance bonus to your [[Reflex]] DC when defending against checks to [[Disarm]] you. 
+
+In addition, you can attempt to Disarm creatures up to two sizes larger than you.

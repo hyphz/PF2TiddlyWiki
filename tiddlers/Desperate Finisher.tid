@@ -1,0 +1,18 @@
+created: 20201010152931019
+feat-class: Fighter
+feat-level: 14
+modified: 20201010153415702
+modtag-reaction: Can't use reactions after finisher until next turn.
+tags: Feat Class Fighter Action Reaction
+title: Desperate Finisher
+type: text/vnd.tiddlywiki
+
+''Trigger'' You complete the last action on your turn, and your turn has not ended yet.
+
+''Requirements'' You meet the requirements to use an action with the <<tag Press>> trait.
+
+You throw everything into one last press. 
+
+Use a single action that you know with the <<tag Press>> trait as part of Desperate Finisher.
+
+You forgo the ability to use reactions until the start of your next turn.

@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Reflex
 m-targets: One object or one 10-foot-square area
 m-time: 
-modified: 20200814222218268
+modified: 20201010154651587
 s-crit: The object is unaffected.
 s-fail: The creature manages to slightly protect the object. The spell lasts 10 minutes.
 s-fumble: The spell lasts the full 24 hours.
 s-hit: The creature pulls the object away quickly. The spell only lasts 1 minute.
-tags: Spell Somatic Manipulate Uncommon Necromancy Negative Arcane Divine Occult Material
+tags: Spell Somatic Manipulate Uncommon Necromancy Negative Arcane Divine Occult Verbal Concentrate
 title: Necrotic Radiation
 turn-etc: Take negative damage if holding object or in area.
 type: text/vnd.tiddlywiki

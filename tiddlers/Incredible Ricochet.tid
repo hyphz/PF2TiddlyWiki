@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201010152327939
+feat-class: Fighter
+feat-fpre: [[Incredible Aim]]
+feat-level: 12
+mod-concealed: Ignore condition.
+mod-cover: Ignore condition.
+modified: 20201010152437559
+tags: Feat Class Fighter Action Concentrate Press
+title: Incredible Ricochet
+type: text/vnd.tiddlywiki
+
+After your first shot singles out your opponent’s position, you direct another that ricochets around obstacles and strikes unerringly. 
+
+Make a ranged weapon [[Strike]]. 
+
+You ignore the target’s [[Concealed]] condition and all [[Cover]].

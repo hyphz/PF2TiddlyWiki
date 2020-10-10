@@ -1,0 +1,19 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201010142927489
+feat-class: Fighter
+feat-level: 6
+modified: 20201010143048675
+tags: Feat Class Fighter Action Press
+title: Shatter Defenses
+type: text/vnd.tiddlywiki
+
+''Requirements'' A [[Frightened]] creature is in your melee reach.
+
+Your offense exploits your enemy’s fear. 
+
+Make a melee [[Strike]] against a frightened creature. 
+
+If you hit and deal damage, the target becomes [[Flat-Footed]] until its frightened condition ends.
+
+If the target was already flat-footed to you when you damaged it with this Strike, it can’t reduce its frightened value below 1 until the start of your next turn.

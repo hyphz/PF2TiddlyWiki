@@ -1,0 +1,15 @@
+created: 20201010180018958
+feat-class: Monk
+feat-fpre: [[Flurry of Blows]]
+feat-level: 2
+mod-flurry_of_blows: Hit target must make Fortitude save or be stunned (incapacitation)
+modified: 20201010180213979
+tags: Feat Class Monk
+title: Stunning Fist
+type: text/vnd.tiddlywiki
+
+The focused power of your flurry threatens to overwhelm your opponent. 
+
+When you target the same creature with two [[Strike]]s from your [[Flurry of Blows]], you can try to stun the creature. 
+
+If either Strike hits and deals damage, the target must succeed at a [[Fortitude]] save against your class DC or be [[Stunned]] 1 (or [[Stunned]] 3 on a critical failure). This is an incapacitation effect //so a target that's higher level than you is only stunned 1 if they critically fail, and not at all on a regular fail.//

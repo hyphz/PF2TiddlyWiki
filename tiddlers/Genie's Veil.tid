@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20200812221431799
+modified: 20201010154635487
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Sorcerer
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Sorcerer Verbal Concentrate
 title: Genie's Veil
 type: text/vnd.tiddlywiki
 

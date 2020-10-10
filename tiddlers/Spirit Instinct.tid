@@ -1,6 +1,6 @@
 created: 20200806220619402
 mod-rage: Increase damage to 3/7/13 and make positive/negative.
-modified: 20200806220809716
+modified: 20201010170544303
 tags: Barbarian Splat
 title: Spirit Instinct
 type: text/vnd.tiddlywiki
@@ -10,8 +10,8 @@ Whether you are emotionally sensitive to the spirits around you; worship ancesto
 
 ''Anathema'' Disrespecting corpses or spirits is anathema to your instinct; defending yourself against undead creatures is not.
 
-''Spirit Rage (Instinct Ability)'' When you are raging, you can increase your damage from [[Rage]] from 2 to 3 and deal <<tag Negative>> or <<tag Positive>> damage, instead of the normal damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the [[Ghost Touch]] property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the <<tag Divine>> and <<tag Necromancy>> traits, plus negative or positive, as appropriate.
+''Spirit Rage (Instinct Ability)'' When you are raging, you can increase your damage from [[Rage]] from 2 to 3 and deal <<tag Negative>> or <<tag Positive>> damage, instead of the normal damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the [[Ghost Touch]] property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the <<tag Divine>> and <<tag Necromancy>> traits, plus negative or positive, as appropriate. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
-''Specialization Ability'' When using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.
+''Specialization Ability'' When using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
-''Raging Resistance'' You resist negative damage, as well as damage dealt by the attacks and abilities of undead creatures, regardless of the damage type.
+''Raging Resistance'' You resist negative damage, as well as damage dealt by the attacks and abilities of undead creatures, regardless of the damage type. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//

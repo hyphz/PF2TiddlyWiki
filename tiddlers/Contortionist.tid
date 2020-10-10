@@ -1,0 +1,15 @@
+created: 20201010172414369
+feat-arch: Acrobat
+feat-level: 4
+mod-escape: If Acrobatics used, creature escaped is flat-footed against next attack.
+mod-quick_squeeze: Can go full speed if master Acrobatics.
+modified: 20201010172535776
+tags: Feat Archetype
+title: Contortionist
+type: text/vnd.tiddlywiki
+
+You can squeeze out of tight situations surprisingly quickly, gaining an advantage against foes that try to pin you down.
+
+You gain the [[Quick Squeeze]] skill feat, and if you’re a master in [[Acrobatics]], you can [[Squeeze]] at full Speed. 
+
+Whenever you successfully [[Escape]] using Acrobatics, the creature you Escaped from is [[Flat-Footed]] against the next attack you make against it before the end of your next turn.

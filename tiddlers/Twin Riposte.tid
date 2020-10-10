@@ -1,0 +1,16 @@
+a-subactions: Strike Disarm
+created: 20201010151501235
+feat-class: Fighter
+feat-level: 10
+modified: 20201010151550849
+tags: Feat Class Fighter Action Reaction
+title: Twin Riposte
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within your reach critically fails a Strike against you.
+
+''Requirements'' You are benefiting from [[Twin Parry]].
+
+A clever parry with one weapon leaves your opponent open to an attack with the other weapon. 
+
+Make a melee [[Strike]] or use a [[Disarm]] action against the triggering opponent.

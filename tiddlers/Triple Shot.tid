@@ -1,0 +1,17 @@
+created: 20201010143234921
+feat-class: Fighter
+feat-fpre: [[Double Shot]]
+feat-level: 6
+mod-double_shot: Can attack same target or make 3 strikes at -4.
+modified: 20201010143326936
+tags: Feat Class Fighter
+title: Triple Shot
+type: text/vnd.tiddlywiki
+
+You can quickly fire multiple shots with greater control. 
+
+When you use [[Double Shot]], you can make the attacks against the same target. 
+
+You can add an additional action to Double Shot to make three ranged Strikes instead of two. If you do, the penalty is –4. 
+
+All attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made all of them.

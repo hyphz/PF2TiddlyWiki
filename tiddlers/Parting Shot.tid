@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Strike Step
+created: 20201010161000716
+feat-class: Fighter
+feat-level: 4
+modified: 20201010161046156
+tags: Feat Class Fighter Action
+title: Parting Shot
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a loaded ranged weapon or a ranged weapon with reload 0.
+
+You jump back and fire a quick shot that catches your opponent off guard. 
+
+You [[Step]] and then make a ranged [[Strike]] with the required weapon. 
+
+Your target is [[Flat-Footed]] against the attack.

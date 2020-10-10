@@ -1,0 +1,14 @@
+a-hands: 1
+created: 20201010140626981
+feat-class: Fighter
+feat-level: 6
+modified: 20201010140932553
+tags: Feat Class Fighter Action Reaction
+title: Guardian's Deflection
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally within your melee reach is hit by an attack, you can see the attacker, and the ally gaining a +2 circumstance bonus to AC would turn the critical hit into a hit or the hit into a miss.
+
+''Requirements'' You are wielding a single one-handed melee weapon and have your other hand or hands free.
+
+You use your weapon to deflect the attack against your ally, granting a +2 circumstance bonus to their Armor Class against the triggering attack. This turns the triggering critical hit into a hit, or the triggering hit into a miss //(because if it wouldn't have done so you would not have met the Trigger)//.

@@ -1,0 +1,13 @@
+created: 20201010170835321
+feat-arch: Alchemist
+feat-level: 6
+modified: 20201010170902957
+tags: Feat Archetype
+title: Advanced Concoction
+type: text/vnd.tiddlywiki
+
+You gain one alchemist feat. For the purpose of meeting its prerequisites, your alchemist level is equal to half your character level.
+
+You can select this feat more than once. Each time you select it, you gain another alchemist feat.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Feat]tag[Class]tag[Alchemist]]">>

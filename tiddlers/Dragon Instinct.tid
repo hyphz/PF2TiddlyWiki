@@ -1,6 +1,6 @@
 created: 20200806215533867
 mod-rage: Increase damage to 4/8/16 and type to dragon's type.
-modified: 20200806220050730
+modified: 20201010170308740
 tags: Splat Barbarian
 title: Dragon Instinct
 type: text/vnd.tiddlywiki
@@ -24,8 +24,8 @@ Chromatic dragons tend to be evil, and metallic dragons tend to be good.
 
 ''Anathema'' Letting a personal insult against you slide is anathema to your instinct. Choose whether your character respects or abhors your dragon type. If you respect it, defying such a dragon is anathema, and if you abhor it, failing to defeat such a dragon you come across is anathema.
 
-''Draconic Rage (Instinct Ability)'' While raging, you can increase the additional damage from [[Rage]] from 2 to 4 and change its damage type to match that of your dragon’s breath weapon instead of the damage type for your weapon or unarmed attack. If you do this, your Rage action gains the <<tag Arcane>> and <<tag Evocation>> traits, as well as the trait matching the damage type.
+''Draconic Rage (Instinct Ability)'' While raging, you can increase the additional damage from [[Rage]] from 2 to 4 and change its damage type to match that of your dragon’s breath weapon instead of the damage type for your weapon or unarmed attack. If you do this, your Rage action gains the <<tag Arcane>> and <<tag Evocation>> traits, as well as the trait matching the damage type. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
-''Specialization Ability'' When you use draconic rage, you increase the additional damage from Rage from 4 to 8. If you have greater weapon specialization, instead increase the damage from Rage when using draconic rage from 8 to 16.
+''Specialization Ability'' When you use draconic rage, you increase the additional damage from Rage from 4 to 8. If you have greater weapon specialization, instead increase the damage from Rage when using draconic rage from 8 to 16. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
-''Raging Resistance'' You resist piercing damage and the damage type of your dragon’s breath weapon.
+''Raging Resistance'' You resist piercing damage and the damage type of your dragon’s breath weapon. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//

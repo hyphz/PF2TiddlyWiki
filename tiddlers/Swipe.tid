@@ -1,10 +1,10 @@
 a-actions: 2
 a-subactions: Strike
 created: 20200723215422895
-feat-class: Barbarian
+feat-class: Barbarian Fighter
 feat-level: 4
-modified: 20200723215653747
-tags: Barbarian Flourish Class Feat Action
+modified: 20201010135840340
+tags: Barbarian Flourish Class Feat Action Fighter
 title: Swipe
 type: text/vnd.tiddlywiki
 

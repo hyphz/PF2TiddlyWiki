@@ -1,13 +1,13 @@
 created: 20200912140524628
-feat-class: Champion
+feat-class: Champion Fighter
 feat-level: 6
 mod-shield_block: Can shield block for an adjacent ally.
-modified: 20200912140644456
-tags: Feat Class Champion
+modified: 20201010143205714
+tags: Feat Class Champion Fighter
 title: Shield Warden
 type: text/vnd.tiddlywiki
 
-''Prerequisites'' [[Divine Ally]] (shield)
+''Prerequisites'' [[Divine Ally]] (shield) for a [[Champion]] or [[Shield Block]] for a [[Fighter]].
 
 You use your shield to protect your allies as well as yourself.
 

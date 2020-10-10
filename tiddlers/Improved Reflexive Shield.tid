@@ -1,0 +1,13 @@
+created: 20201010155554316
+feat-class: Fighter
+feat-fpre: [[Reflexive Shield]]
+feat-level: 16
+mod-reflexive_shield: Allies also benefit from DR vs Reflex save damage.
+modified: 20201010155659260
+tags: Feat Class Fighter
+title: Improved Reflexive Shield
+type: text/vnd.tiddlywiki
+
+Your shield can help save nearby allies. 
+
+When you use [[Shield Block]] against damage resulting from a [[Reflex]] save, adjacent allies who would take damage due to [[Reflex]] saves against the same effect also benefit from the damage reduction.

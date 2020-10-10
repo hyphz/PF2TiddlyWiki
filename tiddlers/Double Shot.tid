@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201010134210382
+feat-class: Fighter
+feat-level: 4
+modified: 20201010134312530
+tags: Feat Class Fighter Action Flourish
+title: Double Shot
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a ranged weapon with reload 0.
+
+You shoot twice in blindingly fast succession. 
+
+Make two [[Strike]]s, each against a separate target and with a –2 penalty.
+
+Both attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made both of them.

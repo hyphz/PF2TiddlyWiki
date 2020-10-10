@@ -1,0 +1,21 @@
+a-actions: 1
+a-crit: You move through the enemy’s space to an unoccupied space on the other side of the enemy from your starting position. This movement doesn’t trigger reactions. You can’t move farther than your Speed, and you must end your movement adjacent to the enemy whose space you moved through. After moving, you make a melee Strike against the enemy whose space you moved through, and the enemy is flat-footed against that Strike.
+a-defense: Reflex
+a-fail: You remain in your original space but can still Strike.
+a-fumble: No effect.
+a-hit: As critical success, but the enemy isn’t flat-footed against the Strike.
+a-skill: Acrobatics
+created: 20201010173152179
+feat-arch: Acrobat
+feat-level: 8
+modified: 20201010173425209
+modified-by: Acrobatics
+tags: Feat Archetype Action Flourish Move
+title: Tumbling Strike
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are adjacent to an enemy.
+
+Attempt an [[Acrobatics]] check against the [[Reflex]] DC of an enemy adjacent to you.
+
+{{||ActionSuccessTable}}

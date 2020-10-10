@@ -1,0 +1,11 @@
+created: 20201010163917138
+feat-arch: Alchemist
+feat-level: 4
+modified: 20201010164410408
+tags: Feat Archetype
+title: Basic Concoction
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level alchemist feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Alchemist]]">>

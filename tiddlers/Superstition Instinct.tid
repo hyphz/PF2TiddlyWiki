@@ -3,7 +3,7 @@ mod-fortitude: +2 status vs magic.
 mod-rage: Increase damage to 4/8/12 vs spellcasters.
 mod-reflex: +2 status vs magic.
 mod-will: +2 status vs magic.
-modified: 20200806225144579
+modified: 20201010170637433
 tags: Splat Barbarian
 title: Superstition Instinct
 type: text/vnd.tiddlywiki
@@ -14,8 +14,8 @@ A deep distrust of magic drives you to forgo and counter the metaphysical nonsen
 
 If an ally insists on using magic on you despite your unwillingness, and you have no reason to believe they will stop, continuing to travel with that ally of your own free will counts as willingly accepting their spells (as do similar circumstances) and thus is also anathema to your instinct.
 
-''Superstitious Resilience (Instinct Ability)'': While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you Rage, you regain Hit Points equal to the temporary Hit Points you gain from that Rage action.
+''Superstitious Resilience (Instinct Ability)'': While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you Rage, you regain Hit Points equal to the temporary Hit Points you gain from that Rage action. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
-''Specialization Ability'': Increase the damage from Rage from 4 to 8 against creatures that can cast spells. If you have [[Greater Weapon Specialization]], instead increase the damage from Rage to 12 against creatures with spells and 8 against other creatures.
+''Specialization Ability'': Increase the damage from Rage from 4 to 8 against creatures that can cast spells. If you have [[Greater Weapon Specialization]], instead increase the damage from Rage to 12 against creatures with spells and 8 against other creatures. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
-''Raging Resistance'': Choose two associated magical traditions: arcane and occult, arcane and primal, divine and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.
+''Raging Resistance'': Choose two associated magical traditions: arcane and occult, arcane and primal, divine and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//

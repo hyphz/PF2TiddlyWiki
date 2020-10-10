@@ -1,0 +1,16 @@
+a-subactions: Trip
+created: 20201010173505167
+feat-arch: Acrobat
+feat-level: 10
+modified: 20201010173622334
+tags: Feat Archetype Action Attack Free
+title: Tumbling Opportunist
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per minute.
+
+''Requirements'' Your most recent action was to [[Tumble Through]] or [[Tumbling Strike]], and you successfully moved through an enemy’s space.
+
+You use a burst of stamina to perform a breathtaking feat of Acrobatics as you speed through a foe’s space, leaving your foe lying flat on their back. 
+
+You attempt to [[Trip]] the enemy whose space you moved through. You can use [[Acrobatics]] instead of Athletics for this check.

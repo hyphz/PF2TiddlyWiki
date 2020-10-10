@@ -1,0 +1,20 @@
+a-actions: 1
+a-hands: 1
+a-subactions: Strike
+created: 20201010153641540
+feat-class: Fighter
+feat-level: 14
+modified: 20201010153752143
+tags: Feat Class Fighter Action Press
+title: Guiding Finish
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding only a single one-handed melee weapon and have your other hand or hands free.
+
+Using your weapon as a lever, you force your opponent to end up right where you want them. 
+
+Make a [[Strike]] with the required weapon. 
+
+If the Strike hits, you can move the target up to 10 feet into a space in your reach. You can move the target through your space during this movement. 
+
+Your Strike gains the following failure effect: you can force the creature to move as you would on a success, but you can move the target only 5 feet.

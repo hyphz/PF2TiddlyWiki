@@ -1,9 +1,10 @@
+a-actions: 2
+a-subactions: Leap [[High Jump]] [[Long Jump]] Strike
 created: 20200725165203021
-feat-class: Barbarian
+feat-class: Barbarian Fighter
 feat-level: 8
-modified: 20200725170709439
-modified-by: Leap [[High Jump]] [[Long Jump]] Strike
-tags: Barbarian Class Feat Move Attack
+modified: 20201010150006349
+tags: Barbarian Class Feat Action Fighter
 title: Sudden Leap
 type: text/vnd.tiddlywiki
 
@@ -17,3 +18,5 @@ If the distance you fall is no more than the height of your jump, you take no da
 
 When attempting a High Jump or Long Jump during a Sudden Leap, determine the DC using 
 the Long Jump DCs, and increase your maximum distance to double your Speed.
+
+''Special'' If you are a [[Fighter]] and have [[Felling Strike]], you can spend 3 actions to make a Sudden Leap and use Felling Strike instead of a normal Strike.

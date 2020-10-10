@@ -1,0 +1,13 @@
+created: 20201010164909325
+feat-arch: Barbarian
+feat-level: 6
+modified: 20201010170801700
+tags: Feat Archetype
+title: Advanced Fury
+type: text/vnd.tiddlywiki
+
+You gain one barbarian feat. For the purpose of meeting its prerequisites, your barbarian level is equal to half your character level.
+
+You can select this feat more than once. Each time you select it, you gain another barbarian feat.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Feat]tag[Class]tag[Barbarian]]">>

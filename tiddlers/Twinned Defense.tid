@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201010155927814
+feat-class: Fighter
+feat-fpre: [[Twin Parry]]
+feat-level: 16
+modified: 20201010160003526
+tags: Feat Class Fighter Action Stance
+title: Twinned Defense
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding two melee weapons, one in each hand.
+
+You’re always ready to use your off-hand weapon to interfere with attacks against you. 
+
+While you are in this stance, you constantly gain the benefits of the [[Twin Parry]] action.

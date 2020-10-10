@@ -1,0 +1,17 @@
+created: 20201010135109602
+feat-class: Fighter
+feat-fpre: [[Aggressive Block]] [[Brutish Shove]]
+feat-level: 4
+mod-aggressive_block: Can use on creature up to two sizes larger.
+mod-brutish_shove: Can use on creature up to two sizes larger.
+mod-shove: Creature takes Str mod damage if shoved into an object.
+modified: 20201010135321887
+tags: Feat Class Fighter
+title: Powerful Shove
+type: text/vnd.tiddlywiki
+
+You can push larger foes around with your attack. 
+
+You can use [[Aggressive Block]] or [[Brutish Shove]] against a creature up to two sizes larger than you.
+
+When a creature you [[Shove]] has to stop moving because it would hit an object, it takes damage equal to your Strength modifier (minimum 1). This happens regardless of how you Shoved the creature.

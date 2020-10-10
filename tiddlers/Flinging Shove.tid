@@ -1,0 +1,16 @@
+created: 20201010152003272
+feat-class: Fighter
+feat-fpre: [[Aggressive Block]] [[Brutish Shove]]
+feat-level: 12
+mod-aggressive_block: Shove 10' on hit, 20' on crit, or make them flat-footed.
+mod-brutish_shove: Shove 10' on hit, 20' on crit, 5' on fail.
+modified: 20201010152140568
+tags: Feat Class Fighter
+title: Flinging Shove
+type: text/vnd.tiddlywiki
+
+Increase the distance you [[Shove]] your opponent with [[Aggressive Block]] or [[Brutish Shove]] to 10 feet on a success or 20 feet on a critical success. 
+
+When you use [[Aggressive Block]], you can choose whether the target is [[Flat-Footed]] or Shoved.
+
+When you make a [[Brutish Shove]], you also Shove the target 5 feet on a failure.

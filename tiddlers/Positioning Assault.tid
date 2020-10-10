@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201010145503217
+feat-class: Fighter
+feat-level: 8
+modified: 20201010145545440
+tags: Feat Class Fighter Action Flourish
+title: Positioning Assault
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a two-handed melee weapon and your target is within your reach.
+
+With punishing blows, you force your opponent into position. 
+
+Make a [[Strike]] with the required weapon. If you hit, you move the target 5 feet into a space in your reach. 

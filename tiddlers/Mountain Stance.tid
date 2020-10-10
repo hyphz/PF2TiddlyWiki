@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20201010174720721
+feat-class: Monk
+feat-level: 1
+mod-ac: +4 status, but Dexterity cannot be added.
+mod-shove: +2 circumstance to defense.
+mod-speed: All speeds reduced by 5 feet.
+mod-trip: +2 circumstance to defense.
+modified: 20201010174913940
+tags: Feat Class Monk Action Stance
+title: Mountain Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are unarmored and touching the ground. //(The book, presumably incorrectly, describes this as a "trigger".)//
+
+You enter the stance of an implacable mountain—a technique first discovered by dwarven monks—allowing you to strike with the weight of an avalanche. 
+
+The only [[Strike]]s you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the [[Forceful]], [[Nonlethal]], and [[Unarmed]] traits.
+
+While in Mountain Stance, you gain a +4 status bonus to AC and a +2 circumstance bonus to any defenses against being [[Shove]]d or [[Trip]]ped. However, you have a Dexterity modifier cap to your AC of +0, meaning you don’t add your Dexterity to your AC, and your Speeds are all reduced by 5 feet.

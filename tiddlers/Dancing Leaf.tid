@@ -1,0 +1,17 @@
+created: 20201010175445211
+feat-class: Monk
+feat-level: 2
+mod-falling: Distance doesn't count while adjacent to a wall.
+mod-high_jump: Increase distance by 5 feet.
+mod-leap: Increase distance by 5 feet.
+mod-long_jump: Increase distance by 5 feet.
+modified: 20201010175810698
+tags: Feat Class Monk
+title: Dancing Leaf
+type: text/vnd.tiddlywiki
+
+You are as light as a leaf whirling in the breeze. 
+
+When you [[Leap]] or succeed at a [[High Jump]] or [[Long Jump]], increase the distance you jump by 5 feet. 
+
+When calculating the damage you take from [[Falling]], don’t count any distance fallen while you are adjacent to a wall.

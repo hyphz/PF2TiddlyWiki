@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201010150835142
+feat-class: Fighter
+feat-level: 10
+mod-attack_of_opportunity: Trigger on Concentrate actions and disrupt on regular hit.
+modified: 20201010150949759
+tags: Feat Class Fighter Action Stance
+title: Disruptive Stance
+type: text/vnd.tiddlywiki
+
+The slightest distraction can provoke your wrath, and you’re prepared to foil enemies’ actions. 
+
+As long as you are in this stance, you can use [[Attack of Opportunity]] when a creature within your reach uses a <<tag Concentrate>> action, in addition to manipulate and move actions. 
+
+Furthermore, you disrupt a triggering concentrate or manipulate action if your [[Strike]] hits (not only if it’s a critical hit).

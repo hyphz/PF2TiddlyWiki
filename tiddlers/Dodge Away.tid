@@ -1,0 +1,20 @@
+a-subactions: Step Strike
+created: 20201010172617729
+feat-arch: Acrobat
+feat-level: 6
+modified: 20201010172717446
+tags: Feat Archetype Action Reaction
+title: Dodge Away
+type: text/vnd.tiddlywiki
+
+''Trigger'' You are the target of a melee attack.
+
+''Requirements'' You’re aware of the attack and aren’t [[Flat‑Footed]].
+
+You use your acrobatic prowess to evade an attack, using momentum to keep yourself moving, if you choose. 
+
+You gain a +1 circumstance bonus to AC against the triggering attack. 
+
+If the attack misses you, you can [[Step]] after the [[Strike]]. 
+
+If you’re a master in [[Acrobatics]], you can move 10 feet on this Step instead of 5 feet.

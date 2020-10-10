@@ -1,0 +1,16 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201010150344538
+feat-class: Fighter
+feat-level: 10
+modified: 20201010150622329
+tags: Feat Class Fighter Action Flourish
+title: Debilitating Shot
+turn-etn: Slowed effect wears off.
+type: text/vnd.tiddlywiki
+
+Aiming for a weak point, you impede your foe with a precise shot. 
+
+Make a ranged weapon [[Strike]]. 
+
+If it hits and deals damage, the target is [[Slowed]] 1 until the end of its next turn.

@@ -1,0 +1,14 @@
+created: 20201010151109327
+feat-class: Fighter
+feat-fpre: [[Knockdown (Fighter)]]
+feat-level: 10
+modified: 20201010151343599
+tags: Feat Class Fighter
+title: Improved Knockdown (Fighter)
+type: text/vnd.tiddlywiki
+
+You can dash your foe to the ground with a single blow. 
+
+When you use [[Knockdown (Fighter)]], instead of making a [[Strike]] followed by a [[Trip]], you can attempt a single Strike. 
+
+If you do and your Strike hits, you also apply the critical success effect of a Trip. If you used a two-handed melee weapon for the Strike, you can use the weapon’s damage die size instead of the regular die size for the damage from a critical Trip.

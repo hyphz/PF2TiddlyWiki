@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201010152657927
+feat-class: Fighter
+feat-level: 12
+modified: 20201010152730077
+tags: Feat Class Fighter Action Stance
+title: Paragon's Guard
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a shield.
+
+Once you’ve had a moment to set your stance, you always have your shield ready without a thought. 
+
+While you are in this stance, you constantly have your shield raised as if you’d used the [[Raise a Shield]] action, as long as you meet that action’s requirements.

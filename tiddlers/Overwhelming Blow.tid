@@ -1,0 +1,22 @@
+a-actions: 3
+a-subactions: Strike
+created: 20201010162003511
+feat-class: Fighter
+feat-level: 16
+modified: 20201010162132420
+tags: Feat Class Fighter Action
+title: Overwhelming Blow
+turn-sun: Flat-footed condition wears off.
+type: text/vnd.tiddlywiki
+
+You throw your weight into a powerful attack that leaves you vulnerable. 
+
+Make a melee [[Strike]]. 
+
+This counts as three attacks when calculating your multiple attack penalty. 
+
+If this Strike hits, you get a critical hit. 
+
+If you roll a critical hit, your attack also gains the [[Deadly]] d12 trait. 
+
+Whether or not you hit, you become [[Stunned]] 1 and are [[Flat-Footed]] until the start of your next turn.

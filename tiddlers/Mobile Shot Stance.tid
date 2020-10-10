@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201010145237954
+feat-class: Fighter
+feat-level: 8
+mod-attack_of_opportunity: Can use with a loaded ranged weapon.
+modified: 20201010145347854
+tags: Feat Class Fighter Action Stance
+title: Mobile Shot Stance
+type: text/vnd.tiddlywiki
+
+Your shots become nimble and deadly. 
+
+While you’re in this stance, your ranged [[Strike]]s don’t trigger [[Attacks of Opportunity|Attack of Opportunity]] or other reactions that are triggered by a ranged attack.
+
+If you have Attack of Opportunity, you can use it with a loaded ranged weapon you’re wielding. The triggering creature must be within 5 feet of you for you to do so.

@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201010135342587
+feat-class: Fighter
+feat-level: 4
+modified: 20201010135443518
+tags: Feat Class Fighter Action Flourish Press
+title: Quick Reversal
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are [[flanked|Flanking]] by at least two enemies.
+
+You turn your foes’ flanking against them with a quick reverse. 
+
+Make a melee [[Strike]] against one of the flanking enemies and make a second Strike with the same weapon or unarmed attack against a different enemy that is flanking you. 
+
+This second Strike has the same multiple attack penalty of the initial attack and doesn’t count toward your multiple attack penalty.

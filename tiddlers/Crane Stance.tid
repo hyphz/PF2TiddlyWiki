@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20201010174013023
+feat-class: Monk
+feat-level: 1
+mod-high_jump: DC reduced by 5.
+mod-leap: Jump extra 5 foot forward or 2 foot up.
+mod-long_jump: DC reduced by 5.
+modified: 20201010174146608
+tags: Feat Class Monk Action Stance
+title: Crane Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are unarmored.
+
+You enter the stance of a crane, holding your arms in an imitation of a crane’s wings and using flowing, defensive motions. 
+
+You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the brawling group; and have the [[Agile]], [[Finesse]], [[Nonlethal]], and [[Unarmed]] traits.
+
+While in Crane Stance, reduce the DC for [[High Jump]] and [[Long Jump]] by 5, and when you [[Leap]], you can move an additional 5 feet horizontally or 2 feet vertically.

@@ -1,0 +1,23 @@
+created: 20201010165711784
+feat-abpre: Strength Constitution
+feat-abprel: 14 14
+feat-arch: Barbarian
+feat-level: 2
+modified: 20201010170033592
+tags: Feat Dedication Multiclass
+title: Barbarian Dedication
+type: text/vnd.tiddlywiki
+
+You become trained in [[Athletics]]; if you were already trained in Athletics, you instead become trained in a skill of your choice.
+
+You become trained in barbarian class DC.
+
+You can use the [[Rage]] action.
+
+Choose an Instinct as you would if you were a barbarian. You have that instinct for all purposes and become bound by its anathema, but you don’t gain any of the other abilities it grants.
+
+!! Instincts
+
+<$list filter="[tag[Barbarian]tag[Splat]]" />
+
+<<levelfeatlist "4 6 12" "[tag[Archetype]field:feat-arch[Barbarian]]">>

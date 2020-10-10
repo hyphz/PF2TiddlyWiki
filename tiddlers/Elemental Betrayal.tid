@@ -13,7 +13,7 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200812225040215
+modified: 20201010154609110
 modtag-air: Target takes additional damage.
 modtag-earth: Target takes additional damage.
 modtag-fire: Target takes additional damage.
@@ -22,7 +22,7 @@ s-crit:
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation Hex Witch
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation Hex Witch Somatic Manipulate
 title: Elemental Betrayal
 type: text/vnd.tiddlywiki
 

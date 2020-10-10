@@ -1,0 +1,14 @@
+created: 20201010151012248
+feat-class: Fighter
+feat-level: 10
+mod-strike: Add double or triple Frightened value to damage.
+modified: 20201010151101245
+tags: Feat Class Fighter
+title: Fearsome Brute
+type: text/vnd.tiddlywiki
+
+Fear makes your foes weak and more vulnerable to your attacks. 
+
+You gain a circumstance bonus to damage rolls for [[Strike]]s against frightened creatures. The bonus is equal to double the target’s [[Frightened]] value.
+
+If you have master proficiency in [[Intimidation]], increase the bonus to triple the target’s frightened value.

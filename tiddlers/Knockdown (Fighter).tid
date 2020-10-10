@@ -1,0 +1,21 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201010134708383
+feat-class: Fighter
+feat-level: 4
+feat-skill: Athletics
+feat-spre: T
+modified: 20201010134946552
+tags: Feat Class Fighter Action Flourish
+title: Knockdown (Fighter)
+type: text/vnd.tiddlywiki
+
+You make an attack to knock a foe off balance, then follow up immediately with a sweep to topple them. 
+
+Make a melee [[Strike]]. 
+
+If it hits and deals damage, you can attempt an [[Athletics]] check to [[Trip]] the creature you hit. 
+
+If you’re wielding a two-handed melee weapon, you can ignore Trip’s requirement that you have a hand free. 
+
+Both attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made both of them.

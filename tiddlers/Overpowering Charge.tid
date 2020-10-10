@@ -1,10 +1,10 @@
 created: 20200905210959911
-feat-class: Barbarian
+feat-class: Barbarian Fighter
 feat-fpre: [[Barreling Charge]]
 feat-level: 10
 mod-barreling_charge: Creatures you move through take damage.
-modified: 20200905211120045
-tags: Barbarian Class Feat
+modified: 20201010161927070
+tags: Barbarian Class Feat Fighter
 title: Overpowering Charge
 turn-eun: Flat-Footed state from criticals ends.
 type: text/vnd.tiddlywiki

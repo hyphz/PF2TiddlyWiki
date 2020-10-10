@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201010135855641
+feat-class: Fighter
+feat-level: 4
+modified: 20201010135935728
+tags: Feat Class Fighter Action
+title: Twin Parry
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding two melee weapons, one in each hand.
+
+You use your two weapons to parry attacks. 
+
+You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the [[Parry]] trait. 
+
+You lose this circumstance bonus if you no longer meet this feat’s requirement.

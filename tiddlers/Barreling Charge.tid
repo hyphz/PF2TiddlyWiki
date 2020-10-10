@@ -1,14 +1,15 @@
 a-actions: 2
 a-defense: Fortitude
 a-skill: Athletics
-a-subactions: Stride [[Force Open]]
+a-subactions: Stride Strike
 created: 20200905203449514
-feat-class: Barbarian
+feat-class: Barbarian Fighter
 feat-level: 4
 feat-skill: Athletics
 feat-spre: T
-modified: 20200905203542561
-tags: Barbarian Class Feat Flourish Action
+modified: 20201010160940250
+modified-by: Athletics
+tags: Barbarian Class Feat Flourish Action Fighter
 title: Barreling Charge
 type: text/vnd.tiddlywiki
 

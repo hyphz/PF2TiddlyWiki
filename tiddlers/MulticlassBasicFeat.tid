@@ -1,0 +1,11 @@
+created: 20201010171148325
+feat-arch: Barbarian
+feat-level: 4
+modified: 20201010171433517
+tags: Feat Archetype
+title: MulticlassBasicFeat
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level <$transclude field="feat-arch"/> feat.
+
+<$macrocall name="levelfeatlist" levels="1 2" filter="[tag[Class]tag<<<feat-arch>>>]" />

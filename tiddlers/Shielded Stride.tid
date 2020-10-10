@@ -1,0 +1,14 @@
+created: 20201010135520751
+feat-class: Fighter
+feat-level: 4
+mod-stride: With shield up, move half speed without reactions.
+modified: 20201010135727205
+tags: Feat Class Fighter
+title: Shielded Stride
+type: text/vnd.tiddlywiki
+
+When your shield is up, your enemies’ blows can’t touch you. 
+
+When you have your shield raised, you can [[Stride]] to move half your Speed without triggering reactions that are triggered by your movement (such as [[Attacks of Opportunity|Attack of Opportunity]]). 
+
+You can use Shielded Stride while Flying or Swimming instead of Striding if you have the corresponding movement type.

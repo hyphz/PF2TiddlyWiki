@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201010181716094
+feat-class: Monk
+feat-fpre: [[Mountain Stance]]
+feat-level: 6
+mod-mountain_stance: Dexterity modifier to AC capped at +1.
+modified: 20201010181902156
+tags: Feat Class Monk Action
+title: Mountain Stronghold
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Mountain Stance]].
+
+You focus on your connection to the earth and call upon the mountain to block attacks against you. 
+
+You gain a +2 circumstance bonus to [[AC]] until the beginning of your next turn.
+
+''Special'' If you have this feat, the Dexterity modifier cap to your AC while you’re in [[Mountain Stance]] increases from +0 to +1.

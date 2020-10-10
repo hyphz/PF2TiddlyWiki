@@ -1,0 +1,13 @@
+created: 20201010170649645
+feat-arch: Barbarian
+feat-level: 4
+modified: 20201010170718817
+tags: Feat Archetype
+title: Barbarian Resiliency
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Class granting no more Hit Points per level than 10 + your Constitution modifier.
+
+You gain 3 additional Hit Points for each barbarian archetype class feat you have. 
+
+As you continue selecting barbarian archetype class feats, you continue to gain additional Hit Points in this way.

@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20200912160932073
+modified: 20201010163635433
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -40,6 +40,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Debilitation]]">
 <tr><th>[[Debilitation]]</th><td>Only one debilitation can apply to an enemy at a time.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Dedication]]">
+<tr><th>[[Dedication]]</th><td>Must take two feats from the archetype before taking another dedication.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Divine]]">
 <tr><th>[[Divine]]</th><td>This spell can be identified using [[Religion]].</td></tr>
@@ -100,6 +103,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Misfortune]]">
 <tr><th>[[Misfortune]]</th><td>Doesn't stack with other Misfortune effects, and cancels with [[Fortune]].</td></tr>
+</$list>
+<$list filter="[all[current]tag[Multiclass]]">
+<tr><th>[[Multiclass]]</th><td>Can't take this if you are already a member of the class.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Oath]]">
 <tr><th>[[Oath]]</th><td>You may only take one Oath feat.</td></tr>

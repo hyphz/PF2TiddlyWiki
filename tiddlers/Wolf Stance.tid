@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201010175110188
+feat-class: Monk
+feat-level: 1
+modified: 20201010175212689
+tags: Feat Class Monk Action Stance
+title: Wolf Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are unarmored.
+
+You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. 
+
+You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the [[Agile]], [[Backstabber]], [[Finesse]], [[Nonlethal]], and [[Unarmed]] traits.
+
+If you’re [[Flanking]] a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the [[Trip]] trait.

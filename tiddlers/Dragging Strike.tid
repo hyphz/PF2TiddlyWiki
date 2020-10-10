@@ -1,0 +1,22 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201010160541998
+feat-class: Fighter
+feat-level: 2
+modified: 20201010160646737
+tags: Feat Class Fighter Action Press
+title: Dragging Strike
+turn-euc: Flat-footed condition ends.
+type: text/vnd.tiddlywiki
+
+You aim your weapon to snag a foe’s armor, clothing, or flesh to pull them closer. 
+
+Make a melee [[Strike]]. 
+
+If you hit a target that is your size or smaller, that creature is [[Flat-Footed]] until the end of your current turn, and you can move it 5 feet toward you. 
+
+When you move the creature, you can move the same distance in the same direction as it, even if you’re adjacent to the target. 
+
+This movement doesn’t trigger reactions.
+
+This Strike has the following failure effect: the target becomes [[Flat-Footed]] until the end of your current turn.

@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201010174216671
+feat-class: Monk
+feat-level: 1
+mod-stride: Ignore 1 square of difficult terrain.
+modified: 20201010174310448
+tags: Feat Class Monk Action Stance
+title: Dragon Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are unarmored.
+
+You enter the stance of a dragon and make powerful leg strikes like a lashing dragon’s tail. 
+
+You can make dragon tail attacks that deal 1d10 bludgeoning damage. They are in the brawling group and have the [[Backswing]], [[Nonlethal]], and [[Unarmed]] traits.
+
+While in Dragon Stance, you can ignore the first square of [[Difficult Terrain]] while [[Striding|Stride]].

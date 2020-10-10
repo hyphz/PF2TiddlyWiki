@@ -1,0 +1,16 @@
+a-hands: 1
+created: 20201010180241000
+feat-class: Monk
+feat-level: 4
+modified: 20201010180341500
+tags: Feat Class Monk Action Reaction
+title: Deflect Arrow
+type: text/vnd.tiddlywiki
+
+''Trigger'' You are the target of a physical ranged attack.
+
+''Requirements'' You’re aware of the attack, are not [[Flat-Footed]] against it, and have a hand free.
+
+You gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, you have deflected it. 
+
+You cannot use this feat to deflect unusually massive ranged projectiles (such as boulders or ballista bolts).

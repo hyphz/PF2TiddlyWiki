@@ -1,13 +1,13 @@
 created: 20201003170109345
-feat-class: Investigator
+feat-class: Fighter Investigator
 feat-level: 8
 feat-skill: Perception
 feat-spre: M
 mod-concealed: Can target creatures without check.
 mod-hidden: Not flat-footed by creature being hidden; flat check DC 5.
 mod-undetected: Make creature Hidden if adjacent and equal or lower level.
-modified: 20201003170317324
-tags: Investigator Feat Class
+modified: 20201010143449047
+tags: Investigator Feat Class Fighter
 title: Blind-Fight
 type: text/vnd.tiddlywiki
 

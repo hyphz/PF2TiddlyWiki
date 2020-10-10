@@ -1,0 +1,14 @@
+created: 20201010175357368
+feat-class: Monk
+feat-level: 2
+mod-grapple: Deal bludgeoning equal to Strength mod on success.
+modified: 20201010175437609
+tags: Feat Class Monk
+title: Crushing Grab
+type: text/vnd.tiddlywiki
+
+Like a powerful constrictor, you crush targets in your unyielding grasp. 
+
+When you successfully [[Grapple]] a creature, you can deal bludgeoning damage to that creature equal to your [[Strength]] modifier. 
+
+You can make this attack nonlethal with no penalty.

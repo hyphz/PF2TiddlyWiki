@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201010150152480
+feat-class: Fighter
+feat-level: 10
+modified: 20201010150237047
+tags: Feat Class Fighter Action Press
+title: Certain Strike
+type: text/vnd.tiddlywiki
+
+Even when you don’t hit squarely, you can still score a glancing blow. 
+
+Make a melee [[Strike]]. 
+
+It gains the following failure effect: Your attack deals any damage it would have dealt on a hit, excluding all damage dice. (This removes damage dice from weapon runes, spells, and special abilities, in addition to weapon damage dice.)

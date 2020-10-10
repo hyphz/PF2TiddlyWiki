@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20201010151655269
+feat-class: Fighter
+feat-level: 12
+modified: 20201010151750953
+tags: Feat Class Fighter Action Press
+title: Brutal Finish
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a melee weapon in two hands.
+
+Your final blow can make an impact even if it rebounds off a foe’s defenses. 
+
+Make a [[Strike]] with the required weapon. 
+
+After the Strike, your turn ends. 
+
+The Strike deals one extra weapon damage die, or two extra weapon damage dice if you’re at least 18th level. 
+
+The Strike also gains the following failure effect: You deal damage equal to one weapon damage die of the required weapon. Increase this to two dice if you’re at least 18th level.

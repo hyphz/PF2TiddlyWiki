@@ -1,8 +1,8 @@
 a-actions: 1
 created: 20200627195820330
-modified: 20200627195927338
+modified: 20201010135010684
 tags: Action
-title: Knockdown
+title: Knockdown (Monster)
 type: text/vnd.tiddlywiki
 
 ''Requirements'' The monster’s last action was a success with a [[Strike]] that lists Knockdown in its damage entry.

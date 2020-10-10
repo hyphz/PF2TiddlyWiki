@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201010143716663
+feat-class: Fighter
+feat-level: 8
+modified: 20201010143813199
+tags: Feat Class Fighter Action
+title: Felling Strike
+type: text/vnd.tiddlywiki
+
+Your attack can ground an airborne foe. 
+
+Make a [[Strike]]. 
+
+If it hits and deals damage to a flying target, the target falls up to 120 feet. The fall is gradual enough that if it causes the target to hit the ground, the target takes no damage from the fall. 
+
+If the attack is a critical hit, the target can’t [[Fly]], [[Leap]], [[Levitate]], or otherwise leave the ground until the end of your next turn.

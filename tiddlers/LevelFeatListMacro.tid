@@ -1,0 +1,64 @@
+created: 20201010163716211
+modified: 20201010164331945
+tags: $:/tags/Macro
+title: LevelFeatListMacro
+type: text/vnd.tiddlywiki
+
+\define levelfeatlist(levels:"", filter:"")
+<table>
+<tr><th>Level</th><th>Feats</th></tr>
+<$list filter=<<__levels__>> variable="level">
+<tr><th><<level>></th>
+<td>
+<$list filter=<<__filter__>> >
+<$list filter="[all[current]field:feat-level<level>sort[]]">
+<$list filter="[all[current]field:a-actions[1]]">
+{{OneAction}}
+</$list>
+<$list filter="[all[current]field:a-actions[2]]">
+{{TwoAction}}
+</$list>
+<$list filter="[all[current]field:a-actions[3]]">
+{{ThreeAction}}
+</$list>
+<$list filter="[all[current]tag[Reaction]]">
+{{ReactionIcon}}
+</$list>
+<$list filter="[all[current]tag[Free]]">
+{{FreeAction}}
+</$list>
+<$list filter="[all[current]tag[Focus Spell]]">
+{{SpellIcon}}
+</$list>
+<$link />
+<$list filter="[all[current]tag[Focus Spell]!tag[Cantrip]]">
+(Focus Spell)
+</$list>
+<$list filter="[all[current]tag[Focus Spell]tag[Cantrip]]">
+(Focus Cantrip)
+</$list>
+<$list filter="[all[current]tag[Uncommon]]">
+(Uncommon)
+</$list>
+<$list filter="[all[current]tag[Rare]]">
+(Rare)
+</$list>
+<$list filter="[all[current]has[feat-fpre]]">
+(Requires 
+<$list filter="[all[current]list[!!feat-fpre]]">
+<$link/></$list>)</$list>
+<$list filter="[all[current]has[feat-sppre]]">
+(Requires 
+<$list filter="[all[current]list[!!feat-sppre]]">
+<$link/></$list>)</$list>
+<$list filter="[all[current]has[feat-skill]]">
+(Requires
+<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
+<$link to={{!!feat-skill}} />)</$list>
+<br />
+</$list>
+</$list>
+</td></tr>
+</$list>
+</table>
+\end

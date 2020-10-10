@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806203711448
+feat-class: Monk
+feat-level: 6
 m-area: 15 foot [[Cone]] or more
 m-components: Somatic Verbal
 m-duration: 
@@ -12,12 +14,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200806203851335
+modified: 20201010181652867
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Force Monk
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Force Monk Feat Class
 title: Ki Blast
 type: text/vnd.tiddlywiki
 

@@ -3,8 +3,10 @@ a-class: Alchemist
 a-hands: 1
 a-tool: Alchemist's Tools
 created: 20200723185140278
-modified: 20200723185457883
-tags: Action Alchemist Manipulate
+feat-arch: Alchemist
+feat-level: 4
+modified: 20201010164808334
+tags: Action Alchemist Manipulate Feat Archetype
 title: Quick Alchemy
 turn-sun: Created items lose their potency.
 type: text/vnd.tiddlywiki

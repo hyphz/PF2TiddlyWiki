@@ -1,6 +1,6 @@
 created: 20200806220129735
 mod-rage: With specialization, increase damage to 6/12.
-modified: 20200806220241235
+modified: 20201010170506211
 tags: Barbarian Splat
 title: Fury Instinct
 type: text/vnd.tiddlywiki
@@ -9,9 +9,9 @@ Your rage comes from a deep and purely personal well within you.
 
 You use your rage as you choose.
 
-You don’t have an anathema or an instinct ability. Instead, you gain an additional 1st-level barbarian feat.
+You don’t have an anathema or an instinct ability. Instead, you gain an additional 1st-level barbarian feat. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
-''Specialization Ability'': Increase the additional damage from Rage from 2 to 6. If you have [[Greater Weapon Specialization]], instead increase the additional damage from Rage to 12.
+''Specialization Ability'': Increase the additional damage from Rage from 2 to 6. If you have [[Greater Weapon Specialization]], instead increase the additional damage from Rage to 12. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
 ''Raging Resistance'': You resist physical weapon damage, but not physical
-damage from other sources (such as unarmed attacks).
+damage from other sources (such as unarmed attacks). //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//

@@ -1,0 +1,23 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201010161113424
+feat-class: Fighter
+feat-level: 6
+modified: 20201010161304997
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Stunned]] 2.
+s-fumble: The creature is [[Stunned]] 3.
+s-hit: The creature is [[Stunned]] 1.
+tags: Feat Class Fighter Action Press Incapacitation
+title: Dazing Blow
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have a creature [[Grabbed]].
+
+You pummel a held foe, hoping to stagger them. 
+
+Make a melee [[Strike]] against a creature you have grabbed. The weapon damage from this Strike is bludgeoning damage. 
+
+If the Strike hits, the creature must attempt a [[Fortitude]] save against your class DC; this is an <<tag Incapacitation>> effect.
+
+{{||SaveSuccessTable}}
