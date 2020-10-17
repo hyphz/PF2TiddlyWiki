@@ -1,0 +1,13 @@
+created: 20201017143648150
+feat-class: Monk
+feat-level: 14
+modified: 20201017143737838
+modtag-disease: +2 status to saves.
+modtag-poison: +2 status to saves and resist damage equal to half level.
+tags: Feat Class Monk
+title: Timeless Body
+type: text/vnd.tiddlywiki
+
+You cease aging. 
+
+In addition, you gain a +2 status bonus to saving throws against poisons and diseases, and you gain resistance to poison damage equal to half your level.

@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20201010145237954
+feat-archadd: Archer
+feat-archlevel: 10
 feat-class: Fighter
 feat-level: 8
 mod-attack_of_opportunity: Can use with a loaded ranged weapon.
-modified: 20201010145347854
+modified: 20201017165602912
 tags: Feat Class Fighter Action Stance
 title: Mobile Shot Stance
 type: text/vnd.tiddlywiki

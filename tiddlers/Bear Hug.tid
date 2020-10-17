@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20201017181651847
+modified: 20201017181733519
+tags: Action
+title: Bear Hug
+type: text/vnd.tiddlywiki
+
+''Requirements'' The bear’s last action was a successful claw Strike.
+
+The bear makes another claw [[Strike]] against the same target.
+
+If this Strike hits, the target is also [[Grabbed]], as if the bear had successfully [[Grapple]]d the target.

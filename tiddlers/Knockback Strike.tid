@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201017141440968
+feat-class: Monk
+feat-level: 10
+modified: 20201017151450310
+tags: Feat Class Monk Action Concentrate MonkUnarmedModifier
+title: Knockback Strike
+type: text/vnd.tiddlywiki
+
+You focus your strength into a blow powerful enough to push an enemy away from you. 
+
+Make an unarmed [[Strike]]. 
+
+If you hit, attempt an [[Athletics]] check to [[Shove]] the target. This attack uses the same [[Multiple Attack Penalty]] as your Strike, and doesn’t count toward your multiple attack penalty.

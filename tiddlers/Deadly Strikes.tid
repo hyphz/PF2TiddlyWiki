@@ -1,0 +1,11 @@
+created: 20201017160434541
+feat-class: Monk
+feat-level: 20
+modified: 20201017160555402
+tags: Feat Class Monk MonkUnarmedModifier
+title: Deadly Strikes
+type: text/vnd.tiddlywiki
+
+You have honed your body to attack with lethal focus. 
+
+Your unarmed attacks gain the [[Deadly]] d10 trait, or you increase their [[Deadly]] trait to d10 if the unarmed attack is already deadly with a smaller die size.

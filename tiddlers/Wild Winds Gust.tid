@@ -1,0 +1,18 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201017143852629
+feat-class: Monk
+feat-fpre: [[Wild Winds Stance]]
+feat-level: 14
+modified: 20201017144013431
+tags: Feat Class Monk Action Concentrate Evocation Manipulate
+title: Wild Winds Gust
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Wild Winds Stance]].
+
+You store up energy and release it in an enormous gust of rushing wind. 
+
+Make a wind crash [[Strike]] against each creature in your choice of a 30-foot [[Cone]] or a 60 foot [[Line]].
+
+These attacks all count toward your [[Multiple Attack Penalty]], but the penalty doesn’t increase until after you make all the attacks.

@@ -1,0 +1,22 @@
+a-actions: 1
+created: 20201017152603111
+feat-class: Monk
+feat-fpre: [[Gorilla Stance]]
+feat-level: 6
+feat-skill: Intimidation
+feat-spre: E
+mod-gorilla_stance: Gain climb speed 15 feet.
+modified: 20201017152739110
+tags: Feat Class Monk Action Emotion Mental Flourish
+title: Gorilla Pound
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Gorilla Stance]].
+
+You pound your chest before slamming into your foes.
+
+Attempt an [[Intimidation]] check to [[Demoralize]], then make one gorilla slam [[Strike]] against the same target.
+
+If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target’s frightened condition.
+
+''Special'' If you have this feat, while you are in Gorilla Stance, you gain a climb Speed of 15 feet.

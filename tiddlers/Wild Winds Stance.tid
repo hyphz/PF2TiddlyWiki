@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806205814928
+feat-class: Monk
+feat-level: 8
 m-area: 
 m-components: Somatic
 m-duration: Until you leave the stance
@@ -13,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-ac: +2 circumstance vs ranged.
-modified: 20200806205946042
+modified: 20201017141410057
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Air Evocation Monk Stance
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Air Evocation Monk Stance Class Feat
 title: Wild Winds Stance
 type: text/vnd.tiddlywiki
 
@@ -27,5 +29,7 @@ type: text/vnd.tiddlywiki
 You take on the stance of the flowing winds, sending out waves of energy at a distance. 
 
 You can make "wind crash" unarmed [[Strike]]s as ranged Strikes against targets within 30 feet. These deal 1d6 bludgeoning damage, use the brawling group, and have the [[Agile]], [[Nonlethal]], [[Propulsive]], and [[Unarmed]] traits. Wind crash Strikes ignore concealment and all cover.
+
+While entering the stance is a ki spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.
 
 While in wild winds stance, you gain a +2 circumstance bonus to AC against ranged attacks.

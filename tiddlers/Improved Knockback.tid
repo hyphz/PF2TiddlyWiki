@@ -1,0 +1,14 @@
+created: 20201017142509241
+feat-class: Monk
+feat-level: 12
+feat-skill: Athletics
+feat-spre: M
+mod-shove: Increase distance by 5/10 feet, and add extra damage.
+modified: 20201017142629469
+tags: Feat Class Monk
+title: Improved Knockback
+type: text/vnd.tiddlywiki
+
+When you successfully [[Shove]] a creature, increase both the distance you can push the creature and the distance you can move to follow along with the target by 5 feet on a success or 10 feet on a critical success. 
+
+If you push the target into an obstacle, it takes bludgeoning damage equal to 6 plus your [[Strength]] modifier, or 8 plus your Strength modifier if you have legendary proficiency in [[Athletics]].

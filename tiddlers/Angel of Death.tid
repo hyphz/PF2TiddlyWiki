@@ -1,0 +1,13 @@
+created: 20201017171154389
+feat-arch: Assassin
+feat-level: 10
+mod-mark_for_death: Attacks have the Death tag.
+modified: 20201017171246285
+tags: Feat Archetype
+title: Angel of Death
+type: text/vnd.tiddlywiki
+virtual-tags: Death
+
+All your Strikes against a creature you have [[Marked for Death|Mark for Death]] have the <<tag Death>> trait, causing the mark to be instantly killed when reduced to 0 Hit Points. 
+
+When killed in this way, attempts to communicate with it, return it to life, turn it into an undead, or otherwise disturb its afterlife fail unless the effect’s [[Counteract]] level is higher than half your level when you killed the creature (rounded up), or originates from an artifact or a deity.

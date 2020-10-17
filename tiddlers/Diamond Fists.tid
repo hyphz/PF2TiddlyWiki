@@ -1,0 +1,13 @@
+created: 20201017144936333
+feat-class: Monk
+feat-level: 18
+modified: 20201017151707720
+tags: Feat Class Monk MonkUnarmedModifier
+title: Diamond Fists
+type: text/vnd.tiddlywiki
+
+Your body hardens as you combine your attacks, making your finishing blows more damaging. 
+
+Your unarmed attacks gain the [[Forceful]] trait. 
+
+Any that already had this trait instead increase their weapon damage dice by one step.

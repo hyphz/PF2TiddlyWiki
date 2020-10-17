@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201017181534707
+modified: 20201017181633355
+tags: Action Concentrate Emotion Mental
+title: Badger Rage
+type: text/vnd.tiddlywiki
+
+The badger enters a state of pure rage that lasts for 1 minute, until there are no enemies it can perceive, or until it falls [[Unconscious]], whichever comes first. 
+
+It can’t voluntarily stop raging. 
+
+While raging, the badger is affected in the following ways.
+
+* It deals 4 additional damage with its bite attacks and 2 additional damage with its claw attacks.
+* It takes a –1 penalty to AC.
+* It can’t use actions that have the <<tag Concentrate>> trait unless they also have the <<tag Rage>> trait. The animal companion can [[Seek]] even while raging.
+
+After it has stopped raging, it can’t use Badger Rage again for 1 minute. 

@@ -1,0 +1,16 @@
+created: 20201017150523224
+feat-class: Monk
+feat-fpre: [[Monastic Weaponry]]
+feat-level: 2
+modified: 20201017150640034
+tags: Feat Class Monk
+title: Ancestral Weaponry
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' A feat granting access to all weapons with an ancestry trait (such as elf or orc)
+
+You blend monastic techniques with the ancestral fighting styles of your people. 
+
+Choose an ancestry for which you have access to all weapons with that trait. 
+
+For you, melee weapons with that ancestry trait and either the [[Agile]] or [[Finesse]] trait gain the <<tag Monk>> trait.

@@ -1,0 +1,24 @@
+created: 20201017180939039
+modified: 20201017181309568
+modtag-reaction: Threatened lower level creatures can't react to snake's master.
+tags: [[Animal Companion]]
+title: Snake (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Small
+
+''Melee'' {{OneAction}} jaws [[Finesse]], damage 1d8 piercing
+
+''Str'' +3, ''Dex'' +3, ''Con'' +1, ''Int'' –4, ''Wis'' +1, ''Cha'' +0
+
+''Hit Points'' 6
+
+''Skill'' [[Stealth]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (Imprecise, 30 feet)
+
+''Speed'' 20 feet, climb 20 feet, swim 20 feet
+
+''Support Benefit'' Your snake holds your enemies with its coils, interfering with reactions. Until the start of your next turn, any creature your snake threatens can’t use reactions triggered by your actions unless its level is higher than yours.
+
+''Advanced Maneuver'' [[Constrict (Snake)]]

@@ -1,0 +1,10 @@
+a-actions: 1
+created: 20201017182245535
+modified: 20201017182257261
+tags: Action
+title: Knockdown (Wolf)
+type: text/vnd.tiddlywiki
+
+''Requirements'' The animal companion’s last action was a successful jaws [[Strike]].
+
+The wolf automatically knocks the target of its jaws Strike [[Prone]].

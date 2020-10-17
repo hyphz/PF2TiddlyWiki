@@ -1,9 +1,11 @@
 created: 20201010140956407
+feat-archadd: Bastion
+feat-archlevel: 8
 feat-class: Fighter
 feat-level: 6
 mod-raise_a_shield: Gain shield's bonus to Reflex save.
 mod-shield_block: Can shield block in response to damage with Reflex save.
-modified: 20201010141156407
+modified: 20201017172130910
 tags: Feat Class Fighter
 title: Reflexive Shield
 type: text/vnd.tiddlywiki

@@ -1,0 +1,45 @@
+created: 20201017173516669
+mod-command_an_animal: Gives companion 2 actions.
+modified: 20201017180725703
+tags: Rule
+title: Animal Companions
+type: text/vnd.tiddlywiki
+
+An animal companion is a loyal comrade who follows your orders without you needing to use [[Handle an Animal]] on it. 
+
+Your animal companion has the <<tag Minion>> trait, and it gains 2 actions during your turn if you use the [[Command an Animal]] action to command it; this is in place of the usual effects of Command an Animal. 
+
+If your companion dies, you can spend a week of downtime to replace it at no cost. 
+
+You can have only one animal companion at a time.
+
+You or an ally can ride your animal companion as long as it is at least one size larger than the rider. If it is carrying a rider, the animal companion can use only its land Speed, and it can’t move and Support you on the same turn. However, if your companion has the [[Mount]] special ability, it’s especially suited for riding and ignores both of these restrictions.
+
+Animal companions calculate their modifiers and DCs just as you do with one difference: the only item bonuses they can benefit from are to speed and AC (their maximum item bonus to AC is +2).
+
+Your animal companion uses your level to determine its proficiency bonuses. It’s trained in its unarmed attacks, unarmored defense, barding, all saving throws, [[Perception]], [[Acrobatics]], and [[Athletics]]. 
+
+Animal companions can’t use abilities that require greater Intelligence, such as [[Coerce]] or [[Decipher Writing]], even if trained in the appropriate skill, unless they have a specialization that allows it.
+
+Your animal companion has ancestry Hit Points from its type, plus a number of Hit Points equal to 6 plus its Constitution modifier for each level you have.
+
+| !Trait | !Young | !Mature | !Nimble | !Savage | !Specialized |
+| !Strength | As Listed | +1 | +3 | +3 | +3 |
+| !Dexterity | As Listed | +1 | +2 | +2 | +3 |
+| !Constitution | As Listed | +1 | +2 | +2 | +2 |
+| !Intelligence | As Listed | As Listed | As Listed | As Listed | +2 |
+| !Wisdom | As Listed | +1 | +2 | +2 | +2 |
+| !Unarmed Proficiency | Trained | Trained | Trained | Trained | Expert |
+| !Unarmed Damage Dice | 1 | 2 | 2 | 2 | 3 |
+| !Unarmed Extra Damage | 0 | 0 | +2 | +3 | 4/6 |
+| !Unarmed Traits | As Listed | As Listed | Add Magical | Add Magical | Add Magical |
+| !Perception/Saves | Trained | Expert | Expert | Expert | Master |
+| !Acrobatics | Trained | Trained | Expert | Trained | As last |
+| !Athletics | Trained | Trained | Trained | Expert | As last |
+| !Intimidation | As Listed | Trained/Expert | Trained/Expert | Trained/Expert | Trained/Expert |
+| !Stealth | As Listed | Trained/Expert | Trained/Expert | Trained/Expert | Trained/Expert |
+| !Survival | As Listed | Trained/Expert | Trained/Expert | Trained/Expert | Trained/Expert |
+| !Size | As Listed | +1 max Large | +1 max Large | +1 max Large | +1 max Large |
+| !Advanced Maneuver | No | No | Yes | Yes | Yes |
+
+

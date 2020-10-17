@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201017154357479
+feat-class: Monk
+feat-fpre: [[Monastic Archer Stance]]
+feat-level: 12
+modified: 20201017154456790
+tags: Feat Class Monk Action Concentrate
+title: Focused Shot
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Monastic Archer Stance]].
+
+You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy. 
+
+Make a ranged weapon [[Strike]] against a target within your weapon’s first range increment. This Strike ignores the target’s [[Concealed]] condition and all [[Cover]].

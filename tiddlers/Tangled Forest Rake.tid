@@ -1,0 +1,18 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201017143448486
+feat-class: Monk
+feat-fpre: [[Tangled Forest Stance]]
+feat-level: 14
+modified: 20201017143553911
+tags: Feat Class Monk Action
+title: Tangled Forest Rake
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Tangled Forest Stance]].
+
+You reposition foes with raking attacks. 
+
+Make a lashing branch [[Strike]]. 
+
+If you hit and deal damage, you force the target to move 5 feet into a space within your reach. 

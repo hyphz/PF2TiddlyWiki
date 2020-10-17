@@ -1,0 +1,26 @@
+created: 20201017175946644
+mod-flanking: Can be in any square in 10 feet for flanking.
+modified: 20201017180103278
+tags: [[Animal Companion]]
+title: Dromaeosaur (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Small
+
+''Melee'' {{OneAction}} jaws [[Finesse]], damage 1d8 piercing
+
+''Melee'' {{OneAction}} talon ([[Agile]], [[Finesse]]), Damage 1d6 slashing
+
+''Str'' +2, ''Dex'' +3, ''Con'' +2, ''Int'' –4, ''Wis'' +1, ''Cha'' +0
+
+''Hit Points'' 6
+
+''Skill'' [[Stealth]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (Imprecise, 30 feet)
+
+''Speed'' 50 feet
+
+''Support Benefit'' Your raptor constantly darts into flanking position. Until the start of your next turn, it counts as being in its space or an empty space of your choice within 10 feet when determining whether you and your companion are [[Flanking]]; you can choose a different space for each of your attacks).
+
+''Advanced Maneuver'' [[Darting Attack]]

@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201017150831102
+feat-class: Monk
+feat-level: 4
+mod-fortitude: +1 circumstance.
+modified: 20201017150924289
+tags: Feat Class Monk Action Stance
+title: Cobra Stance
+type: text/vnd.tiddlywiki
+
+You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs. 
+
+While in this stance, the only Strikes you can make are cobra fang unarmed attacks. These deal 1d4 poison damage; are in the brawling group; and have the [[Agile]], [[Deadly]] d10, [[Finesse]], [[Nonlethal]], [[Poison]], and [[Unarmed]] traits.
+
+While in Cobra Stance, you gain a +1 circumstance bonus to [[Fortitude]] saves and your Fortitude DC, and you gain poison resistance equal to half your level.

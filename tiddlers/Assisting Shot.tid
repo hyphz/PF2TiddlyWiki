@@ -1,9 +1,11 @@
 a-actions: 1
 a-subactions: Aid
 created: 20201003175306133
+feat-archadd: Archer
+feat-archlevel: 4
 feat-class: Fighter
 feat-level: 2
-modified: 20201003175425744
+modified: 20201017165231900
 tags: Feat Class Fighter Action
 title: Assisting Shot
 type: text/vnd.tiddlywiki

@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201017154556063
+feat-class: Monk
+feat-level: 14
+modified: 20201017154700280
+tags: Feat Class Monk Action Attack
+title: Form Lock
+type: text/vnd.tiddlywiki
+
+Requirements You have a foe [[Grabbed]] or [[Restrained]].
+
+Your ability to control your own ki empowers you to pressure other creatures into resuming their true forms. 
+
+Attempt an [[Athletics]] check to [[Counteract]] a <<tag Polymorph>> effect currently affecting your target. 
+
+If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract, or the GM chooses randomly if the separate effects aren’t obvious. 
+
+The target is then temporarily immune for 1 day.

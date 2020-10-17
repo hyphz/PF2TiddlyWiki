@@ -4,7 +4,7 @@ feat-level: 2
 feat-skill: Acrobatics
 feat-spre: T
 mod-tumble_through: On crit, don't treat enemy square as difficult terrain.
-modified: 20201010171943669
+modified: 20201017161455228
 tags: Feat Dedication
 title: Acrobat Dedication
 type: text/vnd.tiddlywiki
@@ -15,4 +15,4 @@ At 7th level, you become a master in Acrobatics, and at 15th level, you become l
 
 Whenever you critically succeed at an Acrobatics check to [[Tumble Through]] an enemy’s space, you don’t treat the enemy’s space as difficult terrain.
 
-<<levelfeatlist "4 6 7 8 10" "[tag[Archetype]field:feat-arch[Acrobat]]">>
+<<archetypefeatlist "4 6 7 8 10" "Acrobat">>

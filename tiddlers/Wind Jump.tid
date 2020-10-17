@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806210207854
+feat-class: Monk
+feat-level: 10
 m-area: 
 m-components: Verbal
 m-duration: 1 minute
@@ -12,12 +14,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200806210258906
+modified: 20201017142014592
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Air Monk Transmutation
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Air Monk Transmutation Class Feat
 title: Wind Jump
 type: text/vnd.tiddlywiki
 

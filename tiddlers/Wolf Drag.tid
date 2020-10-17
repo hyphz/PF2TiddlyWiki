@@ -1,0 +1,17 @@
+a-actions: 2
+created: 20201017140256986
+feat-class: Monk
+feat-fpre: [[Wolf Stance]]
+feat-level: 6
+modified: 20201017140339944
+tags: Feat Class Monk Action
+title: Wolf Drag
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Wolf Stance]].
+
+You rip your enemy off their feet. 
+
+Make a wolf jaw [[Strike]]. 
+
+Your wolf jaw gains the [[Fatal]] d12 trait for this Strike, and if the attack succeeds, you knock the target [[Prone]].

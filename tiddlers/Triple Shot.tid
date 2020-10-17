@@ -1,9 +1,11 @@
 created: 20201010143234921
+feat-archadd: Archer
+feat-archlevel: 8
 feat-class: Fighter
 feat-fpre: [[Double Shot]]
 feat-level: 6
 mod-double_shot: Can attack same target or make 3 strikes at -4.
-modified: 20201010143326936
+modified: 20201017165532533
 tags: Feat Class Fighter
 title: Triple Shot
 type: text/vnd.tiddlywiki

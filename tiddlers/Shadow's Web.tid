@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200811000504139
+feat-class: Monk
+feat-fpre: [[Clinging Shadows Stance]]
+feat-level: 14
 m-area: 30 foot [[Burst]]
 m-components: Somatic Verbal
 m-domain: 
@@ -13,12 +16,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200811000705537
+modified: 20201017155134073
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is [[Enfeebled]] 2 for 1 round.
 s-fumble: The creature takes double damage and is [[Stunned]] 1, [[Enfeebled]] 2 for 1 round, and [[Immobilized]] for 1 round or until it [[Escape]]s, whichever comes first.
 s-hit: The creature takes half damage and is [[Enfeebled]] 1 for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Monk
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Monk Feat Class
 title: Shadow's Web
 type: text/vnd.tiddlywiki
 

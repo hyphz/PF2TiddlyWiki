@@ -1,0 +1,26 @@
+created: 20201017180801119
+mod-flanking: Can be in any square in 10 feet for flanking.
+modified: 20201017180914491
+tags: [[Animal Companion]]
+title: Horse (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Medium or Large
+
+''Melee'' {{OneAction}} hoof [[Agcile]], damage 1d6 bludgeoning
+
+''Str'' +3, ''Dex'' +2, ''Con'' +2, ''Int'' –4, ''Wis'' +1, ''Cha'' +0
+
+''Hit Points'' 8
+
+''Skill'' [[Survival]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (Imprecise, 30 feet)
+
+''Speed'' 40 feet
+
+''Special'' Mount
+
+''Support Benefit'' Your horse adds momentum to your charge. Until the start of your next turn, if you moved at least 10 feet on the action before your attack, add a circumstance bonus to damage to that attack equal to twice the number of damage dice. If your weapon already has the [[Jousting]] weapon trait, increase the trait’s damage bonus by 2 per die instead.
+
+''Advanced Maneuver'' [[Gallop]]

@@ -1,0 +1,19 @@
+created: 20201017155606894
+feat-class: Monk
+feat-fpre: [[One-Inch Punch]]
+feat-level: 16
+mod-one-inch_punch: Can push target back on hit.
+modified: 20201017155753203
+s-crit: The target is unaffected.
+s-fail: The target is pushed back 10 feet.
+s-fumble: The target is pushed back 10 feet for each action you spent on One-Inch Punch.
+s-hit: The target is pushed back 5 feet.
+tags: Feat Class Monk
+title: One-Millimeter Punch
+type: text/vnd.tiddlywiki
+
+Your punches have incredible force and control. 
+
+When you damage a target using One-Inch Punch, you can focus your ki to send the foe flying. If you do, the target must attempt a [[Fortitude]] save against your class DC.
+
+{{||SaveSuccessTable}}

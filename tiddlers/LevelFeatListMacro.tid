@@ -1,5 +1,5 @@
 created: 20201010163716211
-modified: 20201010164331945
+modified: 20201017173045178
 tags: $:/tags/Macro
 title: LevelFeatListMacro
 type: text/vnd.tiddlywiki
@@ -51,10 +51,10 @@ type: text/vnd.tiddlywiki
 (Requires 
 <$list filter="[all[current]list[!!feat-sppre]]">
 <$link/></$list>)</$list>
-<$list filter="[all[current]has[feat-skill]]">
+<$list filter="[all[current]list[!!feat-skill]]" variable="skill">
 (Requires
 <$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
-<$link to={{!!feat-skill}} />)</$list>
+<$link to=<<skill>> />)</$list>
 <br />
 </$list>
 </$list>

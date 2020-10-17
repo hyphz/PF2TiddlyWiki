@@ -1,0 +1,16 @@
+created: 20201017155818748
+feat-class: Monk
+feat-fpre: [[Master of Many Styles]]
+feat-level: 18
+modified: 20201017155918769
+tags: Feat Class Monk Action Free
+title: Ki Center
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Ki Spells.
+
+''Frequency'' once per minute.
+
+You center yourself with the universe and draw upon its vast power. 
+
+You cast a single action ki spell with the <<tag Stance>> trait, without spending a Focus Point.

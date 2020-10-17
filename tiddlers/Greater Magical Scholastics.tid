@@ -1,0 +1,14 @@
+created: 20201017163538215
+feat-arch: Archaeologist
+feat-fpre: [[Magical Scholastics]]
+feat-level: 10
+modified: 20201017163637329
+tags: Feat Archetype
+title: Greater Magical Scholastics
+type: text/vnd.tiddlywiki
+
+You broaden your magical studies, allowing you to find the right path, detect objects, and conceal those objects from unscrupulous rivals. 
+
+You can cast [[Augury]], [[Locate]], and [[Nondetection]] as occult innate spells, each once per day. 
+
+You can cast this nondetection spell only on an object, and it is automatically heightened to the same spell level as your cantrips from Magical Scholastics.

@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20201017150259087
+feat-class: Monk
+feat-level: 1
+feat-skill: Deception
+feat-spre: T
+mod-feint: +1 circumstance to Deception.
+modified: 20201017150444123
+tags: Feat Class Monk Action Stance
+title: Stumbling Stance
+type: text/vnd.tiddlywiki
+
+You enter a seemingly unfocused stance that mimics the movements of the inebriate — bobbing, weaving, leaving false openings, and distracting your enemies from your true movements. 
+
+While in this stance, you gain a +1 circumstance bonus to [[Deception]] checks to [[Feint]]. 
+
+The only Strikes you can make are stumbling swing unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the [[Agile]], [[Backstabber]], [[Finesse]], [[Nonlethal]], and [[Unarmed]] traits. 
+
+If an enemy hits you with a melee Strike while in this stance, it becomes [[Flat-Footed]] against the next stumbling swing Strike you make against it before the end of your next turn.

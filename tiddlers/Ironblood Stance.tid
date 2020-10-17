@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201017140621806
+feat-class: Monk
+feat-level: 8
+modified: 20201017140803781
+tags: Feat Class Monk Action Stance
+title: Ironblood Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are unarmored.
+
+You enter the stance of impenetrable iron, refusing to yield to any blow. 
+
+You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the [[Nonlethal]], [[Parry]], [[Sweep]], and [[Unarmed]] traits.
+
+While in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.

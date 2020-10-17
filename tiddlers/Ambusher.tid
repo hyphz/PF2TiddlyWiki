@@ -1,0 +1,13 @@
+created: 20201017182330406
+mod-sneak: Animal can sneak in natural environment even if observed.
+modified: 20201017182430026
+tags: [[Companion Specialization]]
+title: Ambusher
+type: text/vnd.tiddlywiki
+
+In your companion’s natural environment, it can use a [[Sneak]] action even if it’s currently observed. 
+
+It gains a +2 circumstance bonus to initiative rolls using [[Stealth]], its proficiency rank in Stealth increases to expert (or master if it was already an expert from its type), and its [[Dexterity]]
+modifier increases by 1. 
+
+Its proficiency rank for unarmored defense increases to expert, or master if it’s nimble.

@@ -1,0 +1,22 @@
+a-crit: You prevent the trap from being triggered, or you delay the activation until the start or end of your next turn (your choice).
+a-fail: No effect.
+a-fumble: You're [[Flat-Footed]] until the start of your next turn.
+a-hit: You prevent the trap from being triggered, or you delay the activation until the end of your next turn (whichever is worse for you; GM’s choice).
+created: 20201017163700882
+feat-archadd: Archaeologist
+feat-archlevel: 10
+feat-class: Rogue
+feat-level: 8
+modified: 20201017164824670
+tags: Feat Class Rogue Action Reaction
+title: Delay Trap
+type: text/vnd.tiddlywiki
+
+''Trigger'' A trap within your reach is triggered.
+
+You can jam the workings of a trap to delay its effects. 
+
+Attempt a [[Thievery]] check to [[Disable a Device]] on the trap; the DC to do so is increased by 5, and the effects are as follows.
+
+{{||ActionSuccessTable}}
+

@@ -1,0 +1,16 @@
+created: 20201017153547086
+feat-class: Monk
+feat-level: 8
+mod-flurry_of_blows: If two ranged pierces hit, target is pinned.
+modified: 20201017153703570
+tags: Feat Class Monk Free Action
+title: Pinning Fire
+type: text/vnd.tiddlywiki
+
+''Trigger'' You use [[Flurry of Blows]] to make two ranged piercing weapon Strikes against the same target.
+
+You target your opponent’s clothing, equipment, or loose flesh with piercing projectiles to pin them to the ground or a nearby surface. 
+
+If both your attacks hit, the target must succeed at a [[Reflex]] save against your class DC or become [[Immobilized]] until it or an adjacent creature succeeds at a DC 10 [[Athletics]] check to remove the pinning projectiles. 
+
+The creature doesn’t become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.

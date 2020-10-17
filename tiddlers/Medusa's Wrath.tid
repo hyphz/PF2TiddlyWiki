@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200811000153880
+feat-class: Monk
+feat-level: 16
 m-area: 
 m-components: Somatic Verbal
 m-domain: 
@@ -13,12 +15,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200811000443557
+modified: 20201017155544160
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Monk Transmutation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Monk Transmutation MonkUnarmedModifier
 title: Medusa's Wrath
 type: text/vnd.tiddlywiki
 

@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201017144519280
+feat-class: Monk
+feat-level: 16
+modified: 20201017151651272
+tags: Feat Class Monk Action MonkUnarmedModifier
+title: Shattering Strike
+type: text/vnd.tiddlywiki
+
+The force of your considered blow shatters objects and defenses alike. 
+
+Make an unarmed [[Strike]]. It bypasses the target’s resistances. 
+
+If the target has [[Hardness]], the Strike treats the Hardness as if it were half its value.

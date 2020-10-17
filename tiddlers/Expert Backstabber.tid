@@ -1,0 +1,12 @@
+created: 20201017170820978
+feat-arch: Assassin
+feat-level: 4
+mod-backstabber: Extra damage becomes 2 or 4.
+modified: 20201017170857671
+tags: Feat Archetype
+title: Expert Backstabber
+type: text/vnd.tiddlywiki
+
+When you Strike a flat-footed foe with a weapon that has the [[Backstabber]] weapon trait, you deal 2 extra precision damage instead of 1. 
+
+If the weapon is a +3 weapon, you deal 4 extra precision damage instead of 2.

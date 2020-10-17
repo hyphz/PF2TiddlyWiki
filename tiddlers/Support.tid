@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201017174843110
+modified: 20201017175003884
+tags: Action
+title: Support
+type: text/vnd.tiddlywiki
+
+This action can only be taken by an [[Animal Companion|Animal Companions]] when ordered to using [[Command an Animal]].
+
+Your animal companion supports you. 
+
+You gain the benefits listed in the companion type’s Support Benefit entry. 
+
+If the animal uses the Support action, the only other actions it can use on this turn are basic move actions to get into position to take advantage of the Support benefits; if it has already used any other action this turn, it can’t Support you.

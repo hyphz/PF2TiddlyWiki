@@ -1,0 +1,26 @@
+created: 20201017175543835
+mod-strike: Hit creature is clawed and dazzled by bird.
+modified: 20201017175757019
+tags: [[Animal Companion]]
+title: Bird (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Small
+
+''Melee'' {{OneAction}} jaws [[Finesse]], damage 1d6 piercing
+
+''Melee'' {{OneAction}} talon ([[Agile]], [[Finesse]]), Damage 1d4 slashing
+
+''Str'' +2, ''Dex'' +3, ''Con'' +1, ''Int'' –4, ''Wis'' +2, ''Cha'' +0
+
+''Hit Points'' 4
+
+''Skill'' [[Stealth]]
+
+''Senses'' [[Low-Light Vision]]
+
+''Speed'' 10 feet, fly 60 feet
+
+''Support Benefit'' The bird pecks at your foes’ eyes when you create an opening. Until the start of your next turn, your Strikes that damage a creature that your bird threatens also deal 1d4 persistent bleed damage, and the target is [[Dazzled]] until it removes the bleed damage. If your bird is nimble or savage, the persistent bleed damage increases to 2d4.
+
+''Advanced Maneuver'' [[Flyby Attack]]

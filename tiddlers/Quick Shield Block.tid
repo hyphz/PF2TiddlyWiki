@@ -1,8 +1,10 @@
 created: 20201010145556101
+feat-archadd: Bastion
+feat-archlevel: 10
 feat-class: Fighter
 feat-fpre: [[Shield Block]] [[Reactive Shield]]
 feat-level: 8
-modified: 20201010145637479
+modified: 20201017172222111
 tags: Feat Class Fighter
 title: Quick Shield Block
 type: text/vnd.tiddlywiki

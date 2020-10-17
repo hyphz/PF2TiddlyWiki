@@ -1,0 +1,12 @@
+created: 20201017135749389
+feat-class: Monk
+feat-level: 6
+mod-stride: Can Stride across liquid or weak surfaces.
+modified: 20201017135834248
+tags: Feat Class Monk
+title: Water Step
+type: text/vnd.tiddlywiki
+
+You can Stride across liquid and surfaces that don’t support your weight. 
+
+This benefit lasts only during your movement. If you end your movement on a surface that can’t support you, you fall in or it collapses as normal.

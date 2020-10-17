@@ -1,0 +1,24 @@
+a-actions: 1
+created: 20201017150017020
+feat-class: Monk
+feat-level: 1
+mod-expert_strikes: Also affects longbows, shortbows, and monk bows.
+mod-flurry_of_blows: Can use with longbows, shortbows, and monk bows.
+mod-master_strikes: Also affects longbows, shortbows, and monk bows.
+modified: 20201017152002892
+modtag-monkunarmedmodifier: Can use with longbows, shortbows, and monk bows.
+tags: Feat Class Monk Action Stance
+title: Monastic Archer Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are unarmored and wielding a [[Longbow]], [[Shortbow]], or a bow with the <<tag Monk>> trait.
+
+You enter a specialized stance for a unique martial art centered around the use of a bow. 
+
+While in this stance, the only [[Strike]]s you can make are those using longbows, shortbows, or bows with the monk trait. 
+
+You can use [[Flurry of Blows]] with these bows. 
+
+You can use your other monk feats or monk abilities that normally require unarmed attacks with these bows when attacking within half the first range increment (normally 50 feet for a longbow and 30 feet for a shortbow), so long as the feat or ability doesn’t require a single, specific Strike.
+
+''Special'' When you select this feat, you become trained in the longbow, shortbow, and any simple and martial bows with the monk trait. If you gain the [[Expert Strikes]] class feature, your proficiency rank for these weapons increases to expert, and if you gain the [[Master Strikes]] class feature, your proficiency rank for these weapons increases to master.

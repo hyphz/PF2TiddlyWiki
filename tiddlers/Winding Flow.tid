@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Stand Step Stride
+created: 20201017142036358
+feat-class: Monk
+feat-level: 10
+modified: 20201017142138806
+tags: Feat Class Monk Action
+title: Winding Flow
+type: text/vnd.tiddlywiki
+
+''Frequency'' Once per round.
+
+Any journey consists of more than simply reaching your destination. 
+
+You use two of the following actions in any order: [[Stand]], [[Step]], and [[Stride]]. You can’t use the same action twice.

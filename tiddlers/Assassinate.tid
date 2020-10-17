@@ -1,0 +1,22 @@
+a-actions: 2
+a-defense: Fortitude
+a-subactions: Strike
+created: 20201017171415526
+feat-arch: Assassin
+feat-level: 12
+modified: 20201017171706755
+tags: Feat Archetype Action
+title: Assassinate
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have designated a mark using [[Mark for Death]] and are completely [[Unnoticed]] by your mark.
+
+You strike with one swift movement, trying to instantly slay your mark. 
+
+Make a [[Strike]] against your mark. 
+
+If you hit, your mark takes 6d6 extra precision damage with a basic [[Fortitude]] save against your class DC or spell DC, whichever is higher. If the mark critically fails, they die. 
+
+This is an <<tag Incapacitation>> effect ''(so creatures of higher level promote their saves by one step)''..
+
+The creature then becomes temporarily immune to your Assassinate for 1 day.

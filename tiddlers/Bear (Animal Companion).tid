@@ -1,0 +1,26 @@
+created: 20201017175356148
+mod-strike: Hit target is also clawed by bear.
+modified: 20201017175636813
+tags: [[Animal Companion]]
+title: Bear (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Small
+
+''Melee'' {{OneAction}} jaws, damage 1d8 piercing
+
+''Melee'' {{OneAction}} claw ([[Agile]]), Damage 1d6 slashing
+
+''Str'' +3, ''Dex'' +2, ''Con'' +2, ''Int'' –4, ''Wis'' +1, ''Cha'' +0
+
+''Hit Points'' 8
+
+''Skill'' [[Intimidation]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (imprecise, 30 feet)
+
+''Speed'' 35 feet
+
+''Support Benefit'' Your bear mauls your enemies when you create an opening. Until the start of your next turn, each time you hit a creature in the bear’s reach with a [[Strike]], the creature takes 1d8 slashing damage from the bear. If your bear is nimble or savage, the slashing damage increases to 2d8.
+
+''Advanced Maneuver'' [[Bear Hug]]

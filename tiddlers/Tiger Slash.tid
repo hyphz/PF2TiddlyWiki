@@ -1,0 +1,19 @@
+a-actions: 2
+created: 20201017135636508
+feat-class: Monk
+feat-fpre: [[Tiger Stance]]
+feat-level: 6
+modified: 20201017135729793
+tags: Feat Class Monk Action
+title: Tiger Slash
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Tiger Stance]].
+
+You make a fierce swipe with both hands. 
+
+Make a tiger claw [[Strike]]. 
+
+It deals two extra weapon damage dice (three extra dice if you’re 14th level or higher), and you can push the target 5 feet away as if you had successfully [[Shove]]d them. 
+
+If the attack is a critical success and deals damage, add your [[Strength]] modifier to the persistent bleed damage from your tiger claw.

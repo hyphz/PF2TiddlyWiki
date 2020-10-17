@@ -1,0 +1,17 @@
+created: 20201017154226391
+feat-class: Monk
+feat-level: 12
+feat-skill: Acrobatics
+feat-spre: M
+modified: 20201017154316707
+tags: Feat Class Monk Action Reaction
+title: Dodging Roll
+type: text/vnd.tiddlywiki
+
+''Trigger'' You take damage from an area effect that allows a [[Reflex]] save.
+
+You dodge a blow at the last possible moment. 
+
+You [[Step]] and gain resistance to all damage equal to your level against the triggering effect. 
+
+If your Step moves you out of the triggering effect’s area, this resistance is instead equal to your level plus your [[Dexterity]] modifier.

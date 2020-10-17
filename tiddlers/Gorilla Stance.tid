@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201017145838445
+feat-class: Monk
+feat-level: 1
+mod-climb: +2 circumstance to Athletics and promote successes.
+modified: 20201017145951152
+tags: Feat Class Monk Action Stance
+title: Gorilla Stance
+type: text/vnd.tiddlywiki
+
+You lower yourself to the ground and take an imposing, knuckle‑walking stance. 
+
+While in this stance, the only Strikes you can make are gorilla slam unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the [[Backswing]], [[Forceful]], [[Grapple]], [[Nonlethal]], and [[Unarmed]] traits. 
+
+While you are in Gorilla Stance, you gain a +2 circumstance bonus to Athletics checks to Climb, and if you roll a success on an Athletics check to Climb, you get a critical success instead.

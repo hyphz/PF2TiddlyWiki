@@ -1,0 +1,34 @@
+created: 20201017183301426
+mod-performance: Accompanist familiar gives +1/+2 circumstance.
+mod-refocus: Focused Rejuvenation familiar gains 1 HP per level.
+modified: 20201017184225637
+title: Familiar Abilities
+type: text/vnd.tiddlywiki
+
+* ''Accompanist'': Your familiar helps you perform. Whenever you attempt a Performance check, if your familiar is nearby and can act, it accompanies you with chirps, claps, or its own miniature instrument. This grants you a +1 circumstance bonus, or +2 if you’re a master in Performance.
+
+* ''Amphibious'': It gains a swim Speed of 25 feet (or Speed of 25 feet if it already has a swim Speed).
+* ''Burrower'': It gains a burrow Speed of 5 feet, allowing it to dig Tiny holes.
+* ''Climber'': It gains a climb Speed of 25 feet.
+* ''Damage Avoidance'': Choose one type of save. It takes no damage when it succeeds at that type of save; this doesn’t prevent effects other than damage.
+* ''Darkvision'': It gains [[Darkvision]].
+* ''Fast Movement'': Increase one of the familiar’s Speeds from 25 feet to 40 feet.
+* ''Focused Rejuvenation'': When you [[Refocus]], you generate magical energy that heals your familiar. Your familiar regains 1 Hit Point per level whenever you Refocus.
+* ''Flier'': It gains a fly Speed of 25 feet.
+* ''Independent'': In an encounter, if you don’t Command your familiar, it still gains 1 action each round. Typically, you still decide how it spends that action, but, the GM might determine that your familiar chooses its own tactics rather than performing your preferred action.
+* ''Manual Dexterity'': It can use up to two of its limbs as if they were hands to use <<tag Manipulate>> actions.
+** ''Lab Assistant'': It can use your [[Quick Alchemy]] action. You must have Quick Alchemy, and your familiar must be in your space. This has the same cost and requirement as if you used it. It must have the manual dexterity ability to select this.
+** ''Toolbearer'': Your familiar can carry a set of tools of up to light Bulk. So long as your familiar is adjacent to you, you can draw and replace the tools as part of the action that uses them as if you were wearing them. Your familiar must have the manual dexterity ability to select this.
+* ''Partner in Crime'': Your familiar is your criminal associate. Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to [[Aid]] you on a [[Deception]] or [[Thievery]] skill check (it still has to prepare to help you as normal for the Aid reaction). It automatically succeeds at its check to [[Aid]] you with those skills or automatically critically succeeds if you’re a master of the skill in question.
+* ''Plant Form'': Your plant familiar can change shape as a single action, transforming into a Tiny plant of a type roughly similar to the familiar’s nature. This otherwise uses the effects of [[Tree Shape]]. You must have a familiar with the <<tag Plant>> trait, such as a leshy, to select this ability.
+* ''Poison Reservoir'': Your homunculus familiar has a reservoir for poison, allowing it to apply an injury poison to an adjacent ally’s exposed weapon with a single [[Interact]] action. You must supply the poison and instill it into this reservoir using two consecutive [[Interact]] actions. You must have a homunculus familiar to select this ability.
+* ''Resistance'': Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Your familiar gains resistance equal to half your level against the chosen damage types.
+* ''Scent'': It gains scent (imprecise, 30 feet).
+* ''Skilled'': Choose a skill other than [[Acrobatics]] or [[Stealth]]. Your familiar’s modifier for that skill is equal to your level plus your key spellcasting ability modifier, rather than just your level. You can select this ability repeatedly, choosing a different skill each time.
+* ''Speech'': It understands and speaks a language you know.
+** ''Kinspeech'': It can understand and speak with animals of the same species. To select this, your familiar must be an animal, it must have the speech ability, and you must be at least 6th level.
+** ''Master’s Form'': Your familiar can change shape as a single action, transforming into a humanoid of your ancestry with the same age, gender, and build of its true form, though it always maintains a clearly unnatural remnant of its nature, such as a cat’s eyes or a serpent’s tongue. This form is always the same each time it uses this ability. This otherwise uses the effects of [[Humanoid Form]], except the change is purely cosmetic. It only appears humanoid and gains no new capabilities. Your familiar must have the manual dexterity and speech abilities to select this.
+* ''Spellcasting'': Choose a spell in your repertoire or that you prepared today that is at least 5 levels lower than your highest-level spell slot. Your familiar can [[Cast that Spell|Cast a Spell]] once per day using your magical tradition, spell attack modifier, and spell DC. If the spell has a drawback that affects the caster, both you and your familiar are affected. You must be able to cast 6th-level spells using spell slots to select this ability.
+* ''Touch Telepathy'': Your familiar can telepathically communicate with you via touch. If it also has the speech ability, it can telepathically communicate via touch with any creature if they share a language.
+* ''Tough'': Your familiar’s maximum Hit Points increase by 2 per level.
+* ''Valet'': You can command your familiar to deliver you items more efficiently. Your familiar doesn’t use its 2 actions immediately upon your command. Instead, up to twice before the end of your turn, you can have your familiar [[Interact]] to retrieve an item of light or negligible Bulk you are wearing and place it into one of your free hands. The familiar can’t use this ability to retrieve stowed items. If the familiar has a different number of actions, it can retrieve one item for each action it has when commanded this way.

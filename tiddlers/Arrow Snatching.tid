@@ -1,0 +1,15 @@
+created: 20201017140436648
+feat-class: Monk
+feat-fpre: [[Deflect Arrow]]
+feat-level: 8
+mod-deflect_arrow: Can throw ranged weapon back at attacker.
+modified: 20201017140533688
+tags: Feat Class Monk
+title: Arrow Snatching
+type: text/vnd.tiddlywiki
+
+You pluck missiles from the air and hurl them back at their source. 
+
+When you successfully deflect an attack with [[Deflect Arrow]], as part of that reaction, you can immediately make a ranged [[Strike]] against the attacker using the projectile you deflected. 
+
+This is a thrown weapon with the same range increment and effect on a hit as the triggering attack.

@@ -1,0 +1,19 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201017170013259
+feat-arch: Archer
+feat-level: 8
+mod-concealed: Ignores condition.
+mod-hidden: Reduce flat check to 5.
+modified: 20201017170135669
+tags: Feat Archetype Concentrate Action
+title: Archer's Aim
+type: text/vnd.tiddlywiki
+
+You slow down, focus, and take a careful shot. 
+
+Make a ranged [[Strike]] with a weapon in the bow weapon group.
+
+You gain a +2 circumstance bonus to the attack roll and ignore the target’s [[Concealed]] condition. 
+
+If the target is [[Hidden]], reduce the flat check from being hidden from 11 to 5.

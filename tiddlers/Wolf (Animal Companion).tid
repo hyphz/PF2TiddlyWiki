@@ -1,0 +1,24 @@
+created: 20201017181335344
+mod-strike: Hit creature takes speed penalty from wolf.
+modified: 20201017181508978
+tags: [[Animal Companion]]
+title: Wolf (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Small
+
+''Melee'' {{OneAction}} jaws [[Finesse]], damage 1d8 piercing
+
+''Str'' +2, ''Dex'' +3, ''Con'' +2, ''Int'' –4, ''Wis'' +1, ''Cha'' +0
+
+''Hit Points'' 6
+
+''Skill'' [[Survival]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (Imprecise, 30 feet)
+
+''Speed'' 40 feet
+
+''Support Benefit'' Your wolf tears tendons with each opening. Until the start of your next turn, your Strikes that damage creatures your wolf threatens give the target a –5-foot status penalty to its Speeds for 1 minute (–10 on a critical success).
+
+''Advanced Maneuver'' [[Knockdown (Wolf)]]

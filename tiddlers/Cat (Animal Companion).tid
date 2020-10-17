@@ -1,0 +1,26 @@
+created: 20201017175820991
+mod-strike: Hit creature also flat-footed by cat.
+modified: 20201017181932919
+tags: [[Animal Companion]]
+title: Cat (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Small //(but a small tiger/jaguar or "Big cat", not Tiddles)//
+
+''Melee'' {{OneAction}} jaws [[Finesse]], damage 1d6 piercing
+
+''Melee'' {{OneAction}} talon ([[Agile]], [[Finesse]]), Damage 1d4 slashing
+
+''Str'' +2, ''Dex'' +3, ''Con'' +1, ''Int'' –4, ''Wis'' +2, ''Cha'' +0
+
+''Hit Points'' 4
+
+''Skill'' [[Stealth]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (Imprecise, 30 feet)
+
+''Speed'' 35 feet
+
+''Support Benefit'' Your cat throws your enemies off-balance when you create an opening. Until the start of your next turn, your [[Strike]]s that deal damage to a creature that your cat threatens make the target [[Flat-Footed]] until the end of your next turn.
+
+''Advanced Maneuver'' [[Cat Pounce]]

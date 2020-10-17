@@ -1,0 +1,14 @@
+created: 20201017172519008
+feat-arch: Bastion
+feat-level: 6
+mod-interact: Shield hand counts as free.
+modified: 20201017172632605
+tags: Feat Archetype
+title: Nimble Shield Hand
+type: text/vnd.tiddlywiki
+
+You are so used to wielding a shield that you can do so even while using the hand that’s holding it for other purposes. 
+
+The hand you use to wield a shield counts as a free hand for the purposes of the [[Interact]] action. You can also hold another object in this hand (but you still can’t use it to wield a weapon). 
+
+This benefit doesn’t apply to tower shields, which are still too cumbersome.

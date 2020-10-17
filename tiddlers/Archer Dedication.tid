@@ -1,0 +1,15 @@
+created: 20201017165243417
+feat-arch: Archer
+feat-level: 2
+modified: 20201017165352273
+tags: Feat Dedication
+title: Archer Dedication
+type: text/vnd.tiddlywiki
+
+You become trained in all simple and martial weapons in the bow weapon group. 
+
+Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all simple and martial weapons in the bow weapon group. 
+
+If you are at least an expert in the bow you are using, you gain access to the [[Critical Specialization Effect]] with that bow.
+
+<<archetypefeatlist "4 6 8 10 18" "Archer">>

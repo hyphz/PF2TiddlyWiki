@@ -1,0 +1,33 @@
+created: 20201017182910764
+modified: 20201017183248814
+tags: Rule
+title: Familiar (Rule)
+type: text/vnd.tiddlywiki
+
+Familiars are mystically bonded creatures tied to your magic. Most familiars were originally animals, though the ritual of becoming a familiar makes them something more. 
+
+You can choose a Tiny animal you want as your familiar, such as a bat, cat, raven, or snake. Some familiars are different, usually described in the ability that granted you a familiar; for example, a druid’s leshy familiar is a Tiny plant instead of an animal, formed from a minor nature spirit. Your familiar is always Tiny.
+
+Familiars have the <<tag Minion>> trait, so duringan encounter, they gain 2 actions in a round if you spend an action to [[command|Command an Animal]] them. 
+
+If your familiar dies, you can spend a week of downtime to replace it at no cost.
+
+You can have only one familiar at a time.
+
+Your familiar’s save modifiers and AC are equal to yours before applying circumstance or status bonuses or penalties. 
+
+Its [[Perception]], [[Acrobatics]], and [[Stealth]] modifiers are equal to your level plus your spellcasting ability modifier ([[Charisma]] if you don’t have one, unless otherwise specified). 
+
+If your familiar attempts an attack roll or other skill check, it uses your level as its modifier. It doesn’t have or use its own ability modifiers and can never benefit from item bonuses.
+
+Your familiar has 5 Hit Points for each of your levels.
+
+Your familiar has [[Low-Light Vision]] and can gain additional senses from familiar abilities. 
+
+It can communicate empathically with you as long as it’s within 1 mile of you, sharing emotions. It doesn’t understand or speak languages normally, but it can gain speech from a familiar ability.
+
+Your familiar has either a Speed of 25 feet or a swim Speed of 25 feet (choose one upon gaining the familiar). It can gain other movement types from familiar abilities.
+
+Each day, you channel your magic into two abilities, which can be either [[Familiar|Familiar Abilities]] or [[Master Abilities]]. If your familiar is an animal that naturally has one of these abilities (for instance, an owl has a fly Speed), you must select that ability. 
+
+Your familiar can’t be an animal that naturally has more familiar abilities than your daily maximum familiar abilities.

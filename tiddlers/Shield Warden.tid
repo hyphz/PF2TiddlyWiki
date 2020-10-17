@@ -1,8 +1,10 @@
 created: 20200912140524628
+feat-archadd: Bastion
+feat-archlevel: 8
 feat-class: Champion Fighter
 feat-level: 6
 mod-shield_block: Can shield block for an adjacent ally.
-modified: 20201010143205714
+modified: 20201017172158084
 tags: Feat Class Champion Fighter
 title: Shield Warden
 type: text/vnd.tiddlywiki

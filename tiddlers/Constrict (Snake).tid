@@ -1,0 +1,13 @@
+a-actions: 1
+a-defense: Fortitude
+created: 20201017182113771
+modified: 20201017182149050
+tags: Action
+title: Constrict (Snake)
+type: text/vnd.tiddlywiki
+
+''Requirements'' The snake has a smaller creature [[Grabbed]].
+
+The snake deals 12 bludgeoning damage to the grabbed creature; the creature must attempt a basic [[Fortitude]] save. 
+
+If the snake is a specialized animal companion, increase this damage to 20.

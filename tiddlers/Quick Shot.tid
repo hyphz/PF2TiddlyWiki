@@ -1,0 +1,13 @@
+a-actions: 1
+a-subactions: Interact Strike
+created: 20201017165704754
+feat-arch: Archer
+feat-level: 4
+modified: 20201017165817884
+tags: Feat Archetype Open Action
+title: Quick Shot
+type: text/vnd.tiddlywiki
+
+You draw your bow and attack with the same action. 
+
+You [[Interact]] to draw a weapon from the bow weapon group that is loaded or has reload 0, then [[Strike]] with that weapon.

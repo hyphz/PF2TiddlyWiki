@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201017143101419
+feat-class: Monk
+feat-fpre: [[Ironblood Stance]]
+feat-level: 14
+modified: 20201017143627955
+tags: Feat Class Monk Action
+title: Ironblood Surge
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Ironblood Stance]].
+
+You steel yourself, preparing to resist oncoming attacks and using your muscles to absorb the impact. 
+
+You gain the benefits of your iron sweep’s [[Parry]] trait (a +1 circumstance bonus to AC until the start of your next turn) and your resistance from [[Ironblood Stance]] increases to your Strength modifier (if it’s higher) for the same duration.

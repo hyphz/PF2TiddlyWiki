@@ -1,0 +1,15 @@
+created: 20201017163412809
+feat-arch: Archaeologist
+feat-level: 8
+modified: 20201017163555925
+tags: Feat Archetype Fortune Action Reaction
+title: Archaeologist's Luck
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per hour
+
+''Trigger'' You fail a check against a trap, such as a [[Thievery]] check to [[Disable|Disable a Device]] the trap or a [[Reflex]] save to avoid its effects.
+
+You are more than just skillful; your drive to find the secrets of the past manifests as a strange kind of luck. 
+
+Reroll the failed check and use the new result.

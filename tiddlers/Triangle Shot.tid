@@ -1,0 +1,22 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201017160112080
+feat-class: Monk
+feat-fpre: [[Monastic Archer Stance]] [[Stunning Fist]]
+feat-level: 18
+modified: 20201017160224144
+tags: Feat Class Monk Action Stance Concentrate Flourish
+title: Triangle Shot
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Monastic Archer Stance]] and wielding a bow usable with that stance.
+
+You string three arrows to your bow and fire them all at once.
+
+Make three ranged [[Strike]]s against a single target with the required weapon, each using your current multiple attack penalty, and you take an additional –2 penalty. 
+
+This counts as two attacks when calculating your multiple attack penalty, and you combine the attacks’ damage for the purpose of resistances and weaknesses. 
+
+Your [[Stunning Fist]] benefit applies to Triangle Shot, even though it isn’t a Flurry of Blows. 
+
+If all three Strikes hit, the target takes 3d6 persistent bleed damage.

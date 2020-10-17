@@ -1,0 +1,16 @@
+created: 20201017170209905
+feat-arch: Assassin
+feat-fpre: [[Alchemical Crafting]]
+feat-level: 2
+feat-skill: Crafting Deception Stealth
+feat-spre: T
+modified: 20201017170320902
+tags: Feat Dedication
+title: Assassin Dedication
+type: text/vnd.tiddlywiki
+
+You’ve trained to assassinate your foes, and you do so with tenacity and precision. 
+
+You gain the [[Mark for Death]] activity.
+
+<<archetypefeatlist "4 6 10 12" "Assassin">>

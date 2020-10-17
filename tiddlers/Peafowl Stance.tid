@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201017152229992
+feat-class: Monk
+feat-fpre: [[Monastic Weaponry]]
+feat-level: 4
+modified: 20201017152343687
+tags: Feat Class Monk Action Stance
+title: Peafowl Stance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a sword that has the <<tag Monk>> trait in one hand.
+
+You enter a tall and proud stance while remaining mobile, with all the grace and composure of a peafowl. 
+
+While in this stance, the only [[Strike]]s you can make are melee Strikes with the required sword. 
+
+Once per round, after you hit with a monk sword Strike, you can [[Step]] as a free action as your next action.

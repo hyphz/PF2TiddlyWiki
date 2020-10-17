@@ -1,0 +1,23 @@
+a-actions: 1
+a-defense: Fortitude
+created: 20201017143207075
+feat-class: Monk
+feat-fpre: [[Mountain Stronghold]]
+feat-level: 14
+mod-mountain_stance: Dexterity cap becomes +2.
+modified: 20201017143432555
+tags: Feat Class Monk Action
+title: Mountain Quake
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Mountain Stance]].
+
+You stomp, shaking the earth beneath you. 
+
+Creatures on the ground within a 20-foot [[Emanation]] take damage equal to your Strength modifier (minimum 0), which they can resist with a basic [[Fortitude]] save. 
+
+On a failure, they also fall prone. 
+
+After you use this action, you can’t use it again for 1d4 rounds.
+
+''Special'' If you have this feat, the [[Dexterity]] modifier cap to your AC while using Mountain Stance increases from +1 to +2.

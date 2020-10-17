@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201017142342986
+feat-class: Monk
+feat-level: 12
+modified: 20201017151543674
+tags: Feat Class Monk Action Negative MonkUnarmedModifier
+title: Disrupt Ki
+type: text/vnd.tiddlywiki
+
+Make an unarmed [[Strike]]. 
+
+If it deals damage to a living creature, you block that creature’s inner life force. The creature takes 2d6 persistent negative damage and is [[Enfeebled]] 1 until the persistent damage ends. 
+
+If you’re 18th level or higher, this deals 3d6 persistent negative damage instead.

@@ -1,10 +1,12 @@
 a-actions: 1
 created: 20201010155715997
+feat-archadd: Archer
+feat-archlevel: 18
 feat-class: Fighter
 feat-fpre: [[Triple Shot]]
 feat-level: 16
 mod-double_shot: Penalty is only -1, or -2 for triple shot.
-modified: 20201010155917860
+modified: 20201017165635253
 tags: Feat Class Fighter Action Stance
 title: Multishot Stance
 type: text/vnd.tiddlywiki

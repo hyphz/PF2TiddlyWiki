@@ -1,0 +1,15 @@
+created: 20201017152457341
+feat-class: Monk
+feat-level: 6
+modified: 20201017152545997
+tags: Feat Class Monk Action Reaction
+title: Align Ki
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per hour.
+
+''Trigger'' You [[Cast a Spell]] that has the <<tag Monk>> trait.
+
+The power of your ki soothes your wounds and energizes you for battle. 
+
+You regain Hit Points equal to your level plus your [[Wisdom]] modifier.

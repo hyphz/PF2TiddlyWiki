@@ -1,0 +1,15 @@
+created: 20201017153043493
+feat-class: Monk
+feat-fpre: [[Deflect Arrow]] [[Monastic Archer Stance]]
+feat-level: 6
+mod-deflect_arrow: Fire arrow back with your bow.
+modified: 20201017153145808
+tags: Feat Class Monk
+title: Return Fire
+type: text/vnd.tiddlywiki
+
+Requirements You are in [[Monastic Archer Stance]], are wielding a bow, and have a free hand.
+
+Snatching an arrow out of the air, you instantly put it to your bow and return fire. 
+
+When you successfully [[Deflect an Arrow|Deflect Arrow]], as part of that reaction you can immediately make a ranged bow Strike by firing the arrow you deflected from your own bow.

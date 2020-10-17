@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806203556840
+feat-class: Monk
+feat-level: 18
 m-area: 
 m-components: Somatic Verbal
 m-duration: 1 minute
@@ -12,12 +14,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200806203631172
+modified: 20201017145151703
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Monk Teleportation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Monk Teleportation Feat Class
 title: Empty Body
 type: text/vnd.tiddlywiki
 

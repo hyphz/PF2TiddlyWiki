@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200810235651158
+feat-class: Monk
+feat-level: 18
 m-area: 
 m-components: Verbal
 m-domain: 
@@ -13,7 +15,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200811000134385
+modified: 20201017160054492
 modtag-darkness: Glow attempts automatic counteraction.
 modtag-emotion: -2 status.
 modtag-mental: +2 status against non-Emotion.
@@ -21,7 +23,7 @@ s-crit:
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Monk Polymorph
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Monk Polymorph Class Feat
 title: Ki Form
 type: text/vnd.tiddlywiki
 virtual-tags: Light Force Lawful Negative Positive

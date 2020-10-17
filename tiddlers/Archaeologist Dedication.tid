@@ -1,0 +1,16 @@
+created: 20201017160803848
+feat-arch: Archaeologist
+feat-level: 2
+feat-skill: Perception Society Thievery
+feat-spre: T
+mod-recall_knowledge: +1 circumstance about ancient history.
+modified: 20201017163003712
+tags: Feat Dedication
+title: Archaeologist Dedication
+type: text/vnd.tiddlywiki
+
+You are a student of peoples and their histories, and are in constant pursuit of knowledge and artifacts from the past.
+
+You become an expert in [[Society]] and [[Thievery]], and you gain a +1 circumstance bonus to [[Recall Knowledge]] about ancient history, peoples, and cultures.
+
+<<archetypefeatlist "4 7 8 10" "Archaeologist">>

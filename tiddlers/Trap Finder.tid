@@ -1,11 +1,13 @@
 created: 20201003162619228
+feat-archadd: Archaeologist
+feat-archlevel: 4
 feat-class: Investigator
 feat-level: 1
 mod-fortitude: +1/+2 circumstance vs traps.
 mod-perception: +1/+2 circumstance to find traps.
 mod-reflex: +1/+2 circumstance vs traps.
 mod-will: +1/+2 circumstance vs traps.
-modified: 20201003162748210
+modified: 20201017162254101
 tags: Investigator Feat Class
 title: Trap Finder
 type: text/vnd.tiddlywiki

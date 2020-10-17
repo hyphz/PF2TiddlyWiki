@@ -1,8 +1,10 @@
 a-actions: 1
 created: 20201003174522441
+feat-archadd: Archer
+feat-archlevel: 4
 feat-class: Fighter
 feat-level: 1
-modified: 20201003174603933
+modified: 20201017165417313
 tags: Feat Class Fighter Action Open Stance
 title: Point-Blank Shot
 type: text/vnd.tiddlywiki

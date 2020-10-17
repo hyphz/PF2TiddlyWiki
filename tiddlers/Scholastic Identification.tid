@@ -1,0 +1,17 @@
+created: 20201017163228224
+feat-arch: Archaeologist
+feat-level: 7
+feat-skill: Society
+feat-spre: M
+mod-decipher_writing: Can use Society.
+mod-identify_magic: Can use Society if item has cultural significance.
+modified: 20201017163347243
+tags: Feat Archetype Skill
+title: Scholastic Identification
+type: text/vnd.tiddlywiki
+
+You have the knowledge needed to understand ancient texts and cultural artifacts. 
+
+You can use [[Society]] when [[Deciphering Writing|Decipher Writing]], no matter the type of writing you are examining.
+
+You can also use [[Society]] to [[Identify Magic]] when examining a magic item or location with cultural significance.

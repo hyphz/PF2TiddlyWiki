@@ -1,0 +1,26 @@
+created: 20201017175019659
+mod-step: Hit target deemed difficult terrain until it moves.
+modified: 20201017175245186
+tags: [[Animal Companion]]
+title: Badger (Animal Companion)
+type: text/vnd.tiddlywiki
+
+''Size'' Small
+
+''Melee'' {{OneAction}} jaws, damage 1d8 piercing
+
+''Melee'' {{OneAction}} claw ([[Agile]]), Damage 1d6 slashing
+
+''Str'' +2, ''Dex'' +2, ''Con'' +2, ''Int'' –4, ''Wis'' +2, ''Cha'' +0
+
+''Hit Points'' 8
+
+''Skill'' [[Survival]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (imprecise, 30 feet)
+
+''Speed'' 25 feet, burrow 10 feet, climb 10 feet
+
+''Support Benefit'' Your badger digs around your foe’s position, interfering with its footing. Until the start of your next turn, if you hit and deal damage to a creature your badger threatens, the target can’t use a Step action (unless it can Step through difficult terrain) until it moves from its current position.
+
+''Advanced Maneuver'' [[Badger Rage]]

@@ -1,0 +1,20 @@
+a-actions: 1
+a-crit: The target falls [[Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
+a-fail: You fail to grab your opponent. If you already had the opponent grabbed or restrained using a Grapple, those conditions on that creature end.
+a-fumble: If you already had the opponent grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[Prone]].
+a-hit: The target is [[Clumsy]] 1 until the end of its next turn.
+created: 20201017141650362
+feat-class: Monk
+feat-level: 10
+modified: 20201017141920551
+tags: Feat Class Monk Action Concentrate Attack Incapacitation
+title: Sleeper Hold
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have a creature [[Grabbed]] or [[Restrained]].
+
+You pinch crucial points of your target’s nervous system, impeding its ability to function. 
+
+Attempt an [[Athletics]] check to [[Grapple]] the creature, with the following success and critical success effects instead of the usual effects.
+
+{{||ActionSuccessTable}}

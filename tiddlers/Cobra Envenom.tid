@@ -1,0 +1,24 @@
+a-actions: 1
+created: 20201017153758218
+feat-class: Monk
+feat-fpre: [[Cobra Stance]]
+feat-level: 10
+mod-cobra_stance: Bonus to Fortitude becomes +2.
+modified: 20201017153918165
+tags: Feat Class Monk Action Poison
+title: Cobra Envenom
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Expert in unarmed attacks.
+
+''Frequency'' once per minute.
+
+''Requirements'' You are in [[Cobra Stance]].
+
+You lash out with devious intent and the power to envenom your foe. 
+
+Make a cobra fang Strike. Your reach with this Strike is 5 feet greater than normal. 
+
+If this Strike hits, the target takes 1d4 persistent poison damage per weapon damage die.
+
+''Special'' If you have this feat, the circumstance bonus to Fortitude saves and Fortitude DC granted by Cobra Stance increases from +1 to +2.
