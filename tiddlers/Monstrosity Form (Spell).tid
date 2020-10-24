@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200727204042493
+modified: 20201024150143181
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
 tags: Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate
-title: Monstrosity Form
+title: Monstrosity Form (Spell)
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}

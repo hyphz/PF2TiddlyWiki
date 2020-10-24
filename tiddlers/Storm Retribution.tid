@@ -1,0 +1,19 @@
+created: 20201024140648569
+feat-class: Druid
+feat-level: 6
+feat-sppre: [[Storm Order]]
+mod-tempest_surge: Push opponent 5/10 feet on failed save.
+modified: 20201024140947934
+tags: Feat Class Druid Action Reaction
+title: Storm Retribution
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Tempest Surge]] order spell.
+
+''Trigger'' An opponent adjacent to you critically hits you with a melee weapon or melee unarmed attack.
+
+''Requirements'' You have at least 1 available Focus Point.
+
+You lash out, directing a burst of storming fury toward a creature that has harmed you. 
+
+You cast [[Tempest Surge]] on the triggering opponent and push that creature, moving it 5 feet away from you if it fails its [[Reflex]] save, or 10 feet if it critically fails. This movement is [[Forced Movement]].

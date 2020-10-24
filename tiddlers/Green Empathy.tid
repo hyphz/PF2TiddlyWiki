@@ -1,0 +1,16 @@
+created: 20201024140224429
+feat-class: Druid
+feat-level: 6
+feat-sppre: [[Leaf Order]]
+mod-diplomacy: Can use simple diplomacy with plants.
+mod-request: +2 circumstance if requesting from a plant.
+modified: 20201024140343287
+tags: Feat Class Druid
+title: Green Empathy
+type: text/vnd.tiddlywiki
+
+You can communicate with plants on a basic level and use [[Diplomacy]] to [[Make an Impression]] on them and to make very simple [[Request]]s of them. 
+
+Non-creature plants typically can’t fulfill most requests you might ask of them unless you have access to other magic such as [[Speak with Plants]]. 
+
+Because of your affiliation with the leaf order, plants have a sense that you support them, so you gain a +2 circumstance bonus on your check to Make a [[Request]] of a plant using Green Empathy.

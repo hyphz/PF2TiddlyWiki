@@ -1,10 +1,11 @@
 created: 20201017173357474
-feat-class: Druid
+feat-class: Druid Ranger
 feat-level: 1
-feat-sppre: [[Animal Order]]
-modified: 20201017173448060
-tags: Feat Class Druid
+modified: 20201024160938897
+tags: Feat Class Druid Ranger
 title: Animal Companion
 type: text/vnd.tiddlywiki
+
+''Prerequisite'' //If you are a [[Druid]], you must be part of the [[Animal Order]]. A [[Ranger]] does not have this requirement.//
 
 You gain the service of a young [[animal companion|Animal Companions]] that travels with you on your adventures and obeys any simple commands you give it to the best of its abilities. 

@@ -1,0 +1,16 @@
+a-actions: 2
+created: 20201024151205368
+feat-class: Druid
+feat-fpre: [[Dragon Shape]] [[Wild Shape]]
+feat-level: 20
+mod-wild_shape: Wild Shape while Wild Shaped, and into a kaiju.
+modified: 20201024151451786
+tags: Feat Class Druid Concentrate
+title: True Shapeshifter
+type: text/vnd.tiddlywiki
+
+You transcend the limitations of form. 
+
+While under the effects of [[Wild Shape]], you can change into any other form on your wild shape list; if the durations of the forms would vary, use the shorter of the two durations.
+
+Once per day, you can transform into a kaiju, with the effects of [[Nature Incarnate]]; if you have Plant Shape, you can instead transform into a green man.

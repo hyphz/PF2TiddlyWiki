@@ -1,0 +1,22 @@
+a-defense: Perception
+a-skill: Deception
+created: 20201024180136123
+feat-class: Wizard
+feat-level: 6
+feat-skill: Deception
+feat-spre: E
+modified: 20201024180319156
+modified-by: Deception
+tags: Action Feat Class Wizard Illusion Reaction
+title: Convincing Illusion
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature succeeded, but didn’t critically succeed, at a [[Perception]] check or [[Will]] save to disbelieve an illusion from a spell that you cast.
+
+''Requirements'' You are within 30 feet of the observer and the illusion.
+
+You use your deceptive skills to make your illusions seem even more real. 
+
+Attempt a [[Deception]] check against the target’s [[Perception]] DC. 
+
+If you succeed, the target fails to disbelieve the illusion.

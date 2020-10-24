@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806201100283
+feat-class: Druid
+feat-fpre: [[Call of the Wild]]
+feat-level: 12
 m-area: 
 m-components: Verbal
 m-duration: 
@@ -14,12 +17,12 @@ m-targets:
 m-time: 
 mod-summon_animal: Can power up creature you summon.
 mod-summon_plant_or_fungus: Can power up creature you summon.
-modified: 20200806201342047
+modified: 20201024145215273
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Free Uncommon Conjuration Druid
+tags: Spell Verbal Concentrate [[Focus Spell]] Free Uncommon Conjuration Druid Class Feat
 title: Primal Summons
 type: text/vnd.tiddlywiki
 

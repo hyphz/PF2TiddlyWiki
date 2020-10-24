@@ -1,0 +1,14 @@
+created: 20201024133957543
+feat-class: Druid
+feat-level: 1
+feat-sppre: [[Storm Order]]
+mod-concealed: No roll needed on targeted spells if concealed by weather.
+mod-perception: Ignore penalties due to weather.
+modified: 20201024134105016
+tags: Feat Class Druid
+title: Storm Born
+type: text/vnd.tiddlywiki
+
+You are at home out in the elements, reveling in the power of nature unleashed. 
+
+You do not take circumstance penalties to ranged spell attacks or [[Perception]] checks caused by weather, and your targeted spells don’t require a flat check to succeed against a target concealed by weather (such as fog).

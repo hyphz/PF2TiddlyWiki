@@ -1,0 +1,13 @@
+created: 20201024182254779
+feat-class: Ranger
+feat-fpre: [[Monster Hunter]]
+feat-level: 2
+mod-monster_hunter: Also gain +1 circumstance to next save and AC.
+modified: 20201024182347154
+tags: Feat Class Ranger
+title: Monster Warden
+type: text/vnd.tiddlywiki
+
+You understand how to defend yourself and others against your prey. 
+
+When you grant bonuses from [[Monster Hunter]], you and your allies also each gain a +1 circumstance bonus to your next saving throw against that particular creature and to your AC against that creature’s next attack against you.

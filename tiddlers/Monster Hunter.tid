@@ -1,0 +1,17 @@
+created: 20201024161314231
+feat-class: Ranger
+feat-level: 1
+mod-hunt_prey: Recall Knowledge about prey as you hunt them.
+mod-recall_knowledge: On critical give +1 circumstance to allies' next attacks.
+modified: 20201024161437973
+tags: Feat Class Ranger
+title: Monster Hunter
+type: text/vnd.tiddlywiki
+
+You swiftly assess your prey and apply what you know.
+
+As part of the action used to [[Hunt your Prey|Hunt Prey]], you can attempt a check to [[Recall Knowledge]] about your prey.
+
+When you critically succeed at identifying your hunted prey with [[Recall Knowledge]], you note a weakness in the creature’s defenses. You and allies you tell gain a +1 circumstance bonus to your next attack roll against that prey. 
+
+You can give bonuses from Monster Hunter only once per day against a particular creature.

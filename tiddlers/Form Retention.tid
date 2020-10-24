@@ -1,0 +1,17 @@
+created: 20201024180607996
+feat-class: Wizard
+feat-level: 8
+modified: 20201024180656454
+tags: Class Feat Wizard
+title: Form Retention
+type: text/vnd.tiddlywiki
+
+You have trained your mind and body to tolerate polymorph magic for longer periods of time, so long as you prepare for the change appropriately. 
+
+When preparing a polymorph spell that lasts 1 minute and grants a battle form, you can prepare the spell in a slot 2 levels higher than normal. 
+
+This doesn’t grant any of the normal benefits of heightening a spell, but the spell lasts up to 10 minutes. 
+
+For example, if you prepared [[Animal Form]] in a 4th-level slot with Form Retention, you would cast a 2nd-level animal form that lasts for up to 10 minutes. 
+
+If the spell can be [[Dismiss]]ed, that doesn’t change.

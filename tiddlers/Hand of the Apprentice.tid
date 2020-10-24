@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200808144429641
+feat-class: 1
+feat-level: 1
 m-area: 
 m-components: Somatic
 m-duration: 
@@ -12,16 +14,18 @@ m-range: 500 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200808144535409
+modified: 20201024175516341
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Evocation Wizard
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Evocation Wizard Feat Class
 title: Hand of the Apprentice
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
+
+''Prerequisites'' Universalist Wizard.
 
 You hurl a held melee weapon with which you are trained at the target, making a spell attack roll. 
 

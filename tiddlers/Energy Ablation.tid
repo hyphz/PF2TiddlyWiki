@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201024175914542
+feat-class: Wizard
+feat-level: 2
+modified: 20201024180016966
+tags: Action Feat Class Wizard Metamagic
+title: Energy Ablation
+turn-eun: Resistance wears off.
+type: text/vnd.tiddlywiki
+
+When you cast energy spells, you retain some of that energy as a protective barrier. 
+
+If your next action is to Cast a Spell that deals energy damage, whether or not it successfully deals damage, you gain resistance to that type of energy equal to the spell’s level (minimum 1) until the end of your next turn. 
+
+If the spell deals more than one type of energy damage, choose one and gain resistance to that type.

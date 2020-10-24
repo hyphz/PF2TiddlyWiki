@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806200416079
+feat-class: Druid
+feat-level: 16
 m-area: Ground within a 100-foot [[Emanation]]
 m-components: Somatic Verbal
 m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
@@ -13,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Choose an effect when sustained.
-modified: 20200806200903585
+modified: 20201024150038297
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Druid Plant
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Druid Plant Class Feat
 title: Impaling Briars
 type: text/vnd.tiddlywiki
 

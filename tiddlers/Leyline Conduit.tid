@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201024151040138
+feat-class: Druid
+feat-level: 20
+modified: 20201024151128413
+tags: Feat Class Druid Manipulate Metamagic Concentrate
+title: Leyline Conduit
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per minute.
+
+You can cast your spells effortlessly by tapping into the leylines of the world. 
+
+If your next action is to [[Cast a Spell]] of 5th level or lower that has no duration, you don’t expend the prepared spell as you cast it.

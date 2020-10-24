@@ -1,0 +1,47 @@
+cls-combt: Simple Rapier Sap Shortbow Shortsword Unarmed Light Unarmored
+cls-exskills: 7
+cls-fortitude: T
+cls-hpbase: 8
+cls-key: Dexterity
+cls-per: E
+cls-reflex: E
+cls-tskills: Stealth
+cls-will: E
+created: 20201024161603071
+modified: 20201024162041848
+tags: Class
+title: Rogue
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Sneak Attack]] 1d6, [[Surprise Attack]], Extra Skill Feat |
+| 2 |  |
+| 3 | [[Deny Advantage]], Extra Skill Feat |
+| 4 |  |
+| 5 | [[Sneak Attack]] 2d6, [[Weapon Tricks]], Extra Skill Feat |
+| 6 |  |
+| 7 | [[Evasion]], [[Vigilant Senses]], [[Weapon Specialization]], Extra Skill Feat |
+| 8 | |
+| 9 | [[Debilitating Strike]], [[Great Fortitude]], Extra Skill Feat |
+| 10 | |
+| 11 | [[Rogue Expertise]], [[Sneak Attack]] 3d6, Extra Skill Feat |
+| 12 |  |
+| 13 | [[Improved Evasion]], [[Incredible Senses]], [[Light Armor Expertise]], [[Master Tricks]], Extra Skill Feat |
+| 14 |  |
+| 15 | [[Greater Weapon Specialization]], [[Double Debilitation]], Extra Skill Feat |
+| 16 |  |
+| 17 | [[Sneak Attack]] 4d6, [[Slippery Mind]], Extra Skill Feat |
+| 18 |  |
+| 19 | [[Master Strike]], [[Light Armor Mastery]], Extra Skill Feat |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

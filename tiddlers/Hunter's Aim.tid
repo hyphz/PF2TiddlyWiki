@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201024182146840
+feat-class: Ranger
+feat-level: 2
+modified: 20201024182243389
+tags: Ranger Class Feat Action Concentrate
+title: Hunter's Aim
+type: text/vnd.tiddlywiki
+
+When you focus on aiming, your attack becomes particularly accurate. 
+
+Make a ranged weapon [[Strike]] against your hunted prey. 
+
+On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore your prey’s [[Concealed]] condition.

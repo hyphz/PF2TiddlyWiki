@@ -1,0 +1,73 @@
+cls-combt: Club Crossbow Dagger [[Heavy Crossbow]] Staff Unarmed Unarmored
+cls-exskills: 2
+cls-fortitude: T
+cls-hpbase: 6
+cls-key: Intelligence
+cls-per: T
+cls-reflex: T
+cls-tskills: Arcana
+cls-will: E
+created: 20201024164248649
+modified: 20201024170027294
+tags: Class
+title: Wizard
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Specialization
+
+If you specialize in an arcane school, rather than studying each school equally (as universalists do), you gain an extra spell slot for each level of spell you can cast. You can prepare only spells of your chosen arcane school in these extra slots. 
+
+In addition, you can prepare an extra cantrip of your chosen school. 
+
+You also add another arcane spell of your chosen school to your spellbook. 
+
+You learn a school spell, a special type of spell taught to students of your arcane school. School spells are a type of [[Focus Spell]]. 
+
+| !Specialized School | !School Spell |
+| Abjuration | [[Protective Ward]] |
+| Conjuration | [[Augment Summoning]] |
+| Divination | [[Diviner's Sight]] |
+| Enchantment | [[Charming Words]] |
+| Evocation | [[Force Bolt]] |
+| Illusion | [[Warped Terrain]] |
+| Necromancy | [[Call of the Grave]] |
+| Transmutation | [[Physical Boost]] |
+
+Instead of specializing narrowly in an arcane school, you can become a universalist wizard—by studying all the schools equally, you devote yourself to understanding the full breadth of the arcane arts. 
+
+For each level of spell you can cast, you can use [[Drain Bonded Item]] once per day to recall a spell of that level (instead of using it only once per day in total). 
+
+You gain an extra wizard class feat, and you add one 1st-level spell of your choice to your spellbook.
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Drain Bonded Item]], 2 1st-level slots |
+| 2 | +1 1st-level slot |
+| 3 | 2 2nd-level slots |
+| 4 | +1 2nd-level slot |
+| 5 | [[Lightning Reflexes]], 2 3rd-level slots |
+| 6 | +1 3rd-level slot |
+| 7 | [[Expert Spellcaster]], 2 4th-level slots |
+| 8 | +1 4rd-level slot |
+| 9 | [[Magical Fortitude]], 2 5th-level slots |
+| 10 | +1 5th-level slot |
+| 11 | [[Alertness]], [[Wizard Weapon Expertise]], 2 6th-level slots |
+| 12 | +1 6th-level slot |
+| 13 | [[Defensive Robes]], [[Weapon Specialization]], 2 7th-level slots |
+| 14 | +1 7th-level slot |
+| 15 | [[Master Spellcaster]], 2 8th-level slots |
+| 16 | +1 8th level slot |
+| 17 | [[Resolve]], 2 9th-level slots |
+| 18 | +1 9th-level slot  |
+| 19 | [[Archwizard's Spellcraft]], [[Legendary Spellcaster]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

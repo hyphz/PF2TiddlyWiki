@@ -1,0 +1,13 @@
+created: 20201024140024066
+feat-class: Druid
+feat-level: 4
+feat-sppre: [[Leaf Order]]
+mod-difficult_terrain: Ignore if caused by plants, even magic ones.
+modified: 20201024140122662
+tags: Feat Class Druid
+title: Woodland Stride
+type: text/vnd.tiddlywiki
+
+You can always find a path, almost as if foliage parted before you. 
+
+You ignore any [[Difficult Terrain]] caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don’t impede your progress.

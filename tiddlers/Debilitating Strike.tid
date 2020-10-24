@@ -1,0 +1,15 @@
+created: 20201024162510774
+modified: 20201024162615699
+tags: Ability Rogue Action Free
+title: Debilitating Strike
+type: text/vnd.tiddlywiki
+virtual-tags: Debilitation
+
+''Trigger'' Your Strike hits a [[Flat-Footed]] creature and deals damage.
+
+You apply one of the following debilitations, which lasts until the end of your next turn.
+
+* ''Debilitation'' The target takes a –10-foot status penalty to its Speeds.
+* ''Debilitation'' The target becomes [[Enfeebled]] 1.
+
+//A target can only be affected by one Debilitation (of any kind) at once.//

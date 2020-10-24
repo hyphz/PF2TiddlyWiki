@@ -1,0 +1,13 @@
+created: 20201024174155531
+feat-class: Wizard
+feat-fpre: [[Drain Bonded Item]]
+feat-level: 14
+mod-refocus: Gain 2 points instead of 1.
+modified: 20201024174252766
+tags: Class Feat Wizard
+title: Bonded Focus
+type: text/vnd.tiddlywiki
+
+Your connection to your bonded item increases your focus pool.
+
+If you have spent at least 2 Focus Points since the last time you Refocused and your bonded item is in your possession, you recover 2 Focus Points when you [[Refocus]] instead of 1.

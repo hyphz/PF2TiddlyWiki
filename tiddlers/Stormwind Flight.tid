@@ -4,6 +4,10 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806202338649
+feat-altname: Wind Caller
+feat-class: Druid
+feat-level: 8
+feat-sppre: [[Storm Order]]
 m-area: 
 m-components: Somatic Verbal
 m-duration: 1 minute
@@ -12,12 +16,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200806202449242
+modified: 20201024141902443
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Transmutation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Transmutation Class Feat
 title: Stormwind Flight
 type: text/vnd.tiddlywiki
 

@@ -1,0 +1,15 @@
+created: 20201024153120879
+feat-class: Druid
+feat-fpre: [[Verdant Weapon]]
+feat-level: 10
+mod-verdant_weapon: Weapon is Cold Iron and Silver and does extra bleed damage.
+modified: 20201024153228382
+tags: Feat Class Druid
+title: Pristine Weapon
+type: text/vnd.tiddlywiki
+
+Your verdant weapon can cut through the resistances of magical creatures. 
+
+The weapon is treated as cold iron and silver. 
+
+If you critically hit a creature that has a weakness to cold iron or silver, the target takes 1d6 persistent bleed damage as the primal energies within your weapon slow its natural healing.

@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201024143401749
+feat-class: Druid
+feat-level: 10
+modified: 20201024143748564
+tags: Feat Class Druid Action Metamagic
+title: Healing Transformation
+type: text/vnd.tiddlywiki
+virtual-tags: Healing
+
+You can take advantage of shapechanging magic to close wounds and patch injuries. 
+
+If your next action is to cast a non-cantrip <<tag Polymorph>> spell that targets only one reature, your polymorph spell also restores 1d6 Hit Points per spell level to that creature. 
+
+This is a <<tag Healing>> effect.

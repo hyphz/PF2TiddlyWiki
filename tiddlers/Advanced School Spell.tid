@@ -1,0 +1,23 @@
+created: 20201024172151735
+feat-class: Wizard
+feat-level: 8
+modified: 20201024172332559
+tags: Class Feat Wizard
+title: Advanced School Spell
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' You must specialise in an arcane school.
+
+You gain access to a powerful new school spell depending on your arcane school. 
+
+| !Specialized School | !Spell Gained |
+| Abjuration | [[Energy Absorption]] |
+| Conjuration | [[Dimensional Steps]] |
+| Divination | [[Vigilant Eye]] |
+| Enchantment | [[Dread Aura]] |
+| Evocation | [[Elemental Tempest]] |
+| Illusion | [[Invisibility Cloak]] |
+| Necromancer | [[Life Siphon]] |
+| Transmutation | [[Shifting Form]] |
+
+Increase the number of Focus Points in your focus pool by 1.

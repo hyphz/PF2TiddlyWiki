@@ -1,0 +1,18 @@
+a-actions: 1
+a-subactions: Demoralize
+created: 20201024152853204
+feat-class: Druid
+feat-level: 8
+feat-skill: Intimidation
+feat-spre: T
+modified: 20201024153048883
+modified-by: Demoralize
+tags: Feat Class Druid Action
+title: Deimatic Display
+type: text/vnd.tiddlywiki
+
+Imitating animal threat displays, you make yourself appear larger and more imposing. 
+
+Roll one [[Intimidation]] check to [[Demoralize]] and compare the result to the [[Will]] DC of each animal, fungus, and plant creature in a 15-foot cone. 
+
+When you do, Demoralize gains the <<tag Visual>> trait, and creatures are affected if they can see you. You don’t take a penalty if the creature doesn’t understand your language.

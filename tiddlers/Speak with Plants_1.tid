@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200729225426391
+modified: 20201024140402299
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
 tags: Spell Somatic Verbal Concentrate Manipulate Divination Plant Primal
-title: Speak With Plants
+title: Speak with Plants
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}

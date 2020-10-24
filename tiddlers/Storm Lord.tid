@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806201415493
+feat-class: Druid
+feat-fpre: [[Stormwind Flight]]
+feat-level: 18
 m-area: 100 foot [[Emanation]]
 m-components: Somatic Verbal
 m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
@@ -12,12 +15,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200806202254316
+modified: 20201024150518015
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Electricity Evocation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Electricity Evocation Class Feat
 title: Storm Lord
 type: text/vnd.tiddlywiki
 

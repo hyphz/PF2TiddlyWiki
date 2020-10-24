@@ -1,0 +1,16 @@
+created: 20201024175756864
+feat-class: Wizard
+feat-level: 1
+feat-skill: Arcana
+feat-spre: T
+mod-learn_a_spell: Takes half time and promotes fumbles.
+modified: 20201024175852757
+tags: Feat Class Wizard
+title: Spellbook Prodigy
+type: text/vnd.tiddlywiki
+
+You are particularly adept at learning spells to add to your spellbook. 
+
+You can [[Learn a Spell]] in half the time it normally takes. 
+
+Further, when you roll a critical failure on your check to Learn a Spell, you get a failure instead. When you roll a failure, you can try again after 1 week.

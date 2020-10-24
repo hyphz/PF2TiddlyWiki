@@ -1,0 +1,15 @@
+created: 20201024141217795
+feat-class: Druid
+feat-level: 8
+mod-illusory_disguise: Added as Primal spell.
+mod-illusory_object: Added as Primal spell.
+mod-illusory_scene: Added as Primal spell.
+mod-veil: Added as Primal spell.
+modified: 20201024141424606
+tags: Feat Class Druid
+title: Fey Caller
+type: text/vnd.tiddlywiki
+
+You have learned some of the tricks the fey use to bend primal magic toward illusions and trickery. 
+
+Add [[Illusory Disguise]], [[Illusory Object]], [[Illusory Scene]], and [[Veil]] to your spell list as primal spells.

@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20201024152456267
+feat-class: Druid
+feat-level: 6
+mod-fortitude: +1 circumstance vs air or water after spell.
+mod-reflex: +1 circumstance vs air or water after spell.
+mod-will: +1 circumstance vs air or water after spell.
+modified: 20201024152739927
+tags: Feat Class Druid Metamagic Action Abjuration Concentrate
+title: Current Spell
+type: text/vnd.tiddlywiki
+virtua-tags: Air Water
+
+As you use your magic to manipulate air or water, you divert some of its currents to form a barrier around you. 
+
+If your next action is to [[Cast a Spell]] with the air or water trait, until the start of your next turn, you gain a +1 circumstance bonus to AC or a +2 circumstance bonus against ranged attacks. 
+
+This effect has the <<tag Air>> or <<tag Water>> trait, or both, depending on the traits of the spell you cast. 
+
+You also gain a +1 circumstance bonus to all saves against effects with the air trait, water trait, or both until the start of your next turn, depending on the spell’s traits.

@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20201024163159738",
+        "title": "Master Strike",
+        "modified": "20201024163336075",
+        "tags": "Action Free Ability Rogue Incapacitation",
+        "text": "''Trigger'' Your [[Strike]] hits a [[Flat-Footed]] creature and deals damage.\n\nThe target attempts a [[Fortitude]] save at your class DC. \n\nIt then becomes temporarily immune to your Master Strike for 1 day.\n\n{{||SaveSuccessTable}}\n",
+        "type": "text/vnd.tiddlywiki",
+        "a-class": "Rogue",
+        "s-crit": "The target is unaffected.",
+        "s-hit": "The target is [[Enfeebled]] 2 until the end of your next turn.",
+        "s-fail": "The target is [[Paralyzed]] for 4 rounds.",
+        "s-fumble": " The target is [[Paralyzed]] for 4 rounds, knocked [[Unconscious]] for 2 hours, or killed (your choice)."
+    }
+]

@@ -1,12 +1,12 @@
 created: 20200711181407107
-feat-class: Wizard
+feat-class: Druid Wizard
 feat-level: 2
-modified: 20200711181500478
-tags: Ability Class Feat Wizard
+modified: 20201024134551938
+tags: Ability Class Feat Wizard Druid
 title: Enhanced Familiar
 type: text/vnd.tiddlywiki
 
-''Prerequisites'' A [[Familiar]].
+''Prerequisites'' A [[Familiar|Familiar (Rule)]].
 
 You infuse your familiar with additional magical energy. 
 

@@ -1,0 +1,17 @@
+created: 20201024150558655
+feat-class: Druid
+feat-fpre: [[Wild Shape]]
+feat-level: 18
+feat-statpre: Strength
+feat-statprel: 18
+mod-form_control: Form is permanent until dismissed.
+modified: 20201024150717264
+tags: Class Feat Druid
+title: Perfect Form Control
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Strength]] 18.
+
+Thanks to magic and muscle memory, you can stay in your alternate forms indefinitely; you may have even forgotten your original form. 
+
+When you use [[Form Control]], instead of lasting 1 hour, wild shape is permanent until you [[Dismiss]] it.

@@ -1,0 +1,10 @@
+created: 20201024160024941
+mod-difficult_terrain: Ignore difficult terrain.
+modified: 20201024160103229
+tags: Ability Ranger
+title: Wild Stride
+type: text/vnd.tiddlywiki
+
+You move quickly through obstacles, whether they’re tumbled stone, tangled undergrowth, or sucking mud.
+
+You can ignore the effects of non-magical [[Difficult Terrain]]. As normal for ignoring difficult terrain, this also lets you treat the hindrances of greater difficult terrain as those of difficult terrain.

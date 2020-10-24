@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20201024134917806
+feat-class: Druid
+feat-fpre: [[Wild Shape]]
+feat-level: 4
+feat-statpre: Strength
+feat-statprel: 14
+mod-wild_shape: Can remain in form up to 1 hour.
+modified: 20201024135133880
+tags: Class Feat Druid Action Manipulate Metamagic
+title: Form Control
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Strength]] 14.
+
+With additional care and effort, you can take on an alternate form for a longer period of time. 
+
+If your next action is to cast [[Wild Shape]], wild shape’s spell level is 2 lower than normal (minimum 1st level), but you can remain transformed for up to 1 hour or the listed duration (whichever is longer). 
+
+You can still [[Dismiss]] the form at any time, as permitted by the spell.

@@ -1,0 +1,15 @@
+created: 20201024140411935
+feat-class: Druid
+feat-fpre: [[Wild Shape]]
+feat-level: 6
+mod-wild_shape: Can choose forms from Insect Form and become a non-flying insect pest for 24 hours.
+modified: 20201024140522533
+tags: Feat Class Druid
+title: Insect Shape
+type: text/vnd.tiddlywiki
+
+Your understanding of life expands, allowing you to mimic a wider range of creatures. 
+
+Add the forms in [[Insect Form]] to your [[Wild Shape]] list. 
+
+Whenever you use wild shape to polymorph into the non-flying insect form listed in [[Pest Form]], the duration is 24 hours instead of 10 minutes.

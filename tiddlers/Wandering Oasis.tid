@@ -1,0 +1,16 @@
+created: 20201024153308088
+feat-class: Druid
+feat-level: 12
+feat-skill: Survival
+feat-spre: M
+mod-temperature_effects: Allies in 60' protected against severe effects and maybe extreme.
+modified: 20201024153512958
+tags: Feat Class Druid
+title: Wandering Oasis
+type: text/vnd.tiddlywiki
+
+You’re surrounded by soothing energy. 
+
+You and allies within 60 feet of you are protected from [[severe environmental heat and cold|Temperature Effects]]. 
+
+If you’re legendary in [[Survival]], you and those allies are also protected from extreme environmental heat and cold..

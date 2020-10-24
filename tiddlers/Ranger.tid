@@ -1,0 +1,47 @@
+cls-combt: Simple Martial Unarmed Light Medium Unarmored
+cls-exskills: 4
+cls-fortitude: E
+cls-hpbase: 10
+cls-key: Strength Dexterity
+cls-per: E
+cls-reflex: E
+cls-tskills: Nature Survival
+cls-will: T
+created: 20201024154257114
+modified: 20201024155151041
+tags: Class
+title: Ranger
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Hunt Prey]] |
+| 2 |  |
+| 3 | [[Iron Will]] |
+| 4 |  |
+| 5 | [[Trackless Step]], [[Weapon Expertise]] |
+| 6 |  |
+| 7 | [[Evasion]], [[Vigilant Senses]], [[Weapon Specialization]] |
+| 8 | |
+| 9 | [[Nature's Edge]], [[Ranger Expertise]] |
+| 10 | |
+| 11 | [[Juggernaut]], [[Medium Armor Expertise]], [[Wild Stride]] |
+| 12 |  |
+| 13 | [[Weapon Mastery]] |
+| 14 |  |
+| 15 | [[Greater Weapon Specialization]], [[Improved Evasion]], [[Incredible Senses]] |
+| 16 |  |
+| 17 | [[Masterful Hunter]] |
+| 18 |  |
+| 19 | [[Second Skin]], [[Swift Prey]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

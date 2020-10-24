@@ -1,0 +1,21 @@
+created: 20201024153537865
+feat-class: Druid
+feat-fpre: [[Wild Shape]]
+feat-level: 14
+modified: 20201024153838140
+tags: Feat Class Druid Action Reaction
+title: Reactive Transformation
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' [[Aerial Form]], [[Dragon Form]], [[Elemental Form]] and/or [[Plant Form]].
+
+You transform reflexively when in danger. 
+
+You cast [[Wild Shape]] to transform into one form granted by one of the prerequisite feats you have, depending on the trigger.
+
+Your form’s resistances and weaknesses apply against the triggering damage.
+
+* ''Trigger'' You fall 10 feet or more; ''Effect'' Choose a form from [[Aerial Form]].
+* ''Trigger'' You take acid, cold, electricity, fire, or poison damage; ''Effect'' Choose a form from [[Dragon Form]] that resists the triggering damage.
+* ''Trigger'' You take fire damage; ''Effect'' Choose a fire elemental form from [[Elemental Form]].
+* ''Trigger'' You take poison damage; ''Effect'' Choose a form from [[Plant Form]].

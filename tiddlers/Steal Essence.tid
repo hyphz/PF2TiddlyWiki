@@ -2,9 +2,9 @@ a-actions: 2
 created: 20200815143015744
 feat-class: Rogue
 feat-level: 20
-feat-sppre: M
-feat-spre: Thievery Arcana Nature Occult Religion
-modified: 20200815143158101
+feat-skill: Thievery Arcana Nature Occult Religion
+feat-spre: M
+modified: 20201024162744004
 tags: Feat Class Uncommon Rogue Action
 title: Steal Essence
 type: text/vnd.tiddlywiki

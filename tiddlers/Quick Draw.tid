@@ -1,0 +1,13 @@
+a-actions: 1
+a-subactions: Interact Strike
+created: 20201024182359642
+feat-class: Ranger
+feat-level: 2
+modified: 20201024182430354
+tags: Ranger Class Feat Action
+title: Quick Draw
+type: text/vnd.tiddlywiki
+
+You draw your weapon and attack with the same motion. 
+
+You [[Interact]] to draw a weapon, then [[Strike]] with that weapon.

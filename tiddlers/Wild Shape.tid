@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806203244901
+feat-class: Druid
+feat-level: 1
+feat-sppre: [[Wild Order]]
 m-area: 
 m-components: Somatic Verbal
 m-duration: 1 minute or longer
@@ -12,12 +15,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200806203421313
+modified: 20201024134317540
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Druid Polymorph Transmutation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Druid Polymorph Transmutation Feat Class
 title: Wild Shape
 type: text/vnd.tiddlywiki
 

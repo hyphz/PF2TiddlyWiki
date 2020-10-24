@@ -1,0 +1,16 @@
+created: 20201024174026392
+feat-class: Wizard
+feat-level: 12
+mod-seek: Also gain level 3 detect magic on what you see.
+modified: 20201024174117783
+tags: Class Feat Wizard Arcana Detection Divination
+title: Magic Sense
+type: text/vnd.tiddlywiki
+
+You have a literal sixth sense for ambient magic in your vicinity.
+
+You can sense the presence of magic auras as though you were always using a 1st-level [[Detect Magic]] spell. This detects magic in your field of vision only. 
+
+When you [[Seek]], you gain the benefits of a 3rd-level detect magic spell on things you see (in addition to the normal benefits of Seeking). 
+
+You can turn this sense off and on with a free action at the start or the end of your turn.

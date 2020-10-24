@@ -1,6 +1,6 @@
 created: 20200806211901251
 mod-damage_roll: Gain +2/3/4 damage according to weapon proficiency.
-modified: 20200806215443612
+modified: 20201024155750616
 tags: Ability
 title: Weapon Specialization
 type: text/vnd.tiddlywiki
@@ -11,4 +11,4 @@ You deal 2 additional damage with weapons and unarmed attacks in which you are a
 
 This damage increases to 3 if you’re a master, and to 4 if you’re legendary.
 
-//If you are a [[Barbarian]], you gain your instinct's specialization ability. This does not apply if you have Barbarian Dedication.//
+//If you are a [[Barbarian]], you also gain your instinct's specialization ability. This does not apply if you have Barbarian Dedication.//

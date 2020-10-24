@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201024161449293
+feat-class: Ranger
+feat-level: 1
+modified: 20201024161545927
+tags: Feat Class Ranger Action Flourish
+title: Twin Takedown
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per round.
+
+''Requirement'' You are wielding two melee weapons, each in a different hand.
+
+You swiftly attack your hunted prey with both weapons. 
+
+Make two [[Strike]]s against your hunted prey, one with each of the required weapons. 
+
+If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply your [[Multiple Attack Penalty]] to each [[Strike]] normally.

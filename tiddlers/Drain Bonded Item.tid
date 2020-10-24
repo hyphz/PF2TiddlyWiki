@@ -1,0 +1,16 @@
+a-class: Wizard
+created: 20201024170417784
+modified: 20201024170731070
+tags: Action Ability Free Arcane Wizard
+title: Drain Bonded Item
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day. //If you are a universalist wizard, you can use Drain Bonded Item once per day to recall a spell of each level you can cast. If you are a specialist, you can only use it once per day in total.//
+
+''Requirements'' You haven’t acted yet on your turn.
+
+You expend the power stored in your bonded item. 
+
+During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. 
+
+You must still [[Cast the Spell|Cast a Spell]] and meet the spell’s other requirements.

@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20201024161158346
+feat-class: Ranger
+feat-level: 1
+modified: 20201024161246900
+tags: Feat Class Ranger Flourish Action
+title: Hunted Shot
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per round.
+
+''Requirement'' You are wielding a ranged weapon with reload 0. 
+
+You take two quick shots against the one you hunt. 
+
+Make two [[Strike]]s against your prey with the required weapon. 
+
+If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. 
+
+Apply your [[Multiple Attack Penalty]] to each Strike normally.

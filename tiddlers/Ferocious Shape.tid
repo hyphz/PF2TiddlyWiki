@@ -1,0 +1,16 @@
+created: 20201024141033823
+feat-class: Druid
+feat-fpre: [[Wild Shape]]
+feat-level: 8
+mod-athletics: +1 status when wild shaped into a form that gives Athletics.
+mod-wild_shape: Can choose forms from Dinosaur Form.
+modified: 20201024141148411
+tags: Feat Class Druid
+title: Ferocious Shape
+type: text/vnd.tiddlywiki
+
+You have mastered the shape of ferocious dinosaurs. 
+
+Add the forms listed in [[Dinosaur Form]] to your wild shape list.
+
+Whenever you use wild shape to take a form that grants you a specific [[Athletics]] modifier, you gain a +1 status bonus to your [[Athletics]] checks.

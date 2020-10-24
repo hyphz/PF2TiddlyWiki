@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201024143643397
+feat-class: Druid Wizard
+feat-level: 10
+modified: 20201024173553611
+tags: Feat Class Druid Action Manipulate Metamagic Wizard
+title: Overwhelming Energy
+type: text/vnd.tiddlywiki
+
+With a complex gesture, you call upon the primal power of your spell to overcome enemies’ resistances. 
+
+If the next action you use is to [[Cast a Spell]], the spell ignores an amount of the target’s resistance to acid, cold, electricity, fire, or sonic damage equal to your level. 
+
+This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by [[Wall of Fire]]. 
+
+A creature’s immunities are unaffected.
