@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201031181251478
+feat-class: Rogue
+feat-level: 14
+modified: 20201031181356110
+tags: Feat Class Rogue Action Concentrate
+title: Instant Opening
+type: text/vnd.tiddlywiki
+virtual-tags: Auditory Visual
+
+You distract your opponent with a few choice words or a rude gesture. 
+
+Choose a target within 30 feet. 
+
+It’s [[Flat-Footed]] against your attacks until the end of your next turn. 
+
+Depending on the way you describe your distraction, this action gains either the <<tag Auditory>> or <<tag Visual>> trait.

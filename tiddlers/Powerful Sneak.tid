@@ -1,0 +1,11 @@
+created: 20201031182856602
+feat-class: Rogue
+feat-level: 18
+modified: 20201031183031399
+tags: Feat Class Rogue
+title: Powerful Sneak
+type: text/vnd.tiddlywiki
+
+You have learned to exploit your enemies’ lowered defenses.
+
+When you succeed or critically succeed at a [[Strike]] using your [[Strength]] modifier on the attack roll and you would deal [[Sneak Attack]] damage, you can change the additional damage from sneak attack into ordinary damage of the same type as your Strike, rather than precision damage.

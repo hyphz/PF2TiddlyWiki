@@ -1,0 +1,13 @@
+created: 20201031190730120
+feat-class: Rogue
+feat-level: 6
+feat-skill: Stealth
+feat-spre: E
+modified: 20201031190847779
+tags: Feat Class Rogue Exploration
+title: Anticipate Ambush
+type: text/vnd.tiddlywiki
+
+Using your extensive knowledge of ambush tactics, you keep watch for any hidden creatures or dangerous sites, moving at half your travel speed. 
+
+If you’re Anticipating an Ambush at the start of an encounter, you roll a [[Perception]] check for initiative, and all enemies rolling [[Stealth]] for initiative take a –2 circumstance penalty to their Stealth checks.

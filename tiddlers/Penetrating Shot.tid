@@ -1,0 +1,22 @@
+a-actions: 2
+created: 20201031152819902
+feat-class: Ranger
+feat-level: 10
+modified: 20201031153039291
+tags: Feat Class Ranger Action Open
+title: Penetrating Shot
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a ranged weapon.
+
+You shoot clear through an intervening creature to hit your prey. 
+
+Choose a target that is giving lesser [[Cover]] to your hunted prey. 
+
+Make a single ranged [[Strike]] with the required weapon against the chosen target and your hunted prey. 
+
+This attack ignores any lesser cover the chosen target provides your hunted prey. 
+
+Roll damage only once, and apply it to each creature you hit. 
+
+A Penetrating Shot counts as two attacks for your [[Multiple Attack Penalty]].

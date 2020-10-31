@@ -1,0 +1,15 @@
+created: 20201031164810348
+feat-class: Ranger
+feat-fpre: [[Ubiquitous Snares]]
+feat-level: 20
+mod-craft: Prepare temporary snare without expending it.
+modified: 20201031164859497
+tags: Feat Class Ranger
+title: Impossible Snares
+type: text/vnd.tiddlywiki
+
+You can create endless shorter-lived snares, protecting your lair or using them against foes. 
+
+Once per minute, you can [[Craft]] one of the snares you’ve prepared for quick deployment without expending the prepared snare. 
+
+Once deployed, such a snare lasts for 10 minutes before losing its effectiveness.

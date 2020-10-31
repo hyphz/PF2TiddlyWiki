@@ -1,0 +1,21 @@
+created: 20201031184523581
+feat-class: Rogue
+feat-level: 1
+feat-skill: Deception
+feat-spre: T
+mod-feint: Can choose alternative critical and success effects.
+modified: 20201031184731223
+tags: Feat Class Rogue
+title: Overextending Feint
+type: text/vnd.tiddlywiki
+
+When you trick a foe, instead of catching them off guard, you goad them into overextending their next attack. 
+
+On a successful [[Feint]], you can use the following success and critical success effects instead of any other effects that would occur when you Feint. 
+
+You can choose a different effect each time you Feint against a given foe. 
+
+''Critical Success'' The target takes a –2 circumstance penalty to all attack rolls against you before the end of its next turn.
+
+''Success'' The target takes a –2 circumstance penalty to its next
+attack roll against you before the end of its next turn.

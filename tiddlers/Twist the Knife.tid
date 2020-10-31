@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201031173520009
+feat-class: Rogue
+feat-level: 6
+modified: 20201031173603590
+tags: Feat Class Rogue Action
+title: Twist the Knife
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your last action was a melee [[Strike]] that dealt sneak attack damage to a [[Flat-Footed]] target.
+
+After stabbing your opponent in a weak spot, you tear the wound open. 
+
+You deal persistent bleed damage to the target equal to your number of sneak attack damage dice.

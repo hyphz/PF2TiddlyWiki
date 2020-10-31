@@ -1,0 +1,15 @@
+created: 20201031160203503
+feat-class: Ranger
+feat-fpre: [[Masterful Hunter]]
+feat-level: 18
+mod-masterful_hunter: Give up benefit to select a different hunter's edge.
+modified: 20201031160320315
+tags: Feat Class Ranger
+title: Manifold Edge
+type: text/vnd.tiddlywiki
+
+You’ve learned every possible edge to use against your foes.
+
+When you use [[Hunt Prey]], you can gain a hunter’s edge benefit other than the one you selected at 1st level. 
+
+If you do, you don’t gain the additional benefit from [[Masterful Hunter]].

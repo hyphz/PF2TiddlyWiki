@@ -1,0 +1,21 @@
+a-actions: 2
+a-defense: Reflex
+a-subactions: Strike
+created: 20201031180541858
+feat-class: Rogue
+feat-level: 12
+modified: 20201031180801921
+s-fail: The target falls up to 120 feet. If it hits the ground, it takes no damage from the fall.
+s-fumble: As failure, and the target can’t fly, jump, levitate, or otherwise leave the ground until the end of your next turn.
+s-hit: The target is unaffected.
+tags: Feat Class Rogue Action
+title: Felling Shot
+type: text/vnd.tiddlywiki
+
+Your ranged attacks can shoot an unprepared foe right out of the air. 
+
+Make a [[Strike]] with a ranged weapon or a thrown weapon against a [[Flat-Footed]] creature. 
+
+If the Strike is a success and deals damage, the target must attempt a [[Reflex]] save against your class DC with the following effects.
+
+{{||SaveSuccessTable}}

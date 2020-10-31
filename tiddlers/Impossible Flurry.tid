@@ -1,0 +1,16 @@
+a-actions: 3
+created: 20201031155948096
+feat-class: Ranger
+feat-level: 18
+modified: 20201031160053519
+tags: Feat Class Ranger Flourish Open Action
+title: Impossible Flurry
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding two melee weapons, each in a different hand.
+
+You forgo precision to attack at an impossible speed. 
+
+Make three melee [[Strike]]s with each of the required weapons. 
+
+All of these Strikes take the maximum [[Multiple Attack Penalty]], as if you had already made two or more attacks this turn.

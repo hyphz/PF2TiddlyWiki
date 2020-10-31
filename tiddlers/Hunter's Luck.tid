@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812215029829
+feat-class: Ranger
+feat-fpre: [[Warden Spells]]
+feat-level: 4
 m-area: 
 m-components: Verbal
 m-domain: 
@@ -14,12 +17,12 @@ m-save:
 m-targets: You
 m-time: 
 mod-recall_knowledge: Can give best of 2 rolls about a creature.
-modified: 20200812215146158
+modified: 20201031163005566
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Fortune Ranger Free
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Fortune Ranger Free Class Feat
 title: Hunter's Luck
 type: text/vnd.tiddlywiki
 

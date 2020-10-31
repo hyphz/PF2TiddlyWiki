@@ -1,0 +1,12 @@
+created: 20201031173353766
+feat-class: Rogue
+feat-level: 6
+mod-difficult_terrain: Ignore on stride or step.
+modified: 20201031173428804
+tags: Feat Class Rogue
+title: Light Step
+type: text/vnd.tiddlywiki
+
+You aren’t bothered by tricky footing. 
+
+When you [[Stride]] or [[Step]], you can ignore [[Difficult Terrain]].

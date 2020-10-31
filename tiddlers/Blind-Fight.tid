@@ -1,13 +1,13 @@
 created: 20201003170109345
-feat-class: Fighter Investigator
+feat-class: Fighter Investigator Ranger Rogue
 feat-level: 8
 feat-skill: Perception
 feat-spre: M
 mod-concealed: Can target creatures without check.
 mod-hidden: Not flat-footed by creature being hidden; flat check DC 5.
 mod-undetected: Make creature Hidden if adjacent and equal or lower level.
-modified: 20201010143449047
-tags: Investigator Feat Class Fighter
+modified: 20201031173640817
+tags: Investigator Feat Class Fighter Ranger Rogue
 title: Blind-Fight
 type: text/vnd.tiddlywiki
 

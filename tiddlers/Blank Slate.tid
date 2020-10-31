@@ -1,0 +1,18 @@
+created: 20201031181615524
+feat-class: Rogue
+feat-level: 16
+feat-skill: Deception
+feat-spre: L
+modified: 20201031181917808
+modtag-detection: Immune if counteract level below 20.
+modtag-revelation: Immune if counteract level below 20.
+modtag-scrying: Immune if counteract level below 20.
+tags: Feat Class Rogue
+title: Blank Slate
+type: text/vnd.tiddlywiki
+
+Your deceptions confound even the most powerful mortal divinations. 
+
+<<tag Detection>>, <<tag Revelation>>, and <<tag Scrying>> effects pass right over you, your possessions, and your auras, detecting nothing unless the detecting effect has a counteract level of 20 or higher. 
+
+For example, [[Detect Magic]] would still detect other magic in the area but not any magic on you, [[True Seeing]] wouldn’t reveal you, [[Locate]] or [[Scrying]] wouldn’t find you, and so on.

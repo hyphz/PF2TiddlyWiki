@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20201031182611412
+feat-class: Rogue
+feat-level: 16
+feat-skill: Deception
+feat-spre: L
+modified: 20201031182700099
+tags: Feat Class Rogue Action
+title: Perfect Distraction
+type: text/vnd.tiddlywiki
+
+You use clever tactics to mislead your foes as you sneak away.
+
+You [[Sneak]] while leaving a decoy behind. 
+
+The decoy acts as the spell [[Mislead]], though you aren’t [[Invisible]], just [[Undetected]].
+
+You can continue to concentrate to move your decoy, as with the spell, whether or not you remain hidden throughout the duration. 
+
+Once you use Perfect Distraction, you need to spend 10 minutes to set up another decoy before you can use it again.

@@ -1,0 +1,13 @@
+a-actions: 1
+created: 20201031185542893
+feat-class: Rogue
+feat-level: 4
+modified: 20201031185633939
+tags: Feat Class Rogue Action
+title: Head Stomp
+turn-euc: Flat-Footed wears off.
+type: text/vnd.tiddlywiki
+
+Make an unarmed melee attack against a [[Prone]] target. 
+
+On a hit, the target becomes [[Flat-Footed]] to all attacks until the end of your next turn.

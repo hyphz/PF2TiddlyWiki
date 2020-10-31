@@ -1,0 +1,24 @@
+a-actions: 1
+a-crit: You deal damage equal to four times your Thievery proficiency bonus.
+a-defense: Reflex
+a-fumble: Temporarily immune to your Sabotage for 1 day.
+a-hands: 1
+a-hit: You deal damage equal to double your Thievery proficiency bonus.
+a-skill: Thievery
+created: 20201031172847273
+feat-class: Rogue
+feat-level: 4
+modified: 20201031173058660
+tags: Feat Class Rogue Action
+title: Sabotage
+type: text/vnd.tiddlywiki
+
+You subtly damage others’ equipment. 
+
+Choose one item that a creature within your reach wields or carries. The item must have moving parts that you could possibly sabotage (a shortbow could be sabotaged, but a longsword could not). 
+
+Attempt a [[Thievery]] check against the [[Reflex]] DC of the creature. 
+
+Damage dealt by Sabotage can’t take the item below its Break Threshold.
+
+{{||ActionSuccessTable}}

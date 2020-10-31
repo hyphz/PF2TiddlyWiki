@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812214204460
+feat-class: Ranger
+feat-fpre: [[Warden Spells]]
+feat-level: 8
 m-area: 
 m-components: Somatic Verbal
 m-domain: 
@@ -13,12 +16,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20200812214300133
+modified: 20201031163707445
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Polymorph Ranger Transmutation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Polymorph Ranger Transmutation Class Feat
 title: Enlarge Companion
 type: text/vnd.tiddlywiki
 

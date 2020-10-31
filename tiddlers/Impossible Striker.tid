@@ -1,0 +1,15 @@
+created: 20201031183409046
+feat-class: Rogue
+feat-fpre: [[Sly Striker]]
+feat-level: 20
+mod-sly_striker: Deal full sneak attack damage with sly striker.
+modified: 20201031183628036
+tags: Feat Class Rogue
+title: Impossible Striker
+type: text/vnd.tiddlywiki
+
+Your attacks are swift and deadly beyond explanation.
+
+Nothing can prevent you from making a [[Sneak Attack]], even if your opponent can see every blow coming. 
+
+Instead of dealing the damage from [[Sly Striker]], you can deal your full sneak attack damage to a target even if the target isn’t flat-footed.

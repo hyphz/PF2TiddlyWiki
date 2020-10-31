@@ -1,0 +1,17 @@
+created: 20201031144643896
+feat-class: Ranger
+feat-level: 4
+modified: 20201031144920450
+tags: Feat Class Ranger
+title: Favored Enemy
+type: text/vnd.tiddlywiki
+
+You have studied a specific type of wild creature and can hunt it more easily. 
+
+When you gain this feat, choose <<tag Animal>>s, <<tag Beast>>s, <<tag Dragon>>s, or both fungi and <<tag Plant>>s as your favored enemy. 
+
+When you roll initiative and can see an enemy that belongs to the chosen category, you can [[Hunt Prey]] as a free action, designating that enemy.
+
+You can use this free action even if you haven’t identified the creature yet with [[Recall Knowledge]]. 
+
+The benefit doesn’t apply against favored enemies disguised as other creatures, and the GM determines whether it applies against a creature disguised as a favored enemy.

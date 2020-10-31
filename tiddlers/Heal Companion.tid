@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812214856181
+feat-class: Ranger
+feat-level: 1
 m-area: 
 m-components: Somatic Verbal
 m-domain: 
@@ -13,12 +15,12 @@ m-range: [[Touch]] or 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20200812215001106
+modified: 20201031162326209
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger Feat Class
 title: Heal Companion
 type: text/vnd.tiddlywiki
 

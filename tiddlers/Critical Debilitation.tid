@@ -1,0 +1,21 @@
+created: 20201031175825721
+feat-class: Rogue
+feat-fpre: [[Debilitating Strike]]
+feat-level: 12
+mod-debilitating_strike: Adds special effect on crit.
+modified: 20201031180206430
+s-crit: The target is unaffected.
+s-fail: The target is [[Slowed]] 2 until the end of your next turn.
+s-fumble: The target is [[Paralyzed]] until the end of your next turn.
+s-hit: The target is [[Slowed]] 1 until the end of your next turn.
+tags: Feat Class Rogue Incapacitation
+title: Critical Debilitation
+type: text/vnd.tiddlywiki
+
+Your debilitations are especially effective on your most powerful attacks. 
+
+Whenever you critically succeed at an attack roll against an enemy and use [[Debilitating Strike]], add the following debilitation to the list you can choose from:
+
+The target attempts a [[Fortitude]] save against your class DC with the following effects.
+
+{{||SaveSuccessTable}}

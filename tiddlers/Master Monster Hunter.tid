@@ -1,0 +1,19 @@
+created: 20201031152406569
+feat-class: Ranger
+feat-fpre: [[Monster Hunter]]
+feat-level: 10
+feat-skill: Nature
+feat-spre: M
+mod-monster_hunter: Spot weakness on a regular success.
+mod-monster_warden: Give bonus on a regular success.
+mod-recall_knowledge: Use Nature to identify any creature.
+modified: 20201031152708861
+tags: Feat Class Ranger
+title: Master Monster Hunter
+type: text/vnd.tiddlywiki
+
+You have a nearly encyclopedic knowledge of all creatures of the world. 
+
+You can use [[Nature]] to [[Recall Knowledge]] to identify any creature. 
+
+In addition, you gain the benefits of [[Monster Hunter]] (and [[Monster Warden]], if you have it) on a success as well as a critical success.

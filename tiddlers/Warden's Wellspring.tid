@@ -1,0 +1,13 @@
+created: 20201031164424373
+feat-class: Ranger
+feat-fpre: [[Warden's Focus]]
+feat-level: 18
+mod-refocus: Gain 3 focus points instead of 2.
+modified: 20201031164501897
+tags: Feat Class Ranger
+title: Warden's Wellspring
+type: text/vnd.tiddlywiki
+
+You command unparalleled focus when you commune with the world around you. 
+
+If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you [[Refocus]] instead of 1.

@@ -1,10 +1,10 @@
 a-actions: 1
 a-subactions: Interact Strike
 created: 20201024182359642
-feat-class: Ranger
+feat-class: Ranger Rogue
 feat-level: 2
-modified: 20201024182430354
-tags: Ranger Class Feat Action
+modified: 20201031170944048
+tags: Ranger Class Feat Action Rogue
 title: Quick Draw
 type: text/vnd.tiddlywiki
 

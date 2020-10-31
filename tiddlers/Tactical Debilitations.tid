@@ -1,0 +1,16 @@
+created: 20201031175110732
+feat-class: Rogue
+feat-fpre: [[Scoundrel]] [[Debilitating Strike]]
+feat-level: 10
+mod-strike: Add two debilitation possibilites.
+modified: 20201031175207673
+tags: Feat Class Rogue
+title: Tactical Debilitations
+type: text/vnd.tiddlywiki
+
+You learn new debilitations that grant you tactical advantages against your foes. 
+
+Add the following debilitations to the list you can choose from when you use [[Debilitating Strike]].
+
+* ''Debilitation'' The target can’t use [[Reaction]]s.
+* ''Debilitation'' The target can’t flank or contribute to allies’ [[Flanking]].

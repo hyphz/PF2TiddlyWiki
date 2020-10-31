@@ -5,6 +5,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812213957694
+feat-class: Ranger
+feat-fpre: [[Warden Spells]]
+feat-level: 4
 m-area: 
 m-components: Somatic Verbal
 m-domain: 
@@ -14,12 +17,12 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200812214144807
+modified: 20201031162859100
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Ranger Transmutation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Ranger Transmutation Class Feat
 title: Animal Feature
 type: text/vnd.tiddlywiki
 

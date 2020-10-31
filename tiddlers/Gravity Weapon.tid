@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812214659052
+feat-class: Ranger
+feat-level: 1
 m-area: 
 m-components: Somatic
 m-domain: 
@@ -13,12 +15,12 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200812214747989
+modified: 20201031162231444
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Ranger
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Feat Class Ranger
 title: Gravity Weapon
 type: text/vnd.tiddlywiki
 

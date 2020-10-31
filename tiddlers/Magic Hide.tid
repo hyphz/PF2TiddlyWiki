@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812215547221
+feat-class: Ranger
+feat-fpre: [[Warden Spells]]
+feat-level: 2
 m-area: 
 m-components: Somatic
 m-domain: 
@@ -13,12 +16,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20200812215624509
+modified: 20201031162503671
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Ranger
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Ranger Class Feat
 title: Magic Hide
 type: text/vnd.tiddlywiki
 

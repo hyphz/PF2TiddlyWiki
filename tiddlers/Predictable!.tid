@@ -1,0 +1,25 @@
+a-actions: 1
+a-crit: You precisely discern the target’s strategy, gaining a +2 circumstance bonus to AC against the creature until the start of your next turn and a +2 circumstance bonus to your next saving throw against the creature before the start of your next turn.
+a-defense: Deception
+a-fail: You fail to discern the target’s strategy and gain no benefit.
+a-fumble: You misinterpret the target’s strategy and take a –1 circumstance penalty to AC against the creature until the start of your next turn, and a –1 circumstance penalty to your next saving throw against the creature before the start of your next turn.
+a-hit: You deduce the gist of the target’s strategy; as critical success, except the circumstance bonus is only +1.
+a-skill: Perception
+created: 20201031185821890
+feat-class: Rogue
+feat-level: 4
+mod-ac: -1/+1-2 circumstance to target.
+mod-fortitude: -1/+1-2 circumstance vs target.
+mod-reflex: -1/+1-2 circumstance vs target.
+mod-will: -1/+1-2 circumstance vs target.
+modified: 20201031190153387
+tags: Feat Class Rogue Action
+title: Predictable!
+turn-sun: Bonus/penalty wears off.
+type: text/vnd.tiddlywiki
+
+By observing an opponent, you can get a sense of their next move and prepare to counter or resist it. 
+
+Choose one target and attempt a [[Perception]] check to [[Sense Motive]] against the foe’s [[Deception]] DC or a hard DC of the foe’s level, whichever is higher.
+
+{{||ActionSuccessTable}}

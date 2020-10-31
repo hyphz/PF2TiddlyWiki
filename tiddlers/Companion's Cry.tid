@@ -1,0 +1,16 @@
+created: 20201031144143923
+feat-class: Ranger
+feat-level: 4
+mod-command_an_animal: Spend 2 actions controlling to give animal an extra actions.
+modified: 20201031144237331
+tags: Feat Class Ranger
+title: Companion's Cry
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' an animal companion.
+
+You can urge your companion to do its utmost. 
+
+You can spend 2 actions to Command an Animal instead of 1 when commanding your animal companion. 
+
+If you do, your animal companion uses an additional action.

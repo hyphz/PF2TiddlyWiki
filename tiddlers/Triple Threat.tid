@@ -1,0 +1,13 @@
+created: 20201031161008751
+feat-class: Ranger
+feat-fpre: [[Shared Prey]]
+feat-level: 20
+mod-shared_prey: Choose 3 times: add a prey; add an affected ally.
+modified: 20201031161257479
+tags: Feat Class Ranger
+title: Triple Threat
+type: text/vnd.tiddlywiki
+
+You can divide your attention three ways when hunting. 
+
+When you use Hunt Prey, you can designate three creatures as prey, designate two creatures as prey and share the effect with one ally (as [[Shared Prey]]), or designate one creature as prey and share the effect with two allies.

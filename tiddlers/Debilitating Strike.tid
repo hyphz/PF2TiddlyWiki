@@ -1,5 +1,5 @@
 created: 20201024162510774
-modified: 20201024162615699
+modified: 20201031180252670
 tags: Ability Rogue Action Free
 title: Debilitating Strike
 type: text/vnd.tiddlywiki
@@ -9,7 +9,17 @@ virtual-tags: Debilitation
 
 You apply one of the following debilitations, which lasts until the end of your next turn.
 
-* ''Debilitation'' The target takes a –10-foot status penalty to its Speeds.
-* ''Debilitation'' The target becomes [[Enfeebled]] 1.
+''Taking certain feats adds extra debilitation options. The list below shows all available options, but most feats require higher levels or particular racket choices.''
+
+| !Extra Feat | !Debilitation |
+|None |The target takes a –10-foot status penalty to its Speeds. |
+|None |The target becomes [[Enfeebled]] 1. |
+|[[Precise Debilitations]] |The target takes an additional 2d6 precision damage from your attacks. |
+|[[Precise Debilitations]] |The target becomes [[Flat-Footed]]. |
+|[[Tactical Debilitations]] |The target can’t use Reactions. |
+|[[Tactical Debilitations]] |The target can’t flank or contribute to allies’ [[Flanking]]. ||
+|[[Vicious Debilitations]] |The target gains Weakness 5 to your choice of bludgeoning, piercing, or slashing damage. |
+|[[Vicious Debilitations]] |The target becomes [[Clumsy]] 1. |
+|[[Critical Debilitation]] |On critical hit, can force a save against incapacitation - see the Feat. |
 
 //A target can only be affected by one Debilitation (of any kind) at once.//

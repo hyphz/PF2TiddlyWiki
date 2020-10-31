@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20201031191354422
+feat-class: Rogue
+feat-level: 8
+modified: 20201031191448449
+tags: Feat Class Rogue Action
+title: Bullseye
+type: text/vnd.tiddlywiki
+
+You carefully take aim before making your attack in order to avoid your foe’s concealment and cover. 
+
+On your next [[Strike]] with a thrown weapon before the end of your turn, you gain a +1 circumstance bonus to your attack roll and ignore your target’s [[Concealed]] condition, as well as the target’s lesser [[Cover]] or standard cover; if the target had greater cover, they instead have only standard cover against the [[Strike]].

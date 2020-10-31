@@ -1,0 +1,14 @@
+created: 20201031145218355
+feat-class: Ranger Rogue
+feat-level: 4
+modified: 20201031173202130
+tags: Feat Class Ranger Action Free Rogue
+title: Scout's Warning
+type: text/vnd.tiddlywiki
+virtual-tags: Visual Auditory
+
+''Trigger'' You are about to roll a [[Perception]] or [[Survival]] check for initiative.
+
+You visually or audibly warn your allies of danger, granting them each a +1 circumstance bonus to their initiative rolls.
+
+Depending on whether you use gestures or call out, this action gains either the <<tag Visual>> or the <<tag Auditory>> trait, respectively.

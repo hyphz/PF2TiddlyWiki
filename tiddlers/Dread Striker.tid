@@ -1,0 +1,12 @@
+created: 20201031171920093
+feat-class: Rogue
+feat-level: 4
+mod-frightened: Victim also flat-footed against striker.
+modified: 20201031171957541
+tags: Feat Class Rogue
+title: Dread Striker
+type: text/vnd.tiddlywiki
+
+You capitalize on your enemies’ fear to slip past their defenses.
+
+Any creature that has the [[Frightened]] condition is also [[Flat-Footed]] against your attacks.

@@ -1,0 +1,18 @@
+created: 20201031151254112
+feat-class: Ranger
+feat-level: 8
+mod-ac: +1 circumstance vs traps and hazards.
+mod-fortitude: +1 circumstance vs traps and hazards.
+mod-perception: +1 circumstance vs traps and hazards.
+mod-reflex: +1 circumstance vs traps and hazards.
+mod-will: +1 circumstance vs traps and hazards.
+modified: 20201031151553363
+tags: Feat Class Ranger
+title: Hazard Finder
+type: text/vnd.tiddlywiki
+
+You have an intuitive ability to sense hazards. 
+
+You gain a +1 circumstance bonus to [[Perception]] checks to find traps and hazards, to AC against their attacks, and to saves against their effects. 
+
+You can find hazards that would normally require you to [[Search]] even if you aren’t Searching.

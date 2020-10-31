@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812215930134
+feat-class: Ranger
+feat-fpre: [[Warden Spells]]
+feat-level: 2
 m-area: 
 m-components: Somatic Verbal
 m-domain: 
@@ -13,12 +16,12 @@ m-range: 10 feet
 m-save: 
 m-targets: One snare you built
 m-time: 
-modified: 20200812220023699
+modified: 20201031162632868
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Ranger Teleportation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Ranger Teleportation Class Feat
 title: Snare Hopping
 type: text/vnd.tiddlywiki
 

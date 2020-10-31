@@ -8,14 +8,14 @@ cls-reflex: E
 cls-tskills: Stealth
 cls-will: E
 created: 20201024161603071
-modified: 20201024162041848
+modified: 20201031184435207
 tags: Class
 title: Rogue
 type: text/vnd.tiddlywiki
 
 !! Splats
 
-<$list filter="[tag<currentTiddler>tag[Splat]]" />
+<$list filter="[tag<currentTiddler>tag[Splat]sort[]]" />
 
 !! Class Features
 

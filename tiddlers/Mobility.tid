@@ -1,0 +1,14 @@
+created: 20201031170826405
+feat-class: Rogue
+feat-level: 2
+mod-stride: Doesn't trigger reactions if half Speed or less.
+modified: 20201031170913508
+tags: Feat Class Rogue
+title: Mobility
+type: text/vnd.tiddlywiki
+
+You move in a way that denies your enemies the opportunity to retaliate. 
+
+When you take a [[Stride]] action to move half your Speed or less, that movement does not trigger reactions. 
+
+You can use Mobility when Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.

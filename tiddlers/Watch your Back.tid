@@ -1,0 +1,18 @@
+a-actions: 1
+a-defense: Will
+a-skill: Intimidation
+created: 20201031191059732
+feat-class: Rogue
+feat-level: 6
+feat-skill: Intimidation
+feat-spre: T
+modified: 20201031191253347
+tags: Feat Class Rogue Action Emotion Fear Mental
+title: Watch your Back
+type: text/vnd.tiddlywiki
+
+You menace the target, stoking their fears and drawing their attention. 
+
+Attempt an [[Intimidation]] check against the [[Will]] DC of a target within 30 feet. 
+
+If you succeed, for 1 minute, that target gains a +2 status bonus to [[Perception]] checks against you, but they take a –2 status penalty to [[Will]] saves against fear effects.

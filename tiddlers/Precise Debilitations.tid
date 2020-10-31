@@ -1,0 +1,16 @@
+created: 20201031174805119
+feat-class: Rogue
+feat-fpre: [[Thief]] [[Debilitating Strike]]
+feat-level: 10
+mod-strike: Add two debilitation possibilites.
+modified: 20201031174916744
+tags: Feat Class Rogue
+title: Precise Debilitations
+type: text/vnd.tiddlywiki
+
+You carefully aim and gracefully deliver your debilitations. 
+
+Add the following debilitations to the list you can choose from when you use [[Debilitating Strike]].
+
+* ''Debilitation'' The target takes an additional 2d6 precision damage from your attacks.
+* ''Debilitation'' The target becomes [[Flat-Footed]].

@@ -1,0 +1,12 @@
+created: 20201031181446408
+feat-class: Rogue
+feat-level: 14
+mod-attack_of_opportunity: Critting a flat-footed opponent makes them provoke AoO.
+modified: 20201031181556257
+tags: Feat Class Rogue
+title: Leave an Opening
+type: text/vnd.tiddlywiki
+
+When you hit hard enough, you leave an opening so your ally can jump in on the action. 
+
+Whenever you critically hit a [[Flat‑Footed]] opponent with a melee attack and deal damage, the target triggers an [[Attack of Opportunity]] reaction from one ally of your choice who has that reaction, as if the enemy had used a <<tag Manipulate>> action.

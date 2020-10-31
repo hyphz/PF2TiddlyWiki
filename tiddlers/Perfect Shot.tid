@@ -1,0 +1,19 @@
+a-actions: 3
+a-subactions: Strike
+created: 20201031160428571
+feat-class: Ranger
+feat-level: 18
+modified: 20201031160530319
+tags: Feat Class Ranger Action Flourish
+title: Perfect Shot
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a loaded ranged weapon with reload 1 or more, and you have not reloaded your weapon since your last turn.
+
+After watching the motions of combat with incredible intensity and precision, you fire at your prey at the perfect moment to deliver maximum pain. 
+
+Make a ranged [[Strike]] with the required weapon against your hunted prey. 
+
+If you hit, the Strike deals maximum damage. 
+
+After the Strike, your turn ends.

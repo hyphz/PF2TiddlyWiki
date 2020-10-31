@@ -1,0 +1,15 @@
+created: 20201031173731106
+feat-class: Rogue
+feat-fpre: [[Poison Weapon]]
+feat-level: 8
+mod-poison_weapon: Simple poisons deal 2d4 damage. Not wasted on fumble.
+modified: 20201031173831543
+tags: Feat Class Rogue
+title: Improved Poison Weapon
+type: text/vnd.tiddlywiki
+
+You deliver poisons in ways that maximize their harmful effects. 
+
+When you apply a simple poison with [[Poison Weapon]], the poison deals 2d4 poison damage instead of 1d4 poison damage. 
+
+You don’t waste a poison you apply with Poison Weapon on a critically failed attack roll.

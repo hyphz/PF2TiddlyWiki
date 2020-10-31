@@ -1,0 +1,15 @@
+created: 20201031153927289
+feat-class: Ranger
+feat-fpre: [[Snare Specialist]]
+feat-level: 12
+feat-skill: Crafting
+feat-spre: M
+mod-snare_specialist: Craft snare with 1 Interact action.
+modified: 20201031154038986
+tags: Feat Class Ranger
+title: Lightning Snares
+type: text/vnd.tiddlywiki
+
+You can rig a trap with incredible speed. 
+
+When you create a snare that normally takes 1 minute to Craft, you can [[Craft]] it using a single [[Interact]] action instead.

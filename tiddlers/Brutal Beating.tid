@@ -1,0 +1,13 @@
+created: 20201031170042751
+feat-class: Rogue
+feat-fpre: Ruffian
+feat-level: 2
+mod-strike: Damaging criticals make foe Frightened 1.
+modified: 20201031170535558
+tags: Feat Class Rogue
+title: Brutal Beating
+type: text/vnd.tiddlywiki
+
+The brutality of your critical hits shakes your foes’ confidence. 
+
+Whenever your [[Strike]] is a critical hit and deals damage, the target is [[Frightened]] 1.

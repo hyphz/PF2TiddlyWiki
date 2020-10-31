@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Strike Steal
+created: 20201031185729442
+feat-class: Rogue
+feat-level: 4
+modified: 20201031185807925
+tags: Feat Class Rogue Action
+title: Mug
+type: text/vnd.tiddlywiki
+
+You make a quick attack and rob your foe in the process.
+
+Make a melee [[Strike]] against an adjacent foe. 
+
+If you hit and deal sneak attack damage, you can also attempt to [[Steal]] from the target, even if the target is in combat.

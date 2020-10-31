@@ -1,0 +1,15 @@
+created: 20201031170317798
+feat-class: Rogue
+feat-fpre: Scoundrel
+feat-level: 2
+mod-perception: -2 circumstance if flat-footed by this feint.
+mod-reflex: -2 circumstance if flat-footed by this feint.
+modified: 20201031170531268
+tags: Feat Class Rogue
+title: Distracting Feint
+type: text/vnd.tiddlywiki
+
+Your Feints are far more distracting than normal, drawing your foes’ attention and allowing
+you and your allies to take greater advantage. 
+
+While a creature is [[Flat-Footed]] by your [[Feint]], it also takes a –2 circumstance penalty to [[Perception]] checks and [[Reflex]] saves.

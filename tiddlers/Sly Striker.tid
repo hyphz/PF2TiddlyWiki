@@ -1,0 +1,17 @@
+created: 20201031174611126
+feat-class: Rogue
+feat-fpre: [[Sneak Attack]]
+feat-level: 8
+mod-strike: Deal 1d6 precision damage if not foe flat footed.
+modified: 20201031174715687
+tags: Feat Class Rogue
+title: Sly Striker
+type: text/vnd.tiddlywiki
+
+Your attacks deal more damage, even against creatures that aren’t [[Flat-Footed]]. 
+
+When you succeed or critically succeed at a [[Strike]] against a creature that isn’t flat-footed, you also deal 1d6 precision damage. 
+
+This applies only if you’re using a weapon or unarmed attack you could deal sneak attack damage with. 
+
+At 14th level, if you would normally deal 3d6 or more sneak attack damage to flat-footed creatures, you deal 2d6 precision damage to creatures that aren’t flat‑footed.

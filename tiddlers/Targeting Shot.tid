@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201031155053504
+feat-class: Ranger
+feat-fpre: [[Hunter's Aim]]
+feat-level: 14
+modified: 20201031155206850
+tags: Feat Class Ranger Actions Concentrate Press
+title: Targeting Shot
+type: text/vnd.tiddlywiki
+
+You carefully track your prey’s position and defenses, allowing you to follow up around obstacles that block your shot.
+
+Make a ranged weapon [[Strike]] against your hunted prey. 
+
+You ignore the target’s [[Concealed]] condition and all cover.

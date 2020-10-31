@@ -4,6 +4,9 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812215252788
+feat-class: Ranger
+feat-fpre: [[Warden Spells]]
+feat-level: 10
 m-area: 
 m-components: Verbal
 m-domain: 
@@ -16,12 +19,12 @@ m-time:
 mod-concealed: Hunted prey still visible and no flat check.
 mod-darkness: Hunted prey still visible.
 mod-invisible: Hunted prey still visible.
-modified: 20200812215510932
+modified: 20201031164126483
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Ranger
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Ranger Class Feat
 title: Hunter's Vision
 type: text/vnd.tiddlywiki
 

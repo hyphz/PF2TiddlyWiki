@@ -1,0 +1,22 @@
+a-actions: 1
+created: 20201031172158895
+feat-class: Rogue
+feat-level: 4
+modified: 20201031172417015
+tags: Feat Class Rogue Action Manipulate
+title: Poison Weapon
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding a piercing or slashing weapon and have a free hand __or are holding a poison__.
+
+You apply a poison to the required weapon. 
+
+If your next attack with that weapon before the end of your next turn hits and deals damage, it applies the effects of the poison, provided that poison can be delivered by contact or injury. 
+
+If you critically fail the attack roll, the poison is wasted as normal.
+
+''Special'' During your daily preparations, you can prepare a number of simple injury poisons equal to your rogue level. 
+
+These poisons deal 1d4 poison damage. 
+
+Only you can apply these poisons properly, and they expire the next time you prepare.

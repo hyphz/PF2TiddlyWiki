@@ -1,0 +1,14 @@
+created: 20201031190230091
+feat-class: Rogue
+feat-level: 4
+mod-trip: Flat-footed target takes bludgeoning damage.
+modified: 20201031190318941
+tags: Feat Class Rogue
+title: The Harder They Fall
+type: text/vnd.tiddlywiki
+
+You make your foes fall painfully when you trip them. 
+
+When you successfully [[Trip]] a [[Flat-Footed]] foe, your target takes 1d6 bludgeoning damage. 
+
+On a critical success, the target takes 1d6 bludgeoning damage plus your [[Sneak Attack]] damage.

@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201031154251095
+feat-class: Ranger
+feat-level: 12
+modified: 20201031154356301
+tags: Feat Class Ranger Action Press
+title: Second Sting
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding two melee weapons, each in a different hand.
+
+You read your prey’s movements and transform them into openings, so failures with one weapon set up glancing blows with the other. 
+
+Make a melee [[Strike]] with one of the required weapons against your hunted prey. 
+
+The Strike gains the following failure effect: You deal the damage the other required weapon would have dealt on a hit, excluding all damage dice. (This removes dice from weapon runes, spells, and special abilities, not just weapon damage dice.)

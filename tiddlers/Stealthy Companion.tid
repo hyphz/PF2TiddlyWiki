@@ -1,0 +1,16 @@
+created: 20201031154852109
+feat-class: Ranger
+feat-fpre: [[Camouflage]]
+feat-level: 14
+mod-ambusher: Increases Stealth proficiency.
+mod-camouflage: Animal Companion gains benefit.
+modified: 20201031155015014
+tags: Feat Class Ranger
+title: Stealthy Companion
+type: text/vnd.tiddlywiki
+
+You’ve trained your animal companion to blend in to its surroundings. 
+
+Your animal companion gains the benefit of the [[Camouflage]] feat. 
+
+If your companion is a specialized ambusher, its proficiency rank for [[Stealth]] increases to master (or legendary if it was already master).

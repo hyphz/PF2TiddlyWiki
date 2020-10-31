@@ -1,0 +1,10 @@
+created: 20201031190857071
+feat-class: Rogue
+feat-level: 6
+mod-twin_feint: If both hit, target must Will save or be Stupefied.
+modified: 20201031190923176
+tags: Feat Class Rogue
+title: Far Throw
+type: text/vnd.tiddlywiki
+
+When you [[Strike]] with a thrown weapon, you take only a –1 penalty for each additional range increment between you and the target, rather than a –2 penalty.

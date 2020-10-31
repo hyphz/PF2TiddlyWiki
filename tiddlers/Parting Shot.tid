@@ -1,9 +1,11 @@
 a-actions: 2
 a-subactions: Strike Step
 created: 20201010161000716
+feat-archadd: Archer
+feat-archlevel: 6
 feat-class: Fighter
 feat-level: 4
-modified: 20201010161046156
+modified: 20201031161616852
 tags: Feat Class Fighter Action
 title: Parting Shot
 type: text/vnd.tiddlywiki

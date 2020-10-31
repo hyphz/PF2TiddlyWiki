@@ -1,0 +1,15 @@
+created: 20201031154644471
+feat-class: Ranger
+feat-fpre: [[Double Prey]] [[Warden's Boon]]
+feat-level: 14
+mod-hunt_prey: Can share one prey with an ally.
+modified: 20201031154833368
+tags: Feat Class Ranger
+title: Shared Prey
+type: text/vnd.tiddlywiki
+
+Hunting as a duo, you and your ally both single out your prey. 
+
+When you use [[Hunt Prey]] and select only one prey, you can grant your Hunt Prey benefits and hunter’s edge to an ally in addition to gaining them yourself. 
+
+The ally retains these benefits until you use Hunt Prey again.

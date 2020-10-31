@@ -1,0 +1,16 @@
+created: 20201031153238049
+feat-class: Ranger
+feat-level: 10
+feat-skill: Stealth
+feat-spre: M
+mod-avoid_notice: Allies get benefits of sneaking as well.
+modified: 20201031153430338
+tags: Feat Class Ranger
+title: Warden's Step
+type: text/vnd.tiddlywiki
+
+You can guide your allies to move quietly through the wilderness. 
+
+When you [[Sneak]] during exploration in natural terrain //(probably while using [[Avoid Notice]])//, you can designate any number of your allies to gain the benefits as if they were using that activity during that exploration. 
+
+This requires no action on their part.

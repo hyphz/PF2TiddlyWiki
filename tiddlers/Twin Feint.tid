@@ -1,0 +1,19 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201031165637325
+feat-class: Rogue
+feat-level: 1
+modified: 20201031165725874
+tags: Class Feat Rogue Action
+title: Twin Feint
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding two melee weapons, each in a different hand.
+
+You make a dazzling series of attacks with both weapons, using the first attack to throw your foe off guard against a second attack at a different angle. 
+
+Make one [[Strike]] with each of your two melee weapons, both against the same target. 
+
+The target is automatically [[Flat‑Footed]] against the second attack. 
+
+Apply your multiple attack penalty to the Strikes normally.

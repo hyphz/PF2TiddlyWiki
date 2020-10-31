@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Stride Strike
+created: 20201031180948835
+feat-class: Rogue
+feat-level: 12
+modified: 20201031181103912
+tags: Feat Class Rogue Action Flourish
+title: Spring from the Shadows
+type: text/vnd.tiddlywiki
+
+Leaping out from hiding, you assail your target when they least expect it. 
+
+You [[Stride]] up to your Speed, but you must end your movement next to an enemy you’re [[Hidden]] from or [[Undetected]] by. 
+
+You then [[Strike]] that enemy; you remain [[Hidden]] from or [[Undetected]] by that creature until after you Strike. 
+
+You can use Spring from the Shadows while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.

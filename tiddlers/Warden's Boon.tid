@@ -1,0 +1,13 @@
+a-actions: 1
+created: 20201031152009670
+feat-class: Ranger
+feat-level: 8
+modified: 20201031152104197
+tags: Feat Class Ranger Action
+title: Warden's Boon
+type: text/vnd.tiddlywiki
+virtual-tags: Auditory Visual
+
+By pointing out vulnerabilities, you grant the benefits listed in [[Hunt Prey]] and your hunter’s edge benefit to an ally until the end of their next turn. 
+
+Depending on whether you call out or use gestures, this action gains either the <<tag Auditory>> or <<tag Visual>> trait.

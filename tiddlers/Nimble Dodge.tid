@@ -1,0 +1,13 @@
+created: 20201031165444169
+feat-class: Rogue
+feat-level: 1
+modified: 20201031165530422
+tags: Class Feat Rogue Action Reaction
+title: Nimble Dodge
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature targets you with an attack and you can see the attacker.
+
+''Requirements'' You are not [[Encumbered]].
+
+You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.

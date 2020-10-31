@@ -1,0 +1,13 @@
+created: 20201031171007410
+feat-class: Rogue
+feat-fpre: Thief
+feat-level: 2
+mod-strike: Damaging criticals make foe Flat-footed against you.
+modified: 20201031171421880
+tags: Feat Class Rogue
+title: Unbalancing Blow
+type: text/vnd.tiddlywiki
+
+Interweaving your most powerful attacks in a graceful flow, you temporarily unbalance your foes. 
+
+Whenever your [[Strike]] is a critical hit and deals damage, the target is [[Flat‑Footed]] against your attacks until the end of your next turn.

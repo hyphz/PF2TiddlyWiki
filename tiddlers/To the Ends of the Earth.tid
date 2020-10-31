@@ -1,0 +1,18 @@
+created: 20201031160833625
+feat-class: Ranger
+feat-level: 20
+feat-skill: Survival
+feat-spre: L
+modified: 20201031160937894
+tags: Feat Class Ranger
+title: To the Ends of the Earth
+type: text/vnd.tiddlywiki
+virtual-tags: Detection Divination Primal
+
+Your ability to track your prey has surpassed explanation, allowing you to trace your prey’s movements and predict its location with ease. 
+
+When you use [[Hunt Prey]] on a creature within 100 feet, you can follow that creature’s movements, allowing you to know the creature’s exact location no matter how far away it becomes, as long as it remains your prey. 
+
+You must be legendary in Nature to track your prey’s location across teleportation or planar travel. 
+
+This feat gains the <<tag Detection>>, <<tag Divination>>, and <<tag Primal>> traits if you’re legendary in Nature.

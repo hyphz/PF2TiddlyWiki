@@ -1,0 +1,16 @@
+created: 20201031175636767
+feat-class: Rogue
+feat-fpre: [[Ruffian]] [[Debilitating Strike]]
+feat-level: 10
+mod-strike: Add two debilitation possibilites.
+modified: 20201031175717499
+tags: Feat Class Rogue
+title: Vicious Debilitations
+type: text/vnd.tiddlywiki
+
+The debilitations you dish out seriously impair your foes. 
+
+Add the following debilitations to the list you can choose from when you use [[Debilitating Strike]].
+
+* ''Debilitation'' The target gains [[Weakness]] 5 to your choice of bludgeoning, piercing, or slashing damage.
+* ''Debilitation'' The target becomes [[Clumsy]] 1.

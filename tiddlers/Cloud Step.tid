@@ -1,0 +1,18 @@
+created: 20201031181906503
+feat-class: Rogue
+feat-level: 16
+feat-skill: Acrobatics
+feat-spre: L
+mod-stride: Can stride over insubstantial surfaces.
+modified: 20201031182013412
+tags: Feat Class Rogue
+title: Cloud Step
+type: text/vnd.tiddlywiki
+
+Using fantastic acrobatic skill, you can walk for brief stretches across insubstantial surfaces. 
+
+When you [[Stride]], you can move across water, air, and solid surfaces that can hold only limited weight as if they were normal ground. 
+
+If you [[Stride]] over a trap with a weight-sensitive pressure plate, you don’t trigger it. 
+
+At the end of your turn, you sink, fall, break fragile surfaces, or trigger traps as normal for your current location.

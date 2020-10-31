@@ -1,0 +1,14 @@
+created: 20201031172046309
+feat-class: Rogue
+feat-level: 4
+mod-cast_a_spell: Spells attacking AC can deal sneak attack damage.
+modified: 20201031172140221
+tags: Feat Class Rogue
+title: Magical Trickster
+type: text/vnd.tiddlywiki
+
+Whether you’re using magic items, wielding innate magic, or dabbling in spellcasting, you can sneak spells past your foes’ defenses as easily as any blade. 
+
+When you succeed at a spell attack roll against a [[Flat-Footed]] foe’s AC and the spell deals damage, you can add your [[Sneak Attack]] damage to the damage roll. 
+
+If your single spell leads to multiple separate damage rolls, apply your sneak attack damage only once per target.

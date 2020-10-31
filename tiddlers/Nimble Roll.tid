@@ -1,0 +1,21 @@
+created: 20201031173854150
+feat-class: Rogue
+feat-fpre: [[Nimble Dodge]]
+feat-level: 8
+mod-nimble_dodge: Dodge Reflex saves, and can Stride on successful dodges.
+modified: 20201031174105381
+tags: Feat Class Rogue
+title: Nimble Roll
+type: text/vnd.tiddlywiki
+
+You throw yourself into a roll to escape imminent danger.
+
+You can use [[Nimble Dodge]] before attempting a [[Reflex]] save in addition to its original trigger. 
+
+If you do, the circumstance bonus applies to your Reflex save against the triggering effect.
+
+When you use [[Nimble Dodge]] and the triggering attack fails or critically fails, or when you succeed or critically succeed at the saving throw, you can also [[Stride]] up to 10 feet as part of the reaction. 
+
+If you do, the reaction gains the <<tag Move>> trait.
+
+You can use Nimble Roll while Flying or Swimming instead of Striding if you have the corresponding movement type.
