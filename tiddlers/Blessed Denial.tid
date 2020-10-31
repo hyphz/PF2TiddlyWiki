@@ -1,0 +1,15 @@
+created: 20201031195902888
+feat-arch: [[Blessed One]]
+feat-level: 12
+modified: 20201031200000522
+tags: Feat Archetype Action Reaction
+title: Blessed Denial
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally within 30 feet would become [[Frightened]], [[Drained]], [[Enfeebled]], [[Sickened]], or [[Stupefied]]. 
+
+You exude peace and protection, lessening a harmful condition as it falls upon an ally. 
+
+Reduce the value of the condition your ally would take by 1 (to a minimum of 0). 
+
+If the ally takes more than one condition at the same time, choose one to reduce.

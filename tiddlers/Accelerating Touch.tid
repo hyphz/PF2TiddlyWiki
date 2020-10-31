@@ -1,9 +1,11 @@
 created: 20200905181232123
+feat-archadd: [[Blessed One]]
+feat-archlevel: 6
 feat-class: Champion
 feat-fpre: [[Lay on Hands]]
 feat-level: 4
 mod-lay_on_hands: Healed creature also gets +10 status to speed.
-modified: 20200905181347149
+modified: 20201031194632814
 tags: Champion Class Feat
 title: Accelerating Touch
 turn-etn: Speed bonus wears off.

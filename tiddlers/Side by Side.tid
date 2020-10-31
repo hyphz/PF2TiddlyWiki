@@ -1,9 +1,11 @@
 created: 20201024144052326
+feat-archadd: Beastmaster
+feat-archlevel: 14
 feat-class: Druid
 feat-fpre: [[Animal Companion]]
 feat-level: 10
 mod-flanking: Flank with animal companion from any directions.
-modified: 20201024144138794
+modified: 20201031192823906
 tags: Feat Class Druid
 title: Side by Side
 type: text/vnd.tiddlywiki

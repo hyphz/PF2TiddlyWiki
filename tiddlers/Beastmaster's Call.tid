@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201031193550125
+feat-arch: Beastmaster
+feat-fpre: [[Call Companion]]
+feat-level: 12
+modified: 20201031193701713
+tags: Feat Archetype Primal Action Auditory Concentrate
+title: Beastmaster's Call
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per turn
+
+You quickly call in a primal projection of a non-active companion to provide the companion’s support benefit. 
+
+The projection arrives in an unoccupied square of your choice within 30 feet of you, grants you its support benefit, and then disappears on your next turn. 
+
+The projection has the same AC and saving throw modifiers as the real companion, and if it would take any damage before your next turn, it disappears and the support benefit ends immediately.

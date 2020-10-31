@@ -1,8 +1,10 @@
 created: 20201031144143923
+feat-archadd: Beastmaster
+feat-archlevel: 6
 feat-class: Ranger
 feat-level: 4
 mod-command_an_animal: Spend 2 actions controlling to give animal an extra actions.
-modified: 20201031144237331
+modified: 20201031192702491
 tags: Feat Class Ranger
 title: Companion's Cry
 type: text/vnd.tiddlywiki

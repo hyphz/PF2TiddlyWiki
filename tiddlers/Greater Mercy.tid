@@ -1,9 +1,11 @@
 created: 20200912141052871
+feat-archadd: [[Blessed One]]
+feat-archlevel: 10
 feat-class: Champion
 feat-fpre: Mercy
 feat-level: 8
 mod-mercy: Can counter blinded, deafened, sickened, or slowed.
-modified: 20200912141144525
+modified: 20201031194811803
 tags: Feat Class Champion
 title: Greater Mercy
 type: text/vnd.tiddlywiki

@@ -1,0 +1,15 @@
+created: 20201031192935470
+feat-arch: Beastmaster
+feat-level: 4
+modified: 20201031193024196
+tags: Feat Archetype
+title: Additional Companion
+type: text/vnd.tiddlywiki
+
+Another animal joins you in your travels. 
+
+It is a young [[Animal Companion]] that has the <<tag Minion>> trait. 
+
+See [[Beastmaster Dedication]] for rules on how having multiple animal companions works.
+
+''Special'' You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).

@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200805221703695
+feat-arch: [[Blessed One]]
+feat-level: 4
 m-area: 
 m-components: Somatic
 m-domain: Protection (Domain)
@@ -13,12 +15,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200805222040099
+modified: 20201031195429549
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Cleric
+tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Cleric Feat Archetype
 title: Protector's Sacrifice
 type: text/vnd.tiddlywiki
 
@@ -35,3 +37,5 @@ You redirect this damage to yourself, but your immunities, weaknesses, resistanc
 You aren’t subject to any conditions or other effects of whatever damaged your ally (such as poison from a venomous bite). Your ally is still subject to those effects even if you redirect all of the triggering damage to yourself.
 
 ''Heightened (+1)'' The damage you redirect increases by 3.
+
+//This focus spell can be gained through the [[Protection (Domain)]].//

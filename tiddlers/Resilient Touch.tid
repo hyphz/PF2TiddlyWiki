@@ -1,4 +1,6 @@
 created: 20200905194303483
+feat-archadd: [[Blessed One]]
+feat-archlevel: 12
 feat-class: Champion
 feat-fpre: [[Lay on Hands]]
 feat-level: 10
@@ -6,7 +8,7 @@ mod-fortitude: +1 status in turm after healing.
 mod-lay_on_hands: Ally also gets +1 status to saves for a turn.
 mod-reflex: +1 status in turn after healing.
 mod-will: +1 status in turn after healing.
-modified: 20200905194418852
+modified: 20201031194918789
 tags: Class Feat Champion
 title: Resilient Touch
 type: text/vnd.tiddlywiki

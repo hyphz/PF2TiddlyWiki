@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200812214204460
+feat-archadd: Beastmaster
+feat-archlevel: 10
 feat-class: Ranger
 feat-fpre: [[Warden Spells]]
 feat-level: 8
@@ -16,7 +18,7 @@ m-range: 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20201031163707445
+modified: 20201031192751276
 s-crit: 
 s-fail: 
 s-fumble: 

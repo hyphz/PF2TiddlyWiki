@@ -1,9 +1,11 @@
 created: 20200912142502375
+feat-archadd: [[Blessed One]]
+feat-archlevel: 14
 feat-class: Champion
 feat-fpre: Mercy
 feat-level: 12
 mod-mercy: Can also counteract an affliction.
-modified: 20200912142551177
+modified: 20201031194949661
 tags: Feat Class Champion
 title: Affliction Mercy
 type: text/vnd.tiddlywiki

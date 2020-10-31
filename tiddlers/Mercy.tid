@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20200912135954022
+feat-archadd: [[Blessed One]]
+feat-archlevel: 6
 feat-class: Champion
 feat-fpre: [[Lay on Hands]]
 feat-level: 4
-modified: 20200912140118291
+modified: 20201031194700228
 tags: Feat Class Champion Concentrate Metamagic Action
 title: Mercy
 type: text/vnd.tiddlywiki

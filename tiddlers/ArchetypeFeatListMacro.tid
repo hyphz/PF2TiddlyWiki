@@ -1,5 +1,5 @@
 created: 20201017161039336
-modified: 20201017164850155
+modified: 20201031195653970
 tags: $:/tags/Macro
 title: ArchetypeFeatListMacro
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 <$list filter=<<__levels__>> variable="level">
 <tr><th><<level>></th>
 <td>
-<$list filter="[tag[Feat]field:feat-arch<archetype>field:feat-level<level>][tag[Feat]contains:feat-archadd<archetype>field:feat-archlevel<level>]+[sort[]]">
+<$list filter="[tag[Feat]contains:feat-arch<archetype>field:feat-level<level>][tag[Feat]contains:feat-archadd<archetype>field:feat-archlevel<level>]+[sort[]]">
 <$list filter="[all[current]field:a-actions[1]]">
 {{OneAction}}
 </$list>

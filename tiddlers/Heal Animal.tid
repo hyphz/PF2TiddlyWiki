@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200806195955286
+feat-arch: Beastmaster
+feat-level: 4
 m-area: 
 m-components: Somatic Verbal
 m-duration: 
@@ -12,12 +14,12 @@ m-range: [[Touch]] or 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living <<tag Animal>>creature
 m-time: 
-modified: 20200806230851345
+modified: 20201031193229528
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy Positive Verbal Concentrate
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy Positive Verbal Concentrate Feat Archetype
 title: Heal Animal
 type: text/vnd.tiddlywiki
 
@@ -31,3 +33,5 @@ The number of actions spent Casting this Spell determines its effect.
 * {{TwoAction}} [[Somatic]], [[Verbal]]: The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.
 
 ''Heightened (+1)'' The amount of healing increases by 1d8, and the additional healing for the 2-action version increases by 8.
+
+//Druids of the [[Animal Order]] get this Focus Spell automatically.//

@@ -1,9 +1,11 @@
 created: 20200905192848326
+feat-archadd: [[Blessed One]]
+feat-archlevel: 8
 feat-class: Champion
 feat-fpre: Mercy
 feat-level: 6
 mod-mercy: Can attempt to counteract clumsy or enfeebled.
-modified: 20200905193027798
+modified: 20201031194737018
 tags: Class Feat Champion
 title: Invigorating Mercy
 type: text/vnd.tiddlywiki

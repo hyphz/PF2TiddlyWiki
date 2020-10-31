@@ -1,9 +1,11 @@
 created: 20200905193755218
+feat-archadd: [[Blessed One]]
+feat-archlevel: 12
 feat-class: Champion
 feat-fpre: Mercy
 feat-level: 10
 mod-mercy: Can attempt to counteract confused or stupefied.
-modified: 20200905193931768
+modified: 20201031194843651
 tags: Class Feat Champion
 title: Elucidating Mercy
 type: text/vnd.tiddlywiki

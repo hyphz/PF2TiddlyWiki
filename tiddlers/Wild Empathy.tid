@@ -1,9 +1,11 @@
 created: 20200912154503187
+feat-archadd: Beastmaster
+feat-archlevel: 4
 feat-class: Ranger
 feat-level: 2
 mod-make_an_impression: Can make an impression on animals.
 mod_request: Can make simple requests of animals.
-modified: 20201024182558282
+modified: 20201031192627383
 tags: Ability Feat Class Ranger
 title: Wild Empathy
 type: text/vnd.tiddlywiki

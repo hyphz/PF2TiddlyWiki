@@ -1,0 +1,20 @@
+created: 20201031193813616
+feat-arch: Beastmaster
+feat-fpre: [[Mature Beastmaster Companion]]
+feat-level: 16
+mod-command_an_animal: Divide actions between companions if multiple available.
+mod-mature_beastmaster_companion: Only one animal can act on your turn uncommanded.
+modified: 20201031193931562
+tags: Feat Archetype Uncommon
+title: Lead the Pack
+type: text/vnd.tiddlywiki
+
+You can have up to two animal companions active at once.
+
+However, when you do, it’s slightly more difficult to Command them. 
+
+If you don’t Command either of your companions, one of the two (your choice) can still use 1 action on your turn to [[Stride]] or [[Strike]], as per [[Mature Beastmaster Companion]], but not both. 
+
+When you [[Command an Animal]], either choose one of the companions to take 2 actions, as normal, or else both companions can take 1 action to Stride or Strike.
+
+Either way, you can’t Command an Animal to make either companion act again until your next turn.
