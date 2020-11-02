@@ -1,0 +1,13 @@
+bl-desc: Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.
+bl-granted: Daze [[Spider Sting]] [[Touch of Idiocy]] [[Vampiric Touch]] Confusion [[Black Tentacles]] Feeblemind [[Warp Mind]] [[Uncontrollable Dance]] [[Unfathomable Song]]
+bl-list: Occult
+bl-magic: Aberrant whispers shield one target’s mind or your own, granting a +2 status bonus to [[Will]] saving throws for 1 round.
+bl-skill: Intimidation Occultism
+created: 20201102193959236
+mod-will: +2 status if Blood Magic activated.
+modified: 20201102195219102
+tags: Bloodline
+title: Aberrant
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200808133949626
 m-area: 
+m-bloodline: Demonic
 m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 1
@@ -12,7 +13,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200808134034960
+modified: 20201102193258219
 s-crit: 
 s-fail: 
 s-fumble: 

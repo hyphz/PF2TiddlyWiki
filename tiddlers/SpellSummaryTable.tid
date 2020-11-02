@@ -1,5 +1,5 @@
 created: 20200627214018361
-modified: 20200830144322931
+modified: 20201102192948087
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
@@ -26,6 +26,9 @@ type: text/vnd.tiddlywiki
 <tr><th>Duration</th><td>{{!!m-duration}}</td></tr>
 <$list filter="[all[current]has[m-domain]]">
 <tr><th>Domain</th><td>{{!!m-domain}}</td></tr>
+</$list>
+<$list filter="[all[current]has[m-bloodline]]">
+<tr><th>Bloodline</th><td>{{!!m-bloodline}}</td></tr>
 </$list>
 <$list filter="[all[current]has[m-mystery]]">
 <tr><th>Mystery</th><td>{{!!m-mystery}}</td></tr>

@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807182859755
 m-area: 
+m-bloodline: Diabolic
 m-components: Verbal
 m-duration: 1 minute
 m-level: 3
@@ -12,7 +13,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200811002641316
+modified: 20201102193419418
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807020615197
 m-area: 
+m-bloodline: Diabolic
 m-components: Verbal
 m-duration: 1 round
 m-level: 1
@@ -12,7 +13,7 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20200807020712146
+modified: 20201102193403967
 s-crit: 
 s-fail: 
 s-fumble: 

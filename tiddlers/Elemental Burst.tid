@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807182345172
 m-area: 10 foot radius [[Burst]], 30 foot [[Cone]], or 60 foot [[Line]]
+m-bloodline: Elemental (Bloodline)
 m-components: Somatic Verbal
 m-duration: 
 m-level: 5
@@ -12,7 +13,7 @@ m-range: 30 feet (Burst only)
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200807182534292
+modified: 20201102200701966
 s-crit: 
 s-fail: 
 s-fumble: 

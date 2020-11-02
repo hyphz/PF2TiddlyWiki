@@ -1,0 +1,13 @@
+bl-desc: The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic. Choose the type of dragon that influenced your bloodline. This affects how some of your bloodline spells function. You can't change your dragon type later.
+bl-granted: [[Shield (Spell)]] [[True Strike]] [[Resist Energy]] Haste [[Spell Immunity]] [[Chromatic Wall]] [[Dragon Form]] [[Mask of Terror]] [[Prismatic Wall]] [[Overwhelming Presence]]
+bl-list: Arcane
+bl-magic: Draconic scales grow briefly on you or one target, granting a +1 status bonus to [[AC]] for 1 round.
+bl-skill: Arcana Intimidation
+created: 20201102200254438
+mod-ac: +1 status if Blood Magic activated.
+modified: 20201102200446799
+tags: Bloodline
+title: Draconic (Bloodline)
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

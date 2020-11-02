@@ -6,6 +6,7 @@ a-fumble:
 a-hit: 
 created: 20200808135841401
 m-area: 5 foot [[Burst]] or more
+m-bloodline: Demonic
 m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 3
@@ -13,7 +14,7 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200808140011203
+modified: 20201102193313986
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200807020342301
+m-area: 
+m-bloodline: Angelic
+m-components: Somatic
+m-duration: 1 round
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: 1 <<tag Evil>> creature
+m-time: 
+modified: 20201102193234986
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Curse Necromancy Sorcerer
+title: Celestial Brand
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A blazing symbol appears on the target, marking it for divine justice. 
+
+You and your allies receive a +1 status bonus to your attack rolls and skill checks against it. 
+
+Anytime a <<tag Good>>creature damages it, the good creature deals an additional 1d4 good damage. 
+
+The target is then temporarily immune for 1 minute.
+
+''Heightened (+2)'' The good damage increases by 1.

@@ -1,0 +1,14 @@
+bl-desc: Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.
+bl-granted: [[Acid Splash]] Fear Enlarge Slow [[Divine Wrath]] [[Abyssal Plague]] Disintegrate [[Divine Decree]] [[Divine Aura]] Implosion
+bl-list: Divine
+bl-magic: The corruption of sin weakens a target’s defenses or makes you more imposing. Either a target takes a –1 status penalty to AC for 1 round, or you gain a +1 status bonus to Intimidation checks for 1 round.
+bl-skill: Intimidation Religion
+created: 20201102195556963
+mod-ac: -1 status if Blood Magic activated.
+mod-intimidation: +1 status if Blood Magic activated.
+modified: 20201102195750083
+tags: Bloodline
+title: Demonic
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

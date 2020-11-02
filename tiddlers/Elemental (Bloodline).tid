@@ -1,0 +1,13 @@
+bl-desc: A genie ancestor or some other elemental influence has imbued your blood with primal fury. At 1st level, choose the type of elemental that influenced your bloodline: air, earth, fire, or water. If you choose fire, fire and elemental themed spells below deal fire damage; otherwise they deal bludgeoning damage. //(For example, [[Fireball]] below becomes a ball of water if you chose a water elemental.)// They also add the trait of the element you choose.
+bl-granted: [[Produce Flame]] [[Burning Hands]] [[Resist Energy]] Fireball [[Freedom of Movement]] [[Elemental Form]] Repulsion [[Energy Aegis]] [[Prismatic Wall]] [[Storm of Vengeance]]
+bl-list: Primal
+bl-magic: Elemental energy surrounds you or a target. Either you gain a +1 status bonus to Intimidation checks for 1 round, or a target takes 1 damage per spell level. The damage is bludgeoning or fire, according to your elemental type. If the spell already deals that type of damage, combine it with the spell’s initial damage before determining weaknesses and resistances.
+bl-skill: Intimidation Nature
+created: 20201102200706743
+mod-intimidation: +1 status if Blood Magic activated.
+modified: 20201102201049446
+tags: Bloodline
+title: Elemental (Bloodline)
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

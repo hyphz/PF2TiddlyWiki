@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807181030336
 m-area: 30 foot [[Cone]] or 60 foot [[Line]] originating from you
+m-bloodline: Draconic (Bloodline)
 m-components: Somatic Verbal
 m-duration: 
 m-level: 3
@@ -12,7 +13,7 @@ m-range:
 m-save: Reflex Fortitude
 m-targets: 
 m-time: 
-modified: 20200807181349737
+modified: 20201102193638339
 s-crit: 
 s-fail: 
 s-fumble: 

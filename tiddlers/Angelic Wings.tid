@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807015032464
 m-area: 
+m-bloodline: Angelic
 m-components: Somatic Verbal
 m-duration: 3 rounds
 m-level: 3
@@ -12,7 +13,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200807015124466
+modified: 20201102193149760
 s-crit: 
 s-fail: 
 s-fumble: 

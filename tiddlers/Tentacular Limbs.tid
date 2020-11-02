@@ -5,14 +5,15 @@ a-fumble:
 a-hit: 
 created: 20200808140113870
 m-area: 
-m-components: Somatic 
+m-bloodline: Aberrant
+m-components: Somatic
 m-duration: 1 minute
 m-level: 1
 m-range: 
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200808140249749
+modified: 20201102194045626
 s-crit: 
 s-fail: 
 s-fumble: 

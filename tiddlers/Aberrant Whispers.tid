@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200806210559286
 m-area: 5 foot [[Emanation]]
+m-bloodline: Aberrant
 m-components: Verbal
 m-duration: 1 round
 m-level: 3
@@ -12,7 +13,7 @@ m-range:
 m-save: Will
 m-targets: Each foe in the area
 m-time: 
-modified: 20200806210743904
+modified: 20201102193048666
 s-crit: 
 s-fail: The target is [[Stupefied]] 2.
 s-fumble: The target is [[Confused]].

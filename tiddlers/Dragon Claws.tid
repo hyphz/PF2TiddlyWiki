@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807181816680
 m-area: 
+m-bloodline: Draconic (Bloodline)
 m-components: Verbal
 m-duration: 1 minute
 m-level: 1
@@ -12,7 +13,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200807182029225
+modified: 20201102193653146
 s-crit: 
 s-fail: 
 s-fumble: 

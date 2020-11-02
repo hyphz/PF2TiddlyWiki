@@ -1,0 +1,13 @@
+bl-desc: Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.
+bl-granted: [[Produce Flame]] Charm [[Flaming Sphere]] Enthrall Suggestion [[Crushing Despair]] [[True Seeing]] [[Divine Decree]] [[Divine Aura]] [[Meteor Swarm]]
+bl-list: Divine
+bl-magic: Hellfire scorches a target or fills your tongue with lies. Either a target takes 1 fire damage per spell level (if the spell already deals initial fire damage, combine this with the spell’s initial damage before determining weaknesses and resistances), or you gain a +1 status bonus to [[Deception]] checks for 1 round.
+bl-skill: Deception Religion
+created: 20201102200006707
+mod-deception: +1 status if Blood Magic activated.
+modified: 20201102200151327
+tags: Bloodline
+title: Diabolic
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

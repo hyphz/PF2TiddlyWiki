@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807014909429
 m-area: 15 foot [[Emanation]]
+m-bloodline: Angelic
 m-components: Verbal
 m-duration: 1 minute
 m-level: 1
@@ -13,7 +14,7 @@ m-save:
 m-targets: 
 m-time: 
 mod-heal: +2 status HP healed to allies.
-modified: 20200807015027026
+modified: 20201102193133968
 s-crit: 
 s-fail: 
 s-fumble: 

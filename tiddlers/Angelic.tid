@@ -1,0 +1,15 @@
+bl-desc: One of your forebears hailed from a celestial realm, or your ancestors’ devotion led to their lineage being blessed.
+bl-granted: Light Heal [[Spiritual Weapon]] [[Searing Light]] [[Divine Wrath]] [[Flame Strike]] [[Blade Barrier]] [[Divine Decree]] [[Divine Aura]] Foresight
+bl-list: Divine
+bl-magic: An angelic aura protects you or one target, granting a +1 status bonus to saving throws for 1 round.
+bl-skill: Diplomacy Religion
+created: 20201102195407197
+mod-fortitude: +1 status if Blood Magic activated.
+mod-reflex: +1 status if Blood Magic activated.
+mod-will: +1 status if Blood Magic activated.
+modified: 20201102195522144
+tags: Bloodline
+title: Angelic
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}
