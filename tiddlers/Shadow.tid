@@ -1,0 +1,13 @@
+bl-desc: Whether due to a velstrac’s manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.
+bl-granted: [[Chill Touch]] [[Grim Tendrils]] [[Darkness (Spell)]] [[Chilling Darkness]] [[Phantasmal Killer]] [[Shadow Siphon]] [[Collective Transposition]] [[Duplicate Foe]] Disappearance Weird
+bl-list: Occult
+bl-magic: Shadows grow deeper around you or one target, either granting a +1 status bonus to Stealth or imposing a –1 status penalty to Perception for 1 round.
+bl-skill: Occultism Stealth
+created: 20201122163519636
+modified: 20201122163642296
+tags: Bloodline
+title: Shadow
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}
+

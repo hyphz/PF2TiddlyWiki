@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201122155930061
+feat-class: Sorcerer
+feat-level: 6
+mod-ac: +1 status vs ranged weapons and physical ranged.
+modified: 20201122160020240
+tags: Feat Sorcerer Class Action
+title: Diverting Vortex
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your most recent action was to cast a non-cantrip spell.
+
+You transfer vestiges of magical energy to the air around you, creating a vortex that deflects ranged attacks. 
+
+Until the start of your next turn, you gain a +1 status bonus to AC against ranged weapon attacks and physical ranged unarmed attacks.

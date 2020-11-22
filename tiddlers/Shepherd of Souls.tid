@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200812222408762
 m-area: 
+m-bloodline: Psychopomp
 m-components: Verbal
 m-domain: 
 m-duration: 
@@ -13,7 +14,7 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200812222532036
+modified: 20201122163426264
 s-crit: 
 s-fail: 
 s-fumble: 

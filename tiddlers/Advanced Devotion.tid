@@ -1,0 +1,14 @@
+created: 20201122171454606
+feat-arch: Champion
+feat-fpre: [[Basic Devotion]]
+feat-level: 6
+modified: 20201122171521277
+tags: Feat Archetype
+title: Advanced Devotion
+type: text/vnd.tiddlywiki
+
+You gain one Champion feat. 
+
+For the purpose of meeting its prerequisites, your Champion level is equal to half your character level.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Champion]]">>

@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20201122160231764
+feat-class: Sorcerer
+feat-level: 8
+modified: 20201122160303383
+tags: Feat Sorcerer Class Action Concentrate Metamagic
+title: Safeguarded Spell
+type: text/vnd.tiddlywiki
+
+You bring the magical wavelengths of your spell into sync with the ones produced by your own body. 
+
+If the next action you take is to [[Cast a Spell]] with an area, you aren’t affected by the spell even if you are within the area.

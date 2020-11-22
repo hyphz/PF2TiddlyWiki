@@ -1,0 +1,13 @@
+created: 20201122170855326
+feat-arch: Wizard
+feat-level: 6
+modified: 20201122170917311
+tags: Feat Archetype
+title: Advanced Arcana
+type: text/vnd.tiddlywiki
+
+You gain one wizard feat. 
+
+For the purpose of meeting its prerequisites, your wizard level is equal to half your character level.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Wizard]]">>

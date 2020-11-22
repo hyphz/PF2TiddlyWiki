@@ -1,0 +1,11 @@
+created: 20201122170230671
+feat-arch: Wizard
+feat-level: 4
+modified: 20201122170244544
+tags: Feat Archetype
+title: Basic Arcana
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Wizard feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Wizard]]">>

@@ -1,0 +1,11 @@
+created: 20201122165826133
+feat-arch: Druid
+feat-level: 4
+modified: 20201122165946123
+tags: Feat Archetype
+title: Basic Wilding
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Druid feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Druid]]">>

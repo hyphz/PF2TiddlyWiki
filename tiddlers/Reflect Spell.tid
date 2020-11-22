@@ -1,10 +1,10 @@
 created: 20201024174336151
-feat-class: Wizard
+feat-class: Sorcerer Wizard
 feat-fpre: [[Counterspell]]
 feat-level: 14
 mod-counterspell: Conteracted spell is turned back on caster.
-modified: 20201024174430792
-tags: Class Feat Wizard
+modified: 20201122153309070
+tags: Class Feat Wizard Sorcerer
 title: Reflect Spell
 type: text/vnd.tiddlywiki
 

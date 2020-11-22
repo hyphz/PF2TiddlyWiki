@@ -1,9 +1,9 @@
 a-actions: 1
 created: 20200711180516708
-feat-class: Bard Wizard Cleric Druid
+feat-class: Bard Cleric Druid Sorcerer Wizard
 feat-level: 1
-modified: 20201024133859782
-tags: Feat Class Action Concentrate Metamagic Wizard Bard Cleric Druid
+modified: 20201122151148800
+tags: Feat Class Action Concentrate Metamagic Wizard Bard Cleric Druid Sorcerer
 title: Reach Spell
 type: text/vnd.tiddlywiki
 

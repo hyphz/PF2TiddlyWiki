@@ -1,0 +1,12 @@
+bl-desc: A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.
+bl-granted: Daze [[Illusory Disguise]] [[Touch of Idiocy]] Blindness [[Outcast's Curse]] [[Mariner's Curse]] [[Baleful Polymorph]] [[Warp Mind]] [[Spiritual Epidemic]] [[Nature's Enmity]]
+bl-list: Occult
+bl-magic: Spiteful curses punish your foes. The first creature that deals damage to you before the end of your next turn takes 2 mental damage per spell level and must attempt a basic Will save.
+bl-skill: Deception Occultism
+created: 20201122150336548
+modified: 20201122150713749
+tags: Bloodline
+title: Hag
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

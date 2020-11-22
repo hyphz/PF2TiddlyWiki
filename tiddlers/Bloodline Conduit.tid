@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20201122153853285
+feat-class: Sorcerer
+feat-level: 20
+mod-cast_a_spell: Cast 5th level or lower non-duration spell without slot.
+modified: 20201122154040348
+tags: Feat Sorcerer Class Metamagic Action
+title: Bloodline Conduit
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per minute.
+
+Your inborn magical nature lets you redirect ambient energies to fuel your spells. 
+
+If your next action is to [[Cast a Spell]] of 5th level or lower that has no duration, you don’t expend the spell’s slot when you cast it.

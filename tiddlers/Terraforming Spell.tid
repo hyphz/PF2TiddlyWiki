@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201122161614467
+feat-class: Sorcerer
+feat-level: 16
+modified: 20201122161709162
+tags: Feat Sorcerer Class Concentrate Metamagic Action Earth Transmutation
+title: Terraforming Spell
+type: text/vnd.tiddlywiki
+
+You capture transformative fragments of magic and slam them into the ground, creating a shock wave that alters your surroundings. 
+
+If your next action is to Cast a non-cantrip transmutation Spell, either each space adjacent to you becomes [[Difficult Terrain]], or each space adjacent to you is no longer difficult terrain. 
+
+This doesn’t have any effect on greater difficult terrain and doesn’t remove the damaging effects of Hazardous Terrain.

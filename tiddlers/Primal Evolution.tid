@@ -1,0 +1,15 @@
+created: 20201122151921833
+feat-class: Sorcerer
+feat-level: 4
+modified: 20201122152027980
+tags: Feat Sorcerer Class Primal
+title: Primal Evolution
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' bloodline that grants primal spells
+
+You can call upon the creatures of the wild for aid. 
+
+You gain an additional spell slot of your highest level, which you can use only to cast [[Summon Animal]] or //[[Summon Plant or Fungus]]//. 
+
+You can cast either of these spells using that spell slot, even if it they aren’t in your spell repertoire.

@@ -1,0 +1,11 @@
+created: 20201122170016348
+feat-arch: Monk
+feat-level: 4
+modified: 20201122170033081
+tags: Feat Archetype
+title: Basic Kata
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Monk feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Monk]]">>

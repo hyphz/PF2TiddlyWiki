@@ -1,0 +1,11 @@
+created: 20201122165856544
+feat-arch: Fighter
+feat-level: 4
+modified: 20201122165937706
+tags: Feat Archetype
+title: Basic Maneuver
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Fighter feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Fighter]]">>

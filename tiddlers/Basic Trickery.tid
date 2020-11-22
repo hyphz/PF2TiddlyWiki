@@ -1,0 +1,11 @@
+created: 20201122170139161
+feat-arch: Rogue
+feat-level: 4
+modified: 20201122170155623
+tags: Feat Archetype
+title: Basic Trickery
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Rogue feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Rogue]]">>

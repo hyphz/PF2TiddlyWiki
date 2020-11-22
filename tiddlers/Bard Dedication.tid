@@ -1,0 +1,27 @@
+created: 20201122164011501
+feat-abpre: Charisma
+feat-abprel: 14
+feat-arch: Bard
+feat-level: 2
+modified: 20201122164846516
+tags: Feat Dedication Multiclass
+title: Bard Dedication
+type: text/vnd.tiddlywiki
+
+You cast spells like a bard and gain the [[Cast a Spell]] activity. 
+
+You gain a spell repertoire with two common cantrips from the occult spell list, or any other cantrips you learn or discover. 
+
+You’re trained in spell attack rolls and spell DCs for occult spells. 
+
+Your key spellcasting ability for bard archetype spells is [[Charisma]], and they are occult bard spells. 
+
+You become trained in [[Occultism]] and [[Performance]]; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. 
+
+Choose a muse as you would if you were a bard. You have that muse for all purposes, allowing you to take that muse’s feats, but you don’t gain any of the other abilities it grants.
+
+!! Muses
+
+<$list filter="[tag[Bard]tag[Splat]]" />
+
+<<levelfeatlist "4 6 8 12 18" "[tag[Archetype]field:feat-arch[Bard]]">>

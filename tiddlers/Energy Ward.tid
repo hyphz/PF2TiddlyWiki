@@ -1,0 +1,15 @@
+created: 20201122160702837
+feat-class: Sorcerer
+feat-level: 10
+modified: 20201122160812101
+tags: Class Feat Sorcerer Abjuration Action Free
+title: Energy Ward
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per turn
+
+''Requirements'' Your most recent action was to cast a non‑cantrip spell that dealt energy damage.
+
+You trap energy from the last spell you cast within your body, coating your flesh in a protective ward. 
+
+Until the start of your next turn, you gain resistance 5 to one type of energy damage dealt by the spell you just cast.

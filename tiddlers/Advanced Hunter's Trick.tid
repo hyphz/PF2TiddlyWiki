@@ -1,0 +1,13 @@
+created: 20201122171048533
+feat-arch: Ranger
+feat-level: 6
+modified: 20201122171109045
+tags: Feat Archetype
+title: Advanced Hunter's Trick
+type: text/vnd.tiddlywiki
+
+You gain one ranger feat. 
+
+For the purpose of meeting its prerequisites, your ranger level is equal to half your character level.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Ranger]]">>

@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201122153143236
+feat-class: Sorcerer
+feat-level: 14
+modified: 20201122153242671
+tags: Feat Sorcerer Class Metamagic Action
+title: Interweave Dispel
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Dispel Magic]] in your spell repertoire.
+
+You weave dispelling energy into a spell, sending both effects at a foe. 
+
+If your next action is to cast a single-target spell against a creature, and you either hit the foe with the spell attack roll or the foe fails its saving throw, you can cast [[Dispel Magic]] on the foe as a free action, expending a spell slot as normal and targeting one spell effect affecting the foe.

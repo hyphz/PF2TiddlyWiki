@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200812221958039
 m-area: 5 foot [[Emanation]]
+m-bloodline: Psychopomp
 m-components: Somatic Verbal
 m-domain: 
 m-duration: 1 minute
@@ -13,7 +14,7 @@ m-range:
 m-save: Will
 m-targets: Enemies in the area
 m-time: 
-modified: 20200812222257640
+modified: 20201122163342563
 modtag-emotion: Can give +/-1 status to Will saves.
 s-crit: 
 s-fail: 

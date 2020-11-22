@@ -1,0 +1,17 @@
+created: 20201122160048812
+feat-class: Sorcerer
+feat-level: 6
+modified: 20201122160125303
+tags: Feat Sorcerer Class Action Reaction Abjuration
+title: Energetic Resonance
+type: text/vnd.tiddlywiki
+
+''Trigger'' You would take acid, cold, electricity, fire, or sonic damage from a spell.
+
+''Requirements'' You have an unexpended spell slot of a level equal to or higher than the triggering spell.
+
+Your blood resonates with magical energy, mitigating the effects of harmful spells. 
+
+Expend one of your spell slots of a level equal to or higher than that of the triggering spell. 
+
+You gain resistance to one of the triggering effect’s damage types equal to twice the expended spell slot’s level.

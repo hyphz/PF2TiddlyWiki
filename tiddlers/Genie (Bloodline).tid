@@ -1,0 +1,20 @@
+bl-desc: Through lineage, magic, or wishes made real, the blood of a noble genie flows through your veins.
+bl-granted: [[Detect Magic]] [[Illusory Disguise]] Enthrall [[Creation (Spell)]] [[True Seeing]] [[Energy Aegis]] [[Resplendent Mansion]] 
+bl-list: Arcane
+bl-magic: Your spellcasting warps reality and distracts your foes. Either you gain a +1 status bonus to [[Deception]] checks for 1 round, or a target takes a –1 status penalty to [[Perception]] for 1 round.
+bl-skill: Arcana Deception
+created: 20201122162118639
+modified: 20201122162623564
+tags: Bloodline
+title: Genie (Bloodline)
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}
+
+The level 2, 5, and 8 granted spells are determined by the type of genie you choose:
+
+* ''Janni'': [[Create Food]], [[Banishment]], [[Scintillating Pattern]].
+* ''Djinni''': [[Invisibility]], [[Illusory Scene]], [[Punishing Winds]].
+* ''Efreeti'': [[Enlarge]], [[Elemental Form]] (Fire), [[Maze]].
+* ''Marid'': [[Water Walk]], [[Control Water]], [[Horrid Wilting]].
+* ''Shaitan'': [[Glitterdust]], [[Wall of Stone]], [[Earthquake]].

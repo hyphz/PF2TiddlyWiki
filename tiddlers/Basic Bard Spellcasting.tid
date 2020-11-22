@@ -1,0 +1,11 @@
+created: 20201122164546262
+feat-arch: Bard
+feat-level: 4
+modified: 20201122165121925
+tags: Feat Archetype
+title: Basic Bard Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicSpellcasting}}
+
+Each time you gain a spell slot of a new level from the bard archetype, add a common occult spell or another spell you learned or discovered to your repertoire, of the appropriate spell level.

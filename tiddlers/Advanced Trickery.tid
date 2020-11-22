@@ -1,0 +1,13 @@
+created: 20201122171015794
+feat-arch: Rogue
+feat-level: 6
+modified: 20201122171038790
+tags: Feat Archetype
+title: Advanced Trickery
+type: text/vnd.tiddlywiki
+
+You gain one rogue feat. 
+
+For the purpose of meeting its prerequisites, your rogue level is equal to half your character level.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Rogue]]">>

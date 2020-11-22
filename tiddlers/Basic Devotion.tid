@@ -1,0 +1,11 @@
+created: 20201122165738274
+feat-arch: Champion
+feat-level: 4
+modified: 20201122165754849
+tags: Feat Archetype
+title: Basic Devotion
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level champion feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Champion]]">>

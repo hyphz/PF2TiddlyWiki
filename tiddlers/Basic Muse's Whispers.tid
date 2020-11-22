@@ -1,0 +1,11 @@
+created: 20201122164414316
+feat-arch: Bard
+feat-level: 4
+modified: 20201122164430480
+tags: Feat Archetype
+title: Basic Muse's Whispers
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level bard feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Bard]]">>

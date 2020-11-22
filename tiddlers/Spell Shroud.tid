@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201122161340758
+feat-class: Sorcerer
+feat-level: 14
+modified: 20201122161439448
+tags: Feat Sorcerer Class Concentrate Metamagic Action
+title: Spell Shroud
+type: text/vnd.tiddlywiki
+
+Your spell shrouds you in a billowing cloud. 
+
+If your next action is to [[Cast a Spell]] that targets you, you surround yourself in a 15-foot [[Emanation]] of dense magical mist that lasts until the start of your next turn. 
+
+All creatures within the cloud become [[Concealed]], and all creatures outside the cloud are concealed to creatures within it.

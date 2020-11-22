@@ -1,0 +1,13 @@
+bl-desc: For good or ill, your ancestors’ deeds drew the attention of psychopomps, or you might somehow count one in your family tree. The presence of these shepherds of souls and enemies of undeath has left an indelible mark on you.
+bl-granted: [[Disrupt Undead]] Heal [[Calm Emotions]] [[Searing Light]] [[Dimensional Anchor]] [[Death Ward]] [[Spirit Blast]] [[Finger of Death]] [[Spirit Song]] Massacre
+bl-list: Divine
+bl-magic: The border between life and death becomes blurred to you. Either you gain a +2 status bonus to Fortitude saving throws for 1 round, or a target takes 1 damage per spell level. The damage is negative if the target is living or positive if the target is undead. If the spell already deals that type of damage, combine it with the spell’s initial damage before determining weaknesses and resistances.
+bl-skill: Intimidation Religion
+created: 20201122163200272
+modified: 20201122163302802
+tags: Bloodline
+title: Psychopomp
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}
+

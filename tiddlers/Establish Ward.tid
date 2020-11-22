@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200812221203710
 m-area: 30 foot [[Burst]]
+m-bloodline: Nymph
 m-components: Somatic Verbal
 m-domain: 
 m-duration: 1 minute
@@ -13,7 +14,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200812221311547
+modified: 20201122163146538
 s-crit: 
 s-fail: 
 s-fumble: 

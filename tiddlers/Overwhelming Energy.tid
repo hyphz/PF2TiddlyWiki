@@ -1,13 +1,11 @@
 a-actions: 1
 created: 20201024143643397
-feat-class: Druid Wizard
+feat-class: Druid Sorcerer Wizard
 feat-level: 10
-modified: 20201024173553611
-tags: Feat Class Druid Action Manipulate Metamagic Wizard
+modified: 20201122152814799
+tags: Feat Class Druid Action Manipulate Metamagic Wizard Sorcerer
 title: Overwhelming Energy
 type: text/vnd.tiddlywiki
-
-With a complex gesture, you call upon the primal power of your spell to overcome enemies’ resistances. 
 
 If the next action you use is to [[Cast a Spell]], the spell ignores an amount of the target’s resistance to acid, cold, electricity, fire, or sonic damage equal to your level. 
 

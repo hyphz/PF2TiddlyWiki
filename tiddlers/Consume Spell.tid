@@ -1,0 +1,12 @@
+created: 20201122161255706
+feat-class: Sorcerer
+feat-fpre: [[Counterspell]]
+feat-level: 14
+modified: 20201122161323478
+tags: Feat Sorcerer Class
+title: Consume Spell
+type: text/vnd.tiddlywiki
+
+When you successfully [[Counterspell]] a spell of the tradition that matches your bloodline, you consume it, replenishing yourself with its energy. 
+
+When you do, you are nourished as if you had eaten a meal and regain Hit Points equal to twice the level of the counteracted spell.

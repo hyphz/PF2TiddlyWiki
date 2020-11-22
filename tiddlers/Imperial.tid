@@ -1,0 +1,12 @@
+bl-desc: One of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.
+bl-granted: [[Detect Magic]] [[Magic Missile]] [[Dispel Magic]] Haste [[Dimension Door]] [[Prying Eye]] Disintegrate [[Prismatic Spray]] Maze [[Prismatic Sphere]]
+bl-list: Arcane
+bl-magic: A surge of ancestral memories grants you or one target a +1 status bonus to skill checks for 1 round.
+bl-skill: Arcana Society
+created: 20201122154443783
+modified: 20201122154550291
+tags: Bloodline
+title: Imperial
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

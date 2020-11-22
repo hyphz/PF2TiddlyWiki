@@ -1,0 +1,11 @@
+created: 20201122165801730
+feat-arch: Cleric
+feat-level: 4
+modified: 20201122170003937
+tags: Feat Archetype
+title: Basic Dogma
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level cleric feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Cleric]]">>

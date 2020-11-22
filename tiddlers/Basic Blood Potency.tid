@@ -1,0 +1,11 @@
+created: 20201122170205982
+feat-arch: Sorcerer
+feat-level: 4
+modified: 20201122170221849
+tags: Feat Archetype
+title: Basic Blood Potency
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Sorcerer feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Sorcerer]]">>

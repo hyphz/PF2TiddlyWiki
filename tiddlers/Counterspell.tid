@@ -1,8 +1,8 @@
 created: 20200711180020592
-feat-class: Wizard
+feat-class: Sorcerer Wizard
 feat-level: 1
-modified: 20200712160552783
-tags: Feat Wizard Class Action Reaction Abjuration Arcane
+modified: 20201122151016966
+tags: Feat Wizard Class Action Reaction Abjuration Arcane Sorcerer Divine Primal Occult
 title: Counterspell
 type: text/vnd.tiddlywiki
 
@@ -13,3 +13,6 @@ When a foe Casts a Spell and you can see its manifestations, you can use your ow
 You expend a prepared spell to counter the triggering creature’s casting of that same spell. You lose your spell slot as if you had cast the triggering spell. 
 
 You then attempt to [[Counteract]] the triggering spell.
+
+This feat has the trait corresponding to the tradition
+of spells you cast (arcane, divine, //primal//, or occult).

@@ -1,11 +1,11 @@
 created: 20200711180304621
-feat-class: Wizard
+feat-class: Sorcerer Wizard
 feat-level: 1
-modified: 20200711181515554
-tags: Feat Class Ability Wizard
+modified: 20201122151108736
+tags: Feat Class Ability Wizard Sorcerer
 title: Familiar (Feat)
 type: text/vnd.tiddlywiki
 
 You make a pact with creature that serves you and assists your spellcasting. 
 
-You gain a [[Familiar]].
+You gain a [[Familiar|Familiar (Rule)]].

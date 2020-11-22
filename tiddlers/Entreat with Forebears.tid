@@ -1,0 +1,20 @@
+created: 20201122155456563
+feat-class: Sorcerer
+feat-level: 2
+mod-deception: +1 circumstance vs creatures matching bloodline.
+mod-diplomacy: +1 circumstance vs creatures matching bloodline.
+mod-intimidation: +1 circumstance vs creatures matching bloodline.
+modified: 20201122155650167
+tags: Feat Sorcerer Class
+title: Entreat with Forebears
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' a bloodline that corresponds with a creature trait.
+
+Something about your presence causes creatures of your bloodline to, consciously or not, recognize you as one of their own, and you become inured to their tricks. 
+
+You gain a +1 circumstance bonus to [[Diplomacy]], [[Deception]], and [[Intimidation]] checks when interacting with creatures that have the trait corresponding to your bloodline, and you gain a +1 circumstance bonus to [[Perception]] and saving throws against such creatures. 
+
+For example, an aberrant bloodline sorcerer would gain this benefit against creatures with the aberration trait. 
+
+The GM is the final arbiter of which creatures match your bloodline.

@@ -1,0 +1,12 @@
+bl-desc: Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family’s bloodline.
+bl-granted: [[Ghost Sound]] Charm [[Hideous Laughter]] Enthrall Suggestion [[Cloak of Colors]] Mislead [[Visions of Danger]] [[Uncontrollable Dance]] [[Resplendent Mansion]]
+bl-list: Primal
+bl-magic: Colorful fey glamours dance around you or one target, causing them to be concealed for 1 round. Such obvious concealment can’t be used to Hide.
+bl-skill: Deception Nature
+created: 20201122145911382
+modified: 20201122150258163
+tags: Bloodline
+title: Fey (Bloodline)
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}

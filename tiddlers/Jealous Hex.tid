@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200808135204670
 m-area: 
+m-bloodline: Hag
 m-components: Verbal
 m-duration: Up to 1 minute
 m-level: 1
@@ -12,7 +13,7 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200808140150503
+modified: 20201122150739312
 s-crit: 
 s-fail: The condition's value is 1.
 s-fumble: The condition's value is 2.

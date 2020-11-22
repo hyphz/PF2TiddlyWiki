@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200812220703127
 m-area: 10 foot [[Emanation]]
+m-bloodline: Shadow
 m-components: Somatic Verbal
 m-domain: 
 m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
@@ -13,7 +14,7 @@ m-range:
 m-save: Reflex
 m-targets: Enemies in the area
 m-time: 
-modified: 20200812220928758
+modified: 20201122163848486
 s-crit: The creature is unaffected.
 s-fail: As success, but the creature takes full damage and a –10-foot circumstance penalty.
 s-fumble: The creature is absorbed into the shadows, where it can be seen below the surface; it takes double damage and is [[Immobilized]] for 1 round or until it [[Escape]]s.

@@ -1,0 +1,11 @@
+created: 20201122171933545
+feat-arch: Sorcerer
+feat-level: 4
+modified: 20201122171958457
+tags: Feat Archetype
+title: Basic Sorcerer Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicSpellcasting}}
+
+Each time you gain a spell slot of a new level from the sorcerer archetype, add a spell of the appropriate spell level to your repertoire: a common spell of your bloodline’s tradition, one of your bloodline’s granted spells, or another spell you have learned or discovered.

@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807020040652
 m-area: 
+m-bloodline: Imperial
 m-components: Somatic
 m-duration: 
 m-level: 5
@@ -16,7 +17,7 @@ mod-ac: +2 status vs targeted spell.
 mod-fortitude: +2 status vs target spell.
 mod-reflex: +2 status vs target spell.
 mod-will: +2 status vs target spell.
-modified: 20200807020249965
+modified: 20201122154717661
 s-crit: 
 s-fail: 
 s-fumble: 

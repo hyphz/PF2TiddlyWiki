@@ -1,0 +1,14 @@
+created: 20201122152249103
+feat-class: Sorcerer
+feat-level: 8
+mod-fortitude: +1 status vs spells and magic.
+mod-reflex: +1 status vs spells and magic.
+mod-will: +1 status vs spells and magic.
+modified: 20201122152625048
+tags: Feat Sorcerer Class
+title: Bloodline Resistance
+type: text/vnd.tiddlywiki
+
+Your magical blood makes you more resistant to magic. 
+
+You gain a +1 status bonus to saving throws against spells and magical effects.

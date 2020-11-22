@@ -1,0 +1,12 @@
+created: 20201122151215952
+feat-class: Sorcerer
+feat-level: 1
+mod-cast_a_spell: Gain spell's level as status bonus to damage, if spell has no duration.
+modified: 20201122151343254
+tags: Feat Sorcerer Class
+title: Dangerous Sorcery
+type: text/vnd.tiddlywiki
+
+Your legacy grants you great destructive power. 
+
+When you [[Cast a Spell]] from your spell slots, if the spell deals damage and doesn’t have a duration, you gain a status bonus to that spell’s damage equal to the spell’s level.

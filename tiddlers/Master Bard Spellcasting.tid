@@ -1,0 +1,12 @@
+created: 20201122165616067
+feat-arch: Bard
+feat-fpre: [[Expert Bard Spellcasting]]
+feat-level: 18
+feat-skill: Occultism
+feat-spre: L
+modified: 20201122165635104
+tags: Feat Archetype
+title: Master Bard Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassMasterSpellcasting}}

@@ -1,0 +1,11 @@
+created: 20201122170047859
+feat-arch: Ranger
+feat-level: 4
+modified: 20201122170101698
+tags: Feat Archetype
+title: Basic Hunter's Trick
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Ranger feat.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Ranger]]">>

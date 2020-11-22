@@ -1,0 +1,11 @@
+created: 20201122172012456
+feat-arch: Wizard
+feat-level: 4
+modified: 20201122172032408
+tags: Feat Archetype
+title: Basic Wizard Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicSpellcasting}}
+
+Each time you gain a spell slot of a new level from the wizard archetype, add two common spells of that level to your spellbook.

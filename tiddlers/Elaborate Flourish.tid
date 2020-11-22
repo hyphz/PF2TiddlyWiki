@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201122155708565
+feat-class: Sorcerer
+feat-level: 4
+modified: 20201122155821810
+tags: Feat Sorcerer Class Action Concentrate Metamagic Manipulate
+title: Elaborate Flourish
+type: text/vnd.tiddlywiki
+
+You embellish your spellcasting with entrancing flourishes and grand pronouncements, making it harder to identify or counter. 
+
+If the next action you use is to [[Cast a Spell]], creatures with the ability to Cast that Spell don’t automatically know what the spell is. 
+
+In addition, creatures that witness your spellcasting take a –2 circumstance penalty to checks to identify the spell with [[Recall Knowledge]] and checks to counteract the spell during its casting (such as with [[Counterspell]]).

@@ -1,0 +1,47 @@
+cls-combt: Simple Unarmed Unarmored
+cls-exskills: 2
+cls-fortitude: T
+cls-hpbase: 6
+cls-key: Charisma
+cls-per: T
+cls-reflex: T
+cls-tskills: 
+cls-will: E
+created: 20201122145021711
+modified: 20201122145829965
+tags: Class
+title: Sorcerer
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag[Bloodline]sort[]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | 3 1st level slots |
+| 2 | +1 1st level slot |
+| 3 | [[Signature Spells]], 3 2nd level slots |
+| 4 | +1 2nd level slot |
+| 5 | [[Magical Fortitude]], 3 3rd level slots |
+| 6 | +1 3rd level slot |
+| 7 | [[Expert Spellcaster]], 3 4th level sllots |
+| 8 | +1 4th level slot |
+| 9 | [[Lightning Reflexes]], 3 5th level slots |
+| 10 | +1 5th level slot |
+| 11 | [[Alertness]], Simple Weapon Expertise, 3 6th level slots |
+| 12 | +1 6th level slot |
+| 13 | [[Defensive Robes]], [[Weapon Specialization]], 3 7th level slots |
+| 14 | +1 7th level slot |
+| 15 | [[Master Spellcaster]], 3 8th level slots |
+| 16 | +1 8th level slot |
+| 17 | 3 9th level slots |
+| 18 | +1 9th level slot |
+| 19 | [[Bloodline Paragon]], [[Legendary Spellcaster]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

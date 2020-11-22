@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200812220954723
 m-area: 
+m-bloodline: Shadow
 m-components: Somatic
 m-domain: 
 m-duration: 
@@ -13,7 +14,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200812223148503
+modified: 20201122163752656
 modtag-darkness: Can use after spell to hide.
 modtag-shadow: Can use after spell to hide.
 s-crit: 

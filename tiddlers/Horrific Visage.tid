@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200808134623642
 m-area: 30 foot radius [[Emanation]] centered on you
+m-bloodline: Hag
 m-components: Somatic Verbal
 m-duration: 
 m-level: 3
@@ -12,7 +13,7 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200808135029718
+modified: 20201122150758582
 s-crit: 
 s-fail: The foe is [[Frightened]] 1.
 s-fumble: The foe is [[Frightened]] 2.

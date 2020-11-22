@@ -5,6 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807183130340
 m-area: 
+m-bloodline: Imperial
 m-components: Verbal
 m-duration: 
 m-level: 3
@@ -12,7 +13,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200807183804890
+modified: 20201122154639987
 s-crit: 
 s-fail: 
 s-fumble: 
