@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20201010163635433
+modified: 20201128232648194
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -34,6 +34,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Concentrate]]">
 <tr><th>[[Concentrate]]</th><td>You can't use this while distracted, or while raging unless it also has Rage.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Curse]]">
+<tr><th>[[Curse]]</th><td><u>Can only be removed by effects which specifically target curses.</u></td></tr>
 </$list>
 <$list filter="[all[current]tag[Cursebound]]">
 <tr><th>[[Cursebound]]</th><td>Requires an [[Oracular Curse]], and increases its severity.</td></tr>
@@ -112,6 +115,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Occult]]">
 <tr><th>[[Occult]]</th><td>This spell can be identified using [[Occultism]].</td></tr>
+</$list>
+<$list filter="[all[current]tag[Olfactory]]">
+<tr><th>[[Occult]]</th><td>This only affects creatures that can smell it.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Open]]">
 <tr><th>[[Open]]</th><td>Can't use this after an [[Attack]] or [[Open]] in the same turn.</td></tr>

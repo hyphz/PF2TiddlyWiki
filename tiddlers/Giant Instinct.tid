@@ -1,6 +1,6 @@
 created: 20200806220331368
 mod-rage: Increase damage to 6/10/18 when using outsize weapon.
-modified: 20201010170525574
+modified: 20201128235102863
 tags: Barbarian Splat
 title: Giant Instinct
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ Your rage gives you the raw power and size of a giant. This doesn’t necessaril
 
 ''Anathema'' Failing to face a personal challenge of strength is anathema.
 
-''Titan Mauler (Instinct Ability)'': You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you’re not Small or Medium, you can use a weapon built for a creature one size larger than you. You gain access to one weapon one size larger than you, of any weapon type otherwise available at character creation. It has the normal Price and Bulk for a weapon of its size. When wielding such a weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the [[Clumsy]] 1 condition because of the weapon’s unwieldy size. You can’t remove this clumsy condition or ignore its penalties by any means while wielding the weapon. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
+''Titan Mauler (Instinct Ability)'': You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you’re not Small or Medium, you can use a weapon built for a creature one size larger than you. You gain access to __this larger weapon__, of any weapon type otherwise available at character creation. It has the normal Price and Bulk for a weapon of its size. When wielding such a weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the [[Clumsy]] 1 condition because of the weapon’s unwieldy size. You can’t remove this clumsy condition or ignore its penalties by any means while wielding the weapon. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 
 ''Specialization Ability'' Increase the damage from Rage when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18. //You only gain this ability automatically if you are a [[Barbarian]], not if you just have [[Barbarian Dedication]].//
 

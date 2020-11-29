@@ -1,5 +1,5 @@
 created: 20201122165200754
-modified: 20201122165239760
+modified: 20201129002447433
 tags: 
 title: MulticlassExpertSpellcasting
 type: text/vnd.tiddlywiki
@@ -7,3 +7,5 @@ type: text/vnd.tiddlywiki
 You are an expert in spell attack rolls and DCs of the appropriate magical tradition and grant you a 4th-level spell slot. 
 
 At 14th level, they grant you a 5th-level spell slot, and at 16th level, they grant you a 6th-level spell slot. 
+
+__If you have a spell repertoire, you can select a second spell from your repertoire as a signature spell.__

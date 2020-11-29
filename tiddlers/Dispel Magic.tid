@@ -12,7 +12,7 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 spell effect or unattended magic item
 m-time: 
-modified: 20200722104734870
+modified: 20201128232307629
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -32,3 +32,5 @@ If you succeed against a spell effect, you counteract it.
 If you succeed against a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn’t change the item’s non-magical properties.
 
 If the target is an artifact or similar item, you automatically fail.
+
+__You cannot use Dispel Magic to remove a curse, even one that is the result of a spell.__

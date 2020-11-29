@@ -6,8 +6,8 @@ a-hit: The target is [[Clumsy]] 1 until the end of its next turn.
 created: 20201017141650362
 feat-class: Monk
 feat-level: 10
-modified: 20201017141920551
-tags: Feat Class Monk Action Concentrate Attack Incapacitation
+modified: 20201129000711485
+tags: Feat Class Monk Action Concentrate Incapacitation
 title: Sleeper Hold
 type: text/vnd.tiddlywiki
 
@@ -16,5 +16,7 @@ type: text/vnd.tiddlywiki
 You pinch crucial points of your target’s nervous system, impeding its ability to function. 
 
 Attempt an [[Athletics]] check to [[Grapple]] the creature, with the following success and critical success effects instead of the usual effects.
+
+//The Attack trait on this action was removed by errata.//
 
 {{||ActionSuccessTable}}

@@ -2,7 +2,7 @@ created: 20201024143824205
 feat-class: Druid
 feat-level: 10
 mod-wild_shape: Use forms from Plant Form and add resist 5 poison.
-modified: 20201024144043974
+modified: 20201129000233219
 tags: Feat Class Druid
 title: Plant Shape
 type: text/vnd.tiddlywiki
@@ -13,6 +13,6 @@ You can take the form of a plant creature.
 
 Add the forms listed in [[Plant Form]] to your [[Wild Shape]] list.
 
-If you don’t have wild shape, you can instead cast [[Plant Form]] once per day, heightened to the highest spell level you can cast. 
+If you don’t have wild shape, you can instead cast [[Plant Form]] once per day, heightened to the __same level as your highest Druid spell slot__.
 
 Whenever you’re polymorphed into another form using wild shape, you gain resistance 5 to poison.

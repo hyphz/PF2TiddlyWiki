@@ -1,5 +1,5 @@
 created: 20200912163839448
-modified: 20200912164018004
+modified: 20201128234712797
 tags: Ability
 title: Third Path to Perfection
 type: text/vnd.tiddlywiki
@@ -12,4 +12,4 @@ Your proficiency rank for the chosen type of save increases to legendary.
 
 When you roll a critical failure on the chosen type of save, you get a failure instead. 
 
-When you fail at the chosen type of save against an effect that deals damage, you take half damage.
+When you __roll a failure on__ the chosen type of save against an effect that deals damage, you take half damage.

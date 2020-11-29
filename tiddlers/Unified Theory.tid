@@ -5,7 +5,7 @@ feat-spre: L
 mod-nature: Can use Arcana instead for magic related checks.
 mod-occultism: Can use Arcana instead for magic related checks.
 mod-religion: Can use Arcana instead for magic related checks.
-modified: 20200726003950053
+modified: 20201129003309153
 tags: General Skill Feat
 title: Unified Theory
 type: text/vnd.tiddlywiki
@@ -14,6 +14,6 @@ type: text/vnd.tiddlywiki
 
 You’ve started to make a meaningful connection about the common underpinnings of the four traditions of magic and magical essences, allowing you to understand them all through an arcane lens. 
 
-Whenever you use an action or a skill feat that requires a [[Nature]], [[Occultism]], or [[Religion]] check, depending on the magic tradition, you can use [[Arcana]] instead. 
+Whenever you use __a skill action__ or a skill feat that requires a [[Nature]], [[Occultism]], or [[Religion]] check, depending on the magic tradition, you can use [[Arcana]] instead. 
 
 If you would normally take a penalty or have a higher DC for using Arcana on other magic (such as when using [[Identify Magic]]), you no longer do so.

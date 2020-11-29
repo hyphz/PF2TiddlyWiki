@@ -1,6 +1,6 @@
 created: 20200806213801108
 mod-fortitude: Promotes fumbles. Half damage on failure.
-modified: 20200806213859292
+modified: 20201128234559663
 tags: Ability
 title: Greater Juggernaut
 type: text/vnd.tiddlywiki
@@ -11,4 +11,4 @@ Your proficiency rank for [[Fortitude]] saves increases to legendary.
 
 When you roll a critical failure on a Fortitude save, you get a failure instead. 
 
-When you fail a Fortitude save against an effect that deals damage, you halve the damage you take.
+When you __roll a failure on__ a Fortitude save against an effect that deals damage, you halve the damage you take.

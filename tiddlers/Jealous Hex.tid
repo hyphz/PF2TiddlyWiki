@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20201122150739312
+modified: 20201128232503129
 s-crit: 
 s-fail: The condition's value is 1.
 s-fumble: The condition's value is 2.
 s-hit: The target is unaffected.
-tags: Spell Verbal [[Focus Spell]] Concentrate
+tags: Spell Verbal [[Focus Spell]] Concentrate Curse
 title: Jealous Hex
 type: text/vnd.tiddlywiki
 

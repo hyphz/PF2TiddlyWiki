@@ -7,7 +7,7 @@ created: 20200806201415493
 feat-class: Druid
 feat-fpre: [[Stormwind Flight]]
 feat-level: 18
-m-area: 100 foot [[Emanation]]
+m-area: 100 foot [[Emanation]] __which must include you__
 m-components: Somatic Verbal
 m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
 m-level: 9
@@ -15,7 +15,7 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20201024150518015
+modified: 20201129004150219
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -1,0 +1,13 @@
+created: 20201128230156989
+feat-arch: [[Bellflower Tiller]]
+feat-level: 8
+modified: 20201128230243497
+tags: Feat Archetype Uncommon
+title: Scarecrow
+type: text/vnd.tiddlywiki
+
+You fight fiercely to protect your crop. 
+
+When you hit a creature that is adjacent to two or more members of your crop with a weapon or unarmed attack, you gain a circumstance bonus to your damage roll equal to the number of weapon damage dice. 
+
+When you hit a creature who has a member of your crop [[Grabbed]], that member can attempt to [[Escape]] using a reaction.

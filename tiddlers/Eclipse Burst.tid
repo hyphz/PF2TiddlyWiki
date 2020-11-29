@@ -12,7 +12,7 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200805230737600
+modified: 20201129003848265
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -23,9 +23,9 @@ type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
 
-A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to creatures and objects in the area, plus 8d4 additional negative damage to living creatures. 
+A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to creatures in the area, plus 8d4 additional negative damage to living creatures. 
 
-Creatures and objects in the area must attempt a //basic// Reflex save. //On a critical failure, creatures are also [[Blinded]] by the darkness for an unlimited duration.//
+Creatures in the area must attempt a //basic// Reflex save. //On a critical failure, creatures are also [[Blinded]] by the darkness for an unlimited duration.//
 
 If the globe overlaps with an area of magical <<tag Light>>or affects a creature affected by magical light, eclipse burst attempts to [[Counteract]] the light effect.
 

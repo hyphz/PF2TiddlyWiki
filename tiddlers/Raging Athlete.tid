@@ -7,7 +7,7 @@ mod-high_jump: Lowers DC by 10 when raging.
 mod-leap: Leap distance increases by 5 feet.
 mod-long_jump: Lowers DC by 10 when raging.
 mod-rage: Improves climbing, swimming and jumping when raging.
-modified: 20200723215407480
+modified: 20201128231838428
 tags: Barbarian Class Feat
 title: Raging Athlete
 type: text/vnd.tiddlywiki
@@ -16,4 +16,6 @@ type: text/vnd.tiddlywiki
 
 Physical obstacles can’t hold back your fury. 
 
-While you are raging, you gain a climb Speed and swim Speed equal to your land Speed, the DC of [[High Jump]]s and [[Long Jump]]s decreases by 10, and your [[Leap]] distance increases by 5 feet when you jump horizontally and by 2 feet when you jump vertically.
+While you are raging, you gain a climb Speed and swim Speed equal to your land Speed and the DC of [[High Jump]]s and [[Long Jump]]s decreases by 10.
+
+__Your distance for a vertical [[Leap]] increases to 5 feet vertically, and your distance for a horizontal [[Leap]] increases to 15 feet if your Speed is at least 15 feet and to 20 feet if your Speed is at least 30 feet.__

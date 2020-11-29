@@ -1,6 +1,6 @@
 created: 20200806214855969
 mod-rage: Gain animal's unarmed attack. Anathema to use weapons.
-modified: 20201010170213386
+modified: 20201128234926287
 tags: Barbarian Splat
 title: Animal Instinct
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ The fury of a wild predator fills you when you Rage, granting you ferocious unar
 |Bull |Horn |1d10 P |Shove, unarmed |
 |Cat |Jaws |1d10 P |Unarmed |
 | |Claw |1d6 S |Agile, unarmed |
-|Deer |Antler |1d8 P |Charge, unarmed |
+|Deer |Antler |__1d10__ P |__Grapple__, unarmed |
 |Frog |Jaws |1d10 B |Unarmed |
 | |Tongue |1d4 B |Agile, unarmed |
 |Shark |Jaws |1d10 P |Grapple, unarmed |

@@ -1,5 +1,5 @@
 created: 20200627220557670
-modified: 20200730123737276
+modified: 20201129003619361
 tags: 
 title: Material
 type: text/vnd.tiddlywiki
@@ -15,6 +15,8 @@ That component is expended in the casting (even if the spell is disrupted).
 Except in extreme circumstances, you can assume all common components are included in a material component pouch.
 
 {{BardConSub}}
+
+__Any character casting an innate spell can replace any material component with a somatic component.__
 
 If you’re a [[Cleric]] Casting a Spell from the [[Divine]] tradition while holding a divine focus (such as a religious symbol or text), you can replace any material component the spell requires by using the divine focus as a [[Focus]] component instead. Unlike the normal rules for a focus component, you can’t retrieve or stow the focus when making this substitution.
 

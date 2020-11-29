@@ -6,12 +6,12 @@ mod-ac: +4 status, but Dexterity cannot be added.
 mod-shove: +2 circumstance to defense.
 mod-speed: All speeds reduced by 5 feet.
 mod-trip: +2 circumstance to defense.
-modified: 20201010174913940
+modified: 20201129000633947
 tags: Feat Class Monk Action Stance
 title: Mountain Stance
 type: text/vnd.tiddlywiki
 
-''Requirements'' You are unarmored and touching the ground. //(The book, presumably incorrectly, describes this as a "trigger".)//
+''Requirements'' You are unarmored and touching the ground. 
 
 You enter the stance of an implacable mountain—a technique first discovered by dwarven monks—allowing you to strike with the weight of an avalanche. 
 

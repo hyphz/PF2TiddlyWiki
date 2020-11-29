@@ -8,7 +8,7 @@ cls-reflex: T
 cls-tskills: Nature
 cls-will: E
 created: 20200912153659413
-modified: 20200912154440697
+modified: 20201129000145555
 tags: Class
 title: Druid
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 !! Class Features
 
 | !Level | !Features |
-| 1 | [[Druid Anathema]], Druidic Language, [[Shield Block]], [[Wild Empathy]], 4 cantrips, 2 1st-level slots |
+| 1 | [[Druid Anathema]], Druidic Language, [[Shield Block]], [[Wild Empathy]], __5__ cantrips, 2 1st-level slots |
 | 2 | +1 1st-level slot |
 | 3 | [[Alertness]], [[Great Fortitude]], 2 2nd-level slots |
 | 4 | +1 2nd-level slots |
@@ -38,7 +38,7 @@ type: text/vnd.tiddlywiki
 | 16 | +1 8th-level slots |
 | 17 | 2 9th-level slots |
 | 18 | +1 9th-level slot |
-| 19 | [[Legendary Spellcaster]] |
+| 19 | [[Legendary Spellcaster]], [[Primal Hierophant]] |
 | 20 | |
 
 !! Class Feats

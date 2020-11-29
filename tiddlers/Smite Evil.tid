@@ -2,12 +2,12 @@ a-actions: 1
 created: 20200912140714330
 feat-class: Champion
 feat-level: 6
-modified: 20200912140840945
+modified: 20201128235652800
 tags: Feat Class Champion Action
 title: Smite Evil
 type: text/vnd.tiddlywiki
 
-''Prerequisites'' [[Divine Ally]] (blade).
+''Prerequisites'' [[Divine Ally]] (blade), __Tenets of Good__.
 
 Your blade ally becomes an even more powerful tool against evildoers. 
 

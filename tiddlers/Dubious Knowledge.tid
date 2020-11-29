@@ -1,7 +1,7 @@
 created: 20200630091458910
 feat-level: 1
 mod-recall_knowledge: Learn true and false knowledge on a fail.
-modified: 20200726000143968
+modified: 20201129003217933
 tags: Feat General Skill
 title: Dubious Knowledge
 type: text/vnd.tiddlywiki
@@ -10,4 +10,4 @@ type: text/vnd.tiddlywiki
 
 You’re a treasure trove of information, but not all of it comes from reputable sources. 
 
-When you fail a Recall Knowledge check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don’t have any way to differentiate which is which.
+When you fail __(but not critically fail)__ a Recall Knowledge check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don’t have any way to differentiate which is which.

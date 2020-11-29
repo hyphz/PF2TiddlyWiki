@@ -8,7 +8,7 @@ cls-reflex: T
 cls-tskills: Arcana
 cls-will: E
 created: 20201024164248649
-modified: 20201024170027294
+modified: 20201129001848166
 tags: Class
 title: Wizard
 type: text/vnd.tiddlywiki
@@ -46,7 +46,7 @@ You gain an extra wizard class feat, and you add one 1st-level spell of your cho
 !! Class Features
 
 | !Level | !Features |
-| 1 | [[Drain Bonded Item]], 2 1st-level slots |
+| 1 | [[Drain Bonded Item]], __''no advancement feat''__, 2 1st-level slots |
 | 2 | +1 1st-level slot |
 | 3 | 2 2nd-level slots |
 | 4 | +1 2nd-level slot |

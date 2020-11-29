@@ -1,5 +1,5 @@
 created: 20201017182910764
-modified: 20201017183248814
+modified: 20201129002257894
 tags: Rule
 title: Familiar (Rule)
 type: text/vnd.tiddlywiki
@@ -13,6 +13,10 @@ Familiars have the <<tag Minion>> trait, so duringan encounter, they gain 2 acti
 If your familiar dies, you can spend a week of downtime to replace it at no cost.
 
 You can have only one familiar at a time.
+
+__A familiar has the same level you do.__
+
+__A familiar can't make Strikes.__
 
 Your familiar’s save modifiers and AC are equal to yours before applying circumstance or status bonuses or penalties. 
 

@@ -1,6 +1,6 @@
 created: 20200806230044895
 mod-reflex: Promotes fumbles, half damage on fail.
-modified: 20200806230111056
+modified: 20201128234653644
 title: Improved Evasion
 type: text/vnd.tiddlywiki
 
@@ -10,4 +10,4 @@ Your proficiency rank for [[Reflex]] saves increases to legendary.
 
 When you roll a critical failure on a Reflex save, you get a failure instead. 
 
-When you roll a failure on a Reflex save against a damaging effect, you take half damage.
+When you __roll a failure on__ a Reflex save against a damaging effect, you take half damage.

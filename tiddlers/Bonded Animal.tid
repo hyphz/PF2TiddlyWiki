@@ -2,7 +2,7 @@ created: 20200630084728436
 feat-level: 2
 feat-skill: Nature
 feat-spre: E
-modified: 20200630150152475
+modified: 20201128233519059
 tags: Downtime General Skill Feat
 title: Bonded Animal
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 You forge strong connections with animals. 
 
-You can spend 7 days of downtime trying to bond with a normal animal (not a companion or other special animal). 
+You can spend 7 days of downtime __regularly interacting__ with a normal animal (not a companion or other special animal) __that is friendly or helpful to you__. 
 
 After this duration, attempt a DC 20 [[Nature]] check. If successful, you bond with the animal. 
 

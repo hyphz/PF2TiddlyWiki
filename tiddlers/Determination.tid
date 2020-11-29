@@ -2,7 +2,7 @@ a-actions: 1
 created: 20201010153418697
 feat-class: Fighter
 feat-level: 14
-modified: 20201010153551624
+modified: 20201129000538016
 tags: Feat Class Fighter Action Concentrate
 title: Determination
 type: text/vnd.tiddlywiki
@@ -15,7 +15,7 @@ Choose a single nonpermanent spell or condition that is affecting you.
 
 If you chose a condition, its effect on you ends. 
 
-If you chose a spell, attempt to [[Counteract]] the spell (your level is your counteract level, and you attempt a [[Will]] save as your counteract check).
+If you chose a spell, attempt to [[Counteract]] the spell (__your counteract level is half your level rounded up__, and you attempt a [[Will]] save as your counteract check).
 
 This doesn’t remove any Hit Point damage normally dealt by the spell or condition, and it doesn’t prevent the spell or debilitating effect from affecting other allies or the environment around you. 
 

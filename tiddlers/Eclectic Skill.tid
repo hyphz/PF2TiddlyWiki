@@ -4,7 +4,7 @@ feat-level: 8
 feat-skill: Occultism
 feat-sppre: [[Polymath Muse]]
 feat-spre: M
-modified: 20200830145917283
+modified: 20201128235432282
 modtag-trained: Can attempt trained checks when untrained.
 tags: Bard Class Feat
 title: Eclectic Skill
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 Your broad experiences translate to a range of skills. 
 
-You add your level to all skill checks in which you are untrained. 
+__Your proficiency bonus to untrained skill checks is equal to your level.__
 
 You can attempt any skill check that normally requires you to be trained, even if you are untrained. 
 

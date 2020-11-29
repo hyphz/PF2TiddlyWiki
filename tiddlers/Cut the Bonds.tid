@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201128231038375
+feat-arch: [[Bellflower Tiller]]
+feat-level: 12
+modified: 20201128231155379
+tags: Feat Archetype Uncommon Action Attack
+title: Cut the Bonds
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' You must be an expert in a melee weapon.
+
+Select a magical effect that has made an adjacent member of your crop [[Clumsy]], [[Grabbed]], [[Paralyzed]], [[Restrained]], or [[Slowed]]. 
+
+Attempt a [[Counteract]] check using your attack modifier (including your [[Multiple Attack Penalty]]) with a melee weapon with which you have expert proficiency. Your counteract level is half your level rounded up. 
+
+On a success, you free that member from the effect; on a failure, you can’t attempt to use Cut the Bonds on that effect on that crop member until 24 hours have passed.

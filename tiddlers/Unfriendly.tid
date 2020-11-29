@@ -1,10 +1,10 @@
 created: 20200626203000029
-modified: 20200626203035258
+modified: 20201128233123415
 tags: Condition
 title: Unfriendly
 type: text/vnd.tiddlywiki
 
-This condition reflects a creature’s disposition toward a particular character, and it affects only creatures that are not player characters. 
+__This condition reflects a creature’s disposition toward a particular character, and only supernatural effects (like a spell) can impose these conditions on player characters.__
 
 A creature that is unfriendly to a character dislikes and specifically distrusts that character. 
 

@@ -1,13 +1,13 @@
 created: 20201017173516669
 mod-command_an_animal: Gives companion 2 actions.
-modified: 20201017180725703
+modified: 20201129002133784
 tags: Rule
 title: Animal Companions
 type: text/vnd.tiddlywiki
 
 An animal companion is a loyal comrade who follows your orders without you needing to use [[Handle an Animal]] on it. 
 
-Your animal companion has the <<tag Minion>> trait, and it gains 2 actions during your turn if you use the [[Command an Animal]] action to command it; this is in place of the usual effects of Command an Animal. 
+Your animal companion has the <<tag Minion>> trait, and it gains 2 actions during your turn if you use the [[Command an Animal]] action to command it; this is in place of the usual effects of Command an Animal, __and you don’t need to attempt a Nature check__.
 
 If your companion dies, you can spend a week of downtime to replace it at no cost. 
 
@@ -15,7 +15,9 @@ You can have only one animal companion at a time.
 
 You or an ally can ride your animal companion as long as it is at least one size larger than the rider. If it is carrying a rider, the animal companion can use only its land Speed, and it can’t move and Support you on the same turn. However, if your companion has the [[Mount]] special ability, it’s especially suited for riding and ignores both of these restrictions.
 
-Animal companions calculate their modifiers and DCs just as you do with one difference: the only item bonuses they can benefit from are to speed and AC (their maximum item bonus to AC is +2).
+Animal companions calculate their modifiers and DCs just as you do with one difference: the only item bonuses they can benefit from are to speed and AC (their maximum item bonus to AC is +__3__).
+
+__An animal companion has the same level as you do.__
 
 Your animal companion uses your level to determine its proficiency bonuses. It’s trained in its unarmed attacks, unarmored defense, barding, all saving throws, [[Perception]], [[Acrobatics]], and [[Athletics]]. 
 

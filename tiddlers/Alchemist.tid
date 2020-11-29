@@ -1,4 +1,4 @@
-cls-combt: Simple Unarmed [[Alchemical Bomb]] Light Unarmored
+cls-combt: Simple Unarmed [[Alchemical Bomb]] Light Medium Unarmored
 cls-exskills: 3
 cls-fortitude: E
 cls-hpbase: 8
@@ -8,7 +8,7 @@ cls-reflex: E
 cls-tskills: Crafting
 cls-will: T
 created: 20200626210609384
-modified: 20200830153759186
+modified: 20201128231459897
 tags: Class
 title: Alchemist
 type: text/vnd.tiddlywiki
@@ -20,11 +20,11 @@ type: text/vnd.tiddlywiki
 !! Class Features
 
 | !Level | !Features |
-| 1 | [[Alchemical Crafting]], [[Infused Reagents]], [[Advanced Alchemy]], [[Quick Alchemy]], +2 Formulas |
+| 1 | [[Alchemical Crafting]], [[Infused Reagents]], [[Advanced Alchemy]], [[Quick Alchemy]], __[[Signature Items]]__, +2 Formulas |
 | 2 | +2 Formulas |
 | 3 | +2 Formulas |
 | 4 | +2 Formulas |
-| 5 | Splat Feature, +2 Formulas |
+| 5 | __[[Powerful Alchemy]]__, Splat Feature, +2 Formulas |
 | 6 | +2 Formulas |
 | 7 | [[Alchemical Weapon Expertise]], [[Iron Will]], [[Perpetual Infusions]], +2 Formulas |
 | 8 | +2 Formulas |
@@ -32,13 +32,13 @@ type: text/vnd.tiddlywiki
 | 10 | +2 Formulas |
 | 11 | [[Juggernaut]], [[Perpetual Potency]], +2 Formulas |
 | 12 | +2 Formulas |
-| 13 | Splat Feature, [[Light Armor Expertise]], [[Weapon Specialization]], +2 Formulas |
+| 13 | Splat Feature, __[[Medium Armor Expertise]]__, [[Weapon Specialization]], +2 Formulas |
 | 14 | +2 Formulas |
 | 15 | [[Alchemical Alacrity]], [[Evasion]], +2 Formulas |
 | 16 | +2 Formulas |
 | 17 | [[Alchemical Mastery]], [[Perpetual Perfection]], +2 Formulas |
 | 18 | +2 Formulas |
-| 19 | [[Light Armor Mastery]],  +2 Formulas |
+| 19 | __[[Medium Armor Mastery]]__,  +2 Formulas |
 | 20 |  +2 Formulas |
 
 !! Class Feats

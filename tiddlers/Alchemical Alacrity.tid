@@ -1,6 +1,6 @@
 created: 20200806212015657
 mod-quick_alchemy: Can make up to 3 items.
-modified: 20200806212038193
+modified: 20201128231651687
 tags: Ability
 title: Alchemical Alacrity
 type: text/vnd.tiddlywiki
@@ -8,3 +8,5 @@ type: text/vnd.tiddlywiki
 Your comfort in concocting items is such that you can create three at a time. 
 
 When using the [[Quick Alchemy]] action, you can spend up to three batches of infused reagents to make up to three alchemical items as described in that action. These items do not have to be the same.
+
+__You automatically stow one of these new items as you create them.__

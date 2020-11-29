@@ -1,11 +1,11 @@
 created: 20200830151249786
 feat-class: Bard Sorcerer Wizard
 feat-level: 10
-modified: 20201122152958782
+modified: 20201128232045478
 tags: Bard Class Feat Action Free Concentrate Metamagic Wizard Sorcerer
 title: Quickened Casting
 type: text/vnd.tiddlywiki
 
 ''Frequency'' Once per day.
 
-If your next action is to cast a cantrip or a spell //from the class that gave you this feat// that is at least 2 levels lower than the highest level spell //of that class// you can cast, reduce the number of actions to cast it by 1 (minimum 1 action).
+If your next action is to cast a cantrip or a spell __from the class that gave you this feat__ that is at least 2 levels lower than the highest level spell __of that class__ you can cast, reduce the number of actions to cast it by 1 (minimum 1 action).

@@ -7,7 +7,7 @@ a-hands: 1
 a-hit: Your opponent is [[Grabbed]] until the end of your next turn unless you move or your opponent [[Escape]]s.
 a-skill: Athletics
 created: 20200702222720703
-modified: 20200720214505571
+modified: 20201129002628017
 modified-by: Athletics Fortitude
 tags: Attack Action [[Weapon Trait]]
 title: Grapple
@@ -16,7 +16,7 @@ type: text/vnd.tiddlywiki
 
 ''Requirements'' You have at least one free hand. Your target cannot be more than one size larger than you //unless you have [[Titan Wrestler]] in which case it can be two or three sizes larger, based on your Athletics.//
 
-You attempt to grab an opponent with your free hand.  You can also Grapple to keep your hold on a creature you already grabbed.
+You attempt to grab an opponent with your free hand.  You can also Grapple to keep your hold on a creature you already grabbed __or restrained__.
 
 Attempt an [[Athletics]] check against their [[Fortitude]] DC.
 

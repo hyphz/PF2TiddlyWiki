@@ -4,12 +4,12 @@ feat-level: 1
 feat-skill: Medicine
 feat-spre: T
 mod-treat_wounds: Can use this as a combat action 1/day.
-modified: 20200730195555244
+modified: 20201129002923484
 tags: Feat General Healing Manipulate Skill Action
 title: Battle Medicine
 type: text/vnd.tiddlywiki
 
-''Prerequisites'' Trained in [[Medicine]].
+''Prerequisites'' Trained in [[Medicine]]. __You are holding or wearing healer's tools.__
 
 You can patch up yourself or an adjacent ally, even in combat.
 

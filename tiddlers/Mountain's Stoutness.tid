@@ -1,13 +1,13 @@
 created: 20200801204308851
 feat-anc: Dwarf
 feat-level: 9
-modified: 20200801204350590
+modified: 20201128234331352
 tags: Dwarf Ancestry Feat
 title: Mountain's Stoutness
 type: text/vnd.tiddlywiki
 
 Your hardiness lets you withstand more punishment than most before going down.
 
-Increase your maximum Hit Points by your level. You also decrease the DC of recovery checks when you have the [[Dying]] condition by 1.
+Increase your maximum Hit Points by your level. __When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).__
 
-If you also have the [[Toughness]] feat, the Hit Points gained from it and this feat are cumulative, and you decrease the DC of recovery checks by 4.
+If you also have the [[Toughness]] feat, the Hit Points gained from it and this feat are cumulative, and __the DC of your recovery checks is equal to 6 + your dying value__.

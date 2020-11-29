@@ -2,7 +2,7 @@ a-actions: 2
 created: 20201031182428953
 feat-class: Rogue
 feat-level: 16
-modified: 20201031182543946
+modified: 20201129001509870
 tags: Feat Class Rogue Action
 title: Dispelling Slice
 type: text/vnd.tiddlywiki
@@ -13,4 +13,4 @@ Make a [[Strike]] against a flat-footed creature (your choice).
 
 If your Strike deals sneak attack damage, you attempt to [[Counteract]] a single spell active on the target.
 
-Your counteract level is equal to your rogue level, and your counteract check modifier is equal to your class DC – 10.
+Your counteract level is equal to __half your level, rounded up__, and your counteract check modifier is equal to your class DC - 10.

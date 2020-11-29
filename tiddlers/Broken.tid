@@ -1,10 +1,10 @@
 created: 20200626162352405
-modified: 20200626162447728
+modified: 20201128233204575
 tags: Condition
 title: Broken
 type: text/vnd.tiddlywiki
 
-Broken is a condition that affects objects. An object is broken when damage has reduced its [[Hit Points]] below its [[Broken Threshold]]. A broken object can’t be used for its normal function, nor does it grant bonuses—with the exception of armor. 
+Broken is a condition that affects objects. An object is broken when damage has reduced its [[Hit Points]] __to equal or less than__ its [[Broken Threshold]]. A broken object can’t be used for its normal function, nor does it grant bonuses—with the exception of armor. 
 
 Broken armor still grants its item bonus to [[AC]], but it also imparts a status penalty to AC depending on its category: –1 for broken light armor, –2 for broken medium armor, or –3 for broken heavy armor. 
 

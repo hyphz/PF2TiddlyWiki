@@ -11,9 +11,9 @@ m-duration:
 m-level: 1
 m-range: 120 feet
 m-save: 
-m-targets: 1 creature or object
+m-targets: 1 creature
 m-time: 
-modified: 20200805202918615
+modified: 20201129004007395
 s-crit: 
 s-fail: 
 s-fumble: 

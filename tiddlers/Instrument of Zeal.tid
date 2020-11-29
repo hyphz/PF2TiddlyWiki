@@ -1,9 +1,9 @@
 created: 20200912150400184
 feat-class: Champion
 feat-level: 16
+mod-blade_of_justice: On crit add a damage dice and slowed 1.
 mod-retributive_strike: On crit add a damage dice and slowed 1.
-mod-smite_evil: On crit add a damage dice and slowed 1.
-modified: 20200912150700791
+modified: 20201128233802659
 tags: Feat Class Champion
 title: Instrument of Zeal
 type: text/vnd.tiddlywiki
@@ -12,4 +12,4 @@ type: text/vnd.tiddlywiki
 
 Divine energy fills your weapon. 
 
-Whenever you critically hit a foe with [[Smite Evil]] or a [[Retributive Strike]], your attack adds an extra damage die, and the target is [[Slowed]] 1 on its next turn.
+Whenever you critically hit a foe with __[[Blade of Justice]]__ or a [[Retributive Strike]], your attack adds an extra damage die, and the target is [[Slowed]] 1 on its next turn.

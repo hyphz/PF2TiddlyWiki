@@ -1,10 +1,10 @@
 created: 20201031154852109
 feat-class: Ranger
-feat-fpre: [[Camouflage]]
+feat-fpre: [[Camouflage]] [[Animal Companion]]
 feat-level: 14
 mod-ambusher: Increases Stealth proficiency.
 mod-camouflage: Animal Companion gains benefit.
-modified: 20201031155015014
+modified: 20201129000959633
 tags: Feat Class Ranger
 title: Stealthy Companion
 type: text/vnd.tiddlywiki

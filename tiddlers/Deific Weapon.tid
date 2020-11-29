@@ -1,5 +1,5 @@
 created: 20200831192256396
-modified: 20200831192310162
+modified: 20201128235532364
 tags: Ability
 title: Deific Weapon
 type: text/vnd.tiddlywiki
@@ -8,4 +8,4 @@ You zealously bear your deity’s favored weapon.
 
 If it’s uncommon, you gain access to it. 
 
-If it’s a simple weapon, increase the damage die by one step (d4 to d6, d6 to d8, d8 to d10, d10 to d12).
+If it’s a simple weapon __or an unarmed attack with a d4 damage die__, increase the damage die by one step (d4 to d6, d6 to d8, d8 to d10, d10 to d12).

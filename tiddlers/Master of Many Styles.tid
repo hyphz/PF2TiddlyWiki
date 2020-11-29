@@ -2,12 +2,12 @@ created: 20201017144328632
 feat-class: Monk
 feat-fpre: [[Stance Savant (Monk)]]
 feat-level: 16
-modified: 20201017144410668
+modified: 20201129000809451
 tags: Feat Class Action Monk Free
 title: Master of Many Styles
 type: text/vnd.tiddlywiki
 
-''Requirements'' This is the first action of your turn.
+__''Trigger'' Your turn begins.__
 
 You move between stances in an unceasing dance. 
 

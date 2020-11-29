@@ -1,0 +1,12 @@
+created: 20201128231517413
+mod-advanced_alchemy: Create 3 of signature item instead of 2.
+modified: 20201128231602199
+tags: Ability
+title: Signature Items
+type: text/vnd.tiddlywiki
+
+Your research field adds a number of formulas to your formula book; these are your signature items. 
+
+When using a batch of infused reagents to create your signature items using [[Advanced Alchemy]], you create three items instead of two. 
+
+Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your research field’s list of possible signature items.
