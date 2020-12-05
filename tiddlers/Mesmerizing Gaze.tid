@@ -1,0 +1,19 @@
+a-actions: 2
+a-defense: Will
+created: 20201205174250554
+feat-arch: Celebrity
+feat-level: 6
+modified: 20201205174405601
+tags: Feat Archetype Action Emotion Enchantment Mental Visual
+title: Mesmerizing Gaze
+type: text/vnd.tiddlywiki
+
+When you meet someone’s gaze, they are unable to look away.
+
+Choose one target creature. 
+
+That creature must succeed at a [[Will]] save or be [[Fascinated]] until the end of your next turn; the DC for this save is equal to your class DC or spell DC, whichever is higher. 
+
+If the creature succeeds at its save or its fascination ends due to a [[Hostile Action]], it becomes temporarily immune to your Mesmerizing Gaze for 1 day.
+
+When you select this feat, it gains either the arcane or occult trait; once you make this choice, you can’t change it.

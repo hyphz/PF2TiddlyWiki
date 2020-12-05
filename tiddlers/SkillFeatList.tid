@@ -1,14 +1,20 @@
 created: 20200702142122585
-modified: 20200830153033333
+modified: 20201205170702702
 tags: 
 title: SkillFeatList
 type: text/vnd.tiddlywiki
 
 ''Feats for this skill:''
 
-<ul>
-<$list filter="[all[current]!tag[Class]listed[feat-skill]sort[]]">
-<li><$link to=<<currentTiddler>> /> (<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}}/>)
-</li>
+<$set name="skill" value=<<currentTiddler>>>
+
+<table>
+<$list filter="T E M L">
+<tr>
+<th><$transclude tiddler="SkillProficiencyLongName" index=<<currentTiddler>> /></th>
+<td><$list filter="[tag[Feat]!tag[Class]contains:feat-skill<skill>field:feat-spre<currentTiddler>]"> {{||FeatLink}} <br> </$list> 
+</td>
+</tr>
 </$list>
-</ul>
+</table>
+</$set>

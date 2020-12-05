@@ -1,8 +1,10 @@
 created: 20201031153834524
+feat-archadd: [[Bounty Hunter]]
+feat-archlevel: 14
 feat-class: Ranger
 feat-level: 12
 mod-hunt_prey: Can pick two creatures.
-modified: 20201031153907076
+modified: 20201205164717380
 tags: Feat Class Ranger
 title: Double Prey
 type: text/vnd.tiddlywiki

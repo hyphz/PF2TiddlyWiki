@@ -1,0 +1,19 @@
+created: 20201205175623971
+feat-arch: Dandy
+feat-level: 7
+feat-skill: Deception
+feat-spre: M
+mod-earn_income: Can use Deception.
+mod-make_an_impression: Can use Deception.
+mod-request: Can use Deception.
+mod-subsist: Can use Deception.
+modified: 20201205175826177
+tags: Feat Archetype
+title: Fabricated Connections
+type: text/vnd.tiddlywiki
+
+You can lie about having taken an action so convincingly that you acquire all the tangible benefits of having successfully completed it. 
+
+You can roll [[Deception]] in place of a different skill when attempting to [[Earn Income]], [[Make an Impression]], [[Request]], or [[Subsist]]. 
+
+You can use Fabricated Connections to [[Make an Impression]] or [[Request]] once per day, and you can also use it once per week to [[Earn Income]] or [[Subsist]].

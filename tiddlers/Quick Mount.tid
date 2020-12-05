@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Mount [[Command an Animal]]
+created: 20201205171748021
+feat-arch: Cavalier
+feat-level: 4
+feat-skill: Nature
+feat-spre: E
+modified: 20201205171855987
+tags: Feat Archetype Action
+title: Quick Mount
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
+
+You and your mount can spring into action at a moment’s notice. 
+
+You [[Mount]] the creature and [[Command an Animal]] to issue it an order of your choice.

@@ -1,0 +1,19 @@
+created: 20201205162521351
+item-level: 4 12 19
+item-price: 650 10650 310650
+item-variants: [] Greater Major
+modified: 20201205162805214
+tags: Rune Magical Evocation
+title: Striking
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon.
+
+A striking rune stores destructive magic in the weapon.
+
+You can upgrade the striking rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes’ Prices.
+
+| !Type | !Level | !Price | !Number of weapon damage dice |
+| (standard) | 4 | 650 | 2 |
+| Greater | 12 | 10650 | 3 |
+| Major | 19 | 310650 | 4 |

@@ -1,0 +1,29 @@
+created: 20201205170839589
+feat-arch: Cavalier
+feat-level: 2
+feat-skill: Nature Society
+feat-spre: T
+modified: 20201205171413476
+tags: Feat Dedication
+title: Cavalier Dedication
+type: text/vnd.tiddlywiki
+
+You gain a young [[Animal Companion|Animal Companions]] that serves as your mount. 
+
+You can choose from animal companions with the mount special ability, as well as any additional options from your pledge, as determined by your GM. 
+
+You must choose an animal companion that’s at least one size larger than you, but if the animal usually starts as Small, you can begin with a Medium version of that animal (changing no statistics other than its size).
+
+Many cavaliers pledge themselves in service to a specific organization or individual, such as a noble family or sovereign ruler, a knightly order or another organization, or a particular ideal. 
+
+A cavalier pledged to an order or ideal must uphold its edicts and is beholden to any anathema it has; for example, a cavalier pledged to the druid’s animal order would be tied to that anathema, while a cavalier pledged to the church of Abadar would be held to the same standards as a cleric of that god. If you pledge yourself to an entity or cause without a stated anathema, you should work with your GM to determine the edicts and anathema associated with your pledge.
+
+Cavaliers who have pledged themselves can gain access to certain abilities related to that pledge, such as Cavalier’s Banner. 
+
+If you violate the anathema of your pledge, you lose access to those feats until you benefit from an atone ritual. 
+
+Changing the subject of your pledge is equivalent to retraining a class feature.
+
+''Special'' If you have pledged to the organization associated with another other dedication feat, //you can take that dedication feat without needing to take two feats from this archetype first//. For example, if you are pledged to a knightly order, you could take a dedication feat for that order without needing to gain other feats from the cavalier archetype first.
+
+<<archetypefeatlist "4 6 8 10 14 20" "[[Cavalier]]">>

@@ -1,0 +1,27 @@
+created: 20201205144802194
+feat-abpre: Strength Charisma
+feat-abprel: 14 14
+feat-arch: Champion
+feat-level: 2
+modified: 20201205144945644
+tags: Feat Dedication Multiclass
+title: Champion Dedication
+type: text/vnd.tiddlywiki
+
+Choose a deity and cause as you would if you were a [[Champion]]. 
+
+You become trained in light, medium, and heavy armor. 
+
+You become trained in [[Religion]] and your deity’s associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. 
+
+You become trained in champion class DC.
+
+You are bound by your deity’s anathema and must follow the champion’s code and alignment requirements for your cause. 
+
+You don’t gain any other abilities from your choice of deity or cause.
+
+!! Causes
+
+<$list filter="[tag[Champion]tag[Splat]]" />
+
+<<levelfeatlist "4 6 14" "[tag[Archetype]field:feat-arch[Champion]]">>

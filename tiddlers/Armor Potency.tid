@@ -1,0 +1,22 @@
+created: 20201205161747544
+item-level: 5 11 18
+item-price: 1600 10600 205600
+item-variants: +1 +2 +3
+modified: 20201205162152518
+tags: Rune Abjuration Magical
+title: Armor Potency
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor.
+
+Magic wards deflect attacks. 
+
+You can upgrade the armor potency rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. 
+
+You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes’ Prices.
+
+| !Type | !Level | !Price | !Craft Requirement | !AC bonus | !Property Runes Allowed |
+| +1 | 5 | 1600 | Expert [[Crafting]] | 1 | 1 |
+| +2 | 11 | 10600 | Master [[Crafting]] | 2 | 2 |
+| +3 | 18 | 205600 | Legendary [[Crafting]] | 3 | 3 |
+

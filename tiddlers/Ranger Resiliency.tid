@@ -1,0 +1,13 @@
+created: 20201205152315472
+feat-arch: Ranger
+feat-level: 4
+modified: 20201205152341149
+tags: Feat Archetype
+title: Ranger Resiliency
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Class granting no more Hit Points per level than 8 + your Constitution modifier.
+
+You gain 3 additional Hit Points for each ranger archetype class feat you have. 
+
+As you continue selecting ranger archetype class feats, you continue to gain additional Hit Points in this way.

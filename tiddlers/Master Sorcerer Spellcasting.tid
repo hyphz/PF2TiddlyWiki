@@ -1,0 +1,13 @@
+created: 20201205160637452
+feat-arch: Sorcerer
+feat-fpre: [[Expert Sorcerer Spellcasting]]
+feat-level: 18
+modified: 20201205160720098
+tags: Feat Archetype
+title: Master Sorcerer Spellcasting
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' You must be legendary in the skill associated with your bloodline.
+
+{{MulticlassMasterSpellcasting}}
+

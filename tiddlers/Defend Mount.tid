@@ -1,0 +1,15 @@
+created: 20201205171951582
+feat-arch: Cavalier
+feat-level: 6
+modified: 20201205172033284
+tags: Feat Archetype Action Reaction
+title: Defend Mount
+type: text/vnd.tiddlywiki
+
+''Trigger'' An enemy makes an attack roll against your mount while you’re riding it.
+
+You interpose yourself between an attacker and your mount, defending your mount from harm. 
+
+Use your own AC against the triggering attack instead your mount’s AC. 
+
+If the triggering attack hits, you take the effects of the attack instead of your mount.

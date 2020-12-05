@@ -1,0 +1,13 @@
+created: 20201205152008398
+feat-arch: Monk
+feat-level: 12
+modified: 20201205152038804
+tags: Feat Archetype
+title: Perfection's Path
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Expert in at least one saving throw.
+
+Choose one saving throw ([[Fortitude]], [[Reflex]], or [[Will]]) in which you are an expert. 
+
+Your proficiency rank in the chosen saving throw increases to master.

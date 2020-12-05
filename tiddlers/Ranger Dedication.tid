@@ -1,0 +1,17 @@
+created: 20201205152112587
+feat-abpre: Dexterity
+feat-abprel: 14
+feat-arch: Ranger
+feat-level: 2
+modified: 20201205152300434
+tags: Feat Dedication Multiclass
+title: Ranger Dedication
+type: text/vnd.tiddlywiki
+
+You become trained in [[Survival]]; if you were already trained in Survival, you instead become trained in another skill of your choice. 
+
+You become trained in ranger class DC.
+
+You can use the [[Hunt Prey]] action.
+
+<<levelfeatlist "4 6 12" "[tag[Archetype]field:feat-arch[Ranger]]">>

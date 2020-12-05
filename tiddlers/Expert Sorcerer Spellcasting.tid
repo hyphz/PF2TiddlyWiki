@@ -1,0 +1,13 @@
+created: 20201205160529314
+feat-arch: Sorcerer
+feat-fpre: [[Basic Sorcerer Spellcasting]]
+feat-level: 12
+modified: 20201205160630326
+tags: Feat Archetype
+title: Expert Sorcerer Spellcasting
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' You must be a master in the skill associated with your bloodline.
+
+{{MulticlassExpertSpellcasting}}
+

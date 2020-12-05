@@ -1,21 +1,9 @@
-created: 20201010163716211
-modified: 20201205173602169
+created: 20201205170222981
+modified: 20201205170530164
 tags: $:/tags/Macro
-title: LevelFeatListMacro
+title: FeatLink
 type: text/vnd.tiddlywiki
 
-\define levelfeatlist(levels:"", filter:"")
-<table>
-<tr><th>Level</th><th>Feats</th></tr>
-<!--
-Outer list of levels-->
-<$list filter=<<__levels__>> variable="level">
-<tr><th><<level>></th>
-<td>
-<!--
-Inner list of feats-->
-<$list filter=<<__filter__>> >
-<$list filter="[all[current]field:feat-level<level>sort[]]">
 <!--
 Decoration icons-->
 <$list filter="[all[current]field:a-actions[1]]">
@@ -81,13 +69,4 @@ Skill prereqs -->
 (Requires
 <$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
 <$link to=<<skill>> />)</$list>
-<!-- New line for next feat -->
-<br />
-<!-- End of feat list -->
-</$list>
-</$list>
-<!-- End of level list -->
-</td></tr>
-</$list>
-</table>
-\end
+

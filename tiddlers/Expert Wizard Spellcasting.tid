@@ -1,0 +1,12 @@
+created: 20201205161401201
+feat-arch: Wizard
+feat-fpre: [[Basic Wizard Spellcasting]]
+feat-level: 12
+feat-skill: Arcana
+feat-spre: M
+modified: 20201205161528406
+tags: Feat Archetype
+title: Expert Wizard Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassExpertSpellcasting}}

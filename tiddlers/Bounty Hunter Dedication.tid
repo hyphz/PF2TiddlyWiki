@@ -1,0 +1,23 @@
+created: 20201205164349721
+feat-arch: [[Bounty Hunter]]
+feat-level: 2
+feat-skill: Survival
+feat-spre: T
+mod-gather_information: +2 circumstance vs your prey.
+mod-hunt_prey: Can hunt a creature you've learned about indirectly.
+modified: 20201205164652270
+tags: Feat Dedication
+title: Bounty Hunter Dedication
+type: text/vnd.tiddlywiki
+
+When focused on finding your quarry, you’re relentless. 
+
+You gain the [[Hunt Prey]] action. 
+
+You can use Hunt Prey to designate only a creature that you’ve seen, heard about, or learned about through some other means, such as a bounty board or wanted poster. 
+
+In addition to the other benefits of Hunt Prey, you gain a +2 circumstance bonus to checks to [[Gather Information]] regarding your prey.
+
+If you already have Hunt Prey, you become an expert in [[Survival]] and gain the circumstance bonus to [[Gather Information]] about your prey; you can still designate a creature you’re tracking during exploration, in addition to the conditions above.
+
+<<archetypefeatlist "4 6 8 14" "[[Bounty Hunter]]">>

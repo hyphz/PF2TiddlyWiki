@@ -1,0 +1,12 @@
+created: 20201205155449330
+feat-arch: Rogue
+feat-level: 4
+mod-sneak_attack: Deals 1d4/1d6 damage ony and doesn't increase dice.
+modified: 20201205155529368
+tags: Feat Archetype
+title: Sneak Attacker
+type: text/vnd.tiddlywiki
+
+You gain the [[Sneak Attack]] class feature, except it deals 1d4 damage, increasing to 1d6 at 6th level. 
+
+You don’t increase the number of dice as you gain levels.

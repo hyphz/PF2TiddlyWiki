@@ -1,0 +1,22 @@
+created: 20201205162202224
+item-level: 8 14 20
+item-price: 3400 34400 494400
+item-variants: [] Greater Major
+mod-fortitude: Gives item bonus to all saves.
+mod-reflex: Gives item bonus to all saves.
+mod-will: Gives item bonus to all saves.
+modified: 20201205162433821
+tags: Rune Abjuration Magical
+title: Resilient
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor.
+
+Resilient runes imbue armor with additional protective magic.
+
+You can upgrade the resilient rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes’ Prices.
+
+| !Type | !Level | !Price | !Item Bonus to Saving Throws |
+| (standard) | 8 | 3400 | +1 |
+| Greater | 14 | 34400 | +2 |
+| Major | 20 | 494400 | +3 |

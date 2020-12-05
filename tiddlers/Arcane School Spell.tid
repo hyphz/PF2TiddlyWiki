@@ -1,0 +1,23 @@
+created: 20201205161101281
+feat-arch: Wizard
+feat-level: 4
+modified: 20201205161234718
+tags: Feat Archetype
+title: Arcane School Spell
+type: text/vnd.tiddlywiki
+
+Select one arcane school of magic. 
+
+You gain the school’s initial school spell:
+
+| !School | !School Spell |
+| Abjuration | [[Protective Ward]] |
+| Conjuration | [[Augment Summoning]] |
+| Divination | [[Diviner's Sight]] |
+| Enchantment | [[Charming Words]] |
+| Evocation | [[Force Bolt]] |
+| Illusion | [[Warped Terrain]] |
+| Necromancy | [[Call of the Grave]] |
+| Transmutation | [[Physical Boost]] |
+
+If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can [[Refocus]] by studying. 

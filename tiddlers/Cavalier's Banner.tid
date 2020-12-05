@@ -1,0 +1,17 @@
+created: 20201205171151415
+feat-arch: Cavalier
+feat-level: 4
+mod-will: +1 circumstance in 30' of banner.
+modified: 20201205171316435
+modtag-fear: +1 DC if target in 30' of banner.
+tags: Feat Archetype Uncommon Emotion Mental Visual
+title: Cavalier's Banner
+type: text/vnd.tiddlywiki
+
+''Requirements'' You have pledged your service to a specific organization or ideal.
+
+You fly the banner of your pledge from your mount, raising your allies’ spirits. 
+
+You and all allies within 30 feet gain a +1 circumstance bonus to [[Will]] saves and DCs against <<tag Fear>> effects.
+
+If your banner is destroyed or removed, allies within 30 feet become [[Frightened]] 1.

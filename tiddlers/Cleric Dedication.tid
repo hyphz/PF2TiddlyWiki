@@ -1,0 +1,29 @@
+created: 20201205145518047
+feat-abpre: Wisdom
+feat-abprel: 14
+feat-arch: Cleric
+feat-level: 2
+modified: 20201205145651937
+tags: Feat Dedication Multiclass
+title: Cleric Dedication
+type: text/vnd.tiddlywiki
+
+You cast spells like a cleric. 
+
+You gain access to the [[Cast a Spell]] activity. 
+
+You can prepare two common cantrips each day from the Core divine spell list or any other cantrips you learn or discover. 
+
+You’re trained in spell attack rolls and spell DCs for divine spells. 
+
+Your key spellcasting ability for cleric archetype spells is [[Wisdom]], and they are divine cleric spells. 
+
+Choose a deity as you would if you were a cleric. 
+
+You become bound by that deity’s anathema. 
+
+You become trained in [[Religion]] and your deity’s associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. 
+
+You don't gain any other abilities from your choice of deity.
+
+<<levelfeatlist "4 6 8 12 18" "[tag[Archetype]field:feat-arch[Cleric]]">>

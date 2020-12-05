@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20201128232648194
+modified: 20201205164045221
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -29,6 +29,9 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Chaotic]]">
 <tr><th>[[Chaotic]]</th><td>Chaotic damage harms only lawful creatures.</td></tr>
 </$list>
+<$list filter="[all[current]tag[Command]]">
+<tr><th>[[Command]]</th><td>You must speak loudly to activate this item.</td></tr>
+</$list>
 <$list filter="[all[current]tag[Composition]]">
 <tr><th>[[Composition]]</th><td>Inherits traits from a [[Perform]] style, 1 per turn, only 1 active at once.</td></tr>
 </$list>
@@ -52,6 +55,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Emotion]]">
 <tr><th>[[Emotion]]</th><td>This won't work on creatures with mechanical or artificial intelligence.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Envision]]">
+<tr><th>[[Envision]]</th><td>You must concentrate on imagining something to activate this item.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Evil]]">
 <tr><th>[[Evil]]</th><td>Evil damage harms only good creatures.</td></tr>
@@ -79,6 +85,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Incapacitation]]">
 <tr><th>[[Incapacitation]]</th><td>This has reduced effect against creatures of higher level.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Interact]]">
+<tr><th>[[Interact]]</th><td>You must [[Interact]] with this item to activate it.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Illusion]]">
 <tr><th>[[Illusion]]</th><td>It may be possible to disbelieve this with [[Perception]] vs its DC.</td></tr>

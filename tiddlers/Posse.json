@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20201205164818360",
+        "text": "''Requirements'' You have designated prey with [[Hunt Prey]].\n\nBy spending 1 minute giving guidance to help hunt down your prey, you instruct up to five willing creatures to assist you.\n\nThey gain a +1 circumstance bonus to [[Seek]] your prey, to [[Track]] your prey, and to [[Gather Information]] about your prey. \n\nYou and the creatures assisting you gain a +1 circumstance bonus to [[Initiative]] rolls when entering combat with your prey.\n\nThis benefit lasts until you designate a new prey or your prey dies, whichever comes first. \n\nAn individual creature assisting you loses this benefit if they’re out of your presence for too long to benefit from your instructions. This is usually 1 hour, but is determined by the GM.\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Posse",
+        "tags": "Feat Archetype Exploration",
+        "modified": "20201205165006753",
+        "feat-level": "4",
+        "feat-arch": "[[Bounty Hunter]]",
+        "mod-seek": "+1 circumstance vs posse's prey.",
+        "mod-track": "+1 circumstance vs posse's prey.",
+        "mod-gather_information": "+1 circumstance vs posse's prey.",
+        "mod-initiative": "+1 circumstance initiative vs prey. "
+    }
+]

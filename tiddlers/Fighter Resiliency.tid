@@ -1,0 +1,13 @@
+created: 20201205150909340
+feat-arch: Fighter
+feat-level: 4
+modified: 20201205150943352
+tags: Feat Archetype
+title: Fighter Resiliency
+type: text/vnd.tiddlywiki
+
+''Prerequisite'' Class granting no more Hit Points per level than 8 + your Constitution modifier.
+
+You gain 3 additional Hit Points for each fighter archetype class feat you have. 
+
+As you continue selecting fighter archetype class feats, you continue to gain additional Hit Points in this way.

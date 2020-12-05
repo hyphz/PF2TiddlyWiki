@@ -1,0 +1,24 @@
+a-defense: Will
+a-fail: The target’s attitude decreases, as normal.
+a-fumble: Your attempt makes matters worse, decreasing the target’s attitude toward you by one step, in addition to any changes from the behavior that triggered this reaction.
+a-hit: The target’s attitude doesn’t decrease as a result of your ally’s social blunder.
+a-skill: Deception
+created: 20201205175136874
+feat-arch: Dandy
+feat-level: 4
+feat-skill: Deception
+feat-spre: E
+modified: 20201205175537012
+tags: Feat Archetype Action Reaction
+title: Distracting Flattery
+type: text/vnd.tiddlywiki
+
+''Trigger'' You observe a target’s attitude toward yourself or your allies decrease as a result of an ally’s behavior.
+
+You know how to maintain a good impression and manage your image, even while keeping uncouth company.
+
+Make a [[Deception]] check against the target’s [[Will]] DC. 
+
+Regardless of your result, the target is temporarily immune to your Distracting Flattery for 10 minutes.
+
+{{||ActionSuccessTable}}

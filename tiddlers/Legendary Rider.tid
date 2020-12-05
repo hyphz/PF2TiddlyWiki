@@ -1,0 +1,12 @@
+created: 20201205173139331
+feat-arch: Cavalier
+feat-level: 20
+mod-quickened: Allows only commanding your mount.
+modified: 20201205173242278
+tags: Feat Archetype
+title: Legendary Rider
+type: text/vnd.tiddlywiki
+
+You and your mount move like one being, effortlessly reading each other’s signals. 
+
+Whenever you are riding your mount, you are [[Quickened]]; you can use the extra action only to command your mount using the Command an Animal skill action.

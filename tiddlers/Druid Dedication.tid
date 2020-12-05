@@ -1,0 +1,35 @@
+created: 20201205145946106
+feat-abpre: Wisdom
+feat-abprel: 14
+feat-arch: Druid
+feat-level: 2
+modified: 20201205150318041
+tags: Feat Dedication Multiclass
+title: Druid Dedication
+type: text/vnd.tiddlywiki
+
+You cast spells like a druid. 
+
+You gain access to the [[Cast a Spell]] activity. 
+
+You can prepare two common cantrips each day from the core primal spell list or any other cantrips you learn or discover. 
+
+You’re trained in spell attack rolls and spell DCs for primal spells. 
+
+Your key spellcasting ability for druid archetype spells is [[Wisdom]], and they are primal druid spells.
+
+You learn the Druidic language.
+
+Choose an order as you would if you were a druid. 
+
+You become a member of that order and are bound by its anathema, allowing you to take the order’s feats. 
+
+You become trained in [[Nature]] and your order’s associated skill; for each of these skills in which you were already trained, you become trained in a skill of your choice. 
+
+You don’t gain any other abilities from your choice of order.
+
+!! Orders
+
+<$list filter="[tag[Druid]tag[Splat]]" />
+
+<<levelfeatlist "4 6 8 12 18" "[tag[Archetype]field:feat-arch[Druid]]">>

@@ -1,0 +1,19 @@
+created: 20201205162902783
+item-level: 2 10 16
+item-price: 350 9350 89350
+item-variants: +1 +2 +3
+modified: 20201205163049060
+tags: Rune Magical Evocation
+title: Weapon Potency
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon.
+
+Magical enhancements make this weapon strike true. 
+
+You can upgrade the weapon potency rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes’ Prices.
+
+| !Type | !Level | !Price | !Craft Requirement | !Item bonus to hit | !Property Runes Allowed |
+| +1 | 2 | 350 | Expert [[Crafting]] | +1 | 1 |
+| +2 | 10 | 9350 | Master [[Crafting]] | +2 | 2 |
+| +3 | 16 | 89350 | Legendary [[Crafting]] | +3 | 3 |

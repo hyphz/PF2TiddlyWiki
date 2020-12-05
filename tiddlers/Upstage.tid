@@ -1,0 +1,20 @@
+a-crit: You gain a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks until the end of your next turn.
+a-hit: As critical success, except you gain the benefits only if the triggering creature failed their skill check.
+created: 20201205173740709
+mod-fortitude: +1 status after upstaging someone.
+mod-perception: +1 status after upstaging someone.
+mod-reflex: +1 status after upstaging someone.
+mod-will: +1 status after upstaging someone.
+modified: 20201205173942641
+tags: Action Reaction
+title: Upstage
+turn-eun: Upstaging bonus wears off.
+type: text/vnd.tiddlywiki
+
+''Trigger'' A foe attempts a skill check and doesn’t get a critical success.
+
+After your foe has tried their best, you show everyone how it’s really done. 
+
+Attempt a check using the same skill that triggered this reaction.
+
+{{||ActionSuccessTable}}

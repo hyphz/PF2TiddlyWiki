@@ -1,0 +1,11 @@
+a-skill: Diplomacy
+a-time: 1 day
+created: 20201205174959567
+modified: 20201205175039798
+tags: Action Downtime
+title: Influence Rumor
+type: text/vnd.tiddlywiki
+
+You can use the [[Diplomacy]] skill to perform the special downtime activity Influence Rumor, spending at least one day of downtime to manipulate the course, tone, or content of a rumor to your benefit.
+
+The difficulty of Influencing a Rumor is determined by the GM based on the size of the community, the relative perceptiveness of the inhabitants, and the agency of other rumormongers, but it typically starts with at least DC 15 for a small village and increases to at least DC 20 for a town, at ast DC 30 for a city, and at least DC 40 for a metropolis.
