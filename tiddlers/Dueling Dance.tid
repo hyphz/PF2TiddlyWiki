@@ -1,10 +1,12 @@
 a-actions: 1
 a-hands: 1
 created: 20201010151802258
+feat-archadd: Duelist
+feat-archlevel: 14
 feat-class: Fighter
 feat-fpre: [[Dueling Parry]]
 feat-level: 12
-modified: 20201010151930459
+modified: 20201206185429437
 tags: Feat Class Fighter Action Stance
 title: Dueling Dance
 type: text/vnd.tiddlywiki

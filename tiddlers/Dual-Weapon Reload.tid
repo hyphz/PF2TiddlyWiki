@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Interact
+created: 20201206182319791
+feat-arch: [[Dual-Weapon Warrior]]
+feat-level: 4
+modified: 20201206182411205
+tags: Feat Archetype Action
+title: Dual-Weapon Reload
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.
+
+You carry your ammunition in a way that allows you to reload while holding two weapons. 
+
+You [[Interact]] to reload a one-handed ranged weapon you’re holding. 
+
+Unlike most Interact actions, you don’t need a free hand to reload your ranged weapon in this way.

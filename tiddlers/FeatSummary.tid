@@ -1,5 +1,5 @@
 created: 20200712160917173
-modified: 20201010163504229
+modified: 20201206183249802
 tags: 
 title: FeatSummary
 type: text/vnd.tiddlywiki
@@ -29,6 +29,15 @@ type: text/vnd.tiddlywiki
 <$list filter="[list[!!feat-arch]]">
 <tr><th>Archetype</th><td><<currentTiddler>></td></tr>
 </$list>
+<$list filter="[all[current]tag[Class]]">
+<tr><th>Class</th><td>
+<$list filter="[list[!!feat-class]]">
+<$link/>
+</$list></td></tr>
+</$list>
+<$list filter="[list[!!feat-archadd]]">
+<tr><th>Additional for</th><td><<currentTiddler>></td></tr>
+</$list>
 <tr><th>Level</th><td>{{!!feat-level}}</td></tr>
 <$list filter="[all[current]has[feat-skill]]">
 <tr><th>Skill</th><td>
@@ -39,12 +48,6 @@ type: text/vnd.tiddlywiki
 </td></tr>
 </$list>
 <tr><th>Requires</th><td>{{!!feat-fpre}}</td></tr>
-<$list filter="[all[current]tag[Class]]">
-<tr><th>Class</th><td>
-<$list filter="[list[!!feat-class]]">
-<$link/>
-</$list></td></tr>
-</$list>
 <$list filter="[all[current]has[feat-sppre]]">
 <tr><th><$transclude tiddler="SplatNameDict" index={{!!feat-class}} />
 </th><td>

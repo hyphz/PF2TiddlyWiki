@@ -1,8 +1,10 @@
 created: 20201010152223508
+feat-archadd: Duelist
+feat-archlevel: 14
 feat-class: Fighter
 feat-fpre: [[Dueling Riposte]]
 feat-level: 12
-modified: 20201010152300910
+modified: 20201206185500809
 tags: Feat Class Fighter
 title: Improved Dueling Riposte
 type: text/vnd.tiddlywiki

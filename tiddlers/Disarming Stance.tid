@@ -1,12 +1,14 @@
 a-actions: 1
 a-subactions: Strike
 created: 20201010140223236
+feat-archadd: Duelist
+feat-archlevel: 8
 feat-class: Fighter
 feat-level: 6
 feat-skill: Athletics
 feat-spre: T
 mod-disarm: +1 circumstance to disarm, +2 vs being disarmed, and up to two sizes larger.
-modified: 20201010140416061
+modified: 20201206183344581
 tags: Feat Class Fighter Action Stance
 title: Disarming Stance
 type: text/vnd.tiddlywiki

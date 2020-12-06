@@ -1,0 +1,13 @@
+created: 20201206181735206
+feat-arch: [[Dual-Weapon Warrior]]
+feat-level: 2
+modified: 20201206181847585
+tags: Feat Dedication
+title: Dual-Weapon Warrior Dedication
+type: text/vnd.tiddlywiki
+
+You’re exceptional in your use of two weapons. 
+
+You gain the [[Double Slice]] fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
+
+<<archetypefeatlist "4 6 8 10 12 14 16 18" "[[Dual-Weapon Warrior]]">>

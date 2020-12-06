@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20201010155927814
+feat-archadd: [[Dual-Weapon Warrior]]
+feat-archlevel: 18
 feat-class: Fighter
 feat-fpre: [[Twin Parry]]
 feat-level: 16
-modified: 20201010160003526
+modified: 20201206182117768
 tags: Feat Class Fighter Action Stance
 title: Twinned Defense
 type: text/vnd.tiddlywiki

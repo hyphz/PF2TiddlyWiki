@@ -1,0 +1,16 @@
+created: 20201206185654037
+feat-arch: Duelist
+feat-fpre: [[Dueling Parry]]
+feat-level: 8
+mod-dueling_parry: Adjacent allies get +1 circumstance to AC.
+mod-dueling_riposte: Use when an enemy fumbles striking an adjacent ally.
+modified: 20201206185813430
+tags: Feat Archetype
+title: Selfless Parry
+type: text/vnd.tiddlywiki
+
+You protect those near you with a flash of steel. 
+
+When you’re benefiting from [[Dueling Parry]], allies adjacent to you gain a +1 circumstance bonus to AC. 
+
+If you have [[Dueling Riposte]], you can use it when an enemy within your reach critically fails a Strike against an ally adjacent to you, not just against yourself.

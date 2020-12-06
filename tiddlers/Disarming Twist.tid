@@ -1,11 +1,13 @@
 a-actions: 1
 a-subactions: Strike
 created: 20201010150601540
+feat-archadd: Duelist
+feat-archlevel: 12
 feat-class: Fighter
 feat-level: 10
 feat-skill: Athletics
 feat-spre: T
-modified: 20201010150752401
+modified: 20201206185401977
 tags: Feat Class Fighter Action Press
 title: Disarming Twist
 type: text/vnd.tiddlywiki

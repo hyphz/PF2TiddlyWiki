@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201206182430564
+feat-arch: [[Dual-Weapon Warrior]]
+feat-level: 8
+modified: 20201206182524258
+tags: Feat Archetype Action
+title: Flensing Slice
+turn-sun: Flat-footed and resistance reduction wear off.
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your last action was a [[Double Slice]], and both attacks hit the target.
+
+When you hit with both attacks with Double Slice, you flense the target, making it bleed and creating a weak spot. 
+
+The target takes 1d8 persistent bleed damage per weapon damage die of whichever of the weapons you used that has the most weapon damage dice (maximum 4d8 for a major striking weapon). 
+
+The target becomes [[Flat-Footed]], and its resistances to any physical damage types are reduced by 5; these two effects last until the beginning of your next turn.

@@ -1,0 +1,14 @@
+created: 20201206182716751
+feat-arch: [[Dual-Weapon Warrior]]
+feat-level: 14
+mod-double_slice: If both strikes miss, apply a hit from a weapon that didn't fumble.
+modified: 20201206182806048
+tags: Feat Archetype
+title: Dual Onslaught
+type: text/vnd.tiddlywiki
+
+When you lash out with both weapons, you leave no room for the target to escape your attack. 
+
+When you use [[Double Slice]], if you miss with both Strikes, choose one of the two weapons and apply the effects of a hit with that weapon. 
+
+You can’t choose a weapon if your attack roll with that weapon was a critical failure, meaning you still miss entirely if both attack rolls were critical failures.

@@ -1,8 +1,10 @@
 a-subactions: Strike Disarm
 created: 20201010151501235
+feat-archadd: [[Dual-Weapon Warrior]]
+feat-archlevel: 12
 feat-class: Fighter Ranger
 feat-level: 10
-modified: 20201031153130413
+modified: 20201206181940282
 tags: Feat Class Fighter Action Reaction Ranger
 title: Twin Riposte
 type: text/vnd.tiddlywiki

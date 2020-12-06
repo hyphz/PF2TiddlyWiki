@@ -1,0 +1,14 @@
+created: 20201206180138350
+feat-arch: [[Dragon Disciple]]
+feat-level: 4
+mod-dragon_disciple_dedication: Resistances +3.
+modified: 20201206180221637
+tags: Feat Archetype
+title: Scales of the Dragon
+type: text/vnd.tiddlywiki
+
+Scales grow across your body, protecting you against physical and magical threats. 
+
+When you’re unarmored, the scales give you a +2 status bonus to AC with a Dexterity cap of +2. 
+
+Your resistance from Dragon Disciple Dedication increases to 3 + half your level.

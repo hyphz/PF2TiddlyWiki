@@ -1,0 +1,14 @@
+created: 20201206175459720
+feat-arch: [[Dragon Disciple]]
+feat-level: 4
+mod-dragon_claws: Damage dice becomes d6 and +5 resistance.
+modified: 20201206175800704
+tags: Feat Archetype
+title: Claws of the Dragon
+type: text/vnd.tiddlywiki
+
+Your fingernails grow into razor-sharp claws, and scales speckle your fingers, hands, and wrists. 
+
+Your claws are [[Agile]], [[Finesse]] unarmed attacks that deal 1d6 slashing damage and are in the brawling weapon group.
+
+If you’re a draconic sorcerer, when you cast [[Dragon Claws]], increase the spell’s slashing damage die from d4 to d6 and increase the resistance to 10 at 1st level, 15 at 5th level, and 20 at 9th level.

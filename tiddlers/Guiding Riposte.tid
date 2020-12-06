@@ -1,9 +1,11 @@
 created: 20201010153822863
+feat-archadd: Duelist
+feat-archlevel: 16
 feat-class: Fighter
 feat-fpre: [[Dueling Riposte]]
 feat-level: 14
 mod-dueling_riposte: Move enemy up to 10 foot into reach on a hit.
-modified: 20201010154225135
+modified: 20201206185527994
 tags: Feat Class Fighter
 title: Guiding Riposte
 type: text/vnd.tiddlywiki

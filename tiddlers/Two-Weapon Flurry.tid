@@ -1,9 +1,11 @@
 a-actions: 1
 a-subactions: Strike
 created: 20201010155226679
+feat-archadd: [[Dual-Weapon Warrior]]
+feat-archlevel: 16
 feat-class: Fighter
 feat-level: 14
-modified: 20201010155311684
+modified: 20201206182049725
 tags: Feat Class Fighter Action Press Flourish
 title: Two-Weapon Flurry
 type: text/vnd.tiddlywiki

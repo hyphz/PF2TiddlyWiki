@@ -1,0 +1,16 @@
+created: 20201206180525246
+feat-arch: [[Dragon Disciple]]
+feat-level: 14
+mod-dragon_form: Breath weapon recharges immediately if unarmed Strike crits.
+modified: 20201206180611299
+tags: Feat Archetype
+title: Shape of the Dragon
+type: text/vnd.tiddlywiki
+
+You’ve discovered how to transform yourself into a dragon. 
+
+Once per day, you can cast 7th-level [[Dragon Form]] as an innate arcane spell, transforming into your chosen type of dragon. 
+
+The spell automatically heightens to 8th level if you’re 16th level and 9th level if you’re 18th level.
+
+Any time you score a critical hit with an unarmed Strike gained from dragon form, you recharge the spell’s breath weapon immediately.

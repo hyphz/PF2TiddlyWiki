@@ -1,9 +1,11 @@
 a-subactions: Strike Disarm
 created: 20201010143506646
+feat-archadd: Duelist
+feat-archlevel: 10
 feat-class: Fighter
 feat-fpre: [[Dueling Parry]]
 feat-level: 8
-modified: 20201010143702255
+modified: 20201206185338493
 tags: Feat Class Fighter Action Reaction
 title: Dueling Riposte
 type: text/vnd.tiddlywiki

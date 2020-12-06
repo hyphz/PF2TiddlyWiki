@@ -1,0 +1,15 @@
+created: 20201206182842083
+feat-arch: Duelist
+feat-level: 2
+modified: 20201206183036931
+tags: Feat Dedication
+title: Duelist Dedication
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' trained in light armor and simple weapons
+
+You are always ready to draw your weapon and begin a duel, no matter the circumstances. 
+
+You gain the [[Quick Draw]] ranger feat, enabling you to both draw and attack with a weapon as 1 action. This serves as Quick Draw for the purpose of meeting prerequisites.
+
+<<archetypefeatlist "4 8 10 12 14 16" "Duelist">>

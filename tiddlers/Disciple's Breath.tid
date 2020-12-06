@@ -1,0 +1,17 @@
+a-actions: 2
+created: 20201206181423777
+feat-arch: [[Dragon Disciple]]
+feat-level: 16
+mod-dragon_breath: Deals 9d6 damage as an action instead of a spell.
+modified: 20201206181545663
+tags: Feat Archetype Action
+title: Disciple's Breath
+type: text/vnd.tiddlywiki
+
+''Requirements'' You must have the [[Dragon Breath]] sorcerer bloodline spell.
+
+You unleash your breath weapon without spending focus. 
+
+This has the effects of your [[Dragon Breath]] sorcerer bloodline spell, though it deals 9d6 damage instead of its usual damage, and you don’t have to cast it or spend a Focus Point. 
+
+You can’t use Disciple’s Breath again for 1d4 rounds.
