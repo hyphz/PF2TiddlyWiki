@@ -1,0 +1,22 @@
+created: 20201212163017519
+feat-arch: Loremaster
+feat-level: 2
+mod-bardic_lore: +1 circumstance to skill checks.
+modified: 20201212163218452
+tags: Feat Dedication
+title: Loremaster Dedication
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' trained in at least one skill to Decipher Writing.
+
+You’ve compiled a vast repository of information that touches on nearly every subject. 
+
+You are trained in Loremaster [[Lore]], a special Lore skill that can be used only to [[Recall Knowledge]], but on any topic. 
+
+If you have legendary proficiency in a skill used to Decipher Writing, you gain expert proficiency in Loremaster Lore, but you can’t increase your proficiency rank in Loremaster Lore by any other means. 
+
+You can take feats in the loremaster’s additional feats entry even if you don’t meet the enigma muse prerequisite.
+
+If you have the [[Bardic Lore]] class feat, you gain a +1 circumstance bonus to skill checks with Bardic Lore.
+
+<<archetypefeatlist "4 8 10 14 16" "Loremaster">>

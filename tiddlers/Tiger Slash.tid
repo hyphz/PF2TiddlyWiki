@@ -1,9 +1,11 @@
 a-actions: 2
 created: 20201017135636508
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 8
 feat-class: Monk
 feat-fpre: [[Tiger Stance]]
 feat-level: 6
-modified: 20201017135729793
+modified: 20201212174428419
 tags: Feat Class Monk Action
 title: Tiger Slash
 type: text/vnd.tiddlywiki

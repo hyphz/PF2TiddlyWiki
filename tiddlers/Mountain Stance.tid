@@ -1,12 +1,14 @@
 a-actions: 1
 created: 20201010174720721
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 4
 feat-class: Monk
 feat-level: 1
 mod-ac: +4 status, but Dexterity cannot be added.
 mod-shove: +2 circumstance to defense.
 mod-speed: All speeds reduced by 5 feet.
 mod-trip: +2 circumstance to defense.
-modified: 20201129000633947
+modified: 20201212173637183
 tags: Feat Class Monk Action Stance
 title: Mountain Stance
 type: text/vnd.tiddlywiki

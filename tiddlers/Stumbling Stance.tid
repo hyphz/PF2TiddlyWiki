@@ -1,11 +1,13 @@
 a-actions: 1
 created: 20201017150259087
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 4
 feat-class: Monk
 feat-level: 1
 feat-skill: Deception
 feat-spre: T
 mod-feint: +1 circumstance to Deception.
-modified: 20201017150444123
+modified: 20201212173706001
 tags: Feat Class Monk Action Stance
 title: Stumbling Stance
 type: text/vnd.tiddlywiki

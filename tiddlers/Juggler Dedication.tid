@@ -1,0 +1,15 @@
+created: 20201207014600296
+feat-abpre: Dexterity
+feat-abprel: 14
+feat-arch: Juggler
+feat-level: 2
+modified: 20201207014649309
+tags: Feat Dedication Uncommon
+title: Juggler Dedication
+type: text/vnd.tiddlywiki
+
+You become trained in [[Performance]]; if you were already trained in Performance, you instead become trained in a skill of your choice. 
+
+You also gain the [[Juggle]] skill feat, even if you don’t meet its prerequisites.
+
+<<levelfeatlist "4 8 16" "[tag[Archetype]field:feat-arch[Juggler]]">>

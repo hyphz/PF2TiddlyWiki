@@ -1,8 +1,10 @@
 created: 20201010175254527
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 4
 feat-class: Monk
 feat-level: 2
 mod-monastic_weaponry: Also gain critical specialization effects.
-modified: 20201010175342280
+modified: 20201212173235278
 tags: Feat Class Monk
 title: Brawling Focus
 type: text/vnd.tiddlywiki

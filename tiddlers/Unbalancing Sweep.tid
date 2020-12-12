@@ -1,9 +1,11 @@
 a-actions: 3
 a-subactions: Shove Trip
 created: 20200905212205359
+feat-archadd: Mauler
+feat-archlevel: 14
 feat-class: Barbarian
 feat-level: 12
-modified: 20200905212314144
+modified: 20201212175437251
 tags: Barbarian Class Feat Action Flourish Open
 title: Unbalancing Sweep
 type: text/vnd.tiddlywiki

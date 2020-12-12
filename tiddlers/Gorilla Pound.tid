@@ -1,12 +1,14 @@
 a-actions: 1
 created: 20201017152603111
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 8
 feat-class: Monk
 feat-fpre: [[Gorilla Stance]]
 feat-level: 6
 feat-skill: Intimidation
 feat-spre: E
 mod-gorilla_stance: Gain climb speed 15 feet.
-modified: 20201017152739110
+modified: 20201212174122573
 tags: Feat Class Monk Action Emotion Mental Flourish
 title: Gorilla Pound
 type: text/vnd.tiddlywiki

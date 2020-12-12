@@ -1,0 +1,17 @@
+created: 20201212162446451
+feat-arch: Linguist
+feat-level: 6
+feat-skill: Deception Society
+feat-spre: E
+mod-impersonate: +4 circumstance if you've studied a character's mannerisms.
+modified: 20201212162546996
+tags: Feat Archetype
+title: Analyze Idiolect
+type: text/vnd.tiddlywiki
+
+You break down a specific individual’s idiolect, memorizing their speech mannerisms and habits. 
+
+If you interact with someone for at least 10 minutes, when you later attempt to [[Impersonate]]
+that individual, you gain a +4 circumstance bonus to your [[Deception]] checks and DCs. 
+
+Due to the intense character study required, you can’t remember more than one idiolect at a time.

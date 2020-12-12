@@ -1,0 +1,16 @@
+created: 20201212161836988
+feat-arch: Linguist
+feat-level: 4
+feat-skill: Society
+feat-spre: E
+mod-decipher_writing: User has +1 circumstance; decoding multilingual cipher -2 circumstance if some languages unknown.
+modified: 20201212162002908
+tags: Feat Archetype
+title: Multilingual Cipher
+type: text/vnd.tiddlywiki
+
+You use multiple languages to create and break codes. 
+
+You gain a +1 circumstance bonus to [[Decipher Writing]]. 
+
+If another creature attempts to Decipher Writing you encoded, they take a –2 circumstance penalty unless they speak all the languages you used when you created the writing.

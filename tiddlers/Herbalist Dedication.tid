@@ -1,0 +1,25 @@
+created: 20201212154314911
+feat-arch: Herbalist
+feat-fpre: [[Natural Medicine]]
+feat-level: 2
+feat-skill: Nature
+feat-spre: T
+mod-craft: Craft herbal items using Nature.
+modified: 20201212154956323
+tags: Feat Dedication
+title: Herbalist Dedication
+type: text/vnd.tiddlywiki
+
+You can create remedies and other herbal products. 
+
+{{MulticlassBasicAlchemy}}
+
+//The alchemy benefits above apply only// for herbal items: alchemical items with the healing trait, plus [[Antidote]] and [[Antiplague]]. 
+
+You gain batches of infused reagents per day equal to your level or half your level if you didn’t make your daily preparations in the wilderness. 
+
+Your advanced alchemy level for creating these is 1 and doesn’t increase on its own.
+
+You become an expert in [[Nature]] and can use Nature instead of Crafting to [[Craft]] herbal items. You don’t need to be trained in Crafting or have the Alchemical Crafting feat to do so, and you can use healer’s tools instead of alchemist’s tools.
+
+<<archetypefeatlist "2 4 6" "Herbalist">>

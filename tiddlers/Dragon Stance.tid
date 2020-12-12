@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20201010174216671
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 4
 feat-class: Monk
 feat-level: 1
 mod-stride: Ignore 1 square of difficult terrain.
-modified: 20201010174310448
+modified: 20201212173540023
 tags: Feat Class Monk Action Stance
 title: Dragon Stance
 type: text/vnd.tiddlywiki

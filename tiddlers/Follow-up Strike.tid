@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201212174539257
+feat-arch: [[Martial Artist]]
+feat-level: 6
+modified: 20201212174648015
+tags: Feat Archetype Action Flourish
+title: Follow-up Strike
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your last action was a missed Strike with a melee unarmed attack.
+
+You have trained to use all parts of your body as a weapon, and when you miss with an attack, you can usually continue the attack with a different body part and still deal damage.
+
+Make another [[Strike]] with a melee unarmed attack, using the same [[Multiple Attack Penalty]] as for the missed Strike, if any.

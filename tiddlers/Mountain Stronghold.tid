@@ -1,10 +1,12 @@
 a-actions: 1
 created: 20201010181716094
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 8
 feat-class: Monk
 feat-fpre: [[Mountain Stance]]
 feat-level: 6
 mod-mountain_stance: Dexterity modifier to AC capped at +1.
-modified: 20201010181902156
+modified: 20201212174201210
 tags: Feat Class Monk Action
 title: Mountain Stronghold
 type: text/vnd.tiddlywiki

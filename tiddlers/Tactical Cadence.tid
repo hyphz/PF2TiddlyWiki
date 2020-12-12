@@ -1,0 +1,13 @@
+created: 20201212172630796
+feat-arch: Marshal
+feat-fpre: [[Cadence Call]]
+feat-level: 14
+mod-cadence_call: Allies can also Strike, and aren't slowed.
+modified: 20201212172801985
+tags: Feat Archetype
+title: Tactical Cadence
+type: text/vnd.tiddlywiki
+
+Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. 
+
+When you grant allies the quickened condition using [[Cadence Call]], they can use the extra action to either [[Stride]] or [[Strike]], and they aren’t [[Slowed]] 1 on their following turn if they use the extra action.

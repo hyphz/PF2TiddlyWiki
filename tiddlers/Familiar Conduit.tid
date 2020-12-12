@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201212152400463
+feat-arch: [[Familiar Master]]
+feat-level: 4
+modified: 20201212152456025
+tags: Feat Archetype Concentrate Metamagic Action
+title: Familiar Conduit
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Able to cast spells.
+
+''Requirements'' You have line of effect to your familiar.
+
+Under your tutelage, your familiar has grown attuned to the hidden currents of the world and can serve as a conduit for your magic. 
+
+If the next action you use is to [[Cast a Spell]] that has a range, the spell uses the familiar as its origin point.

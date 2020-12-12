@@ -1,0 +1,17 @@
+created: 20201212173102029
+feat-arch: [[Martial Artist]]
+feat-level: 2
+modified: 20201212173209792
+tags: Feat Dedication
+title: Martial Artist Dedication
+type: text/vnd.tiddlywiki
+
+You have trained to use your fists as deadly weapons. 
+
+The damage die for your fist unarmed attacks becomes 1d6 instead of 1d4. 
+
+You don’t take the –2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks.
+
+Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all unarmed attacks.
+
+<<archetypefeatlist "4 6 8 14 16" "[[Martial Artist]]">>

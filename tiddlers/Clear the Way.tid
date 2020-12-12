@@ -1,0 +1,19 @@
+a-actions: 2
+a-subactions: Shove Stride
+created: 20201212175503971
+feat-arch: Mauler
+feat-level: 6
+modified: 20201212175553246
+tags: Feat Archetype Action
+title: Clear the Way
+type: text/vnd.tiddlywiki
+
+''Requirements'' You’re wielding a melee weapon in two hands.
+
+You put your body behind your massive weapon and swing, shoving enemies to clear a wide path. 
+
+You attempt to [[Shove]] up to five creatures adjacent to you, rolling a separate [[Athletics]] check for each target. 
+
+Then [[Stride]] up to half your Speed. 
+
+This movement doesn’t trigger reactions from any of the creatures you successfully Shoved.

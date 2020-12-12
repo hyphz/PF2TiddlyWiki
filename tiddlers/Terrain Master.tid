@@ -1,11 +1,13 @@
 created: 20201031151642034
+feat-archadd: [[Horizon Walker]]
+feat-archlevel: 10
 feat-class: Ranger
 feat-fpre: [[Favored Terrain]]
 feat-level: 8
 feat-skill: Survival
 feat-spre: M
 mod-favored_terrain: Change favored terrain to current terrain in 1 hour.
-modified: 20201129000922576
+modified: 20201212160534793
 tags: Feat Class Ranger
 title: Terrain Master
 type: text/vnd.tiddlywiki

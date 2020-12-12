@@ -1,5 +1,5 @@
 created: 20201017161039336
-modified: 20201031195653970
+modified: 20201212163422270
 tags: $:/tags/Macro
 title: ArchetypeFeatListMacro
 type: text/vnd.tiddlywiki
@@ -49,7 +49,7 @@ type: text/vnd.tiddlywiki
 <$link/></$list>)</$list>
 <$list filter="[all[current]has[feat-sppre]]">
 (Requires 
-<$list filter="[all[current]has[feat-sppre]]">
+<$list filter="[all[current]list[!!feat-sppre]]">
 <$link/></$list>)</$list>
 <$list filter="[all[current]has[feat-skill]]">
 (Requires

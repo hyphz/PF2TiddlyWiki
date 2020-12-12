@@ -1,11 +1,13 @@
 a-actions: 2
 a-subactions: Strike
 created: 20201010134708383
+feat-archadd: Mauler
+feat-archlevel: 4
 feat-class: Fighter
 feat-level: 4
 feat-skill: Athletics
 feat-spre: T
-modified: 20201010134946552
+modified: 20201212175119292
 tags: Feat Class Fighter Action Flourish
 title: Knockdown (Fighter)
 type: text/vnd.tiddlywiki

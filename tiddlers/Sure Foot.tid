@@ -1,0 +1,15 @@
+created: 20201212160828461
+feat-arch: [[Horizon Walker]]
+feat-level: 4
+feat-skill: Acrobatics Athletics
+feat-spre: E
+mod-acrobatics: +2 circumstance to move in favored terrain.
+mod-athletics: +2 circumstance to move in favored terrain.
+modified: 20201212160952477
+tags: Feat Archetype Skill
+title: Sure Foot
+type: text/vnd.tiddlywiki
+
+You know the secrets of moving in your favored terrain. 
+
+You gain a +2 circumstance bonus to skill checks to move within your favored terrain, such as [[Acrobatics]] checks to [[Balance]] on ice, [[Athletics]] checks to [[Swim]] in rough water, [[Acrobatics]] checks to [[Fly]] in windy conditions, and so forth.

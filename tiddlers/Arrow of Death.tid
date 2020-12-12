@@ -1,0 +1,20 @@
+a-actions: 3
+a-subactions: Strike
+created: 20201212151507194
+feat-arch: [[Eldritch Archer]]
+feat-level: 18
+modified: 20201212151754709
+tags: Feat Archetype Action Magical Necromancy
+title: Arrow of Death
+type: text/vnd.tiddlywiki
+virtual-tags: Death Incapacitation
+
+''Frequency'' once per day
+
+You modify an arrow or bolt to bring death to your target in a single potent hit. 
+
+Make a bow [[Strike]]. 
+
+On a hit, you deal an additional 10d10 precision damage. 
+
+On a critical hit, the target must also succeed at a [[Fortitude]] saving throw against your class DC or spell DC, whichever is higher, or be immediately slain; this save has the <<tag Death>> and <<tag Incapacitation>> traits. //(This means that creatures of higher level promote their saves and thus must critically fail to be slain.)//

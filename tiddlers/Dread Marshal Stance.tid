@@ -1,0 +1,21 @@
+a-actions: 1
+a-crit: Your marshal’s aura increases to a 20-foot emanation, and it grants you and allies a status bonus to damage rolls equal to the number of weapon damage dice of the unarmed attack or weapon you are wielding that has the most weapon damage dice. When you or an ally in the aura critically hits an enemy with a Strike, that enemy is [[Frightened]] 1.
+a-fail: You fail to enter the stance.
+a-fumble: You fail to enter the stance and can't take this action again for 1 minute.
+a-hit: As critical success, but your aura's size doesn't increase.
+a-skill: Intimidation
+created: 20201212165236133
+feat-arch: Marshal
+feat-level: 4
+feat-skill: Intimidation
+feat-spre: T
+modified: 20201212165811574
+tags: Feat Archetype Action Open Stance
+title: Dread Marshal Stance
+type: text/vnd.tiddlywiki
+
+Putting on a grim face for the battle ahead, you encourage your allies to strike fear into their foes with vicious attacks.
+
+When you use this action, attempt an [[Intimidation]] check. The DC is usually a standard difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
+
+{{||ActionSuccessTable}}

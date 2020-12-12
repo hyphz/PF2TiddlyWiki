@@ -1,0 +1,20 @@
+created: 20201212160229729
+feat-arch: [[Horizon Walker]]
+feat-level: 2
+feat-skill: Survival
+feat-spre: T
+mod-follow_the_expert: Following gives Speed bonus and ignores non-magical difficult terrain.
+modified: 20201212160438194
+tags: Feat Dedication
+title: Horizon Walker Dedication
+type: text/vnd.tiddlywiki
+
+You’ve mastered travel within a specific type of terrain. 
+
+You gain the [[Favored Terrain]] feat. 
+
+When in your favored terrain, you gain a +10-foot circumstance bonus to your travel Speed. 
+
+When other creatures [[Follow the Expert]] with you as a guide in your favored terrain, they gain both the ability to ignore non-magical difficult terrain for the purpose of their travel Speed and the bonus to travel Speed.
+
+<<archetypefeatlist "4 6 10 12" "[[Horizon Walker]]">>

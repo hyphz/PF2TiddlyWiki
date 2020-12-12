@@ -1,11 +1,13 @@
 created: 20201017153232926
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 8
 feat-class: Monk
 feat-fpre: [[Stumbling Stance]]
 feat-level: 6
 feat-skill: Deception
 feat-spre: E
 mod-flurry_of_blows: Can Feint before the flurry.
-modified: 20201017153351756
+modified: 20201212174355631
 tags: Feat Class Monk
 title: Stumbling Feint
 type: text/vnd.tiddlywiki

@@ -1,0 +1,19 @@
+created: 20201212145319994
+feat-arch: [[Eldritch Archer]]
+feat-level: 6
+modified: 20201212145729109
+tags: Feat Dedication
+title: Eldritch Archer Dedication
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' expert in at least one type of bow.
+
+You blend magic with your archery, leading to powerful results.
+
+If you don’t already cast spells from spell slots, you learn to cast spontaneous spells and gain the [[Cast a Spell]] activity. You gain a spell repertoire with one cantrip of your choice, from a spell list of your choice. You choose this cantrip from the common spells on your chosen spell list or from other spells to which you have access on that list. This cantrip must require a spell attack roll. You’re trained in spell attack rolls and spell DCs for that tradition. Your key spellcasting ability for these spells is [[Charisma]].
+
+If you already cast spells from spell slots, you learn one additional cantrip from that tradition. If you’re a prepared caster, you can prepare this spell in addition to your usual cantrips per day; if you’re a spontaneous caster, you add this cantrip to your spell repertoire.
+
+You also gain [[Eldritch Shot]].
+
+<<archetypefeatlist "8 12 14 16 18 20" "[[Eldritch Archer]]">>

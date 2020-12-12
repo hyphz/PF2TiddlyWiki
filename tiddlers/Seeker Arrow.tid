@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201212150815028
+feat-arch: [[Eldritch Archer]]
+feat-level: 14
+modified: 20201212151025708
+tags: Feat Archetype Action Magical Divination
+title: Seeker Arrow
+type: text/vnd.tiddlywiki
+
+Your shots zip around corners and fly at impossible angles to reach your target. 
+
+Make a bow [[Strike]] against a foe you can see; the ammunition travels to your target, even around corners. //(Although you can't actually shoot a foe who's all the way around a corner because you can't see them.)//
+
+You ignore the target’s [[Concealed]] condition and all cover.

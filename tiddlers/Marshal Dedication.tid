@@ -1,0 +1,23 @@
+created: 20201212164936512
+feat-arch: Marshal
+feat-level: 2
+feat-skill: Diplomacy Intimidation
+feat-spre: T
+modified: 20201212165135419
+modtag-fear: +1 status in aura.
+tags: Feat Dedication
+title: Marshal Dedication
+type: text/vnd.tiddlywiki
+virtual-tags: Emotion Mental Visual
+
+''Prerequisites'' trained in martial weapons and either [[Diplomacy]] or [[Intimidation]]
+
+You’ve combined your social skills and combat training to become a talented combat leader. 
+
+Choose [[Diplomacy]] or [[Intimidation]]. You become trained in that skill or become an expert if you were already trained in it.
+
+In addition, you’re surrounded by a marshal’s aura in a 10-foot [[Emanation]]. 
+
+Your aura has the emotion, mental, and visual traits and grants you and allies within the aura a +1 status bonus to saving throws against fear.
+
+<<archetypefeatlist "4 6 8 10 12 14" "Marshal">>

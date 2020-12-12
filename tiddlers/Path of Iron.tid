@@ -1,0 +1,19 @@
+a-actions: 3
+a-subactions: Strike
+created: 20201212174803554
+feat-arch: [[Martial Artist]]
+feat-level: 14
+modified: 20201212174847647
+tags: Feat Archetype Action Flourish
+title: Path of Iron
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per minute.
+
+With a burst of effort, you weave a path through your enemies, striking each in turn as you move past them. 
+
+You [[Stride]]; this movement doesn’t trigger reactions. 
+
+You can [[Strike]] up to three times at any point during your movement, each against a different enemy. 
+
+Each attack counts toward your [[Multiple Attack Penalty]], but your multiple attack penalty doesn’t increase until you have made all your attacks.

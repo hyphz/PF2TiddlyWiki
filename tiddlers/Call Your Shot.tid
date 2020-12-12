@@ -1,0 +1,14 @@
+created: 20201212154102056
+feat-arch: Gladiator
+feat-fpre: [[Play to the Crowd]]
+feat-level: 8
+mod-play_to_the_crowd: Can also make opponent frightened.
+modified: 20201212154232995
+tags: Feat Archetype
+title: Call Your Shot
+type: text/vnd.tiddlywiki
+virtual-tags: Emotion Fear Mental Visual
+
+When you successfully [[Play to the Crowd]], add the following to the list of benefits you can choose from:
+
+* Choose a creature within 30 feet that can see you to become [[Frightened]] 1. This effect has the emotion, fear, mental, and visual traits.

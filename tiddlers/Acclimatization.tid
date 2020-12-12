@@ -1,0 +1,15 @@
+created: 20201212160641940
+feat-arch: [[Horizon Walker]]
+feat-level: 4
+mod-follow_the_expert: Followers in favored terrain reduce temperature effects.
+mod-temperature_effects: Reduce all effects in favored terrain.
+modified: 20201212160811704
+tags: Feat Archetype
+title: Acclimatization
+type: text/vnd.tiddlywiki
+
+Your time spent in the hostile parts of the world has inured you to extreme climates. 
+
+In your favored terrain, you gain resistance equal to half your level to all environmental damage and are affected by [[Temperature Effects]] as though they were one step less severe (incredible heat or cold becomes extreme, extreme heat or cold becomes severe, and so on).
+
+When other creatures [[Follow the Expert]] with you as a guide in your favored terrain, they too treat temperature effects as one step less severe.

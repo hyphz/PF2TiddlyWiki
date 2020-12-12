@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20201017145838445
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 4
 feat-class: Monk
 feat-level: 1
 mod-climb: +2 circumstance to Athletics and promote successes.
-modified: 20201017145951152
+modified: 20201212173605938
 tags: Feat Class Monk Action Stance
 title: Gorilla Stance
 type: text/vnd.tiddlywiki

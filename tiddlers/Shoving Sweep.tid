@@ -1,0 +1,20 @@
+a-subactions: Shove
+created: 20201212175608012
+feat-arch: Mauler
+feat-level: 8
+feat-skill: Athletics
+feat-spre: E
+modified: 20201212175709306
+tags: Feat Archetype Action Reaction
+title: Shoving Sweep
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within your reach leaves a square during a move action it’s using.
+
+''Requirements'' You are wielding a melee weapon in two hands.
+
+You swing your weapon at your foe, rebuffing them back.
+
+You attempt to [[Shove]] the triggering creature, ignoring the requirement that you have a hand free. 
+
+The creature continues its movement after the Shove.

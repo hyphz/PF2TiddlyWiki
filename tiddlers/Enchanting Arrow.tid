@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Strike
+created: 20201212150041429
+feat-arch: [[Eldritch Archer]]
+feat-level: 8
+modified: 20201212150359920
+tags: Feat Archetype Action Emotion Enchantment Mental Magical
+title: Enchanting Arrow
+type: text/vnd.tiddlywiki
+
+With a single whisper carried on the wind, you enchant your ammunition to make a foe more vulnerable to your attacks.
+
+Make a bow [[Strike]]. 
+
+On a hit, the target takes an additional 2d6 <<tag Mental>> damage. On a critical hit, the target also becomes [[Stunned]] 1. 
+
+The mental damage increases to 3d6 if your bow has a greater [[Striking]] rune, or to 4d6 if your bow has a major [[Striking]] rune.

@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201212171038308
+feat-arch: Marshal
+feat-level: 6
+modified: 20201212171324970
+tags: Feat Archetype Action Auditory Flourish
+title: Cadence Call
+turn-etn: Quickening wears off.
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per minute.
+
+You call out a quick cadence, guiding your allies into a more efficient rhythm. 
+
+Each willing ally within your marshal’s aura is [[Quickened]] until the end of their next turn, and they can use the extra action only to [[Stride]]. 
+
+At the end of each ally’s turn, if they used the extra action, they then become [[Slowed]] 1 until the end of their following turn.

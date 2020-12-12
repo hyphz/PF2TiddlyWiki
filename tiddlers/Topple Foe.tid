@@ -1,0 +1,16 @@
+a-subactions: Trip
+created: 20201212172343343
+feat-arch: Marshal
+feat-level: 10
+feat-skill: Athletics
+feat-spre: T
+modified: 20201212172456638
+tags: Feat Archetype Action Reaction
+title: Topple Foe
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally succeeds at a melee [[Strike]] against an opponent you are both adjacent to.
+
+You take advantage of the opening created by your ally to tip your foe off their feet. 
+
+Attempt an [[Athletics]] check to [[Trip]] the target of the triggering attack.

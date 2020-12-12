@@ -1,0 +1,16 @@
+created: 20201212171626165
+feat-arch: Marshal
+feat-level: 8
+mod-flanking: Not flat-footed unless marshal and ally flanked.
+modified: 20201212172115675
+tags: Feat Archetype
+title: Back to Back
+type: text/vnd.tiddlywiki
+
+You excel at watching your allies’ backs and helping them watch yours. 
+
+As long as you and an ally are adjacent to each other, neither of you can become [[Flat-Footed]] due to [[Flanking]] unless both of you are flanked. 
+
+If you’re adjacent to more than one ally, all eligible allies can benefit at a given time. 
+
+The benefit is negated for everyone if at least you and any one eligible ally are flanked, but not if your allies are flanked and you aren’t.

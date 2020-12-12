@@ -1,0 +1,13 @@
+created: 20201212162330853
+feat-arch: Linguist
+feat-level: 4
+modified: 20201212162416966
+tags: Feat Archetype Action Reaction Auditory Linguistic
+title: Spot Translate
+type: text/vnd.tiddlywiki
+
+''Trigger'' Another creature within 60 feet uses a linguistic effect in a language you understand.
+
+You interpret a creature’s words, repeating their message in a different language that you know. 
+
+If the triggering effect’s targets speak either the original language or the one you translated into, they are affected.

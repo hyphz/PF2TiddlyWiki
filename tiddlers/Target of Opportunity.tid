@@ -1,0 +1,20 @@
+a-subactions: Strike
+created: 20201212172844649
+feat-arch: Marshal
+feat-level: 14
+modified: 20201212172956261
+tags: Feat Archetype Action Reaction Manipulate
+title: Target of Opportunity
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally succeeds at a ranged Strike against an opponent within your weapon’s first range increment.
+
+''Requirements'' You have a ranged or thrown weapon in hand.
+
+You capitalize on your ally’s attack to create a coordinated barrage. 
+
+Make a ranged [[Strike]] with a –2 penalty against the opponent targeted by the triggering attack. 
+
+This Strike doesn’t count toward your [[Multiple Attack Penalty]], and your multiple attack penalty doesn’t apply to this Strike. 
+
+If this Strike is successful, combine the damage from the attack with the damage from your ally’s attack for the purpose of resistances and weaknesses.

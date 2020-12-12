@@ -1,0 +1,16 @@
+created: 20201212155026787
+feat-arch: Herbalist
+feat-level: 2
+feat-skill: Nature
+feat-spre: E
+mod-natural_medicine: Spend herbs to add 2 to circumstance bonus.
+modified: 20201212155231772
+tags: Feat Archetype Skill
+title: Fresh Ingredients
+type: text/vnd.tiddlywiki
+
+When using [[Natural Medicine]] to Treat Wounds, you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. 
+
+If you spend a batch of herbs in wilderness, you gain a +4 circumstance bonus instead.
+
+//Though not clearly stated, "spending a batch of herbs" presumably means spending a batch of infused reagents from the Herbalist archetype.//

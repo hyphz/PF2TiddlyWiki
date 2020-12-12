@@ -1,0 +1,20 @@
+a-subactions: Strike
+created: 20201207015129531
+feat-arch: Juggler
+feat-level: 16
+feat-skill: Performance
+feat-spre: L
+modified: 20201207015402024
+tags: Feat Uncommon Archetype Action Reaction
+title: Opportune Throw
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within 10 feet of you uses a <<tag Manipulate>> action or a <<tag Move>> action, makes a ranged attack, or leaves a square during a move action it’s using.
+
+''Requirements'' You are [[Juggling|Juggle]] a thrown weapon.
+
+You make a thrown ranged [[Strike]] with the required weapon against the triggering creature. 
+
+If you critically succeed and the trigger was a manipulate action, you disrupt that action.
+
+This Strike doesn’t count against your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.

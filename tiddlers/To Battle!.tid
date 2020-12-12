@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201212172210204
+feat-arch: Marshal
+feat-level: 8
+modified: 20201212172301480
+tags: Feat Archetype Action Auditory Flourish
+title: To Battle!
+type: text/vnd.tiddlywiki
+
+With a resounding cry, you rally your ally to the offensive.
+
+Choose one ally within your marshal’s aura who has a reaction available. 
+
+If you spend 1 action, that ally can use their reaction to immediately [[Stride]]. 
+
+If you spend 2 actions, that ally can use their reaction to immediately [[Strike]].

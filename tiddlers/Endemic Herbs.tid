@@ -1,0 +1,33 @@
+created: 20201212155445859
+feat-arch: Herbalist
+feat-level: 6
+feat-skill: Survival
+feat-spre: T
+mod-fortitude: Aquatic herbs give +1 circumstance.
+mod-perception: Underground herbs give +1 circumstance.
+mod-reflex: Mountain herbs give +1 circumstance.
+mod-temperature_effects: Arctic herbs improve cold; desert herbs improve heat.
+mod-will: Plains herbs give +1 circumstance.
+modified: 20201212160628605
+modtag-disease: Forest herbs give +2 circumstance to saves.
+modtag-poison: Forest herbs give +2 circumstance to saves.
+tags: Feat Archetype
+title: Endemic Herbs
+type: text/vnd.tiddlywiki
+
+During your daily preparations, you find medicinal plants endemic to your location. 
+
+Until your next preparations, you can spend an additional batch of herbs to add a benefit to an item you create with your herbalism. 
+
+The benefit of the special herbs affects the creature that the item is applied to; if the benefit is not immediate, it lasts for 1 minute unless otherwise stated. 
+
+This adjustment counts as an <<tag Additive>>, so you can’t include another additive without spoiling the item.
+
+* ''Aquatic'' Gain a +1 circumstance bonus to [[Fortitude]] saves.
+* ''Arctic'' For 1 hour, treat environmental cold effects as if they were one step less severe.
+* ''Desert'' For 1 hour, treat environmental heat effects as if they were one step less severe.
+* ''Forest'' Gain a +2 circumstance bonus to saves against disease and poison effects.
+* ''Mountain'' Gain a +1 circumstance bonus to Reflex saves.
+* ''Plains'' Gain a +1 circumstance bonus to Will saves.
+* ''Swamp'' Remove one source of persistent bleed damage.
+* ''Underground'' Gain a +1 circumstance bonus to Perception.

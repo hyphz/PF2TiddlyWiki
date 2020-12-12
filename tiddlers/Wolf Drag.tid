@@ -1,9 +1,11 @@
 a-actions: 2
 created: 20201017140256986
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 8
 feat-class: Monk
 feat-fpre: [[Wolf Stance]]
 feat-level: 6
-modified: 20201017140339944
+modified: 20201212174509858
 tags: Feat Class Monk Action
 title: Wolf Drag
 type: text/vnd.tiddlywiki

@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20200830151857482
+feat-archadd: Loremaster
+feat-archlevel: 16
 feat-class: Bard
 feat-level: 14
 feat-sppre: [[Enigma Muse]]
-modified: 20200830151942206
+modified: 20201212163543718
 tags: Bard Class Feat Action
 title: True Hypercognition
 type: text/vnd.tiddlywiki

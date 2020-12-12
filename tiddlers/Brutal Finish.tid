@@ -1,8 +1,10 @@
 a-actions: 1
 created: 20201010151655269
+feat-archadd: Mauler
+feat-archlevel: 14
 feat-class: Fighter
 feat-level: 12
-modified: 20201010151750953
+modified: 20201212175356475
 tags: Feat Class Fighter Action Press
 title: Brutal Finish
 type: text/vnd.tiddlywiki

@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200803180727082
+feat-archadd: Loremaster
+feat-archlevel: 4
 feat-class: Bard
 feat-level: 2
 feat-sppre: [[Enigma Muse]]
@@ -16,7 +18,7 @@ m-save:
 m-targets: You or the triggering ally
 m-time: 
 mod-recall_knowledge: Can use best of 2 rolls.
-modified: 20200830144551148
+modified: 20201212163321927
 s-crit: 
 s-fail: 
 s-fumble: 

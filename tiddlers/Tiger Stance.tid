@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20201010174934962
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 4
 feat-class: Monk
 feat-level: 1
 mod-step: Step 10 feet as long as speed is at least 20.
-modified: 20201010175100295
+modified: 20201212173759982
 tags: Feat Class Monk Action Stance
 title: Tiger Stance
 type: text/vnd.tiddlywiki

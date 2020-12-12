@@ -1,0 +1,19 @@
+created: 20201212174934160
+feat-abpre: Strength
+feat-abprel: 14
+feat-arch: Mauler
+feat-level: 2
+modified: 20201212175044652
+tags: Feat Dedication
+title: Mauler Dedication
+type: text/vnd.tiddlywiki
+
+You specialize in weapons that require two hands. 
+
+You become trained in all simple and martial melee weapons that require two hands to wield or have the two-hand trait. 
+
+Whenever you gain a class feature that grants you expert or greater proficiency in weapons, you also gain that proficiency rank in these weapons.
+
+If you are at least an expert in such a weapon, you gain access to the critical specialization effect with that weapon.
+
+<<archetypefeatlist "4 6 8 12 14 16" "Mauler">>

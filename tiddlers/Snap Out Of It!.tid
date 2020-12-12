@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201212170307887
+feat-arch: Marshal
+feat-level: 4
+modified: 20201212170430344
+tags: Feat Archetype Action Auditory Emotion Mental
+title: Snap Out Of It!
+type: text/vnd.tiddlywiki
+
+You give a quick shout, hoping to shake the fog clouding your ally’s thoughts. 
+
+Choose one target ally within your marshal’s aura who is affected by a <<tag Mental>> effect that allowed a [[Will]] save and has a duration of no longer than 1 minute. 
+
+That ally can immediately attempt a Will save with a +1 circumstance bonus against the effect’s DC, ending the effect on a success. 
+
+This can’t end the effect for any creatures other than your target ally. 
+
+Regardless of the result of the save, your ally is temporarily immune to Snap Out of It! for 10 minutes.

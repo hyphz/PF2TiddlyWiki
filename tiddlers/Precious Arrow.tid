@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201212150622926
+feat-arch: [[Eldritch Archer]]
+feat-level: 8
+modified: 20201212150723207
+tags: Feat Archetype Action Magical Transmutation
+title: Precious Arrow
+type: text/vnd.tiddlywiki
+
+You enchant a piece of ammunition with the magical essence of a precious material, allowing you to leverage certain creatures’ weaknesses. 
+
+Choose [[Cold Iron]] or [[Silver]]; if you shoot the arrow before the end of your turn, it counts as that material. 
+
+At 14th level, add [[Adamantine]] to the list of materials you can choose from.

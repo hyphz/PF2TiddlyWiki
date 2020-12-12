@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201207015250258
+feat-arch: Juggler
+feat-level: 8
+feat-skill: Performance
+feat-spre: M
+modified: 20201207015356950
+tags: Feat Uncommon Archetype Action
+title: Lobbed Attack
+type: text/vnd.tiddlywiki
+
+You make a thrown ranged [[Strike]] with the required weapon, using the weapon’s normal range increment. 
+
+This attack doesn’t trigger reactions, and if the target has never seen you use this feat before, the target is [[Flat-Footed]] against this attack.

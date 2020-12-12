@@ -1,0 +1,11 @@
+created: 20201212145855600
+feat-arch: [[Eldritch Archer]]
+feat-level: 8
+modified: 20201212145934930
+tags: Feat Archetype
+title: Basic Eldritch Archer Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicSpellcasting}}
+
+Each time you gain a spell slot of a new level from this archetype, add a spell of the appropriate spell level to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you have learned or discovered.

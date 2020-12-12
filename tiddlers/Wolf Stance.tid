@@ -1,8 +1,10 @@
 a-actions: 1
 created: 20201010175110188
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 4
 feat-class: Monk
 feat-level: 1
-modified: 20201010175212689
+modified: 20201212173831230
 tags: Feat Class Monk Action Stance
 title: Wolf Stance
 type: text/vnd.tiddlywiki

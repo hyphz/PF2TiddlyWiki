@@ -1,9 +1,11 @@
 a-actions: 2
 a-subactions: Strike
 created: 20201003174614747
+feat-archadd: Mauler
+feat-archlevel: 4
 feat-class: Fighter
 feat-level: 1
-modified: 20201003174743994
+modified: 20201212175248684
 tags: Feat Class Fighter Action Flourish
 title: Power Attack
 type: text/vnd.tiddlywiki

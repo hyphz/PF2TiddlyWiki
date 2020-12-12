@@ -1,9 +1,11 @@
 a-actions: 1
 created: 20201010181330505
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 8
 feat-class: Monk
 feat-fpre: [[Dragon Stance]]
 feat-level: 6
-modified: 20201010181543961
+modified: 20201212174030028
 tags: Feat Class Monk Action Auditory Emotion Fear Mental
 title: Dragon Roar
 type: text/vnd.tiddlywiki

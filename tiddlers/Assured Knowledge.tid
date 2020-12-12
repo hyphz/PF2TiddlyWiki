@@ -1,10 +1,12 @@
 created: 20200830164036971
+feat-archadd: Loremaster
+feat-archlevel: 8
 feat-class: Bard
 feat-level: 6
 feat-sppre: [[Enigma Muse]]
 mod-automatic_knowledge: Need only expert in skill, not assurance.
 mod-recall_knowledge: Roll with assurance on any skill.
-modified: 20200830164154765
+modified: 20201212163449542
 tags: Bard Class Feat
 title: Assured Knowledge
 type: text/vnd.tiddlywiki

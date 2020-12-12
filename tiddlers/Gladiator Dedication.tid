@@ -1,0 +1,19 @@
+created: 20201212152930248
+feat-arch: Gladiator
+feat-fpre: [[Impressive Performance]]
+feat-level: 2
+lore-mention: Gladiatorial
+modified: 20201212153411663
+tags: Feat Dedication
+title: Gladiator Dedication
+type: text/vnd.tiddlywiki
+
+You know how to turn combat into a form of entertainment. 
+
+You become trained in Gladiatorial [[Lore]]; if already trained in Gladiatorial Lore, you instead become trained in another Lore skill of your choice.
+
+If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor allied or affiliated with either side, the combatants have spectators. The GM is the final arbiter.
+
+At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll [[Performance]] for your initiative.
+
+<<archetypefeatlist "4 6 8" "Gladiator">>

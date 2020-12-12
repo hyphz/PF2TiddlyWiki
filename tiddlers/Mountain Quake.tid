@@ -1,11 +1,13 @@
 a-actions: 1
 a-defense: Fortitude
 created: 20201017143207075
+feat-archadd: [[Martial Artist]]
+feat-archlevel: 16
 feat-class: Monk
 feat-fpre: [[Mountain Stronghold]]
 feat-level: 14
 mod-mountain_stance: Dexterity cap becomes +2.
-modified: 20201017143432555
+modified: 20201212173914901
 tags: Feat Class Monk Action
 title: Mountain Quake
 type: text/vnd.tiddlywiki
