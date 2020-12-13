@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201213231714831
+feat-arch: Poisoner
+feat-level: 4
+feat-skill: Medicine
+feat-spre: T
+modified: 20201213231815781
+tags: Feat Archetype Action
+title: Poisoner's Twist
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your last action was a successful melee Strike that dealt damage against a target that is afflicted by a poison, and you know which poison.
+
+Poisons attack specific parts of the body—one venom might target the lungs, another the circulatory system, while another deteriorates the nerves. You know how to take advantage of such weaknesses. 
+
+You deal 1d6 damage of the required Strike’s damage type and 1d6 poison damage to the target. 
+
+If you’re at least 18th level, you deal 2d6 damage of each type.

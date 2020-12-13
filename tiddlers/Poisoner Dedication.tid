@@ -1,0 +1,23 @@
+created: 20201213223712369
+feat-arch: Poisoner
+feat-level: 2
+feat-skill: Crafting
+feat-spre: T
+modified: 20201213232501619
+tags: Feat Dedication
+title: Poisoner Dedication
+type: text/vnd.tiddlywiki
+
+You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. 
+
+{{MulticlassBasicAlchemy}}
+
+//The above alchemy benefits// can be used only for alchemical poisons. 
+
+You gain batches of infused reagents per day equal to your level.
+
+Your advanced alchemy level for creating these is 1 and doesn’t increase on its own.
+
+//The book lists Improved Poison Weapon twice, at levels 10 and 12, but doesn't state which is correct.//
+
+<<archetypefeatlist "4 6 8 10 18" "Poisoner">>

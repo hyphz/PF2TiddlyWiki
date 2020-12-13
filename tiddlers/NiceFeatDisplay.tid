@@ -1,0 +1,71 @@
+created: 20201213212859468
+modified: 20201213213131324
+tags: 
+title: NiceFeatDisplay
+type: text/vnd.tiddlywiki
+
+<!--
+Decoration icons-->
+<$list filter="[all[current]field:a-actions[1]]">
+{{OneAction}}
+</$list>
+<$list filter="[all[current]field:a-actions[2]]">
+{{TwoAction}}
+</$list>
+<$list filter="[all[current]field:a-actions[3]]">
+{{ThreeAction}}
+</$list>
+<$list filter="[all[current]tag[Reaction]]">
+{{ReactionIcon}}
+</$list>
+<$list filter="[all[current]tag[Free]]">
+{{FreeAction}}
+</$list>
+<$list filter="[all[current]tag[Focus Spell]]">
+{{SpellIcon}}
+</$list>
+<!-- 
+Feat link-->
+<$link />
+<!-- 
+Aftertags -->
+<$list filter="[all[current]tag[Focus Spell]!tag[Cantrip]]">
+(Focus Spell)
+</$list>
+<$list filter="[all[current]tag[Focus Spell]tag[Cantrip]]">
+(Focus Cantrip)
+</$list>
+<$list filter="[all[current]tag[Uncommon]]">
+(Uncommon)
+</$list>
+<$list filter="[all[current]tag[Rare]]">
+(Rare)
+</$list>
+<!-- 
+Feat prereqs -->
+<$list filter="[all[current]has[feat-fpre]]">
+(Requires 
+<$list filter="[all[current]list[!!feat-fpre]]">
+<$link/></$list>)</$list>
+<!-- 
+Splat prereqs -->
+<$list filter="[all[current]has[feat-sppre]]">
+(Requires 
+<$list filter="[all[current]list[!!feat-sppre]]">
+<$link/></$list>)</$list>
+<!-- 
+Stat prereqs -->
+<$list variable="checkAbpreExists" filter="[all[current]has[feat-abpre]]">
+<$set name="statps" filter="[all[current]list[!!feat-abpre]count[]]">
+<$list variable="index" filter="[all[current]range<statps>]">
+(Requires <$list filter="[all[current]list[!!feat-abpre]nth<index>]"><$link /></$list>
+<$list filter="[all[current]list[!!feat-abprel]nth<index>]"><<currentTiddler>></$list>)
+</$list>
+</$set>
+</$list>
+<!-- 
+Skill prereqs -->
+<$list filter="[all[current]list[!!feat-skill]]" variable="skill">
+(Requires
+<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
+<$link to=<<skill>> />)</$list>

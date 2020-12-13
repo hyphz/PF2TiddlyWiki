@@ -1,12 +1,12 @@
 created: 20200708194640044
-feat-archadd: Assassin
+feat-archadd: Assassin Poisoner
 feat-archlevel: 4
 feat-class: Alchemist Druid
 feat-level: 2
 mod-fortitude: Gives +1 status vs poisons.
 mod-reflex: Gives +1 status vs poisons.
 mod-will: Gives +1 status vs poisons.
-modified: 20201024134802382
+modified: 20201213223903821
 tags: Ability Class Alchemist Feat Druid
 title: Poison Resistance
 type: text/vnd.tiddlywiki

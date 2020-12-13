@@ -1,0 +1,19 @@
+created: 20201213223205990
+feat-arch: Pirate
+feat-level: 4
+feat-skill: Acrobatics Athletics
+feat-spre: T
+mod-balance: Promote successes and not flat footed balancing on rope.
+mod-climb: Promote successes and not flat footed climbing rope.
+modified: 20201213223321551
+tags: Feat Archetype
+title: Rope Runner
+type: text/vnd.tiddlywiki
+
+You run and climb across ropes and rigging almost as easily as on the ground. 
+
+You gain a climb Speed of 15 feet, but only on ship’s rigging or similar ropes. 
+
+Whenever you succeed at an [[Athletics]] check to [[Climb]] a rope or an [[Acrobatics]] check to [[Balance]] on a rope, you get a critical success instead. 
+
+You aren’t [[Flat-Footed]] while Climbing or Balancing on a rope.

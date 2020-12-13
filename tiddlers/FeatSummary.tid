@@ -1,5 +1,5 @@
 created: 20200712160917173
-modified: 20201206183249802
+modified: 20201213231343900
 tags: 
 title: FeatSummary
 type: text/vnd.tiddlywiki
@@ -30,13 +30,14 @@ type: text/vnd.tiddlywiki
 <tr><th>Archetype</th><td><<currentTiddler>></td></tr>
 </$list>
 <$list filter="[all[current]tag[Class]]">
-<tr><th>Class</th><td>
 <$list filter="[list[!!feat-class]]">
-<$link/>
-</$list></td></tr>
+<tr><th>Class</th><td><$link/></td></tr>
+</$list>
 </$list>
 <$list filter="[list[!!feat-archadd]]">
-<tr><th>Additional for</th><td><<currentTiddler>></td></tr>
+<$set name="dedname" filter="[all[current]addsuffix[ Dedication]]" select="0">
+<tr><th>Additional for</th><td><$link to=<<dedname>>><<currentTiddler>></$link></td></tr>
+</$set>
 </$list>
 <tr><th>Level</th><td>{{!!feat-level}}</td></tr>
 <$list filter="[all[current]has[feat-skill]]">

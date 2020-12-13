@@ -1,0 +1,22 @@
+created: 20201213222732190
+feat-arch: Pirate
+feat-level: 2
+feat-skill: Intimidation
+feat-spre: T
+lore-mention: Sailing
+mod-difficult_terrain: Ignore if caused by ship movement.
+mod-uneven_ground: Ignore if caused by ship movement.
+modified: 20201213222915641
+tags: Feat Dedication
+title: Pirate Dedication
+type: text/vnd.tiddlywiki
+
+As a pirate, you sail the seas in search of enemy ships to plunder. 
+
+You become trained in Sailing [[Lore]], or become an expert in it if you were already trained. 
+
+You ignore the effects of [[Difficult Terrain]] or [[Uneven Ground]] caused by a ship’s movement. 
+
+Additionally, you gain the [[Boarding Assault]] action.
+
+<<archetypefeatlist "4 8" "Pirate">>

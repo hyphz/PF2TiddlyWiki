@@ -1,0 +1,9 @@
+created: 20201213212645107
+modified: 20201213212747621
+tags: $:/tags/Macro
+title: CurTestMacro
+type: text/vnd.tiddlywiki
+
+\define currenttest(s:"")
+The current tiddler is <<currentTiddler>>
+\end

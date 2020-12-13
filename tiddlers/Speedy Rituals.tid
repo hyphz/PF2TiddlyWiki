@@ -1,0 +1,15 @@
+created: 20201213233041911
+feat-arch: Ritualist
+feat-fpre: [[Efficient Rituals]]
+feat-level: 14
+modified: 20201213233158693
+modtag-ritual: Reduce time taken to 1 hour for each day.
+tags: Feat Archetype
+title: Speedy Rituals
+type: text/vnd.tiddlywiki
+
+You can perform rituals in only a fraction of the usual time. 
+
+If a ritual has a casting time measured in days, you can cast it in an equal number of hours. 
+
+If this results in a ritual longer than 8 hours, you split the ritual between multiple days, as normal for a ritual.

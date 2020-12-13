@@ -1,5 +1,5 @@
 created: 20201017161039336
-modified: 20201212163422270
+modified: 20201213213048811
 tags: $:/tags/Macro
 title: ArchetypeFeatListMacro
 type: text/vnd.tiddlywiki
@@ -12,50 +12,7 @@ type: text/vnd.tiddlywiki
 <tr><th><<level>></th>
 <td>
 <$list filter="[tag[Feat]contains:feat-arch<archetype>field:feat-level<level>][tag[Feat]contains:feat-archadd<archetype>field:feat-archlevel<level>]+[sort[]]">
-<$list filter="[all[current]field:a-actions[1]]">
-{{OneAction}}
-</$list>
-<$list filter="[all[current]field:a-actions[2]]">
-{{TwoAction}}
-</$list>
-<$list filter="[all[current]field:a-actions[3]]">
-{{ThreeAction}}
-</$list>
-<$list filter="[all[current]tag[Reaction]]">
-{{ReactionIcon}}
-</$list>
-<$list filter="[all[current]tag[Free]]">
-{{FreeAction}}
-</$list>
-<$list filter="[all[current]tag[Focus Spell]]">
-{{SpellIcon}}
-</$list>
-<$link />
-<$list filter="[all[current]tag[Focus Spell]!tag[Cantrip]]">
-(Focus Spell)
-</$list>
-<$list filter="[all[current]tag[Focus Spell]tag[Cantrip]]">
-(Focus Cantrip)
-</$list>
-<$list filter="[all[current]tag[Uncommon]]">
-(Uncommon)
-</$list>
-<$list filter="[all[current]tag[Rare]]">
-(Rare)
-</$list>
-<$list filter="[all[current]has[feat-fpre]]">
-(Requires 
-<$list filter="[all[current]list[!!feat-fpre]]">
-<$link/></$list>)</$list>
-<$list filter="[all[current]has[feat-sppre]]">
-(Requires 
-<$list filter="[all[current]list[!!feat-sppre]]">
-<$link/></$list>)</$list>
-<$list filter="[all[current]has[feat-skill]]">
-(Requires
-<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
-<$link to={{!!feat-skill}} />)</$list>
-<br />
+{{||NiceFeatDisplay}}<br />
 </$list>
 </td></tr>
 </$list>

@@ -1,0 +1,22 @@
+a-actions: 3
+a-skill: Medicine
+a-tool: [[Healer's Tools]]
+created: 20201213214403598
+feat-arch: Medic
+feat-level: 16
+feat-skill: Medicine
+feat-spre: L
+modified: 20201213214624446
+tags: Feat Archetype Action Healing Manipulate
+title: Resuscitate
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are holding healer’s tools or are wearing them and have a hand free. Also, the target’s body is mostly intact.
+
+You can use [[Medicine]] to resuscitate the dead. 
+
+Attempt a DC 40 Medicine check to revive a dead creature that has been dead for no more than 3 rounds. 
+
+If you succeed, the target returns to life with the effects of [[Raise Dead]], except it still has the [[Wounded]] condition it had before dying, increased by 1 (or wounded 1 if it wasn’t wounded before dying). 
+
+Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.

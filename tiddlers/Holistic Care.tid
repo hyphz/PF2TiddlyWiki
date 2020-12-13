@@ -1,0 +1,18 @@
+created: 20201213214141796
+feat-arch: Medic
+feat-fpre: [[Treat Condition]]
+feat-level: 6
+feat-skill: Diplomacy
+feat-spre: T
+mod-treat_condition: Treat Frightened, Stupefied and Stunned also.
+modified: 20201213214313223
+tags: Feat Archetype Skill
+title: Holistic Care
+type: text/vnd.tiddlywiki
+
+You provide emotional and spiritual care.
+
+Add [[Frightened]], [[Stupefied]], and [[Stunned]] to the list of conditions you can reduce with [[Treat Condition]]. 
+
+If the stunned condition has a duration instead of a value, you can’t use Treat Condition to reduce it.
+

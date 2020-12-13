@@ -1,8 +1,10 @@
 created: 20201205155449330
 feat-arch: Rogue
+feat-archadd: Assassin
+feat-archlevel: 6
 feat-level: 4
 mod-sneak_attack: Deals 1d4/1d6 damage ony and doesn't increase dice.
-modified: 20201205155529368
+modified: 20201213224044317
 tags: Feat Archetype
 title: Sneak Attacker
 type: text/vnd.tiddlywiki

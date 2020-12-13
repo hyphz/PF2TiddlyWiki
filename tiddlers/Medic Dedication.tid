@@ -1,0 +1,20 @@
+created: 20201213213521298
+feat-arch: Medic
+feat-fpre: [[Battle Medicine]]
+feat-level: 2
+feat-skill: Medicine
+feat-spre: T
+mod-battle_medicine: Grant extra HP and use once per day/hour on an immune target.
+mod-treat_wounds: Grant extra HP.
+modified: 20201213213710997
+tags: Feat Dedication
+title: Medic Dedication
+type: text/vnd.tiddlywiki
+
+You become an expert in [[Medicine]]. 
+
+When you succeed with [[Battle Medicine]] or [[Treat Wounds]], the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at DC 40. 
+
+Once per day, you can use Battle Medicine on a creature that’s temporarily immune. If you’re a master in Medicine, you can do so once per hour. 
+
+<<archetypefeatlist "4 6 16" "Medic">>

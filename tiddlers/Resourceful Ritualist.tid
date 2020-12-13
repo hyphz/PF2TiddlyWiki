@@ -1,0 +1,12 @@
+created: 20201213232839041
+feat-arch: Ritualist
+feat-level: 6
+modified: 20201213232907400
+modtag-ritual: Attempt ritual checks even if skill is one rank lower.
+tags: Feat Archetype
+title: Resourceful Ritualist
+type: text/vnd.tiddlywiki
+
+You can cast difficult rituals that might otherwise be just beyond your skill. 
+
+You can attempt checks to cast a ritual that requires expert proficiency if you are trained, master proficiency if you are an expert, or legendary proficiency if you are a master.

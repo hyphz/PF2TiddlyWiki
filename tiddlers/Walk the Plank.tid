@@ -1,0 +1,22 @@
+a-actions: 2
+a-subactions: Demoralize
+created: 20201213223337388
+feat-arch: Pirate
+feat-level: 8
+modified: 20201213223618827
+tags: Feat Archetype Action
+title: Walk the Plank
+type: text/vnd.tiddlywiki
+virtual-tags: Incapacitation
+
+You frighten a foe into moving where you want them, traditionally demanding they walk the plank. 
+
+Attempt to [[Demoralize]] an opponent; this check gains the incapacitation trait //(so to succeed against an opponent of higher level you must roll a critical success)//.
+
+On a success, in addition to the normal effects, you can also force the target to [[Stride]] up to its Speed. 
+
+You choose the path the target takes, and it does so as part of your Walk the Plank action. 
+
+You can’t force the target to move into a harmful space (one where it will take damage, fall, provoke reactions, or similar) unless the result of your check to Demoralize was a critical success. //(Which it cannot be if the opponent is of higher level.)//
+
+The target then becomes temporarily immune to Walk the Plank for 24 hours.

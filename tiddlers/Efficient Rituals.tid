@@ -1,0 +1,14 @@
+created: 20201213232916582
+feat-arch: Ritualist
+feat-level: 8
+modified: 20201213232951034
+modtag-ritual: Cast in half number of days, or 4 hours if normally 1 day.
+tags: Feat Archetype
+title: Efficient Rituals
+type: text/vnd.tiddlywiki
+
+You can perform some rituals in less time. 
+
+If the ritual normally requires 1 day to cast, you can cast it in 4 hours. 
+
+If it takes longer than 1 day, you cast it in half the number of days, rounded up.
