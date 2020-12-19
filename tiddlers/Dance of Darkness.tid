@@ -1,0 +1,36 @@
+a-crit: 1 minute
+a-defense: 
+a-fail: 1 round
+a-fumble: 
+a-hit: 2 rounds
+a-skill: Performance
+created: 20201219154824390
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: Varies
+m-level: 5
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20201219155104873
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Darkness Evocation
+title: Dance of Darkness
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You dance, Striding up to half your Speed. 
+
+At either the start or end of your Stride, you create an area of magical darkness in a 10-foot burst centered on your location. 
+
+This area is filled with magical darkness that works the same way as that created by a [[Darkness]] spell of the same level. 
+
+When you create the darkness, attempt a [[Performance]] check to dance, with a standard DC for your level, to determine the duration of the darkness.
+
+{{||ActionSuccessTable}}

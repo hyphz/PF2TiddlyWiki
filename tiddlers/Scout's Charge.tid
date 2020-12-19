@@ -1,0 +1,15 @@
+a-actions: 2
+a-subactions: Stride Feint Strike
+created: 20201219145331615
+feat-arch: Scout
+feat-level: 4
+modified: 20201219145740236
+tags: Feat Archetype Action Flourish
+title: Scout's Charge
+type: text/vnd.tiddlywiki
+
+You meander around unpredictably, and then ambush your opponents without warning. 
+
+Choose one enemy. [[Stride]], [[Feint]] against that opponent, and then make a [[Strike]] against that foe. 
+
+For your Feint, you can attempt a [[Stealth]] check instead of the [[Deception]] check that’s usually required, because you use the terrain around you to catch your foe off-guard.

@@ -1,0 +1,12 @@
+created: 20201219145611009
+feat-arch: Scout
+feat-level: 4
+mod-follow_the_expert: Following a scout avoiding notice benefits from Terrain Stalker.
+modified: 20201219145718031
+tags: Feat Archetype
+title: Terrain Scout
+type: text/vnd.tiddlywiki
+
+You gain the [[Terrain Stalker]] skill feat twice, choosing a different terrain each time. 
+
+If you [[Avoid Notice]] while exploring and any allies use [[Follow the Expert]] to follow you as you do so, you can choose one of those allies to gain the benefit of any one [[Terrain Stalker]] feat you have.

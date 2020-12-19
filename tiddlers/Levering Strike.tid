@@ -1,0 +1,14 @@
+a-actions: 2
+created: 20201219175844241
+feat-arch: [[Staff Acrobat]]
+feat-level: 8
+modified: 20201219180235515
+tags: Feat Archetype Uncommon Action Press
+title: Levering Strike
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding your staff.
+
+Make a [[Strike]] with your staff. 
+
+As long as you don’t critically fail, the target becomes [[Flat-Footed]] and takes a –2 circumstance penalty to its DC against [[Shove]], [[Trip]], and [[Tumble Through]] attempts until the start of your next turn.

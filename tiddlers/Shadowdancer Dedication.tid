@@ -1,0 +1,20 @@
+created: 20201219153857145
+feat-arch: Shadowdancer
+feat-level: 8
+feat-skill: Stealth Performance
+feat-spre: M E
+mod-stealth: +2 circumstance in dim light or dark.
+modified: 20201219160529431
+tags: Feat Dedication
+title: Shadowdancer Dedication
+type: text/vnd.tiddlywiki
+
+You dedicate yourself to the shadows. 
+
+Your coloring becomes gray and gloomy, your senses adjust to the darkness, and you can sneak through darkness with ease. 
+
+You gain greater [[Darkvision]]. 
+
+You also gain a +2 circumstance bonus to [[Stealth]] checks when you are within dim light or darkness.
+
+<<archetypefeatlist "10 12 14 16 18" "Shadowdancer">>

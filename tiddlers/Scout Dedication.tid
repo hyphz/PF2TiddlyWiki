@@ -1,0 +1,18 @@
+created: 20201219144827076
+feat-arch: Scout
+feat-level: 2
+feat-skill: Stealth Survival
+feat-spre: T
+mod-scout: Gives +2 initiative instead of +1.
+modified: 20201219145024354
+tags: Feat Dedication
+title: Scout Dedication
+type: text/vnd.tiddlywiki
+
+You are a highly skilled scout, capable of providing your allies a timely warning of any danger. 
+
+You gain the [[Scout's Warning]] ranger feat. 
+
+When you’re using the [[Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
+
+<<archetypefeatlist "4 6 10 12" "Scout">>

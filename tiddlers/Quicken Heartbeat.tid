@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20201219181257211
+feat-arch: [[Golem Grafter]]
+feat-level: 10
+mod-quickened: Can Stride or Strike.
+modified: 20201219181403393
+tags: Feat Archetype Action Prestige
+title: Quicken Heartbeat
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per turn
+
+You’ve replaced your heart with one made of animated quicksilver and living adamantine. 
+
+You reduce your [[Slowed]] condition by 1. 
+
+Alternatively, if you are not slowed, you are [[Quickened]] 1 during your next turn, and can use your extra action to [[Stride]] or [[Strike]].

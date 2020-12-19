@@ -1,11 +1,13 @@
 created: 20201031153927289
+feat-archadd: Snarecrafter
+feat-archlevel: 14
 feat-class: Ranger
 feat-fpre: [[Snare Specialist]] [[Quick Snares]]
 feat-level: 12
 feat-skill: Crafting
 feat-spre: M
 mod-snare_specialist: Craft snare with 1 Interact action.
-modified: 20201129000943344
+modified: 20201219160745290
 tags: Feat Class Ranger
 title: Lightning Snares
 type: text/vnd.tiddlywiki

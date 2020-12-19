@@ -1,0 +1,19 @@
+a-actions: 2
+a-subactions: Stride Strike
+created: 20201219145909508
+feat-arch: Scout
+feat-level: 10
+modified: 20201219150014445
+tags: Feat Archetype Action Flourish
+title: Scout's Pounce
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are [[Hidden]] from or [[Undetected]] by all of your opponents, and you aren’t within 10 feet of any enemy.
+
+You leap from the shadows to strike your foes. 
+
+[[Stride]] up to your Speed, then [[Strike]] twice. 
+
+If you were hidden or unnoticed by the target of these Strikes, your foe is [[Flat-Footed]] against both attacks. 
+
+Your [[Multiple Attack Penalty]] applies normally for both attacks.

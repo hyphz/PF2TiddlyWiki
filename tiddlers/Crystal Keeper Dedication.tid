@@ -1,0 +1,20 @@
+created: 20201219173601679
+feat-arch: [[Crystal Keeper]]
+feat-level: 4
+feat-skill: [[Elven Lore]] Society
+feat-spre: T
+mod-decipher_writing: Use a crystal to use magical skill and promote fumbles and hits.
+modified: 20201219173950672
+tags: Feat Dedication Rare
+title: Crystal Keeper Dedication
+type: text/vnd.tiddlywiki
+
+//This archetype has plot requirements described in Age of Ashes 4.//
+
+You can use [[Arcana]], [[Occultism]], [[Religion]], or [[Society]] to [[Decipher Writing]] by meditating before a crystal, regardless of the type of writing. 
+
+When you [[Decipher Writing]] and roll a critical failure, you get a failure instead, and when you [[Decipher Writing]] and roll a success, you get a critical success instead.
+
+Additionally, you gain resistance 10 to damage from hazards associated with crystals.
+
+<<archetypefeatlist "4 6 10" "[[Crystal Keeper]]">>

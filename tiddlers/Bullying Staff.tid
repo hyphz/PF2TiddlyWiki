@@ -1,0 +1,15 @@
+created: 20201219175511556
+feat-arch: [[Staff Acrobat]]
+feat-level: 4
+mod-shove: Use on creatures 2 or 3 sizes larger.
+mod-trip: Use on creatures 2 or 3 sizes larger.
+modified: 20201219175620977
+tags: Feat Archetype Uncommon
+title: Bullying Staff
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding your staff.
+
+You can attempt to [[Shove]] or [[Trip]] creatures up to two sizes larger than you. 
+
+If you have master proficiency with your staff, you can attempt to Shove or Trip creatures up to three sizes larger than you.

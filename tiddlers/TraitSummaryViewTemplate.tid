@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20201205164045221
+modified: 20201219163238347
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -146,6 +146,9 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Secret]]">
 <tr><th>[[Secret]]</th><td>The GM makes the roll for this in secret.</td></tr>
 </$list>
+<$list filter="[all[current]tag[Social]]">
+<tr><th>[[Social]]</th><td>You must be in your social identity to use this.</td></tr>
+</$list>
 <$list filter="[all[current]tag[Somatic]]">
 <tr><th>[[Somatic]]</th><td>You must normally be able to make gestures to cast this spell.</td></tr>
 </$list>
@@ -160,6 +163,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Verbal]]">
 <tr><th>[[Verbal]]</th><td>You must normally be able to speak loudly to cast this spell, and you lose all your air if you use this while holding your breath.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Vigilante]]">
+<tr><th>[[Vigilante]]</th><td>You must be in your vigilante identity to use this.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Visual]]">
 <tr><th>[[Visual]]</th><td>This works only against creatures that can see it and are not [[Blinded]].</td></tr>

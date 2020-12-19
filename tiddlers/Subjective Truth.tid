@@ -1,0 +1,14 @@
+created: 20201219164042828
+feat-arch: Vigilante
+feat-level: 7
+feat-skill: Deception
+feat-spre: M
+mod-zone_of_truth: Can lie about secret identity in zone.
+modified: 20201219164132330
+tags: Feat Archetype
+title: Subjective Truth
+type: text/vnd.tiddlywiki
+
+Your disparate identities allow you to defeat magic that detects lies. 
+
+As long as what you say is true from the point of view of your current identity, you can say it even under effects like [[Zone of Truth]] that force you to speak the truth.

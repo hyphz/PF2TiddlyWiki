@@ -1,0 +1,14 @@
+a-actions: 2
+created: 20201219181822616
+modified: 20201219181913589
+tags: Action Arcane Necromancy Poison
+title: Exhale Poison
+type: text/vnd.tiddlywiki
+
+''Requirements'' You were within the area of an inhaled poison within the last minute.
+
+''Frequency'' once per hour.
+
+You sharply exhale the poison that previously surrounded you in a 15-foot cone. 
+
+Creatures in the area are affected by the poison; the poison’s DC and effects are unchanged.

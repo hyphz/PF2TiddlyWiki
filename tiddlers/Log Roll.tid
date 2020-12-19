@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201219182706973
+feat-arch: [[Turpin Rowe Lumberjack]]
+feat-level: 4
+modified: 20201219182802219
+tags: Feat Archetype
+title: Log Roll
+type: text/vnd.tiddlywiki
+
+''Requirements'' You and an adjacent creature are both on a narrow surface or uneven ground and the other creature is [[Flat-Footed]].
+
+You shuffle your feet to dislodge the surface beneath you or otherwise cause your opponent to become unsteady.
+
+Attempt an [[Acrobatics]] check against the adjacent creature’s [[Reflex]] saving throw DC. On a success, the creature falls. On a critical failure, you fall.

@@ -1,0 +1,14 @@
+created: 20201219161901919
+feat-arch: [[Talisman Dabbler]]
+feat-level: 14
+mod-affix_a_talisman: One item at a time can support 2 talismans.
+modified: 20201219162001562
+tags: Feat Archetype
+title: Talismanic Sage
+type: text/vnd.tiddlywiki
+
+You have forgotten more about talismans than lesser warriors have ever known. 
+
+Normally, affixing more than one talisman to an item causes the talismans to be suppressed, but when you [[Affix a Talisman]], you can specially treat one item you’re working on, allowing it to have two active talismans at once.
+
+This special treatment ends if you use Affix a Talisman to treat a new item for this ability.

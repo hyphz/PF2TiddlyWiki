@@ -1,0 +1,34 @@
+a-actions: 2
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201219174605379
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 3
+m-range: Touch
+m-save: 
+m-targets: 1 hinge or latch
+m-time: 
+modified: 20201219174734668
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Rare Electricity Evocation
+title: Electrified Crystal Ward
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create an electric latch rune hazard on the target, creating a special crystalline lock on the object. 
+
+You can also substitute your spell DC for any of the hazard’s listed DCs. 
+
+You can have only one such hazard active at a time, and if you cast this spell while a previous electric latch rune is active, the older hazard discharges harmlessly.
+
+''Heightened (+2)'' The hazard’s damage increases by 1d12.

@@ -1,9 +1,11 @@
 a-actions: 1
 a-subactions: Stride Strike
 created: 20201031180948835
+feat-archadd: Shadowdancer
+feat-archlevel: 14
 feat-class: Rogue
 feat-level: 12
-modified: 20201031181103912
+modified: 20201219154320326
 tags: Feat Class Rogue Action Flourish
 title: Spring from the Shadows
 type: text/vnd.tiddlywiki

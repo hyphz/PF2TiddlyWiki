@@ -1,11 +1,13 @@
 created: 20201031150151032
+feat-archadd: Snarecrafter
+feat-archlevel: 8
 feat-class: Ranger
 feat-fpre: [[Snare Specialist]]
 feat-level: 6
 feat-skill: Crafting
 feat-spre: E
 mod-snare_specialist: Use fast crafting on any snare, not just the prepared ones.
-modified: 20201031150251330
+modified: 20201219160638100
 tags: Feat Class Ranger
 title: Quick Snares
 type: text/vnd.tiddlywiki

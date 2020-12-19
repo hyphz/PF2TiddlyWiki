@@ -1,0 +1,15 @@
+a-subactions: Interact Strike
+created: 20201219170858687
+feat-arch: [[Weapon Improviser]]
+feat-fpre: [[Improvised Pummel]]
+feat-level: 10
+modified: 20201219171037772
+tags: Feat Archetype Action Reaction
+title: Shattering Strike (Improviser)
+type: text/vnd.tiddlywiki
+
+''Trigger'' An improvised weapon that you are wielding becomes broken as a result of a critical success on an [[Improvised Pummel]].
+
+The improvised weapon shatters, destroying it completely but dealing anadditional 3d6 piercing damage to the creature you hit with the Improvised Pummel. 
+
+This extra damage you apply on the critical hit doesn’t double from the critical hit, as normal.

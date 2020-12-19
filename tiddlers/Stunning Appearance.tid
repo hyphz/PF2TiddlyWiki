@@ -1,0 +1,13 @@
+created: 20201219164908079
+feat-arch: Vigilante
+feat-fpre: [[Startling Appearance]]
+feat-level: 16
+mod-startling_appearance: May also Stun opponent.
+modified: 20201219164946783
+tags: Feat Archetype Vigilante
+title: Stunning Appearance
+type: text/vnd.tiddlywiki
+
+Your sudden appearance leaves your foe unable to respond.
+
+When you use [[Startling Appearance]], if your foe’s level is equal to or lower than yours, they are also [[Stunned]] 1 on a hit, or stunned 2 on a critical hit.

@@ -1,0 +1,10 @@
+created: 20201219170521691
+feat-arch: [[Weapon Improviser]]
+feat-level: 6
+mod-strike: Enemy flat-footed if they don't know you use improvised weapons.
+modified: 20201219170607671
+tags: Feat Archetype
+title: Surprise Strike
+type: text/vnd.tiddlywiki
+
+Whenever you make a Strike with an improvised weapon against a creature that hasn’t seen you make a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is [[Flat-Footed]] against you for that Strike.

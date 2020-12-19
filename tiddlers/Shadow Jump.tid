@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201219155410166
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 5
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20201219155546950
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Conjuration Shadow Teleportation
+title: Shadow Jump
+type: text/vnd.tiddlywiki
+virtual-tags: Illusion
+
+{{||SpellSummaryTable}}
+
+''Requirements'' You are in dim light or darkness.
+
+You instantly transport yourself from one shadow to another.
+
+Teleport yourself and any items you’re wearing and holding from your current space to a clear space you can see that’s in dim light or darkness and within range. 
+
+You can transport your familiar with this spell, but if shadow jump would bring any other creature with you—even if you’re carrying the creature in an extradimensional container—the spell is disrupted.
+
+''Heightened (8th)'' When you arrive at your destination, you can become [[Invisible]] until the end of your next turn or until you are no longer in an area of dim light or darkness, whichever comes first. The invisibility is an <<tag Illusion>> effect.

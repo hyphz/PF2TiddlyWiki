@@ -1,0 +1,17 @@
+a-actions: 1
+a-subactions: Interact Strike
+created: 20201219170733240
+feat-arch: [[Weapon Improviser]]
+feat-level: 8
+modified: 20201219170842775
+tags: Feat Archetype Action
+title: Makeshift Strike
+type: text/vnd.tiddlywiki
+
+You quickly snatch up whatever’s nearby and then attack with it as an improvised weapon. 
+
+You [[Interact]] to pick up a nearby object you could use as an improvised weapon. 
+
+It must be located at around your chest level, such as a mug on a table, rather than an object on the floor. 
+
+You then either [[Strike]] or make an [[Improvised Pummel]] with the improvised weapon.

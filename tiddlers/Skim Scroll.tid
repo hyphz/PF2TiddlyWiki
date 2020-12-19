@@ -1,0 +1,13 @@
+a-actions: 1
+a-subactions: Interact [[Trick Magic Item]]
+created: 20201219150956442
+feat-arch: [[Scroll Trickster]]
+feat-level: 8
+modified: 20201219151056193
+tags: Feat Archetype Action
+title: Skim Scroll
+type: text/vnd.tiddlywiki
+
+You can activate the magic of a scroll with a cursory read as you draw it from your belt. 
+
+You [[Interact]] to draw forth a scroll, then use [[Trick Magic Item]] on the scroll.

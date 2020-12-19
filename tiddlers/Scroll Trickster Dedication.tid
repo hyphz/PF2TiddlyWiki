@@ -1,0 +1,18 @@
+created: 20201219150225577
+feat-arch: [[Scroll Trickster]]
+feat-level: 2
+feat-skill: Arcana Nature Occultism Religion
+feat-spre: T
+mod-trick_magic_item: +2 circumstance and promote fumbles for scrolls.
+modified: 20201219150400428
+tags: Feat Dedication
+title: Scroll Trickster Dedication
+type: text/vnd.tiddlywiki
+
+You’ve studied scrolls in depth. This might have been a comprehensive education in formal setting, or the sort of education where you somehow obtain a number of scrolls and try not to explode anything you didn’t mean to explode.
+
+You gain the [[Trick Magic Item]] feat, and you gain a +2 circumstance bonus to skill checks to Trick scrolls. 
+
+If you roll a critical failure to Trick a Magic Item that’s a scroll, you get a failure instead.
+
+<<archetypefeatlist "6 8 12 18" "[[Scroll Trickster]]">>

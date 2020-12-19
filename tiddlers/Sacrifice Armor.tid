@@ -1,8 +1,9 @@
 created: 20200905193437173
+feat-archadd: Sentinel
+feat-archlevel: 10
 feat-class: Champion
-feat-fpre: Cruelty
 feat-level: 8
-modified: 20200905193508950
+modified: 20201219152839046
 tags: Class Feat Champion Action Reaction
 title: Sacrifice Armor
 type: text/vnd.tiddlywiki

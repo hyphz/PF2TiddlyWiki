@@ -1,0 +1,15 @@
+created: 20201219170302253
+feat-arch: [[Weapon Improviser]]
+feat-level: 2
+modified: 20201219170354418
+tags: Feat Dedication
+title: Weapon Improviser Dedication
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' trained in all martial weapons
+
+You don’t take the normal –2 penalty to attack rolls with improvised weapons. 
+
+Additionally, whenever you gain a class feature that grants you expert or greater proficiency with any weapon, you also gain that proficiency with improvised weapons.
+
+<<archetypefeatlist "4 6 8 10" "[[Weapon Improviser]]">>

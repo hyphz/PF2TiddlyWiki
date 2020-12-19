@@ -1,0 +1,19 @@
+created: 20201219162731773
+feat-arch: Vigilante
+feat-level: 4
+feat-skill: Arcana Nature Occultism Religion
+feat-spre: E
+mod-detect_magic: Must win Perception vs Deception to detect hidden.
+mod-read_aura: Must win Perception vs Deception to detect hidden.
+modified: 20201219162856466
+tags: Feat Archetype
+title: Hidden Magic
+type: text/vnd.tiddlywiki
+
+You’ve learned to hide the magical auras of your gear.
+
+During your daily preparations, you carefully tweak any or all of your magic items to appear non-magical. 
+
+Objects adjusted in this way remain so until your next preparations.
+
+A spellcaster using [[Detect Magic]] or [[Read Aura]] must succeed at a [[Perception]] check against your [[Deception]] DC to see through your obfuscations.

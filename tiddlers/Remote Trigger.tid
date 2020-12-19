@@ -1,0 +1,15 @@
+created: 20201219160935518
+feat-arch: Snarecrafter
+feat-level: 6
+modified: 20201219161018483
+tags: Feat Archetype
+title: Remote Trigger
+type: text/vnd.tiddlywiki
+
+You’ve learned how to trigger snares from afar, creating ranged hazards to assail your opponents and allowing you to disarm enemies’ snares harmlessly. 
+
+You can [[Strike]] a snare to trigger it prematurely. 
+
+If you crafted the snare, you automatically hit. 
+
+If someone else crafted it, attempt a ranged Strike against the Crafting DC, triggering the snare only if you hit.

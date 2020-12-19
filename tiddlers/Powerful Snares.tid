@@ -1,10 +1,12 @@
 created: 20201031151605832
+feat-archadd: Snarecrafter
+feat-archlevel: 10
 feat-class: Ranger
 feat-fpre: [[Snare Specialist]]
 feat-level: 8
 feat-skill: Crafting
 feat-spre: M
-modified: 20201031151631448
+modified: 20201219160705659
 tags: Feat Class Ranger
 title: Powerful Snares
 type: text/vnd.tiddlywiki

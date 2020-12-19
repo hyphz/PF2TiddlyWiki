@@ -1,0 +1,17 @@
+a-actions: 2
+a-subactions: Leap Strike Shove Trip
+created: 20201219180409757
+feat-arch: [[Staff Acrobat]]
+feat-level: 14
+modified: 20201219180516466
+tags: Feat Archetype Uncommon Action Attack Open
+title: Pivot Strike
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding your staff.
+
+You [[Leap]] and then [[Strike]] using your staff.
+
+You gain a circumstance bonus to damage for the Strike equal to twice the number of weapon damage dice. 
+
+Regardless of whether your Strike hit, you can then attempt to [[Shove]] or [[Trip]] the target.

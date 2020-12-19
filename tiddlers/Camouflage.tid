@@ -1,10 +1,12 @@
 created: 20201031152143071
+feat-archadd: Scout
+feat-archlevel: 12
 feat-class: Ranger
 feat-level: 10
 feat-skill: Stealth
 feat-spre: M
 mod-sneak: Can sneak while observed in natural terrain.
-modified: 20201031152234614
+modified: 20201219145047860
 tags: Feat Class Ranger
 title: Camouflage
 type: text/vnd.tiddlywiki

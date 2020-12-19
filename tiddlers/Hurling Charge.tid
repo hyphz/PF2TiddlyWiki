@@ -1,0 +1,13 @@
+a-actions: 2
+a-subactions: Strike Stride Interact
+created: 20201219165708766
+feat-arch: Viking
+feat-level: 4
+modified: 20201219165759544
+tags: Feat Archetype Action
+title: Hurling Charge
+type: text/vnd.tiddlywiki
+
+You make a ranged [[Strike]] with a thrown weapon you already have in your hand, [[Stride]], and then [[Interact]] to draw another weapon. 
+
+If you are raging, you can add the additional damage with melee weapons you receive from raging to your damage with the thrown weapon.

@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201219175634015
+feat-arch: [[Staff Acrobat]]
+feat-level: 6
+modified: 20201219175728348
+tags: Feat Archetype Uncommon Action Flourish
+title: Staff Sweep
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding your staff.
+
+You sweep your foes away with your staff. 
+
+Roll an [[Athletics]] check to [[Shove]] or [[Trip]], and compare the result to the appropriate DCs of up to two foes, each of whom must be within your reach and no more than 5 feet apart.

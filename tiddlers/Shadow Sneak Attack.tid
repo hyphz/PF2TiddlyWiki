@@ -1,0 +1,13 @@
+created: 20201219154544140
+feat-arch: Shadowdancer
+feat-level: 10
+modified: 20201219154632564
+tags: Feat Archetype
+title: Shadow Sneak Attack
+type: text/vnd.tiddlywiki
+
+You gain the [[Sneak Attack]] class feature, except you deal 1d6 precision damage regardless of your level.
+
+Sneak attack from multiple sources isn’t cumulative. 
+
+If you have sneak attack from more than one source, use only the highest number of dice when you sneak attack rather than adding the amounts together.

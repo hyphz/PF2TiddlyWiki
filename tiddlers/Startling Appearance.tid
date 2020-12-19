@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201219163654152
+feat-arch: Vigilante
+feat-level: 6
+modified: 20201219163820488
+tags: Feat Archetype Emotion Fear Mental Vigilante
+title: Startling Appearance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are completely unnoticed by the target creature.
+
+You can startle foes who are unaware of your presence.
+
+Make a [[Strike]] against your target. That creature is [[Flat-Footed]] against this Strike, as normal //(for being unnoticed)//. 
+
+If your Strike hits, the target remains flat-footed for the rest of your turn and is [[Frightened]] 1 (Frightened 2 on a critical hit).

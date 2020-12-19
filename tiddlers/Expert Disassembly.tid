@@ -1,0 +1,15 @@
+created: 20201219152125588
+feat-arch: Scrounger
+feat-level: 7
+feat-skill: Crafting
+feat-spre: M
+mod-disable_a_device: Use Crafting instead of Thievery.
+mod-pick_a_lock: Use Crafting instead of Thievery.
+modified: 20201219152247250
+tags: Feat Archetype Skill
+title: Expert Disassembly
+type: text/vnd.tiddlywiki
+
+You can apply the same techniques you use to reverse engineer objects to disable them. 
+
+You can use [[Crafting]] instead of [[Thievery]] to [[Disable a Device]] or [[Pick a Lock]].

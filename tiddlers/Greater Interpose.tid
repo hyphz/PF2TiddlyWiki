@@ -1,9 +1,11 @@
 created: 20200905200531104
+feat-archadd: Sentinel
+feat-archlevel: 16
 feat-class: Champion
 feat-fpre: [[Sacrifice Armor]]
 feat-level: 14
 mod-sacrifice_armor: Can use against any effect requiring a Reflex save.
-modified: 20200905200628932
+modified: 20201219152811025
 tags: Class Feat Champion
 title: Greater Interpose
 type: text/vnd.tiddlywiki

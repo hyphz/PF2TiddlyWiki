@@ -1,0 +1,27 @@
+created: 20201219175135711
+feat-arch: [[Staff Acrobat]]
+feat-level: 2
+feat-skill: Acrobatics Athletics
+feat-spre: T
+feat-statpre: Dexterity
+feat-statprel: 16
+mod-balance: Promote successes if using your staff.
+mod-high_jump: +2 circumstance and add 5 foot distance with your staff.
+mod-leap: +2 circumstance and add 5 foot distance with your staff.
+mod-long_jump: +2 circumstance and add 5 foot distance with your staff.
+mod-shove: Can shove with your staff.
+mod-trip: Can trip with your staff.
+modified: 20201219175435099
+tags: Feat Dedication Uncommon
+title: Staff Acrobat Dedication
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' Trained with at least one of the following weapons: staff, bo staff, halfling sling staff, or any weapon in the spear or polearm group (referred to in this archetype as “your staff”)
+
+When you [[High Jump]], [[Leap]], or [[Long Jump]] while wielding your staff, you gain a +2 circumstance bonus to any [[Athletics]] check required and add 5 feet to the distance you can Leap vertically and horizontally. 
+
+You can [[Shove]] and [[Trip]] even if you don’t have a free hand, provided you are wielding your staff. 
+
+Finally, when you roll a success on a check to [[Balance]] while wielding your staff, you get a critical success instead.
+
+<<archetypefeatlist "4 6 8 10 14" "[[Staff Acrobat]]">>
