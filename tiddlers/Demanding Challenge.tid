@@ -1,0 +1,11 @@
+created: 20201222194352928
+feat-arch: [[Firebrand Braggart]]
+feat-fpre: [[Boaster's Challenge]]
+feat-level: 10
+mod-boasters_challenge: Target also takes -1/-2 circumstance to attacks.
+modified: 20201222194458992
+tags: Feat Archetype
+title: Demanding Challenge
+type: text/vnd.tiddlywiki
+
+If your skill check to challenge a foe is a success, the target of your challenge takes a –1 circumstance penalty to attack rolls (or –2 if you critically succeed) until the end of your next turn.

@@ -1,0 +1,23 @@
+created: 20201222212857654
+feat-arch: [[Pathfinder Agent]]
+feat-level: 2
+lore-mention: Pathfinder
+modified: 20201222213028852
+tags: Feat Dedication Uncommon
+title: Pathfinder Agent Dedication
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+Your Pathfinder training has broadened your horizons and made you more flexible at various skills, since you never know when you might need an obscure skill to complete your mission. 
+
+You become trained in one skill of your choice, or expert in a skill of your choice in which you were trained. 
+
+You also become trained in Pathfinder [[Lore]], or an expert if you were already trained. 
+
+When using a skill untrained, your proficiency bonus is equal to your level instead of 0. 
+
+You gain access to [[Wayfinder]]s.
+
+
+<<archetypefeatlist "4" "[[Pathfinder Agent]]">>

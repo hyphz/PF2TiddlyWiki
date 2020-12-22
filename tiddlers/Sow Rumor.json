@@ -1,0 +1,20 @@
+[
+    {
+        "created": "20201222195913351",
+        "text": "You spread rumors, which may or may not be true, about a specific subject. \n\nIf the subject of your rumor is not currently the subject of any contradictory rumors, this takes as long as it would normally take you to [[Gather Information]] (typically 2 hours), at the end of which the GM rolls a secret [[Deception]] check to see how well you spread the rumor. \n\nIf your rumor matches any current rumors about the subject, it takes less time to spread the rumor, and if you are attempting to overtake a particularly popular and contradictory rumor, it takes much longer or may be impossible.\n\nThe DC similarly increases or decreases depending on how plausible your rumor is.\n\n{{||ActionSuccessTable}}\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Sow Rumor",
+        "tags": "Feat General Uncommon Skill Secret Action",
+        "modified": "20201222200145723",
+        "feat-level": "2",
+        "feat-skill": "Deception",
+        "feat-spre": "E",
+        "a-time": "2 hours",
+        "a-crit": " Your rumor spreads like wildfire. Anyone who succeeds at a check to [[Gather Information]] on the specific subject learns your rumor in preference to other rumors about the subject. Your rumor persists for 1 month.",
+        "a-hit": "You successfully spread the rumor. Anyone who succeeds at a check to Gather Information on the specific subject adds your rumor to the list of rumors they could learn about the subject. Your rumor persists for 1 week.",
+        "a-fail": "Your rumor dies off, never becoming popular enough for other people to learn it via Gather Information.",
+        "a-fumble": "You are unable to spread a rumor and take a –4 circumstance penalty to Deception checks to Sow Rumors about the same subject within the same region for 1 week. In addition, a rumor spreads about someone trying to spread false rumors about the subject.",
+        "a-skill": "Deception",
+        "modified-by": "Deception"
+    }
+]

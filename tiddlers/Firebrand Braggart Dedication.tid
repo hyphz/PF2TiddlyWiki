@@ -1,0 +1,15 @@
+created: 20201222192720122
+feat-arch: [[Firebrand Braggart]]
+feat-level: 4
+feat-statpre: Charisma
+feat-statprel: 14
+modified: 20201222192905872
+tags: Feat Dedication Uncommon
+title: Firebrand Braggart Dedication
+type: text/vnd.tiddlywiki
+
+//This Dedication has special plot requirements described in the Lost Omens Character Guide.//
+
+You gain [[Boast]].
+
+<<archetypefeatlist "6 8 10 12" "[[Firebrand Braggart]]">>

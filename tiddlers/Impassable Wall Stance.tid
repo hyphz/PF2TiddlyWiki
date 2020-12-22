@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201222201323585
+feat-class: Champion Fighter
+feat-fpre: [[Attack of Opportunity]]
+feat-level: 8
+mod-attack_of_opportunity: Also disrupt move actions on crit.
+modified: 20201222201549735
+tags: Feat Action Champion Fighter Class Uncommon Stance
+title: Impassable Wall Stance
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You refuse to let foes past your guard. 
+
+As long as you are in this stance, when you critically hit with an [[Attack of Opportunity]] triggered by a move action, you disrupt that move action.

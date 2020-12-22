@@ -1,0 +1,13 @@
+created: 20201222215330392
+feat-arch: [[Lastwall Sentry]]
+feat-fpre: [[Necromantic Resistance]]
+feat-level: 8
+modified: 20201222215423078
+modtag-necromancy: Promote successes and fumbles on saves.
+tags: Feat Archetype
+title: Necromantic Tenacity
+type: text/vnd.tiddlywiki
+
+Your training against necromantic effects allows you to escape the worst of their touch. 
+
+If you roll a success on a saving throw against a necromancy effect, you get a critical success instead; if you roll a critical failure on such a save, you get a failure instead.

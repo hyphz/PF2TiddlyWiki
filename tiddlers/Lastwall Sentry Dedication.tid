@@ -1,0 +1,20 @@
+created: 20201222214746453
+feat-arch: [[Lastwall Sentry]]
+feat-fpre: [[Shield Block]]
+feat-level: 2
+lore-mention: Undead
+modified: 20201222214924277
+tags: Feat Dedication Uncommon
+title: Lastwall Sentry Dedication
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You’ve sworn yourself as a sentry for the Knights of Lastwall, the first line of defense against 
+incursions by the Whispering Tyrant throughout Golarion. 
+
+You become trained in [[Athletics]] and in Undead [[Lore]]; if you were already trained, you become an expert instead. 
+
+Finally, you gain the [[Reactive Shield]] fighter feat. 
+
+<<archetypefeatlist "4 6 8 10" "[[Lastwall Sentry]]">>

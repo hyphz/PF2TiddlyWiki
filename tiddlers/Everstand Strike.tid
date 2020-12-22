@@ -1,0 +1,20 @@
+a-actions: 1
+a-subactions: Strike
+created: 20201222201147494
+feat-class: Champion Fighter
+feat-fpre: [[Everstand Stance]]
+feat-level: 4
+modified: 20201222201251855
+tags: Feat Action Champion Fighter Class Uncommon Press
+title: Everstand Strike
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Requirements'' You are wielding a shield in two hands.
+
+Your follow-up blow leaves you an opening to set your shield. 
+
+Make a [[Strike]] with the wielded shield. 
+
+If the Strike hits and deals damage, you also [[Raise your Shield]].

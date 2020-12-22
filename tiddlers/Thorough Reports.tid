@@ -1,0 +1,15 @@
+created: 20201222213259092
+feat-arch: [[Pathfinder Agent]]
+feat-level: 4
+mod-identify_creature: +2 circumstance and an extra fact about creatures you've recalled before.
+mod-recall_knowledge: +2 circumstance and an extra fact about creatures you've recalled before.
+modified: 20201222213417994
+tags: Feat Archetype
+title: Thorough Reports
+type: text/vnd.tiddlywiki
+
+Your reports are thorough and informative, and putting your thoughts to paper helps you retain the information. 
+
+Keep track of each type of creature you successfully identify with [[Recall Knowledge]]. 
+
+When attempting [[Recall Knowledge]] checks against creatures on your list in later encounters, you gain a +2 circumstance bonus, and you learn an additional fact about such creatures on a success.

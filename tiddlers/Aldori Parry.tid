@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201222213852821
+feat-arch: [[Aldori Duelist]]
+feat-level: 4
+modified: 20201222214330099
+tags: Feat Archetype Action
+title: Aldori Parry
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wielding only an Aldori dueling sword and have your other hand or hands free.
+
+You can parry attacks against you with your Aldori dueling sword. 
+
+You gain a +2 circumstance bonus to [[AC]] until the start of your next turn as long as you continue to meet the requirement.
+
+//This is identical to the Fighter/Duelist Feat [[Dueling Parry]] except two levels higher and requiring an Aldori dueling sword.//

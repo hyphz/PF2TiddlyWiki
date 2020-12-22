@@ -1,0 +1,20 @@
+a-actions: 2
+a-defense: Reflex
+a-skill: Acrobatics Athletics
+a-subactions: Stride
+created: 20201222193545124
+feat-arch: [[Firebrand Braggart]]
+feat-level: 6
+feat-skill: Acrobatics Athletics
+feat-spre: T
+modified: 20201222193656883
+modified-by: Acrobatics Athletics Reflex
+tags: Feat Archetype Action
+title: Daring Act
+type: text/vnd.tiddlywiki
+
+You attempt a death-defying maneuver to distract your enemies. 
+
+Select one foe within reach and attempt either an [[Acrobatics]] or [[Athletics]] check against your target’s [[Reflex]] DC. 
+
+If you succeed, you can [[Stride]] up to half your Speed (or up to your full Speed if you critically succeed) without triggering reactions from the target due to your movement, and the target is [[Flat-Footed]] against the next melee attack you attempt against it before the end of your turn.

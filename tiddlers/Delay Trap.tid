@@ -7,7 +7,8 @@ feat-archadd: Archaeologist
 feat-archlevel: 10
 feat-class: Rogue
 feat-level: 8
-modified: 20201017164824670
+modified: 20201222192026156
+modified-by: Thievery
 tags: Feat Class Rogue Action Reaction
 title: Delay Trap
 type: text/vnd.tiddlywiki

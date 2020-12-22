@@ -1,0 +1,14 @@
+created: 20201222214949455
+feat-arch: [[Lastwall Sentry]]
+feat-level: 4
+feat-skill: Perception
+feat-spre: E
+mod-scout: Gives allies +2 circumstance instead of +1.
+modified: 20201222215127929
+tags: Feat Archetype
+title: Eye of Ozem
+type: text/vnd.tiddlywiki
+
+You’ve learned how to spot danger at a distance, allowing you to serve as a sentry with ease. 
+
+You gain a +2 circumstance bonus to initiative rolls when using Perception, and when you’re [[Scout]]ing, you grant your allies a +2 circumstance bonus instead of +1.

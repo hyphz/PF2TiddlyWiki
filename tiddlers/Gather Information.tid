@@ -1,8 +1,9 @@
 a-fumble: You collect incorrect information about the individual or topic.
 a-hit: You collect information about the individual or topic. The GM determines the specifics.
 a-skill: Diplomacy
+a-time: 2 hours
 created: 20200705232609010
-modified: 20200725141709657
+modified: 20201222200426031
 modified-by: Diplomacy
 tags: Action Exploration Secret
 title: Gather Information

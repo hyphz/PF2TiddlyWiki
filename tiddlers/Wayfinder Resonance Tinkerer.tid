@@ -1,0 +1,13 @@
+created: 20201222213425882
+feat-arch: [[Pathfinder Agent]]
+feat-level: 4
+modified: 20201222213514200
+tags: Feat Archetype
+title: Wayfinder Resonance Tinkerer
+type: text/vnd.tiddlywiki
+
+You can use the unusual resonance of your wayfinder to grant it additional effects. 
+
+Choose one cantrip from the arcane, divine, occult, or primal list. You can activate your wayfinder to cast that cantrip at will. 
+
+Additionally, you can Activate your wayfinder with a {{OneAction}} (envision) activation to transform it into a nondescript pin or brooch to hide your affiliation with the Pathfinder Society. This transformation lasts for 1 hour.

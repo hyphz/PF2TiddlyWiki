@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20201222200929023
+feat-class: Champion Fighter
+feat-level: 1
+mod-shield_block: Increase shield Hardness by 2.
+modified: 20201222201141160
+tags: Feat Action Champion Fighter Stance Class Uncommon
+title: Everstand Stance
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Requirements'' You are wielding a shield.
+
+You brace your shield with both hands, enhancing its potential for both offense and defense. 
+
+When in this stance, you wield the shield with both hands. 
+
+When wielding a shield this way, increase the weapon damage die of the shield’s boss or spikes by one step, and increase the shield’s Hardness by 2 when using the [[Shield Block]] reaction.

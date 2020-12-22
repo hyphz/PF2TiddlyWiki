@@ -1,0 +1,15 @@
+created: 20201222214554460
+feat-arch: [[Aldori Duelist]]
+feat-level: 10
+modified: 20201222214632708
+tags: Feat Archetype Action Reaction
+title: Saving Slash
+type: text/vnd.tiddlywiki
+
+''Trigger'' An opponent critically hits you with a melee attack.
+
+You quickly whirl your blade, trying to deflect enough momentum to avoid the worst of the attack. 
+
+Attempt a DC 16 flat check. 
+
+If you succeed, the attack becomes a normal hit, instead of a critical hit.

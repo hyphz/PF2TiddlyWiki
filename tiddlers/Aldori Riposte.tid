@@ -1,0 +1,18 @@
+created: 20201222214103427
+feat-arch: [[Aldori Duelist]]
+feat-fpre: [[Aldori Parry]]
+feat-level: 6
+modified: 20201222214348774
+tags: Feat Archetype Action Reaction
+title: Aldori Riposte
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are benefiting from Aldori Parry.
+
+''Trigger'' An opponent within your reach critically fails a Strike against you.
+
+You riposte with your Aldori dueling sword when your enemy leaves an opening. 
+
+Make a melee [[Strike]] or use a [[Disarm]] action against the triggering opponent using your Aldori dueling sword.
+
+//This is identical to the Fighter/Duelist feat [[Dueling Riposte]] except two levels lower and except for the requirement to use an Aldori dueling sword.//

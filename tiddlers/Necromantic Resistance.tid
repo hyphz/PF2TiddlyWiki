@@ -1,0 +1,12 @@
+created: 20201222215143495
+feat-arch: [[Lastwall Sentry]]
+feat-level: 4
+modified: 20201222215218669
+modtag-necromancy: +1 circumstance to saves.
+tags: Feat Archetype
+title: Necromantic Resistance
+type: text/vnd.tiddlywiki
+
+As part of your training, you’ve inured yourself against necromancy through repeated exposure. 
+
+You gain a +1 circumstance bonus to saves against <<tag Necromancy>> effects and gain resistance to negative damage equal to half your level.

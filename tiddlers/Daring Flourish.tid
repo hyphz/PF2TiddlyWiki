@@ -1,0 +1,16 @@
+created: 20201222194203285
+feat-arch: [[Firebrand Braggart]]
+feat-fpre: [[Daring Act]]
+feat-level: 10
+mod-daring_act: Strike or Disarm as part of daring act.
+modified: 20201222194305170
+tags: Feat Archetype
+title: Daring Flourish
+type: text/vnd.tiddlywiki
+
+You make quick use of an opening from your daring stunts. 
+
+At the end of a successful [[Daring Act]], you can make a melee [[Strike]] against the target or
+attempt to [[Disarm]] the target. 
+
+The target is [[Flat-Footed]] against the Strike you make during Daring Act as well as the next melee attack you attempt against it before the end of your turn.

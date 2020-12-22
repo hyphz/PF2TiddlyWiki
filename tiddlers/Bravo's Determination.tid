@@ -1,0 +1,25 @@
+a-skill: Deception
+created: 20201222193737482
+feat-arch: [[Firebrand Braggart]]
+feat-level: 8
+feat-skill: Deception
+feat-spre: E
+modified: 20201222193940070
+modified-by: Deception
+tags: Feat Archetype Action Reaction
+title: Bravo's Determination
+type: text/vnd.tiddlywiki
+
+''Trigger'' A foe’s Strike reduces you to 0 Hit Points; you were not at 1 Hit Point and you would not be killed.
+
+Your confidence borders on self-delusion, but it keeps you going against overwhelming odds. 
+
+Attempt a [[Deception]] check against the attack DC of the triggering Strike. 
+
+You take a penalty to this check equal to twice your [[Wounded]] value, if any. 
+
+If the triggering attack was a critical hit, use the result one degree of success worse than what you rolled.
+
+//On a succeess,// you avoid being knocked out and remain at 1 Hit Point.
+
+//If you didn't get a critical success,// you increase your wounded value by 1.

@@ -1,0 +1,20 @@
+created: 20201222213654060
+feat-arch: [[Aldori Duelist]]
+feat-level: 2
+lore-mention: Dueling
+modified: 20201222213810779
+tags: Feat Dedication Uncommon
+title: Aldori Duelist Dedication
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. 
+
+You become trained in your choice of [[Acrobatics]] or [[Athletics]] and in Dueling [[Lore]]; if you were already trained, you become an expert instead. 
+
+Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with Aldori dueling swords. 
+
+You gain access to [[Aldori dueling swords]].
+
+<<archetypefeatlist "4 6 10" "[[Aldori Duelist]]">>
