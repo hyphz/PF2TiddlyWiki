@@ -1,0 +1,22 @@
+created: 20201226173719205
+feat-arch: [[Knight Vigilant]]
+feat-level: 6
+feat-skill: Survival Stealth
+feat-spre: T
+mod-fortitude: Promote successes vs undead.
+mod-reflex: Promote successes vs undead.
+mod-will: Promote successes vs undead.
+modified: 20201226173944172
+tags: Feat Dedication Uncommon
+title: Knight Reclaimant Dedication
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You have sworn the Crimson Oath and become a full member of the Crimson Reclaimers. 
+
+You gain expert proficiency in [[Stealth]] and [[Survival]]. 
+
+Whenever you roll a success on a saving throw against an undead’s special ability, you get a critical success instead. This applies to any abilities that come from being undead, including an undead’s innate spells (but not its prepared or spontaneous spells).
+
+<<archetypefeatlist "8 12" "[[Knight Reclaimant]]">>

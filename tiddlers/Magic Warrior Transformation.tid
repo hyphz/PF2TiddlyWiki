@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226153356310
+feat-arch: [[Magic Warrior]]
+feat-level: 4
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 2
+m-range: 
+m-save: 
+m-targets: Self
+m-time: 
+modified: 20201226153454106
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Transmutation Archetype Feat Polymorph
+title: Magic Warrior Transformation
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transform into the animal from your mask. 
+
+You gain the effects of [[Animal Form]], heightened to magic warrior transformation’s level, and you can transform into only the type of animal your mask represents.

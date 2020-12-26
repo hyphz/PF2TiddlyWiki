@@ -1,0 +1,22 @@
+created: 20201226172415684
+feat-arch: [[Knight Vigilant]]
+feat-level: 6
+feat-skill: Religion
+feat-spre: T
+mod-cover: Obstructing an ally gives cover, not lesser cover.
+modified: 20201226172613717
+tags: Feat Dedication Uncommon
+title: Knight Vigilant Dedication
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+//The book calls this feat just "Knight Vigilant", omitting the word Dedication.//
+
+You are dedicated to the cause of the Shining Sentinels. 
+
+You gain expert proficiency in [[Religion]]. 
+
+When you are between an ally and a foe and would provide lesser cover to your ally against the foe’s attacks, you twist to become even more obtrusive, providing standard cover instead.
+
+<<archetypefeatlist "8 10 12" "[[Knight Vigilant]]">>

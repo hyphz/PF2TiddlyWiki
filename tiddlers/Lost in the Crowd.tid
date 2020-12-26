@@ -1,0 +1,15 @@
+created: 20201226155851407
+feat-arch: [[Lion Blade]]
+feat-level: 4
+mod-hide: Can hide in a crowd with varying circumstance bonus.
+mod-sneak: Can sneak in a crowd with varying circumstance bonus.
+modified: 20201226155954953
+tags: Feat Archetype
+title: Lost in the Crowd
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You’ve learned how to move as one with crowds and hide among them, vanishing into a busy street in the blink of an eye. 
+
+You move at full Speed in crowds and can use cover from crowds to [[Hide]] and [[Sneak]], gaining a +2 circumstance bonus on your [[Stealth]] checks when in a crowd of at least 10 creatures and a +4 circumstance bonus on your [[Stealth]] checks when in a crowd of at least 100 creatures.

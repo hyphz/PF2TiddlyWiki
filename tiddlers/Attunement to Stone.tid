@@ -1,0 +1,15 @@
+created: 20201226144947153
+feat-arch: [[Living Monolith]]
+feat-fpre: [[Ka Stone Ritual]]
+feat-level: 10
+mod-ka_stone_ritual: Ka Stone can cast Meld into Stone.
+modified: 20201226145059212
+tags: Feat Archetype
+title: Attunement to Stone
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You become attuned to the stone around you. 
+
+When in contact with a stone surface, you gain [[Tremorsense]] ([[Imprecise]]) 5 feet along that surface, and you can activate your ka stone to cast [[Meld into Stone]].

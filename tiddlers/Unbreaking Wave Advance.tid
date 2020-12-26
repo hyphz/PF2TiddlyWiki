@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226151809538
+m-area: 15-foot [[Cone]]
+m-components: Verbal
+m-domain: 
+m-duration: 2 rounds
+m-level: 3
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20201226152016550
+s-crit: 
+s-fail: The creature is pushed 10 feet.
+s-fumble: The creature is pushed 20 feet.
+s-hit: The creature is unaffected.
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation Water
+title: Unbreaking Wave Advance
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You unleash a mighty wave from your hand that buffets back your foes. 
+
+Each creature in the area must attempt a [[Fortitude]] saving throw. 
+
+If a creature pushed by unbreaking wave advance would be pushed into a solid barrier or another creature, it stops at that point and takes 3d6 damage.
+
+''Heightened (+1)'' The damage for pushing a creature into a solid barrier increases by 1d6.
+
+{{||SaveSuccessTable}}

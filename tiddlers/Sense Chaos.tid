@@ -1,0 +1,19 @@
+created: 20201226165822663
+feat-arch: Hellknight
+feat-level: 8
+modified: 20201226165946139
+tags: Feat Archetype
+title: Sense Chaos
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You sense chaos as an unsettling feeling of nervous energy. 
+
+When in the presence of an aura of chaos that is powerful or overwhelming (see [[Detect Alignment]]), you eventually detect the aura, though you might not do so instantly and you can’t pinpoint the location. 
+
+This is a [[Vague]] sense, similar to humans’ sense of smell. 
+
+A chaotic creature using a disguise or otherwise trying to hide its presence attempts a [[Deception]] check against your [[Perception]] DC to hide its aura from you. 
+
+If the creature succeeds at its Deception check, it is temporarily immune to your Sense Chaos for 1 day.

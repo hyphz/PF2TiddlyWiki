@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226171748315
+feat-class: Champion
+feat-level: 4
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 2
+m-range: 60 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20201226172339728
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Fire Light Positive Champion Class Feat
+title: Sun Blade
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+{{LOCGFeat}}
+
+You fire a ray of burning sunlight from your weapon. You must be wielding a sword or spear to cast sun blade, and you perform this spell’s somatic component with the weapon. 
+
+Make a spell attack roll. The spell deals double damage on a critical hit. //As written, the spell also deals full damage on a non-critical miss!//
+
+The ray deals 1d4 fire damage. If the target is evil, the ray deals an additional 1d4 good damage, and if the target is undead, the ray deals an additional 1d4 positive damage (both effects apply against creatures that are both evil and undead). 
+
+If you are in an area of bright natural sunlight, increase the die size of each damage die by one step (from d4 to d6).
+
+''Heightened (+1)'' The damage increases by 1d4 fire, 1d4 good, and 1d4 positive (or 1d6 of each type of damage in bright natural sunlight).

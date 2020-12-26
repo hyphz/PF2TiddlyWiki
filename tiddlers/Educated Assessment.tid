@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20201226175340938
+feat-arch: [[Pathfinder Agent]]
+feat-level: 12
+modified: 20201226175440886
+tags: Feat Archetype Uncommon Action Secret
+title: Educated Assessment
+type: text/vnd.tiddlywiki
+
+You attempt to [[Recall Knowledge]] about a creature, and the GM uses the same secret roll result against the creature’s [[Deception]] or [[Stealth]] DC, giving you the information from a [[Battle Assessment]]. 
+
+You might get a different degree of success on the Recall Knowledge check than what you get for the Battle Assessment. 
+
+If you have the [[Battle Assessment]] feat, you gain the effects of Educated Assessment whenever you Recall Knowledge (such as with the [[Automatic Knowledge]] feat).

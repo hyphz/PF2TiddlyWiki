@@ -1,5 +1,5 @@
 created: 20200828232501110
-modified: 20200828233958541
+modified: 20201226161655357
 tags: Heritage Versatile
 title: Half-Orc
 type: text/vnd.tiddlywiki
@@ -10,11 +10,5 @@ You gain the <<tag Orc>> trait and [[Low‑Light Vision]].
 
 In addition, you can select <<tag Orc>>, <<tag Half‑Orc>>, and <<tag Human>> feats whenever you gain an ancestry feat.
 
-<$list filter="1 5 9 13 17" variable="level">
-<h3>Level <<level>> {{!!title}} Feats</h3>
-<ul>
-<$list filter="[tag[Feat]field:feat-anc[Orc]field:feat-level<level>sort[]] [tag[Feat]field:feat-vher[Half-Orc]field:feat-level<level>sort[]]">
-<li><$link/></li>
-</$list>
-</ul>
-</$list>
+<<levelfeatlist "1 5 9 13 17" "[tag[Feat]field:feat-anc[Orc]] [tag[Feat]field:feat-vher[Half-Orc]]">>
+

@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226152256481
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20201226152339696
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration
+title: Untwisting Iron Buffer
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send currents of protective ki to the surface of your body that protect you from harm, at least until your enemies dissipate them.
+
+You gain 15 temporary Hit Points, which last for up to 3 rounds. 
+
+''Heightened (+1)'' The temporary Hit Points increase by 5.

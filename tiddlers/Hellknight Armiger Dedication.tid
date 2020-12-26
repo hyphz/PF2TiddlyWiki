@@ -1,0 +1,22 @@
+created: 20201226153711616
+feat-arch: [[Hellknight Armiger]]
+feat-level: 2
+lore-mention: Hell
+modified: 20201226162418756
+tags: Feat Dedication Uncommon
+title: Hellknight Armiger Dedication
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+''Prerequisites'' trained in heavy armor as well as your order’s favored weapon.
+
+Your Hellknight training teaches you to terrorize others into compliance, but you also study the structure and hierarchy of Hell. You must survive painful tests of your body and mind called reckonings, which steady your mind against all sorts of trauma. 
+
+You gain resistance to mental damage equal to 1 + your number of class feats from the Hellknight Armiger archetype and other Hellknight archetypes. 
+
+You become trained in [[Intimidation]] and Hell [[Lore]]; if you were already trained, you become an expert instead.
+
+''Special'' //You can take dedication feats for higher positions within the Hellknights even before gaining two other feats from this archetype.//
+
+<<archetypefeatlist "4 8 12" "[[Hellknight Armiger]]">>

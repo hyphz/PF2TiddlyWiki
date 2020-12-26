@@ -1,0 +1,16 @@
+created: 20201226174746919
+feat-arch: [[Pathfinder Agent]]
+feat-level: 6
+feat-skill: Athletics
+feat-spre: E
+mod-force_open: No penalty for not having a crowbar, and promote successes.
+modified: 20201226174954257
+tags: Feat Archetype Uncommon Skill
+title: Forced Entry
+type: text/vnd.tiddlywiki
+
+You are trained to preserve the archaeological value of your location when entering. 
+
+You don’t take a penalty to [[Force Open]] doors, windows, or containers without a crowbar. 
+
+If you roll a success on a check to Force Open, you get a critical success instead.

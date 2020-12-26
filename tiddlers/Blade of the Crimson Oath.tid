@@ -1,0 +1,14 @@
+a-actions: 2
+created: 20201226174403945
+feat-arch: [[Knight Reclaimant]]
+feat-level: 12
+modified: 20201226174445966
+tags: Feat Archetype Action
+title: Blade of the Crimson Oath
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You call upon the Crimson Oath to smite undead and then make a weapon or unarmed [[Strike]] against an undead foe. 
+
+The Strike deals two extra weapon damage dice, and you can convert all the physical damage from the attack into positive damage.

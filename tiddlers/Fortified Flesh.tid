@@ -1,0 +1,14 @@
+created: 20201226144909718
+feat-arch: [[Living Monolith]]
+feat-fpre: [[Ka Stone Ritual]]
+feat-level: 8
+modified: 20201226144934805
+tags: Feat Archetype
+title: Fortified Flesh
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+Your flesh takes on the hardness of stone. 
+
+You gain resistance to physical damage (except adamantine) equal to your number of class feats from the Living Monolith archetype.

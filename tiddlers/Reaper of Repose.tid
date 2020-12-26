@@ -1,0 +1,15 @@
+created: 20201226174316504
+feat-arch: [[Knight Reclaimant]]
+feat-level: 12
+modified: 20201226174350585
+tags: Feat Archetype
+title: Reaper of Repose
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' Master proficiency in a weapon
+
+Your skill and fervor allow you to pierce undead defenses and exploit their weaknesses. 
+
+When you make an attack using a weapon with which you have master proficiency and hit an undead creature, you ignore 5 points of the creature’s resistances, and the undead’s weaknesses are 2 higher against your attack.

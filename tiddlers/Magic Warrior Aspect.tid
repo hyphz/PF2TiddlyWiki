@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226153130726
+feat-arch: [[Magic Warrior]]
+feat-level: 4
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 5 minutes
+m-level: 2
+m-range: 
+m-save: 
+m-targets: Self
+m-time: 
+modified: 20201226153340107
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Transmutation Archetype Feat
+title: Magic Warrior Aspect
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon the aspect of the animal from your mask, gaining physical features reminiscent of that animal. 
+
+You morph slightly into that creature, gaining the Speeds and senses you would gain from using [[Animal Form]] to turn into the type of animal your mask represents; these special Speeds can’t be increased by status bonuses or item bonuses.

@@ -1,0 +1,22 @@
+a-actions: 2
+created: 20201226173224671
+feat-arch: [[Knight Vigilant]]
+feat-fpre: [[Shield Block]]
+feat-level: 12
+feat-skill: Religion
+feat-spre: M
+modified: 20201226173501821
+tags: Feat Archetype Action
+title: Aegis of Arnisant
+type: text/vnd.tiddlywiki
+virtual-tags: Manipulate
+
+{{LOCGFeat}}
+
+''Requirements'' You are wielding a shield.
+
+Inspired by the tale of Arnisant, you transform your shield into a magic ward. 
+
+Until the beginning of your next turn, you gain the following reaction:
+
+Absorb into the Aegis {{ReactionIcon}} <<tag Manipulate>> ''Trigger'' An enemy casts a spell that targets you or an ally within 15 feet of you; ''Effect'' You interpose your shield’s ward against the spell. Attempt a [[Counteract]] check, using your [[Religion]] modifier as your counteract modifier. On a success, the spell is counteracted and your shield takes damage equal to four times the spell level as it absorbs and disperses the magical energy. On a failure, the shield takes damage equal to twice the spell’s level.

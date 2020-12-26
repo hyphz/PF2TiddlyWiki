@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226150353698
+feat-arch: [[Red Mantis Assassin]]
+feat-level: 8
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: Self
+m-time: 
+modified: 20201226150536823
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Polymorph Transmutation Feat Archetype
+title: Mantis Form
+type: text/vnd.tiddlywiki
+
+You become a mantis. 
+
+You gain the effects of [[Insect Form]], heightened to mantis form’s level, and you can only transform into a mantis.

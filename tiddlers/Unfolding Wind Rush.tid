@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226152038570
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20201226152205337
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation
+title: Unfolding Wind Rush
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You travel on a rushing wind. 
+
+Move two times: two [[Stride]]s, two [[Step]]s, or one Stride and one Step (in either order). 
+
+You can Stride or Step into the air during this movement, moving upward at a 45-degree angle at most; if you end your movement in the air, you fall after taking one action or when your turn ends, whichever comes first. 
+
+A [[Wall of Wind]] appears in all the spaces you left during this movement, lasting for 1 round.
+
+''Heightened (5th)'' The wall of wind lasts 3 rounds.

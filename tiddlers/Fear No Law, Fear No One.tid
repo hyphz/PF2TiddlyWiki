@@ -1,0 +1,13 @@
+created: 20201226163553414
+mod-frightened: Reduce initial condition by 1.
+modified: 20201226163641226
+modtag-fear: Promote successes on saves.
+tags: Ability
+title: Fear No Law, Fear No One
+type: text/vnd.tiddlywiki
+
+When you roll a success on a save against a <<tag Fear>> effect, you get a critical success instead. 
+
+In addition, any time you gain the [[Frightened]] condition, reduce the condition’s value by 1. 
+
+As usual, this ability reduces the initial frightened condition by 1, so if you have multiple similar abilities, they don’t both take effect.

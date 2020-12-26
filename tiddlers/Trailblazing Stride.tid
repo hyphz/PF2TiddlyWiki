@@ -1,0 +1,10 @@
+created: 20201226163302417
+mod-difficult_terrain: Ignore non-magical on land.
+modified: 20201226163330242
+tags: Ability
+title: Trailblazing Stride
+type: text/vnd.tiddlywiki
+
+You are used to moving through the wilderness. 
+
+While moving on land, you ignore the effects of non-magical [[Difficult Terrain]].

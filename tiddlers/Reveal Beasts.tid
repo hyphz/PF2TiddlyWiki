@@ -1,0 +1,12 @@
+created: 20201226164733739
+mod-recall_knowledge: Promote successes to identify animals and beasts and gain damage bonus on success.
+modified: 20201226164839093
+tags: Ability
+title: Reveal Beasts
+type: text/vnd.tiddlywiki
+
+You are adept at revealing—or creating—weaknesses among those who are a threat to civilization. 
+
+If you roll a success on a check to [[Recall Knowledge]] to identify an animal or a beast, you get a critical success instead. 
+
+The next time you damage that creature, it gains weakness 5 during that attack to one damage type of your choice that you dealt it.

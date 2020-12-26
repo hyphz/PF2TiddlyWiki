@@ -2,7 +2,7 @@ created: 20201222212857654
 feat-arch: [[Pathfinder Agent]]
 feat-level: 2
 lore-mention: Pathfinder
-modified: 20201222213028852
+modified: 20201226175007726
 tags: Feat Dedication Uncommon
 title: Pathfinder Agent Dedication
 type: text/vnd.tiddlywiki
@@ -20,4 +20,4 @@ When using a skill untrained, your proficiency bonus is equal to your level inst
 You gain access to [[Wayfinder]]s.
 
 
-<<archetypefeatlist "4" "[[Pathfinder Agent]]">>
+<<archetypefeatlist "4 6 8 10 12" "[[Pathfinder Agent]]">>

@@ -1,0 +1,25 @@
+created: 20201226170243220
+feat-arch: [[Hellknight Signifier]]
+feat-fpre: [[Hellknight Armiger Dedication]]
+feat-level: 6
+mod-intimidation: +1 circumstance when wearing your mask.
+mod-lie: +1 circumstance when wearing your mask.
+mod-sense_motive: +1 circumstance to DC when wearing your mask.
+modified: 20201226171036346
+tags: Feat Dedication Uncommon
+title: Hellknight Signifier Dedication
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' spellcasting class feature, lawful alignment.
+
+You have bolstered your force of will with the power of the Measure and the Chain. Upon initiation, you receive a signifer mask, often devoid of eyeholes or other decorative features. The mask doesn’t obscure your vision, though it makes it impossible for others to see your eyes. 
+
+While wearing your signifer’s mask, you gain +1 circumstance bonus to [[Deception]] checks to [[Lie]], [[Intimidation]] checks, and [[Deception]] DCs against [[Sense Motive]]. 
+
+You gain expert proficiency in [[Intimidation]] (or in another skill in which you’re trained of your choice, if you were already an expert in Intimidation) as well as in your choice of [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]].
+
+''Special'' //You can select these dedication feats even if you haven't yet gained two feats from [[Hellknight Armiger Dedication]]. You can't select [[Hellknight Dedication]] as well as this. You can take [[Advanced Order Training]] or [[Hellknight Order Cross-Training]] as feats within this archetype.//
+
+<<archetypefeatlist "8 10 12" "[[Hellknight Signifier]]">>

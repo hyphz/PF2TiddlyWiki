@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20201226151527145
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 2 rounds
+m-level: 3
+m-range: 
+m-save: 
+m-targets: The creature you hit
+m-time: 
+modified: 20201226151833389
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration
+title: Unblinking Flame Revelation
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Requirements'' Your previous action was a successful unarmed Strike.
+
+You light your foe with revealing flame. 
+
+The GM attempts a secret [[Counteract]] check against each illusion affecting the creature; on a success, you suppress the illusion for the duration, rather than end the effect.

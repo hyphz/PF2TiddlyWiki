@@ -1,0 +1,15 @@
+created: 20201226145342880
+feat-arch: [[Living Monolith]]
+feat-fpre: [[Ka Stone Ritual]]
+feat-level: 14
+mod-ka_stone_ritual: Ka Stone can cast Stone Tell.
+modified: 20201226145418959
+tags: Feat Archetype
+title: Stone Communion
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You gain a unique communion with the earth and stones. 
+
+You learn the Terran language and you can Activate your ka stone with a 10-minute activation (envision) to cast [[Stone Tell]].

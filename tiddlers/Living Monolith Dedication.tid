@@ -1,0 +1,21 @@
+created: 20201226143839473
+feat-arch: [[Living Monolith]]
+feat-level: 2
+feat-skill: Crafting
+feat-spre: T
+lore-mention: [[Ancient Osirion]]
+mod-dying: Increase dying only by 1 on fumble.
+modified: 20201226144354527
+tags: Feat Dedication Uncommon
+title: Living Monolith Dedication
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You’ve begun to inscribe a magical stone called a ka stone that you will some day tie to your soul. You gain knowledge of Ancient Osirion and a connection to your nascent ka stone. 
+
+If you fail a recovery check while [[Dying]], your dying condition does not increase; if you critically fail, your dying condition increases by only 1. 
+
+You become trained in Ancient Osirion [[Lore]], or expert if you were already trained.
+
+<<archetypefeatlist "4 6 8 10 12 14" "[[Living Monolith]]">>

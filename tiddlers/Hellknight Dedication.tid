@@ -1,0 +1,24 @@
+created: 20201226165316755
+feat-arch: [[Hellknight]]
+feat-fpre: [[Hellknight Armiger Dedication]]
+feat-level: 6
+modified: 20201226165702725
+tags: Feat Dedication Uncommon
+title: Hellknight Dedication
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' Lawful alignment.
+
+You have forged your body to comply with the commands of your mind—orders steeped in the Measure and the Chain. 
+
+You gain expert proficiency in [[Intimidation]] (or in another skill in which you’re trained of your choice, if you were already an expert in Intimidation). 
+
+You gain the armor specialization effects of Hellknight plate, and your resistance from that armor specialization is 1 higher than normal. 
+
+In addition, you gain a +1 circumstance bonus to Intimidation checks while wearing your Hellknight plate.
+
+''Special'' //You can select these dedication feats even if you haven't yet gained two feats from [[Hellknight Armiger Dedication]]. You can't select [[Hellknight Signifier Dedication]] as well as this. You can take [[Advanced Order Training]] or [[Hellknight Order Cross-Training]] as feats within this archetype.//
+
+<<archetypefeatlist "8 12" "[[Hellknight]]">>

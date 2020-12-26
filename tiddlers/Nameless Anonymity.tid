@@ -1,0 +1,13 @@
+created: 20201226153513595
+feat-arch: [[Magic Warrior]]
+feat-level: 6
+modified: 20201226153550470
+tags: Feat Archetype
+title: Nameless Anonymity
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+Your mask protects you further from divination. 
+
+Once per day, you can cast [[Nondetection]] on yourself, heightened to the highest level of spell you can cast; the spell ends immediately if your mask is removed for even a moment.

@@ -1,0 +1,17 @@
+created: 20201226170851627
+feat-arch: [[Hellknight Signifier]]
+feat-level: 10
+modified: 20201226170939513
+tags: Feat Archetype
+title: Gaze of Veracity
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' Ability to cast focus spells.
+
+You can channel your mask’s power to pierce through lies and see the truth in any situation. 
+
+Increase the number of Focus Points in your focus pool by 1. 
+
+While wearing your mask, you can cast the [[Glimpse the Truth]] cleric domain spell as a divine focus spell.

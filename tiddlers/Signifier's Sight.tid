@@ -1,0 +1,16 @@
+created: 20201226171054866
+feat-arch: [[Hellknight Signifier]]
+feat-level: 10
+mod-concealed: If target concealed by dazzling, flat check is 3.
+modified: 20201226171149351
+tags: Feat Archetype
+title: Signifier's Sight
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+The magic flowing through your signifer’s mask allows you to see in the dark, and the mask dampens the distraction caused by sudden flashes of bright light. 
+
+While wearing your signifer’s mask, you gain [[Darkvision]]. 
+
+Additionally, if you are [[Dazzled]] while wearing your signifer’s mask and the target is [[Concealed]] only because you are dazzled, you reduce the flat check DC to target that creature from 5 to 3.

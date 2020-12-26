@@ -1,0 +1,27 @@
+created: 20201226145803495
+feat-arch: [[Red Mantis Assassin]]
+feat-level: 4
+feat-skill: Religion
+feat-spre: T
+modified: 20201226150038299
+tags: Feat Archetype
+title: Basic Red Mantis Magic
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You have learned limited divine magic from your Red Mantis training. 
+
+You gain the [[Cast a Spell]] activity. 
+
+You’re a prepared spellcaster,able to prepare two cantrips and one 1st-level spell each day. You prepare these spells from a Red Mantis assassin spellbook, similar to a wizard’s, containing three cantrips and two 1st-level spells.
+
+All the spells in your Red Mantis assassin spellbook, from this and later feats, must be either <<tag Transmutation>> or <<tag Illusion>> spells from the arcane spell list or a spell from the following list: [[Clairaudience]], [[Clairvoyance]], [[Darkness]], [[Dimension Door]], [[Modify Memory]], [[Obscuring Mist]], [[Paralyze]], [[See Invisibility]], [[True Strike]]. 
+
+Regardless of their usual magical tradition, your Red Mantis assassin spells are divine spells, as are any Red Mantis focus spells you gain. 
+
+You can prepare two cantrips and one 1st-level spell each day from those found in your Red Mantis assassin spellbook. 
+
+You’re trained in spell attack rolls and spell DCs for casting divine spells. 
+
+Your key spellcasting ability for these spells is [[Charisma]].

@@ -1,0 +1,17 @@
+created: 20201226175014883
+feat-arch: [[Pathfinder Agent]]
+feat-level: 8
+modified: 20201226175203780
+tags: Feat Archetype Uncommon Skill Action Free
+title: Recognize Threat
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' master in a Recall Knowledge skill
+
+''Trigger'' Your first turn of an encounter begins, and you can see a creature.
+
+''Requirements'' You have master proficiency in a skill to identify the triggering creature.
+
+You quickly assess the threat so you can relay the information to your team. 
+
+Attempt a [[Recall Knowledge]] check against the triggering creature.

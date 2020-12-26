@@ -1,0 +1,14 @@
+created: 20201226163423194
+mod-perception: Promote fumbles and successes to disbelieve illusions.
+modified: 20201226163535089
+modtag-dream: Promote fumbles and successes on saves.
+modtag-illusion: Promote fumbles and successes on saves.
+tags: Ability
+title: Disillusionment
+type: text/vnd.tiddlywiki
+
+Dreams are pointless illusions you seek to quash. 
+
+If you roll a success on a saving throw against an <<tag Illusion>> or <<tag Dream>> effect or a [[Perception]] check to disbelieve an illusion, you get a critical success instead. 
+
+If you roll a critical failure on any of those checks, you get a failure instead.

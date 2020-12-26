@@ -1,5 +1,5 @@
 created: 20200828231512373
-modified: 20200828232228472
+modified: 20201226161610661
 tags: Heritage Versatile
 title: Half-Elf
 type: text/vnd.tiddlywiki
@@ -10,11 +10,4 @@ You gain the <<tag Elf>> trait and [[Low‑Light Vision]].
 
 In addition, you can select <<tag Elf>>, <<tag Half-Elf>>, and <<tag Human>> feats whenever you gain an ancestry feat.
 
-<$list filter="1 5 9 13 17" variable="level">
-<h3>Level <<level>> {{!!title}} Feats</h3>
-<ul>
-<$list filter="[tag[Feat]field:feat-anc[Elf]field:feat-level<level>sort[]] [tag[Feat]field:feat-vher[Half-Elf]field:feat-level<level>sort[]]">
-<li><$link/></li>
-</$list>
-</ul>
-</$list>
+<<levelfeatlist "1 5 9 13 17" "[tag[Feat]field:feat-anc[Elf]] [tag[Feat]field:feat-vher[Half-Elf]] [tag[Feat]field:feat-anc[Human]]">>

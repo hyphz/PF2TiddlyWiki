@@ -1,0 +1,20 @@
+created: 20201226172645701
+feat-arch: [[Knight Vigilant]]
+feat-level: 8
+mod-fleeing: Can choose to not flee and be stunned.
+modified: 20201226172859644
+modtag-emotion: +1 cricmustance to saves against despair.
+modtag-fear: +1 circumstance to saves.
+tags: Feat Archetype
+title: Unshakable Idealism
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' Expert in [[Will]] saves.
+
+Your faith and hope can’t be shaken, and you won’t flee when lives are at stake. 
+
+You gain a +1 circumstance bonus on saves against fear effects and emotion effects that inflict despair. 
+
+When you would gain the [[Fleeing]] condition, you can choose to stand your ground and be [[Stunned]] for the effect’s duration as well, preventing you from running and allowing you to re-enter the fight more quickly when the effect ends.

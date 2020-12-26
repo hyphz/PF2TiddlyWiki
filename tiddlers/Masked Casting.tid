@@ -1,0 +1,17 @@
+created: 20201226170643084
+feat-arch: [[Hellknight Signifier]]
+feat-level: 8
+modified: 20201226170844230
+tags: Feat Archetype Action Free
+title: Masked Casting
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Trigger'' You begin [[Casting a Spell|Cast a Spell]].
+
+''Requirements'' You are wearing your signifer’s mask.
+
+You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects. 
+
+You [[Avert your Gaze|Avert Gaze]].

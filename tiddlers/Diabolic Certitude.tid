@@ -1,0 +1,17 @@
+created: 20201226154244820
+feat-arch: [[Hellknight Armiger]]
+feat-level: 4
+modified: 20201226154329320
+tags: Feat Archetype Action Free Skill
+title: Diabolic Certitude
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+''Trigger'' Your turn begins and you can observe a devil.
+
+Your Hellknight training drilled details of Hell’s denizens deep into your mind. 
+
+Make an attempt to [[Recall Knowledge]] about a devil you’re observing. 
+
+If you roll a critical failure on this check, you get a failure instead.

@@ -1,0 +1,15 @@
+created: 20201226160007845
+feat-arch: [[Lion Blade]]
+feat-fpre: [[Lost in the Crowd]]
+feat-level: 6
+mod-flanking: Crowds flank with you.
+modified: 20201226160116806
+tags: Feat Archetype
+title: Crowd Mastery
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You use the crowd to your advantage, diverting your foes’ attention to potential hidden dangers in the crowd. 
+
+When determining if your foe is flanked, treat all squares occupied by a crowd as if they were occupied by an ally with a melee reach of 5 feet.

@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20201226160353014
+feat-arch: [[Lion Blade]]
+feat-level: 12
+modified: 20201226160427742
+tags: Feat Archetype Action
+title: Flicker
+type: text/vnd.tiddlywiki
+
+{{LOWGFeat}}
+
+You use your movements and disguises to make yourself a flickering blur. 
+
+You gain [[Concealment]] until your next turn. 
+
+As usual for concealment involving an obvious visual manifestation, you can’t use this concealment to [[Hide]].
