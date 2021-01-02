@@ -1,0 +1,21 @@
+created: 20210102160004129
+feat-arch: Spellmaster
+feat-level: 6
+mod-identify_magic: +2 cricumstance if trained or better in skill.
+mod-wayfinder_resonance_tinkerer: Change cantrip in each day's preparations.
+modified: 20210102160150266
+tags: Feat Dedication Uncommon
+title: Spellmaster Dedication
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+''Prerequisites'' Intelligence, Wisdom, or Charisma 14; ability to cast focus spells.
+
+As a Spellmaster, you are adept at identifying magic. 
+
+You gain a +2 circumstance bonus when you [[Identify Magic]] with a skill in which you are trained or better. 
+
+If you have the [[Wayfinder Resonance Tinkerer]] feat, you can change the cantrip you chose for that feat each day during your daily preparations.
+
+<<archetypefeatlist "8 10 12 14" "[[Spellmaster]]">>

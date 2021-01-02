@@ -1,0 +1,17 @@
+created: 20210102145448401
+feat-arch: [[Magaambyan Attendant]]
+feat-level: 6
+feat-skill: Society
+feat-spre: E
+mod-recall_knowledge: Using Society regarding cultural practices, promote fumbles.
+mod-subsist: Using Society, promote fumbles, successes, and provide extra on crit.
+modified: 20210102145628077
+tags: Feat Archetype Skill
+title: Emerald Boughs Accustomation
+type: text/vnd.tiddlywiki
+
+You are comfortable and socially capable in almost any cultural context. 
+
+When you use the [[Society]] skill to [[Subsist]], if you roll a critical failure, you get a failure instead; if you roll a success, you get a critical success instead; and if you roll a critical success, you can provide for another additional creature. 
+
+Furthermore, when you attempt a [[Society]] check to [[Recall Knowledge]] about cultural practices and roll a critical failure, you get a failure instead.

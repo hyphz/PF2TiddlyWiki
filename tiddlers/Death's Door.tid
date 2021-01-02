@@ -1,0 +1,19 @@
+created: 20210102161647527
+feat-arch: Swordmaster
+feat-level: 14
+modified: 20210102161727001
+tags: Feat Action Archetype Reaction
+title: Death's Door
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per 10 minutes.
+
+''Trigger'' You take damage that would reduce you to 0 Hit Points.
+
+You continue to fight when others would fall. 
+
+Just before taking the triggering damage, you gain temporary Hit Points equal to twice your level. 
+
+If you have Hit Points remaining after gaining these temporary Hit Points, you aren’t knocked unconscious, nor do you suffer the other effects of being reduced to 0 Hit Points. 
+
+Any temporary Hit Points that remain after applying the damage last for up to 4 rounds.

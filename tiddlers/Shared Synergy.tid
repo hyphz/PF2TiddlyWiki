@@ -1,0 +1,11 @@
+created: 20210102152035526
+feat-arch: [[Halcyon Speaker]]
+feat-fpre: [[Dualistic Synergy]]
+feat-level: 10
+mod-dualistic_synergy: Affect an ally within 30 feet.
+modified: 20210102152128239
+tags: Feat Archetype
+title: Shared Synergy
+type: text/vnd.tiddlywiki
+
+You can grant the benefit from [[Dualistic Synergy]] to an ally within 30 feet instead of yourself, either allowing that ally to [[Recall Knowledge]], granting that ally temporary Hit Points, or both, depending on the spell’s tradition.

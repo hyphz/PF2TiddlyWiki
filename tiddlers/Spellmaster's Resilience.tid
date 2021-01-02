@@ -1,0 +1,18 @@
+created: 20210102160610535
+feat-arch: Spellmaster
+feat-level: 12
+mod-fortitude: +1 circumstance vs effects with chosen tradition trait.
+mod-reflex: +1 circumstance vs effects with chosen tradition trait.
+mod-will: +1 circumstance vs effects with chosen tradition trait.
+modified: 20210102160731516
+tags: Feat Archetype
+title: Spellmaster's Resilience
+type: text/vnd.tiddlywiki
+
+Your experience with a specific type of harmful magic makes you more resistant to it. 
+
+Choose a magical tradition (arcane, divine, occult, or primal). 
+
+You gain a +1 circumstance bonus to saving throws against spells and effects with that tradition’s trait and resistance 5 to all damage from spells and effects with that tradition’s trait. 
+
+The effect must have actually been cast or created with that tradition, rather than simply being on that tradition’s spell list.

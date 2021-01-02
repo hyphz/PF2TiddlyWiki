@@ -1,0 +1,25 @@
+created: 20210102144444559
+feat-arch: [[Magaambyan Attendant]]
+feat-level: 2
+feat-skill: Arcana Nature
+feat-spre: T
+modified: 20210102151431852
+tags: Feat Dedication Uncommon
+title: Magaambyan Attendant Dedication
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+You devote much of your study to halcyon magic. 
+
+You gain the ability to cast a single arcane or primal cantrip of your choice, (as is normal for cantrips, it is heightened to a spell level equal to half your level, rounded up). 
+
+If you weren’t already, you become trained in that tradition’s spell DCs and spell attack rolls, with [[Intelligence]] as your spellcasting ability if you choose arcane or [[Wisdom]] as your spellcasting ability if you choose primal.
+
+Regardless of whether you choose an arcane or primal cantrip, you also either become trained in [[Arcana]] or [[Nature]], or an expert in one of those skills in which you were already trained.
+
+When you gain this feat, choose to affiliate with the Cascade Bearers, Emerald Boughs, Rain Scribes, Tempest-Sun Mages, or Uzunjati. This grants you additional feats available to only that branch.
+
+''Special'' //You can select Halcyon Speaker Dedication even if you haven't gained two feats from Magaambyan Attendant.//
+
+<<archetypefeatlist "4 6 10" "[[Magaambyan Attendant]]">>

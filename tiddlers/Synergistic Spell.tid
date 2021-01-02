@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20210102153424119
+feat-arch: [[Halcyon Speaker]]
+feat-fpre: [[Halcyon Spellcasting Initiate]] [[Fulminating Synergy]]
+feat-level: 20
+feat-skill: Arcana Nature
+feat-spre: L
+modified: 20210102153836527
+tags: Feat Archetype Metamagic Action
+title: Synergistic Spell
+type: text/vnd.tiddlywiki
+
+You combine your synergy and spells into a fantastic web of magic, allowing you to cast two spells at once. 
+
+If the next action you use is to [[Cast a Spell]] from one of your halcyon spell slots, after that spell resolves, you can Cast another Spell as a free action. 
+
+This spell must be cast from one of your halcyon spell slots and be a spell that would normally take two actions to cast.

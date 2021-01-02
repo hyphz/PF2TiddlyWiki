@@ -1,0 +1,14 @@
+created: 20210102155716936
+feat-arch: Scrollmaster
+feat-level: 10
+mod-recall_knowledge: Gain extra information on any success.
+modified: 20210102155801587
+tags: Feat Archetype
+title: Font of Knowledge
+type: text/vnd.tiddlywiki
+
+Experience or focused study have granted you mastery of a number of topics. When you know about something, you know about it in great detail. 
+
+When you succeed at a check to [[Recall Knowledge]], you gain additional information or context. 
+
+When you critically succeed at a check to Recall Knowledge, at the GM’s discretion, you might gain even more additional information or context than normal.

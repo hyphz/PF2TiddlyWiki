@@ -1,0 +1,15 @@
+created: 20210102160211971
+feat-arch: Spellmaster
+feat-level: 8
+mod-deception: +2 circumstance to hide verbal spell components.
+mod-stealth: +2 circumstance to hide casting a spell.
+modified: 20210102160324798
+tags: Feat Archetype
+title: Surreptitious Spellcaster
+type: text/vnd.tiddlywiki
+
+You’ve learned that it pays for a Pathfinder to be able to cast spells without being noticed. 
+
+You gain the [[Conceal Spell]] wizard class feat, though it’s not a wizard feat for you. 
+
+You also gain a +2 circumstance bonus to [[Stealth]] checks to Conceal a Spell and to [[Deception]] checks to conceal verbal components.

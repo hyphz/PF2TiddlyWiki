@@ -1,0 +1,14 @@
+created: 20210102155549454
+feat-arch: Scrollmaster
+feat-level: 8
+mod-decipher_writing: Take half the time and don't take penalty from failed attempts.
+modified: 20210102155700455
+tags: Feat Archetype
+title: Unravel Mysteries
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' master in a [[Decipher Writing]] skill
+
+You can understand the true meaning of texts quickly, and even when you get lost or hit a dead end, you aren’t discouraged from making further attempts to get to the bottom of things. 
+
+When you [[Decipher Writing]], you need only half as long as usual (reducing the time from about 1 minute to about half a minute per page), and if you fail, you don’t take the usual –2 circumstance penalty to further checks to decipher that text.

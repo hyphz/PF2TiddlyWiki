@@ -1,0 +1,28 @@
+created: 20210102151213782
+feat-arch: [[Halcyon Speaker]]
+feat-fpre: [[Magaambyan Attendant Dedication]]
+feat-level: 6
+modified: 20210102153659053
+tags: Feat Dedication Uncommon
+title: Halcyon Speaker Dedication
+type: text/vnd.tiddlywiki
+
+{{LOCGFeat}}
+
+//You can take this Dedication feat even if you haven't yet taken two feats from [[Magaambyan Attendant Dedication]].//
+
+You devote much of your study to halcyon magic. 
+
+You gain access to two common Halcyon cantrips and two common 1st-level halcyon spells. 
+
+In addition to being able to cast your halcyon spells via your arcane or primal spell slots, you also gain a 1st-level halcyon spell slot. You can use your halcyon spell slots to spontaneously cast your halcyon spells.
+
+Halcyon spells are spells from the arcane or primal spell list. You don’t gain new halcyon spells via the normal means you typically use to gain spells; instead, you gain new halcyon spells and new spell levels of halcyon spells only through feats. 
+
+Halcyon spells are prepared or cast just like other spells granted by your class; for example, a wizard who gained halcyon spells would add them to their spell list and their spellbook, while a sorcerer would add them to their spell list and their spell repertoire. If you have more than one arcane or primal spellcasting class, you add halcyon spells to all such classes.
+
+Each time you cast a halcyon spell, decide whether it is an arcane or primal spell. You can’t heighten a halcyon spell beyond your maximum spell level of halcyon spell, even if you have higher-level spell slots, and you can’t select a halcyon spell as a signature spell.
+
+Each time you gain a level and learn new spells, and each time you gain a halcyon feat, you can swap out one of your old halcyon spells for a different halcyon spell of the same level; this is in addition to any swapping from your class, such as via a sorcerer’s spell repertoire class feature.  You can also swap out halcyon spells by retraining during downtime. If you have a spellbook, when you swap out a halcyon spell, you lose the spell from your spellbook entirely.
+
+<<archetypefeatlist "8 10 12 14 16 18 20" "[[Halcyon Speaker]]">>

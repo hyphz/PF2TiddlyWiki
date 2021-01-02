@@ -1,0 +1,15 @@
+created: 20210102151813865
+feat-arch: [[Halcyon Speaker]]
+feat-level: 8
+modified: 20210102151914746
+tags: Feat Archetype
+title: Persistent Creation
+type: text/vnd.tiddlywiki
+
+You can cast [[Creation|Creation (Spell)]] as an innate spell at will, choosing whether it is arcane or primal each time. 
+
+The created object lasts until you spend 1 hour not within its immediate vicinity or until it is destroyed. 
+
+Such objects are called persistent creations. 
+
+If you cast creation again, any persistent creation you previously created with the spell immediately disintegrates.
