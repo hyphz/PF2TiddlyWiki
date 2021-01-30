@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20210130160526537
+item-level: 17
+item-price: 135000
+modified: 20210130161045247
+tags: Rune Magical Armor Uncommon Conjuration Action Command Concentrate Auditory
+title: Ethereal (Rune)
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor.
+
+An ethereal rune replicates armor on the Ethereal Plane.
+
+''Activate'' {{OneAction}} command; ''Frequency'' once per day; ''Effect'' You gain the effects of an [[Ethereal Jaunt]] spell. This doesn't require concentration and lasts for 10 minutes or until you choose to return to material form as a free action.
+
+''Craft Requirements'' Supply a casting of 9th level [[Ethereal Jaunt]].

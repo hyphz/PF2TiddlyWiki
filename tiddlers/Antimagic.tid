@@ -4,8 +4,8 @@ item-price: 65000
 mod-fortitude: +1 status vs magic.
 mod-reflex: +1 status vs magic.
 mod-will: +1 status vs magic.
-modified: 20201205164101282
-tags: Rune Magical Uncommon Abjuration Armor Action Reaction Command Auditory Concentrate
+modified: 20210130155543419
+tags: Magical Uncommon Abjuration Armor Action Reaction Command Auditory Concentrate Rune
 title: Antimagic
 type: text/vnd.tiddlywiki
 

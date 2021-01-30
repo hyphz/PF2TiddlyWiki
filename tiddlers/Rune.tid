@@ -1,0 +1,19 @@
+created: 20210130155211677
+modified: 20210130155741052
+title: Rune
+type: text/vnd.tiddlywiki
+
+Most magic weapons and armor gain their enhancements from potent eldritch runes etched into them. 
+
+<table>
+<tr><th>Level</th><th>Runes</th></tr>
+<$list filter="1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20" variable="level">
+<tr><th><<level>></th>
+<td>
+<$list filter="[tag[Rune]contains:item-level<level>sort[]]">
+<$link/>
+<br>
+</$list>
+</td></tr>
+</$list>
+</table>

@@ -1,0 +1,20 @@
+created: 20210130161126490
+item-level: 12 18
+item-price: 20000 240000
+item-variants: [] Greater
+modified: 20210130161240924
+tags: Rune Magical Abjuration Armor
+title: Fortification
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto medium or heavy armor.
+
+A fortification rune wards against the most deadly attacks.
+
+Each time you’re critically hit while wearing the etched armor, attempt a flat check. On a success, it becomes a normal hit. 
+
+This property thickens the armor, increasing its Bulk by 1 and the Strength required to reduce its penalties by 2.
+
+| !Type | !Level | !Price | !Flat check DC |
+| (standard) | 12 | 20000 | 17 |
+| Greater | 18 | 240000 | 14 |

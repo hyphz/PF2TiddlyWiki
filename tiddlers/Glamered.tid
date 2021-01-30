@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20210130161300301
+item-level: 5
+item-price: 1400
+modified: 20210130161525139
+tags: Rune Magical Armor Illusion Action Envision Concentrate
+title: Glamered
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor.
+
+This armor can be disguised with a mere thought.
+
+Activate {{OneAction}} envision; ''Effect'' You change the shape and appearance of this armor to appear as ordinary or fine clothes of your imagining. The armor’s statistics do not change. Only a creature that is benefiting from [[True Seeing]] or a similar effect can attempt to disbelieve this illusion, with a DC of 25.
+

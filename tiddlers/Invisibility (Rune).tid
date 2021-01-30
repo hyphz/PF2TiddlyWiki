@@ -1,0 +1,21 @@
+a-actions: 1
+created: 20210130161653602
+item-level: 8 10
+item-price: 5000 10000
+item-variants: [] Greater
+modified: 20210130161953892
+tags: Rune Magical Armor Illusion Action Command Auditory Concentrate
+title: Invisibility (Rune)
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto light armor.
+
+Light seems to partially penetrate this armor.
+
+''Activate'' {{OneAction}} command; ''Frequency'' once per day; ''Effect'' Whispering the command word, you become invisible for 1 minute, gaining the effects of a 2nd level [[Invisibility]] spell.
+
+''Craft Requirements'' Supply one casting of [[Invisibility]].
+
+| !Type | !Level | !Price | !Frequency |
+| (standard) | 8 | 5000 | Once per day |
+| Greater | 10 | 10000 | Three times per day |
