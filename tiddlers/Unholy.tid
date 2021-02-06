@@ -1,0 +1,20 @@
+created: 20210206175632134
+item-level: 11
+item-price: 14000
+modified: 20210206175843532
+tags: Rune Magical Weapon Evocation Action Reaction Command Auditory Concentrate Evil
+title: Unholy
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon without a [[Holy]] rune.
+
+''Craft Requirements'' You are evil.
+
+An unholy rune instills fiendish power into the etched weapon.
+
+A weapon with this rune deals an additional 1d6 <<tag Evil>> damage when it hits a good target. 
+
+If you are good, you are [[Enfeebled]] 2 while carrying or wielding this weapon.
+
+''Activate'' {{ReactionIcon}} Command; ''Frequency'' once per day; ''Trigger'' You critically succeed at an attack roll against a good creature with the weapon; ''Effect'' The target takes [[persistent bleed damage|Persistent Damage]] equal to 1d8 per weapon damage die of the etched weapon.
+

@@ -1,0 +1,14 @@
+created: 20210206180512646
+item-level: 5 12
+item-price: 1600 20000
+item-variants: Standard Greater
+modified: 20210206180621429
+tags: Rune Magical Weapon Emotion Enchantment Fear Mental
+title: Fearsome
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon.
+
+When you critically hit with this weapon, the target becomes [[Frightened]] 1.
+
+''Greater Fearsome:'' When you critically hit with this weapon, the target becomes [[Frightened]] 2. 

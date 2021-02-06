@@ -1,0 +1,19 @@
+a-defense: Fortitude
+created: 20210206155808310
+item-level: 8 15
+item-price: 5000 65000
+item-variants: Standard Greater
+modified: 20210206175127515
+tags: Rune Magical Weapon Cold
+title: Frost
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon.
+
+This weapon is empowered with freezing ice. 
+
+It deals an additional 1d6 <<tag Cold>> damage on a successful [[Strike]]. 
+
+On a critical hit, the target is also [[Slowed]] 1 until the end of your next turn unless it succeeds at a DC 24 [[Fortitude]] save.
+
+''Greater Frost'': The save DC is 34. Cold damage dealt by this weapon ignores the target’s cold resistance.

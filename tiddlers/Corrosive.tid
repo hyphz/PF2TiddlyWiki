@@ -1,0 +1,20 @@
+created: 20210206153652213
+item-level: 8 15
+item-price: 5000 65000
+item-variants: Standard Greater
+modified: 20210206175059233
+tags: Rune Magical Weapon Acid Conjuration
+title: Corrosive
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon without an [[Anarchic]] rune.
+
+''Craft Requirements'' You are lawful.
+
+Acid sizzles across the surface of the weapon. 
+
+When you hit with the weapon, add 1d6 <<tag Acid>> damage to the damage dealt.
+
+In addition, on a critical hit, the target’s armor (if any) takes 3d6 acid damage (before applying [[Hardness]]); if the target has a shield raised, the shield takes this damage instead.
+
+''Greater Corrosive'': The acid damage dealt by this weapon ignores the target’s acid resistance. Increase the acid damage dealt to armor or a shield on a critical hit to 6d6.

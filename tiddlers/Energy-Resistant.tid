@@ -1,11 +1,11 @@
 created: 20201205163534041
 item-level: 8 12
 item-price: 4200 16500
-item-variants: [] Greater
+item-variants: Standard Greater
 mod-fortitude: +1 status vs magic.
 mod-reflex: +1 status vs magic.
 mod-will: +1 status vs magic.
-modified: 20201205163742832
+modified: 20210206175107496
 tags: Rune Magical Abjuration Armor
 title: Energy-Resistant
 type: text/vnd.tiddlywiki

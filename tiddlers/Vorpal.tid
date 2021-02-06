@@ -1,0 +1,13 @@
+created: 20210206175919976
+item-level: 17
+item-price: 150000
+modified: 20210206180100118
+tags: Rune Magical Weapon Rare Evocation Action Reaction Envision Concentrate Death Incapacitation
+title: Vorpal
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a slashing melee weapon.
+
+Originally created as a means of slaying the legendary jabberwock, vorpal weapons prove equally effective against nearly any foe with a head.
+
+''Activate'' {{ReactionIcon}} envision (death, incapacitation); ''Trigger'' You roll a natural 20 on a Strike with the weapon, critically succeed, and deal slashing damage. The target must have a head; ''Effect'' The target must succeed at a DC 37 Fortitude save or be decapitated. //(Because this is an incapacitation effect, a creature of higher level is decapitated only on a critical failure.)// This kills any creature except ones that don’t require a head to live. For creatures with multiple heads, this usually kills the creature only if you sever its last head.

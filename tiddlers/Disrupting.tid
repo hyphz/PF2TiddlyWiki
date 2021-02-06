@@ -1,0 +1,24 @@
+created: 20210206155024028
+item-level: 5 14
+item-price: 1500 43000
+item-variants: Standard Greater
+modified: 20210206174947186
+s-crit: It’s [[Enfeebled]] 1 until the end of your next turn.
+s-fail: It’s [[Enfeebled]] 3 until the end of your next turn.
+s-fumble: It's destroyed.
+s-hit: It’s [[Enfeebled]] 2 until the end of your next turn.
+tags: Rune Magical Weapon Necromancy Incapacitation
+title: Disrupting
+turn-eun: Enfeeblement from critical hit wears off.
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a melee weapon.
+
+A disrupting weapon pulses with positive energy, dealing an extra 1d6 <<tag Positive>> damage to <<tag Undead>>. 
+
+On a critical hit, the undead is also [[Enfeebled]] 1 until the end of your next turn.
+
+''Greater Disrupting'': Uncommon. Increase the extra damage to 2d6. On a critical hit, instead of being enfeebled 1, the undead creature must attempt a DC 34 Fortitude save with the following effects.  This is an incapacitation effect.
+
+{{||SaveSuccessTable}}
+

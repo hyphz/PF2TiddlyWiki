@@ -1,0 +1,14 @@
+a-crit: Your dying value is reduced by 2.
+a-fail: Your dying value increases by 1.
+a-fumble: Your dying value increases by 2.
+a-hit: Your dying value is reduced by 1.
+created: 20210206160341154
+modified: 20210206160506364
+title: Recovery Check
+type: text/vnd.tiddlywiki
+
+When you’re dying, at the start of each of your turns, you must attempt a flat check with a DC equal to 10 + your current [[Dying]] value to see if you get better or worse. This is called a recovery check. 
+
+The effects of this check are as follows.
+
+{{||ActionSuccessTable}}

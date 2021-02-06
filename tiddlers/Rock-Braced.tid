@@ -1,0 +1,18 @@
+created: 20210206181944647
+item-level: 13
+item-price: 30000
+mod-shove: Gives +4 item to DC against being moved.
+modified: 20210206181959397
+tags: Rune Magical Rare Dwarf Saggorak Armor Abjuration
+title: Rock-Braced
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto medium or heavy armor.
+
+{{AoA4Rune}}
+
+Rock-braced armor makes you as hard to move as a boulder. 
+
+Whenever another creature attempts to forcibly move you from your space, you gain a +4 item bonus to your Fortitude DC against the check to move you. 
+
+If the creature would not normally need to attempt a check to move you, then the creature must succeed at an [[Athletics]] check against your [[Fortitude]] DC (including the +4 item bonus) or you are unmoved.

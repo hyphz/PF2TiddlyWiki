@@ -1,0 +1,16 @@
+created: 20210206164026420
+item-level: 8 15
+item-price: 5000 65000
+item-variants: Standard Greater
+modified: 20210206175158944
+tags: Rune Magical Weapon Electricity Evocation
+title: Shock
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon.
+
+Electric arcs crisscross this weapon, dealing an extra 1d6 <<tag Electricity>> damage on a hit. 
+
+On a critical hit, electricity arcs out to deal an equal amount of electricity damage to up to two other creatures of your choice within 10 feet of the target.
+
+''Greater Shock'': Electricity damage dealt by this weapon ignores the target’s electricity resistance (and the other creatures’ on a critical hit).

@@ -1,0 +1,22 @@
+created: 20210206174318631
+item-level: 13
+item-price: 27000
+modified: 20210206174637631
+modtag-spell: Replaces attack roll with weapon or save DC with 30.
+tags: Rune Magical Weapon Uncommon Abjuration Command Auditory Concentrate
+title: Spell-Storing
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a melee weapon.
+
+A spell-storing rune creates a reservoir of eldritch energy within the etched weapon. 
+
+A spellcaster can spend 1 minute to cast a spell of 3rd level or lower into the weapon. The spell must have a casting of 2 actions or fewer and must be able to target a creature other than the caster. The spell has no immediate effect—it is instead stored for later. 
+
+When you wield a spell-storing weapon, you immediately know the name and level of the stored spell. 
+
+A spell-storing weapon found as treasure has a 50% chance of having a spell of the GM’s choice stored in it.
+
+''Activate'' {{OneAction}} Command; ''Requirements'' On your previous action this turn, you hit and damaged a creature with this weapon; ''Effect'' You unleash the stored spell, which uses the target of the triggering attack as the target of the spell. This empties the spell from the weapon and allows a spell to be cast into it again. If the spell requires a spell attack roll, the result of your attack roll with the weapon determines the degree of success of the spell, and if the spell requires a saving throw, the DC is 30.
+
+''Activate'' {{OneAction}} Command; ''Effect'' Harmlessly expend the stored spell. This frees the weapon to have a new spell cast into it.

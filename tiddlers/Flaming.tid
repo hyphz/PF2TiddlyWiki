@@ -1,0 +1,16 @@
+created: 20210206155532815
+item-level: 8 15
+item-price: 5000 65000
+item-variants: Standard Greater
+modified: 20210206175115940
+tags: Rune Magical Weapon Fire
+title: Flaming
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon.
+
+This weapon is empowered by flickering flame. 
+
+The weapon deals an additional 1d6 <<tag Fire>> damage on a successful [[Strike]], plus 1d10 [[persistent fire damage|Persistent Damage]] on a critical hit.
+
+''Greater Flaming'': Increase the persistent damage on a critical hit to 2d10. Fire damage dealt by this weapon (including the persistent fire damage) ignores the target’s fire resistance.

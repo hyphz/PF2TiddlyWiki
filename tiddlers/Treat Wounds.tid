@@ -4,7 +4,7 @@ a-hit: The target regains 2d8 Hit Points, and its [[Wounded]] condition is remov
 a-skill: Medicine
 a-tool: Healer's Tools
 created: 20200706222543905
-modified: 20200725145329254
+modified: 20210206154921965
 modified-by: Medicine
 tags: Action Exploration Manipulate Healing
 title: Treat Wounds
@@ -22,8 +22,4 @@ If you succeed at your check, you can continue treating the target to grant addi
 
 The result of your Medicine check determines how many Hit Points the target regains.
 
-//If you have [[Natural Medicine]], you can use [[Nature]] instead of Medicine.//
-
-//[[Battle Medicine]] can allow you to treat wounds in Encounter Mode.//
-
-//If you have [[Ward Medic]], you can treat several targets at the same time.//
+{{||ActionSuccessTable}}

@@ -1,0 +1,13 @@
+created: 20210206163711645
+item-level: 6
+item-price: 2250
+modified: 20210206175048784
+tags: Rune Magical Weapon Transmutation
+title: Shifting
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a melee weapon.
+
+With a moment of manipulation, you can shift this weapon into a different weapon with a similar form.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Effect'' The weapon takes the shape of another melee weapon that requires the same number of hands to wield. The weapon’s runes and any precious material it’s made of apply to the weapon’s new shape. Any property runes that can’t apply to the new form are suppressed until the item takes a shape to which they can apply.

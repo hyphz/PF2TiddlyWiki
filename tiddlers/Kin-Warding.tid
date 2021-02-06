@@ -1,0 +1,16 @@
+created: 20210206182437432
+item-level: 3
+item-price: 520
+mod-parry: Can give bonus to an adjacent ally.
+modified: 20210206182603473
+tags: Rune Magical Weapon Uncommon Abjuration Dwarf
+title: Kin-Warding
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a clan dagger.
+
+A kin-warding clan dagger can deflect attacks aimed at your allies. 
+
+When you use the weapon’s [[Parry]] trait, you can point the clan dagger at an adjacent ally instead of defending yourself, creating a shield of runes around them. 
+
+The runic barrier grants your ally the weapon’s circumstance bonus to AC, but you do not gain the bonus yourself.

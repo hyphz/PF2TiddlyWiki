@@ -1,11 +1,11 @@
 created: 20201205162202224
 item-level: 8 14 20
 item-price: 3400 34400 494400
-item-variants: [] Greater Major
+item-variants: Standard Greater Major
 mod-fortitude: Gives item bonus to all saves.
 mod-reflex: Gives item bonus to all saves.
 mod-will: Gives item bonus to all saves.
-modified: 20201205162433821
+modified: 20210206175147405
 tags: Rune Abjuration Magical
 title: Resilient
 type: text/vnd.tiddlywiki

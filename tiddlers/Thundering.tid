@@ -1,0 +1,16 @@
+created: 20210206175458332
+item-level: 8 15
+item-price: 5000 65000
+item-variants: Standard Greater
+modified: 20210206175547930
+tags: Rune Magical Weapon Evocation Sonic
+title: Thundering
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon.
+
+This weapon lets out a peal of thunder when it hits, dealing an extra 1d6 <<tag Sonic>> damage on a successful [[Strike]]. 
+
+On a critical hit, the target has to succeed at a DC 24 [[Fortitude]] save or be deafened for 1 minute (or 1 hour on a critical failure).
+
+''Greater Thundering:'' The save DC is 34, and the deafness is permanent. Sonic damage dealt by this weapon ignores the target’s sonic resistance.

@@ -1,0 +1,21 @@
+created: 20210206153254572
+item-level: 11
+item-price: 14000
+mod-enfeebled: Enfeebled while carrying if chaotic.
+mod-strike: Use dice average for crit damage vs chaotic.
+modified: 20210206175234454
+tags: Rune Magical Weapon Evocation Lawful
+title: Axiomatic
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon without an [[Anarchic]] rune.
+
+''Craft Requirements'' You are lawful.
+
+Complex and symmetrical, an axiomatic rune imbues a weapon with lawful energy. 
+
+A weapon with this rune deals an additional 1d6 <<tag Lawful>> damage against <<tag Chaotic>> targets. 
+
+If you are chaotic, you are enfeebled 2 while carrying or wielding this weapon. 
+
+When you critically succeed at an attack roll with this weapon against a chaotic creature, instead of rolling, count each weapon damage die as average damage rounded up (3 for d4, 4 for d6, 5 for d8, 6 for d10, 7 for d12).
