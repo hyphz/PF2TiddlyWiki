@@ -1,0 +1,20 @@
+created: 20210207212042120
+item-bulk: L
+item-hands: 1
+item-level: 2 10 15
+item-price: 70 1500 7000
+item-variants: Lesser Moderate Greater
+mod-will: +1-4 item bonus.
+modified: 20210207212210120
+tags: Alchemical Consumable Item Elixir Mental
+title: Bravo's Brew
+type: text/vnd.tiddlywiki
+
+This flask of foaming beer grants courage. For the next hour
+after drinking this elixir, you gain an item bonus to Will saves,
+which is greater when attempting Will saves against fear.
+
+| !Type | !Level | !Price | !Item Bonus | !Item bonus vs Fear |
+| Lesser | 2 | 70 | +1 | +2 |
+| Moderate | 10 | 1500 | +2 | +3 |
+| Greater | 15 | 7000 | +3 | +4 and promote successes |

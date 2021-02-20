@@ -1,0 +1,21 @@
+created: 20210220155301903
+item-bulk: L
+item-hands: 1
+item-level: 2
+item-price: 50
+modified: 20210220155411599
+tags: Alchemical Consumable Item Ingested Poison
+title: Belladonna
+type: text/vnd.tiddlywiki
+
+Sometimes called “deadly nightshade,” belladonna is a widely available toxin produced from a plant similar to a tomato.
+
+| !Saving Throw |DC 19 [[Fortitude]] |
+| !Onset |10 minutes |
+| !Maximum Duration |30 minutes |
+| !Stage 1 |[[Dazzled]] (10 minutes) |
+| !Stage 2 |1d6 poison damage and [[Sickened]] (10 minutes) |
+| !Stage 3 |1d6 poison damage, [[Confused]] and [[Sickened]] (1 minute) |
+
+
+

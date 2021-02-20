@@ -1,0 +1,32 @@
+created: 20210220153302473
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 3000 30000
+item-variants: Lesser Moderate Greater Major
+mod-medicine: +1-4 item bonus.
+mod-nature: +1-4 item bonus.
+mod-perception: +1-4 item bonus.
+mod-religion: +1-4 item bonus.
+mod-survival: +1-4 item bonus.
+mod-will: +1-4 item bonus, extra +1 and maybe promote vs Mental.
+modified: 20210220153726405
+tags: Alchemical Consumable Item Elixir Polymorph Mutagen
+title: Serene Mutagen
+type: text/vnd.tiddlywiki
+
+You gain inner serenity, focused on fine details and steeled against mental assaults, but you find violence off-putting.
+
+''Benefit'' You gain an item bonus to [[Will]] saves and [[Perception]], [[Medicine]], [[Nature]], [[Religion]], and [[Survival]] checks. This bonus improves when you attempt Will saves against <<tag Mental>> effects.
+
+''Drawback'' You take a –1 penalty to attack rolls and save DCs of offensive spells, and a –1 penalty per damage die to all weapon, unarmed attack, and spell damage.
+
+| !Type | !Level | !Price | !Duration | !Bonus | !Bonus vs Mental | !Promote Will saves vs Mental |
+| Lesser | 1 | 40 | 1 minute | +1 | +2 | |
+| Moderate | 3 | 120 | 10 minutes | +2 | +3 | |
+| Greater | 11 | 3000 | 1 hour | +3 | +4 | Success |
+| Major | 17 | 30000 | 1 hour | +4 | +4 |  Success, Fumble |
+
+
+
+

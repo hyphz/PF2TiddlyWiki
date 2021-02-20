@@ -1,0 +1,25 @@
+created: 20210220145214548
+item-bulk: L
+item-hands: 1
+item-level: 1 5 10 16
+item-price: 40 270 2000 20000
+item-variants: Lesser Moderate Greater Major
+mod-perception: +1-4 item bonus.
+modified: 20210220145645363
+tags: Alchemical Consumable Item Elixir
+title: Eagle-Eye Elixir
+type: text/vnd.tiddlywiki
+
+After you drink this elixir, you notice subtle visual details. For 
+
+For the next hour, you gain an item bonus to [[Perception]] checks that is greater when attempting to find secret doors and traps.
+
+//If you're affected by a Major Eagle-Eye Elixir, each time you pass within 10 feet of a secret door or trap, the GM automatically rolls a secret check for you to find it.//
+
+| !Type | !Level | !Price | !Bonus |
+| Lesser | 1 | 40 | +1, or +2 to find secret doors and traps |
+| Moderate | 5 | 270 | +2, or +3 to find secret doors and traps |
+| Greater | 10 | 2000 | +3, or +4 to find secret doors and traps |
+| Major | 16 | 20000 | As Greater, plus automatic checks as above |
+
+

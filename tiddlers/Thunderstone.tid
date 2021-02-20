@@ -1,0 +1,20 @@
+created: 20210207205447165
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 30 100 2500 25000
+item-variants: Lesser Moderate Greater Major
+modified: 20210207205633715
+tags: Alchemical Bomb Consumable Splash Item Sonic
+title: Thunderstone
+type: text/vnd.tiddlywiki
+
+When this stone hits a creature or a hard surface, it explodes with a deafening bang. 
+
+A thunderstone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a [[Fortitude]] saving throw with the listed DC or be [[Deafened]] until the end of its next turn. Many types of thunderstone grant an item bonus to attack rolls.
+
+| !Type | !Level | !Price | !Sonic Damage | !Sonic Splash Damage | !Fortitude DC | !Item bonus to attack |
+| Lesser | 1 | 30 | 1d4 | 1 | 17 | None |
+| Moderate | 3 | 100 | 2d4 | 2 | 20 | +1 |
+| Greater | 11 | 2500 | 3d4 | 3 | 28 | +2 |
+| Major | 17 | 25000 | 4d4 | 4 | 36 | +3 |

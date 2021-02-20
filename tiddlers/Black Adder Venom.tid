@@ -1,0 +1,21 @@
+created: 20210220155835849
+item-bulk: L
+item-hands: 2
+item-level: 2
+item-price: 60
+modified: 20210220160034698
+tags: Alchemical Consumable Item Poison Injury
+title: Black Adder Venom
+type: text/vnd.tiddlywiki
+
+Adder venom is a simple but effective way to enhance a weapon.
+
+| !Saving Throw |DC 18 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |3 rounds |
+| !Stage 1 |1d8 poison damage (1 round) |
+| !Stage 2 |1d10 poison damage (1 round) |
+| !Stage 3 |2d6 poison damage (1 round) |
+
+
+

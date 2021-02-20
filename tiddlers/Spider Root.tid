@@ -1,0 +1,21 @@
+created: 20210220170342198
+item-bulk: L
+item-hands: 2
+item-level: 9
+item-price: 1100
+modified: 20210220170632288
+tags: Alchemical Consumable Item Poison Contact
+title: Spider Root
+type: text/vnd.tiddlywiki
+
+A paste made by mashing the fine, threadlike roots of a certain creeper vine, spider root renders a victim clumsy and maladroit.
+
+| !Saving Throw |DC 28 [[Fortitude]] |
+| !Onset |1 minute |
+| !Maximum Duration |6 minutes |
+| !Stage 1 |8d6 poison damage and [[Clumsy]] 1 (1 minute) |
+| !Stage 2 |9d6 poison damage and [[Clumsy]] 2 (1 minute) |
+| !Stage 3 |10d6 poison damage and [[Clumsy]] 3 (1 minute) |
+
+
+

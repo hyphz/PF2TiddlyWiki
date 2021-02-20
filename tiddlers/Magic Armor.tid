@@ -1,0 +1,22 @@
+created: 20210220172002762
+item-level: 5 8 11 14 18 20
+item-price: 1600 5000 14000 45000 240000 700000
+item-variants: +1 [[+1 Resilient]] [[+2 Resilient]] [[+2 Greater Resilient]] [[+3 Greater Resilient]] [[+3 Major Resilient]]
+modified: 20210220172530396
+tags: Abjuration Invested Magical Item
+title: Magic Armor
+type: text/vnd.tiddlywiki
+
+A suit of magic armor is simply a suit of armor or explorer’s clothing etched with fundamental runes. An armor potency rune increases the armor’s item bonus to AC, and a resilient rune adds an item bonus to saving throws.
+
+The Prices here are for all types of armor. You don’t need to adjust the Price from leather armor to full plate or the like. These armors are made of standard materials, not precious materials such as mithral.
+
+//The levels and prices below are exactly those of the required combination of runes. These can be taken as "example builds" of applying runes to armor.//
+
+| !Type | !Level | !Price | !Runes |
+| +1 | 5 | 1600 | +1 [[Armor Potency]] |
+| +1 Resilient | 8 | 5000 | +1 [[Armor Potency]] and [[Resilient]] |
+| +2 Resilient | 11 | 14000 | +2 [[Armor Potency]] and [[Resilient]] |
+| +2 Greater Resilient | 14 | 45000 | +2 [[Armor Potency]] and Greater [[Resilient]] |
+| +3 Greater Resilient | 18 | 240000 | +3 [[Armor Potency]] and Greater [[Resilient]] |
+| +3 Major Resilient | 20 | 700000 | +3 [[Armor Potency]] and Major [[Resilient]] |

@@ -1,0 +1,24 @@
+created: 20210220163612570
+item-bulk: L
+item-hands: 1
+item-level: 18
+item-price: 40000
+mod-drained: Can't remove drained condition while affected.
+modified: 20210220163822700
+tags: Alchemical Consumable Item Poison Ingested Virulent
+title: King's Sleep
+type: text/vnd.tiddlywiki
+
+King’s Sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. 
+
+The [[Drained]] condition from king’s sleep is cumulative with each failed save and can’t be removed while the poison lasts.
+
+| !Saving Throw |DC 41 [[Fortitude]] |
+| !Onset |1 day |
+| !Maximum Duration |None |
+| !Stage 1 |[[Drained]] 1 Cumulative (1 day) |
+| !Stage 2 |[[Drained]] 1 Cumulative (1 day) |
+| !Stage 3 |[[Drained]] 2 Cumulative (1 day) |
+
+
+

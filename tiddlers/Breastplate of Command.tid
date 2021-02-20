@@ -1,0 +1,25 @@
+created: 20210220172628907
+item-bulk: 2
+item-level: 10 18
+item-price: 10000 220000
+item-slot: Armor
+item-variants: Standard Greater
+mod-diplomacy: +2-3 item bonus.
+mod-hide: -2-3 item penalty to Stealth.
+mod-impersonate: -2-3 item penalty to Deception.
+mod-sneak: -2-3 item penalty to Stealth.
+modified: 20210220173248398
+modtag-fear: Ability gives +2 status bonus to saves.
+tags: Invested Magical Item Enchantment Command
+title: Breastplate of Command
+type: text/vnd.tiddlywiki
+
+This [[+1|Armor Potency]] [[Resilient]] Breastplate is made from shining bronze overlaid with reinforcing golden panels in the shape of lion’s heads. Wearing this breastplate grants you a commanding aura. 
+
+You gain a +2 item bonus to [[Diplomacy]] checks, but you take a –2 item penalty to [[Stealth]] checks to [[Hide]] and [[Sneak]] and [[Deception]] checks to [[Impersonate]].
+
+''Activate'' {{OneAction}} Command; ''Frequency'' once per day; ''Effect'' You grant allies within 100 feet a +2 status bonus to saves against <<tag Fear>> effects for 1 minute. When you activate this ability, each affected ally who’s frightened reduces their frightened value by 1.
+
+| !Type | !Level | !Price | !Potency | !Resilience | !Bonus/penalty |
+| (standard) | 10 | 10000 | +1 | [[Resilient]] | +2/-2 |
+| Greater | 18 | 220000 | +2 | Greater [[Resilient]] | +3/-3 |

@@ -1,0 +1,28 @@
+created: 20210207205122439
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 30 100 2500 25000
+item-variants: Lesser Moderate Greater Major
+mod-fly: Can't fly again for 1 round after critical hit caused fall.
+modified: 20210207205423457
+tags: Alchemical Bomb Consumable Item
+title: Tanglefoot Bag
+type: text/vnd.tiddlywiki
+
+A tanglefoot bag is filled with sticky substances. 
+
+When you hit a creature with a tanglefoot bag, that creature takes a status penalty to its Speeds for 1 minute. Many types of tanglefoot bag also grant an item bonus on attack rolls.
+
+On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[Immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to [[Fly]] again for 1 round. 
+
+Tanglefoot bags are not effective when used on a creature that is in water.
+
+The target can end any effects by [[Escaping|Escape]] or spending a total of 3 [[Interact]] actions to carefully remove the sticky substances. These Interact actions don’t have to be consecutive, and other creatures can provide the actions as well.
+
+| !Type | !Level | !Price | !Penalty to Speed | !Escape DC | !Item bonus to attack |
+| Lesser | 1 | 30 | -10' | 17 | None |
+| Moderate | 3 | 100 | -15' | 19 | +1 |
+| Greater | 11 | 2500 | -15' | 28 | +2 |
+| Major | 17 | 25000 | -20' | 37 | +3 |
+

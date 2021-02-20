@@ -1,0 +1,23 @@
+created: 20210220171248062
+item-bulk: L
+item-hands: 2
+item-level: 1 7
+item-price: 30 530
+item-variants: Lesser Greater
+modified: 20210220171525729
+tags: Alchemical Consumable Item
+title: Smokestick
+type: text/vnd.tiddlywiki
+
+With a sharp twist of this item, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. 
+
+All creatures within that area are [[Concealed]], and all other creatures are [[Concealed]] to them. 
+
+The smoke lasts for 1 minute or until dispersed by a strong wind.
+
+| !Type | !Level | !Price | !Burst Radius |
+| Lesser | 1 | 30 | 5' |
+| Greater | 7 | 530 | 20' |
+
+
+

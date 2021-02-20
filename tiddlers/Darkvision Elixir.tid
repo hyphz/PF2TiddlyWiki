@@ -1,0 +1,22 @@
+created: 20210220144839770
+item-bulk: L
+item-hands: 1
+item-level: 2 4 8
+item-price: 60 110 900
+item-variants: Lesser Moderate Greater
+modified: 20210220144946833
+tags: Alchemical Consumable Item Elixir
+title: Darkvision Elixir
+type: text/vnd.tiddlywiki
+
+After you drink this elixir, your sight becomes sharper in darkness. 
+
+You gain [[Darkvision]] for the listed duration.
+
+| !Type | !Level | !Price | !Duration |
+| Lesser | 2 | 60 | 10 minute |
+| Moderate | 4 | 110 | 1 hour |
+| Greater | 8 | 900 | 24 hours |
+
+
+

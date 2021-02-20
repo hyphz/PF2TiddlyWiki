@@ -1,0 +1,36 @@
+created: 20210220153758554
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 3000 30000
+item-variants: Lesser Moderate Greater Major
+mod-arcana: -2 item penalty.
+mod-crafting: -2 item penalty.
+mod-deception: +1-4 item bonus.
+mod-diplomacy: +1-4 item bonus.
+mod-intimidation: +1-4 item bonus.
+mod-lore: -2 item penalty.
+mod-occultism: -2 item penalty.
+mod-performance: +1-4 item bonus.
+mod-recall_knowledge: Demote failures.
+mod-society: -2 item penalty.
+modified: 20210220154450824
+tags: Alchemical Consumable Item Elixir Polymorph Mutagen
+title: Silvertongue Mutagen
+type: text/vnd.tiddlywiki
+
+Your features become striking and your voice becomes musical and commanding, though facts and figures become hazy for you and emotion clouds your ability to reason.
+
+''Benefit'' You gain an item bonus to [[Deception]], [[Diplomacy]], [[Intimidation]], and [[Performance]] checks. Your critical failures with any of these skills become failures instead.
+
+''Drawback'' You take a –2 item penalty to [[Arcana]], [[Crafting]], [[Lore]], [[Occultism]], and [[Society]] checks. Choose one skill in which you are trained; for the duration, you become untrained in that skill. All your failures on checks to [[Recall Knowledge]] become critical failures.
+
+| !Type | !Level | !Price | !Bonus | !Duration |
+| Lesser | 1 | 40 | +1 | 1 minute |
+| Moderate | 3 | 120 | +2 | 10 minutes |
+| Greater | 11 | 3000 | +3 | 1 hour |
+| Major | 17 | 30000 | +4 | 1 hour |
+
+
+
+

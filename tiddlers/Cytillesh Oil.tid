@@ -1,0 +1,21 @@
+created: 20210220161446243
+item-bulk: L
+item-hands: 1
+item-level: 3
+item-price: 100
+modified: 20210220161911384
+tags: Alchemical Consumable Item Poison Injury
+title: Cytillesh Oil
+type: text/vnd.tiddlywiki
+
+This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities.
+
+| !Saving Throw |DC 19 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |4 rounds |
+| !Stage 1 |1d10 poison damage (1 round) |
+| !Stage 2 |1d12 poison damage (1 round) |
+| !Stage 3 |2d10 poison damage (1 round) |
+
+
+

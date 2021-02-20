@@ -5,7 +5,7 @@ a-hit: You trick the creature into thinking you’re the person you’re disguis
 a-skill: Deception
 a-tool: Disguise Kit
 created: 20200705231252324
-modified: 20200725141002605
+modified: 20210220150647020
 modified-by: Deception
 tags: Action Concentrate Exploration Manipulate Secret
 title: Impersonate
@@ -20,7 +20,5 @@ In most cases, creatures have a chance to detect your deception only if they use
 If you attempt to directly interact with someone while disguised, the GM rolls a secret Deception check for you against that creature’s Perception DC instead. 
 
 If you’re disguised as a specific individual, the GM might give creatures you interact with a circumstance bonus based on how well they know the person you’re imitating, or the GM might roll a secret Deception check even if you aren’t directly interacting with others.
-
-//If you have [[Courtly Graces]] and are pretending to be a noble, you can use [[Society]] instead of [[Deception]].//
 
 {{||ActionSuccessTable}}

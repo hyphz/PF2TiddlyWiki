@@ -1,0 +1,24 @@
+created: 20210220152828795
+item-bulk: L
+item-hands: 1
+item-level: 5 12 15
+item-price: 220 3000 9200
+item-variants: Lesser Moderate Greater
+mod-temperature_effects: Gives immunity to some levels of heat.
+modified: 20210220153213165
+tags: Alchemical Consumable Item Elixir Polymorph
+title: Sea Touch Elixir
+type: text/vnd.tiddlywiki
+
+This briny concoction alters the skin on your hands and feet.
+
+The spaces between your fingers and toes become webbed, granting you a swim Speed of 20 feet for the listed duration. //You may also gain the ability to breathe underwater.//
+
+| !Type | !Level | !Price | !Duration | !Breathe Underwater? |
+| Lesser | 5 | 220 | 10 minutes | No |
+| Moderate | 12 | 3000 | 1 hour | Yes |
+| Greater | 15 | 9200 | 24 hours | Yes |
+
+
+
+

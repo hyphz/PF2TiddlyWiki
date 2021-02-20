@@ -1,0 +1,21 @@
+created: 20210220162822056
+item-bulk: L
+item-hands: 2
+item-level: 3
+item-price: 100
+modified: 20210220162921145
+tags: Alchemical Consumable Item Poison Injury
+title: Graveroot
+type: text/vnd.tiddlywiki
+
+The opaque white sap from the graveroot shrub clouds the mind.
+
+| !Saving Throw |DC 19 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |4 rounds |
+| !Stage 1 |1d10 poison damage (1 round) |
+| !Stage 2 |1d12 poison damage and [[Stupefied]] 1 (1 round) |
+| !Stage 3 |2d6 poison damage and [[Stupefied]] 2 (1 round) |
+
+
+

@@ -1,0 +1,21 @@
+created: 20210220165735468
+item-bulk: L
+item-hands: 2
+item-level: 13
+item-price: 5000
+modified: 20210220165853011
+tags: Alchemical Consumable Item Poison Injury
+title: Purple Worm Venom
+type: text/vnd.tiddlywiki
+
+Venom from enormous purple worms leaves a victim weakened.
+
+| !Saving Throw |DC 32 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |5d6 poison damage and [[Enfeebled]] 2 (1 round) |
+| !Stage 2 |6d6 poison damage and [[Enfeebled]] 2 (1 round) |
+| !Stage 3 |8d6 poison damage and [[Enfeebled]] 2 (1 round) |
+
+
+

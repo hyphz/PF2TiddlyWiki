@@ -1,0 +1,30 @@
+created: 20210220152205437
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 3000 30000
+item-variants: Lesser Moderate Greater Major
+mod-acrobatics: +1-4 item bonus.
+mod-fortitude: -2 penalty.
+mod-reflex: +1-4 item bonus.
+mod-stealth: +1-4 item bonus.
+mod-thievery: +1-4 item bonus.
+modified: 20210220152525525
+tags: Alchemical Consumable Item Elixir Mutagen Polymorph
+title: Quicksilver Mutagen
+type: text/vnd.tiddlywiki
+
+Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.
+
+''Benefit'' You gain an item bonus to [[Acrobatics]] checks, [[Stealth]] checks, [[Thievery]] checks, [[Reflex]] saves, and [[Dexterity]]-based attack rolls, and you gain the listed status bonus to your Speed.
+
+''Drawback'' You take damage equal to twice your level; you can’t recover Hit Points lost in this way by any means while the mutagen lasts. You take a –2 penalty to [[Fortitude]] saves.
+
+| !Type | !Level | !Price | !Roll Bonus | !Speed Bonus | !Duration |
+| Lesser | 1 | 40 | +1 | +5' | 1 minute |
+| Moderate | 3 | 120 | +2 | +10' | 10 minutes |
+| Greater | 11 | 3000 | +3 | +15' | 1 hour |
+| Major | 17 | 30000 | +4 | +20' | 1 hour |
+
+
+

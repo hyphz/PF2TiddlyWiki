@@ -1,0 +1,21 @@
+created: 20210220164239271
+item-bulk: L
+item-hands: 2
+item-level: 9
+item-price: 1100
+modified: 20210220164401428
+tags: Alchemical Consumable Item Poison Ingested
+title: Lich Dust
+type: text/vnd.tiddlywiki
+
+Dust salvaged from the remains of a destroyed lich has paralytic properties that make it a valuable poison.
+
+| !Saving Throw |DC 28 [[Fortitude]] |
+| !Onset |10 minutes |
+| !Maximum Duration |6 minutes |
+| !Stage 1 |[[Fatigued]] (1 minute) |
+| !Stage 2 |5d6 poison damage and [[Fatigued]] (1 minute) |
+| !Stage 3 |5d6 poison damage, [[Fatigued]] and [[Paralyzed]] (1 minute)  |
+
+
+

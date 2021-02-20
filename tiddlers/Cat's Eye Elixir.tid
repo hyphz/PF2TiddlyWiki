@@ -1,0 +1,17 @@
+created: 20210207215035277
+item-bulk: L
+item-hands: 1
+item-level: 2
+item-price: 70
+mod-concealed: No check needed vs creatures within 30 foot.
+mod-hidden: Flat check DC is 5 against creatures within 30 foot.
+modified: 20210207215155676
+tags: Alchemical Consumable Item Elixir
+title: Cat's Eye Elixir
+type: text/vnd.tiddlywiki
+
+After you consume this elixir, your vision sharpens and you become sensitive to even the most minute movements. 
+
+For the next minute, you reduce the flat check to target [[Hidden]] creatures to 5, and you don’t need to attempt a flat check to target [[Concealed]] creatures. 
+
+These benefits apply only against creatures within 30 feet of you.

@@ -1,0 +1,22 @@
+created: 20210207204700345
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 30 100 2500 25000
+item-variants: Lesser Moderate Greater Major
+modified: 20210207204836399
+tags: Alchemical Bomb Consumable Splash Item Electricity
+title: Bottled Lightning
+type: text/vnd.tiddlywiki
+
+Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals the listed electricity damage and electricity splash damage. 
+
+On a hit, the target becomes [[Flat-Footed]] until the start of your next turn. 
+
+Many types grant an item bonus to attack rolls.
+
+| !Type | !Level | !Price | !Electricity Damage | !Electricity Splash Damage | !Item bonus to attack |
+| Lesser | 1 | 30 | 1d6 | 1 | None |
+| Moderate | 3 | 100 | 2d6 | 2 | +1 |
+| Greater | 11 | 2500 | 3d6 | 3 | +2 |
+| Major | 17 | 25000 | 4d6 | 4 | +3 |

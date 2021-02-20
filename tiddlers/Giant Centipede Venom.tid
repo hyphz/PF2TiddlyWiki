@@ -1,0 +1,21 @@
+created: 20210220162309719
+item-bulk: L
+item-hands: 2
+item-level: 1
+item-price: 40
+modified: 20210220162436717
+tags: Alchemical Consumable Item Poison Injury
+title: Giant Centipede Venom
+type: text/vnd.tiddlywiki
+
+A mix of digestive juices and green dragon poison glands nauseates the victim as its flesh is digested from within.
+
+| !Saving Throw |DC 17 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |1d6 poison damage (1 round) |
+| !Stage 2 |1d8 poison damage and [[Flat-Footed]] (1 round) |
+| !Stage 3 |1d12 poison damage, [[Clumsy]] 1 and [[Flat-Footed]] (1 round) |
+
+
+

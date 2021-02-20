@@ -1,0 +1,23 @@
+created: 20210220151943492
+item-bulk: L
+item-hands: 1
+item-level: 4 6 10
+item-price: 180 560 1800
+item-variants: Lesser Moderate Greater
+modified: 20210220152110582
+tags: Alchemical Consumable Item Elixir Illusion Visual
+title: Mistform Elixir
+type: text/vnd.tiddlywiki
+
+A faint mist emanates from your skin, making you [[Concealed]] for the listed duration. 
+
+As usual, if you become concealed when your position is still obvious, you can’t use this concealment to [[Hide]] or [[Sneak]].
+
+| !Type | !Level | !Price | !Duration |
+| Lesser | 4 | 180 | 3 rounds |
+| Moderate | 6 | 560 | 1 minute |
+| Greater | 10 | 1800 | 5 minutes |
+
+
+
+

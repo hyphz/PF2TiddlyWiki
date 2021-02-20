@@ -1,0 +1,21 @@
+created: 20210207210348392
+item-bulk: L
+item-hands: 1
+item-level: 1 6 10 14
+item-price: 30 350 1600 6750
+item-variants: Lesser Moderate Greater Major
+mod-fortitude: +2-4 item vs poisons.
+modified: 20210207210656243
+tags: Alchemical Consumable Item Healing Elixir
+title: Antidote
+type: text/vnd.tiddlywiki
+
+An antidote protects you against toxins. Upon drinking an antidote, you gain an item bonus to Fortitude saving throws against poisons for 6 hours.
+
+When you drink a Major antidote, you can immediately attempt a save against one poison of 14th level or lower affecting you. If you succeed, the poison is neutralized.
+
+| !Type | !Level | !Price | !Item Bonus |
+| Lesser | 1 | 30 | +2 |
+| Moderate | 6 | 350 | +3 |
+| Greater | 10 | 1600 | +4 |
+| Major | 14 | 6750 | +4 |

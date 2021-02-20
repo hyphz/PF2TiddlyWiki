@@ -1,0 +1,21 @@
+created: 20210220161034328
+item-bulk: L
+item-hands: 2
+item-level: 11
+item-price: 2250
+modified: 20210220161146780
+tags: Alchemical Consumable Item Poison Contact
+title: Blightburn Resin
+type: text/vnd.tiddlywiki
+
+This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames.
+
+| !Saving Throw |DC 31 [[Fortitude]] |
+| !Onset |1 minute |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |8d6 poison damage (1 round) |
+| !Stage 2 |10d6 poison damage (1 round) |
+| !Stage 3 |15d6 poison damage (1 round) |
+
+
+

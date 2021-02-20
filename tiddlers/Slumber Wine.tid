@@ -1,0 +1,24 @@
+created: 20210220170123219
+item-bulk: L
+item-hands: 1
+item-level: 12
+item-price: 3250
+mod-unconscious: Victim can't wake up and Medicine DC 40 to realize they're not dead.
+modified: 20210220170319766
+tags: Alchemical Consumable Item Poison Ingested Sleep
+title: Slumber Wine
+type: text/vnd.tiddlywiki
+
+Slumber wine sees its greatest use in games of intrigue, where an absence can be more devastating than injury.
+
+Characters unconscious from slumber wine can’t wake up by any means while the poison lasts, don’t need to eat or drink while unconscious in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 Medicine check.
+
+| !Saving Throw |DC 32 [[Fortitude]] |
+| !Onset |1 hour |
+| !Maximum Duration |7 days |
+| !Stage 1 |[[Unconscious]] (1 day) |
+| !Stage 2 |[[Unconscious]] (2 days) |
+| !Stage 3 |[[Unconscious]] (3 days) |
+
+
+

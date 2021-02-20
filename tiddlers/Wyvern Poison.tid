@@ -1,0 +1,21 @@
+created: 20210220171013915
+item-bulk: L
+item-hands: 2
+item-level: 8
+item-price: 800
+modified: 20210220171131058
+tags: Alchemical Consumable Item Poison Injury
+title: Wyvern Poison
+type: text/vnd.tiddlywiki
+
+Properly harvested and preserved, the poison from a wyvern’s sting is effective and direct.
+
+| !Saving Throw |DC 26 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |5d6 poison damage (1 round) |
+| !Stage 2 |6d6 poison damage (1 round) |
+| !Stage 3 |8d6 poison damage (1 round) |
+
+
+

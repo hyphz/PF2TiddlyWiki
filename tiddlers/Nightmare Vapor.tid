@@ -1,0 +1,21 @@
+created: 20210220165236155
+item-bulk: L
+item-hands: 1
+item-level: 16
+item-price: 14000
+modified: 20210220165401871
+tags: Alchemical Consumable Item Poison Inhaled
+title: Nightmare Vapor
+type: text/vnd.tiddlywiki
+
+Purportedly sourced from any number of outlandish locales, nightmare vapor is most often created by boiling the sweat collected from humanoids caught in the throes of terrible nightmares.
+
+| !Saving Throw |DC 36 [[Fortitude]] |
+| !Onset |1 round |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |[[Confused]] (1 round) |
+| !Stage 2 |[[Confused]] and [[Flat-Footed]] (1 round) |
+| !Stage 3 |[[Confused]], [[Flat-Footed]] and [[Stupefied]] 2 (1 round) |
+
+
+

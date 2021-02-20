@@ -1,0 +1,21 @@
+created: 20210220164919442
+item-bulk: L
+item-hands: 1
+item-level: 15
+item-price: 10000
+modified: 20210220165041459
+tags: Alchemical Consumable Item Poison Inhaled
+title: Mindfog Mist
+type: text/vnd.tiddlywiki
+
+Mindfog mist can be used to undermine spellcasters, as its effect on a victim’s mental faculties are swift and powerful.
+
+| !Saving Throw |DC 35 [[Fortitude]] |
+| !Onset |1 round |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |[[Stupefied]] 2 (1 round) |
+| !Stage 2 |[[Confused]] and [[Stupefied]] 3 (1 round) |
+| !Stage 3 |[[Confused]] and [[Stupefied]] 4 (1 round) |
+
+
+

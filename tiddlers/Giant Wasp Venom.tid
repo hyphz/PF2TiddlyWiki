@@ -1,0 +1,21 @@
+created: 20210220162653120
+item-bulk: L
+item-hands: 2
+item-level: 7
+item-price: 550
+modified: 20210220162806339
+tags: Alchemical Consumable Item Poison Injury
+title: Giant Wasp Venom
+type: text/vnd.tiddlywiki
+
+Giant wasp venom interferes with a victim’s movement.
+
+| !Saving Throw |DC 25 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |2d6 poison damage and [[Clumsy]] 1 (1 round) |
+| !Stage 2 |3d6 poison damage and [[Clumsy]] 2 (1 round) |
+| !Stage 3 |4d6 poison damage and [[Clumsy]] 2 (1 round) |
+
+
+

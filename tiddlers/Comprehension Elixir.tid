@@ -1,0 +1,23 @@
+created: 20210220144556520
+item-bulk: L
+item-hands: 1
+item-level: 2 7
+item-price: 70 540
+item-variants: Lesser Greater
+modified: 20210220144804213
+tags: Alchemical Consumable Item Elixir Mental
+title: Comprehension Elixir
+type: text/vnd.tiddlywiki
+
+This bitter draft opens your mind to the potential of the written word. 
+
+For the listed duration after drinking this elixir, you can understand any words you read, so long as they are written in a common language. 
+
+This elixir doesn’t automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to [[Decipher Writing]].
+
+| !Type | !Level | !Price | !Duration |
+| Lesser | 2 | 70 | 1 minute |
+| Greater | 7 | 540 | 10 minutes |
+
+
+

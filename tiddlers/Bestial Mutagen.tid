@@ -1,0 +1,28 @@
+created: 20210207210841657
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 3000 30000
+item-variants: Lesser Moderate Greater Major
+mod-ac: -1 penalty.
+mod-athletics: +1-4 item bonus.
+mod-reflex: -2 penalty.
+mod-strike: +1-4 item bonus to unarmed.
+modified: 20210207211224507
+tags: Alchemical Consumable Item Elixir Mutagen Polymorph
+title: Bestial Mutagen
+type: text/vnd.tiddlywiki
+
+Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.
+
+''Benefit'' You gain an item bonus to [[Athletics]] checks and unarmed attack rolls. You gain a claw unarmed attack with the [[Agile]] trait and a jaws unarmed attack.
+
+''Drawback'' You take a –1 penalty to AC and a –2 penalty to [[Reflex]] saves.
+
+If you drink a Major Bestial Mutagen, you gain [[Weapon Specialization]] with your claws and jaws. If you already have Weapon Specialization with them, you gain [[Greater Weapon Specialization]].
+
+| !Type | !Level | !Price | !Item bonus to Athletics and unarmed attacks | !Claw damage | !Jaws damage | !Duration |
+| Lesser | 1 | 40 | +1 | 1d4 S | 1d6 P | 1 minute |
+| Moderate | 3 | 120 | +2 | 1d6 S | 1d8 P | 10 minutes |
+| Greater | 11 | 3000 | +3 | 1d8 S | 1d10 P | 1 hour |
+| Major | 17 | 30000 | +4 | 1d8 S | 1d10 P | 1 hour |

@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20201219163238347
+modified: 20210220160601040
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -37,6 +37,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Concentrate]]">
 <tr><th>[[Concentrate]]</th><td>You can't use this while distracted, or while raging unless it also has Rage.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Contact]]">
+<tr><th>[[Contact]]</th><td>Poison delivered by touch to item. Can't apply via weapon attack.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Curse]]">
 <tr><th>[[Curse]]</th><td><u>Can only be removed by effects which specifically target curses.</u></td></tr>
@@ -85,6 +88,15 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Incapacitation]]">
 <tr><th>[[Incapacitation]]</th><td>This has reduced effect against creatures of higher level.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Ingested]]">
+<tr><th>[[Ingested]]</th><td>Poison must be taken by mouth; save when consumed.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Inhaled]]">
+<tr><th>[[Inhaled]]</th><td>Creates 10 foot cube of poison gas for 1 minute. Hold breath for +2 circumstance for 1 round.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Injury]]">
+<tr><th>[[Injury]]</th><td>Affects target struck with piercing or slashing damage. Poison lost on fumble but not miss.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Interact]]">
 <tr><th>[[Interact]]</th><td>You must [[Interact]] with this item to activate it.</td></tr>
@@ -166,6 +178,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Vigilante]]">
 <tr><th>[[Vigilante]]</th><td>You must be in your vigilante identity to use this.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Virulent]]">
+<tr><th>[[Virulent]]</th><td>Needs two save successes, or one crit, to lower stage by 1.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Visual]]">
 <tr><th>[[Visual]]</th><td>This works only against creatures that can see it and are not [[Blinded]].</td></tr>

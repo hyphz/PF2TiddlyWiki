@@ -1,0 +1,34 @@
+created: 20210207215442881
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 3000 30000
+item-variants: Lesser Moderate Greater Major
+mod-acrobatics: -2 penalty.
+mod-arcana: +1-4 item bonus.
+mod-athletics: -2 penalty.
+mod-crafting: +1-4 item bonus.
+mod-lore: +1-4 item bonus.
+mod-occultism: +1-4 item bonus.
+mod-recall_knowledge: +1-4 item bonus and promote fumbles.
+mod-society: +1-4 item bonus.
+mod-strike: -2 penalty to unarmed and weapon.
+modified: 20210207220117218
+tags: Alchemical Consumable Item Mutagen Elixir Polymorph
+title: Cognitive Mutagen
+type: text/vnd.tiddlywiki
+
+Your mind becomes clear and cognition flows freely, but physical matters seem ephemeral.
+
+''Benefit'' You gain an item bonus to [[Arcana]], [[Crafting]], [[Lore]], [[Occultism]], and [[Society]] checks and all checks to [[Recall Knowledge]]. Your critical failures on Recall Knowledge checks become failures instead.
+
+//Greater and Major Cognitive Mutagen also cause you to become trained in a skill for the duration, chosen when the mutagen is created.//
+
+''Drawback'' You take a –2 penalty to weapon and unarmed attack rolls, [[Athletics]] checks, and [[Acrobatics]] checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.
+
+| !Type | !Level | !Price | !Item Bonus | !Duration | !Trained in skill |
+| Lesser | 1 | 40 | +1 | 1 minute | None |
+| Moderate | 3 | 120 | +2 | 10 minutes | None |
+| Greater | 11 | 3000 | +3 | 1 hour | Any [[Intelligence]] skill |
+| Major | 17 | 30000 | +4 | 1 hour | Any skill |
+

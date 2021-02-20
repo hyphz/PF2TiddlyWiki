@@ -1,0 +1,21 @@
+created: 20210207210703613
+item-bulk: L
+item-hands: 1
+item-level: 1 6 10 14
+item-price: 30 350 1600 6750
+item-variants: Lesser Moderate Greater Major
+mod-fortitude: +2-4 item vs diseases.
+modified: 20210207210822373
+tags: Alchemical Consumable Item Healing Elixir
+title: Antiplague
+type: text/vnd.tiddlywiki
+
+Antiplague can fortify the body’s defenses against diseases. Upon drinking an antiplague (as an [[Interact]] action), you gain an item bonus to Fortitude saving throws against diseases for 24 hours; this applies to your daily save against a disease’s progression.
+
+When you drink a Major antiplague, you can immediately attempt a saving throw against one disease of 14th level or lower affecting you. If you succeed, you are cured of the disease.
+
+| !Type | !Level | !Price | !Item Bonus |
+| Lesser | 1 | 30 | +2 |
+| Moderate | 6 | 350 | +3 |
+| Greater | 10 | 1600 | +4 |
+| Major | 14 | 6750 | +4 |

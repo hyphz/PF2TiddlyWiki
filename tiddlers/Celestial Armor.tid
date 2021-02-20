@@ -1,0 +1,30 @@
+created: 20210220173610394
+item-bulk: 1
+item-level: 13
+item-price: 25000
+item-slot: Armor
+mod-ac: +1 circumstance.
+mod-diplomacy: +2 item vs all except fiends.
+mod-drained: If non-good, can't recover while wearing.
+mod-fortitude: +1 circumstance vs fiends.
+mod-reflex: +1 circumstance vs fiends.
+mod-will: +1 circumstance vs fiends.
+modified: 20210220174012198
+tags: Invested Magical Item Command Divine Good Transmutation
+title: Celestial Armor
+type: text/vnd.tiddlywiki
+
+''Craft Requirements'' You are good.
+
+This suit of [[+2|Armor Potency]] [[Resilient]] chain mail is made of fine white links of a strange and slightly translucent pale metal, and the sleeves and skirt are fashioned into smaller trails that resemble feathers. 
+
+Unlike normal chain mail, celestial armor has no Speed reduction, its armor check penalty is 0, and its Bulk is 1.
+
+You gain a +1 circumstance bonus to AC and saving throws against fiends. 
+
+You appear radiant while you wear the armor, giving you a +2 item bonus to [[Diplomacy]] checks against all creatures except fiends.
+
+If you are not good, you are [[Drained]] 2 while wearing celestial armor. You can’t recover from this condition while wearing the armor.
+
+''Activate'' {{OneAction}} Command; ''Frequency'' once per day; ''Effect'' The armor sprouts glowing wings that grant you a fly Speed of 30 feet. The wings shed bright light in a 40-foot radius (and [[Dim Light]] to the next 40 feet). The wings fade away after 10 minutes.
+

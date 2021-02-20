@@ -1,0 +1,21 @@
+created: 20210220160110684
+item-bulk: L
+item-hands: 1
+item-level: 19
+item-price: 65000
+modified: 20210220160303367
+tags: Alchemical Consumable Item Poison Contact Virulent
+title: Black Lotus Extract
+type: text/vnd.tiddlywiki
+
+Black lotus extract causes severe internal bleeding.
+
+| !Saving Throw |DC 42 [[Fortitude]] |
+| !Onset |1 minute |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |15d6 poison damage and [[Drained]] 1 (1 round) |
+| !Stage 2 |17d6 poison damage and [[Drained]] 1 (1 round) |
+| !Stage 3 |20d6 poison damage and [[Drained]] 2 (1 round) |
+
+
+

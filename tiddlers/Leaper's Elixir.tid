@@ -1,0 +1,27 @@
+created: 20210220151407057
+item-bulk: L
+item-hands: 1
+item-level: 1 7
+item-price: 30 550
+item-variants: Lesser Greater
+mod-high_jump: Jump as single action without need to Stride.
+mod-long_jump: Jump as single action without need to Stride.
+modified: 20210220151610903
+tags: Alchemical Consumable Item Elixir
+title: Leaper's Elixir
+type: text/vnd.tiddlywiki
+
+This tingly solution increases the elasticity and contraction of your leg muscles. 
+
+For 1 minute after drinking this elixir, you can [[High Jump]] or [[Long Jump]] as a single action instead of 2 actions. 
+
+If you do, you don’t perform the initial Stride (nor do you fail if you don’t Stride 10 feet).
+
+If you drink a greater Leaper's Elixir, the vertical distance you can jump with a High Jump is the same as the distance you can jump horizontally with a Long Jump.
+
+| !Type | !Level | !Price |
+| Lesser | 1 | 30 |
+| Greater | 7 | 550 |
+
+
+

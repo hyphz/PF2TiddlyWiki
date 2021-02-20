@@ -1,0 +1,19 @@
+created: 20210207215219625
+item-bulk: L
+item-hands: 1
+item-level: 1 5 9
+item-price: 30 250 1100
+item-variants: Lesser Moderate Greater
+modified: 20210207215405886
+tags: Alchemical Consumable Item Elixir
+title: Cheetah's Elixir
+type: text/vnd.tiddlywiki
+
+Enzymatic compounds in this elixir strengthen and excite the muscles in your legs. 
+
+You gain a status bonus to your Speed for the listed duration. //NB: Not an item bonus.//
+
+| !Type | !Level | !Price | !Speed status bonus | !Duration |
+| Lesser | 1 | 30 | +5' | 1 minute |
+| Moderate | 5 | 250 | +10' | 10 minutes |
+| Greater | 9 | 1100 | +10' | 1 hour |

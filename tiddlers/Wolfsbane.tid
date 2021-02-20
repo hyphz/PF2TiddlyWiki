@@ -1,0 +1,23 @@
+created: 20210220170832848
+item-bulk: L
+item-hands: 1
+item-level: 10
+item-price: 1550
+modified: 20210220170957633
+tags: Alchemical Consumable Item Poison Ingested
+title: Wolfsbane
+type: text/vnd.tiddlywiki
+
+Wolfsbane appears in folklore for its link to werecreatures.
+
+If you are afflicted with [[Lycanthropy]] and survive stage 3 of wolfsbane, you’re immediately cured of the lycanthropy.
+
+| !Saving Throw |DC 30 [[Fortitude]] |
+| !Onset |10 minutes |
+| !Maximum Duration |6 minutes |
+| !Stage 1 |12d6 poison damage (1 minute) |
+| !Stage 2 |16d6 poison damage (1 minute) |
+| !Stage 3 |20d6 poison damage (1 minute) |
+
+
+

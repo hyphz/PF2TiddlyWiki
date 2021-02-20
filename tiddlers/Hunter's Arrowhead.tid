@@ -2,7 +2,9 @@ created: 20200814205937163
 item-level: 4
 item-price: 8000
 item-slot: Worn
-modified: 20200814210145892
+mod-hunt_prey: +1 item bonus to attacks vs your prey.
+mod-survival: +1 item bonus
+modified: 20210207204023022
 tags: Item Rare Enchantment Invested Magical
 title: Hunter's Arrowhead
 type: text/vnd.tiddlywiki

@@ -1,0 +1,21 @@
+created: 20210220165116264
+item-bulk: L
+item-hands: 2
+item-level: 8
+item-price: 750
+modified: 20210220165213308
+tags: Alchemical Consumable Item Poison Contact
+title: Nettleweed Residue
+type: text/vnd.tiddlywiki
+
+Mindfog mist can be used to undermine spellcasters, as its effect on a victim’s mental faculties are swift and powerful.
+
+| !Saving Throw |DC 27 [[Fortitude]] |
+| !Onset |1 minute |
+| !Maximum Duration |6 minutes |
+| !Stage 1 |8d6 poison damage (1 minute) |
+| !Stage 2 |10d6 poison damage (1 minute) |
+| !Stage 3 |13d6 poison damage (1 minute) |
+
+
+

@@ -1,0 +1,23 @@
+created: 20210220165921941
+item-bulk: L
+item-hands: 2
+item-level: 10
+item-price: 1600
+modified: 20210220170056536
+tags: Alchemical Consumable Item Poison Injury Negative
+title: Shadow Essence
+type: text/vnd.tiddlywiki
+
+Distilled from the Plane of Shadow, this oily substance imposes tenebrous effects. 
+
+The [[Enfeebled]] condition from shadow essence lasts for 24 hours.
+
+| !Saving Throw |DC 29 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |3d6 negative damage and 2d6 poison damage (1 round) |
+| !Stage 2 |3d6 negative damage, 2d6 poison damage and [[Enfeebled]] 1 (1 round) |
+| !Stage 3 |3d6 negative damage, 2d6 poison damage and [[Enfeebled]] 2 (1 round) |
+
+
+

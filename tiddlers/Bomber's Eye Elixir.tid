@@ -1,0 +1,19 @@
+created: 20210207211856737
+item-bulk: L
+item-hands: 1
+item-level: 4 14
+item-price: 140 7000
+item-variants: Lesser Greater
+mod-cover: Reduces AC bonus by 1-2.
+modified: 20210207212010888
+tags: Alchemical Consumable Item Elixir
+title: Bomber's Eye Elixir
+type: text/vnd.tiddlywiki
+
+This tincture lets you pinpoint your foes. 
+
+For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from cover.
+
+| !Type | !Level | !Price | !Reduction to cover AC bonus |
+| Lesser | 4 | 140 | -1 |
+| Greater | 14 | 7000 | -2 |

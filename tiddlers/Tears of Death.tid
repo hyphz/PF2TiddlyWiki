@@ -1,0 +1,21 @@
+created: 20210220170647291
+item-bulk: L
+item-hands: 2
+item-level: 20
+item-price: 120000
+modified: 20210220170807079
+tags: Alchemical Consumable Item Poison Contact Virulent
+title: Tears of Death
+type: text/vnd.tiddlywiki
+
+Tears of death are among the most powerful of alchemical poisons, distilled from extracts of five other deadly poisons in just the right ratios.
+
+| !Saving Throw |DC 46 [[Fortitude]] |
+| !Onset |1 minute |
+| !Maximum Duration |10 minutes |
+| !Stage 1 |18d6 poison damage and [[Paralyzed]] (1 round) |
+| !Stage 2 |25d6 poison damage and [[Paralyzed]] (1 minute) |
+| !Stage 3 |30d6 poison damage and [[Paralyzed]] (1 minute) |
+
+
+

@@ -1,0 +1,24 @@
+created: 20210220152603863
+item-bulk: L
+item-hands: 1
+item-level: 4 12 16
+item-price: 150 3200 14000
+item-variants: Lesser Moderate Greater
+mod-temperature_effects: Gives immunity to some levels of heat.
+modified: 20210220152821007
+tags: Alchemical Consumable Item Elixir
+title: Salamander Elixir
+type: text/vnd.tiddlywiki
+
+This elixir is made from salamander scales to withstand fire. 
+
+For 24 hours, you are protected from the effects of some levels of [[heat|Temperature Effects]].
+
+| !Type | !Level | !Price | !Protects against |
+| Lesser | 4 | 150 | Severe |
+| Moderate | 12 | 3200 | Severe, Extreme |
+| Greater | 16 | 14000 | Severe, Extreme, Incredible |
+
+
+
+

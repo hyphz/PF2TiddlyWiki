@@ -1,0 +1,21 @@
+created: 20210220162943197
+item-bulk: L
+item-hands: 1
+item-level: 17
+item-price: 22500
+modified: 20210220163124394
+tags: Alchemical Consumable Item Poison Ingested
+title: Hemlock
+type: text/vnd.tiddlywiki
+
+Concentrated hemlock is a particularly deadly toxin that halts muscle action—including that of the victim’s heart.
+
+| !Saving Throw |DC 40 [[Fortitude]] |
+| !Onset |30 minutes |
+| !Maximum Duration |60 minutes |
+| !Stage 1 |17d6 poison damage and [[Enfeebled]] 2 (10 minutes) |
+| !Stage 2 |21d6 poison damage and [[Enfeebled]] 3 (10 minutes) |
+| !Stage 3 |26d6 poison damage and [[Enfeebled]] 4 (10 minutes) |
+
+
+

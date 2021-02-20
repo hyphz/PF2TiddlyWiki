@@ -1,0 +1,21 @@
+created: 20210220162513526
+item-bulk: L
+item-hands: 2
+item-level: 6
+item-price: 400
+modified: 20210220162638388
+tags: Alchemical Consumable Item Poison Injury
+title: Giant Scorpion Venom
+type: text/vnd.tiddlywiki
+
+Scorpion venom is excruciating and its effects are somewhat debilitating.
+
+| !Saving Throw |DC 22 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |1d10 poison damage and [[Enfeebled]] 1 (1 round) |
+| !Stage 2 |2d10 poison damage and [[Enfeebled]] 1 (1 round) |
+| !Stage 3 |2d10 poison damage and [[Enfeebled]] 2 (1 round) |
+
+
+

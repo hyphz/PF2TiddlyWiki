@@ -1,0 +1,21 @@
+created: 20210220163346776
+item-bulk: L
+item-hands: 2
+item-level: 5
+item-price: 250
+modified: 20210220163531171
+tags: Alchemical Consumable Item Poison Injury
+title: Hunting Spider Venom
+type: text/vnd.tiddlywiki
+
+This venom erodes its target’s defenses, aiding the spider in securing prey.
+
+| !Saving Throw |DC 21 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |1d10 poison damage and [[Flat-Footed]] (1 round) |
+| !Stage 2 |1d12 poison damage, [[Clumsy]] 1 and [[Flat-Footed]] (1 round) |
+| !Stage 3 |2d6 poison damage, [[Clumsy]] 2 and [[Flat-Footed]] (1 round) |
+
+
+
