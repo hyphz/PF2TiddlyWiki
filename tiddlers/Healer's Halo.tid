@@ -1,0 +1,16 @@
+created: 20210226165345049
+feat-fpre: Halo
+feat-level: 5
+feat-vher: Aasimar
+modified: 20210226165511731
+tags: Heritage Feat Aasimar Action Reaction
+title: Healer's Halo
+type: text/vnd.tiddlywiki
+
+''Trigger'' You or allies within 30 feet recover Hit Points while your [[Halo]] is active.
+
+Your halo can enhance positive energy. 
+
+Creatures who have recovered Hit Points from a <<tag Positive>> <<tag Healing>> effect recover an additional 1d6 Hit Points. 
+
+Creatures who benefit from this power become temporarily immune to its effect for the next 10 minutes.

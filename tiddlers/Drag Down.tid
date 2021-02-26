@@ -1,0 +1,20 @@
+a-actions: 2
+a-skill: Athletics
+a-subactions: Grapple
+created: 20210226173733559
+feat-anc: Azarketi
+feat-level: 5
+modified: 20210226173854849
+tags: Ancestry Feat Azarketi Action
+title: Drag Down
+type: text/vnd.tiddlywiki
+
+While swimming in water at least 10 feet deep, you grab an adjacent creature (on nearby land or in the water) and pull it below the surface. 
+
+Attempt an [[Athletics]] check to [[Grapple]] the creature. 
+
+On a success, if the creature is on land, in addition to the normal effects of Grapple, you pull the creature into the water in a space adjacent to you. 
+
+If the creature is already in the water, on a success, in addition //to// the normal effects of Grapple, you drag the creature 10 feet deeper into the water, moving 10 feet with the creature.  
+
+Moving a creature into water or deeper into water using Drag Down is forced movement for the creature but not for you.

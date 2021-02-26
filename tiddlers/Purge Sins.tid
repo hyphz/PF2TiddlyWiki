@@ -1,0 +1,17 @@
+a-actions: 1
+a-skill: Religion
+created: 20210226170300703
+feat-level: 13
+feat-vher: Aasimar
+modified: 20210226170403400
+tags: Heritage Feat Aasimar Action
+title: Purge Sins
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You call on your celestial forebears to rid your body of all toxins and impurities. 
+
+For each disease or poison currently affecting you, attempt a [[Religion]] check to [[Counteract]] that disease or poison. 
+
+As normal, your counteract level is equal to half your level, rounded up.

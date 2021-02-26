@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Intelligence Free
+anc-flaws: Charisma
+anc-hp: 8
+anc-langs: Androffan Common
+anc-size: Medium
+anc-special: [[Constructed]] [[Unaware]] [[Low-Light Vision]]
+anc-speed: 25
+created: 20210226174601792
+modified: 20210226174650329
+tags: Ancestry Humanoid Uncommon Android
+title: Android
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

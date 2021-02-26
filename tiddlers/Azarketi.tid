@@ -1,0 +1,14 @@
+anc-boosts: Constitution Charisma Free
+anc-flaws: Wisdom
+anc-hp: 8
+anc-langs: Algholthu Common
+anc-size: Medium
+anc-special: [[Low-Light Vision]] [[Hydration]] [[Azarketi Swimming]]
+anc-speed: 20
+created: 20210226171254455
+modified: 20210226172329200
+tags: Ancestry Humanoid Uncommon Azarketi Amphibious
+title: Azarketi
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}
