@@ -1,5 +1,5 @@
 created: 20200828235843358
-modified: 20200829000353049
+modified: 20210227184219567
 tags: Heritage Versatile Uncommon
 title: Dhampir
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ You are the scion of a vampire, half living and half undead, gifted with uncanny
 
 You gain the <<tag Dhampir>> trait, in addition to the traits from your ancestry. 
 
-You have the [[Negative Healing]] ability, which means you are harmed by positive damage and healed by negative effects as if you were <<tag Undead>>.  //(NB: you are ''not'' damaged by positive healing.)//
+You have the [[Negative Healing]] ability, which means you are harmed by positive damage and healed by negative effects as if you were <<tag Undead>>.  //(NB: you are damaged by positive ''damage'', but merely ignore positive ''healing''.)//
 
 You also gain [[Low-Light Vision]], or you gain [[Darkvision]] if your ancestry already has low light vision.
 

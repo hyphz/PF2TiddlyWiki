@@ -1,0 +1,20 @@
+a-actions: 2
+a-defense: Reflex
+created: 20210227180244306
+feat-fpre: [[Brine May]] [[Snow May]] [[Veil May]] [[Virga May]]
+feat-level: 9
+feat-vher: Changeling
+modified: 20210227180517325
+tags: Feat Heritage Changeling Action Evocation Primal
+title: Invoke the Elements
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You summon an aura of shimmering heat, flurrying snow, crashing waves, or swirling wind and lightning. 
+
+For 1 minute, you gain [[Concealment|Concealed]] against creatures more than 5 feet away, and any creature that ends its turn within 5 feet of you suffers 1d12 damage (basic [[Reflex]] save using your class DC or spell DC, whichever is higher). 
+
+At 13th and 17th level, this damage increases by 1d12. 
+
+A [[Veil May]] changeling deals fire damage, a [[Snow May]] changeling deals cold damage, a [[Brine May]] changeling deals bludgeoning damage and the effect gains the water trait, and a [[Virga May]] changeling deals electricity damage.

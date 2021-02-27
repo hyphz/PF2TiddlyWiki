@@ -1,0 +1,13 @@
+created: 20210227161614745
+feat-anc: Azarketi
+feat-level: 5
+mod-diplomacy: Can use with amphibious or aquatic animals.
+mod-make_an_impression: Works with amphibious/aquatic animals and +1 circumstance.
+modified: 20210227161723070
+tags: Ancestry Feat Azarketi
+title: Aquatic Conversationalist
+type: text/vnd.tiddlywiki
+
+You can ask questions of, receive answers from, and use the [[Diplomacy]] skill with animals with the amphibious or aquatic traits. 
+
+You gain a +1 circumstance bonus to [[Make an Impression]] on such animals.

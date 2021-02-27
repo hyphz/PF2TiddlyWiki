@@ -1,0 +1,16 @@
+created: 20210227182310496
+feat-level: 1
+feat-vher: Dhampir
+mod-blinded: Duration reduced by 1 round, but not to zero.
+mod-dazzled: Duration reduced by 1 round, but not to zero.
+modified: 20210227182453706
+modtag-darkness: +1 circumstance to saves.
+modtag-light: +1 circumstance to saves.
+modtag-shadow: +1 circumstance to saves.
+tags: Dhampir Heritage Feat Lineage
+title: Cel Rau
+type: text/vnd.tiddlywiki
+
+You are a cel rau, child of a strigoi, one of the first vampires to walk Golarion. Your heritage ties you to the Shadow Plane and grants you strange resilience to light and darkness alike. 
+
+You gain a +1 circumstance bonus to saving throws against effects with the <<tag Darkness>>, <<tag Light>>, or <<tag Shadow>> traits, and whenever you become [[Dazzled]] or [[Blinded]] for at least 2 rounds, you can reduce the duration by 1 round.

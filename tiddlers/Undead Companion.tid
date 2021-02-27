@@ -1,0 +1,15 @@
+created: 20210227183546194
+feat-level: 5
+feat-vher: Dhampir
+modified: 20210227183649762
+tags: Dhampir Heritage Feat
+title: Undead Companion
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' an [[Animal Companion|Animal Companions]] or a [[Familiar|Familiar (Rule)]]
+
+Your companion is also touched by undeath, a mix of a traditional companion and a skeleton, zombie, or stranger form of unlife. 
+
+Your companion gains the <<tag Undead>> trait instead of the <<tag Animal>> trait and gains [[Negative Healing]]. 
+
+It otherwise uses the normal rules for an animal companion or familiar; that means it can still be affected by many conditions or effects to which most undead are immune.

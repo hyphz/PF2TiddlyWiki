@@ -1,14 +1,17 @@
 created: 20200828234000866
-modified: 20200828234041306
+modified: 20210227175115098
 tags: 
 title: VHerFeatList
 type: text/vnd.tiddlywiki
 
+<table>
+<tr><th>Level</th><th>Feats</th></tr>
 <$list filter="1 5 9 13 17" variable="level">
-<h3>Level <<level>> {{!!title}} Feats</h3>
-<ul>
+<tr><th><<level>></th>
+<td>
 <$list filter="[tag[Feat]field:feat-vher{!!title}field:feat-level<level>sort[]]">
-<li><$link/></li>
+{{||NiceFeatDisplay}}<br />
 </$list>
-</ul>
+</td></tr>
 </$list>
+</table>

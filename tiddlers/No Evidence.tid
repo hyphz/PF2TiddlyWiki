@@ -1,0 +1,14 @@
+created: 20210227171453604
+feat-anc: Catfolk
+feat-level: 9
+feat-skill: Survival
+feat-spre: E
+mod-avoid_notice: Can also automatically [[Cover Tracks]].
+modified: 20210227171552302
+tags: Ancestry Feat Catfolk
+title: No Evidence
+type: text/vnd.tiddlywiki
+
+You leave little sign when attempting to remain unseen. 
+
+When you [[Avoid Notice]], you also gain the benefits of [[Cover Tracks]] unless you choose not to.

@@ -1,0 +1,12 @@
+created: 20210227182123833
+feat-level: 1
+feat-vher: Dhampir
+modified: 20210227182215430
+modtag-emotion: +1 circumstance on saves and promote successes.
+tags: Dhampir Heritage Feat Lineage
+title: Adhyabhau
+type: text/vnd.tiddlywiki
+
+You descend from the rare psychic vampires known as vetalaranas. Your forebear gained sustenance from the mental and emotional energy of living creatures, which manifests in you as powerful resistance to such effects. 
+
+You gain a +1 circumstance bonus to [[Will]] saves against effects with the <<tag Emotion>> trait, and when you roll a success on a saving throw against such an effect, you get a critical success instead.

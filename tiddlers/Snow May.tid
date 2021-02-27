@@ -1,0 +1,19 @@
+created: 20210227175204812
+feat-level: 1
+feat-vher: Changeling
+mod-cover_tracks: Always active and can move full Speed.
+mod-difficult_terrain: Ignore caused by snow.
+mod-temperature_effects: Cold doesn't make you fatigued more quickly.
+mod-uneven_ground: Treat ice as only difficult terrain.
+modified: 20210227175411235
+tags: Feat Heritage Changeling Lineage
+title: Snow May
+type: text/vnd.tiddlywiki
+
+You’re the child of a winter hag, with one blue-white eye and an affinity for rime and snow. 
+
+When moving over ice or snow in arctic terrain, you always gain the benefits of the [[Cover Tracks]] action without needing to use the activity or having to move half your Speed. 
+
+You don’t treat icy terrain as [[Uneven Ground]] (though it’s still [[Difficult Terrain]] for you), and you ignore difficult terrain caused by snow. 
+
+Cold precipitation and environmental cold effects don’t alter the time it takes for you to become fatigued.

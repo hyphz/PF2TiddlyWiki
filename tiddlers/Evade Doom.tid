@@ -1,0 +1,12 @@
+created: 20210227171240646
+feat-anc: Catfolk
+feat-level: 9
+mod-doomed: Make DC 17 flat to negate being doomed.
+modified: 20210227171431101
+tags: Ancestry Feat Catfolk
+title: Evade Doom
+type: text/vnd.tiddlywiki
+
+You can elude supernatural disaster. 
+
+When you would gain the [[Doomed]] condition, you can attempt a DC 17 flat check. On a success, you don’t gain the doomed condition.

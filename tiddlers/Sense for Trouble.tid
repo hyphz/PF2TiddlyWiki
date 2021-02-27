@@ -1,0 +1,15 @@
+created: 20210227171811394
+feat-anc: Catfolk
+feat-fpre: [[Cat's Luck]]
+feat-level: 9
+mod-cats_luck: Can use when rolling initative.
+modified: 20210227172049422
+tags: Ancestry Feat Catfolk
+title: Sense for Trouble
+type: text/vnd.tiddlywiki
+
+You can tell when something’s off. 
+
+You can trigger [[Cat's Luck]] after you roll [[Initiative]], in addition to its normal trigger, to reroll your Initiative and take the higher of the two results. 
+
+This still counts against Cat’s Luck’s frequency, as normal.

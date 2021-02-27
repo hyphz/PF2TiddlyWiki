@@ -1,0 +1,15 @@
+created: 20210227161111308
+feat-anc: Azarketi
+feat-level: 1
+mod-sense_direction: Promote fumbles in aquatic.
+mod-subsist: Promote fumbles in aquatic.
+modified: 20210227161326055
+tags: Ancestry Feat Azarketi
+title: Pelagic Aptitude
+type: text/vnd.tiddlywiki
+
+You’ve learned special tricks to survive underwater. 
+
+You gain the trained proficiency rank in [[Survival]]. 
+
+When in an aquatic environment, if you roll a critical failure on a Survival skill check to [[Sense Direction]] or [[Subsist]], you get a failure instead.

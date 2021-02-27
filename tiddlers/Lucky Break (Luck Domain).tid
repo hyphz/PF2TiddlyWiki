@@ -13,13 +13,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200805201625591
+modified: 20210227170832742
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
 tags: Spell Verbal Concentrate [[Focus Spell]] Reaction Uncommon Cleric DIvination Fortune
-title: Lucky Break
+title: Lucky Break (Luck Domain)
 type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}

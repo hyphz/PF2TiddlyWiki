@@ -1,0 +1,14 @@
+created: 20210227182532607
+feat-level: 1
+feat-vher: Dhampir
+mod-gather_information: +1 circumstance.
+mod-lie: +1 circumstance.
+mod-make_an_impression: +1 circumstance.
+modified: 20210227182648854
+tags: Dhampir Heritage Feat
+title: Nocturnal Charm
+type: text/vnd.tiddlywiki
+
+The supernatural charm of your vampiric progenitor hangs about you, and you’ve learned to use it on mortals. 
+
+Against humanoids (or other creatures of your type, if you’re not a humanoid), you gain a +1 circumstance bonus to [[Deception]] checks to [[Lie]], and to [[Diplomacy]] checks to [[Gather Information]] and [[Make an Impression]].

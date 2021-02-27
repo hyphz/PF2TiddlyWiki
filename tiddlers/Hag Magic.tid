@@ -1,7 +1,7 @@
 created: 20200828235432748
 feat-level: 13
 feat-vher: Changeling
-modified: 20200828235708077
+modified: 20210227180929184
 tags: Feat Heritage Changeling
 title: Hag Magic
 type: text/vnd.tiddlywiki
@@ -20,5 +20,6 @@ The eligible spells granted by the most prominent types of hag are:
 | Annis Hag | [[Slag May]] | [[Earthbind]] |
 | Night Hag | [[Dream May]] | [[Nightmare]] |
 
-//No rule states that you must take a lineage feat to determine which type of hag your mother was. But if you have taken one of these feats, the decision is made by that feat.//
+//No rule states that you ''must'' take a lineage feat to determine which type of hag your mother was. But if you have taken one of these feats, the decision is made by that feat.//
 
+//The ancestry guide does not list spells associated with moon hags, winter hags, blood hags or storm hags, even though it does provide Lineage feats for them.//

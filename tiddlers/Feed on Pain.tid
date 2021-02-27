@@ -1,0 +1,20 @@
+created: 20210227182909617
+feat-fpre: Adhyabhau
+feat-level: 5
+feat-vher: Dhampir
+modified: 20210227183000960
+tags: Dhampir Heritage Feat Action Reaction
+title: Feed on Pain
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per hour
+
+''Trigger'' You deal <<tag Mental>> damage.
+
+The psychic feedback of another creature’s pain fills you with false life. 
+
+You gain temporary Hit Points equal to half the mental damage you dealt from the triggering effect. 
+
+If the triggering action dealt mental damage to multiple creatures, calculate these temporary Hit Points using the creature that took the most damage. 
+
+You lose any remaining temporary Hit Points after 1 minute.

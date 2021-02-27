@@ -1,0 +1,17 @@
+a-subactions: Demoralize
+created: 20210227171613037
+feat-anc: Catfolk
+feat-level: 9
+feat-skill: Intimidation
+feat-spre: E
+mod-avoid_notice: Can also automatically [[Cover Tracks]].
+modified: 20210227171725681
+tags: Ancestry Feat Catfolk Reaction Action
+title: Predator's Growl
+type: text/vnd.tiddlywiki
+
+''Trigger'' You successfully [[Seek]] a [[Hidden]] or [[Undetected]] creature.
+
+You give a throaty growl to attempt to [[Demoralize]] a creature you just found. 
+
+You don’t take the –4 penalty for not sharing a language with the creature.

@@ -1,0 +1,13 @@
+created: 20210227162829280
+feat-anc: Azarketi
+feat-level: 13
+mod-hide: Don't need cover if submerged and observer 20' away.
+mod-sneak: Don't need cover if submerged and observer 20' away.
+modified: 20210227162921603
+tags: Ancestry Feat Azarketi
+title: Aquatic Camouflage
+type: text/vnd.tiddlywiki
+
+You blend into the waves. 
+
+While fully submerged in water, as long as an observer is at least 20 feet away from you, you don’t need cover from that observer to [[Hide]] or [[Sneak]].

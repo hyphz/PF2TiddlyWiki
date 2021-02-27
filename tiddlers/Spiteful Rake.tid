@@ -1,0 +1,17 @@
+a-actions: 2
+a-hands: 2
+created: 20210227180733753
+feat-level: 13
+feat-vher: Changeling
+modified: 20210227180835564
+tags: Feat Heritage Changeling Action
+title: Spiteful Rake
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' claw unarmed attack
+
+Your instincts sing of spite and malice, and you’ve learned a devastating trick: go for the eyes.
+
+You make a claw [[Strike]]. 
+
+If you hit and deal damage, the target is [[Dazzled]] for 1 round. On a critical hit, the target is instead [[Blinded]] for 1 round and dazzled until restored to maximum hit points.

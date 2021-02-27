@@ -1,0 +1,17 @@
+created: 20210227170808238
+feat-anc: Catfolk
+feat-fpre: [[Cat's Luck]]
+feat-level: 5
+mod-cats_luck: Use on fail or fumble on Athletics or Acrobatics.
+modified: 20210227171047850
+tags: Ancestry Feat Catfolk
+title: Lucky Break (Catfolk)
+type: text/vnd.tiddlywiki
+
+You catch yourself as you make a mistake. 
+
+You can trigger [[Cat's Luck]] when you fail or critically fail on an [[Athletics]] or [[Acrobatics]] skill check, in addition to its normal trigger. 
+
+When you do, you reroll the triggering skill check and use the better result. 
+
+This still counts against Cat’s Luck’s frequency, as normal.

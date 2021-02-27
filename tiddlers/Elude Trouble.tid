@@ -1,0 +1,16 @@
+a-subactions: Stride
+created: 20210227172542678
+feat-anc: Catfolk
+feat-level: 17
+modified: 20210227172625067
+tags: Ancestry Feat Catfolk Action Reaction
+title: Elude Trouble
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature misses you with a melee attack.
+
+You slip through your foe’s opening. 
+
+[[Stride]] up to your Speed. 
+
+This movement doesn’t trigger movement-based reactions from the creature that missed you.

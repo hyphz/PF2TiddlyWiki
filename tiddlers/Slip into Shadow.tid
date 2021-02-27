@@ -1,0 +1,16 @@
+created: 20210227183752018
+feat-level: 9
+feat-vher: Dhampir
+modified: 20210227183856900
+modtag-darkness: Spell also reduces bright light to dim for 5' around you.
+tags: Dhampir Heritage Feat
+title: Slip into Shadow
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' ability to cast at least one spell with the <<tag Darkness>> trait
+
+Your shadow magic bleeds into the space around you. 
+
+Whenever you cast a spell with the darkness trait, a lingering aura of shadows reduces bright light within a 5-foot emanation around you to [[Dim Light]] until the end of your turn. 
+
+Like in natural dim light, you can use these shadows to [[Hide]], but the aura still makes your overall position obvious, so you can’t become [[Undetected]] through the use of these shadows alone.
