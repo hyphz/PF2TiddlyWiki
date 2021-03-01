@@ -1,0 +1,15 @@
+created: 20210301222430579
+feat-anc: Hobgoblin
+feat-level: 17
+modified: 20210301222652713
+tags: Ancestry Feat Hobgoblin Action Reaction Healing Necromancy Positive
+title: Cantorian Restoration
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' A living creature within 60 feet would die.
+
+The energy that flows in your blood can save a life in the direst of times.
+
+The triggering creature receives the effects of [[Breath of Life]], except they recover a number of Hit Points equal to 6d8 plus your Constitution modifier.

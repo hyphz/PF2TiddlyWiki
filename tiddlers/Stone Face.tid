@@ -1,0 +1,13 @@
+created: 20210301220305631
+feat-anc: Hobgoblin
+feat-level: 1
+mod-intimidate: +2 circumstance to Will DC when opposing.
+modified: 20210301220433663
+modtag-fear: +1 circumstance to saves.
+tags: Ancestry Feat Hobgoblin
+title: Stone Face
+type: text/vnd.tiddlywiki
+
+Through conditioning or experience, you’ve mastered the art of composure, even in the face of fear. 
+
+You gain a +1 circumstance bonus to saves against effects with the <<tag Fear>> trait, and a +2 circumstance bonus to your [[Will]] DC against //[[Intimidation]]// skill actions, such as [[Demoralize]].

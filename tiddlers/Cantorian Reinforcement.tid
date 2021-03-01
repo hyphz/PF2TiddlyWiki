@@ -1,0 +1,13 @@
+created: 20210301215943808
+feat-anc: Hobgoblin
+feat-level: 1
+modified: 20210301220042376
+modtag-disease: Saves reduce stage by 1 extra.
+modtag-poison: Saves reduce stage by 1 extra.
+tags: Ancestry Feat Hobgoblin
+title: Cantorian Reinforcement
+type: text/vnd.tiddlywiki
+
+The life energy that helped create the first hobgoblins is particularly potent in you, protecting you from ongoing maladies. 
+
+When you succeed at a saving throw against a <<tag Disease>> or <<tag Poison>>, you reduce the stage by 2 (or 1 for a virulent disease or poison), and when you critically succeed, you reduce the stage by 3 (or 2 for a virulent disease or poison).

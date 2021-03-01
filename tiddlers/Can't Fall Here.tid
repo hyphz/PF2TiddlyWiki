@@ -1,0 +1,17 @@
+created: 20210301221651344
+feat-anc: Hobgoblin
+feat-level: 13
+modified: 20210301221829584
+tags: Ancestry Feat Hobgoblin Action Reaction Auditory Manipulate
+title: Can't Fall Here
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' An adjacent and [[Willing]] ally would be reduced to 0 HP but not killed.
+
+You physically help an ally remain standing and encourage them to push through their pain against dire odds. 
+
+Your ally doesn’t fall unconscious and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. 
+
+Fighting onward with such an injury isn’t without consequence; your ally’s [[Wounded]] condition increases by 1.

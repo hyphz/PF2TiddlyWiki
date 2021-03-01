@@ -1,0 +1,12 @@
+created: 20210301221511616
+feat-anc: Hobgoblin
+feat-level: 9
+mod-flat-footed: Flat footed if in reach of you and 2 allies.
+modified: 20210301221559836
+tags: Ancestry Feat Hobgoblin
+title: Squad Tactics
+type: text/vnd.tiddlywiki
+
+You are adept at working with your allies to surround a foe. 
+
+If an enemy is within reach of you and at least two of your allies, that enemy is [[Flat-Footed]] against you.

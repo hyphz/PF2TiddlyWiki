@@ -1,5 +1,5 @@
 created: 20200801191700212
-modified: 20201003150150241
+modified: 20210227230720137
 tags: 
 title: AncestrySummary
 type: text/vnd.tiddlywiki
@@ -21,57 +21,6 @@ type: text/vnd.tiddlywiki
 </$list>
 </table>
 
-<table>
-<tr><th>Level</th><th>Feats</th></tr>
-<$list filter="1 5 9 13 17" variable="level">
-<tr><th><<level>></th>
-<td>
-<$list filter="[tag[Feat]tag[Ancestry]tag<currentTiddler>field:feat-level<level>sort[]]">
-<$list filter="[all[current]field:a-actions[1]]">
-{{OneAction}}
-</$list>
-<$list filter="[all[current]field:a-actions[2]]">
-{{TwoAction}}
-</$list>
-<$list filter="[all[current]field:a-actions[3]]">
-{{ThreeAction}}
-</$list>
-<$list filter="[all[current]tag[Reaction]]">
-{{ReactionIcon}}
-</$list>
-<$list filter="[all[current]tag[Free]]">
-{{FreeAction}}
-</$list>
-<$list filter="[all[current]tag[Focus Spell]]">
-{{SpellIcon}}
-</$list>
-<$link />
-<$list filter="[all[current]tag[Focus Spell]!tag[Cantrip]]">
-(Focus Spell)
-</$list>
-<$list filter="[all[current]tag[Focus Spell]tag[Cantrip]]">
-(Focus Cantrip)
-</$list>
-<$list filter="[all[current]tag[Uncommon]]">
-(Uncommon)
-</$list>
-<$list filter="[all[current]tag[Rare]]">
-(Rare)
-</$list>
-<$list filter="[all[current]has[feat-fpre]]">
-(Requires 
-<$list filter="[all[current]list[!!feat-fpre]]">
-<$link/></$list>)</$list>
-<$list filter="[all[current]has[feat-sppre]]">
-(Requires 
-<$list filter="[all[current]list[!!feat-sppre]]">
-<$link/></$list>)</$list>
-<$list filter="[all[current]has[feat-skill]]">
-(Requires
-<$transclude tiddler="SkillProficiencyLongName" index={{!!feat-spre}} />
-<$link to={{!!feat-skill}} />)</$list>
-<br /> 
-</$list>
-</td></tr>
-</$list>
-</table>
+<$set name="inner" value={{!!title}}>
+<$macrocall $name="levelfeatlist" levels="1 5 9 13 17" filter="[tag[Feat]field:feat-anc<inner>]"/>
+</$set>

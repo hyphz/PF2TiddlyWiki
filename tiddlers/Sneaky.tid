@@ -1,0 +1,16 @@
+created: 20210301220050823
+feat-anc: Hobgoblin
+feat-level: 1
+mod-sneak: Move 5 feet further and have till end of turn to get out of sight.
+modified: 20210301220250586
+tags: Ancestry Feat Hobgoblin
+title: Sneaky
+type: text/vnd.tiddlywiki
+
+Stealth is an important tool in your arsenal. 
+
+You can move 5 feet farther when you take the [[Sneak]] action, up to your Speed.
+
+In addition, as long as you continue to use Sneak actions and succeed at your Stealth check, you don’t become [[Observed]] if you don’t have [[Cover]] or greater cover and aren’t [[Concealed]] at the end of the Sneak action, as long as you have cover or greater cover or are concealed at the end of your turn.
+
+//This is identical to the Goblin feat [[Very Sneaky]].//

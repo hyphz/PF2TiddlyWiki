@@ -1,0 +1,8 @@
+created: 20210301215724445
+mod-persistent_damage: Flat check DC is 15 or 8.
+modified: 20210301215923015
+tags: Heritage Hobgoblin
+title: Steelskin Hobgoblin
+type: text/vnd.tiddlywiki
+
+Your flat check to recover from persistent physical (including bleed), energy, or poison damage is DC 13 (rather than DC 15), or DC 8 when provided particularly effective assistance. //(Most actual poisons don't deal persistent poison damage.)//

@@ -1,0 +1,17 @@
+a-actions: 2
+a-defense: Reflex
+created: 20210301215359804
+feat-level: 17
+feat-vher: Duskwalker
+modified: 20210301215503512
+tags: Feat Heritage Duskwalker Action
+title: Yamaraj's Grandeur
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You have been granted a sliver of the power of the yamaraj, the magistrates of the dead who agreed to allow duskwalkers to exist at all. 
+
+You exhale a blast of icy wind and ravenous insects. 
+
+This is a 30-foot cone that deals 14d6 slashing damage and 4d6 persistent slashing damage (basic [[Reflex]] save using your class DC or spell DC, whichever is higher). On a critical failure, targets also become [[Sickened]] 2.

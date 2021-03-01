@@ -1,0 +1,18 @@
+a-actions: 2
+created: 20210301214407828
+feat-level: 13
+feat-skill: Performance
+feat-spre: E
+feat-vher: Duskwalker
+modified: 20210301214702914
+tags: Feat Heritage Duskwalker Action Divine Auditory Enchantment Incapacitation
+title: Calaca's Showstopper
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You’ve spent many an evening learning songs and tales featuring calacas, death’s wandering minstrels. 
+
+You dramatically unleash a stunning blast of sound by smashing an instrument you hold or belting out a discordant note. //("Smashing" does not imply destroying the instrument.)//
+
+This has the effects of [[Synaptic Pulse]], but the effect is <<tag Auditory>> rather than <<tag Mental>>. The DC is either your class DC or spell DC, whichever is higher.

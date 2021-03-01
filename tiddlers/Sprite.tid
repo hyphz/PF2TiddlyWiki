@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Intelligence Free
+anc-flaws: Strength
+anc-hp: 6
+anc-langs: Common Sylvan
+anc-size: Tiny
+anc-special: [[Low-Light Vision]] [[Magical Strikes]] [[Tiny PC]]
+anc-speed: 20
+created: 20210227233232669
+modified: 20210227233401320
+tags: Ancestry Fey Sprite Rare
+title: Sprite
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}
