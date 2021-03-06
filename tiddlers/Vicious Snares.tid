@@ -1,0 +1,16 @@
+created: 20210306151806314
+feat-anc: Kobold
+feat-fpre: [[Snare Crafting]]
+feat-level: 13
+feat-skill: Crafting
+feat-spre: E
+modified: 20210306151856260
+tags: Kobold Feat Ancestry
+title: Vicious Snares
+type: text/vnd.tiddlywiki
+
+You’ve learned how to create traps that cause greater injuries. 
+
+You deal an additional 1d6 precision damage with damaging snares you craft. 
+
+This increases to 2d6 additional precision damage if you’re legendary in [[Crafting]].

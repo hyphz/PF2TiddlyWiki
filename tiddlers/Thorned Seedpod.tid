@@ -1,0 +1,13 @@
+created: 20210306153612168
+feat-anc: Leshy
+feat-fpre: [[Seedpod]]
+feat-level: 9
+mod-seedpod: Deal persistent damage on critical hit.
+modified: 20210306153656990
+tags: Ancestry Feat Leshy
+title: Thorned Seedpod
+type: text/vnd.tiddlywiki
+
+When your seedpods strike a felling blow, they burst into viciously thorny vines. 
+
+When you critically succeed at a seedpod Strike, vines twist and stab your foe, dealing 1d4 persistent piercing damage.

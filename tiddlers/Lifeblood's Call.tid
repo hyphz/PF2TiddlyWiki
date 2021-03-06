@@ -1,0 +1,11 @@
+created: 20210306164330968
+feat-anc: Orc
+feat-level: 13
+modified: 20210306164421716
+tags: Feat Ancestry Orc
+title: Lifeblood's Call
+type: text/vnd.tiddlywiki
+
+The impulse to survive and continue fighting resonates deep within you. 
+
+You gain a circumstance bonus to damage rolls on your melee [[Strike]]s equal to twice the sum of your [[Wounded]] and [[Doomed]] conditions (to a maximum of a +8 circumstance bonus to damage) whenever you have one or both conditions.

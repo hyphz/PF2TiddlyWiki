@@ -1,0 +1,14 @@
+created: 20210306173732009
+feat-anc: Tengu
+feat-fpre: [[Storm's Lash]]
+feat-level: 17
+modified: 20210306173826812
+tags: Feat Ancestry Tengu Action Reaction
+title: Hurricane Swing
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' You critically hit a foe with a Strike with a slashing weapon.
+
+Choose either [[Lightning Bolt]] or [[Gust of Wind]]. You Cast the chosen Spell as a 6th-level primal innate spell in the direction of the target of the triggering action.

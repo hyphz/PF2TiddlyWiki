@@ -1,0 +1,17 @@
+created: 20210306162514992
+feat-anc: Orc
+feat-fpre: [[Orc Ferocity]]
+feat-level: 5
+mod-raise_dead: Not debilitated after being raised.
+mod-recovery_check: Flat DC is 9 or 8 with toughness.
+mod-resurrect: Not debilitated after being raised.
+modified: 20210306163057860
+tags: Feat Ancestry Orc
+title: Defy Death
+type: text/vnd.tiddlywiki
+
+You’re exceptionally difficult to kill. 
+
+The DC of your recovery checks is equal to 9 + your dying value, or 8 + your dying value if you have the [[Toughness]] general feat.
+
+In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as [[Raise Dead]] or the [[Resurrect]] ritual), you don’t suffer that condition.

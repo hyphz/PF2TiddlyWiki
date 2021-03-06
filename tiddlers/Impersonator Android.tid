@@ -1,0 +1,8 @@
+created: 20210306180032942
+mod-impersonate: Don't need disguise kit for human, and +4 circumstance to appear as a human you.
+modified: 20210306180138181
+tags: Heritage Android
+title: Impersonator Android
+type: text/vnd.tiddlywiki
+
+You become trained in [[Deception]] (or another skill if you’re already trained in Deception). You don’t require a disguise kit when attempting [[Deception]] checks to [[Impersonate]] a human. In addition, you gain a +4 circumstance bonus to Impersonate checks to pretend that you’re a human version of yourself, rather than an android. This bonus doesn’t apply to other checks to Impersonate humans.

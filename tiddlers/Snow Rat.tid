@@ -1,0 +1,8 @@
+created: 20210306164811411
+mod-temperature_effects: Cold is one step better.
+modified: 20210306164855020
+tags: Heritage Ratfolk
+title: Snow Rat
+type: text/vnd.tiddlywiki
+
+You have a thicker coat and bulkier frame to defend against the cold, granting you cold resistance equal to half your level (minimum 1). You treat [[environmental cold effects|Temperature Effects]] as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).

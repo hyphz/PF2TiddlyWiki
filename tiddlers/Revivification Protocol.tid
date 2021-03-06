@@ -1,0 +1,18 @@
+created: 20210306182452643
+feat-anc: Android
+feat-fpre: [[Nanite Surge]]
+feat-level: 13
+modified: 20210306182605750
+tags: Feat Ancestry Android Free Action
+title: Revivification Protocol
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' You have the [[Dying]] condition and are about to attempt a [[Recovery Check]].
+
+Your nanites are programmed to automatically revive you. 
+
+You’re restored to 1 Hit Point, lose the [[Dying]] and [[Unconscious]] conditions, and can act normally on this turn. 
+
+You gain or increase the [[Wounded]] condition as normal when losing the dying condition in this way.

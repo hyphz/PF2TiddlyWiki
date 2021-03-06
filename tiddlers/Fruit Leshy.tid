@@ -1,0 +1,7 @@
+created: 20210306152309892
+modified: 20210306152345229
+tags: Heritage Leshy
+title: Fruit Leshy
+type: text/vnd.tiddlywiki
+
+At dawn each day, a new fruit ripens. You or an ally can remove this fruit as an [[Interact]] action. If a living creature that can derive sustenance from fruit consumes it as an Interact action within the next hour, they regain 1d8 Hit Points, plus an additional 1d8 Hit Points for every 2 of your levels beyond 1st. This effect has the <<tag Healing>>, <<tag Necromancy>>, and <<tag Positive>> traits.

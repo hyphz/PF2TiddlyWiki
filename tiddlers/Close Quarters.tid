@@ -1,0 +1,14 @@
+created: 20210306150839517
+feat-anc: Kobold
+feat-level: 9
+mod-stride: Small creature can end movement in square of a Small ally.
+modified: 20210306150950272
+tags: Kobold Feat Ancestry
+title: Close Quarters
+type: text/vnd.tiddlywiki
+
+You’ve trained to fight with allies in tunnel warrens, dense undergrowth, or similarly cramped terrain. 
+
+If you are Small or smaller, you can end your movement in the same square as a Small or smaller ally. 
+
+No more than two creatures can share the same space when using this ability or a similar one.

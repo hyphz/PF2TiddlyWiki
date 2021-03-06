@@ -1,0 +1,22 @@
+created: 20210306164434000
+feat-anc: Orc
+feat-fpre: [[Orc Warmask]]
+feat-level: 13
+modified: 20210306164621526
+tags: Feat Ancestry Orc Action Free
+title: Mask of Fear
+type: text/vnd.tiddlywiki
+
+''Trigger'' You start your turn with the [[Frightened]] condition.
+
+''Requirements'' You’re wearing your warmask.
+
+Your warmask burns off of your face, releasing your apprehension. 
+
+You remove the [[Frightened]] condition. 
+
+Your warmask is destroyed, and you can’t reapply it until your next daily preparations.
+
+''Special'' You can use this reaction even if you have a condition tied to the frightened condition that would normally prevent you from using a reaction, such as “fleeing as long as you’re frightened” or “paralyzed as long as you’re frightened.”
+
+//Since this isn't a reaction, the text above should presumably refer to ".. a free action..".//

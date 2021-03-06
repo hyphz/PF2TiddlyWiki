@@ -1,0 +1,8 @@
+created: 20210306161931689
+mod-temperature_effects: Treat cold as one better.
+modified: 20210306162038104
+tags: Heritage Orc
+title: Winter Orc
+type: text/vnd.tiddlywiki
+
+You become trained in [[Survival]], and you treat [[environmental cold effects|Temperature Effects]] as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).

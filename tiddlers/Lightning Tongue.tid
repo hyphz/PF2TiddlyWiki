@@ -1,0 +1,13 @@
+a-actions: 1
+a-subactions: Interact
+created: 20210306154819147
+feat-anc: Lizardfolk
+feat-level: 1
+modified: 20210306154938049
+tags: Feat Ancestry Lizardfolk Action
+title: Lightning Tongue
+type: text/vnd.tiddlywiki
+
+Your tongue darts out faster than the eye can see to retrieve loose objects. 
+
+You [[Interact]] to pick up a single unattended object of light Bulk or less within 10 feet of you. If you don’t have enough hands free to hold the object, it falls to the ground in your space.

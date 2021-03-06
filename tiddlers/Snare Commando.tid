@@ -1,0 +1,21 @@
+a-subactions: [[Create a Diversion]] [[Demoralize]]
+created: 20210306151320811
+feat-anc: Kobold
+feat-fpre: [[Snare Crafting]]
+feat-level: 9
+feat-skill: Deception Intimidation
+feat-spre: E
+modified: 20210306151540128
+tags: Kobold Feat Ancestry Action Reaction
+title: Snare Commando
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature fails or critically fails a save against your snare.
+
+Your snares are so befuddling that your victims rarely notice you slipping out of sight. 
+
+If you have expert proficiency in [[Deception]], you can [[Create a Diversion]] against the triggering creature. 
+
+If you have expert proficiency in [[Intimidation]], you can instead [[Demoralize]] the triggering creature. 
+
+If you have both, choose one of the two effects.

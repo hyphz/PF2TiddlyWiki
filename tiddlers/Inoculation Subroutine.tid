@@ -1,0 +1,12 @@
+created: 20210306181603909
+feat-anc: Android
+feat-level: 5
+modified: 20210306181652612
+modtag-disease: Fortitude saves reduce stages by one more.
+tags: Feat Ancestry Android
+title: Inoculation Subroutine
+type: text/vnd.tiddlywiki
+
+Your nanites reject diseases with ease. 
+
+Each time you succeed at a Fortitude save against an ongoing disease, you reduce its stage by 2, or by 1 against a virulent disease. Each critical success you achieve against an ongoing disease reduces its stage by 3, or by 2 against a virulent disease.

@@ -1,0 +1,15 @@
+created: 20210306180745576
+feat-anc: Android
+feat-level: 1
+modified: 20210306180832587
+modtag-emotion: +1 circumstance to saves and promote successes.
+modtag-fear: +1 circumstance to saves and promote successes.
+tags: Feat Ancestry Android
+title: Emotionless
+type: text/vnd.tiddlywiki
+
+Your malfunctioning emotional processors make it difficult for you to feel strong emotions. 
+
+You gain a +1 circumstance bonus to saving throws against <<tag Emotion>> and <<tag Fear>> effects. 
+
+If you roll a success on a saving throw against an emotion or fear effect, you get a critical success instead.

@@ -1,0 +1,12 @@
+created: 20210306150702907
+feat-anc: Kobold
+feat-level: 9
+mod-take_cover: Can always take cover in environmental difficult terrain.
+modified: 20210306150830659
+tags: Kobold Feat Ancestry
+title: Briar Battler
+type: text/vnd.tiddlywiki
+
+You’ve learned to use roots, crevices, uneven ground, and dense underbrush to your advantage. 
+
+When you’re in [[Difficult Terrain]] from an environmental feature, you can [[Take Cover]], even if the feature wouldn’t ordinarily be large enough for you to [[Take Cover]].

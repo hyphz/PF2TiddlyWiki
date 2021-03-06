@@ -1,0 +1,12 @@
+created: 20210306180656185
+feat-anc: Android
+feat-level: 1
+modified: 20210306180739643
+modtag-poison: Fortitude saves reduce stage by 1 extra.
+tags: Feat Ancestry Android
+title: Cleansing Subroutine
+type: text/vnd.tiddlywiki
+
+Your nanites help purge your body of harmful chemicals and toxins. 
+
+Each time you succeed at a Fortitude save against an ongoing poison, you reduce its stage by 2, or by 1 against a virulent poison. Each critical success you achieve against an ongoing poison reduces its stage by 3, or by 2 against a virulent poison.

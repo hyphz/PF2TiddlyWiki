@@ -1,0 +1,15 @@
+created: 20210306163920084
+feat-anc: Orc
+feat-fpre: [[Beast Trainer]]
+feat-level: 9
+mod-make_an_impression: +2 circumstance vs dragons.
+modified: 20210306164048688
+tags: Feat Ancestry Orc Uncommon
+title: Dragon Grip
+type: text/vnd.tiddlywiki
+
+Your hold has a unique draconic connection. 
+
+You gain a +2 circumstance bonus when you attempt to [[Make an Impression]] on a creature with the <<tag Dragon>> trait.
+
+You gain access to the [[Riding Drake]] animal companion.

@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20210306182205576
+feat-anc: Android
+feat-fpre: [[Nanite Surge]]
+feat-level: 9
+modified: 20210306182334535
+tags: Feat Ancestry Android Concentrate Action
+title: Repair Module
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You trigger your body’s repair programming, causing your body’s nanites to heal your wounds. 
+
+You gain [[Fast Healing]] equal to half your level for 1 minute. 
+
+While Repair Module is active, you can’t use other abilities that require the use of your nanites.

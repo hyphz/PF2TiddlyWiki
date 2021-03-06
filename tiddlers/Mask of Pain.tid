@@ -1,0 +1,20 @@
+created: 20210306164132301
+feat-anc: Orc
+feat-fpre: [[Orc Warmask]]
+feat-level: 9
+feat-skill: Intimidation
+feat-spre: E
+modified: 20210306164306482
+tags: Feat Ancestry Orc Action Reaction
+title: Mask of Pain
+type: text/vnd.tiddlywiki
+
+''Trigger'' You succeed at a [[Demoralize]] check.
+
+''Requirements'' You’re wearing your warmask.
+
+Your mask has grown into a manifestation of your pain, which you can release. 
+
+The creature you successfully [[Demoralize]]d takes 2d6 mental damage, or 4d6 mental damage if you’re legendary in [[Intimidation]].
+
+The target is then temporarily immune to additional damage from Mask of Pain for 24 hours.

@@ -1,0 +1,15 @@
+created: 20210306171046340
+feat-anc: Tengu
+feat-fpre: [[Wavediver Tengu]]
+feat-level: 1
+modified: 20210306171135781
+modtag-water: +1 circumstance to saves.
+tags: Feat Ancestry Tengu
+title: Waxed Feathers
+type: text/vnd.tiddlywiki
+
+Your feathers are coated in a waxy substance that repels water. 
+
+You gain a +1 circumstance bonus to saving throws against effects that have the <<tag Water>> trait. 
+
+So long as you’re in a dry place, you can spend one action to shake off any water that clings to your clothing and feathers to instantly become dry.

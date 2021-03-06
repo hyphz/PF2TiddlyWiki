@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200814190001109
+modified: 20210306155534523
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy
+tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Primal
 title: Neutralize Poison
 type: text/vnd.tiddlywiki
 

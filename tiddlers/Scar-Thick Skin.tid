@@ -1,0 +1,12 @@
+created: 20210306163336541
+feat-anc: Orc
+feat-level: 5
+mod-persistent_damage: Flat DC to end is 10 instead of 15.
+modified: 20210306163420747
+tags: Feat Ancestry Orc
+title: Scar-Thick Skin
+type: text/vnd.tiddlywiki
+
+Glorious, storied scars cover and protect much of your body. 
+
+Your DC on flat checks to end persistent bleed damage is reduced from 15 to 10, or from 10 to 5 after receiving especially appropriate assistance.

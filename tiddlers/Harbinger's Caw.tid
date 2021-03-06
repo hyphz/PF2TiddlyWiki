@@ -1,0 +1,15 @@
+created: 20210306173415772
+feat-anc: Tengu
+feat-level: 13
+modified: 20210306173455009
+tags: Feat Ancestry Tengu Action Reaction Auditory Misfortune
+title: Harbinger's Caw
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' A creature within 60 feet is about to attempt an attack roll or skill check.
+
+You caw ominously, cursing the creature with misfortune. 
+
+The target creature must roll the triggering check twice and take the lower result.

@@ -1,0 +1,22 @@
+a-actions: 2
+created: 20210306153333843
+feat-anc: Leshy
+feat-level: 9
+modified: 20210306153544452
+s-crit: No effect.
+s-fail: The creature is [[Dazzled]] and can only see 10 feet away for 1 round.
+s-fumble: The creature is [[Blinded]] for 1 round.
+s-hit: The creature is [[Dazzled]] for 1 round.
+tags: Ancestry Feat Leshy
+title: Spore Cloud
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per hour
+
+You unleash a cloud of pollen or similar spores. 
+
+All creatures in a 10-foot emanation around you must attempt a [[Fortitude]] save using your class DC or spell DC (whichever is higher) with the following results. 
+
+Plants and fungi are immune to this effect.
+
+{{||SaveSuccessTable}}

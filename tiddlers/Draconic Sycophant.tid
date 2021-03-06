@@ -1,0 +1,21 @@
+created: 20210306145536729
+feat-anc: Kobold
+feat-level: 1
+mod-fortitude: +2 circumstance vs dragons.
+mod-glad-hand: No penalty vs dragons.
+mod-make_an_impression: Roll at -5 immediately vs dragons.
+mod-perception: +2 circumstance vs dragons.
+mod-reflex: +2 circumstance vs dragons.
+mod-will: +2 circumstance vs dragons.
+modified: 20210306145856084
+tags: Kobold Ancestry Feat
+title: Draconic Sycophant
+type: text/vnd.tiddlywiki
+
+You have an affect that dragonkind find unusually pleasing—and when that fails, you know when to duck. 
+
+You gain a +2 circumstance bonus to [[Perception]] checks and saving throws against dragons. 
+
+In addition, whenever you meet a creature with the <<tag Dragon>> trait in a social situation, you can attempt a [[Diplomacy]] check to [[Make an Impression]] on that creature immediately, rather than after conversing for 1 minute; you take a –5 penalty to this check. If you fail, you can choose to engage in 1 minute of conversation and then attempt a new check rather than accept the failure or critical failure result.
+
+''Special'' If you have the [[Glad-Hand]] skill feat, you don’t take the penalty to your immediate Diplomacy check if the target has the dragon trait.

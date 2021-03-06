@@ -1,0 +1,8 @@
+created: 20210306154411514
+mod-take_cover: Can always take cover in forest or jungle.
+modified: 20210306154516392
+tags: Heritage Lizardfolk
+title: Woodstalker Lizardfolk
+type: text/vnd.tiddlywiki
+
+You can always use the [[Take Cover]] action when in forest or jungle terrain to gain cover, even if you’re not next to an obstacle you would normally be able to Take Cover behind. You gain the [[Terrain Stalker]] feat, even if you’re not trained in [[Stealth]], and you must choose underbrush as your chosen terrain.

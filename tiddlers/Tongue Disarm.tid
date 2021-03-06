@@ -1,0 +1,16 @@
+a-actions: 1
+a-subactions: Disarm
+created: 20210306160346499
+feat-anc: Lizardfolk
+feat-fpre: [[Lightning Tongue]]
+feat-level: 5
+feat-skill: Athletics
+feat-spre: T
+modified: 20210306160506188
+tags: Feat Ancestry Lizardfolk Action
+title: Tongue Disarm
+type: text/vnd.tiddlywiki
+
+You lash out with your tongue to disarm your foe. 
+
+You attempt to [[Disarm]] a creature within 10 feet, ignoring the requirement that you must have at least one hand free.

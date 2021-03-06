@@ -1,0 +1,13 @@
+created: 20210306181816135
+feat-anc: Android
+feat-fpre: [[Nanite Surge]]
+feat-level: 5
+mod-nanite_surge: Can use on saving throws to give +2 status.
+modified: 20210306181936994
+tags: Feat Ancestry Android
+title: Protective Subroutine
+type: text/vnd.tiddlywiki
+
+Your nanites can augment your defenses. 
+
+You can choose to activate [[Nanite Surge]] when you attempt a saving throw, instead of when you attempt a skill check. If you do, you gain a +2 status bonus to the triggering saving throw.

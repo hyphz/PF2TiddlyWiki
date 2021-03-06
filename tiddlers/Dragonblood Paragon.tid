@@ -1,0 +1,22 @@
+created: 20210306151002100
+feat-anc: Kobold
+feat-fpre: [[Strongjaw Kobold]] [[Venomtail Kobold]] Dracomancer [[Kobold Breath]]
+feat-level: 9
+mod-dracomancer: Cast spells 1 extra time each.
+mod-kobold_breath: Deals persistent damage on fumble.
+mod-strongjaw_kobold: Jaws gains deadly d6.
+mod-venomtail_kobold: Can use tail toxin 2/day.
+modified: 20210306151251619
+tags: Kobold Feat Ancestry
+title: Dragonblood Paragon
+type: text/vnd.tiddlywiki
+
+Your draconic anatomy becomes especially pronounced. You increase the power of one of the following kobold heritages or feats you have.
+
+[[Dracomancer]]: Increase the number of times you can cast each of the granted 1st- and 2nd-level innate spells by 1.
+
+[[Kobold Breath]]: Creatures that critically fail their save against your Kobold Breath take 3d4 persistent damage of the type dealt by your draconic patron.
+
+[[Strongjaw Kobold]]: Your jaws unarmed attack gains the deadly d6 trait.
+
+[[Venomtail Kobold]]: You produce enough venom to use the [[Tail Toxin]] action twice per day.
