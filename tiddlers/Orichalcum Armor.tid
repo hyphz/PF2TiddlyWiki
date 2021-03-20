@@ -1,0 +1,22 @@
+created: 20210320184356465
+item-bulk: Varies
+item-hands: 0
+item-level: 20
+item-price: 550000
+item-variants: High-Grade
+mod-initiative: +1 circumstance.
+modified: 20210320184759091
+tags: Item Armor Rare
+title: Orichalcum Armor
+type: text/vnd.tiddlywiki
+
+Orichalcum armor can be etched with four magic property runes instead of three due to the magical empowerment of orichalcum. 
+
+If you are wearing armor made of orichalcum, the armor grants you insights into the future, granting you a +1 circumstance bonus to [[Initiative]] rolls.
+
+If an orichalcum item takes damage but isn’t destroyed, it repairs itself completely 24 hours later.
+
+| !Type | !Level | !Price | !Value of Orichalcum needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| High-Grade | 20 | 550000 + 55000/Bulk | 275000 + 27500/Bulk | 18 | 72 | 36 | Any |
+
+

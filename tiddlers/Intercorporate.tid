@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20210320152432320
+feat-level: 5
+feat-vher: Aphorite
+modified: 20210320152519694
+tags: Heritage Feat Aphorite Action
+title: Intercorporate
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Requirements'' You’re afflicted by a disease or poison, or are taking persistent damage.
+
+Your ordered physiology rejects unwelcome elements. Choose one.
+
+''Disease or Poison'' Attempt a saving throw against the [[Affliction]] at its current stage. On a failure, the affliction’s stage doesn’t increase, but you suffer the effects of the stage you were already on. On a critical failure, the stage only increases by 1.
+
+''Persistent Damage'' Attempt a DC 10 flat check to recover from the [[Persistent Damage]].

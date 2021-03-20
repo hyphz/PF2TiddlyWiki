@@ -1,0 +1,12 @@
+created: 20210320175217926
+feat-anc: Fleshwarp
+feat-level: 5
+mod-sickened: Saves reduce value by 2 or 3.
+modified: 20210320175251329
+tags: Feat Ancestry Fleshwarp
+title: Powerful Guts
+type: text/vnd.tiddlywiki
+
+Your stomach is particularly durable. 
+
+When you succeed at a [[Fortitude]] save to reduce your [[Sickened]] value, you reduce it by 2 (or by 3 on a critical success).

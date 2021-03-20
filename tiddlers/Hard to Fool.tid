@@ -1,0 +1,14 @@
+created: 20210320162928309
+feat-anc: Fetchling
+feat-level: 1
+mod-perception: +1 circumstance vs Illusions.
+modified: 20210320163114660
+modtag-illusion: +1 circumstance to Will saves.
+modtag-shadow: +1 circumstance to Will saves.
+tags: Feat Ancestry Fetchling
+title: Hard to Fool
+type: text/vnd.tiddlywiki
+
+You’re accustomed to seeing through shifting darkness and bewildering magic. 
+
+You gain a +1 circumstance bonus on [[Perception]] checks against <<tag Illusion>>s as well as to [[Will]] saves against illusions and <<tag Shadow>> effects.

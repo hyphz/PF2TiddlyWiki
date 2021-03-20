@@ -1,0 +1,15 @@
+created: 20210320171314136
+feat-anc: Fetchling
+feat-level: 5
+mod-escape: Promote successes; on rolled crit step instead of striding.
+mod-squeeze: Promote fumbles.
+modified: 20210320171622977
+tags: Feat Ancestry Fetchling
+title: Lightless Litheness
+type: text/vnd.tiddlywiki
+
+Your body is almost as flexible as your shadow. 
+
+When you critically fail at [[Squeezing|Squeeze]] you get a failure instead. 
+
+Additionally, when you roll a success at an [[Escape]] check, you get a critical success instead. If you roll a critical success, you can [[Step]] instead of Striding up to 5 feet.

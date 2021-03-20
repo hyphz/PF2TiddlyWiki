@@ -1,0 +1,24 @@
+created: 20210320183738231
+item-bulk: 1
+item-hands: 0
+item-level: 13 20
+item-price: 25000 520000
+item-variants: Standard-Grade High-Grade
+modified: 20210320183955806
+tags: Item Armor Uncommon
+title: Elven Chain
+type: text/vnd.tiddlywiki
+
+Elven chain is a chain shirt made of mithral that glitters in even the faintest light. 
+
+It grants a +2 item bonus to AC and has no check penalty.
+
+Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts—even other mithral chain shirts—elven chain does not have the [[Noisy]] trait. 
+
+This suit of armor can be etched with runes like any other mithral chain shirt.
+
+| !Type | !Level | !Price | !Value of Mithral needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| Standard-Grade | 13 | 25000 | 3125 | 9 | 36 | 18 | 15 |
+| High-Grade | 20 | 520000 | 260000 | 12 | 48 | 24 | Any |
+
+

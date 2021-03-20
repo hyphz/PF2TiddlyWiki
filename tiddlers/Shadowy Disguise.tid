@@ -1,0 +1,12 @@
+created: 20210320171628758
+feat-anc: Fetchling
+feat-level: 5
+m-given: [[Illusory Disguise]]
+modified: 20210320171704859
+tags: Feat Ancestry Fetchling
+title: Shadowy Disguise
+type: text/vnd.tiddlywiki
+
+You wrap yourself in shadow to change your appearance. 
+
+You can cast [[Illusory Disguise]] as a 1st-level occult innate spell once per day. This spell gains the <<tag Shadow>> trait.

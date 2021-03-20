@@ -1,0 +1,29 @@
+created: 20210320183437350
+item-bulk: Varies
+item-hands: 0
+item-level: 12 19
+item-price: 16000 320000
+item-variants: Standard-Grade High-Grade
+modified: 20210320184639728
+tags: Item Armor
+title: Dragonhide Armor
+type: text/vnd.tiddlywiki
+
+Dragonhide armor is immune to one damage type based on the type of dragon it is made from. 
+
+| !Dragon Type | !Resistance |
+| Black or Copper | <<tag Acid>> |
+| Blue or Bronze | <<tag Electricity>> |
+| Brass, Gold, or Red | <<tag Fire>> |
+| Green | <<tag Poison>> |
+| Silver or White | <<tag Cold>> |
+
+Wearing armor made from dragonhide also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal the corresponding damage type.
+
+Dragonhide can be used to Craft armor usually made out of metal plates (such as a breastplate, half plate, and full plate), allowing such armor to be made without metal.
+
+| !Type | !Level | !Price | !Value of Dragonhide needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| Standard-Grade | 12 | 16000 + 1600/Bulk | 2000 + 200/Bulk | 7 | 28 | 14 | 15 |
+| High-Grade | 19 | 320000 + 32000/Bulk | 160000 + 16000/Bulk | 11 | 44 | 22 | Any |
+
+

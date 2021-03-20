@@ -1,0 +1,12 @@
+created: 20210320160256913
+feat-level: 9
+feat-vher: Beastkin
+mod-flat-footed: Flat-footed if in reach of user and 2 allies.
+modified: 20210320160401692
+tags: Heritage Feat Beastkin
+title: Pack Tactics
+type: text/vnd.tiddlywiki
+
+You have mastered how to hunt with your pack. 
+
+If an enemy is within reach of you and at least two of your allies, that enemy is [[Flat-Footed]] against you.

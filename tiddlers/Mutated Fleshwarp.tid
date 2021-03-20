@@ -1,0 +1,8 @@
+created: 20210320173510021
+mod-persistent_damage: DC against bleed is 5 better.
+modified: 20210320173643927
+tags: Fleshwarp Heritage
+title: Mutated Fleshwarp
+type: text/vnd.tiddlywiki
+
+The DC for your checks to recover from persistent bleed damage is 10 instead of 15, and it’s reduced to 5 instead of 10 if you have particularly effective assistance recovering from the persistent damage.

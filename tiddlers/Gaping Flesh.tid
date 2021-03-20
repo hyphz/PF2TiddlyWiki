@@ -1,0 +1,17 @@
+created: 20210320174647505
+feat-anc: Fleshwarp
+feat-level: 5
+modified: 20210320174728971
+tags: Feat Ancestry Fleshwarp Action Reaction
+title: Gaping Flesh
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' A creature you are aware of damages you with a melee Strike.
+
+Your wound yawns open, appalling your attacker. 
+
+The attacker must succeed at a [[Fortitude]] saving throw against your class DC or spell DC, whichever is higher, or become [[Sickened]] 1 ([[Sickened]] 2 on a critical failure). 
+
+It can’t recover from the sickened condition while it’s adjacent to you.

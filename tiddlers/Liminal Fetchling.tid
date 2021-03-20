@@ -1,0 +1,10 @@
+created: 20210320162233046
+mod-concealed: Flat check is DC 3.
+mod-seek: +1 circumstance to Seek undetected creatures in 60'.
+mod-undetected: Flat check is DC 9.
+modified: 20210320162353712
+tags: Heritage Fetchling
+title: Liminal Fetchling
+type: text/vnd.tiddlywiki
+
+You gain a +1 circumstance bonus to locate undetected creatures within 60 feet when using the [[Seek]] action. Your flat check to target [[Concealed]] creatures is DC 3 instead of DC 5, and your flat check to target [[Undetected]] creatures is DC 9 instead of DC 11.

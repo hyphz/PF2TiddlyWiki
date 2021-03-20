@@ -1,0 +1,17 @@
+created: 20210320153229176
+feat-level: 9
+feat-vher: Aphorite
+modified: 20210320153329658
+tags: Heritage Feat Aphorite Action Reaction
+title: Preemptive Reconfiguration
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+''Trigger'' You would take bludgeoning, piercing, or slashing damage.
+
+Your body anticipates the blow. The impact area briefly reorganizes into a strengthened tissue lattice that blunts the attack. 
+
+You gain resistance equal to your level to the triggering damage type, which applies against the triggering damage.
+
+If you have the [[Crystalline Dust]] feat, you can use Preemptive Reconfiguration without expending a usage of the reaction for the purpose of the feat’s Frequency limit. Instead, the usage counts toward your number of Crystalline Dust uses per day, as if you had used that feat instead.

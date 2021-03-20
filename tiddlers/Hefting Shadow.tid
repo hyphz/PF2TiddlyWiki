@@ -1,0 +1,19 @@
+created: 20210320171809112
+feat-anc: Fetchling
+feat-fpre: [[Clever Shadow]]
+feat-level: 9
+mod-conceal_an_object: +2 circumstance to Stealth check if item in your shadow and this isn't checked.
+modified: 20210320172052712
+tags: Feat Ancestry Fetchling Conjuration Occult Shadow
+title: Hefting Shadow
+type: text/vnd.tiddlywiki
+
+Your shadow can contain objects. 
+
+You can [[Interact]] with your shadow to store or retrieve objects, just like you would a mundane container (meaning you spend two Interact actions total to store and then retrieve the object, for example). 
+
+Your shadow can contain 2 Bulk of objects, which don’t count toward the Bulk you’re carrying. 
+
+The items remain solid but take on a shadowy patina while stored this way. 
+
+Though the items are in your shadow and can be detected normally, you gain a +2 circumstance bonus to [[Stealth]] checks to [[Conceal the Object|Conceal an Object]] unless someone knows to check your shadow for items.

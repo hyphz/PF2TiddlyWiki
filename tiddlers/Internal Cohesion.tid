@@ -1,0 +1,14 @@
+created: 20210320152042942
+feat-level: 1
+feat-vher: Aphorite
+mod-treat_wounds: Don't need healers tools and promote fumbles and fails 1/day.
+modified: 20210320152127658
+tags: Heritage Feat Aphorite
+title: Internal Cohesion
+type: text/vnd.tiddlywiki
+
+Axis’s order suffuses your body and helps it maintain coherency. 
+
+You and your allies can [[Treat your Wounds|Treat Wounds]] without healer’s tools. 
+
+Once per day, when someone rolls a failure or a critical failure on a check to Treat your Wounds, you can focus on your internal cohesion to increase the degree of success by one step.

@@ -1,11 +1,13 @@
 created: 20210207203857246
-modified: 20210207210317474
+modified: 20210320181100837
 tags: 
 title: Item
 type: text/vnd.tiddlywiki
 
+See also [[Rune]]s.
+
 <table>
-<tr><th>Level</th><th>Items</th></tr>
+<tr><th>Level</th><th>Items</th><th>Price</th></tr>
 <$list filter="[range[1,20]]" variable="level">
 <tr><th><<level>></th>
 <td>
@@ -14,11 +16,21 @@ type: text/vnd.tiddlywiki
 <$list filter="[list[!!item-level]nth<index>match<level>]" variable="matchedlevel">
 <$list filter="[list[!!item-variants]nth<index>!match[Standard]]"><<currentTiddler>></$list>
 <$link />
+<br>
+</$list>
+</$list>
+</$list>
+</td>
+<td>
+<$list filter="[tag[Item]contains:item-level<level>sort[]]">
+<$list filter="[range[1,10]]" variable="index">
+<$list filter="[list[!!item-level]nth<index>match<level>]" variable="matchedlevel">
 <$list filter="[list[!!item-price]nth<index>]"><<currentTiddler>></$list>
 <br>
 </$list>
 </$list>
 </$list>
-</td></tr>
+</td>
+</tr>
 </$list>
 </table>

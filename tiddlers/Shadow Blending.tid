@@ -1,0 +1,11 @@
+created: 20210320163101600
+feat-anc: Fetchling
+feat-level: 1
+modified: 20210320163252124
+tags: Feat Ancestry Action Reaction Illusion Occult Shadow Fetchling
+title: Shadow Blending
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature attempts a flat check to target you while you’re [[Concealed]] or [[Hidden]] due to [[Dim Light]] or [[Darkness]].
+
+You draw shadows close to create a shroud. Increase the DC of the flat check by 2.

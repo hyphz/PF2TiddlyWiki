@@ -1,0 +1,22 @@
+created: 20210320182503742
+item-bulk: Varies
+item-hands: 0
+item-level: 5 11 18
+item-price: 1400 12000 200000
+item-variants: Low-Grade Standard-Grade High-Grade
+modified: 20210320184042518
+tags: Item Armor
+title: Cold Iron Armor
+type: text/vnd.tiddlywiki
+
+Cold iron armor sickens certain creatures that touch it. 
+
+A creature with weakness to cold iron (such as most demons and fey) that critically fails an unarmed attack against a creature in cold iron armor becomes [[Sickened]] 1. 
+
+A creature with weakness to cold iron is sickened 1 as long as it wears cold iron armor.
+
+| !Type | !Level | !Price | !Value of Cold Iron needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| Low-Grade | 5 | 1400 + 140/Bulk | 70 + 7/Bulk | 9 | 36 | 18 | 8 |
+| Standard-Grade | 11 | 12000 + 1200/Bulk | 1500 + 150/Bulk | 11 | 44 | 22 | 15 |
+| High-Grade | 18 | 200000 + 20000/Bulk | 100000 + 10000/Bulk | 14 | 56 | 28 | Any |
+

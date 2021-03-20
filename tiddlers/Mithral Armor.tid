@@ -1,0 +1,20 @@
+created: 20210320184115080
+item-bulk: Varies
+item-hands: 0
+item-level: 12 19
+item-price: 16000 320000
+item-variants: Standard-Grade High-Grade
+modified: 20210320184254460
+tags: Item Armor Uncommon
+title: Mithral Armor
+type: text/vnd.tiddlywiki
+
+Mithral armor is 1 Bulk lighter than normal (or light Bulk if its normal Bulk is 1, with no effect on armor that normally has light Bulk). 
+
+It’s easier to wear than normal metal armor, reducing the Strength score necessary to ignore its check penalty by 2 and reducing its Speed penalty by 5 feet.
+
+| !Type | !Level | !Price | !Value of Mithral needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| Standard-Grade | 12 | 16000 + 1600/Bulk | 2000 + 200/Bulk | 9 | 36 | 18 | 15 |
+| High-Grade | 20 | 320000 + 32000/Bulk | 160000 + 16000/Bulk | 12 | 48 | 24 | Any |
+
+

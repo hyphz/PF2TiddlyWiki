@@ -1,0 +1,17 @@
+created: 20210320181329727
+item-bulk: Varies
+item-hands: 0
+item-level: 12 19
+item-price: 16000 320000
+item-variants: Standard-Grade High-Grade
+modified: 20210320183205532
+tags: Item Armor
+title: Adamantine Armor
+type: text/vnd.tiddlywiki
+
+Adamantine armor has a shiny, black appearance and is amazingly durable.
+
+| !Type | !Level | !Price | !Value of Adamantine needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| Standard-Grade | 12 | 16000 + 1600/Bulk | 2000 + 200/Bulk | 7 | 28 | 14 | 15 |
+| High-Grade | 19 | 320000 + 32000/Bulk | 160000 + 16000/Bulk | 10 | 40 | 20 | Any |
+ 

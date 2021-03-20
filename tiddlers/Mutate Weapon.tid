@@ -1,0 +1,15 @@
+a-actions: 1
+created: 20210320175049663
+feat-anc: Fleshwarp
+feat-fpre: [[Living Weapon]]
+feat-level: 5
+modified: 20210320175146479
+tags: Feat Ancestry Fleshwarp Action
+title: Mutate Weapon
+type: text/vnd.tiddlywiki
+
+Select one unarmed attack you gained with [[Living Weapon]]. 
+
+The damage die for that attack increases by one step until the end of your turn. 
+
+In addition, choose to either have the attack gain a reach of 10 feet until the end of your turn or for you to gain a +1 status bonus to attack rolls with the chosen unarmed attack until the end of your turn.

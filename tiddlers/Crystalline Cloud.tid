@@ -1,0 +1,13 @@
+created: 20210320153026970
+feat-fpre: [[Crystalline Dust]]
+feat-level: 9
+feat-vher: Aphorite
+mod-crystalline_dust: Spend extra action for a 10 foot cloud.
+modified: 20210320153159120
+tags: Heritage Feat Aphorite
+title: Crystalline Cloud
+type: text/vnd.tiddlywiki
+
+When you use [[Crystalline Dust]], you can spend one additional action to disperse the motes as a 10-foot-radius cloud centered on you instead of as haze; the activity gains the <<tag Concentrate>> trait. 
+
+All creatures within the cloud become [[Concealed]], and all creatures outside the cloud become concealed to creatures within it.

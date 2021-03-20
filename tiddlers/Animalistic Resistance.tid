@@ -1,0 +1,13 @@
+created: 20210320155711774
+feat-level: 5
+feat-vher: Beastkin
+modified: 20210320155807451
+modtag-disease: +2 circumstance to saves.
+modtag-poison: +2 circumstance to saves.
+tags: Heritage Feat Beastkin
+title: Animalistic Resistance
+type: text/vnd.tiddlywiki
+
+Your animalistic connections help you resist natural afflictions. 
+
+You gain a +2 circumstance bonus to saves to resist <<tag Disease>>s and <<tag Poison>>s.

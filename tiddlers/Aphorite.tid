@@ -1,0 +1,15 @@
+created: 20210320151533220
+modified: 20210320151657195
+tags: Heritage Versatile Uncommon
+title: Aphorite
+type: text/vnd.tiddlywiki
+
+You were born with a connection to the Plane of Law. 
+
+You gain the <<tag Aphorite>> trait, in addition to the traits from your ancestry. 
+
+You also gain [[Low-Light Vision]], or you gain [[Darkvision]] if your ancestry already has low‑light vision. 
+
+You can choose from <<tag Aphorite>> feats and feats from your ancestry whenever you gain an ancestry feat.
+
+{{||VHerFeatList}}
