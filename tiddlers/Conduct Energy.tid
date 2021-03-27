@@ -1,0 +1,13 @@
+created: 20210327181409352
+modified: 20210327181454553
+tags: Action Free Energy
+title: Conduct Energy
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your last action or spell this turn had the <<tag Acid>>, <<tag Cold>>, <<tag Electricity>>, <<tag Fire>>, or <<tag Sonic>> trait.
+
+You channel energy into your weapon. 
+
+The weapon deals 1 additional damage per weapon damage die until the start of your next turn. This damage type matches the trait of the triggering action or spell. 
+
+If your triggering action or spell had multiple eligible traits, you select one of those traits.

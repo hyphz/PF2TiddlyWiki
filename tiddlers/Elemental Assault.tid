@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20210327173317398
+feat-level: 1
+feat-vher: Suli
+modified: 20210327173439057
+tags: Heritage Feat Lineage Suli Action Arcane Concentrate Evocation
+title: Elemental Assault
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You shroud your arms and held weapons in elemental magic. 
+
+Choose one element. Until the end of your next turn, your [[Strike]]s deal an additional 1d6 damage of the indicated type and have the trait corresponding to the element: electricity for air, bludgeoning for earth, fire for fire, or cold for water.

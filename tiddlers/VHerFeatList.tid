@@ -1,9 +1,9 @@
 created: 20200828234000866
-modified: 20210320151720050
+modified: 20210327154227104
 tags: 
 title: VHerFeatList
 type: text/vnd.tiddlywiki
 
 <$set name="inner" value={{!!title}}>
-<$macrocall $name="levelfeatlist" levels="1 5 9 13 17" filter="[tag[Feat]field:feat-vher<inner>]"/>
+<$macrocall $name="levelfeatlist" levels="1 5 9 13 17" filter="[tag[Feat]contains:feat-vher<inner>]"/>
 </$set>

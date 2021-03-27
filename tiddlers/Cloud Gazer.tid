@@ -1,0 +1,12 @@
+created: 20210327175549955
+feat-level: 5
+feat-vher: Sylph
+mod-concealed: No check needed if concealed by fog, mist, or clouds.
+modified: 20210327175629122
+tags: Heritage Feat Sylph
+title: Cloud Gazer
+type: text/vnd.tiddlywiki
+
+Your connection to air allows you to see through obscuring mists. 
+
+You can see well enough through fog, mist, and clouds that would normally cause creatures to be [[Concealed]] that you don’t need to succeed at a flat check to target creatures benefiting from such concealment.

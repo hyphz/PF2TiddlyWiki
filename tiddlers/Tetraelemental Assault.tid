@@ -1,0 +1,17 @@
+created: 20210327174019935
+feat-fpre: [[Elemental Assault]]
+feat-level: 9
+feat-vher: Suli
+mod-elemental_assault: Lasts 4 turns and cycles 4 elements.
+modified: 20210327174251857
+tags: Heritage Feat Suli
+title: Tetraelemental Assault
+type: text/vnd.tiddlywiki
+
+Your [[Elemental Assault]] cycles through all four elements. 
+
+When you use Elemental Assault, instead of choosing a single element, you can choose an element from the list when using the action, and then choose a different element at the beginning of each of your next 3 turns without spending an action.
+
+Once you have chosen an element, you can’t choose it again during this Elemental Assault, meaning you must select all four elements over the course of 4 turns. 
+
+Each time you choose an element, until the beginning of your next turn, your Strikes deal an additional 1d6 damage of the indicated type and have the trait corresponding to that element.

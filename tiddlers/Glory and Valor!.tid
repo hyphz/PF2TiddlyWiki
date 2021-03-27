@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20210327152150445
+feat-level: 9
+feat-vher: Ganzi
+mod-strike: When active regain HP equal to half level on 1st hit/round.
+modified: 20210327152429032
+tags: Heritage Feat Ganzi Auditory Healing Necromancy Primal Action
+title: Glory and Valor!
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You are descended from the einherji, the worthy warriors of chaos. 
+
+You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a [[Strike]], whichever comes first. 
+
+For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.

@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20210327164613182
+feat-fpre: [[Shield Block]]
+feat-level: 5
+feat-vher: Oread
+modified: 20210327164746373
+tags: Heritage Feat Oread Action
+title: Fortify Shield
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+You reinforce your shield with a rocky outgrowth of metal and stone. 
+
+You [[Raise your Shield|Raise a Shield]]. 
+
+If you use the [[Shield Block]] reaction before your next turn, add your character level to your shield’s Hardness when determining how much damage is blocked.

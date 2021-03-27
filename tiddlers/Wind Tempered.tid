@@ -1,0 +1,13 @@
+created: 20210327175406748
+feat-level: 1
+feat-vher: Sylph
+modified: 20210327175523564
+modtag-air: +1 circumstance to saves and promote successes.
+modtag-electricity: +1 circumstance to saves.
+tags: Heritage Feat Sylph
+title: Wind Tempered
+type: text/vnd.tiddlywiki
+
+You are at home in tempestuous weather and accustomed to even the harshest winds. 
+
+You gain a +1 circumstance bonus to saves against <<tag Air>> and <<tag Electricity>> effects. If you roll a success on a save against an <<tag Air>> effect, you get a critical success instead.

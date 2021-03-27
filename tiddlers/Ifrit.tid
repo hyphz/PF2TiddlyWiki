@@ -1,0 +1,15 @@
+created: 20210327154041463
+modified: 20210327154144576
+tags: Heritage Versatile Uncommon
+title: Ifrit
+type: text/vnd.tiddlywiki
+
+You descend from fire elementals or bear the mark of the Inner Spheres, and your features illustrate the influence that elemental fire has over you. 
+
+You gain the <<tag Ifrit>> trait, in addition to the traits from your ancestry. 
+
+You gain resistance to fire equal to half your level (minimum 1), and you treat [[environmental heat effects|Temperature Effects]] as if they were one step less severe (incredible heat becomes extreme, extreme heat becomes severe, and so on). 
+
+You can choose from <<tag Ifrit>> feats and feats from your ancestry whenever you gain an ancestry feat.
+
+{{||VHerFeatList}}

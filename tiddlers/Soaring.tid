@@ -1,0 +1,15 @@
+created: 20210327181706068
+item-level: 14
+item-price: 37500
+modified: 20210327181806524
+tags: Rune Magical Weapon Abjuration
+title: Soaring
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor
+
+A set of soaring armor helps you fly faster and protects you and nearby allies from falling. 
+
+While wearing soaring armor, you gain a +10-foot item bonus to your fly Speed, if you have one. As normal, if your fly Speed is based on your land Speed and you already have an item bonus to your land Speed, these bonuses aren’t cumulative.
+
+''Activate'' {{ReactionIcon}} [[Command]]; ''Trigger'' You or a creature within 60 feet of you is falling; ''Effect'' You cast [[Feather Fall]] on the triggering creature.

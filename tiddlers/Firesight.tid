@@ -1,0 +1,12 @@
+created: 20210327161151860
+feat-level: 5
+feat-vher: Ifrit
+mod-concealed: Auto succeed if concealment is due to smoke or fire.
+modified: 20210327161235753
+tags: Heritage Feat Ifrit
+title: Firesight
+type: text/vnd.tiddlywiki
+
+You can see through the haze of flame. 
+
+You automatically succeed at the flat check to target a [[Concealed]] creature if that creature is concealed only by smoke and fire.

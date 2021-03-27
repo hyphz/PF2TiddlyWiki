@@ -1,0 +1,20 @@
+a-actions: 2
+created: 20210327162009926
+feat-level: 13
+feat-vher: Ifrit
+modified: 20210327162456943
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 4 rounds.
+s-fumble: The creature is [[Blinded]] for 4 rounds and [[Dazzled]] for 10 minutes.
+s-hit: The creature is [[Dazzled]] for 1 round.
+tags: Heritage Feat Ifrit Fire Action Incapacitation Light Visual
+title: Radiant Burst
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+Your skin glows with intensity. 
+
+Creatures within 10 feet who can see you must succeed at a [[Fortitude]] save against your class DC or spell DC, whichever is higher.
+
+{{||SaveSuccessTable}}

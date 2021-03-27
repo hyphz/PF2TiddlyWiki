@@ -1,0 +1,12 @@
+created: 20210327154714219
+feat-level: 1
+feat-vher: Ifrit
+mod-persistent_damage: DC vs acid, bleed, poison is 10.
+modified: 20210327154854616
+tags: Heritage Feat Ifrit Lineage
+title: Cindersoul
+type: text/vnd.tiddlywiki
+
+The fire of your elemental ancestor manifests like dying embers of a blaze, and your inner charcoal helps staunch bleeding, purify simple poisons, and absorb acid. 
+
+The DC for you to recover from persistent acid, bleed, and poison damage is 10 instead of 15 (or 5 if you have particularly effective assistance).

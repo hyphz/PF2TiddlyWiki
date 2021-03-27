@@ -1,0 +1,15 @@
+created: 20210327152653404
+feat-level: 13
+feat-vher: Ganzi
+modified: 20210327152752768
+tags: Heritage Feat Ganzi Reaction Action
+title: Alter Resistance
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per hour
+
+''Trigger'' You take <<tag Acid>>, <<tag Electricity>>, or <<tag Sonic>> damage.
+
+You focus on your protean forebears to change your energy resistance. 
+
+The energy resistance you gain from your ganzi heritage changes to match the triggering damage. This change occurs after the damage is dealt.

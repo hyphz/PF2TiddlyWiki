@@ -1,0 +1,16 @@
+created: 20210327180929699
+item-level: 7
+item-price: 3000
+mod-conduct_energy: +1d8 damage intsead of 1 per die.
+modified: 20210327181547305
+tags: Rune Magical Weapon Evocation
+title: Conducting
+type: text/vnd.tiddlywiki
+
+''Usage'' Etched onto a weapon.
+
+A conducting weapon can channel energy through it. 
+
+The weapon gains the [[Resonant]] weapon trait, except that when you [[Conduct Energy]], the weapon deals an additional 1d8 damage of the selected type instead of 1 additional damage per die; if the weapon already had the resonant weapon trait, it deals 1d8 damage plus 1 damage per die instead. 
+
+On a critical hit, the weapon deals 1d8 persistent damage of the same type.

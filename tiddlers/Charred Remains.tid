@@ -1,0 +1,13 @@
+created: 20210327161429666
+feat-level: 9
+feat-vher: Ifrit
+modified: 20210327161628356
+tags: Heritage Feat Ifrit Action Free Metamagic
+title: Charred Remains
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day
+
+Your next fire spell leaves embers in its wake. 
+
+If your next action is to [[Cast a Spell]] with an area and the <<tag Fire>> trait, for 1 minute, your spell’s area becomes [[Difficult Terrain]] as well as Hazardous Terrain, dealing 1 fire damage for each square a creature moves through.

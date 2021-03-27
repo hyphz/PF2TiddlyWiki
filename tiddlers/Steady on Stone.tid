@@ -1,0 +1,15 @@
+created: 20210327164354966
+feat-level: 1
+feat-vher: Oread
+mod-balance: If on stone/earth, not flat-footed and promote successes.
+mod-difficult_terrain: Ignore if caused by rubble or uneven earth.
+modified: 20210327164524973
+tags: Heritage Feat Oread
+title: Steady on Stone
+type: text/vnd.tiddlywiki
+
+Your connection to the earth makes natural uneven surfaces less of a hindrance for you. 
+
+You can ignore [[Difficult Terrain]] caused by rubble and uneven ground made of stone and earth. 
+
+In addition, when you use the [[Acrobatics]] skill to [[Balance]] on narrow surfaces or uneven ground made of stone and earth, you aren’t [[Flat-Footed]], and when you roll a success at one of these Acrobatics checks, you get a critical success instead.
