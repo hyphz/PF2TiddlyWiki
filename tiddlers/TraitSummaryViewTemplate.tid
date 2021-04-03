@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210220160601040
+modified: 20210403172648316
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -9,6 +9,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Feat]]">
 {{||FeatSummary}}
+</$list>
+<$list filter="[all[current]tag[Item]]">
+{{||ItemSummary}}
 </$list>
 <table>
 <$list filter="[all[current]tag[Additive]]">

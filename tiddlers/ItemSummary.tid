@@ -1,0 +1,12 @@
+created: 20210403172659909
+modified: 20210403172832830
+tags: 
+title: ItemSummary
+type: text/vnd.tiddlywiki
+
+<table>
+<tr><th>Level</th><td>{{!!item-level}}</td></tr>
+<tr><th>Price (sp)</th><td>{{!!item-price}}</td></tr>
+<tr><th>Bulk</th><td>{{!!item-bulk}}</td></tr>
+<tr><th>Slot</th><td>{{!!item-slot}}</td></tr>
+</table>

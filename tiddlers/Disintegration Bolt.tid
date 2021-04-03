@@ -1,0 +1,16 @@
+created: 20210403173917260
+item-level: 15
+item-price: 13000
+modified: 20210403174039511
+tags: Consumable Item Magical Uncommon Evocation Interact
+title: Disintegration Bolt
+type: text/vnd.tiddlywiki
+
+''Craft Requirements'' Supply one casting of [[Disintegrate]].
+
+Bolt.
+
+The shaft of this bolt is scorched and blackened, and handling it coats your fingers with a fine black powder. 
+
+When an activated ({{OneAction}} <<tag Interact>>) disintegration bolt hits a target, it is subject to a [[Disintegrate]] spell requiring a DC 34 Fortitude save. As with the spell, a critical hit on the attack roll causes the target’s saving throw outcome to be one degree worse.
+

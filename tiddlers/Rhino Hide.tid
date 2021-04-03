@@ -1,0 +1,18 @@
+created: 20210403173122845
+item-bulk: 2
+item-level: 9
+item-price: 7000
+item-slot: Armor
+mod-sudden_charge: Deals extra 1d8 damage.
+modified: 20210403173235058
+tags: Invested Magical Item Transmutation
+title: Rhino Hide
+type: text/vnd.tiddlywiki
+
+''Craft Requirements'' The initial raw materials must include 320 gp of rhinoceros hide (a common material).
+
+This [[+1|Armor Potency]] [[Resilient]] hide armor is made from rhinoceros hide. 
+
+It has an armor check penalty of –1 instead of –2. 
+
+When you use the [[Sudden Charge]] class feat while wearing this armor, your Strike deals an additional 1d8 damage.

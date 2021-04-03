@@ -1,0 +1,25 @@
+created: 20210403170138590
+item-bulk: 4
+item-level: 16
+item-price: 100000
+item-slot: Armor
+modified: 20210403171026152
+tags: Invested Magical Item Uncommon Evocation Interact
+title: Dragonplate
+type: text/vnd.tiddlywiki
+
+''Craft Requirements'' The initial raw materials must include 1,250 gp of dragonhide.
+
+This suit of [[+2|Armor Potency]] greater [[Resilient]] [[dragonhide|Dragonhide Armor]] full plate makes you look like a fearsome dragon. The armor comes in 10 varieties corresponding to the 10 common dragon types, though other varieties undoubtedly exist.
+
+''Activate'' {{TwoAction}} Interact; ''Frequency'' once per day; ''Effect'' You unleash a bout of dragon breath with a shape, damage type, and saving throw corresponding to the type of dragon used to make the armor (shown on the table below). The breath weapon deals 14d6 damage; each creature in the area must attempt a DC 36 basic saving throw.
+
+| !Dragon Type | !Protects Against | !Breath Weapon (Save) |
+| Black or Copper | <<tag Acid>> | 30-foot line of acid ([[Reflex]]) |
+| Blue or Bronze | <<tag Electricity>> | 30-foot line of electricity ([[Reflex]]) |
+| Brass | <<tag Fire>> | 30-foot line of fire ([[Reflex]]) |
+| Green | <<tag Poison>> | 15-foot cone of poison ([[Fortitude]]) |
+| Gold or Red | <<tag Fire>> | 15-foot cone of fire ([[Reflex]]) |
+| Silver or White | <<tag Cold>> | 15-foot cone of cold ([[Reflex]]) |
+
+//The "protects against" above refers to the resistance granted by this also being [[Dragonhide Armor]].//

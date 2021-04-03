@@ -1,0 +1,17 @@
+created: 20210403172413478
+item-bulk: 2
+item-level: 7
+item-price: 3600
+item-slot: Armor
+modified: 20210403172621541
+tags: Invested Magical Item Divination Interact
+title: Moonlit Chain
+type: text/vnd.tiddlywiki
+
+''Craft Requirements'' The initial raw materials must include 33 gp of silver.
+
+This [[+1|Armor Potency]] [[Silver|Silver Armor]] chain shirt has a collar adorned with stitched images of the phases of the moon. 
+
+You can see in moonlight as though you had [[Low-Light Vision]].
+
+''Activate'' {{OneAction}} Interact; ''Frequency'' once per day; ''Effect'' You touch the stitched image of the new moon on the armor’s collar and suppress the [[Dazzled]] condition for 1 minute.

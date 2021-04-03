@@ -1,0 +1,21 @@
+created: 20210403173407881
+item-level: 3
+item-price: 100
+mod-concealed: Negated on sparking creature.
+mod-invisible: Sparking creature becomes hidden.
+modified: 20210403173644973
+tags: Consumable Item Evocation Magical Interact
+title: Beacon Shot
+type: text/vnd.tiddlywiki
+
+Arrow or Bolt.
+
+The shaft of a beacon shot is studded with tiny flecks of glimmering gemstones. 
+
+When an activated ({{OneAction}} Interact) beacon shot hits a target, it embeds itself into that target and spews sparks for 1 minute. 
+
+If the target is [[Invisible]], it becomes merely [[Hidden]] to creatures who would otherwise be unable to see it. 
+
+The sparks also negate the [[Concealed]] condition if the target was otherwise [[Concealed]].
+
+A creature can remove the arrow or bolt by using an [[Interact]] basic action and succeeding at a DC 20 [[Athletics]] check.

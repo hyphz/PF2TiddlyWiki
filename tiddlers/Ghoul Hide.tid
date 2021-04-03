@@ -1,0 +1,19 @@
+created: 20210403171231447
+item-bulk: 2
+item-level: 6
+item-price: 2200
+item-slot: Armor
+mod-fortitude: +1 item vs paralysis, can't be paralyzed by ghouls.
+mod-reflex: +1 item vs paralysis, can't be paralyzed by ghouls.
+mod-will: +1 item vs paralysis, can't be paralyzed by ghouls.
+modified: 20210403171450615
+modtag-disease: +1 extra item on saves.
+tags: Invested Magical Item Uncommon Necromancy
+title: Ghoul Hide
+type: text/vnd.tiddlywiki
+
+Stitched together from pieces of ghoul skin, this suit of [[+1|Armor Potency]] hide armor grants you a +1 item bonus to saving throws against disease and paralysis and makes you immune to the paralysis of ghouls. 
+
+Ghoul hide with a [[Resilient]] rune increases the resilient rune’s item bonus to saving throws against disease and paralysis by 1 (maximum +4).
+
+Ghoul hide hisses with sibilant hatred at the touch of elves. When worn by a creature with the <<tag Elf>> trait, the armor gains the [[Noisy]] trait.

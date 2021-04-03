@@ -1,0 +1,20 @@
+created: 20210403174135161
+item-level: 9 13
+item-price: 1300 5200
+item-variants: Standard Greater
+modified: 20210403174445628
+tags: Consumable Item Magical Uncommon Evocation Interact
+title: Explosive Ammunition
+type: text/vnd.tiddlywiki
+
+Any ammunition.
+
+This piece of ammunition is coated in gritty black soot. 
+
+When activated ({{OneAction}} <<tag Interact>>) explosive ammunition hits a target, the missile explodes in a 10-foot burst, dealing 6d6 fire damage to each creature in the area (including the target). 
+
+Each creature must attempt a DC 25 basic Reflex save.
+
+| !Type | !Level | !Price | !Damage | !Save DC |
+| (Standard) | 9 | 1300 | 6d6 | 25 |
+| Greater | 13 | 5200 | 10d6 | 30 |
