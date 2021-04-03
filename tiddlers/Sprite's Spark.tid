@@ -1,0 +1,25 @@
+created: 20210403153006279
+feat-anc: Sprite
+feat-level: 1
+modified: 20210403153252846
+tags: Ancestry Feat Sprite
+title: Sprite's Spark
+type: text/vnd.tiddlywiki
+
+You can fling a portion of your magic at foes. 
+
+You gain a ranged unarmed attack in the sling weapon group with a maximum range of 20 feet that deals 1d4 damage. (No ability modifier is added to the damage roll.) 
+
+The damage type and name of the unarmed attack depends on your heritage, described below; most sprite heritages not presented in this book also use luminous spark. 
+
+Like other unarmed attacks, you can improve this attack with [[Handwraps of Mighty Blows]].
+
+| !Heritage | !Name | !Damage type |
+| [[Draxie]] | Euphoric Spark | <<tag Mental>> |
+| [[Grig]] | Dissonant Note | <<tag Sonic>> |
+| [[Luminous Sprite]] | Luminous Spark | <<tag Fire>> |
+| [[Melixie]] | Sting Shot | <<tag Poison>> |
+| [[Nyktera]] | Ultrasonic Pulse | <<tag Sonic>> |
+| [[Pixie]] | Pixie Dust | <<tag Mental>> |
+
+//In the book, this feat refers to "Firefly Sprite", which presumably means Luminous Sprite.//

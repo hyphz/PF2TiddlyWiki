@@ -1,0 +1,16 @@
+created: 20210403151116142
+feat-anc: Kitsune
+feat-level: 17
+mod-change_shape_kitsune: Become a flaming fox instead of a regular one.
+modified: 20210403151239164
+tags: Ancestry Feat Kitsune
+title: Rampaging Form
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' [[Change Shape|Change Shape (Kitsune)]] with a fox alternate form.
+
+Once per day, when you Change Shape into a fox, you can instead gain the effects of both the canine form of 5th-level [[Animal Form]] and 7th-level [[Fiery Body]] for 1 minute or until you shift back, whichever comes first. 
+
+You can cast [[Produce Flame]] from the fiery body effect even though you’re in a battle form.
+
+''Special'' If you are a frozen wind kitsune, your form is ice instead of fire. This changes the immunity and damage from the fiery body effect to cold, changes the weakness to fire, and changes produce flame to [[Ray of Frost]].

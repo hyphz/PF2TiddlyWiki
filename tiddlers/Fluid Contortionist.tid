@@ -1,0 +1,13 @@
+created: 20210403141039836
+feat-level: 5
+feat-vher: Undine
+mod-difficult_terrain: Ignore due to tight spaces that don't require Squeeze.
+mod-squeeze: Promote fumbles and successes.
+modified: 20210403141342433
+tags: Heritage Feat Undine
+title: Fluid Contortionist
+type: text/vnd.tiddlywiki
+
+You can ignore [[Difficult Terrain]] caused by moving through tight spaces that aren’t tight enough to force you to [[Squeeze]]. 
+
+When you roll a critical failure on a check to [[Squeeze]], you get a failure instead, and when you roll a success, you get a critical success instead.

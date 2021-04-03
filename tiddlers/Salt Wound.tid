@@ -1,0 +1,16 @@
+a-defense: Fortitude
+created: 20210403140228030
+modified: 20210403140334775
+tags: Action Reaction Undine
+title: Salt Wound
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per day; 
+
+''Trigger'' A creature that has blood and is not at its maximum Hit Points hits you with a melee [[Strike]]; 
+
+You channel salt and brine from your blood into the creature’s wounds. 
+
+The creature must attempt a [[Fortitude]] save using your class DC or spell DC, whichever is higher. 
+
+On a failure, the creature takes 1d6 persistent acid damage and is [[Sickened]] 1 by the pain. On a critical failure, it instead takes 2d6 persistent acid damage and is [[Sickened]] 2.

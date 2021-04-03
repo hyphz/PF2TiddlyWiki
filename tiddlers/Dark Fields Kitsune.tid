@@ -1,0 +1,8 @@
+created: 20210403142611938
+mod-demoralize: Can demoralize visually without shared language.
+modified: 20210403142800304
+tags: Heritage Kitsune
+title: Dark Fields Kitsune
+type: text/vnd.tiddlywiki
+
+You can exert your unsettling presence to subtly [[Demoralize]] others. When you do, Demoralize loses the <<tag Auditory>> trait and gains the <<tag Visual>> trait, and you don’t take a penalty when you attempt to Demoralize a creature that doesn’t understand your language. You also gain the [[Invigorating Fear]] reaction. Your alternate form is a fox, which has the statistics of 1st-level [[Pest Form]].

@@ -1,0 +1,15 @@
+created: 20210403160853329
+feat-anc: Strix
+feat-level: 5
+mod-conceal_an_object: +2 circumstance when wings folded.
+mod-impersonate: +2 circumstance to pretend you're not a strix.
+modified: 20210403161030206
+tags: Feat Ancestry Strix
+title: Feathered Cloak
+type: text/vnd.tiddlywiki
+
+To blend in with the grounded and wingless, you fold your wings just so on your back, creating the illusion of a feathered cloak. 
+
+You receive a +2 circumstance bonus to [[Deception]] checks to [[Impersonate]] a version of yourself who is not a strix.
+
+Additionally, your folded wings help you obscure objects on your person, providing a +2 circumstance bonus to [[Stealth]] checks to [[Conceal an Object]].

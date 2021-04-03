@@ -1,0 +1,13 @@
+created: 20210403140737297
+feat-level: 1
+feat-vher: Undine
+modified: 20210403140831985
+modtag-cold: +1 circumstance to saves.
+modtag-water: +1 circumstance to saves.
+tags: Heritage Feat Undine
+title: Tide-Hardened
+type: text/vnd.tiddlywiki
+
+You’re at home in the unpredictable tides. 
+
+You gain a +1 circumstance bonus to saves against <<tag Cold>> and <<tag Water>> effects. If you roll a success on a save against a cold or water effect, you get a critical success instead.

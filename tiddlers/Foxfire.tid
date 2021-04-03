@@ -1,0 +1,15 @@
+created: 20210403143534397
+feat-anc: Kitsune
+feat-level: 1
+modified: 20210403143746625
+tags: Ancestry Feat Kitsune
+title: Foxfire
+type: text/vnd.tiddlywiki
+
+A crack of your tail sparks wisps of blue energy. 
+
+Choose either <<tag Electricity>> or <<tag Fire>> when you gain this feat. 
+
+You gain a foxfire ranged unarmed attack with a maximum range of 20 feet. The attack deals 1d4 damage of the chosen type (no ability modifier is added to the damage roll). Your foxfire attack is in the sling weapon group. Like other unarmed attacks, you can improve this attack with [[Handwraps of Mighty Blows]].
+
+''Special'' If you are a [[Frozen Wind Kitsune]], your foxfire deals <<tag Cold>> damage instead of electricity or fire.

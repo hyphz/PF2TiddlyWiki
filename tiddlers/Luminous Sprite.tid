@@ -1,0 +1,9 @@
+created: 20210403151610529
+mod-high_jump: +2 circumstance.
+mod-long_jump: +2 circumstance.
+modified: 20210403151652311
+tags: Heritage Sprite
+title: Luminous Sprite
+type: text/vnd.tiddlywiki
+
+You naturally shed light as a torch; this light has the <<tag Evocation>>, <<tag Light>>, and <<tag Primal>> traits. {{TorchLight}} You can extinguish, rekindle, or change the color of this light using a single action, which has the <<tag Concentrate>> trait.

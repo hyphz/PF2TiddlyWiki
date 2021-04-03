@@ -1,0 +1,12 @@
+created: 20210403140547799
+feat-level: 1
+feat-vher: Undine
+mod-temperature_effects: Cold effects are one step better.
+modified: 20210403140705830
+tags: Heritage Feat Undine Lineage
+title: Rimesoul
+type: text/vnd.tiddlywiki
+
+The water inside you is cold and frozen, like sheets of ice and frigid glaciers. 
+
+You gain resistance to cold equal to half your level (minimum 1), and you treat [[environmental cold effects|Temperature Effects]] as if they were one step less severe (incredible cold becomes extreme, extreme cold becomes severe, and so on).

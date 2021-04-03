@@ -1,13 +1,13 @@
 created: 20200707221717495
 mod-testblock: Hello
-modified: 20200806224849616
+modified: 20210403145615274
 tags: $:/tags/Macro
 title: ModifierBlockMacro
 type: text/vnd.tiddlywiki
 
 \define innermodifierblock(for:"")
 <$set name="x" value=<<__for__>> >
-<$set name="mfield" filter="[title<x>lowercase[]split[ ]join[_]addprefix[mod-]]">
+<$set name="mfield" filter="[title<x>lowercase[]search-replace[(],[]search-replace[)],[]split[ ]join[_]addprefix[mod-]]">
 <$list filter="[all[tiddlers]has<mfield>]">
 <tr><th><$link/></th><td><<x>></td><td><$view field=<<mfield>> /></td></tr>
 <$macrocall $name="innermodifierblock" for=<<currentTiddler>> />

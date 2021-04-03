@@ -1,0 +1,15 @@
+created: 20210403135614251
+modified: 20210403135655986
+tags: Heritage Versatile Uncommon
+title: Undine
+type: text/vnd.tiddlywiki
+
+A water elemental ancestor influences your bloodline. 
+
+You gain the <<tag Undine>> trait, in addition to the traits from your ancestry. 
+
+You gain a swim Speed of 10 feet and the <<tag Amphibious>> trait. Like all creatures with the amphibious trait, you can breathe both water and air. 
+
+You can choose from undine feats and feats from your ancestry whenever you gain an ancestry feat.
+
+{{||VHerFeatList}}

@@ -1,0 +1,17 @@
+created: 20210403145842078
+feat-anc: Kitsune
+feat-level: 5
+mod-change_shape_kitsune: Also gain Illusory Disguise.
+modified: 20210403150022195
+tags: Ancestry Feat Kitsune
+title: Shifting Faces
+type: text/vnd.tiddlywiki
+virtual-tags: Transmutation
+
+''Prerequisites'' tailless alternate form
+
+''Frequency'' once per day
+
+You wear many faces, even those that don’t belong to you. 
+
+When you [[Change Shape|Change Shape (Kitsune)]] into your tailless form, you gain the effects of 3rd-level [[Illusory Disguise]] for 1 hour or until you shift back, except it’s a <<tag Transmutation>> effect rather than an <<tag Illusion>>.

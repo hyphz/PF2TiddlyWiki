@@ -1,0 +1,19 @@
+a-actions: 1
+a-crit: The target takes a –10-foot status penalty to its Speed and is [[Flat-Footed]], both for 1 round.
+a-defense: Will
+a-fumble: The target is temporarily immune for 1 hour.
+a-hit: The target takes a –5-foot status penalty to its Speed for 1 round.
+a-skill: Performance
+created: 20210403153425424
+feat-anc: Sprite
+feat-level: 5
+modified: 20210403153702915
+tags: Ancestry Feat Sprite Auditory Concentrate Emotion Mental Action
+title: Catchy Tune
+type: text/vnd.tiddlywiki
+
+You create a tune so catchy, your foes can’t help but dance along. 
+
+Attempt a [[Performance]] check against the [[Will]] DCs of all enemies in a 30-foot emanation.
+
+{{||ActionSuccessTable}}
