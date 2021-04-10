@@ -1,0 +1,15 @@
+created: 20210410141159519
+modified: 20210410142039203
+tags: Trait
+title: Troop
+type: text/vnd.tiddlywiki
+
+A troop is an organized collection of component creatures, typically Small or Medium in size, working as a cohesive whole.
+
+A troop is 16 squares in size and has two Hit Point thresholds in their HP entry, under which it reduces in size to 12 squares and then 8 squares. 
+
+A troop has the [[Troop Defenses]], [[Form Up]], and Troop Movement abilities. //(Troop Movement varies depending on the type of Troop.)//
+
+Most troops have a weakness to area damage. 
+
+Because they consist of multiple discrete creatures, they can’t be summoned.

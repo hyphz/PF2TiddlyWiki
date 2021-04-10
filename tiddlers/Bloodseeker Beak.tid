@@ -1,0 +1,17 @@
+created: 20210410162602568
+item-bulk: -
+item-level: 4
+item-price: 200
+modified: 20210410163339596
+tags: Consumable Item Magical Talisman Necromancy Envision
+title: Bloodseeker Beak
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+Affix to a weapon. 
+
+This long, hollow proboscis is harvested from the notorious bloodseeker beast and drips a trickle of blood. 
+
+''Trigger'' You hit a [[Flat-Footed]] creature with the affixed weapon.
+
+''Activate'' {{FreeAction}} Envision: you deal an extra 1d4 precision damage on your damage roll. If you deal [[Sneak Attack]] damage to the creature, you also deal 1d4 persistent bleed damage.

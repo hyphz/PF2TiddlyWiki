@@ -1,0 +1,20 @@
+created: 20210410164425664
+item-bulk: -
+item-level: 2
+item-price: 70
+modified: 20210410164625110
+tags: Consumable Item Magical Talisman Transmutation Interact
+title: Effervescent Ampoule
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You’re an expert in [[Acrobatics]].
+
+Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated ({{OneAction}} [[Interact]]). 
+
+Until the end of your turn, the armor lets you move across water and other liquids as if they were solid ground. 
+
+If you [[Stride]] or [[Step]] over a weight-sensitive pressure plate, you don’t cause the plate to depress, which prevents you from triggering any device or hazard attached to the pressure plate. 
+
+When the ampoule’s effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location.

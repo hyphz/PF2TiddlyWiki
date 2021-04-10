@@ -1,0 +1,62 @@
+created: 20210410161523772
+item-bulk: L
+item-hands: 1
+item-level: 1 3 5 7 9 11 13 15 17 19
+item-price: 40 120 300 700 1500 3000 6000 13000 30000 80000
+item-variants: [[Level 1]] [[Level 2]] [[Level 3]] [[Level 4]] [[Level 5]] [[Level 6]] [[Level 7]] [[Level 8]] [[Level 9]] [[Level 10]]
+modified: 20210410162151718
+tags: Consumable Item Magical Scroll
+title: Scroll
+type: text/vnd.tiddlywiki
+
+A scroll contains a single spell that you can cast without having to expend a spell slot. 
+
+A scroll can be [[Craft]]ed to contain nearly any spell, so the types of scrolls available are limited only by the number of spells in the game. The exceptions are cantrips, focus spells, and rituals, none of which can be put on scrolls. 
+
+The spell on a scroll can be cast only once, and the scroll is destroyed as part of the casting. 
+
+The spell on the scroll is cast at a particular spell level, as determined by the scroll. For instance, a scroll of [[Magic Missile]] (1st level) can be used to cast the 1st-level version of magic missile, but not a magic missile heightened to 2nd level. 
+
+If no level is listed, the scroll can be used to cast the spell at its lowest level.
+
+If you find a scroll, you can try to figure out what spell it contains. If the spell is a common spell from your spell list or a spell you know, you can spend a single [[Recall Knowledge]] action and automatically succeed at identifying the scroll’s spell. If it’s not, you must use [[Identify Magic]] to learn what spell the scroll holds.
+
+Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a [[Cast a Spell]] activity using the normal number of actions for that spell.
+
+To Cast a Spell from a scroll, the spell must appear on your spell list. 
+
+Because you’re the one Casting the Spell, use your spell attack roll and spell DC. 
+
+The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).
+
+Any physical material components and costs are provided when a scroll is created, so you don’t need to provide them when Casting a Spell from a scroll. 
+
+You must replace any required material component for that spell with a somatic component. 
+
+If the spell requires a focus, you must have that focus to Cast the Spell from a scroll.
+
+All scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk, and it must be held in one hand to be activated.
+
+The table below indicates the item level and Price of a scroll, both of which are based on the level of the spell contained on the scroll. Any costs to Cast the Spell are added to the scroll’s Price when the scroll is crafted, so a scroll containing a spell with a Cost entry will have a higher Price than what appears on the table. 
+
+The scroll’s rarity matches the spell’s rarity.
+
+The traits for a scroll vary based on the spell it contains. A scroll always has the <<tag Consumable>>, <<tag Magical>>, and <<tag Scroll>> traits, plus the traits of the spell stored on it.
+
+The process to Craft a scroll is much like that to Craft any other magic item. When you begin the crafting process, choose a spell to put into the scroll. You have to either Cast that Spell during the crafting process, or someone else must do so in your presence. Casting that Spell doesn’t produce its normal effects; instead, the magic is trapped inside the scroll. 
+
+The casting must come from a spellcaster expending a spell slot. You can’t Craft a scroll from a spell produced from another magic item, for example. The caster has to provide any cost of the spell.
+
+Like other consumables, scrolls can be crafted in batches of four. All scrolls of one batch must contain the same spell at the same level, and you must provide one casting for each scroll crafted.
+
+| !Spell Level | !Item Level | !Base Price |
+| 1 | 1 | 40 |
+| 2 | 3 | 120 |
+| 3 | 5 | 300 |
+| 4 | 7 | 700 |
+| 5 | 9 | 1500 |
+| 6 | 11 | 3000 |
+| 7 | 13 | 6000 |
+| 8 | 15 | 13000 |
+| 9 | 17 | 30000 |
+| 10 | 19 | 80000 |

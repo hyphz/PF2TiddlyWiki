@@ -1,0 +1,19 @@
+created: 20210410165225159
+item-bulk: -
+item-level: 12
+item-price: 3200
+modified: 20210410165344630
+tags: Consumable Item Magical Talisman Envision Illusion
+title: Fade Band
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+Affix to armor.
+
+This thin, silvery wire wraps around your armor. 
+
+''Requirements'' You are a master in [[Stealth]].
+
+''Trigger'' An attack misses you.
+
+''Activate'' {{FreeAction}} Envision: when you activate the band, it casts a 2nd-level [[Invisibility]] spell on you.

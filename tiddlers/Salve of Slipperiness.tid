@@ -1,0 +1,13 @@
+created: 20210410152839325
+item-bulk: L
+item-hands: 2
+item-level: 5
+item-price: 250
+mod-escape: +2 item with Acrobatics.
+mod-squeeze: +2 item.
+modified: 20210410152945767
+tags: Consumable Item Oil Interact Magical Transmutation
+title: Salve of Slipperiness
+type: text/vnd.tiddlywiki
+
+This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to [[Acrobatics]] checks to [[Escape]] or to [[Squeeze]].

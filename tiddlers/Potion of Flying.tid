@@ -1,0 +1,17 @@
+created: 20210410155018007
+item-bulk: L
+item-hands: 1
+item-level: 8 15
+item-price: 100 10000
+item-variants: Standard Greater
+modified: 20210410155145005
+tags: Consumable Item Interact Magical Potion Transmutation
+title: Potion of Flying
+type: text/vnd.tiddlywiki
+
+Upon drinking this effervescent concoction, you gain a fly Speed of 40 feet for 1 minute.
+
+| !Type | !Level | !Price | !Duration |
+| Standard | 8 | 1000 | 1 minute |
+| Greater | 15 | 10000 | 1 hour |
+

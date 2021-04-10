@@ -1,0 +1,15 @@
+created: 20210410151822821
+item-bulk: L
+item-hands: 2
+item-level: 3
+item-price: 90
+modified: 20210410151930726
+tags: Consumable Item Oil Interact Magical Transmutation
+title: Oil of Mending
+type: text/vnd.tiddlywiki
+
+A vial of oil of mending appears to have countless translucent threads swirling within. 
+
+//It takes an [[Interact]] action lasting 1 minute to apply this oil.//
+
+Applying this oil to an item casts a 2nd-level [[Mending]] spell to repair the item.

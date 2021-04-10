@@ -1,0 +1,17 @@
+created: 20210410145740974
+item-bulk: L
+item-hands: 2
+item-level: 9
+item-price: 1400
+modified: 20210410145905996
+tags: Consumable Item Oil Interact Divine Evocation
+title: Aligned Oil
+type: text/vnd.tiddlywiki
+
+This oil fills a weapon with cosmic power of an alignment. 
+
+Each aligned oil is crafted to one alignment: <<tag Chaos>>, <<tag Evil>>, <<tag Good>>, or <<tag Law>> (such as a good-aligned oil). 
+
+A weapon anointed with this oil gains the effects of the property rune matching its alignment: [[Anarchic]] (chaos), [[Axiomatic]] (law), [[Holy]] (good), or [[Unholy]] (evil).
+
+This lasts for 1 minute.

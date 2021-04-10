@@ -1,0 +1,18 @@
+created: 20210410163413152
+item-bulk: -
+item-level: 2
+item-price: 70
+modified: 20210410163527800
+tags: Consumable Item Magical Talisman Envision Necromancy
+title: Crying Angel Pendant
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+Affix to armor. 
+
+''Requirements'' You are trained in [[Medicine]].
+
+''Trigger'' You critically fail to [[Administer First Aid]]. 
+
+''Activate'' {{FreeAction}} Envision: When you activate this alabaster pendant, your critical failure becomes a normal failure instead.
+

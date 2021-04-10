@@ -1,0 +1,21 @@
+created: 20210410164558255
+item-bulk: -
+item-level: 5
+item-price: 300
+modified: 20210410164730883
+tags: Consumable Item Magical Talisman Envision Transmutation
+title: Emerald Grasshopper
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+Affix to armor.
+
+This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. 
+
+''Requirements'' You’re an expert in [[Athletics]].
+
+''Trigger'' You attempt a [[High Jump]] but haven't rolled yet.
+
+''Activate'' {{FreeAction}} Envision: When you activate it, if you succeed at the [[Athletics]] check, you Leap up to 50 feet vertically and up to 10 feet horizontally. If you critically succeed, you can Leap up to 75 feet vertically and 20 feet horizontally. 
+
+If you don’t end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground.

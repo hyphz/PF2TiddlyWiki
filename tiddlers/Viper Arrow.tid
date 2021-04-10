@@ -1,0 +1,25 @@
+created: 20210410145243166
+item-level: 4
+item-price: 170
+modified: 20210410145403489
+tags: Consumable Item Magical Conjuration Command
+title: Viper Arrow
+type: text/vnd.tiddlywiki
+
+Arrow ammunition.
+
+The shaft of this arrow is covered in fine green scales, and its iron head comes to a pair of points almost like fangs. 
+
+After an activated ({{OneAction}} [[Interact]]) viper arrow hits a target, the arrow transforms into a viper (Pathfinder Bestiary). 
+
+The target is affected by the viper’s poison, as if it had been bitten. 
+
+The viper then lands in an open space adjacent to the target.
+
+The viper has the summoned trait and acts at the end of your turn, even though you didn’t use the [[Sustain a Spell]] action. 
+
+It is under the GM’s control, but it generally attacks the creature the arrow struck. 
+
+The viper vanishes after 1 minute or when slain.
+
+''Craft Requirements'' Supply one casting of [[Summon Animal]].

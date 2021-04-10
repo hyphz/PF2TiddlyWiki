@@ -1,0 +1,15 @@
+created: 20210410154813653
+item-bulk: L
+item-hands: 1
+item-level: 13
+item-price: 4500
+modified: 20210410154957187
+tags: Consumable Item Interact Uncommon Magical Potion Healing Necromancy
+title: Panacea
+type: text/vnd.tiddlywiki
+
+This potion appears to shift colors, and no two observers describe it in the same way. 
+
+When consumed, it attempts to counteract all <<Tag Curse>>s and <<tag Disease>>s affecting you, as well as the [[Blinded]] and [[Deafened]] conditions from spells affecting you.
+
+The potion has a counteract level of 7 and a +20 modifier for the roll.

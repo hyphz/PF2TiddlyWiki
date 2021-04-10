@@ -1,0 +1,19 @@
+created: 20210410164956723
+item-bulk: -
+item-level: 12
+item-price: 4000
+modified: 20210410165132885
+tags: Consumable Item Magical Talisman Envision Divination Fortune
+title: Eye of Apprehension
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+Affix to armor.
+
+This round piece of cymophane’s silky inclusion makes it look like a cat’s eye.  While affixed, it makes you jittery. 
+
+''Requirements'' You are a master in [[Perception]].
+
+''Trigger'' You are about to roll [[Perception]] for initiative but haven’t rolled yet.
+
+''Activate'' {{FreeAction}} Envision: roll Perception twice and use the higher result.

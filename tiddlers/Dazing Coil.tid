@@ -1,0 +1,17 @@
+created: 20210410163557537
+item-bulk: -
+item-level: 14
+item-price: 9000
+m-save: Will
+modified: 20210410163827181
+tags: Consumable Item Magical Talisman Envision Enchantment
+title: Dazing Coil
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+This knot of copper wire reshapes itself in a new pattern every time its affixed weapon deals damage.
+
+''Trigger'' You deal damage to a [[Flat-Footed]] creature with the affixed weapon.
+
+''Activate'' {{FreeAction}} Envision: When you activate the coil, the damaged creature must succeed at a DC 31 [[Will]] save or be [[Stunned]] 1. If it critically fails, it instead becomes [[Stunned]] 2.
+

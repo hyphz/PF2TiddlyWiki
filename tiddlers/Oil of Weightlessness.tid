@@ -1,0 +1,18 @@
+created: 20210410152411612
+item-bulk: L
+item-hands: 2
+item-level: 2 6
+item-price: 60 360
+item-variants: Standard Greater
+modified: 20210410152551226
+tags: Consumable Item Oil Interact Magical Transmutation
+title: Oil of Weightlessness
+type: text/vnd.tiddlywiki
+
+You can spread this shimmering oil on an item of 1 Bulk or less to make it feel weightless. 
+
+It has negligible Bulk for 1 hour.
+
+| !Type | !Level | !Price | !Maximum Bulk | !Duration |
+| Standard | 2 | 60 | 1 | 1 hour |
+| Greater | 6 | 360 | 2 | 8 hours |

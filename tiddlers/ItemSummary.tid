@@ -1,5 +1,5 @@
 created: 20210403172659909
-modified: 20210403172832830
+modified: 20210410150045642
 tags: 
 title: ItemSummary
 type: text/vnd.tiddlywiki
@@ -9,4 +9,5 @@ type: text/vnd.tiddlywiki
 <tr><th>Price (sp)</th><td>{{!!item-price}}</td></tr>
 <tr><th>Bulk</th><td>{{!!item-bulk}}</td></tr>
 <tr><th>Slot</th><td>{{!!item-slot}}</td></tr>
+<tr><th>Hands</th><td>{{!!item-hands}}</td></tr>
 </table>

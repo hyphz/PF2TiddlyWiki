@@ -1,0 +1,18 @@
+created: 20210410150631058
+item-bulk: L
+item-hands: 2
+item-level: 15
+item-price: 12000
+modified: 20210410150749198
+modtag-divination: Item immune if effect 8th level or lower.
+tags: Consumable Item Oil Interact Magical Illusion
+title: Obfuscation Oil
+type: text/vnd.tiddlywiki
+
+You can spread this blue-gray gel on a single item with a Bulk of 3 or less to ward it against magical detection. 
+
+It becomes immune to <<tag Divination>> magic of 8th level or lower (such as locate). 
+
+This oil is permanent, but it can be removed with acid. 
+
+Removing the oil in this way usually takes 1 minute for objects with Bulk of 1 or less, or a number of minutes equal to the item’s Bulk.

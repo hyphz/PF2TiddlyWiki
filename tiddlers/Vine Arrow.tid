@@ -1,0 +1,17 @@
+created: 20210410145043963
+item-level: 3
+item-price: 100
+modified: 20210410145219597
+tags: Consumable Item Magical Conjuration Command
+title: Vine Arrow
+type: text/vnd.tiddlywiki
+
+Arrow ammunition.
+
+Leafy stalks protrude from the shaft of this rustic arrow. 
+
+When an activated ({{OneAction}} Command) vine arrow hits a target, the arrow’s shaft splits and grows, wrapping the target in vines. 
+
+The target takes a –10-foot circumstance penalty to its Speeds for 2d4 rounds, or until it [[Escape]]s against a DC of 19. 
+
+On a critical hit, the target is also [[Immobilized]] until it [[Escape]]s.

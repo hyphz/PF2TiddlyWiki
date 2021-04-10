@@ -1,0 +1,21 @@
+created: 20210410155523198
+item-bulk: L
+item-hands: 1
+item-level: 6 10 14
+item-price: 450 1800 8500
+item-variants: Lesser Moderate Greater
+modified: 20210410155719404
+tags: Consumable Item Interact Magical Potion Abjuration
+title: Potion of Resistance
+type: text/vnd.tiddlywiki
+
+Drinking this thick, fortifying potion grants resistance against a single damage type for 1 hour. 
+
+Each potion of resistance is created to defend against <<tag Acid>>, <<tag Cold>>, <<Tag Electricity>>, <<tag Fire>>, or <<tag Sonic>> damage (and is called a lesser potion of fire resistance or the like).
+
+| !Type | !Level | !Price | !Resistance |
+| Lesser | 6 | 450 | 5 |
+| Moderate | 10 | 1800 | 10 |
+| Greater | 14 | 8500 | 15 |
+
+

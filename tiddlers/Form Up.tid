@@ -1,0 +1,10 @@
+a-actions: 1
+created: 20210410141905251
+modified: 20210410141932223
+tags: Action
+title: Form Up
+type: text/vnd.tiddlywiki
+
+The troop chooses one of the squares it currently occupies and redistributes its squares to any configuration in which all squares are contiguous and within 15 feet of the chosen square. 
+
+The troop can’t share its space with other creatures.

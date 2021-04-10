@@ -1,0 +1,20 @@
+created: 20210410163939698
+item-bulk: -
+item-level: 17
+item-price: 24000
+m-save: Will
+modified: 20210410164107544
+tags: Consumable Item Magical Talisman Envision Abjuration
+title: Dispelling Sliver
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+Made from a treated sliver of cold iron, this talisman allows you to counteract magical effects. 
+
+''Requirements'' You’re a master with the affixed weapon.
+
+''Trigger'' Your Strike damages a target.
+
+''Activate'' {{FreeAction}} Envision: when you activate the dispelling sliver, it attempts to [[Counteract]] a single spell active on the target (counteract modifier +29), with the effects of an 8th-level [[Dispel Magic]] spell.
+
+If you activate the talisman on a successful [[Dispelling Slice]], the talisman attempts to counteract all spells active on the target.

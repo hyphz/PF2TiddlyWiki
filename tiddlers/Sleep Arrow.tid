@@ -1,0 +1,15 @@
+created: 20210410143050681
+item-level: 3
+item-price: 110
+modified: 20210410143209871
+tags: Consumable Item Magical Enchantment Mental Sleep Interact
+title: Sleep Arrow
+type: text/vnd.tiddlywiki
+
+Ammunition: Arrow.
+
+Sleep arrows often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. 
+
+An activated sleep arrow deals no damage, but a living creature hit by it is subject to the effects of a [[Sleep]] spell (DC 17).
+
+''Craft Requirements'' Supply one casting of [[Sleep]].

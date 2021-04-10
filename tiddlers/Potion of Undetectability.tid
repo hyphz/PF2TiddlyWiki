@@ -1,0 +1,17 @@
+created: 20210410160302066
+item-bulk: L
+item-hands: 1
+item-level: 18
+item-price: 44000
+modified: 20210410160409813
+tags: Consumable Item Interact Magical Potion Illusion
+title: Potion of Undetectability
+type: text/vnd.tiddlywiki
+
+Drinking this dull-black liquid makes you undetectable to divinations. 
+
+This grants the same effects as [[Mind Blank]], but without the bonus against <<tag Mental>> effects. 
+
+You also gain the effects of a 4th-level [[Invisibility]] spell, which protects against [[See Invisibility]] spells of 8th level and lower and has a DC of 36 against [[True Seeing]]. 
+
+The potion’s effects last for 10 minutes.

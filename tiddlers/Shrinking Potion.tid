@@ -1,0 +1,15 @@
+created: 20210410160603207
+item-bulk: L
+item-hands: 1
+item-level: 4 8
+item-price: 150 900
+item-variants: Standard Greater
+mod-stealth: Greater version gives +2 item while shrunk.
+modified: 20210410160729876
+tags: Consumable Item Interact Magical Potion Transmutation
+title: Shrinking Potion
+type: text/vnd.tiddlywiki
+
+This fungus-flavored potion conveys the effects of the [[Shrink]] spell to make you and all your gear smaller. After the //1 minute// onset, you remain small for 10 minutes.
+
+The greater variant has no onset, lasts for 1 hour, and grants the effects of a 4th-level [[Shrink]] spell. In addition, you gain a +2 item bonus to [[Stealth]] checks while shrunken.

@@ -1,0 +1,21 @@
+created: 20210410154253998
+item-bulk: L
+item-hands: 1
+item-level: 1 3 6 12 18
+item-price: 40 120 500 4000 50000
+item-variants: Minor Lesser Moderate Greater Major
+modified: 20210410154725181
+tags: Consumable Item Interact Healing Magical Necromancy Positive Potion
+title: Healing Potion
+type: text/vnd.tiddlywiki
+
+A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker’s wounds heal rapidly. 
+
+When you drink a healing potion, you regain the listed number of Hit Points.
+
+| !Type | !Level | !Price | !Healing |
+| Minor | 1 | 40 | 1d8 |
+| Lesser | 3 | 120 | 2d8+5 |
+| Moderate | 6 | 500 | 3d8+10 |
+| Greater | 12 | 4000 | 6d8+20 |
+| Major | 18 | 50000 | 8d8+30 |

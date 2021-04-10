@@ -1,0 +1,18 @@
+created: 20210410152645979
+item-bulk: L
+item-hands: 2
+item-level: 6 12
+item-price: 400 3250
+item-variants: Standard Greater
+modified: 20210410152822225
+tags: Consumable Item Oil Interact Magical Healing Necromancy
+title: Salve of Antiparalysis
+type: text/vnd.tiddlywiki
+
+Applying this filmy salve to a creature helps it overcome magical paralysis. 
+
+The creature recovers as if it were the target of a 3rd-level [[Remove Paralysis]] spell.
+
+| !Type | !Level | !Price | !Spells |
+| Standard | 6 | 400 | 3rd-level [[Remove Paralysis]] |
+| Greater | 12 | 3250 | 6th-level [[Remove Paralysis]] and [[Stone to Flesh]] |

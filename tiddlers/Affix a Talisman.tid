@@ -1,0 +1,14 @@
+a-hands: 2
+a-time: 10 minutes
+a-tool: [[Repair Kit]]
+created: 20210410162259297
+modified: 20210410162354698
+tags: Action Exploration Manipulate
+title: Affix a Talisman
+type: text/vnd.tiddlywiki
+
+You spend 10 minutes affixing a talisman to an item, placing the item on a stable surface and using the repair kit with both hands. 
+
+You can also use this activity to remove a talisman. 
+
+If more than one talisman is affixed to an item, the talismans are suppressed; none of them can be activated.

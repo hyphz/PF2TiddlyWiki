@@ -1,0 +1,15 @@
+created: 20210410144203287
+item-level: 15
+item-price: 13000
+modified: 20210410144321561
+tags: Consumable Item Magical Transmutation Interact
+title: Stone Bullet
+type: text/vnd.tiddlywiki
+
+Sling bullet ammunition.
+
+This sling bullet looks like a petrified serpent’s eye. 
+
+A creature hit by an activated {{{OneAction}} [[Interact]]) stone bullet is subject to the effects of a 6th-level [[Flesh to Stone]] spell (DC 34).
+
+''Craft Requirements'' Supply one casting of [[Flesh to Stone]].

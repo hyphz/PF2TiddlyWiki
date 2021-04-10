@@ -1,0 +1,19 @@
+created: 20210410161142168
+item-bulk: L
+item-hands: 1
+item-level: 6
+item-price: 460
+m-save: Will
+modified: 20210410161411492
+s-fail: When you speak, you must tell the truth. //(But you do not have to speak.)//
+s-fumble: As failure, and when someone asks you a question, you must attempt another DC 19 Will saving throw. If you fail this saving throw, you must answer the question truthfully if you are able to do so; if you succeed, you are temporarily immune to further attempts to ask the same question within the potion’s duration.
+s-hit: The potion does not affect you.
+tags: Consumable Item Interact Magical Potion Uncommon Enchantment Mental
+title: Truth Potion
+type: text/vnd.tiddlywiki
+
+For 10 minutes after drinking this astringent potion, you can’t intentionally lie and may be compelled to tell the truth.
+
+Upon drinking the potion, attempt a DC 19 [[Will]] save. You can voluntarily fail or critically fail.
+
+{{||SaveSuccessTable}}
