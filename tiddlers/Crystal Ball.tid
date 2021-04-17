@@ -1,0 +1,29 @@
+created: 20210417170919485
+item-bulk: L
+item-hands: 1
+item-level: 14 15 16 17 19
+item-price: 38000 70000 75000 125000 320000
+item-variants: [[Clear Quartz]] Selenite Moonstone Peridot Obsidian
+modified: 20210417171411765
+tags: Item Magical Interact Uncommon Command Envision Divination Scrying
+title: Crystal Ball
+type: text/vnd.tiddlywiki
+
+This polished crystal sphere enhances scrying magic. 
+
+Any visual information received through a spell with the scrying trait that was cast by the crystal ball appears within the sphere, and any auditory information sounds out from the surface of the sphere. 
+
+When you cast a scrying spell by any other means while holding the sphere, you can relay any information you receive in the same way, allowing others to see or hear the target.
+
+The base version of a crystal ball is a sphere of clear quartz, but other versions are made of different stones. //Other versions give you the benefit of another spell on the target.//
+
+''Activate'' {{ClockIcon}} 1 minute (command, envision, Interact); ''Frequency'' once per hour; ''Effect'' The crystal ball casts [[Clairvoyance]] to your specifications.
+
+''Activate'' {{ClockIcon}} 10 minutes (command, envision, Interact); ''Frequency'' twice per day; ''Effect'' The crystal ball casts a DC 33 [[Scrying]] spell to your specifications.
+
+| !Type | !Level | !Price | !Scrying DC | !Additional Spell |
+| Clear Quartz | 14 | 38000 | 33 | None |
+| Selenite | 15 | 70000 | 36 | [[See Invisibility]] |
+| Moonstone | 16 | 75000 | 37 | [[Mind Reading]] (same save DC) |
+| Peridot | 17 | 125000 | 39 | [[Telepathy]] |
+| Obsidian | 19 | 320000 | 41 | [[True Seeing]] |

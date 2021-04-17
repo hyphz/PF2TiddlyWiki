@@ -1,0 +1,19 @@
+created: 20210417164304078
+item-bulk: L
+item-hands: 1
+item-level: 9
+item-price: 1100
+modified: 20210417164441653
+tags: Consumable Item Electricity Evocation Magical Command Interact
+title: Javelin of Lightning
+type: text/vnd.tiddlywiki
+
+This item looks like a normal javelin carved with lightning-bolt motifs. 
+
+If thrown without being activated, it wobbles in the air and fails to strike true. 
+
+When you Activate the javelin ({{TwoAction}} Command, Interact), your command makes the carvings crackle with electricity. You then hurl the javelin. 
+
+It shatters immediately after leaving your hand and unleashes its magic as a 4th-level [[Lightning Bolt]] originating from your space. The bolt deals 5d12 electricity damage and has a [[Reflex]] save DC of 25.
+
+''Craft Requirements'' Supply a casting of [[Lightning Bolt]].

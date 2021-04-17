@@ -1,0 +1,20 @@
+created: 20210417143823463
+item-bulk: -
+item-level: 16
+item-price: 18000
+modified: 20210417144043188
+tags: Consumable Item Talisman Illusion Occult Envision
+title: Ghost Dust
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are legendary in [[Stealth]].
+
+''Trigger'' You use an action with the <<tag Move>> trait.
+
+This small vial is filled with a grayish-green dust rendered from dried ectoplasm. 
+
+When you activate the dust, it casts a 4th-level [{Invisibility]] spell on you. 
+
+This comes into effect before you move during the triggering action.

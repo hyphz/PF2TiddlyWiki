@@ -1,0 +1,18 @@
+created: 20210417160516845
+item-bulk: -
+item-level: 14
+item-price: 8500
+modified: 20210417160650187
+tags: Consumable Item Talisman Magical Envision Evocation
+title: Viper's Fang
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Requirements'' You are a master with the affixed weapon.
+
+''Trigger'' A creature within your reach uses a <<tag Manipulate>> or <<tag Move>> action, makes a ranged attack, or leaves a square during a move action it's using.
+
+When you activate {{ReactionIcon}} this resin-strengthened viper skull, you make an [[Attack of Opportunity]] against the triggering creature.
+
+If you have Attack of Opportunity, you can activate the viper’s fang as a free action.

@@ -1,0 +1,18 @@
+created: 20210417144002967
+item-bulk: -
+item-level: 7
+item-price: 550
+modified: 20210417144229924
+tags: Consumable Item Talisman Enchantment Magical Envision
+title: Grim Trophy
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are an expert in [[Intimidation]].
+
+''Trigger'' You attempt an [[Intimidation]] check to [[Coerce]] or [[Demoralize]], but you haven’t rolled yet.
+
+This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. 
+
+When you activate the trophy, select two targets and compare your [[Intimidation]] check result to both of their DCs.

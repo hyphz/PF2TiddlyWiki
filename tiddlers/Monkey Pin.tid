@@ -1,0 +1,20 @@
+created: 20210417153657686
+item-bulk: -
+item-level: 2
+item-price: 60
+modified: 20210417153812676
+tags: Consumable Item Talisman Magical Transmutation
+title: Monkey Pin
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are trained in [[Athletics]].
+
+This small brass pin is in the shape of a monkey climbing a tree. 
+
+When you activate this talisman, use a {{OneAction}} [[Climb]] action. 
+
+If you succeed, you move your full Speed during the Climb. 
+
+If you roll a critical failure, you get a failure instead.

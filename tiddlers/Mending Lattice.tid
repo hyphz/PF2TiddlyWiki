@@ -1,0 +1,18 @@
+created: 20210417153049866
+item-bulk: -
+item-level: 13
+item-price: 5250
+modified: 20210417153448982
+tags: Consumable Item Talisman Command Abjuration Magical Uncommon
+title: Mending Lattice
+type: text/vnd.tiddlywiki
+
+Affix to a shield or weapon.
+
+''Requirements'' You are an master in [[Crafting]].
+
+''Trigger'' The affixed item would take damage.
+
+This lattice of reinforced iron is shaped into a perfect octagon. 
+
+When you activate {{FreeAction}} it, it negates the damage and instantly and completely repairs the affixed item.

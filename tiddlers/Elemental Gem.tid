@@ -1,0 +1,15 @@
+created: 20210417162324843
+item-bulk: -
+item-hands: 1
+item-level: 10
+item-price: 2000
+modified: 20210417162431406
+tags: Consumable Item Magical Interact Conjuration Command
+title: Elemental Gem
+type: text/vnd.tiddlywiki
+
+You shout the name of an elemental lord and dash this glassy gem against a hard surface to activate it ({{TwoAction}} Command, Interact). 
+
+It cracks open, casting a 5th-level [[Summon Elemental]] spell to summon forth an elemental you control as long as you spend an action each round to Sustain the Activation.
+
+This gem comes in four varieties: transparent for a living whirlwind, light brown for a living landslide, reddish orange for a living wildfire, and blue-green for a living waterfall.

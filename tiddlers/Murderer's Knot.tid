@@ -1,0 +1,20 @@
+created: 20210417154456895
+item-bulk: -
+item-level: 7
+item-price: 660
+modified: 20210417154638876
+tags: Consumable Item Talisman Magical Command Evocation
+title: Murderer's Knot
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Requirements'' You are an expert with the affixed weapon.
+
+''Trigger'' You damage a [[Flat-Footed]] creature with a [[Strike]] using the affixed weapon.
+
+This black strand of leather is tied to look like a peace knot when the weapon is worn, but it doesn’t hamper drawing the weapon. 
+
+When you activate the knot, the creature you damaged takes 1d6 persistent bleed damage.
+
+If you have the [[Twist the Knife]] feat, the talisman instead deals persistent bleed damage equal to your sneak attack damage.

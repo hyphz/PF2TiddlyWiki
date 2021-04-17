@@ -1,0 +1,17 @@
+created: 20210417165405188
+item-bulk: L
+item-hands: 1
+item-level: 7
+item-price: 3200
+modified: 20210417165554317
+tags: Item Conjuration Magical Air Interact
+title: Bottled Air
+type: text/vnd.tiddlywiki
+
+Appearing to be an ordinary corked glass bottle, this item contains a limitless supply of fresh air. 
+
+You must uncork the bottle with an [[Interact]] action before you can activate it.
+
+Air doesn’t escape the mouth of the bottle, so leaving the open bottle in an airless environment doesn’t change the environment.
+
+''Activate'' {{OneAction}} Interact; ''Effect'' You draw a breath of air from the bottle. This allows you to breathe even in an airless or toxic environment. 

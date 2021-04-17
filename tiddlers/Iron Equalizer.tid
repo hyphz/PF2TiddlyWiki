@@ -1,0 +1,20 @@
+created: 20210417152237567
+item-bulk: -
+item-level: 12
+item-price: 4000
+modified: 20210417152320063
+tags: Consumable Item Talisman Magical Evocation
+title: Iron Equalizer
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Requirements'' You are an master with the affixed weapon.
+
+This small iron band has a shifting weight that helps equalize the affixed weapon’s balance. 
+
+When you activate it, you use [[Certain Strike]], as the fighter feat. 
+
+You must meet the normal requirements, including those of the <<tag Press>> trait. 
+
+If you have the Certain Strike feat, the failure effect increases to deal the weapon’s normal damage.

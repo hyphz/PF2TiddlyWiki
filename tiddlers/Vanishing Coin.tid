@@ -1,0 +1,18 @@
+created: 20210417160254960
+item-bulk: -
+item-level: 10
+item-price: 1600
+modified: 20210417160502847
+tags: Consumable Item Talisman Magical Envision Transmutation
+title: Vanishing Coin
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are a master in [[Stealth]].
+
+''Trigger'' You attempt a [[Stealth]] check for initiative but you haven't rolled yet.
+
+This copper coin dangles from a leather strip strung through a hole drilled in the center. Until activated, the coin becomes invisible for a few seconds at random intervals every few minutes. 
+
+When you activate {{FreeAction}} the coin, it casts a 2nd-level [[Invisibility]] spell on you, lasting until the end of your next turn.

@@ -1,0 +1,16 @@
+created: 20210417142703320
+item-bulk: -
+item-level: 4
+item-price: 200
+modified: 20210417142844027
+tags: Consumable Item Magical Talisman Enchantment Fear Mental
+title: Fear Gem
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+Dark smoke seems to writhe within this obsidian gem. 
+
+When you activate the gem, you make an {{TwoAction}} [[Intimidating Strike]], as the fighter feat.
+
+If you have the Intimidating Strike feat, increase the [[Frightened]] condition value from this Intimidating Strike to frightened 2, or frightened 3 on a critical hit.

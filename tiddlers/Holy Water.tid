@@ -1,0 +1,15 @@
+created: 20210417164004749
+item-bulk: L
+item-hands: 1
+item-level: 1
+item-price: 30
+modified: 20210417164059803
+tags: Consumable Item Divine Good Splash
+title: Holy Water
+type: text/vnd.tiddlywiki
+
+This vial contains water blessed by a good deity. 
+
+You activate a vial of holy water by throwing it as a [[Strike]]. It’s a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn’t add the manipulate trait to the attack made with it.
+
+Holy water deals 1d6 good damage and 1 good splash damage. It damages only fiends, undead, and creatures that have a weakness to good damage.

@@ -1,0 +1,18 @@
+created: 20210417154226078
+item-bulk: -
+item-level: 10
+item-price: 1750
+modified: 20210417154440945
+tags: Consumable Item Talisman Magical Divination Command
+title: Mummified Bat
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Requirements'' You are a master in [[Perception]].
+
+This talisman is the magically treated corpse of a tiny bat bound in papyrus. 
+
+When you activate {{OneAction}} the bat, the affixed weapon detects vibrations around you and guides your perception. You gain the benefits of the fighter [[Blind-Fight]] class feat for 1 minute.
+
+If you have the Blind-Fight feat, you gain [[Imprecise]] echolocation with a range of 30 feet for 1 minute. This makes creatures that would be [[Undetected]] by you because you can’t see them [[Hidden]] instead.

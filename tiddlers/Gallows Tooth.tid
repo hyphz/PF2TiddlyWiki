@@ -1,0 +1,18 @@
+created: 20210417143548367
+item-bulk: -
+item-level: 8
+item-price: 1000
+modified: 20210417144051915
+tags: Consumable Item Magical Talisman Divination Interact
+title: Gallows Tooth
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Requirements'' You're an master in [[Intimidation]].
+
+''Trigger'' You attack an adjacent creature and haven't rolled your attack roll.
+
+This grisly molar hangs from a cord threaded through a tiny hole just above its dried, exposed root. 
+
+When you activate this talisman, the creature you’re attacking becomes [[Flat-Footed]] until the end of the current turn.

@@ -1,0 +1,21 @@
+created: 20210417152332648
+item-bulk: -
+item-level: 10
+item-price: 1750
+modified: 20210417152530460
+modtag-fear: +2 status to saves for 1 minute after activation.
+tags: Consumable Item Talisman Magical Abjuration Envision
+title: Iron Medallion
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are an master in [[Will]] saves or have the [[Bravery]] class feature.
+
+''Trigger'' You attempt a [[Will]] save against a <<tag Fear>> effect but haven't rolled yet.
+
+This small medallion is shaped like a shield.
+
+When you activate it, you gain a +2 status bonus to saves against fear for 1 minute. 
+
+On the triggering save, if the outcome of your roll is a failure, you get a success instead or if the outcome is a critical failure, you get a failure instead.

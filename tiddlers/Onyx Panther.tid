@@ -1,0 +1,18 @@
+created: 20210417154822298
+item-bulk: -
+item-level: 2
+item-price: 70
+modified: 20210417154927132
+tags: Consumable Item Talisman Magical Envision Transmutation
+title: Onyx Panther
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are are trained in [[Stealth]].
+
+''Trigger'' You use a [[Sneak]] action.
+
+This small stone is a stylized panther shape. 
+
+When you activate {{FreeAction}} it, you can move your full Speed (instead of half) during the triggering [[Sneak]] and any other time you Sneak this turn.

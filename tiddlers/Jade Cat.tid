@@ -1,0 +1,21 @@
+created: 20210417152722672
+item-bulk: -
+item-level: 2
+item-price: 60
+mod-balance: Not flat-footed for 1 minute after activation.
+mod-falling: Reduce falls by 20' for 1 minute after activation.
+mod-uneven_ground: Not difficult terrain for 1 minute after activation.
+modified: 20210417153037344
+tags: Consumable Item Talisman Magical Command Abjuration
+title: Jade Cat
+type: text/vnd.tiddlywiki
+
+Affix to a melee weapon.
+
+''Requirements'' You are trained in [[Acrobatics]].
+
+''Trigger'' You fall or attempt an [[Acrobatics]] check to [[Balance]].
+
+A thumb-sized feline carved of rare stone, the jade cat is typically worn as a pendant upon a suit of armor. 
+
+For 1 minute after you activate {{FreeAction}} the cat, you treat all falls as 20 feet shorter, you are not flat-footed when you [[Balance]], and narrow surfaces and [[Uneven Ground]] are not difficult terrain for you.

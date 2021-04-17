@@ -1,0 +1,17 @@
+created: 20210417152533982
+item-bulk: -
+item-level: 8
+item-price: 1000
+modified: 20210417152756652
+tags: Consumable Item Talisman Magical Enchantment Mental Command
+title: Jade Bauble
+turn-sun: Flat-Footing effect wears off.
+type: text/vnd.tiddlywiki
+
+Affix to a melee weapon.
+
+''Requirements'' You are an master with the affixed weapon.
+
+This bit of jade is usually carved in the shape of a duelist, or sometimes a multi-armed creature. 
+
+When you {{OneAction}} activate the bauble, it magically draws the attention of foes. Until the start of your next turn, enemies within the reach of the weapon the talisman is affixed to are [[Flat-Footed]].

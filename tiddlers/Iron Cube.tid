@@ -1,0 +1,18 @@
+created: 20210417151525307
+item-bulk: -
+item-level: 6
+item-price: 500
+modified: 20210417151654289
+tags: Consumable Item Talisman Magical Evocation
+title: Iron Cube
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Requirements'' You are an expert with the affixed weapon.
+
+This cube of blackened iron is affixed to a weapon with an iron chain. 
+
+When you activate the cube, you use {{TwoAction}} [[Knockdown|Knockdown (Fighter)]], as the fighter feat.
+
+If you have the Knockdown feat, ignore its normal size restrictions.

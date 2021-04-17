@@ -1,0 +1,16 @@
+created: 20210417153516145
+item-bulk: -
+item-level: 2
+item-price: 70
+modified: 20210417153646444
+tags: Consumable Item Talisman Magical Enchantment Envision
+title: Mesmerizing Opal
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Trigger'' You attempt a [[Deception]] check to [[Feint]] but you haven't rolled yet.
+
+This silver-bound opal pendant is afire with iridescence. 
+
+When you activate it, if the outcome of your triggering [[Deception]] check is a critical failure, you get a failure instead (or if the outcome is a success, you get a critical success instead).

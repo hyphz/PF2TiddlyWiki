@@ -1,0 +1,16 @@
+created: 20210417155223557
+item-bulk: -
+item-level: 1
+item-price: 40
+modified: 20210417155332778
+tags: Consumable Item Talisman Magical Envision Evocation
+title: Potency Crystal
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Trigger'' You make an attack with the affixed weapon, but you haven’t rolled yet.
+
+This fluorite crystal glows with a strange phosphorescence.
+
+When you activate {{FreeAction}} the crystal, the weapon becomes a [[+1|Weapon Potency]] [[Striking]] weapon for the rest of the turn, gaining a +1 item bonus to the attack roll and increasing the damage on a hit to two weapon damage dice.

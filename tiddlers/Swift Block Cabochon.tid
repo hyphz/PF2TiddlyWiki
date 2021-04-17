@@ -1,0 +1,16 @@
+created: 20210417155957286
+item-bulk: -
+item-level: 7
+item-price: 700
+modified: 20210417160114377
+tags: Consumable Item Talisman Magical Uncommon Abjuration Envision
+title: Swift Block Cabochon
+type: text/vnd.tiddlywiki
+
+Affix to a shield.
+
+''Trigger'' You take damage from a physical attack while you don't have the affixed shield raised.
+
+This clear quartz cabochon attaches to the center of your shield. 
+
+When you activate {{FreeAction}} the cabochon, you use the [[Shield Block]] reaction even if you hadn’t raised the affixed shield (and even if you don’t normally have that reaction).

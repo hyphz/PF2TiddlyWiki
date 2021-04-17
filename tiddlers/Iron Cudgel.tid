@@ -1,0 +1,18 @@
+created: 20210417151727171
+item-bulk: -
+item-level: 14
+item-price: 9000
+modified: 20210417152229651
+tags: Consumable Item Talisman Magical Evocation
+title: Iron Cudgel
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Requirements'' You are an master with the affixed weapon.
+
+This miniature club is typically affixed to a weapon by an iron chain. 
+
+When you activate the cudgel, you use {{OneAction}} [[Brutal Finish]], as the fighter feat. You must meet the normal requirements, including those of the <<tag Press>> trait.
+
+If you have the Brutal Finish feat, add two additional weapon damage dice on a success or a failure.

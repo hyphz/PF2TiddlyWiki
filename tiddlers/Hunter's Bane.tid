@@ -1,0 +1,20 @@
+created: 20210417144244145
+item-bulk: -
+item-level: 2
+item-price: 60
+modified: 20210417144352790
+tags: Consumable Item Talisman Magical Envision Divination
+title: Hunter's Bane
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are trained in [[Survival]].
+
+''Trigger'' An undetected enemy hits you with an attack.
+
+This talisman is a ring of dried, interwoven leaves. 
+
+When you activate the hunter’s bane, you sense the exact location of the attacker, making it [[Hidden]] from you instead of [[Undetected]]. 
+
+If the attacker is behind lead, the hunter’s bane fails and is wasted.

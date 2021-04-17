@@ -1,0 +1,15 @@
+created: 20210417164658732
+item-bulk: L
+item-hands: 1
+item-level: 1
+item-price: 30
+modified: 20210417164748185
+tags: Consumable Item Divine Evil Splash
+title: Unholy Water
+type: text/vnd.tiddlywiki
+
+An evil deity’s malice lies within this vial of water. 
+
+You activate a vial of unholy water by throwing it as a [[Strike]]. It’s a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn’t add the manipulate trait to the attack made with it.
+
+Unholy water deals 1d6 evil damage and 1 evil splash damage. It damages only celestials and creatures that have a weakness to evil damage.

@@ -1,0 +1,15 @@
+created: 20210417162116351
+item-bulk: -
+item-hands: 1
+item-level: 9
+item-price: 1350
+modified: 20210417162310063
+tags: Consumable Item Magical Interact Illusion
+title: Dust of Disappearance
+type: text/vnd.tiddlywiki
+
+This powder shimmers like a thousand tiny motes of light.
+
+Activating the dust by sprinkling it on yourself or a creature within reach ({{OneAction}} Interact) casts a 4th-level [[Invisibility]] spell with a duration of 1 minute on that creature. 
+
+This invisibility can’t be negated or seen through by any spell of 3rd level or lower or any item of 5th level or lower.

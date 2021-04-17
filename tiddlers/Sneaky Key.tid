@@ -1,0 +1,17 @@
+created: 20210417155815699
+item-bulk: -
+item-level: 5
+item-price: 220
+mod-pick_a_lock: Promote fumbles for 1 minute after activation.
+modified: 20210417155940691
+tags: Consumable Item Talisman Magical Evocation Interact
+title: Sneaky Key
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You are in expert in [[Thievery]].
+
+This small silver skeleton key can be pinned to armor or a sleeve. 
+
+When you turn the key to activate {{OneAction}} it, for the next minute, if the outcome of any your attempts to [[Pick a Lock]] is a critical failure, you get a failure instead.

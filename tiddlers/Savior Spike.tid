@@ -1,0 +1,20 @@
+created: 20210417155409747
+item-bulk: -
+item-level: 2
+item-price: 70
+modified: 20210417155536858
+tags: Consumable Item Talisman Magical Abjuration Force Command
+title: Savior Spike
+type: text/vnd.tiddlywiki
+
+Affix to armor.
+
+''Requirements'' You're an expert in [[Reflex]] //saves//.
+
+''Trigger'' You attempt to [[Grab an Edge]] but haven't rolled.
+
+This pyramid-shaped spike is attached to an armor’s chest piece. 
+
+When you activate {{FreeAction}} the spike, it shoots a strand of force to help you gain purchase. 
+
+If you roll a success on the triggering attempt, you get a critical success instead (if you roll a critical failure, you get a failure instead).

@@ -1,0 +1,18 @@
+created: 20210417155057317
+item-bulk: -
+item-level: 1
+item-price: 30
+modified: 20210417155244071
+tags: Consumable Item Talisman Magical Envision Evocation
+title: Owlbear Claw
+type: text/vnd.tiddlywiki
+
+Affix to a weapon.
+
+''Trigger'' You critically succed at an attack roll with the affixed weapon.
+
+This small stone is a stylized panther shape. 
+
+This claw set in an iron clasp and chain isn’t always the claw of an owlbear. 
+
+When you activate {{FreeAction}} the claw, the triggering attack gains the weapon’s [[Critical Specialization Effect]].
