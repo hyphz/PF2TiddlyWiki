@@ -1,0 +1,34 @@
+created: 20210424153642861
+item-bulk: 1 1
+item-level: 8 16
+item-price: 3500 60000
+item-variants: [[Standard-Grade]] [[High-Grade]]
+modified: 20210424153934512
+tags: Material Precious Uncommon
+title: Dragonhide
+type: text/vnd.tiddlywiki
+
+The hide and scales of a dragon can be used to [[Craft]] any item normally made of ordinary leather or hide. 
+
+Dragonhide varies in color from blue to glittering gold, depending on the dragon it came from. 
+
+Due to the scales’ resiliency, it can also be used to [[Craft]] armor usually made out of metal plates (such as a breastplate, half plate, and full plate), allowing such armor to be made without metal. 
+
+Dragonhide objects are immune to one damage type, depending on the type of dragon (see the table below).
+
+| !Dragon Type | !Resistance |
+| Black or Copper | <<tag Acid>> |
+| Blue or Bronze | <<tag Electricity>> |
+| Brass, Gold, or Red | <<tag Fire>> |
+| Green | <<tag Poison>> |
+| Silver or White | <<tag Cold>> |
+
+| !Grade | !Level | !Price |
+| Standard | 8 | 3500/Bulk |
+| High | 16 | 60000/Bulk |
+
+| !Item | !Grade | !Hardness | !HP | !BT |
+| Thin | Standard | 4 | 16 | 8 |
+| Thin | High | 8 | 32 | 16 |
+| Item | Standard | 7 | 28 | 14 |
+| Item | High | 11 | 44 | 22 |

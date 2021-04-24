@@ -1,0 +1,18 @@
+created: 20210424155157940
+item-bulk: L 1 L 1
+item-hands: 
+item-level: [[8]] [[8]] [[16]] [[16]]
+item-price: 4000 4400 80000 88000
+item-variants: [[Standard Buckler]] [[Standard Shield]] [[High-Grade Buckler]] [[High-Grade Shield]]
+modified: 20210424155554962
+tags: Item Uncommon
+title: Adamantine Shield
+type: text/vnd.tiddlywiki
+
+
+| !Type | !Grade | !Level | !Price | !Bulk | !Adamantine Value | !Hardness | !HP | !BT |
+| Buckler | Standard | 8 | 4000 | L | 500 | 8 | 32 | 16 |
+| Shield | Standard | 8 | 4400 | 1 | 550 | 10 | 40 | 20 |
+| Buckler | High | 16 | 80000 | L | 40000 | 11 | 44 | 22 |
+| Shield | High | 16 | 88000 | 1 | 44000 | 13 | 52 | 26 |
+

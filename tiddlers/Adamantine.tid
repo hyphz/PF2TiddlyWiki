@@ -1,0 +1,27 @@
+created: 20210424151509378
+item-bulk: L 1 1 1
+item-level: 1 1 8 16
+item-price: 5000 50000 3500 60000
+item-variants: Chunk Ingot [[Standard-Grade]] [[High-Grade]]
+modified: 20210424151939134
+tags: Material Uncommon Precious
+title: Adamantine
+type: text/vnd.tiddlywiki
+
+Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge.
+
+| !Unit | !Price | !Bulk |
+| Chunk | 5000 | L |
+| Ingot | 50000 | 1 |
+
+| !Grade | !Level | !Price |
+| Standard | 8 | 3500/Bulk |
+| High | 16 | 6000/Bulk |
+
+| !Item | !Grade | !Hardness | !HP | !BT |
+| Thin | Standard | 10 | 40 | 20 |
+| Thin | High | 13 | 52 | 26 |
+| Item | Standard | 14 | 56 | 28 |
+| Item | High | 17 | 68 | 34 |
+| Structure | Standard | 28 | 112 | 56 |
+| Structure | High | 34 | 136 | 68 |

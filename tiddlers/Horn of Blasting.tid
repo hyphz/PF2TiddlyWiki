@@ -1,0 +1,24 @@
+a-defense: Fortitude
+created: 20210424135721233
+item-bulk: L
+item-hands: 1
+item-level: 9
+item-price: 7000
+mod-performance: +2 item when used as instrument.
+modified: 20210424140022934
+s-crit: The creature takes no damage.
+s-fail: The creature takes full damage and is [[Deafened]] for 2d6 rounds.
+s-hit: The creature takes half damage.
+tags: Item Evocation Sonic Interact
+title: Horn of Blasting
+type: text/vnd.tiddlywiki
+
+A horn of blasting is a bright brass trumpet. 
+
+It can be played as an instrument, granting a +2 item bonus to your [[Performance]] check.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Frequency'' once per round; ''Effect'' Blowing into the horn with destructive intent, you create a blast note targeting one creature within 30 feet. The blast deals 3d6 sonic damage (DC 28 basic [[Fortitude]] save).
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per day; ''Effect'' You blow even louder to create an intense blast wave in a 30-foot [[Cone]] that deals 8d6 sonic damage. Each creature attempts a DC 28 [[Fortitude]] save with the following effects.
+
+{{||SaveSuccessTable}}

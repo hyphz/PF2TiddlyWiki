@@ -1,0 +1,20 @@
+created: 20210424145258474
+item-bulk: 1
+item-hands: 1
+item-level: 3 10 18
+item-price: 550 9000 190000
+item-variants: Lesser Moderate Greater
+mod-decipher_writing: Promote fumbles while lit.
+mod-religion: +1-3 item while lit.
+modified: 20210424145558951
+tags: Item Interact Divine Divination
+title: Thurible of Revelation
+type: text/vnd.tiddlywiki
+
+This brass censer dangles on a length of chain. Most thuribles of revelation are adorned with swirling Celestial text, though some are iron and feature Infernal or Abyssal text.
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Cost'' incense worth at least 5 gp; ''Effect'' You light the incense inside the censer, and it burns for 1 hour. During that time, as long you are holding the thurible, you gain a +1 item bonus to [[Religion]] checks, and any critical failure you roll when you [[Decipher Writing]] of a religious nature is a failure instead.
+
+A ''moderate'' thurible grants a +2 bonus. Once per day, when you activate a moderate thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an [[Interact]] action to gain the effects of [[See Invisibility]] for 1 round by peering through the smoke.
+
+A ''greater'' thurible grants a +3 bonus. The greater version shares the once-per-day enhanced revelations of the moderate version, except peering through the smoke also grants you the effects of [[True Seeing]].

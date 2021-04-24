@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20210424160048499",
+        "text": "This staff is topped with carved animal and monster heads. While wielding the staff, you gain a +2 circumstance bonus to Nature checks to identify animals.\n\n| !Type | !Level | !Price | !Spell Level | !Spells |\n| Standard | 4 | 90 | Cantrip |[[Know Direction]] |\n|~|~|~| 1st |[[Magic Fang]], [[Summon Animal]] |\n| Greater | 8 | 4600 | 2nd |[[Animal Messenger]], [[Speak With Animals]], [[Summon Animal]] |\n|~|~|~| 3rd |[[Animal Form]], [[Summon Animal]] |\n| Major | 12 | 19000 | 4th |[[Summon Animal]] |\n|~|~|~| 5th |[[Animal Form]], [[Moon Frenzy]], [[Summon Animal]] |\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Animal Staff",
+        "tags": "Item Magical Divination Staff",
+        "modified": "20210424160732271",
+        "item-price": "900 4600 1900",
+        "item-level": "4 8 12 ",
+        "item-hands": "1",
+        "item-bulk": "1",
+        "mod-nature": "+2 circumstance to identify animals.",
+        "item-variants": "Standard Greater Major"
+    }
+]

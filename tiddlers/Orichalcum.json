@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20210424154247716",
+        "text": "The most rare and valuable skymetal, orichalcum is coveted for its incredible time-related magical properties. \n\nThis dull, coppery metal isn’t as physically sturdy as adamantine, but orichalcum’s time-bending properties protect it, granting it greater Hardness and Hit Points. \n\nIf an orichalcum item takes damage but isn’t destroyed, it repairs itself completely 24 hours later.\n\n| !Unit | !Price | !Bulk |\n| Chunk | 10000 | L |\n| Ingot | 100000 | 1 |\n\n| !Grade | !Level | !Price |\n| High | 17 | 100000/Bulk |\n\n| !Item | !Grade | !Hardness | !HP | !BT |\n| Thin | High | 16 | 64 | 32 |\n| Item | High | 18 | 72 | 36 |\n| Structure | High | 35 | 140 | 70 |\n",
+        "tags": "Material Precious Rare",
+        "title": "Orichalcum",
+        "modified": "20210424154438141",
+        "type": "text/vnd.tiddlywiki",
+        "item-variants": "Chunk Ingot [[High-Grade]]",
+        "item-level": "1 1 17",
+        "item-price": "10000 100000 100000",
+        "item-bulk": "L 1 1 "
+    }
+]

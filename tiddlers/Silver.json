@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20210424154704186",
+        "text": "Silver weapons are a bane to creatures ranging from devils to werewolves. Silver items are less durable than steel items, and low-grade silver items are usually merely silver-plated.\n\n| !Unit | !Price | !Bulk |\n| Chunk | 100 | L |\n| Ingot | 1000 | 1 |\n\n| !Grade | !Level | !Price |\n| Low | 2 | 200/Bulk |\n| Standard | 7 | 2500/Bulk |\n| High | 15 | 4500/Bulk |\n\n| !Item | !Grade | !Hardness | !HP | !BT |\n| Thin | Low | 3 | 12 | 6 |\n| Thin | Standard | 5 | 20 | 10 |\n| Thin | High | 8 | 32 | 16 |\n| Item | Low | 5 | 20 | 10 |\n| Item | Standard | 7 | 28 | 14 |\n| Item | High | 10 | 40 | 20 |\n| Structure | Low | 10 | 40 | 20 |\n| Structure | Standard | 14 | 56 | 28 |\n| Structure | High | 20 | 80 | 40 |\n",
+        "tags": "Material Precious",
+        "title": "Silver",
+        "modified": "20210424154841906",
+        "type": "text/vnd.tiddlywiki",
+        "item-variants": "Chunk Ingot [[Low-Grade]] [[Standard-Grade]] [[High-Grade]]",
+        "item-level": "1 1 2 7 15 ",
+        "item-price": "100 1000 200 2500 45000",
+        "item-bulk": "L 1 1 1 1"
+    }
+]

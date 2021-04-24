@@ -1,0 +1,22 @@
+created: 20210424144220395
+item-bulk: -
+item-hands: 1
+item-level: 5 11
+item-price: 1250 12500
+mod-pick_a_lock: +1-2 item and only becomes mundane instead of breaking.
+modified: 20210424145225948
+tags: Item Interact Magical Transmutation
+title: Skeleton Key
+type: text/vnd.tiddlywiki
+
+A grinning skull tops the bow of this macabre key. 
+
+This key can be used in place of thieves’ tools when attempting to [[Pick a Lock]], and it grants a +1 item bonus to the [[Thievery]] check.
+
+If the skeleton key becomes broken due to a critical failure on the check, it works as normal thieves’ tools and loses its benefits until repaired.
+
+''Activate'' {{FreeAction}} [[Interact]]; ''Frequency'' once per day; ''Trigger'' You attempt to [[Pick a Lock]] but haven’t rolled yet; ''Effect'' The key casts [[Knock]] on the lock you’re trying to pick.
+
+| !Type | !Level | !Price | !Item Bonus | !Activation Frequency |
+| Standard | 5 | 1250 | +1 | Once per day |
+| Greater | 11 | 12500 | +2 | Once per hour |

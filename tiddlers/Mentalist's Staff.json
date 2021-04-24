@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20210424160809224",
+        "text": "This polished wooden staff bears a swirling motif reminiscent of the folds of a brain. While wielding the staff, you gain a +2 circumstance bonus to checks to identify mental magic.\n\n| !Type | !Level | !Price | !Spell Level | !Spells |\n| Standard | 4 | 90 | Cantrip |[[Daze]] |\n|~|~|~| 1st |[[Mindlink]], [[Phantom Pain]] |\n| Greater | 8 | 4600 | 2nd |[[Paranoia]] |\n|~|~|~| 3rd |[[Hypercognition]], [[Phantom Pain]] |\n| Major | 12 | 19000 | 4th |[[Modify Memory]], [[Telepathy]] |\n|~|~|~| 5th |[[Phantom Pain]], [[Synaptic Pulse]], [[Synesthesia]] |\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Mentalist's Staff",
+        "tags": "Item Magical Divination Staff",
+        "modified": "20210424160942825",
+        "item-price": "900 4500 1800",
+        "item-level": "4 8 12 ",
+        "item-hands": "1",
+        "item-bulk": "1",
+        "item-variants": "Standard Greater Major",
+        "modtag-mental": "+2 circumstance to identify."
+    }
+]

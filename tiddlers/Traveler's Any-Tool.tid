@@ -1,0 +1,13 @@
+created: 20210424145650058
+item-bulk: 1
+item-hands: 2
+item-level: 6
+item-price: 2000
+modified: 20210424145805715
+tags: Item Interact Envision Magical Transmutation
+title: Traveler's Any-Tool
+type: text/vnd.tiddlywiki
+
+Before it’s activated, this item appears to be an ash rod capped with steel on either end.
+
+''Activate'' {{TwoAction}} envision, [[Interact]]; ''Effect'' You imagine a specific simple tool, and the any-tool transforms into it. This transforms the wooden portion into any haft and the metal caps into spades, hammer heads, or the like, allowing for most basic tools but nothing more complex. You can return the item to its rod form with an [[Interact]] action.

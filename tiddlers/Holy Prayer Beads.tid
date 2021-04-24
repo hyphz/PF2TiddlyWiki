@@ -1,0 +1,26 @@
+created: 20210424135220043
+item-bulk: -
+item-hands: 1
+item-level: 5 11
+item-price: 1600 14000
+item-variants: Standard Greater
+modified: 20210424135612404
+tags: Item Uncommon Divine Healing Necromancy Positive
+title: Holy Prayer Beads
+type: text/vnd.tiddlywiki
+
+This strand of ordinary-looking prayer beads glows with a soft light and becomes warm to the touch the first time you cast a divine spell while holding it. When you do, the prayer beads become attuned to your deity, changing their form and iconography to prominently incorporate your deity’s religious symbol and iconography. 
+
+The beads don’t transform or function for an evil spellcaster.
+
+Whenever you cast a divine spell from your own spell slots while holding the prayer beads, you recover 1 Hit Point; this is a <<tag Positive>> <<tag Healing>> effect. 
+
+If the spell you cast was a <<tag Healing>> spell, you can grant this additional healing to one of the spell’s targets instead of yourself.
+
+''Activate'' [[Cast a Spell]]; ''Effect'' Cast [[Bless]] or [[Heal]], each once per day.
+
+| !Variant | !Level | !Price | !Healing on cast | !Spells castable |
+| Standard | 5 | 1600 | 1 | [[Bless]], [[Heal]] |
+| Greater | 11 | 14000 | 1d4 | 4th-level [[Bless]], [[Divine Wrath]], [[Heal]], [[Neutralize Poison]], [[Remove Disease]] |
+
+''Craft Requirements'' You have a spellcasting class feature with the divine tradition.

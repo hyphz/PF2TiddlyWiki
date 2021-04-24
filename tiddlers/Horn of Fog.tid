@@ -1,0 +1,15 @@
+created: 20210424140159232
+item-bulk: 1
+item-hands: 1
+item-level: 6
+item-price: 2300
+modified: 20210424140334694
+tags: Item Interact Conjuration Magical Water
+title: Horn of Fog
+type: text/vnd.tiddlywiki
+
+This large ram’s horn perpetually glistens with tiny droplets of water, much like condensation.
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per hour; ''Effect'' You activate the horn by blowing deeply into it, causing it to issue forth a low blast and cast a 2nd-level [[Obscuring Mist]] spell. 
+
+You can [[Dismiss]] the mist at any time by blowing a second note on the horn using an [[Interact]] action.

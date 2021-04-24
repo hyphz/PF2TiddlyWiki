@@ -1,0 +1,22 @@
+created: 20210424161005437
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14
+item-price: 2300 9000 40000
+item-variants: Standard Greater Major
+modified: 20210424161305865
+modtag-abjuration: +2 circumstance to identify
+tags: Item Magical Staff Abjuration
+title: Staff of Abjuration
+type: text/vnd.tiddlywiki
+
+This intricately carved wooden staff is warm to the touch and thrums with inner energy. While wielding the staff, you gain a +2 circumstance bonus to checks to identify abjuration magic.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Shield (Spell)]] |
+|~|~|~| 1st |[[Alarm]], [[Feather Fall]] |
+|~|~|~| 2nd |[[Dispel Magic]], [[Endure Elements]], [[Resist Energy]] |
+| Greater | 10 | 9000 | 3rd |[[Alarm]], [[Glyph of Warding]] |
+|~|~|~| 4rd |[[Dimensional Anchor]], [[Dispel Magic]], [[Resist Energy]] |
+| Major | 14 | 40000 | 5th |[[Banishment]], [[Endure Elements]] |
+|~|~|~| 6th |[[Dispel Magic]], [[Repulsion]] |

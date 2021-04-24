@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20210424152919543",
+        "text": "Darkwood is a very lightweight wood found primarily in oldgrowth forests in south-central Avistan; it is dark as ebony but has a slight purple tint. \n\nA darkwood item’s Bulk is reduced by 1 (or to light Bulk if its normal Bulk is 1, with no effect on an item that normally has light Bulk). \n\nThe Price of an item made of darkwood is based on the item’s normal Bulk, not its reduced Bulk for being made of darkwood, but reduce the Bulk before making any further Bulk adjustments for the size of the item.\n\n| !Unit | !Price | !Bulk |\n| Branch | 5000 | L |\n| Lumber | 50000 | 1 |\n\n| !Grade | !Level | !Price |\n| Standard | 8 | 3500/Bulk |\n| High | 16 | 60000/Bulk |\n\n| !Item | !Grade | !Hardness | !HP | !BT |\n| Thin | Standard | 5 | 20 | 10 |\n| Thin | High | 8 | 32 | 16 |\n| Item | Standard | 7 | 28 | 22 |\n| Item | High | 10 | 40 | 20 |\n| Structure | Standard | 14 | 56 | 28 |\n| Structure | High | 20 | 80 | 40 |\n",
+        "tags": "Material Precious Uncommon",
+        "title": "Darkwood",
+        "modified": "20210424153611237",
+        "type": "text/vnd.tiddlywiki",
+        "item-variants": "Branch Lumber [[Standard-Grade]] [[High-Grade]]",
+        "item-level": "1 1 8 16",
+        "item-price": "5000 50000 3500 60000",
+        "item-bulk": "L 1 1 1 "
+    }
+]

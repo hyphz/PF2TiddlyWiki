@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20210424151957639",
+        "text": "Weapons made from cold iron are deadly to demons and fey alike. Cold iron looks like normal iron but is mined from particularly pure sources and shaped with little or no heat. This process is extremely difficult, especially for high-grade cold iron items.\n\n| !Unit | !Price | !Bulk |\n| Chunk | 100 | L |\n| Ingot | 1000 | 1 |\n\n| !Grade | !Level | !Price |\n| Low | 2 | 200/Bulk |\n| Standard | 7 | 2500/Bulk |\n| High | 15 | 4500/Bulk |\n\n| !Item | !Grade | !Hardness | !HP | !BT |\n| Thin | Low | 5 | 20 | 10 |\n| Thin | Standard | 7 | 28 | 14 |\n| Thin | High | 10 | 40 | 20 |\n| Item | Low | 9 | 36 | 18 |\n| Item | Standard | 11 | 44 | 22 |\n| Item | High | 14 | 56 | 28 |\n| Structure | Low | 18 | 72 | 36 |\n| Structure | Standard | 22 | 88 | 44 |\n| Structure | High | 28 | 112 | 56 |\n",
+        "tags": "Material Precious",
+        "title": "Cold Iron",
+        "modified": "20210424152214494",
+        "type": "text/vnd.tiddlywiki",
+        "item-variants": "Chunk Ingot [[Low-Grade]] [[Standard-Grade]] [[High-Grade]]",
+        "item-level": "1 1 2 7 15 ",
+        "item-price": "100 1000 200 2500 45000",
+        "item-bulk": "L 1 1 1 1"
+    }
+]

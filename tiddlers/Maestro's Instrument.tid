@@ -1,0 +1,24 @@
+created: 20210424140745396
+item-bulk: 1
+item-hands: 2
+item-level: 3 10 18
+item-price: 600 9000 190000
+item-variants: Lesser Moderate Greater
+mod-performance: +1-3 item bonus.
+modified: 20210424141358158
+tags: Item Interact Magical Enchantment
+title: Maestro's Instrument
+type: text/vnd.tiddlywiki
+
+A maestro’s instrument can be crafted in the form of any variety of handheld musical instrument. 
+
+A maestro’s instrument grants you a +1 item bonus to [[Performance]] checks while playing music with the instrument.
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per day; ''Effect'' You play the instrument, causing it to cast a DC 17 [[Charm]] spell.
+
+''Craft Requirements'' You must supply a casting of [[Charm]] of the appropriate level.
+
+| !Type | !Level | !Price | !Item Bonus | !Charm Heighten | !Charm DC |
+| Lesser | 3 | 600 | +1 | None | 17 |
+| Moderate | 10 | 9000 | +2 | 4th | 27 |
+| Greater | 18 | 190000 | +3 | 8th | 38 |

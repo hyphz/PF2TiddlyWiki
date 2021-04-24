@@ -1,0 +1,15 @@
+created: 20210424145822246
+item-bulk: L
+item-hands: 1
+item-level: 9
+item-price: 6400
+mod-drowning: Can breathe under water when affected.
+mod-swim: +2 item when affected.
+modified: 20210424150046120
+tags: Item Interact Magical Transmutation Auditory
+title: Triton's Conch
+type: text/vnd.tiddlywiki
+
+If you put this large opalescent conch shell to your ear, you can hear the sound of the roaring sea crashing against the shore.
+
+''Activate'' {{OneAction}} [[Interact]] <<tag Auditory>>; ''Effect'' You can raise the conch to your lips and blow into it, letting out a long, rumbling note. For the next minute, you and all allies who were within 30 feet of you when you activated the conch gain a +2 item bonus to [[Athletics]] checks to [[Swim]] and can breathe under water.

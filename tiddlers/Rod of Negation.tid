@@ -1,0 +1,13 @@
+created: 20210424142904051
+item-bulk: 1
+item-hands: 1
+item-level: 14
+item-price: 43000
+modified: 20210424143002837
+tags: Item Interact Abjuration Magical
+title: Rod of Negation
+type: text/vnd.tiddlywiki
+
+This long, plain, leaden rod can disrupt magic.
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Effect'' This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-level [[Dispel Magic]] spell with a counteract modifier of +23. Once activated, the rod can’t be activated again for 2d6 hours.

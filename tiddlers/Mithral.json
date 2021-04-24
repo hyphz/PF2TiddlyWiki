@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20210424154024585",
+        "text": "Mithral is renowned for its lightness, durability, and effectiveness against a range of creatures including devils and lycanthropes. It has the same sheen as silver but a slightly lighter hue. \n\nMithral weapons and armor are treated as if they were silver for the purpose of damaging creatures with weakness to silver. \n\nA metal item made of mithral is lighter than one made of iron or steel: the item’s Bulk is reduced by 1 (reduced to light Bulk if its normal Bulk is 1, with no effect on an item that normally has light Bulk). \n\nThe Price of an item made of this material is based on the item’s normal Bulk, not its reduced Bulk for being made of mithral, but reduce the Bulk before making any further Bulk adjustments for the size of the item.\n\n| !Unit | !Price | !Bulk |\n| Branch | 5000 | L |\n| Lumber | 50000 | 1 |\n\n| !Grade | !Level | !Price |\n| Standard | 8 | 3500/Bulk |\n| High | 16 | 60000/Bulk |\n\n| !Item | !Grade | !Hardness | !HP | !BT |\n| Thin | Standard | 5 | 20 | 10 |\n| Thin | High | 8 | 32 | 16 |\n| Item | Standard | 9 | 36 | 18 |\n| Item | High | 12 | 48 | 24 |\n| Structure | Standard | 18 | 72 | 36 |\n| Structure | High | 24 | 96 | 48 |\n",
+        "tags": "Material Precious Uncommon",
+        "title": "Mithral",
+        "modified": "20210424154202192",
+        "type": "text/vnd.tiddlywiki",
+        "item-variants": "Chunk Ingot [[Standard-Grade]] [[High-Grade]]",
+        "item-level": "1 1 8 16",
+        "item-price": "5000 50000 3500 60000",
+        "item-bulk": "L 1 1 1 "
+    }
+]

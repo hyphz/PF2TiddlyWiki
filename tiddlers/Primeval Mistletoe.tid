@@ -1,0 +1,23 @@
+created: 20210424142440467
+item-bulk: -
+item-hands: 1
+item-level: 6 14
+item-price: 2300 39000
+item-variants: Standard Greater
+mod-nature: +1-2 item.
+modified: 20210424142835279
+tags: Item Interact Primal Transmutation
+title: Primeval Mistletoe
+type: text/vnd.tiddlywiki
+
+This sprig of berry-festooned holly and mistletoe doesn’t wilt or rot. 
+
+It can be used as a primal focus, and it also grants the creature holding it a +1 item bonus to [[Nature]] checks.
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per 10 minutes; ''Effect'' You squeeze juice from one of the berries and smear it onto a non-magical club or staff to cast [[Shillelagh]] upon it.
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per day; Effect You twine the sprig around the wrist of one hand and touch a tree to cast [[Tree Shape]] upon yourself, except instead of a becoming a tree, you become a vine on the touched tree..
+
+Greater Primeval Mistletoe gives a +2 bonus and can be activated in one additional way:
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per day; ''Effect'' You plant the greater primeval mistletoe into an area of natural earth or stone. Once planted, the plant immediately sprouts into an area of holly bushes that don’t impede movement and that pulse with positive energy, replicating the effects of a [[Field of Life]] spell. This lasts for up to 1 minute, as long as you continue to [[Sustain the Activation|Sustain a Spell]]. When this magic ends, the holly bushes revert back into the original greater primeval mistletoe.
