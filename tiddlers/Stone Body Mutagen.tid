@@ -1,0 +1,23 @@
+created: 20210501180726415
+item-bulk: L
+item-hands: 1
+item-level: 5 12 15
+item-price: 220 3000 9200
+item-variants: Lesser Moderate Greater
+mod-reflex: -2 unnamed penalty to save.
+modified: 20210501180932959
+tags: Item Alchemical Uncommon Consumable Elixir Mutagen Polymorph Interact
+title: Stone Body Mutagen
+type: text/vnd.tiddlywiki
+
+This mutagen calcifies your body making it as hard as stone.
+
+''Benefit'' You gain resistance to physical damage (except bludgeoning) equal to the listed amount. 
+
+''Drawback'' Your Speeds are reduced by 10 feet (minimum 5 feet) and you take a –2 penalty to [[Reflex]] saves.
+
+| !Type | !Level | !Price | !Resistance | !Duration |
+| Lesser | 5 | 220 | 5 | 10 mins |
+| Moderate | 12 | 3000 | 5 | 1 hour |
+| Greater | 15 | 9200 | 10 | 1 hour |
+

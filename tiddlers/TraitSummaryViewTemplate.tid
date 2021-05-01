@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210410163236358
+modified: 20210501181830018
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -103,6 +103,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Interact]]">
 <tr><th>[[Interact]]</th><td>You must [[Interact]] with this item to activate it.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Invested]]">
+<tr><th>[[Invested]]</th><td>This consumes one of your magical investment slots.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Illusion]]">
 <tr><th>[[Illusion]]</th><td>It may be possible to disbelieve this with [[Perception]] vs its DC.</td></tr>

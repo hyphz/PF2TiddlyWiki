@@ -1,0 +1,16 @@
+created: 20210501181001673
+feat-class: Ranger
+feat-level: 2
+mod-difficult_terrain: Ignore non-magical during movement.
+modified: 20210501181120249
+tags: Ranger Class Feat Uncommon Reaction Action
+title: Relentless Stalker
+type: text/vnd.tiddlywiki
+
+''Trigger'' An adjacent creature you are hunting attempts to move away from you using an action that has the move trait.
+
+Your hunted prey cannot escape your relentless pursuit. 
+
+Stride up to your Speed in tandem with the triggering creature, remaining adjacent to the foe throughout its movement until it stops moving or you run out of movement. 
+
+You can ignore [[Difficult Terrain]] during this movement unless the difficult terrain is caused by a magical effect.

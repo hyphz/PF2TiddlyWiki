@@ -1,0 +1,36 @@
+created: 20210501181434696
+mod-strike: Hit creature also flat-footed by leopard.
+modified: 20210501181716978
+tags: [[Animal Companion]] Unique
+title: Fiery Leopard (Animal Companion)
+type: text/vnd.tiddlywiki
+
+//This animal companion is a specific creature found in the Fall of Plaguestone adventure. It is not a generally available class of animal companion.//
+
+''Size'' Small //(but a small tiger/jaguar or "Big cat", not Tiddles)//
+
+''Immunities'' Fire
+
+''Weaknesses'' Cold 5
+
+''Melee'' {{OneAction}} jaws [[Finesse]], damage 1d6 piercing plus 1 fire, or 1d4 fire if nimble or savage.
+
+''Melee'' {{OneAction}} talon ([[Agile]], [[Finesse]]), Damage 1d4 slashing
+
+''Str'' +2, ''Dex'' +3, ''Con'' +1, ''Int'' –4, ''Wis'' +2, ''Cha'' +0
+
+''Hit Points'' 4
+
+''Skill'' [[Stealth]]
+
+''Senses'' [[Low-Light Vision]], [[Scent]] (Imprecise, 30 feet)
+
+''Speed'' 35 feet
+
+''Fiery Pelt'' Creatures that start their turn grappled by the fiery leopard take 1d4 fire damage. Anyone attempting to grapple the fiery leopard takes 1d4 fire damage for each attempt.
+
+''Burning Glow'' The fiery leopard sheds dim light in a 10-foot radius which gives it a –2 circumstance penalty on Stealth checks made at night or in a dark environment.
+
+''Support Benefit'' Your fiery leopard throws your enemies off-balance when you create an opening. Until the start of your next turn, your [[Strike]]s that deal damage to a creature that your leopard threatens make the target [[Flat-Footed]] until the end of your next turn.
+
+''Advanced Maneuver'' [[Cat Pounce]]

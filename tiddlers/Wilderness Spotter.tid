@@ -1,0 +1,19 @@
+created: 20210501181143551
+feat-level: 2
+feat-skill: Survival
+feat-spre: E
+mod-disable_a_device: Use Survival instead of Thievery to disable devices.
+mod-initiative: Use Survival instead of Perception in chosen terrain.
+mod-seek: Use Survival intsead of Perception to see traps.
+modified: 20210501181412262
+tags: Feat Uncommon General
+title: Wilderness Spotter
+type: text/vnd.tiddlywiki
+
+Select one type of terrain from the following list: aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground. 
+
+You can use [[Survival]] in place of [[Perception]] to roll initiative when in the selected terrain in a natural location (not a structure) even if you weren’t tracking or otherwise using Survival before the encounter. 
+
+You can also use [[Survival]] instead of Perception to notice traps in natural locations in the chosen terrain; if you find a snare in this way, you can also use [[Survival]] instead of [[Thievery]] to [[Disable the Device|Disable a Device]].
+
+''Special'' You can select this feat more than once. Each time you select it, the feat applies to a new type of terrain.

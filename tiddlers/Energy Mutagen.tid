@@ -1,0 +1,27 @@
+created: 20210501180133292
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 3000 30000
+item-variants: Lesser Moderate Greater Major
+modified: 20210501180649942
+tags: Item Alchemical Uncommon Consumable Elixir Mutagen Polymorph Interact
+title: Energy Mutagen
+type: text/vnd.tiddlywiki
+
+When created, this mutagen is attuned to your choice of one of four energy types: acid, cold, electricity, or fire.
+
+When consumed, the mutagen suffuses your body with energy that spills out of you whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.
+
+''Benefit'' You gain resistance to the attuned energy type. Whenever you score a hit with a melee weapon, add the listed amount of damage of the attuned energy type.
+
+The more expensive versions of this mutagen allow you to end the benefit to unleash a 30-foot cone of energy that deals damage of the attuned type with a basic [[Reflex]] save.
+
+''Drawback'' You gain weakness 5 to the other three energy types.
+
+| !Type | !Level | !Price | !Resistance | !Extra Damage | !Duration | !Cone Damage | !Reflex DC |
+| Lesser | 1 | 40 | 5 | 1 | 1 minute |
+| Moderate | 3 | 120 | 10 | 1d4 | 10 minutes |
+| Greater | 11 | 3000 | 15 | 1d6 | 1 hour | 2d6 per 10 mins remaining | 25 |
+| Major | 17 | 30000 | 20 | 2d6 | 1 hour | 3d6 per 10 mins remaining | 32 |
+

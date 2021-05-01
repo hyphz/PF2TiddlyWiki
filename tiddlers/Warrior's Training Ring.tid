@@ -1,0 +1,16 @@
+created: 20210501182648337
+item-bulk: -
+item-level: 5
+item-price: 1600
+item-slot: Ring
+modified: 20210501182754558
+tags: Item Magical Ring Invested Envision Uncommon Divination
+title: Warrior's Training Ring
+type: text/vnd.tiddlywiki
+
+This ring is utilitarian in design—indicating its martial use. Its band is decorated only with a simple, sharp-edged sculpture on the band’s center. 
+
+While wearing this ring, you add your level to your attack rolls with all weapons with which you are untrained.
+
+''Activate'' {{FreeAction}} (envision); ''Frequency'' once per day; ''Trigger'' You make an attack with a weapon in which you’re untrained; ''Effect'' You gain a +2 circumstance bonus to the attack roll. If you are an expert in any weapon, you instead gain a +4 circumstance bonus to the attack roll.
+
