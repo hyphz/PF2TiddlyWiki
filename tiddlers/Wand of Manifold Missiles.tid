@@ -1,0 +1,32 @@
+created: 20210508151331835
+item-bulk: L
+item-hands: 1
+item-level: 5 9 13 17
+item-price: 1600 7000 30000 150000
+item-variants: 1st-level 3rd-level 5th-level 7th-level
+modified: 20210508151623929
+tags: Item Magical Wand Evocation Force
+title: Wand of Manifold Missiles
+type: text/vnd.tiddlywiki
+
+This wand features a carved dragon’s head at its top and a polished metal sphere set in its midsection.
+
+''Activate'' [[Cast a Spell]]; ''Frequency'' once per day, plus overcharge; ''Effect'' You cast [[Magic Missile]] of the indicated level. 
+
+[[Magic Missile]] must be on your spell list. Because you’re the one casting the spell, use your spell attack roll and spell DC. The spell is of your tradition.
+
+After the spell is cast from the wand for the day, you can cast it one more time—overcharging the wand at the risk of destroying it. [[Cast the Spell|Cast a Spell]] again, then roll a DC 10 flat check. On a success, the wand is broken. On a failure, the wand is destroyed. 
+
+If anyone tries to overcharge a wand when it’s already been overcharged that day, the wand is automatically destroyed (even if it had been repaired) and no spell is cast.
+
+After you cast the spell, an additional missile or missiles are released from the wand at the start of each of your turns, as though you cast the 1-action version of magic missile. Choose targets each time. 
+
+This lasts for 1 minute, until you’re no longer wielding the wand, or until you try to activate the wand again.
+
+''Craft Requirements'' Supply a listed-level casting of [[Magic Missile]]. 
+
+| !Spell Level | !Wand Level | !Wand Price |
+| 1st | 5 | 1600 |
+| 3rd | 9 | 7000 |
+| 5th | 13 | 30000 |
+| 7th | 17 | 150000 |

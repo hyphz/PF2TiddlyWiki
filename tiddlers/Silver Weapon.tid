@@ -1,0 +1,18 @@
+created: 20210508154916889
+item-bulk: Varies
+item-hands: Varies
+item-level: 2 10 16
+item-price: 400 8800 90000
+item-variants: Low-Grade Standard-Grade High-Grade
+modified: 20210508154954141
+tags: Item Weapon
+title: Silver Weapon
+type: text/vnd.tiddlywiki
+
+Silver weapons deal additional damage to creatures with weakness to silver, like werewolves, and ignore the resistances of some other creatures, like devils.
+
+| !Type | !Level | !Price | !Value of Silver needed |
+| Low-Grade | 2 | 400 + 40/Bulk | 20 + 2/Bulk |
+| Standard-Grade | 10 | 8800 + 880/Bulk | 1100 + 110/Bulk |
+| High-Grade | 16 | 90000 + 9000/Bulk | 45000 + 4500/Bulk |
+

@@ -1,0 +1,19 @@
+created: 20210508153540044
+item-bulk: Varies
+item-hands: Varies
+item-level: 11 17
+item-price: 14000 135000
+item-variants: Standard-Grade High-Grade
+modified: 20210508153745247
+tags: Item Weapon
+title: Adamantine Weapon
+type: text/vnd.tiddlywiki
+
+Adamantine weapons have a shiny black appearance and cut through lesser items with ease.
+
+They treat any object they hit as if it had half as much Hardness as usual, unless the object’s Hardness is greater than that of the adamantine weapon.
+
+| !Type | !Level | !Price | !Value of Adamantine needed |
+| Standard-Grade | 11 | 14000 + 1400/Bulk | 1750 + 175/Bulk |
+| High-Grade | 17 | 135000 + 13500/Bulk | 67500 + 6750/Bulk |
+

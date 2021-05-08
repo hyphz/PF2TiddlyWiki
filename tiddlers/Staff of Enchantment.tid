@@ -1,0 +1,24 @@
+created: 20210508140531510
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14
+item-price: 2300 9000 40000
+item-variants: Standard Greater Major
+modified: 20210508140740084
+modtag-enchantment: +2 circumstance to identify.
+tags: Item Magical Staff Enchantment
+title: Staff of Enchantment
+type: text/vnd.tiddlywiki
+
+A mesmerizing gemstone caps the head of this handsomely crafted wooden staff. While wielding the staff, you gain a +2 circumstance bonus to checks to identify enchantment magic.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Daze]] |
+|~|~|~| 1st |[[Charm]], [[Command]] |
+|~|~|~| 2nd |[[Hideous Laughter]], [[Touch of Idiocy]] |
+| Greater | 10 | 9000 | 3rd |[[Paralyze]] |
+|~|~|~| 4rd |[[Charm]], [[Confusion]], [[Suggestion]] |
+| Major | 14 | 40000 | 5th |[[Command]], [[Crushing Despair]] |
+|~|~|~| 6th |[[Dominate]], [[Feeblemind]] |

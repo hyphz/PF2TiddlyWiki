@@ -1,0 +1,43 @@
+created: 20210508150134275
+item-bulk: L
+item-hands: 1
+item-level: 3 5 7 9 11 13 15 17 19
+item-price: 600 1600 3600 7000 15000 30000 65000 150000 400000
+item-variants: 1st-level 2nd-level 3rd-level 4th-level 5th-level 6th-level 7th-level 8th-level 9th-level
+modified: 20210508151107785
+tags: Item Magical Wand
+title: Magic Wand
+type: text/vnd.tiddlywiki
+
+This baton is about a foot long and contains a single spell. The appearance typically relates to the spell within..
+
+A wand contains a spell that can be cast once per day. 
+
+Casting a spell from a wand requires holding the wand in one hand and activating the item with a [[Cast a Spell]] activity using the normal number of actions for the spell.
+
+To cast a spell from a wand, it must be on your spell list. Because you’re the one casting the spell, use your spell attack roll and spell DC. The spell is of your tradition.
+
+A spell cast from a wand doesn’t require physical material components, but you must replace any material component normally required to cast the spell with a somatic component. 
+
+If the spell requires a focus, you must still have that focus to cast the spell from a wand, and if the spell has a cost, you must still pay that cost to cast the spell from a wand.
+
+After the spell is cast from the wand for the day, you can cast it one more time—overcharging the wand at the risk of destroying it. [[Cast the Spell|Cast a Spell]] again, then roll a DC 10 flat check. On a success, the wand is broken. On a failure, the wand is destroyed. 
+
+If anyone tries to overcharge a wand when it’s already been overcharged that day, the wand is automatically destroyed (even if it had been repaired) and no spell is cast.
+
+A wand’s base statistics are the same unless noted otherwise in a special wand. It has light Bulk, and must be held in one hand to be activated. Each wand contains a specific level of the spell, but you can craft a wand with a heightened version of a spell.
+
+Each type of wand has a Level and Price determined by the spell’s level. The wand’s rarity matches the spell’s rarity, and it has its spell’s traits. A wand has the normal Hardness, BT, and HP of a thin item of its material.
+
+''Craft Requirements'' Supply a listed-level casting of the spell.
+
+| !Spell Level | !Wand Level | !Wand Price |
+| 1st | 3 | 600 |
+| 2nd | 5 | 1600 |
+| 3rd | 7 | 3600 |
+| 4th | 9 | 7000 |
+| 5th | 11 | 15000 |
+| 6th | 13 | 30000 |
+| 7th | 15 | 65000 |
+| 8th | 17 | 150000 |
+| 9th | 19 | 400000 |

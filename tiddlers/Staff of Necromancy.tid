@@ -1,0 +1,24 @@
+created: 20210508142646797
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14
+item-price: 2300 9000 40000
+item-variants: Standard Greater Major
+modified: 20210508142838982
+modtag-necromancy: +2 circumstance to identify.
+tags: Item Magical Staff Necromancy
+title: Staff of Necromancy
+type: text/vnd.tiddlywiki
+
+This twisted and grim-looking staff is adorned with hideous skull and bone motifs. While wielding the staff, you gain a +2 circumstance bonus to checks to identify necromancy magic.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Chill Touch]] |
+|~|~|~| 1st |[[Grim Tendrils]], [[Ray of Enfeeblement]] |
+|~|~|~| 2nd |[[Deafness]], [[Gentle Repose]] |
+| Greater | 10 | 9000 | 3rd |[[Blindness]], [[Vampiric Touch]] |
+|~|~|~| 4rd |[[Grim Tendrils]], [[Vampiric Touch]] |
+| Major | 14 | 40000 | 5th |[[Cloudkill]], [[Gentle Repose]] |
+|~|~|~| 6th |[[Grim Tendrils]], [[Vampiric Exsanguination]] |

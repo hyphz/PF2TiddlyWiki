@@ -1,0 +1,47 @@
+created: 20210508152402292
+item-bulk: L
+item-hands: 1
+item-level: 4 6 8 10 12 14 16 18 20
+item-price: 1000 2500 5000 10000 20000 45000 100000 240000 700000
+item-variants: 1st-level 2nd-level 3rd-level 4th-level 5th-level 6th-level 7th-level 8th-level 9th-level
+modified: 20210508152859342
+tags: Item Magical Wand
+title: Wand of Widening
+type: text/vnd.tiddlywiki
+
+The end of this wand is forked instead of tapered.
+
+A wand contains a spell that can be cast once per day. 
+
+Casting a spell from a wand requires holding the wand in one hand and activating the item with a [[Cast a Spell]] activity.
+
+''When using a Wand of Widening, the activation takes {{TwoAction}} if the spell normally takes {{OneAction}} to cast, or {{ThreeAction}} if the spell normally takes {{TwoAction}}.''
+
+''Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet; add 5 feet to the length of a cone or line that is normally 15 feet long or smaller; or add 10 feet to the length of a larger cone or line.''
+
+To cast a spell from a wand, it must be on your spell list. Because you’re the one casting the spell, use your spell attack roll and spell DC. The spell is of your tradition.
+
+A spell cast from a wand doesn’t require physical material components, but you must replace any material component normally required to cast the spell with a somatic component. 
+
+If the spell requires a focus, you must still have that focus to cast the spell from a wand, and if the spell has a cost, you must still pay that cost to cast the spell from a wand.
+
+After the spell is cast from the wand for the day, you can cast it one more time—overcharging the wand at the risk of destroying it. [[Cast the Spell|Cast a Spell]] again, then roll a DC 10 flat check. On a success, the wand is broken. On a failure, the wand is destroyed. 
+
+If anyone tries to overcharge a wand when it’s already been overcharged that day, the wand is automatically destroyed (even if it had been repaired) and no spell is cast.
+
+A wand’s base statistics are the same unless noted otherwise in a special wand. It has light Bulk, and must be held in one hand to be activated. Each wand contains a specific level of the spell, but you can craft a wand with a heightened version of a spell.
+
+Each type of wand has a Level and Price determined by the spell’s level. The wand’s rarity matches the spell’s rarity, and it has its spell’s traits. A wand has the normal Hardness, BT, and HP of a thin item of its material.
+
+''Craft Requirements'' Supply a listed-level casting of the spell. The spell must have a casting time of {{OneAction}} or {{TwoAction}}, can't have a duration, and must have an area of burst (10 feet or more), cone, or line.
+
+| !Spell Level | !Wand Level | !Wand Price |
+| 1st | 4 | 1000 |
+| 2nd | 6 | 2500 |
+| 3rd | 8 | 5000 |
+| 4th | 10 | 10000 |
+| 5th | 12 | 20000 |
+| 6th | 14 | 45000 |
+| 7th | 16 | 100000 |
+| 8th | 18 | 240000 |
+| 9th | 20 | 700000 |

@@ -1,0 +1,23 @@
+created: 20210508144924465
+item-bulk: 1
+item-hands: 1
+item-level: 6 12
+item-price: 2250 17500
+item-variants: Standard Greater
+mod-nature: +2 circumstance to identify plants.
+modified: 20210508145115994
+tags: Item Magical Staff Transmutation
+title: Verdant Staff
+type: text/vnd.tiddlywiki
+
+This oak branch grows leaves in spring that change color in autumn and shed in winter. While wielding it, you gain a +2 circumstance bonus to [[Nature]] checks to identify plants.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2250 | Cantrip |[[Tanglefoot]] |
+|~|~|~| 1st |[[Shillelagh]] (can target the verdant staff) |
+|~|~|~| 2nd |[[Barkskin]], [[Entangle]], [[Shape Wood]], [[Tree Shape]] |
+| Greater | 10 | 9000 | 3rd |[[Wall of Thorns]] |
+|~|~|~| 4rd |[[Barkskin]], [[Speak with Plants]] |
+|~|~|~| 5th |[[Plant Form]], [[Wall of Thorns]] |

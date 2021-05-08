@@ -1,0 +1,24 @@
+created: 20210508140833395
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14
+item-price: 2300 9000 40000
+item-variants: Standard Greater Major
+modified: 20210508141017007
+modtag-evocation: +2 circumstance to identify.
+tags: Item Magical Staff Evocation
+title: Staff of Evocation
+type: text/vnd.tiddlywiki
+
+This staff is tapered at the base and carved into a gemstudded twist at the top. While wielding the staff, you gain a +2 circumstance bonus to checks to identify evocation magic.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Ray of Frost]] |
+|~|~|~| 1st |[[Magic Missile]], [[Shocking Grasp]] |
+|~|~|~| 2nd |[[Acid Arrow]], [[Glitterdust]] |
+| Greater | 10 | 9000 | 3rd |[[Lightning Bolt]], [[Magic Missile]] |
+|~|~|~| 4rd |[[Fireball]], [[Weapon Storm]] |
+| Major | 14 | 40000 | 5th |[[Cone of Cold]], [[Magic Missile]] |
+|~|~|~| 6th |[[Chain Lightning]], [[Wall of Force]] |

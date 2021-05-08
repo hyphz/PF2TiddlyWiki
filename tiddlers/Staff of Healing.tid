@@ -1,0 +1,27 @@
+created: 20210508141608214
+item-bulk: 1
+item-hands: 1
+item-level: 4 8 12 16
+item-price: 900 4700 18000 92000
+item-variants: Standard Greater Major True
+mod-heal: +1-4 item bonus to restored HP.
+modified: 20210508142133771
+tags: Item Magical Staff Necromancy
+title: Staff of Healing
+type: text/vnd.tiddlywiki
+
+Made of smooth, white wood, this staff is capped at each end with a golden cross adorned with a multitude of ruby cabochons. 
+
+A staff of healing grants an item bonus to the Hit Points you restore anytime you cast the [[Heal]] spell using your own spell slots or using charges from the staff.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Heal Bonus | !Spell Level | !Spells |
+| Standard | 3 | 900 | +1 | Cantrip |[[Stabilize]] |
+|~|~|~|~| 1st |[[Heal]] |
+| Greater | 8 | 4700 | +2 | 2nd |[[Heal]], [[Restoration]], [[Restore Senses]] |
+|~|~|~|~| 3rd |[[Heal]], [[Remove Disease]] |
+| Major | 12 | 18000 | +3 | 4th |[[Heal]], [[Restoration]] |
+|~|~|~|~| 5th |[[Breath of Life]], [[Heal]], [[Remove Disease]] |
+| True | 16 | 92000 | +4 | 6th |[[Heal]], [[Restoration]], [[Restore Senses]] |
+|~|~|~|~| 7th |[[Heal]], [[Regenerate]], [[Remove Disease]] |

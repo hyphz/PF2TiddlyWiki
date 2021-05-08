@@ -1,0 +1,30 @@
+created: 20210508152114384
+item-bulk: L
+item-hands: 1
+item-level: 8 12 16 20
+item-price: 5000 20000 100000 700000
+item-variants: 3rd-level 5th-level 7th-level 9th-level
+modified: 20210508152927403
+tags: Item Magical Wand Evocation Fire
+title: Wand of Smoldering Fireballs
+type: text/vnd.tiddlywiki
+
+This blackened, heavily burned stick smells faintly of bat guano.
+
+''Activate'' [[Cast a Spell]]; ''Frequency'' once per day, plus overcharge; ''Effect'' You cast [[Fireball]] of the indicated level. 
+
+[[Fireball]] must be on your spell list. Because you’re the one casting the spell, use your spell attack roll and spell DC. The spell is of your tradition.
+
+After the spell is cast from the wand for the day, you can cast it one more time—overcharging the wand at the risk of destroying it. [[Cast the Spell|Cast a Spell]] again, then roll a DC 10 flat check. On a success, the wand is broken. On a failure, the wand is destroyed. 
+
+If anyone tries to overcharge a wand when it’s already been overcharged that day, the wand is automatically destroyed (even if it had been repaired) and no spell is cast.
+
+Each creature that fails its save takes persistent fire damage.
+
+''Craft Requirements'' Supply a listed-level casting of [[Fireball]]. 
+
+| !Spell Level | !Wand Level | !Wand Price | !Persistent Damage |
+| 3rd | 8 | 5000 | 1d6 |
+| 5th | 12 | 20000 | 2d6 |
+| 7th | 16 | 100000 | 3d6 |
+| 9th | 20 | 700000 | 4d6 |

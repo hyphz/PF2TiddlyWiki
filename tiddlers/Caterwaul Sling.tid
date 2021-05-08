@@ -1,0 +1,17 @@
+a-defense: Fortitude
+created: 20210508155746772
+item-bulk: L
+item-hands: 1
+item-level: 5
+item-price: 1550
+modified: 20210508155931878
+tags: Magical Item Interact Evocation
+title: Caterwaul Sling
+type: text/vnd.tiddlywiki
+virtual-tags: Sonic
+
+Made of shiny brown leather, this +1 striking sling has a single white thread interwoven into its cord.
+
+''Activate'' {{TwoAction}} [[Interact]] <<tag Sonic>>; ''Frequency'' once per day; ''Effect'' You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound.
+
+Each creature in a 30-foot [[Cone]] takes 4d6 sonic damage (DC 21 basic [[Fortitude]] save). Any creature that fails is [[Deafened]] for 1 round, or 1 hour on a critical failure.

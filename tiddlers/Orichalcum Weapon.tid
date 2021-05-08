@@ -1,0 +1,18 @@
+created: 20210508154533982
+item-bulk: Varies
+item-hands: Varies
+item-level: 18
+item-price: 225000
+mod-speed_rune: Half cost to etch, but must pay balance to transfer.
+modified: 20210508155005514
+tags: Item Weapon Rare
+title: Orichalcum Weapon
+type: text/vnd.tiddlywiki
+
+Orichalcum weapons can have four magic property runes instead of three.
+
+Due to orichalcum’s temporal properties, etching the [[Speed|Speed (Rune)]] weapon property rune onto an orichalcum weapon costs half the normal Price (though transferring the rune to a weapon made of another material requires you to first pay the remaining Price and then pay the cost to transfer).
+
+| !Type | !Level | !Price | !Value of Orichalcum needed |
+| High-Grade | 18 | 225000 + 22500/Bulk | 112500 + 11250/Bulk |
+

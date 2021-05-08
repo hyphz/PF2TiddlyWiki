@@ -1,0 +1,46 @@
+created: 20210508150936809
+item-bulk: L
+item-hands: 1
+item-level: 5 7 9 11 13 15 17 19
+item-price: 1600 3600 7000 14000 30000 65000 150000 400000
+item-variants: 1st-level 2nd-level 3rd-level 4th-level 5th-level 6th-level 7th-level 8th-level 9th-level
+modified: 20210508151641525
+tags: Item Magical Wand
+title: Wand of Continuation
+type: text/vnd.tiddlywiki
+
+This wand increases a spell’s duration. Yellow embers spiral over its surface until the spell ends.
+
+A wand contains a spell that can be cast once per day. 
+
+Casting a spell from a wand requires holding the wand in one hand and activating the item with a [[Cast a Spell]] activity.
+
+''When using a Wand of Continuation, the activation takes {{TwoAction}} if the spell normally takes {{OneAction}} to cast, or {{ThreeAction}} if the spell normally takes {{TwoAction}}.''
+
+''The duration of the spell is increased by half.''
+
+To cast a spell from a wand, it must be on your spell list. Because you’re the one casting the spell, use your spell attack roll and spell DC. The spell is of your tradition.
+
+A spell cast from a wand doesn’t require physical material components, but you must replace any material component normally required to cast the spell with a somatic component. 
+
+If the spell requires a focus, you must still have that focus to cast the spell from a wand, and if the spell has a cost, you must still pay that cost to cast the spell from a wand.
+
+After the spell is cast from the wand for the day, you can cast it one more time—overcharging the wand at the risk of destroying it. [[Cast the Spell|Cast a Spell]] again, then roll a DC 10 flat check. On a success, the wand is broken. On a failure, the wand is destroyed. 
+
+If anyone tries to overcharge a wand when it’s already been overcharged that day, the wand is automatically destroyed (even if it had been repaired) and no spell is cast.
+
+A wand’s base statistics are the same unless noted otherwise in a special wand. It has light Bulk, and must be held in one hand to be activated. Each wand contains a specific level of the spell, but you can craft a wand with a heightened version of a spell.
+
+Each type of wand has a Level and Price determined by the spell’s level. The wand’s rarity matches the spell’s rarity, and it has its spell’s traits. A wand has the normal Hardness, BT, and HP of a thin item of its material.
+
+''Craft Requirements'' Supply a listed-level casting of the spell. The spell must have a casting time of {{OneAction}} or {{TwoAction}} and a duration no less than 10 minutes and no greater than 1 hour.
+
+| !Spell Level | !Wand Level | !Wand Price |
+| 1st | 5 | 1600 |
+| 2nd | 7 | 3600 |
+| 3rd | 9 | 7000 |
+| 4th | 11 | 14000 |
+| 5th | 13 | 30000 |
+| 6th | 15 | 65000 |
+| 7th | 17 | 150000 |
+| 8th | 19 | 400000 |

@@ -1,0 +1,27 @@
+created: 20210508161740735
+item-bulk: 1
+item-hands: 1
+item-level: 14
+item-price: 45000
+modified: 20210508162405260
+tags: Item Uncommon Divine Evocation Lawful Good Command Interact
+title: Holy Avenger
+type: text/vnd.tiddlywiki
+
+The gleaming holy avenger is the iconic weapon of powerful paladins. 
+
+The crossbar of this [[+2|Weapon Potency]] greater [[Striking]] [[Holy]] [[cold iron|Cold Iron Weapon]] longsword is styled to look like angel wings. Tradition holds that those who see their reflection in a holy avenger’s highly polished blade have their faults laid bare. 
+
+If you are evil, you are [[Enfeebled]] 2 while carrying or wielding this weapon.
+
+''Activate'' {{TwoAction}} command, [[Interact]]; ''Frequency'' once per hour; ''Effect'' You command the sword and point it at a creature you can see. The sword casts [[Detect Alignment]] to detect evil, but this targets only the selected creature instead of detecting in an area.
+
+!! Paladin Wielder
+
+If you’re a [[Champion]] of the [[Paladin Cause]], you also gain the following two benefits.
+
+* When you critically hit an evil creature with the holy avenger, the creature is [[Slowed]] 1 and [[Enfeebled]] 2 for 1 round.
+
+* You can activate the sword in the following way: ''Activate'' {{OneAction}} command; ''Frequency'' once per day; ''Requirements'' You hit a creature using the holy avenger on your previous action; ''Effect'' You cast [[Dispel Magic]] at the same level as your champion focus spells. It must target an illusion the creature you hit created, a spell affecting the creature you hit, or an item the creature you hit wears or carries. The spell or item you attempt to counteract must be within 120 feet of you.
+
+''Craft Requirements'' You are a [[Champion]] with the [[Paladin Cause]]; supply a casting of [[Detect Alignment]] and [[Dispel Magic]]. The initial raw materials must include 120 gp of cold iron.

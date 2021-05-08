@@ -1,0 +1,19 @@
+created: 20210508154249428
+item-bulk: Varies
+item-hands: Varies
+item-level: 11 17
+item-price: 14000 135000
+item-variants: Standard-Grade High-Grade
+modified: 20210508154333408
+tags: Item Weapon Uncommon
+title: Darkwood Weapon
+type: text/vnd.tiddlywiki
+
+Darkwood weapons are as dark as ebony, with a slight purple tint. 
+
+A darkwood weapon’s Bulk is reduced by 1 (or to light Bulk if its normal Bulk is 1, with no effect on a weapon that normally has light Bulk).
+
+| !Type | !Level | !Price | !Value of Darkwood needed |
+| Standard-Grade | 11 | 14000 + 1400/Bulk | 1750 + 175/Bulk |
+| High-Grade | 17 | 135000 + 13500/Bulk | 67500 + 6750/Bulk |
+

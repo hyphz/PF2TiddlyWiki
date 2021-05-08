@@ -1,0 +1,24 @@
+created: 20210508141117458
+item-bulk: 1
+item-hands: 1
+item-level: 3 8 12
+item-price: 600 4500 18000
+item-variants: Standard Greater Major
+modified: 20210508141536912
+tags: Item Magical Staff Evocation
+title: Staff of Fire
+type: text/vnd.tiddlywiki
+
+This staff resembles a blackened and burned length of ashen wood. It smells faintly of soot and glows as if lit by embers. 
+
+You can use an [[Interact]] action to touch the tip of this staff to a torch, tinder, or a flammable substance to ignite a flame
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 3 | 600 | Cantrip |[[Produce Flame]] |
+|~|~|~| 1st |[[Burning Hands]] |
+| Greater | 8 | 4500 | 2nd |[[Burning Hands]], [[Flaming Sphere]] |
+|~|~|~| 3rd |[[Flaming Sphere]], [[Fireball]] |
+| Major | 12 | 18000 | 4th |[[Fire Shield]], [[Fireball]], [[Wall of Fire]] |
+|~|~|~| 5th |[[Fireball]], [[Wall of Fire]] |

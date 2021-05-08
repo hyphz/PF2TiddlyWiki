@@ -1,0 +1,22 @@
+created: 20210508160605267
+item-bulk: 1
+item-hands: 1
+item-level: 13 17
+item-price: 28000 138000
+item-variants: Standard Greater
+modified: 20210508161053797
+tags: Magical Item Interact Command Evocation Fire
+title: Flame Tongue
+type: text/vnd.tiddlywiki
+
+This longsword has an ornate brass hilt and a blade shaped like stylized flames. 
+
+When wielded, the blade projects illumination resembling shimmering firelight, emitting dim light in a 10-foot radius.
+
+''Activate'' {{TwoAction}} Command, [[Interact]]; ''Effect'' You cast the [[Produce Flame]] cantrip from the sword, using your melee attack modifier with Flame Tongue as your spell attack modifier.
+
+''Activate'' {{OneAction}} Command; ''Greater Flame Tongue only''; ''Effect'': A 10-foot emanation of flame radiates from the greater flame tongue for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the [[Flaming]] property rune.
+
+| !Type | !Level | !Price | !Base Runes | !Produce Flame Level |
+| Standard | 13 | 28000 | [[+2|Weapon Potency]] Greater [[Striking]] [[Flaming]] | 7th |
+| Greater | 17 | 138000 | [[+3|Weapon Potency]] Greater [[Striking]] Greater [[Flaming]] | 9th |

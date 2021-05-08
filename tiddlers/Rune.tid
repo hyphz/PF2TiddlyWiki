@@ -1,5 +1,5 @@
 created: 20210130155211677
-modified: 20210424151257559
+modified: 20210508154604939
 title: Rune
 type: text/vnd.tiddlywiki
 
@@ -10,6 +10,8 @@ Low-grade items can be used in the creation of magic items of up to 8th level, a
 Standard-grade items can be used to create magic items of up to 15th level and can hold runes of up to 15th level. 
 
 High-grade items use the purest form of the precious material, and can be used to Craft magic items of any level holding any runes. Using purer forms of common materials is so relatively inexpensive that the Price is included in any magic item.
+
+[[Orichalcum Weapon]]s can have four magic property runes instead of three.
 
 <table>
 <tr><th>Level</th><th>Runes</th><th>Price</th></tr>

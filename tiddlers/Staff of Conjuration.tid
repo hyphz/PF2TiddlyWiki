@@ -1,0 +1,24 @@
+created: 20210508135457409
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14
+item-price: 2300 9000 40000
+item-variants: Standard Greater Major
+modified: 20210508140404322
+modtag-conjuration: +2 circumstance to identify.
+tags: Item Magical Staff Conjuration
+title: Staff of Conjuration
+type: text/vnd.tiddlywiki
+
+This ash staff is decorated with animals; wielding it, you gain a +2 circumstance bonus to checks to identify conjuration magic.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip | [[Tanglefoot]] |
+|~|~|~| 1st |[[Summon Construct]], [[Unseen Servant]] |
+|~|~|~| 2nd |[[Obscuring Mist]], [[Phantom Steed]], [[Summon Construct]], [[Summon Elemental]] |
+| Greater | 10 | 9000 | 3rd |[[Stinking Cloud]], [[Summon Construct]], [[Summon Elemental]] |
+|~|~|~| 4rd |[[Creation (Spell)]], [[Phantom Steed]], [[Summon Construct]], [[Summon Elemental]] |
+| Major | 14 | 40000 | 5th |[[Black Tentacles]], [[Summon Construct]], [[Summon Elemental]] |
+|~|~|~| 6th |[[Phantom Steed]], [[Summon Construct]], [[Summon Elemental]] |

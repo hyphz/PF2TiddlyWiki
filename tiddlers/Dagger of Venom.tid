@@ -1,0 +1,20 @@
+a-defense: Fortitude
+created: 20210508160006066
+item-bulk: L
+item-hands: 1
+item-level: 5
+item-price: 1500
+modified: 20210508160237380
+tags: Magical Item Interact Necromancy Poison
+title: Dagger of Venom
+type: text/vnd.tiddlywiki
+
+The serrated blade of this [[+1|Weapon Potency]] [[Striking]] dagger has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike. 
+
+When you critically succeed at an attack roll with the dagger of venom, the target becomes [[Sickened]] 1 unless it succeeds at a DC 19 [[Fortitude]] save. This is a <<tag Poison>> effect. 
+
+In addition, you can activate the dagger to poison a creature with a more potent poison.
+
+''Activate'' {{FreeAction}} [[Interact]]; ''Frequency'' once per 'day; ''Trigger'' You damage a creature with the dagger of venom; ''Effect'' You poison the creature you hit with dagger venom.
+
+''Dagger Venom'' (poison); ''Saving Throw'' [[Fortitude]] DC 21; ''Maximum Duration'' 4 rounds. ''Stage 1'' 1d8 poison damage and [[Enfeebled]] 1.

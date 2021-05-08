@@ -1,0 +1,23 @@
+created: 20210508155146038
+item-level: 2 4 10 12 16 19
+item-price: 350 1000 10000 20000 100000 400000
+item-variants: +1 [[+1 Striking]] [[+2 Striking]] [[+2 Greater Striking]] [[+3 Greater Striking]] [[+3 Major Striking]]
+modified: 20210508155551213
+tags: Magical Item Evocation
+title: Magic Weapon (Item)
+type: text/vnd.tiddlywiki
+
+A magic weapon is a weapon etched with only fundamental runes. A weapon potency rune gives an item bonus to attack rolls with the weapon, and a striking rune increases the
+weapon’s number of weapon damage dice.
+
+The Prices here are for all types of weapons. You don’t need to adjust the Price from a club to a greataxe or the like. These weapons are made of standard materials, not precious materials such as cold iron.
+
+//The levels and prices below are exactly those of the required combination of runes. These can be taken as "example builds" of applying runes to weapons.//
+
+| !Type | !Level | !Price | !Runes |
+| +1 | 2 | 350 | +1 [[Weapon Potency]] |
+| +1 Striking | 4 | 1000 | +1 [[Weapon Potency]] and [[Striking]] |
+| +2 Striking | 10 | 10000 | +2 [[Weapon Potency]] and [[Striking]] |
+| +2 Greater Striking | 12 | 20000 | +2 [[Weapon Potency]] and Greater [[Striking]] |
+| +3 Greater Striking | 16 | 100000 | +3 [[Weapon Potency]] and Greater [[Striking]] |
+| +3 Major Striking | 19 | 400000 | +3 [[Weapon Potency]] and Major [[Striking]] |

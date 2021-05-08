@@ -1,0 +1,15 @@
+created: 20210508155626268
+item-bulk: L
+item-hands: 1
+item-level: 6
+item-price: 2400
+modified: 20210508155737130
+tags: Magical Item Necromancy Uncommon
+title: Bloodletting Kukri
+type: text/vnd.tiddlywiki
+
+This [[+1|Weapon Potency]] [[Striking]] kukri has a crimson blade that shimmers eerily in bright light. 
+
+On a critical hit, the kukri deals 1d8 persistent bleed damage. 
+
+If the target didn’t already have persistent bleed damage when you scored the critical hit, you also gain 1d8 temporary Hit Points.

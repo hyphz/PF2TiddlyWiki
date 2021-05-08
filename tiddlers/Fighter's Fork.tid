@@ -1,0 +1,13 @@
+created: 20210508160416352
+item-bulk: L
+item-hands: 1-2
+item-level: 3
+item-price: 500
+modified: 20210508160636838
+tags: Magical Item Transmutation Interact
+title: Fighter's Fork
+type: text/vnd.tiddlywiki
+
+This [[+1|Weapon Potency]] trident, usually engraved with a decorative pattern resembling fish scales, is a common weapon among warriors of aquatic ancestries.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Effect'' You extend or shorten the trident’s haft. When extended, the trident requires two hands to wield and gains the [[Reach]] trait, but loses the trident’s normal [[Thrown]] trait.

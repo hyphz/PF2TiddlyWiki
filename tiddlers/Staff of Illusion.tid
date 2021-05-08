@@ -1,0 +1,24 @@
+created: 20210508142421079
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14
+item-price: 2300 9000 40000
+item-variants: Standard Greater Major
+modified: 20210508142619895
+modtag-illusion: +2 circumstance to identify.
+tags: Item Magical Staff Illusion
+title: Staff of Illusion
+type: text/vnd.tiddlywiki
+
+This ornately designed metal staff shines with precious inlays of gold. When you Cast a Spell from the staff, the illusory image of something you desire flashes across its surface. While wielding the staff, you gain a +2 circumstance bonus to checks to identify illusion magic.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Ghost Sound]] |
+|~|~|~| 1st |[[Illusory Disguise]], [[Illusory Object]] |
+|~|~|~| 2nd |[[Illusory Creature]], [[Item Facade]], [[Ventriloquism]] |
+| Greater | 10 | 9000 | 3rd |[[Illusory Disguise]], [[Item Facade]] |
+|~|~|~| 4rd |[[Illusory Creature]], [[Veil]] |
+| Major | 14 | 40000 | 5th |[[Illusory Scene]], [[Veil]] |
+|~|~|~| 6th |[[Hallucination]], [[Mislead]] |

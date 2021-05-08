@@ -1,0 +1,32 @@
+created: 20210508143930329
+item-bulk: 1
+item-hands: 1
+item-level: 20
+item-price: 900000
+modified: 20210508144436557
+modtag-spell: +1 circumstance to saves.
+tags: Item Magical Staff Rare Evocation
+title: Staff of the Magi
+type: text/vnd.tiddlywiki
+virtual-tags: Death
+
+Sigils and runes of ancient and powerful magic cover the iron cladding on this long wooden staff. 
+
+A staff of the magi is a [[+3|Weapon Potency]] major [[Striking]] staff, and when wielding it you gain a +1 circumstance bonus to saving throws against spells.
+
+Voluntarily destroying a staff of the magi unleashes a truly devastating wave of arcane energy that surges out, dissipating with distance. When wielding the staff, you can break it using an [[Interact]] action. This releases a 30-foot‑burst magical explosion centered on the staff. This deals 2d10 force damage per charge remaining in the staff (DC 40 basic [[Reflex]] save), You automatically critically fail your save. 
+
+The explosion continues to echo beyond the initial blast zone, dealing half as much damage to creatures beyond 30 feet but within a 60-foot burst. A creature reduced to 0 Hit Points by this damage dies instantly; this is a <<tag Death>> effect.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 20 | 900000 | Cantrip |[[Detect Magic]], [[Light]], [[Mage Hand]], [[Telekinetic Projectile]] |
+|~|~|~| 1st |[[Lock]] |
+|~|~|~| 2nd |[[Enlarge]], [[Glitterdust]], [[Invisibility]], [[Knock]], [[Telekinetic Maneuver]], [[Web]] |
+|~|~|~| 3rd |[[Dispel Magic]], [[Fireball]], [[Lightning Bolt]] |
+|~|~|~| 4th |[[Invisibility]], [[Enlarge]], [[Fireball]], [[Wall of Fire]], [[Web]] |
+|~|~|~| 5th |[[Cone of Cold]], [[Passwall]], [[Telekinetic Haul]] |
+|~|~|~| 6th |[[Disintegrate]], [[Dispel Magic]], [[Fireball]], [[Lightning Bolt]] |
+|~|~|~| 7th |[[Cone of Cold]], [[Passwall]], [[Plane Shift]], [[Wall of Fire]] |
+|~|~|~| 8th |[[Fireball]], [[Mage Armor]] |
+|~|~|~| 9th |[[Dispel Magic]], [[Meteor Swarm]], [[Summon Dragon]] |
+

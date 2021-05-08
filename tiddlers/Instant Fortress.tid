@@ -1,0 +1,34 @@
+created: 20210508145436866
+item-bulk: L
+item-hands: 
+item-level: 16
+item-price: 93000
+modified: 20210508145758728
+tags: Item Magical Conjuration Structure Uncommon Command Interact
+title: Instant Fortress
+type: text/vnd.tiddlywiki
+virtual-tags: Auditory
+
+This metal cube is small enough to fit in your palm. Close inspection reveals fine lines in the dark gray metal, as though the cube were folded thousands of times.
+
+''Activate'' {{ThreeAction}} command, [[Interact]]; ''Effect'' You toss the cube on the ground, and it immediately unfolds into an [[Adamantine]] fortress. The fortress is 20 feet square and 30 feet high, with adamantine stairs leading up to three sets of battlements at heights of 10 feet and 20 feet and at the top.
+
+Arrow slits along the lower battlements and crenelations at the top provide standard cover to anyone within the fortress. 
+
+There’s no roof, leaving an open, 10-foot-square vertical shaft through the center of the structure.
+
+As a magical structure, the fortress has the <<tag Structure>> trait. 
+
+Because it expands outward, the fortress can’t catch creatures inside it as a magical structure normally does. Instead, it pushes those creatures back. It can’t push a creature into a surface or hazard this way, and stops expanding if that would happen.
+
+The fortress has a single door in the center of one wall on the ground level, and the door appears directly in front of you when you activate the fortress. 
+
+Provided you’re within 100 feet of the door, you can cause the door to open or slam shut and lock by spending a single action to issue a verbal command, which has the <<tag Auditory>> trait. 
+
+The DC to [[Force Open]] the door or [[Pick its Lock|Pick a Lock]] is 40.
+
+You can instantly return the instant fortress to its cube form by spending a single action to issue a verbal command, which has the <<tag Auditory>> trait. 
+
+Once deactivated, the fortress can’t be activated again for 4 hours.
+
+If the fortress becomes damaged, it can be repaired only with a [[Remake]] spell or by someone who is legendary at [[Crafting]].

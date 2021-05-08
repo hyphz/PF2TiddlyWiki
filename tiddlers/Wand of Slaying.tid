@@ -1,0 +1,30 @@
+created: 20210508151855391
+item-bulk: L
+item-hands: 1
+item-level: 16 18 20
+item-price: 100000 240000 700000
+item-variants: 7th-level 8th-level 9th-level
+modified: 20210508161403062
+tags: Item Magical Wand Illusion
+title: Wand of Slaying
+type: text/vnd.tiddlywiki
+
+This polished black wand has a green gem at the tip, and anyone who looks into it sees a reflection of a grinning skull instead of their face.
+
+''Activate'' [[Cast a Spell]]; ''Frequency'' once per day, plus overcharge; ''Effect'' You cast [[Finger of Death]] of the indicated level. 
+
+[[Finger of Death]] must be on your spell list. Because you’re the one casting the spell, use your spell attack roll and spell DC. The spell is of your tradition.
+
+After the spell is cast from the wand for the day, you can cast it one more time—overcharging the wand at the risk of destroying it. [[Cast the Spell|Cast a Spell]] again, then roll a DC 10 flat check. On a success, the wand is broken. On a failure, the wand is destroyed. 
+
+If anyone tries to overcharge a wand when it’s already been overcharged that day, the wand is automatically destroyed (even if it had been repaired) and no spell is cast.
+
+If the spell slays its target, the corpse releases negative energy in a 20-foot emanation, dealing negative damage equal to double the spell’s level.
+
+''Craft Requirements'' Supply a listed-level casting of [[Finger of Death]]. 
+
+| !Spell Level | !Wand Level | !Wand Price |
+| 7th | 16 | 100000 |
+| 8th | 18 | 240000 |
+| 9th | 20 | 700000 |
+

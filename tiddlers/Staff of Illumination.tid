@@ -1,0 +1,20 @@
+created: 20210508142159751
+item-bulk: 1
+item-hands: 1
+item-level: 8
+item-price: 4250
+modified: 20210508142351004
+tags: Item Magical Staff Necromancy
+title: Staff of Illumination
+type: text/vnd.tiddlywiki
+
+This simple iron staff is capped with a faceted, clear gem.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Effect'' The gem at the top of the staff glows as a torch, shedding bright light in a 20-foot radius (and dim light to the next 20 feet) for 10 minutes.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 8 | 4250 | Cantrip |[[Light]] |
+|~|~|~| 2nd |[[Continual Flame]] |
+|~|~|~| 3rd |[[Continual Flame]], [[Searing Light]] |

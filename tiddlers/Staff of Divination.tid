@@ -1,0 +1,24 @@
+created: 20210508140154221
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14
+item-price: 2300 9000 40000
+item-variants: Standard Greater Major
+modified: 20210508140413249
+modtag-divination: +2 circumstance to identify.
+tags: Item Magical Staff Divination
+title: Staff of Divination
+type: text/vnd.tiddlywiki
+
+Semiprecious gemstones emerge, seemingly at random, from the surface of this gnarled wooden staff. While wielding it, you gain a +2 circumstance bonus to checks to identify divination magic.
+
+''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Detect Magic]] |
+|~|~|~| 1st |[[True Strike]] |
+|~|~|~| 2nd |[[Comprehend Language]], [[Darkvision]], [[See Invisibility]] |
+| Greater | 10 | 9000 | 3rd |[[Clairaudience]], [[Darkvision]] |
+|~|~|~| 4rd |[[Clairvoyance]], [[Comprehend Language]], [[Telepathy]] |
+| Major | 14 | 40000 | 5th |[[Prying Eye]], [[Sending]] |
+|~|~|~| 6th |[[Telepathy]], [[True Seeing]] |

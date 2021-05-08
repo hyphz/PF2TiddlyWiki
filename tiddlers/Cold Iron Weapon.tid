@@ -1,0 +1,18 @@
+created: 20210508153852832
+item-bulk: Varies
+item-hands: Varies
+item-level: 2 10 16
+item-price: 400 8800 90000
+item-variants: Low-Grade Standard-Grade High-Grade
+modified: 20210508154218925
+tags: Item Weapon
+title: Cold Iron Weapon
+type: text/vnd.tiddlywiki
+
+Cold iron weapons deal additional damage to creatures with weakness to cold iron, like demons and fey.
+
+| !Type | !Level | !Price | !Value of Cold Iron needed |
+| Low-Grade | 2 | 400 + 40/Bulk | 20 + 2/Bulk |
+| Standard-Grade | 10 | 8800 + 880/Bulk | 1100 + 110/Bulk |
+| High-Grade | 16 | 90000 + 9000/Bulk | 45000 + 4500/Bulk |
+
