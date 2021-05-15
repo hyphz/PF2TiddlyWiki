@@ -1,0 +1,13 @@
+created: 20210515175621223
+feat-class: Oracle
+feat-level: 20
+modified: 20210515175652154
+tags: Class Feat Oracle
+title: Mystery Conduit
+type: text/vnd.tiddlywiki
+
+The power of your mystery enables you to cast more than just revelation spells. 
+
+When you cast a spell of 5th level or lower that has no duration, instead of spending a spell slot, you can advance the effects of your oracular curse in the same manner as when you cast a revelation spell. 
+
+A spell cast in this way gains the <<tag Cursebound>> trait.

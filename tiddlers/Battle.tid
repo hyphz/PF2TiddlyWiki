@@ -1,0 +1,29 @@
+created: 20210515161118857
+mod-ac: -2 status if you didn't Strike this turn. Moderate: -1 if you did.
+mod-fortitude: -2 status if you didn't Strike this turn. Moderate: -1 if you did.
+mod-light_armor_expertise: At level 13 also gain expert proficiency in medium and heavy armor.
+mod-reflex: -2 status if you didn't Strike this turn. Moderate: -1 if you did.
+mod-weapon_expertise: At level 11 gain expert for martials in chosen group and trained in advanced in that group.
+mod-will: -2 status if you didn't Strike this turn. Moderate: -1 if you did.
+modified: 20210515161631555
+my-cantrip: [[Shield (Spell)]]
+my-domain: Might Zeal
+my-skill: Athletics
+tags: Oracle Splat
+title: Battle
+type: text/vnd.tiddlywiki
+
+{{||MysterySummary}}
+
+You are no stranger to the trappings of warfare. You are trained in medium and heavy armor. At 13th level, if you gain the [[Light Armor Expertise]] class feature, you also gain expert proficiency in these armors.
+
+Choose one weapon group that embodies your mystery. You are trained in all martial weapons of that group. At 11th level, if you gain the [[Weapon Expertise]] class feature, you also gain expert proficiency for martial weapons in your chosen group, and you become trained in advanced weapons in that group..
+
+!!! Curse of the Hero's Burden
+
+''Minor Curse'' Your body languishes when you aren’t bringing harm to your foes. You take a –2 status penalty to AC and saving throws, but each time you make a Strike, you can suspend these penalties until the start of your next turn.
+
+''Moderate Curse'' Making a Strike reduces the penalty from your minor curse to –1 rather than suspending it entirely. You gain a +2 status bonus to weapon and unarmed damage rolls. You also gain [[Fast Healing]] equal to half your level while in a non-trivial combat encounter.
+
+''Major Curse'' Your body proves capable of truly heroic feats, but doing so interferes with your mental focus. Your moderate curse’s fast healing is equal to your level, and its damage bonus is +6. You gain a +1 status bonus to weapon and unarmed attack rolls, but you are [[Stupefied]] 2.
+

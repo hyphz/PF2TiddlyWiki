@@ -1,0 +1,23 @@
+created: 20210515163932710
+mod-initiative: -4 penalty.
+modified: 20210515164425437
+modtag-linguistic: Major: Can't use. +4 status on saves.
+modtag-verbal: Major: Must DC 5 flat or lose spell.
+my-cantrip: [[Read Aura]]
+my-domain: [[Knowledge (Domain)]] Truth
+my-skill: Occultism
+tags: Oracle Splat
+title: Lore (Mystery)
+type: text/vnd.tiddlywiki
+
+{{||MysterySummary}}
+
+You hold more mystical knowledge within you than most. You have one additional spell in your repertoire of each level you can cast. This Mystery also provides training in an extra Lore skill.
+
+!!! Curse of Torrential Knowledge
+
+''Minor Curse'' You take a –4 penalty to initiative, as trying to process a surge of information about what’s happening around you slows your ability to respond to it.
+
+''Moderate Curse'' The flow of information through your mind grows. The attention you divert to process this huge influx of information means you are always [[Flat-Footed]]. At the start of each of your turns, you automatically make one check to [[Recall Knowledge]] as a free action. This uses a skill of your choice that has the [[Recall Knowledge]] action, using a result equal to 10 + your proficiency bonus in that skill (with no other bonuses, penalties, or modifiers).
+
+''Major Curse'' The massive flow of information clouding your mind overwhelms your ability to communicate with others. You can understand all languages, but you can’t speak, use <<tag Linguistic>> effects, or otherwise communicate with your allies. If you Cast a Spell with a verbal component, you must succeed at a DC 5 flat check or the spell is lost. You gain a +4 status bonus on saving throws against linguistic effects.

@@ -1,0 +1,22 @@
+created: 20210515154121474
+modified: 20210515154857920
+tags: 
+title: MysterySummary
+type: text/vnd.tiddlywiki
+
+<table>
+<tr>
+<th>Granted Cantrip</th><td><$list filter="[all[current]list[!!my-cantrip]]"> <$link/> </$list></td>
+</tr>
+<tr>
+<th>Trained Skill</th><td><$list filter="[all[current]list[!!my-skill]]"> <$link/> </$list></td>
+</tr>
+<tr>
+<th>Related Domains</th><td><$list filter="[all[current]list[!!my-domain]]"> <$link/> </$list></td>
+</tr>
+<tr>
+<th>Revelation Spells</th><td><$list filter="[all[current]listed[m-mystery]sort[m-level]]">
+<$link to=<<currentTiddler>> /><br/> </$list></td>
+</tr>
+</table>
+

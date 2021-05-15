@@ -1,0 +1,46 @@
+cls-combt: Simple Unarmed Unarmored
+cls-exskills: 3
+cls-fortitude: T
+cls-hpbase: 6
+cls-key: Intillegence
+cls-per: T
+cls-reflex: T
+cls-tskills: Per Patron
+cls-will: E
+created: 20210515175904722
+modified: 20210515180254879
+tags: Class
+title: Witch
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | Patron, Familiar, Hexes, 5 cantrips, 2 1st-level slots |
+| 2 | +1 1st-level slot |
+| 3 | 2 2nd-level slots |
+| 4 | +1 2nd-level slot |
+| 5 | 2 3rd-level slots, [[Magical Fortitude]] |
+| 6 | +1 3rd-level slot, Familiar ability |
+| 7 | 2 4th-level slots, [[Expert Spellcaster]] |
+| 8 | +1 4th-level slot |
+| 9 | 2 5th-level slots, [[Lightning Reflexes]] |
+| 10 | +1 5th level slot |
+| 11 | 2 6th-level slots, [[Alertness]], [[Weapon Expertise]] |
+| 12 | +1 6th-level slots |
+| 13 | 2 7th-level slots, [[Defensive Robes]], [[Weapon Specialization]] |
+| 14 | +1 7th-level slot |
+| 15 | 2 8th-level slots, [[Master Spellcaster]] |
+| 16 | +1 8th-level slot |
+| 17 | 2 9th-level slots, [[Resolve]] |
+| 18 | +1 9th-level slot |
+| 19 | [[Legendary Spellcaster]], [[Patron's Gift]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}

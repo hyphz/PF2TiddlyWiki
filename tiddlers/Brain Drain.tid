@@ -9,12 +9,12 @@ m-components: Somatic Material
 m-domain: 
 m-duration: 
 m-level: 1
-m-mystery: Lore (Mystery)
+m-mystery: [[Lore (Mystery)]]
 m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200811002449991
+modified: 20210515164337235
 s-crit: 
 s-fail: 
 s-fumble: 

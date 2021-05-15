@@ -1,0 +1,23 @@
+created: 20210515161822941
+mod-grapple: -2-4 saves and DCs vs forced movement.
+mod-shove: -2-4 saves and DCs vs forced movement.
+mod-trip: Moderate: +2 status to resist.
+modified: 20210515162324884
+my-cantrip: [[Dancing Lights]]
+my-domain: Darkness Moon
+my-skill: Nature
+tags: Oracle Splat
+title: Cosmos
+type: text/vnd.tiddlywiki
+
+{{||MysterySummary}}
+
+Your body is as much an astronomical one as it is physical. You gain resistance equal to 2 + half your level against all physical damage.
+
+!!! Curse of the Sky's Call
+
+''Minor Curse'' Your unnatural lightness makes it hard to keep your footing and interact with other physical objects. You are [[Enfeebled]] 1 and take a –2 penalty to saves and DCs against [[Grapple]], [[Shove]], and other forms of forced movement.
+
+''Moderate Curse'' Your body is drawn further skyward. You are [[Enfeebled]] 2, and the penalty from your minor curse increases to –3. You are treated as one size smaller for <<tag Wind>> effects. You gain a +2 status bonus against Trip attempts, you only take half as much damage from falls, and you gain the effects of the [[Powerful Leap]] and [[Quick Jump]] skill feats. You weigh only half as much, and your Bulk, should someone need to carry you, is also half as much.
+
+''Major Curse'' As your body rises, you float just above the ground beneath you. You become [[Enfeebled]] 4, and the penalty from your minor curse increases to –4. You can walk on liquids as if they were solid; you gain the effects of the [[Cloud Jump]] skill feat; and you don’t leave tracks, trigger weight-sensitive pressure plates, or otherwise connect with the ground below you.

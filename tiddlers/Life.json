@@ -1,0 +1,18 @@
+[
+    {
+        "created": "20210515163101089",
+        "text": "{{||MysterySummary}}\n\nYour body is a deep reservoir of life energy. At each level, you gain Hit Points equal to 10 + your Constitution modifier from the oracle class, instead of 8 + your Constitution modifier.\n\n!!! Curse of Outpouring Life\n\n''Minor Curse'' As your life force seeps outward, it becomes more difficult to keep your body functioning. Effects that restore Hit Points to you take a status penalty equal to half your level (minimum 1) to the number of HP you recover.\n\n''Moderate Curse'' The flow of life energy away from you can’t be reversed. In addition to the effects of your minor curse, you can’t be healed by magical effects originating from other creatures. However, if you are unconscious, magical effects can restore you to 1 HP (but no higher). You are affected normally by healing elixirs, potions, and other items. When you cast heal and all your targets are living creatures, you roll d12s instead of d8s for the amount of healing. Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to the spell level to your choice of either one target of the spell or the creature nearest to you. You can’t heal yourself in this way. This healing has the <<Tag Healing>>, <<tag Necromancy>>, and <<tag Positive>> traits, as well as the tradition trait of the spell.\n\n''Major Curse'' Life energy tears through you to empower your magic. Some of your spells carry positive energy with them. Each time you use a spell slot to cast a 5th-level or higher spell that takes 2 or more actions to cast, you disperse positive energy in a 30-foot burst with the effects of a 3-action [[Heal]] spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don’t benefit from this healing. Instead, you lose double the number of Hit Points rolled for the heal spell.",
+        "tags": "Oracle Splat",
+        "title": "Life",
+        "modified": "20210515163851165",
+        "type": "text/vnd.tiddlywiki",
+        "my-skill": "Medicine",
+        "my-cantrip": "Stabilize",
+        "my-domain": "[[Death (Domain)]] [[Healing (Domain)]]",
+        "mod-oracle": "Base HP becomes 10.",
+        "modtag-healing": "-Half level status penalty to HP recovered. Moderate: can't be magically healed by others except when unconscious. ",
+        "mod-heal": "Moderate: Roll d12s instead of d8.",
+        "modtag-spell": "Moderate: after non-cantrip, heal either one target or nearest creature for spell level HP. Spell: after 5th level with 2 actions+, cast free area heal that drains you.",
+        "virtual-tags": "Healing Necromancy Positive"
+    }
+]

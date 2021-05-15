@@ -4,6 +4,8 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200811010729027
+feat-class: Oracle
+feat-level: 8
 m-area: 
 m-components: Somatic Verbal
 m-domain: 
@@ -13,12 +15,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature other than you
 m-time: 
-modified: 20200811010831109
+modified: 20210515173432150
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Mental Oracle
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Mental Oracle Feat Class
 title: Debilitating Dichotomy
 type: text/vnd.tiddlywiki
 

@@ -9,11 +9,12 @@ m-components: Somatic
 m-domain: 
 m-duration: 
 m-level: 1
+m-mystery: Bones
 m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200812211957306
+modified: 20210515160809266
 s-crit: 
 s-fail: 
 s-fumble: 

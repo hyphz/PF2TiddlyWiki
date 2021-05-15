@@ -1,0 +1,35 @@
+created: 20210515153933606
+mod-strike: Martial Ancestor: +0-1 status to attack and +0-6 status to damage.
+modified: 20210515161102790
+modtag-skill: Skillful Ancestor: +0-2 status bonus to skill checks.
+modtag-spell: Casting Ancestor, Moderate/Major: Non-cantrips gain bonus to damage or healing.
+my-cantrip: Guidance
+my-domain: [[Death (Domain)]] Family
+my-revelation: [[Ancestral Touch]] [[Ancestral Defense]] [[Ancestral Form]]
+my-skill: Society
+tags: Oracle Splat
+title: Ancestors
+type: text/vnd.tiddlywiki
+
+{{||MysterySummary}}
+
+You gain an additional ancestry feat at 1st level and another additional ancestry feat at 11th level. These feats can’t be ones that grant physiological effects, such as additional senses or unarmed attacks.
+
+!!! Curse of Ancestral Meddling
+
+''Minor Curse'' The first time you gain this effect each day, roll 1d4 the table below to determine which type of ancestor becomes predominant. This predominant ancestor guides you to use their preferred type of action. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 4 flat check. On a failure, you spend the action but gain no effect (though you don’t lose the spell if you were Casting a Spell).
+
+If your action would take 1 minute or longer, it’s long enough that you can overcome the meddling, and you don’t need to attempt a flat check.
+
+During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll 1d4 and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.
+
+''Moderate Curse'' The flat check DC to use other actions is 6, and you get the moderate curse benefit listed for your predominant ancestor.
+
+''Major Curse'' The flat check DC is 8, and you get the major curse benefit listed for your predominant ancestor instead of the moderate curse benefit.
+
+| !Roll | !Ancestor | !Preferred Action | !Moderate | !Major |
+| 1 | Martial | [[Strike]] | Your Strikes gain +1 status to attack rolls and +2 status to damage. | Your Strikes gain +1 status to attack rolls and +6 status to damage. |
+| 2 | Skillful | [[Perception]] and Skill Actions | +1 status to skill and Perception checks. | +2 status to skill and perception checks. |
+| 3 | Spellcasting | [[Cast a Spell]] | Non-cantrips without a duration gain a status bonus to their damage and healing equal to the spell's level. | Non-cantrip spells without a duration gain a status bonus to their damage and healing equal to the spell's level + 3. |
+| 4 | You choose which ancestor guides your actions. |<|<|<|
+

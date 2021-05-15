@@ -1,0 +1,30 @@
+created: 20210515152304354
+modified: 20210515153108906
+tags: Rule
+title: Mystery
+type: text/vnd.tiddlywiki
+
+An oracle wields divine power, but not from a single divine being. This power could come from a potent concept or ideal, the attention of multiple divine entities whose areas of concern all touch on that subject, or a direct and dangerous conduit to raw divine power. This is the oracle’s mystery, a source of divine magic not beholden to any deity.
+
+Your mystery grants you special spells called revelation spells and might later grant you divine domain spells. It dictates the effects of your oracular curse, adds an additional cantrip to your repertoire, and gives you one or more trained skills. Drawing insight and power from the collective divine influences that fuel your magic also provides you with a special benefit.
+
+The powers of your mystery manifest in the form of revelation spells, which are a type of focus spell. Casting a revelation spell costs 1 Focus Point and increases the effects of your oracular curse You start with a focus pool of 2 Focus Points. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the [[Refocus]] activity to reconcile the conflicting or unconventional nature of your divine mystery.
+
+Revelation spells have the <<tag Cursebound>> trait, unlike other focus spells. This trait means they increase the severity of your oracular curse when cast. You can’t cast a cursebound spell if you don’t have an oracular curse.
+
+A curse continually gives you a mild but constant reminder that you carry otherworldly power. 
+
+Your curse progresses to its minor stage the first time you finish casting a revelation spell after your daily preparations. Once your minor curse has manifested, it remains in effect until you rest for 8 hours and again make your daily preparations.
+
+If you cast a revelation spell while your minor curse is in effect, you progress to the moderate curse effect immediately after you finish Casting the Spell. The minor effect continues to affect you, though some moderate curse effects might alter the specifics of your minor curse. 
+
+At higher levels, you can cast more revelation spells, progressing your curse to its major stage and then an extreme stage; these stronger curses are cumulative with the effects of the lower stages and can alter them. 
+
+When you [[Refocus]] while under the effects of your moderate or stronger curse, you reduce your curse’s severity to minor in addition to regaining a Focus Point.
+
+Immediately after casting a revelation spell while under the moderate effect of your curse, you are overwhelmed. While overwhelmed, you can’t Cast or Sustain any revelation spells— you effectively lose access to those spells. You can still [[Refocus]] to reduce the effects of your curse and regain a Focus Point, but doing so doesn’t allow you to cast further
+revelation spells. These effects last until you rest for 8 hours and make your daily preparations, at which point your curse returns to its basic state. 
+
+At higher levels, you can grow to withstand your curse’s major and even extreme effects, enabling you to cast more revelation spells without becoming overwhelmed.
+
+Your curse has the <<tag Curse>>, <<tag Divine>>, and <<tag Necromancy>> traits. You can’t mitigate, reduce, or remove the effects of your oracular curse by any means other than Refocusing and resting for 8 hours. For example, if your curse makes creatures concealed from you, you can’t negate that concealed condition through a magic item or spell, such as true strike (though you would still benefit from the other effects of that item or spell). Likewise, [[Remove Curse]] and similar spells don’t affect your curse at all.

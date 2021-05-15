@@ -1,0 +1,46 @@
+cls-combt: Simple Unarmed Light Unarmored
+cls-exskills: 3
+cls-fortitude: T
+cls-hpbase: 8
+cls-key: Charisma
+cls-per: T
+cls-reflex: T
+cls-tskills: Religion
+cls-will: E
+created: 20210515151346965
+modified: 20210515152251989
+tags: Class
+title: Oracle
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Mystery]] (and Oracular Curse), 5 cantrips, 2 1st-level slots |
+| 2 | +1 1st-level slot |
+| 3 | [[Signature Spells]], 2 2nd-level slots |
+| 4 | +1 2nd-level slot |
+| 5 | 2 3rd-level slots |
+| 6 | +1 3rd-level slot |
+| 7 | 2 4th-level slots, [[Resolve]], [[Expert Spellcaster]] |
+| 8 | +1 4th-level slot |
+| 9 | 2 5th-level slots, [[Magical Fortitude]] |
+| 10 | +1 5th level slot |
+| 11 | 2 6th-level slots, [[Alertness]], [[Major Curse]], [[Weapon Expertise]] |
+| 12 | +1 6th-level slots |
+| 13 | 2 7th-level slots, [[Light Armor Expertise]], [[Lightning Reflexes]], [[Weapon Specialization]] |
+| 14 | +1 7th-level slot |
+| 15 | 2 8th-level slots, [[Master Spellcaster]] |
+| 16 | +1 8th-level slot |
+| 17 | 2 9th-level slots, [[Extreme Curse]], [[Greater Resolve]] |
+| 18 | +1 9th-level slot |
+| 19 | [[Legendary Spellcaster]], [[Oracular Clarity]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}

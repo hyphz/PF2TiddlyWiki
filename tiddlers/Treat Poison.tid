@@ -5,7 +5,7 @@ a-hit: You grant the creature a +2 circumstance bonus to its next saving throw a
 a-skill: Medicine
 a-tool: Healer's Tools
 created: 20200706222343972
-modified: 20200725145317593
+modified: 20210515170938976
 modified-by: Medicine
 tags: Action Manipulate Trained
 title: Treat Poison
@@ -18,3 +18,6 @@ You treat a patient to prevent the spread of poison.
 Attempt a [[Medicine]] check against the poison’s DC. 
 
 After you attempt to Treat a Poison for a creature, you can’t try again until after the next time that creature attempts a save against the poison.
+
+{{||ActionSuccessTable}}
+
