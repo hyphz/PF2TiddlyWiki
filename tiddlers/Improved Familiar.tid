@@ -1,8 +1,10 @@
 created: 20201212152531492
-feat-arch: [[Familiar Master]]
-feat-level: 6
-modified: 20201212152558859
-tags: Feat Archetype
+feat-archadd: [[Familiar Master]]
+feat-archlevel: 6
+feat-class: Witch
+feat-level: 4
+modified: 20210606144015254
+tags: Feat Archetype Class Witch
 title: Improved Familiar
 type: text/vnd.tiddlywiki
 

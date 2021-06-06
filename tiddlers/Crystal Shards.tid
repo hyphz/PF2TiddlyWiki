@@ -1,0 +1,25 @@
+created: 20210606153848344
+item-bulk: L
+item-hands: 1
+item-level: 4 12 18
+item-price: 160 3500 40000
+item-variants: Moderate Greater Major
+modified: 20210606154101428
+tags: Alchemical Bomb Consumable Splash Item Earth
+title: Crystal Shards
+type: text/vnd.tiddlywiki
+
+This flask holds a pressurized red-brown gas flecked with bits of sublimated crystal. 
+
+You gain the listed item bonus to attack rolls. 
+
+When the bomb explodes, it deals the listed piercing damage and piercing splash damage as the mixture suddenly turns into solid crystals flying at high speeds.
+
+Surfaces in the splash area grow brittle, gleaming red crystals that crumble to dust after 1 minute. The crystals on level surfaces are [[Caltrops]]. The crystals on vertical surfaces can be used briefly as handholds, granting the listed item bonus to the next [[Athletics]] check to [[Climb]] each space. 
+
+The crystals in each space crumble after the creature leaves, whether Climbing or moving through the caltrops.
+
+| !Type | !Level | !Price | !Piercing Damage | !Piercing Splash Damage | !Item bonus to attack |
+| Moderate | 4 | 160 | 2d4 | 4 | +1 |
+| Greater | 12 | 3500 | 3d4 | 5 | +2 |
+| Major | 18 | 40000 | 4d4 | 6 | +3 |

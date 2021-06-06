@@ -1,0 +1,23 @@
+created: 20210606160254137
+item-bulk: L
+item-hands: 1
+item-level: 3 10
+item-price: 90 2250
+item-variants: Standard Greater
+mod-scent: Imprecise sense must seek, concealed from precise scent.
+mod-seek: +4 item against attempts using only scent.
+modified: 20210606160614664
+tags: Alchemical Consumable Item Elixir
+title: Olfactory Obfuscator
+type: text/vnd.tiddlywiki
+
+This frothing fluid causes the drinker’s body to exude trace odor absorbing oils. 
+
+For the listed duration after drinking this elixir, your scent is nearly unnoticeable. Creatures with imprecise [[Scent]] don’t detect you with that sense unless they [[Seek]] for you, and you are [[Concealed]] from creatures that perceive you with precise scent. 
+
+You gain a +4 item bonus against attempts to [[Seek]] you by creatures using only scent-based senses; if they use any other senses as well, the bonus doesn’t apply.
+
+| !Type | !Level | !Price | !Duration |
+| (standard) | 3 | 90 | 10 minutes |
+| Greater | 10 | 2250 | 8 hours |
+

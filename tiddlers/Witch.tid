@@ -8,14 +8,35 @@ cls-reflex: T
 cls-tskills: Per Patron
 cls-will: E
 created: 20210515175904722
-modified: 20210515180254879
+modified: 20210606141735123
 tags: Class
 title: Witch
 type: text/vnd.tiddlywiki
 
 !! Splats
 
-<$list filter="[tag<currentTiddler>tag[Splat]]" />
+| !Theme | !Spell List | !Patron Skill | !Hex Cantrip | !Granted Spell |
+| Curse | Occult | [[Occultism]] | [[Evil Eye]] | [[Ray of Enfeeblement]] |
+| Fate | Occult | [[Occultism]] | [[Nudge Fate]] | [[True Strike]] |
+| Fervor | Divine | [[Religion]] | [[Stoke the Heart]] | [[Command]] |
+| Night | Occult | [[Occultism]] | [[Shroud of Night]] | [[Sleep]] |
+| Rune | Arcane | [[Arcana]] | [[Discern Secrets]] | [[Magic Weapon]] |
+| Wild | Primal | [[Nature]] | [[Wilding Word]] | [[Summon Animal]] or [[Summon Plant or Fungus]] |
+| Winter | Primal | [[Nature]] | [[Clinging Ice]] | [[Gust of Wind]] |
+
+!! Lessons
+
+| !Lesson | !Level | !Hex | !Familiar Spell |
+| Dreams | Basic | [[Veil of Dreams]] | [[Sleep]] |
+| The Elements | Basic | [[Elemental Betrayal]] | [[Burning Hands]], [[Air Bubble]], [[Hydraulic Push]] or [[Pummeling Rubble]] |
+| Life | Basic | [[Life Boost]] | [[Spirit Link]] |
+| Protection | Basic | [[Blood Ward]] | [[Mage Armor]] |
+| Vengeance | Basic | [[Needle of Vengeance]] | [[Phantom Pain]] |
+| Mischief | Greater | [[Deceiver's Cloak]] | [[Mad Monkeys]] |
+| Shadow | Greater | [[Malicious Shadow]] | [[Chilling Darkness]] |
+| Snow | Greater | [[Personal Blizzard]] | [[Wall of Wind]] |
+| Death | Major | [[Curse of Death]] | [[Raise Dead]] |
+| Renewal | Major | [[Restorative Moment]] | [[Field of Life]] |
 
 !! Class Features
 

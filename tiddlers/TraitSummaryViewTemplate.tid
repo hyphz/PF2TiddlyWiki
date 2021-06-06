@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210501181830018
+modified: 20210606142900970
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -88,6 +88,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Good]]">
 <tr><th>[[Good]]</th><td>Good damage harms only evil creatures.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Hex]]">
+<tr><th>[[Hex]]</th><td>Casting more than one hex a turn auto fails.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Incapacitation]]">
 <tr><th>[[Incapacitation]]</th><td>This has reduced effect against creatures of higher level.</td></tr>

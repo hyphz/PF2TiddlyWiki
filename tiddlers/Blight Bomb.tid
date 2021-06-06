@@ -1,0 +1,20 @@
+created: 20210606153632019
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 30 100 2500 25000
+item-variants: Lesser Moderate Greater Major
+modified: 20210606153817399
+tags: Alchemical Bomb Consumable Splash Item Poison
+title: Blight Bomb
+type: text/vnd.tiddlywiki
+
+Blight bombs contain volatile toxic chemicals that rot flesh. 
+
+A blight bomb deals the listed poison damage, persistent poison damage, and splash damage. Many types grant an item bonus to attack rolls.
+
+| !Type | !Level | !Price | !Poison Damage | !Persistent Poison Damage | !Poison Splash Damage | !Item bonus to attack |
+| Lesser | 1 | 30 | 1d6 | 1d4 | 1 | None |
+| Moderate | 3 | 100 | 2d6 | 2d4 | 2 | +1 |
+| Greater | 11 | 2500 | 3d6 | 3d4 | 3 | +2 |
+| Major | 17 | 25000 | 4d6 | 4d4 | 4 | +3 |

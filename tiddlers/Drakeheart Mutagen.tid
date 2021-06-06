@@ -1,0 +1,30 @@
+created: 20210606155159499
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 3000 30000
+item-variants: Lesser Moderate Greater Major
+mod-ac: +4-7 item.
+mod-perception: +1-4 item.
+mod-recall_knowledge: -1 penalty.
+mod-reflex: -1 penalty.
+mod-will: -1 penalty.
+modified: 20210606155739729
+tags: Alchemical Consumable Item Elixir Mutagen Polymorph
+title: Drakeheart Mutagen
+type: text/vnd.tiddlywiki
+
+Your skin grows tough scales like a drake, your eyesight become sharp and your pupils slitted, and your limbs grow wiry and quick, but your mind and reflexes become slow.
+
+''Benefit'' You gain the listed bonus to AC, a Dexterity cap of +2 (as usual, use your lowest [[Dexterity]] cap if you have more than one), and an item bonus to [[Perception]] checks. If you’re wearing armor, you still calculate your proficiency bonus to AC based on your proficiency in the armor you’re wearing, even if the drakeheart mutagen has a higher item bonus.
+
+You also gain {{OneAction}} ''Final Surge'': You Stride twice. The drakeheart mutagen’s duration ends.
+
+''Drawback'' You take a –1 penalty to [[Will]] saves, [[Reflex]] saves, and all skill checks to [[Recall Knowledge]].
+
+| !Type | !Level | !Price | !Item bonus to AC | !Item bonus to Perception | !Duration |
+| Lesser | 1 | 40 | +4 | +1 | 1 minute |
+| Moderate | 3 | 120 | +5 | +2 | 10 minutes |
+| Greater | 11 | 3000 | +6 | +3 | 1 hour |
+| Major | 17 | 30000 | +7 | +4 | 1 hour |
+

@@ -1,0 +1,21 @@
+created: 20210606161027070
+item-bulk: L
+item-hands: 1
+item-level: 2 4 12 18
+item-price: 50 150 3250 32500
+item-variants: Lesser Moderate Greater Major
+modified: 20210606161116164
+tags: Alchemical Consumable Item Elixir Healing
+title: Sinew-Shock Serum
+type: text/vnd.tiddlywiki
+
+This serum jolts the body to help shake off physical debilitations.
+
+When you drink this elixir, it attempts a counteract check with the listed counteract modifier to remove the [[Clumsy]] or [[Enfeebled]] condition from a single source, using the source of that condition to determine the counteract level and DC.
+
+| !Type | !Level | !Price | !Counteract modifier |
+| Lesser | 2 | 50 | +6 |
+| Moderate | 4 | 150 | +8 |
+| Greater | 12 | 3250 | +19 |
+| Major | 18 | 32500 | +28 |
+

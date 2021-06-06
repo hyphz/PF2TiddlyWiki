@@ -1,0 +1,21 @@
+created: 20210606162015225
+item-bulk: L
+item-hands: 2
+item-level: 4
+item-price: 150
+mod-sickened: Can't reduce while affected.
+modified: 20210606162141389
+tags: Alchemical Consumable Item Poison Injury
+title: Leadenleg
+type: text/vnd.tiddlywiki
+
+Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
+
+| !Saving Throw |DC 20 [[Fortitude]] |
+| !Maximum Duration |6 rounds |
+| !Stage 1 |1d10 poison damage and -5' status penalty to Speeds (1 round) |
+| !Stage 2 |2d6 poison damage and -10' status penalty to Speeds (1 round) |
+| !Stage 3 |2d6 poison damage and -20' status penalty to Speeds (1 round) |
+
+
+

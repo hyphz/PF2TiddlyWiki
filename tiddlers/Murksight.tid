@@ -1,0 +1,13 @@
+created: 20210606145449007
+feat-class: Witch
+feat-level: 8
+mod-concealed: Don't need flat check if concealed only by non-magical weather.
+mod-perception: No circumstance penalty for non-magical weather.
+modified: 20210606145549861
+tags: Feat Class Witch
+title: Murksight
+type: text/vnd.tiddlywiki
+
+Your vision pierces through non-magical fog, mist, rain, and snow. 
+
+You don’t take circumstance penalties to ranged attacks or [[Perception]] checks caused by non-magical precipitation, and your targeted attacks don’t require a flat check to succeed against a target concealed only by such effects.

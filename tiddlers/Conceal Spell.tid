@@ -1,11 +1,11 @@
 a-actions: 1
 a-skill: Perception Deception
 created: 20200711181118636
-feat-class: Wizard
+feat-class: Wizard Witch
 feat-level: 2
-modified: 20200725141055808
+modified: 20210606143044951
 modified-by: Stealth Deception
-tags: Concentrate Manipulate Action Feat Class Wizard Metamagic
+tags: Concentrate Manipulate Action Feat Class Wizard Metamagic Witch
 title: Conceal Spell
 type: text/vnd.tiddlywiki
 

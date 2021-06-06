@@ -1,0 +1,15 @@
+created: 20210606152835796
+feat-class: Witch
+feat-level: 20
+mod-cackle: Cackling sustains all your hexes.
+modified: 20210606152929511
+modtag-hex: Can cast multiple hexes per turn.
+tags: Feat Class Witch
+title: Hex Master
+type: text/vnd.tiddlywiki
+
+You embody the link to your patron so completely that you can cast your hexes in rapid succession. 
+
+You are no longer limited to casting only a single hex each turn. 
+
+In addition, when you cast [[Cackle]] to sustain a hex, you gain the effects of Sustain a Spell for all your active hexes that have a duration of sustained.

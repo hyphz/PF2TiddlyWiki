@@ -1,9 +1,11 @@
 created: 20201212152730866
-feat-arch: [[Familiar Master]]
+feat-archadd: [[Familiar Master]]
+feat-archlevel: 10
+feat-class: Witch
 feat-fpre: [[Enhanced Familiar]]
-feat-level: 10
-modified: 20201212152757381
-tags: Feat Archetype
+feat-level: 8
+modified: 20210606145413538
+tags: Feat Class Witch
 title: Incredible Familiar
 type: text/vnd.tiddlywiki
 

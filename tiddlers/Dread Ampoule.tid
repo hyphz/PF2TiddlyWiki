@@ -1,0 +1,24 @@
+created: 20210606154204310
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 30 100 3000 30000
+item-variants: Lesser Moderate Greater Major
+modified: 20210606154359161
+tags: Alchemical Bomb Consumable Splash Item Emotion Fear Mental Poison
+title: Dread Ampoule
+type: text/vnd.tiddlywiki
+
+This flask is filled with a murky purple gas that briefly interferes with normal brain activity. 
+
+A dread ampoule deals the listed mental damage and mental splash damage. 
+
+On a hit, the target becomes [[Frightened]] 1, or [[Frightened]] 2 on a critical hit. 
+
+Many types also grant an item bonus to attack rolls.
+
+| !Type | !Level | !Price | !Mental Damage | !Mental Splash Damage | !Item bonus to attack |
+| Lesser | 1 | 30 | 1d6 | 1 | None |
+| Moderate | 3 | 100 | 2d6 | 2 | +1 |
+| Greater | 11 | 3000 | 3d6 | 3 | +2 |
+| Major | 17 | 30000 | 4d6 | 4 | +3 |

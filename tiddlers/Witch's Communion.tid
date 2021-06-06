@@ -1,0 +1,13 @@
+created: 20210606150407118
+feat-class: Witch
+feat-fpre: [[Witch's Charge]]
+feat-level: 10
+mod-witchs_charge: Can have number of charges equal to Intelligence mod.
+modified: 20210606150527168
+tags: Feat Class Witch
+title: Witch's Communion
+type: text/vnd.tiddlywiki
+
+You can keep watch over multiple charges. 
+
+Each day during your preparations, you can designate a number of charges equal to your [[Intelligence]] modifier instead of just one.
