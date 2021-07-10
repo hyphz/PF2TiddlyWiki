@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200808140359853
 m-area: 
-m-bloodline: Undead (Bloodline)
+m-bloodline: [[Undead (Bloodline)]]
 m-components: Somatic
 m-duration: 1 minute
 m-level: 1
@@ -14,7 +14,7 @@ m-save:
 m-targets: 1 living creature touched
 m-time: 
 mod-harm: Fully affected creature is always healed as undead.
-modified: 20201128234039814
+modified: 20210710162641289
 s-crit: The target is unaffected.
 s-fail: For the duration, [[Harm]] spells treat the creature as undead and [[Heal]] spells treat the creature as living. In addition, [[Harm]] spells gain a +2 status bonus to the Hit Points restored to the target.
 s-fumble: 

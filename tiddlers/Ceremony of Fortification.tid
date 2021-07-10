@@ -1,0 +1,13 @@
+created: 20210710185323873
+feat-anc: Conrasu
+feat-fpre: [[Ceremony of Protection]]
+feat-level: 9
+mod-ceremony_of_protection: Also gains resist of half your level against the next bludgeoning, piercing or slashing Strike.
+modified: 20210710185432839
+tags: Feat Ancestry Conrasu
+title: Ceremony of Fortification
+type: text/vnd.tiddlywiki
+
+Your exoskeleton arranges itself into an optimal defensive shape. 
+
+When you use your [[Ceremony of Protection]], you also gain resistance to either bludgeoning, piercing, or slashing damage equal to half your level against the next Strike that hits you and deals one of those types of damage until the start of your next turn.

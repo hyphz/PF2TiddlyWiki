@@ -1,0 +1,17 @@
+created: 20210710165812265
+feat-anc: Anadi
+feat-level: 1
+mod-ac: +2 circmustance and promote successes vs webbing; +1 circumstance vs any snare or entanglement.
+mod-fortitude: +2 circumstance and promote successes vs webbing; +1 circumstance vs any snare or entanglement.
+mod-reflex: +2 circumstance and promote successes vs webbing; +1 circumstance vs any snare or entanglement.
+mod-will: +2 circumstance and promote successes vs webbing; +1 circumstance vs any snare or entanglement.
+modified: 20210710170002258
+tags: Feat Ancestry Anadi
+title: Web Walker
+type: text/vnd.tiddlywiki
+
+You have plenty of practice navigating webs. 
+
+You gain a +2 circumstance bonus to saves and AC against the [[Web]] spell, natural webbing, and effects that entrap you in webbing, as well as a +1 circumstance bonus against other effects that snare and entangle you, like the [[Entangle]] spell. 
+
+Whenever you roll a success on a saving throw against an effect involving a web, you get a critical success instead.

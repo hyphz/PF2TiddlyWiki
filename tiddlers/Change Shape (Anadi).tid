@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20210710164111884
+mod-climb: Spider form not flat-footed while climbing.
+modified: 20210710175146815
+modtag-manipulate: Can't use in spider form.
+tags: Action Anadi Arcane Concentrate Polymorph Transmutation
+title: Change Shape (Anadi)
+type: text/vnd.tiddlywiki
+
+You change into your human or spider shape. 
+
+Each shape has a specific, persistent appearance. 
+
+In your human shape, you can’t use unarmed attacks granted by your ancestry. 
+
+In your spider shape, you aren’t flat-footed when climbing, but you can’t use weapons, shields, or other held items of any sort nor can you take any action that has the <<tag Manipulate>> trait.

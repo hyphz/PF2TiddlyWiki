@@ -1,0 +1,12 @@
+created: 20210710185722269
+feat-anc: Conrasu
+feat-level: 17
+mod-sunlight_healing: Always gain maximum possible roll and don't become immune.
+modified: 20210710185808363
+tags: Feat Ancestry Conrasu
+title: Ceremony of Sun's Gift
+type: text/vnd.tiddlywiki
+
+Your connection to the sun has become an unbreakable bond. 
+
+You don’t become temporarily immune to the effects of your [[Sunlight Healing]], and instead of rolling to recover Hit Points, you gain the maximum number of HP possible (for example, 64 HP instead of 8d8).

@@ -2,12 +2,12 @@ created: 20210320154826853
 feat-level: 1
 feat-vher: Beastkin
 mod-change_shape: Can become a Pest Form version of your animal.
-modified: 20210320155101439
+modified: 20210710164029425
 tags: Heritage Feat Beastkin
 title: Critter Shape
 type: text/vnd.tiddlywiki
 
-Once per hour, you can use [[Change Shape]] to enter a critter shape. 
+Once per hour, you can use [[Change Shape (Beastkin)]] to enter a critter shape. 
 
 While in critter shape, you gain the effect of a 1st-level [[Pest Form]], except you can only transform into an animal matching your inherent animal. 
 

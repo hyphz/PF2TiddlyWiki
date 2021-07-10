@@ -1,0 +1,14 @@
+anc-boosts: Dexterity Wisdom Free
+anc-flaws: Constitution
+anc-hp: 8
+anc-langs: Anadi Mwangi
+anc-size: Medium
+anc-special: [[Change Shape (Anadi)]] [[Fangs (Anadi)]]
+anc-speed: 25
+created: 20210710163533997
+modified: 20210710163901927
+tags: Ancestry Humanoid Anadi Rare
+title: Anadi
+type: text/vnd.tiddlywiki
+
+{{||AncestrySummary}}

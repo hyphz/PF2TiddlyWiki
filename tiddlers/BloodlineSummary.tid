@@ -1,5 +1,5 @@
 created: 20201102193715721
-modified: 20201102195926856
+modified: 20210710162738300
 tags: 
 title: BloodlineSummary
 type: text/vnd.tiddlywiki
@@ -35,9 +35,9 @@ Spell Category: {{!!bl-list}}
 
 
 | !Level | !Spell |
-|!Initial |<$list filter="[tag[Spell]field:m-bloodline<currentTiddler>field:m-level[1]]"><$link /></$list> |
-|!Advanced |<$list filter="[tag[Spell]field:m-bloodline<currentTiddler>field:m-level[3]]"><$link /></$list>|
-|!Greater |<$list filter="[tag[Spell]field:m-bloodline<currentTiddler>field:m-level[5]]"><$link /></$list> |
+|!Initial |<$list filter="[tag[Spell]contains:m-bloodline<currentTiddler>field:m-level[1]]"><$link /></$list> |
+|!Advanced |<$list filter="[tag[Spell]contains:m-bloodline<currentTiddler>field:m-level[3]]"><$link /></$list>|
+|!Greater |<$list filter="[tag[Spell]contains:m-bloodline<currentTiddler>field:m-level[5]]"><$link /></$list> |
 
 !! Blood Magic
 

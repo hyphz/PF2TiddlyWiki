@@ -1,0 +1,15 @@
+created: 20210710165555755
+feat-anc: Anadi
+feat-level: 1
+modified: 20210710165651880
+tags: Feat Ancestry Anadi Auditory Visual Action Reaction
+title: Reassuring Presence
+type: text/vnd.tiddlywiki
+
+''Trigger'' An ally within 30 feet gains the [[Frightened]] condition.
+
+You serve as an anchor to your close companions, calming them in times of stress.
+
+Decrease the value of the triggering ally’s frightened condition by 1. 
+
+The ally is then temporarily immune to your Reassuring Presence for 1 hour.

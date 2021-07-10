@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200808133805540
 m-area: 30 foot [[Burst]]
-m-bloodline: Fey (Bloodline)
+m-bloodline: [[Fey (Bloodline)]]
 m-components: Somatic Verbal
 m-duration: 10 minutes
 m-level: 5
@@ -13,7 +13,7 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 10 creatures
 m-time: 
-modified: 20201122150205355
+modified: 20210710162513859
 s-crit: 
 s-fail: 
 s-fumble: 

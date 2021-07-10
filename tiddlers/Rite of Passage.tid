@@ -1,0 +1,16 @@
+created: 20210710175809858
+mod-balance: Not flat-footed and promote successes on narrow or uneven forest terrain.
+mod-difficult_terrain: Ignore when caused by undergrowth.
+mod-uneven_ground: Ignore when caused by undergrowth.
+modified: 20210710175954757
+tags: Conrasu Heritage
+title: Rite of Passage
+type: text/vnd.tiddlywiki
+
+Your exoskeleton remains connected with the plants that created it. 
+
+You can ignore [[Difficult Terrain]] and [[Uneven Ground]] caused by undergrowth. 
+
+In addition, when you use the [[Acrobatics]] skill to [[Balance]] on narrow surfaces or uneven ground within forests, you aren’t flat-footed. 
+
+When you roll a success attempting one of these Acrobatics checks, you get a critical success instead.

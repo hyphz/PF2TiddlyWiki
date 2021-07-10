@@ -1,0 +1,13 @@
+created: 20210710174104702
+feat-anc: Anadi
+feat-fpre: [[Venomous Anadi]]
+feat-level: 9
+mod-venomous_anadi: Damaged creature must Fort vs class/spell DC or be flat footed 1 round.
+modified: 20210710174710179
+tags: Feat Ancestry Anadi
+title: Disorienting Venom
+type: text/vnd.tiddlywiki
+
+The venom injected by your fangs disorients your foes. 
+
+A creature damaged by your anadi venom must attempt a [[Fortitude]] save against your class DC or spell DC, whichever is higher, or become [[Flat-Footed]] for 1 round.

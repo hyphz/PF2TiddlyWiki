@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807182037653
 m-area: 
-m-bloodline: Draconic (Bloodline)
+m-bloodline: [[Draconic (Bloodline)]] [[Wyrmblessed]]
 m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 5
@@ -13,7 +13,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20201102193626510
+modified: 20210710162234596
 s-crit: 
 s-fail: 
 s-fumble: 

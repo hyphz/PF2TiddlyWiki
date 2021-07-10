@@ -5,7 +5,7 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Elemental Toss",
         "tags": "Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Evocation Sorcerer",
-        "modified": "20201102200645654",
+        "modified": "20210710162358799",
         "virtual-tags": "Air Fire Water Earth",
         "s-hit": "",
         "s-fumble": "",
@@ -18,12 +18,12 @@
         "m-level": "1",
         "m-duration": "",
         "m-components": "Somatic ",
+        "m-bloodline": "[[Elemental (Bloodline)]]",
         "m-area": "",
         "a-hit": "",
         "a-fumble": "",
         "a-fail": "",
         "a-defense": "",
-        "a-crit": "",
-        "m-bloodline": "Elemental (Bloodline)"
+        "a-crit": ""
     }
 ]

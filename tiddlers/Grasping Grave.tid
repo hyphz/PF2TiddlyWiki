@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200808134219467
 m-area: 20 foot radius on the ground
-m-bloodline: Undead (Bloodline)
+m-bloodline: [[Undead (Bloodline)]]
 m-components: Somatic Verbal
 m-duration: 
 m-level: 5
@@ -13,7 +13,7 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20201122155038735
+modified: 20210710162708541
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and a –10-foot circumstance penalty to its Speeds for 1 round.
 s-fumble: The creature takes double damage and is [[Immobilized]] for 1 round or until it [[Escape]]s.

@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200812221330089
 m-area: 
-m-bloodline: Genie (Bloodline)
+m-bloodline: [[Genie (Bloodline)]]
 m-components: Somatic Verbal
 m-domain: 
 m-duration: 
@@ -14,7 +14,7 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20201122162705279
+modified: 20210710162540398
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -1,0 +1,17 @@
+created: 20210710170213842
+feat-anc: Anadi
+feat-level: 5
+mod-change_shape_anadi: Also assume form of a friend whose personal token you hold.
+mod-deception: +4 status and add level even if untrained when pretending to be friend whose form you assumed.
+modified: 20210710170345355
+tags: Feat Ancestry Anadi
+title: Friendform
+type: text/vnd.tiddlywiki
+
+The shared bond between you and your allies allows you to act on their behalf.
+
+During your daily preparations, you can perform a simple ritual with up to five willing Small or Medium humanoids, where participants exchange minor tokens of personal significance. 
+
+As long as you hold onto a participant’s token, you can assume their form with your [[Change Shape (Anadi)]] ability, gaining a +4 status bonus to [[Deception]] checks to pass as that person and adding your level to the check even if you’re untrained. 
+
+You lose access to a participant’s form if they’re not carrying your token or if you use the ritual again..

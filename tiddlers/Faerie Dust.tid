@@ -6,7 +6,7 @@ a-fumble:
 a-hit: 
 created: 20200807183921231
 m-area: 5 foot [[Burst]] or more
-m-bloodline: Fey (Bloodline)
+m-bloodline: [[Fey (Bloodline)]]
 m-components: Somatic Verbal
 m-duration: 1 round
 m-level: 1
@@ -16,7 +16,7 @@ m-targets:
 m-time: 
 mod-perception: -1/2 status penalty.
 mod-will: -1/2 status penalty.
-modified: 20201122150036619
+modified: 20210710162447856
 modtag-reaction: Can't be used while affected.
 s-crit: 
 s-fail: The creature can’t use [[Reaction]]s and takes a –2 status penalty to [[Perception]] checks and [[Will]] saves.

@@ -3,14 +3,14 @@ feat-level: 17
 feat-vher: Beastkin
 mod-change_shape: Can use to cast aerial, animal, or dinosaur form.
 mod-critter_shape: Can remain indefinitely and use any number of times.
-modified: 20210320161100017
+modified: 20210710163959978
 tags: Heritage Feat Beastkin
 title: Animal Shape
 type: text/vnd.tiddlywiki
 
 You have full control over your shape and can transform into your inherent animal.
 
-You can use [[Change Shape]] to enter an animal shape. 
+You can use [[Change Shape (Beastkin)]] to enter an animal shape. 
 
 When you gain this feat, choose either [[Aerial Form]], [[Animal Form]], or [[Dinosaur Form]]; after you choose a form, you can’t change the form. 
 

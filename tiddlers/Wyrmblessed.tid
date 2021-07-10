@@ -1,0 +1,13 @@
+bl-desc: You lay claim to the might of dragons, but your powers are sacred instead of arcane—born from a worship of draconic might so powerful it infused your blood or, perhaps, from a celestial or draconic power blessing one of your ancestors received.
+bl-granted: [[Read Aura]] [[Mage Armor]] [[Resist Energy]] [[Haste]] [[Reflective Scales]] [[Cloak of Colors]] [[Repulsion]] [[Mask of Terror]] [[Divine Inspiration]] [[Overwhelming Presence]]
+bl-list: Divine
+bl-magic: Draconic might carries in your voice. Either you gain a +1 status bonus to Intimidation checks for 1 round, or a target takes a –1 status penalty to Will saves for 1 round.
+bl-skill: Intimidation Religion
+created: 20210710161747263
+modified: 20210710161921028
+tags: Bloodline
+title: Wyrmblessed
+type: text/vnd.tiddlywiki
+
+{{||BloodlineSummary}}
+

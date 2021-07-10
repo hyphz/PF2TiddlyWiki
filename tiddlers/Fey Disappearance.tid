@@ -5,7 +5,7 @@ a-fumble:
 a-hit: 
 created: 20200807184356329
 m-area: 
-m-bloodline: Fey (Bloodline)
+m-bloodline: [[Fey (Bloodline)]]
 m-components: Somatic
 m-duration: Until the end of your next turn
 m-level: 3
@@ -14,7 +14,7 @@ m-save:
 m-targets: 
 m-time: 
 mod-difficult_terrain: Ignore if natural.
-modified: 20201122150100063
+modified: 20210710162500826
 s-crit: 
 s-fail: 
 s-fumble: 
