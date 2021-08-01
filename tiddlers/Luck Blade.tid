@@ -1,0 +1,21 @@
+created: 20210801195040208
+item-bulk: L
+item-hands: 1
+item-level: 17 19
+item-price: 150000 300000
+item-variants: Standard Wishing
+modified: 20210801195447617
+tags: Item Rare Divination Fortune Envision
+title: Luck Blade
+type: text/vnd.tiddlywiki
+
+Luck and good fortune bless the wielder of this +3 greater striking shortsword. 
+
+Luck blades are crafted in a variety of styles, but their hilts or blades always incorporate symbols of luck, such as clovers, horseshoes, fish, ladybugs, or other symbols.
+
+''Activate'' {{ReactionIcon}} Envision; ''Frequency'' once per day; ''Trigger'' You miss on a [[Strike]] with the luck blade; ''Effect'' Reroll the triggering attack roll and use the new result. This is a
+fortune effect.
+
+Wishing Luck Blades contain one [[Wish]] when crafted. You can cast this spell as an arcane innate spell while wielding the luck blade, expending the spell. A spellcaster who can cast [[Wish]] can place another wish into the blade by spending 8,000 gp and 4 days of downtime. A wishing luck blade can hold no more than one wish at a time.
+
+''Craft Requirements'' For a wishing luck blade, supply a casting of [[Wish]].

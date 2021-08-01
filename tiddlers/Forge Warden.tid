@@ -1,0 +1,21 @@
+created: 20210801164737905
+item-bulk: 1
+item-hands: 1
+item-level: 10
+item-price: 9750
+item-slot: Shield
+modified: 20210801164905885
+tags: Magical Item Uncommon Command Fire Abjuration
+title: Forge Warden
+type: text/vnd.tiddlywiki
+
+The religious symbol of the forge god—an ornate hammer of dwarven construction—adorns the face of this reinforced steel shield (Hardness 10, HP 24, BT 12). 
+
+The shield is a religious symbol of the forge god.
+
+You and any adjacent allies have fire resistance 5 while you have the shield raised. 
+
+When used for a [[Shield Block]], the forge warden rings out like the hammer strike of a blacksmith, and the symbol glows as if lit by the fires of a furnace.
+
+''Activate'' {{FreeAction}} command (fire); ''Trigger'' You use the forge warden to [[Shield Block]] an adjacent creature’s attack and the shield takes damage; ''Effect'' The attacking creature takes 2d6 <<tag Fire>> damage.
+

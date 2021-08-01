@@ -1,0 +1,21 @@
+created: 20210801162213400
+item-bulk: L 1 L 1
+item-hands: 
+item-level: [[8]] [[8]] [[16]] [[16]]
+item-price: 4000 4400 80000 88000
+item-variants: [[Standard Buckler]] [[Standard Shield]] [[High-Grade Buckler]] [[High-Grade Shield]]
+modified: 20210801162344880
+tags: Item Uncommon
+title: Dragonhide Shield
+type: text/vnd.tiddlywiki
+
+Dragonhide shields are each immune to one damage type based on the type of dragon.
+
+{{DragonResistsTable}}
+
+| !Type | !Grade| !Level | !Price | !Bulk | !Dragonhide Value | !Hardness | !HP | !BT |
+| Buckler | Standard | 8 | 4000 | L | 500 | 2 | 8 | 4 |
+| Shield | Standard | 8 | 4400 | 1 | 550 | 4 | 16 | 8 |
+| Buckler | High | 16 | 80000 | L | 40000 | 5 | 20 | 10 |
+| Shield | High | 16 | 88000 | 1 | 44000 | 7 | 28 | 14 |
+

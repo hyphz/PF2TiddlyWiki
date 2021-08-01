@@ -1,0 +1,25 @@
+created: 20210801163919473
+item-bulk: 1
+item-hands: 1
+item-level: 9
+item-price: 6700
+item-slot: Shield
+mod-reflex: Gives bonus as circumstance vs area effects.
+mod-will: +2 circumstance vs dragon's Frightful Presence.
+modified: 20210801164219975
+tags: Magical Item Abjuration Uncommon
+title: Dragonslayer's Shield
+type: text/vnd.tiddlywiki
+
+A dragonslayer’s shield is a steel shield covered with dragonhide from a certain type of dragon, which distinguishes each shield from the others. 
+
+While raised, this steel shield (Hardness 8, HP 32, BT 16) grants its circumstance bonus to [[Reflex]] saves against area effects (as well as to AC, as normal).
+
+While you hold the shield, it also grants you a +2 circumstance bonus to [[Will]] saves against a dragon’s frightful presence ability. 
+
+The shield has resistance 10 against the damage type corresponding to the type of dragon whose hide was used in its creation; this applies after reducing the damage for Hardness, so when you use [[Shield Block]], the dragonslayer’s shield takes 18 less damage from attacks of that damage type. You can use [[Shield Block]] against attacks that deal damage of that type.
+
+{{DragonResistsTable}}
+
+''Craft Requirements'' The initial raw materials must include at least 30 gp of [[Dragonhide]].
+

@@ -1,0 +1,17 @@
+created: 20210801193926014
+item-level: 4
+item-price: 150
+mod-invisible: Target is hidden or concealed, not undetected.
+modified: 20210801194255238
+s-crit: The creature is unaffected.
+s-fail: Powder clumps on the target, constantly flaking away. Being invisible makes the target [[Concealed]], rather than hidden or undetected, to creatures that could see it if it weren’t invisible.
+s-fumble: As failure, and the creature is [[Blinded]] until the end of its next turn.
+s-hit: Powder sticks to the target, causing it to leave behind telltale footprints. Being invisible makes the target [[Hidden]], rather than [[Undetected]], to creatures that could see it if it weren’t invisible.
+tags: Consumable Mechanical Snare Trap Item Uncommon
+title: Stalker Bane Snare
+type: text/vnd.tiddlywiki
+
+This snare explodes in a burst of cloying powder that can cling to a creature stepping into its square. A creature that enters the square of a stalker bane snare must attempt a DC 20 [[Reflex]] save.
+
+{{||SaveSuccessTable}}
+

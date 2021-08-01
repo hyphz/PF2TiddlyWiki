@@ -1,0 +1,18 @@
+created: 20210801171826884
+item-level: 1
+item-price: 150
+modified: 20210801172230576
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage.
+s-fumble: The creature takes double damage and takes a -10 foot status penalty to its Speed until it recovers at least 1 hit point.
+s-hit: The creature takes half damage.
+tags: Consumable Mechanical Snare Trap Item
+title: Biting Snare
+type: text/vnd.tiddlywiki
+
+The snare’s jaws shut on the leg of a creature that steps on it. 
+
+The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 18 [[Reflex]] save.
+
+{{||SaveSuccessTable}}
+

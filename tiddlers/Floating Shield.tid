@@ -1,0 +1,24 @@
+created: 20210801164151312
+item-bulk: 1
+item-hands: 1
+item-level: 11 16
+item-price: 12500 90000
+item-slot: Shield
+item-variants: Standard Greater
+modified: 20210801164558530
+tags: Magical Item Interact Uncommon
+title: Floating Shield
+type: text/vnd.tiddlywiki
+
+A floating shield is usually carved with wing motifs. 
+
+This buckler (Hardness 6, HP 24, BT 12) can protect you on its own.
+
+''Activate'' {{OneAction}} Interact; ''Frequency'' once per day; ''Effect'' The shield magically releases itself and floats off your arm into the air next to you, granting you its bonus automatically, as if you had [[Raised the Shield|Raise a Shield]]. Because you’re not wielding the shield, you can’t use reactions such as [[Shield Block]] with the shield, but you gain its benefits even when using both of your hands. 
+
+After 1 minute, the shield drops to the ground, ending its floating effect. 
+
+While the shield is adjacent to you, you can [[Interact]] to grasp it, ending its floating effect early.
+
+A greater floating shield can be activated any number of times per day.
+

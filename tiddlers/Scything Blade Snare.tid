@@ -1,0 +1,9 @@
+created: 20210801193558605
+item-level: 12
+item-price: 3200
+modified: 20210801193651346
+tags: Consumable Mechanical Snare Trap Item
+title: Scything Blade Snare
+type: text/vnd.tiddlywiki
+
+This snare sends a powerful series of scything blades to slice through a creature entering the snare’s square, dealing 14d8 slashing damage (DC 31 basic [[Reflex]]).

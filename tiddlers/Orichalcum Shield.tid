@@ -1,0 +1,19 @@
+created: 20210801162607880
+item-bulk: L 1
+item-hands: 
+item-level: 17 17
+item-price: 120000 132000
+item-variants: [[High-Grade Buckler]] [[High-Grade Shield]]
+modified: 20210801162735703
+tags: Item Rare
+title: Orichalcum Shield
+type: text/vnd.tiddlywiki
+
+Orichalcum shields’ time-bending properties are particularly useful for keeping them intact. 
+
+The first time each day an orichalcum shield would be destroyed, it is instead left with 1 Hit Point and the [[Broken]] condition. 
+
+| !Type | !Grade| !Level | !Price | !Bulk | !Orichalcum Value | !Hardness | !HP | !BT |
+| Buckler | High | 17 | 120000 | L | 60000 | 14 | 56 | 28 |
+| Shield | High | 17 | 132000 | 1 | 66000 | 16 | 64 | 32 |
+

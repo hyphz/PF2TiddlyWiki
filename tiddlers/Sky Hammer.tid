@@ -1,0 +1,15 @@
+created: 20210801203202274
+item-bulk: 1
+item-hands: 1
+item-level: 20
+item-price: 700000
+modified: 20210801203317920
+tags: Item Magical Evocation Rare Command
+title: Sky Hammer
+type: text/vnd.tiddlywiki
+
+The sturdy, steel head of this +3 major [[Striking]] [[Flaming]] [[Shock]] orichalcum warhammer is shaped like a blazing comet.
+
+''Activate'' {{ReactionIcon}} command; ''Trigger'' Your attack roll with the sky hammer is a critical success; ''Effect'' A 6th-level arcane [[Fireball]] spell explodes, centered on the sky hammer. The spell DC is 45. You are immune to the fireball’s effect, though your allies are not.
+
+''Craft Requirements'' Supply a casting of fireball (6th level), and the initial raw materials must include 12,375 gp of orichalcum.

@@ -1,0 +1,22 @@
+created: 20210801163023364
+item-bulk: 1
+item-hands: 1
+item-level: 4 7 10 13 16 19
+item-price: 1000 3600 10000 30000 100000 400000
+item-slot: Shield
+item-variants: Minor Lesser Moderate Greater Major Supreme
+modified: 20210801163316427
+tags: Magical Item Abjuration
+title: Sturdy Shield
+type: text/vnd.tiddlywiki
+
+With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.
+
+| !Type | !Level | !Price | !Hardness | !HP | !BT |
+| Minor | 4 | 1000 | 8 | 64 | 32 |
+| Lesser | 7 | 3600 | 10 | 80 | 40 |
+| Moderate | 10 | 10000 | 13 | 104 | 52 |
+| Greater | 13 | 30000 | 15 | 120 | 60 |
+| Major | 16 | 100000 | 17 | 136 | 68 |
+| Supreme | 19 | 400000 | 20 | 160 | 80 |
+

@@ -1,0 +1,17 @@
+created: 20210801165236995
+item-bulk: 1
+item-hands: 1
+item-level: 6
+item-price: 2450
+item-slot: Shield
+modified: 20210801165350148
+tags: Magical Item Conjuration
+title: Lion's Shield
+type: text/vnd.tiddlywiki
+
+This steel shield (Hardness 6, HP 36, BT 18) is forged into the shape of a roaring lion’s head.
+
+The lion’s head functions as a +1 striking shield boss that can’t be removed from the shield.
+
+''Activate'' {{OneAction}} [[Raise a Shield]]; ''Frequency'' once per day; ''Effect'' You animate the lion’s head. You Raise the Shield and make a melee [[Strike]] with it as part of the same action. The shield’s biting maw is a martial melee weapon that deals 2d6 piercing damage and has the [[Deadly]] 1d6 trait; it can’t be enhanced by runes. The shield remains animated for 1 minute, during which time you can Strike with it each time you Raise the Shield, as well as with a Strike action.
+

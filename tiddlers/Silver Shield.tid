@@ -1,0 +1,19 @@
+created: 20210801162829303
+item-bulk: L 1 L 1 L 1
+item-hands: 
+item-level: [[2]] [[2]] [[7]] [[7]] [[15]] [[15]]
+item-price: 300 340 3000 3400 50000 55000
+item-variants: [[Low-Grade Buckler]] [[Low-Grade Shield]] [[Standard Buckler]] [[Standard Shield]] [[High-Grade Buckler]] [[High-Grade Shield]]
+modified: 20210801162939837
+tags: Item
+title: Silver Shield
+type: text/vnd.tiddlywiki
+
+| !Type | !Grade | !Level | !Price | !Bulk | !Silver Value | !Hardness | !HP | !BT |
+| Buckler | Low | 2 | 300 | L | 15 | 1 | 4 | 2 |
+| Shield | Low | 2 | 340 | 1 | 17 | 3 | 12 | 6 |
+| Buckler | Standard | 7 | 3000 | L | 375 | 3 | 12 | 6 |
+| Shield | Standard | 7 | 3400 | 1 | 425 | 5 | 20 | 10 |
+| Buckler | High | 15 | 50000 | L | 25000 | 6 | 24 | 12 |
+| Shield | High | 15 | 55000 | 1 | 27500 | 8 | 32 | 16 |
+

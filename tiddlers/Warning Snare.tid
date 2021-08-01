@@ -1,0 +1,15 @@
+created: 20210801194600076
+item-level: 4
+item-price: 150
+modified: 20210801194654833
+tags: Consumable Mechanical Snare Trap Item Auditory
+title: Warning Snare
+type: text/vnd.tiddlywiki
+
+Using materials specific to the area, you connect a sound‑making component to a trip wire or a pressure plate.
+
+This snare is like an [[Alarm Snare]], but its subtle sound blends into ambient noise. You can detect this sound as long as you’re within 1,000 feet of the snare and aren’t prevented from hearing it. 
+
+Other creatures in that area who are searching might notice the sound if their [[Perception]] check result meets or exceeds your [[Craft]] DC.
+
+

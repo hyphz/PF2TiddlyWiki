@@ -1,0 +1,14 @@
+created: 20210801171720462
+item-level: 1
+item-price: 30
+modified: 20210801172222027
+tags: Auditory Consumable Mechanical Snare Trap Item
+title: Alarm Snare
+type: text/vnd.tiddlywiki
+
+You create an alarm snare by rigging one or more noisy objects to a trip wire or pressure plate.  
+
+When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. 
+
+When a Small or larger creature enters the square, the snare makes a noise loud enough that
+it can be heard by all creatures in the range you designated.

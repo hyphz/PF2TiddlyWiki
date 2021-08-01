@@ -1,0 +1,14 @@
+created: 20210801193402106
+item-level: 1
+item-price: 30
+mod-track: +2 circumstance if target hasn't removed mark.
+modified: 20210801193509202
+tags: Consumable Mechanical Snare Trap Item
+title: Marking Snare
+type: text/vnd.tiddlywiki
+
+This snare is often used to mark intruders for later tracking or identification. 
+
+When you create this snare, you must decide whether to make it a dye or a scent marker. Either type of marking grants a +2 circumstance bonus to [[Track]] the creature for up to 24 hours or until the dye or scent is washed off (requiring at least a gallon of water and 10 minutes of scrubbing). 
+
+A creature that enters a square of the snare must attempt a DC 17 [[Reflex]] save. On any failure, it becomes marked. On a critical failure it is also [[Blinded]] until the end of its next turn.

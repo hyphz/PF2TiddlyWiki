@@ -1,0 +1,21 @@
+created: 20210801161703256
+item-bulk: L 1 3 L 1 3
+item-hands: 
+item-level: 8 8 8 16 16 16
+item-price: 4000 4400 5600 80000 88000 112000
+item-variants: [[Standard Buckler]] [[Standard Shield]] [[Tower Shield]] [[High-Grade Buckler]] [[High-Grade Shield]] [[High-Grade Tower Shield]]
+modified: 20210801162002686
+tags: Item Uncommon
+title: Darkwood Shield
+type: text/vnd.tiddlywiki
+
+Darkwood shields are 1 Bulk lighter than normal (or light Bulk if their normal Bulk is 1, with no effect on a shield that normally has light Bulk).
+
+| !Type | !Grade | !Level | !Price | !Bulk | !Darkwood Value | !Hardness | !HP | !BT |
+| Buckler | Standard | 8 | 4000 | L | 500 | 3 | 12 | 6 |
+| Shield | Standard | 8 | 4400 | L | 550 | 5 | 20 | 10 |
+| Tower Shield | Standard | 8 | 5600 | 3 | 700 | 5 | 20 | 10 |
+| Buckler | High | 16 | 80000 | L | 40000 | 6 | 24 | 12 |
+| Shield | High | 16 | 88000 | L | 44000 | 8 | 32 | 16 |
+| Tower Shield | High | 16 | 112000 | 3 | 56000 | 8 | 32 | 16 |
+

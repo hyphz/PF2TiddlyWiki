@@ -1,0 +1,17 @@
+created: 20210801165055960
+item-bulk: 1
+item-hands: 1
+item-level: 18
+item-price: 240000
+item-slot: Shield
+modified: 20210801165155979
+tags: Magical Item Abjuration Rare
+title: Indestructible Shield
+type: text/vnd.tiddlywiki
+
+An indestructible shield is a high-grade adamantine shield (Hardness 13, HP 90) that can withstand just about any damage. 
+
+It can be damaged only by a [[Disintegrate]] spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction, such as a [[Sphere of Annihilation]].
+
+''Craft Requirements'' The raw materials must include at least 4,400 gp of adamantine.
+

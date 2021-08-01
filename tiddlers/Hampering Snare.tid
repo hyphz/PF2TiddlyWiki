@@ -1,0 +1,15 @@
+created: 20210801193025721
+item-level: 1
+item-price: 30
+modified: 20210801193140732
+tags: Consumable Mechanical Snare Trap Item
+title: Hampering Snare
+type: text/vnd.tiddlywiki
+
+You arrange brambles, wires, sticky goo, or other materials to interfere with a creature’s movement. 
+
+The square with this snare, as well as three adjacent squares (to form a 10-foot-by-10-foot area), become [[Difficult Terrain]] when the first creature enters the snare’s square. 
+
+The difficult terrain affects the creature’s movement right away, including its movement into the triggering square, and it lasts for 1d4 rounds after the snare is triggered. 
+
+A creature can use an [[Interact]] action to clear the difficult terrain out of a single square early.

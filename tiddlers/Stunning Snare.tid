@@ -1,0 +1,16 @@
+created: 20210801194300183
+item-level: 12
+item-price: 3200
+modified: 20210801194416389
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage and is [[Flat-Footed]] for 1 round and [[Stunned]] 2.
+s-fumble: The creature takes double damage and is [[Flat-Footed]] for 1 minute and [[Stunned]] 4.
+s-hit: The creature takes half damage and is [[Flat-Footed]] for 1 round and [[Stunned]] 1.
+tags: Consumable Mechanical Snare Trap Item
+title: Stunning Snare
+type: text/vnd.tiddlywiki
+
+You rig a snare to disorient a creature with a quick bash, leaving it with little ability to defend itself. The trap deals 6d6 bludgeoning damage to the first creature to enter its square; that creature must attempt a DC 31 [[Reflex]] save.
+
+{{||SaveSuccessTable}}
+

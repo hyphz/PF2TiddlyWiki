@@ -1,0 +1,22 @@
+created: 20210801165432401
+item-bulk: L
+item-hands: 1
+item-level: 18
+item-price: 180000
+item-slot: Shield
+mod-fortitude: Gives bonus as circumstance bonus vs spells.
+mod-reflex: Gives bonus as circumstance bonus vs spells.
+mod-will: Gives bonus as circumstance bonus vs spells.
+modified: 20210801165957929
+tags: Item Abjuration Command Uncommon Magical
+title: Reflecting Shield
+type: text/vnd.tiddlywiki
+
+This high-grade silver buckler (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. 
+
+The shield functions as a [[Spellguard Shield]] that can also reflect spells. //This means that it adds its bonus as a circumstance bonus to saving throws against spells that target you.//
+
+''Activate'' {{ReactionIcon}} command; ''Frequency'' once per day; ''Trigger'' You are targeted by a spell; ''Requirements'' The reflecting shield is raised; ''Effect'' You attempt to reflect the spell on its caster with the effects of a 9th-level [[Spell Turning]] with a counteract modifier of +40.
+
+''Craft Requirements'' Supply one casting of [[Spell Turning]], and the initial raw materials must include at least 2750 gp of silver.
+

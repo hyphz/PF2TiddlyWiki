@@ -1,0 +1,12 @@
+created: 20210801162101801
+modified: 20210801162110586
+tags: 
+title: DragonResistsTable
+type: text/vnd.tiddlywiki
+
+| !Dragon Type | !Resistance |
+| Black or Copper | <<tag Acid>> |
+| Blue or Bronze | <<tag Electricity>> |
+| Brass, Gold, or Red | <<tag Fire>> |
+| Green | <<tag Poison>> |
+| Silver or White | <<tag Cold>> |

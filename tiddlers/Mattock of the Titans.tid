@@ -1,0 +1,22 @@
+created: 20210801202452307
+item-bulk: 16
+item-hands: 2
+item-level: 19
+item-price: 360000
+mod-athletics: +3 item bonus.
+modified: 20210801202728473
+tags: Item Uncommon Evocation Magical
+title: Mattock of the Titans
+type: text/vnd.tiddlywiki
+
+This 15-foot-long adamantine digging tool is far too big for even a Large creature to wield, though if you’re a Small or larger creature, you can wield it while wearing a [[Belt of Giant Strength]], as though it were appropriately sized for you and had 2 Bulk. The GM might also allow you to wield the mattock if you have some other means of wielding oversized weapons, such as if you’re a Large barbarian with the giant instinct or are a Huge creature.
+
+When it’s used as a weapon, the mattock of the titans has the statistics of a +3 greater [[Striking]] [[Keen]] adamantine greatpick.
+
+While you’re wielding the mattock of the titans, you gain a +3 item bonus to Athletics checks. 
+
+You can use it to loosen or push soft earth at a rate of 1 minute per 5-foot cube or smash through solid stone at the rate of 5 minutes per 5-foot-cube.
+
+''Activate'' {{TwoActions}} [[Interact]]; ''Frequency'' once per day; ''Effect'' You dig furiously with the mattock to non-magically replicate the effects of an [[Earthquake]] spell.
+
+''Craft Requirements'' You are a titan, and the initial raw materials must include 8,100 gp of adamantine.

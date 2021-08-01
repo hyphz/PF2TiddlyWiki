@@ -1,0 +1,11 @@
+created: 20210801192949394
+item-level: 16
+item-price: 15000
+modified: 20210801193018570
+tags: Consumable Mechanical Snare Trap Item
+title: Hail of Arrows Snare
+type: text/vnd.tiddlywiki
+
+When a creature enters the snare’s square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare’s square with massive arrow fire that deals 18d6 piercing damage. 
+
+Creatures in the area must attempt a DC 37 basic [[Reflex]] saving throw.

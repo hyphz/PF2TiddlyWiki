@@ -1,0 +1,11 @@
+created: 20210801194207596
+item-level: 8
+item-price: 750
+modified: 20210801194232159
+tags: Consumable Mechanical Snare Trap Item
+title: Striking Snare
+type: text/vnd.tiddlywiki
+
+You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare’s square. 
+
+The creature must attempt a DC 26 basic [[Reflex]] saving throw. If you choose stones, the snare deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage.

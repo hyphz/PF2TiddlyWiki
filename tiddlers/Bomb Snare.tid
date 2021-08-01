@@ -1,0 +1,20 @@
+created: 20210801172346986
+item-level: 8
+item-price: 750
+modified: 20210801172519853
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage. It also takes all other effects of a direct hit from one of the component bombs.
+s-fumble: The creature takes double damage, plus all other effects of a direct hit, as failure.
+s-hit: The creature takes half damage and no other effects.
+tags: Consumable Mechanical Snare Trap Item
+title: Bomb Snare
+type: text/vnd.tiddlywiki
+
+You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare’s square. 
+
+The target and all creatures in adjacent squares must attempt a DC 26 [[Reflex]] save, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, 6d6 electricity damage from [[Bottled Lightning]]) with no splash damage or other effects.
+
+''Craft Requirements'' Supply three of the same damaging 3rd-level moderate alchemical bomb.
+
+{{||SaveSuccessTable}}
+
