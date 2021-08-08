@@ -1,0 +1,24 @@
+created: 20210808202917560
+item-bulk: -
+item-hands: 0
+item-level: 4 11 17
+item-price: 1000 14000 150000
+item-slot: Eyepiece
+item-variants: Standard Greater Major
+mod-craft: +1-3 item to craft alchemical items.
+modified: 20210808203142517
+modtag-bomb: +1-3 item to attack and ignore lesser cover.
+tags: Item Invested Transmutation Magical
+title: Alchemist Goggles
+type: text/vnd.tiddlywiki
+
+These brass goggles are engraved with flame patterns and have thick, heavy lenses. 
+
+While worn, they give you a +1 item bonus to [[Crafting]] checks to [[Craft]] alchemical items and a +1 item bonus to attack rolls with alchemical bombs. 
+
+You can also ignore lesser cover when making Strikes with alchemical bombs.
+
+| !Type | !Level | !Price | !Bonuses |
+| (standard) | 4 | 1000 | +1 |
+| Greater | 11 | 14000 | +2 |
+| Major | 17 | 150000 | +3 |

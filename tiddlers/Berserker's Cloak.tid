@@ -1,0 +1,21 @@
+created: 20210808203942035
+item-bulk: 1
+item-hands: 0
+item-level: 12 19
+item-price: 20000 400000
+item-slot: Cloak
+item-variants: Standard Greater
+modified: 20210808205711216
+tags: Item Invested Magical Transmutation Morph
+title: Berserker's Cloak
+type: text/vnd.tiddlywiki
+
+This bearskin includes the head and bared teeth of the mighty creature from which it was taken. When worn, the cloak drapes over your head and around your shoulders, imbuing you with a bear’s ferocity. 
+
+If you have the [[Rage]] action, while raging you grow jaws that deal 1d10 piercing damage and claws that deal 1d6 slashing damage and have the [[Agile]] trait. This transformation is a <<tag Morph>> effect, and both the jaws and claws are unarmed attacks in the brawling weapon group. 
+
+You gain the benefits of a +1 [[Weapon Potency]] rune and a [[Striking]] rune with these attacks (gaining a +1 item bonus to attack rolls and increasing the weapon damage dice by one). If you have a greater Berserker's Cloak, you gain the benefits of a +2 Weapon Potency rune and a Greater Striking rune.
+
+If you have an [[Animal Instinct]] and the Bestial Rage instinct ability, instead of gaining these unarmed attacks, your unarmed attacks from the bestial rage instinct ability gain the benefits of a +2 weapon potency rune and a greater striking rune (granting a +2 item bonus to attack rolls and increasing the weapon damage dice by two). If you have a greater Berserker's Cloak, you gain the benefits of a +3 Weapon Potency rune and a Major Striking rune.
+
+''Craft Requirements'' You are a barbarian with the animal instinct.

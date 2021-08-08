@@ -1,0 +1,20 @@
+created: 20210808201352459
+item-bulk: 
+item-hands: 0
+item-level: 17
+item-price: 150000
+item-slot: Circlet
+mod-wisdom: +2 or =18, whichever is better.
+modified: 20210808201540319
+tags: Item Magical Invested Apex Envision Abjuration Fortune
+title: Headband of Inspired Wisdom
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+This simple cloth headband remains pristine and clean at all times, no matter the circumstances. 
+
+When you invest the headband, you either increase your [[Wisdom]] score by 2 or increase it to 18, whichever would give you a higher score. {{ApexLimit}}
+
+''Activate'' {{OneAction}} envision; ''Frequency'' once per day; ''Effect'' When you are considering a course of action, you get a gut feeling about whether it’s a good idea. You gain the effects of an [[Augury]] spell, except that you receive the result from your own instincts rather than an external source.
+
+''Activate'' {{ReactionIcon}} envision (fortune); ''Frequency'' once per hour; ''Trigger'' You fail a saving throw against an effect that makes you [[Confused]], [[Fascinated]], or [[Stupefied]]; ''Effect'' The headband of inspired wisdom clears your mind. You can reroll the saving throw and use the better result.

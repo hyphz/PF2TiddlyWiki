@@ -1,0 +1,19 @@
+created: 20210808202222570
+item-bulk: 1
+item-hands: 0
+item-level: 8
+item-price: 4750
+item-slot: Collar
+modified: 20210808202433652
+tags: Item Invested Companion Primal Transmutation Envision
+title: Collar of Inconspicuousness
+type: text/vnd.tiddlywiki
+virtual-tags: Concentrate
+
+This leather collar’s worn and almost threadbare look belies its magical nature. 
+
+When your companion wears and invests the collar, it gains the ability to change its appearance from that of a ferocious animal into a more inconspicuous form.
+
+''Activate'' {{OneAction}} envision; ''Effect'' You touch your animal companion to transform it into a nonthreatening Tiny creature of the same family or a similar creature (for instance, a house cat instead of a tiger, or a puppy instead of a wolf). This has the effects of [[Pest Form]] (2nd level, or 4th level if your companion can fly). The effect lasts until you Dismiss it.
+
+//Although the effect describes touching, the action is tagged <<tag Envision>> not <<tag Interact>>.//

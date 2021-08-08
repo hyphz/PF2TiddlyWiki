@@ -1,0 +1,27 @@
+created: 20210808204459066
+item-bulk: L
+item-hands: 0
+item-level: 7 14
+item-price: 3400 42500
+item-slot: Shoes
+item-variants: Standard Greater
+mod-high_jump: +2-3 item.
+mod-leap: Move 5' further forward or 3' higher.
+mod-long_jump: +2-3 item.
+mod-speed: +5'-10' bonus.
+modified: 20210808205655019
+tags: Item Invested Magical Transmutation
+title: Boots of Bounding
+type: text/vnd.tiddlywiki
+
+The springy soles of these sturdy leather boots cushion your feet and make each step lighter.
+
+These boots give you a +5-foot item bonus to your Speed and a +2 item bonus to [[Athletics]] checks to [[High Jump]] and [[Long Jump]]. 
+
+In addition, when you use the [[Leap]] action, you can move 5 feet further if jumping horizontally or 3 feet higher if jumping vertically.
+
+| !Type | !Level | !Price | !Speed Bonus | !Jump Bonus |
+| (standard) | 7 | 3400 | +5' | +2 |
+| Greater | 14 | 42500 | +10' | +3 |
+
+//[[Horseshoes of Speed]] have the same effect, but on your horse. //

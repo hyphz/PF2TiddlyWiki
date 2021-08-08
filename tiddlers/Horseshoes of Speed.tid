@@ -1,0 +1,22 @@
+created: 20210808202449766
+item-bulk: 1
+item-hands: 0
+item-level: 7 14
+item-price: 3400 42500
+item-slot: Horseshoes
+item-variants: Standard Greater
+mod-high_jump: +2/3 item bonus to Athletics.
+mod-leap: Can leap 5' further horizontally or 3' higher vertically.
+mod-long_jump: +2/3 item bonus to Athletics.
+modified: 20210808205047004
+tags: Item Invested Companion Primal Transmutation
+title: Horseshoes of Speed
+type: text/vnd.tiddlywiki
+
+When you affix these simple iron horseshoes to the hooves of an ordinary horse or a quadrupedal animal companion and the animal companion invests them, that creature gains a +5-foot item bonus to its land Speed and a +2 item bonus to [[Athletics]] checks to [[High Jump]] and [[Long Jump]]. 
+
+In addition, when it [[Leap]]s, it can move 5 feet farther if jumping horizontally or 3 feet higher if jumping vertically.
+
+Greater Horseshoes of Speed give a +10 foot bonus to Speed, and a +3 item bonus to Athletics.
+
+//These are a companion version of [[Boots of Bounding]].//

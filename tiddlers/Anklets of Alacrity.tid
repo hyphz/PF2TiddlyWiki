@@ -1,0 +1,19 @@
+created: 20210808195701073
+item-bulk: -
+item-hands: 0
+item-level: 17
+item-price: 150000
+item-slot: Anklets
+mod-acrobatics: +3 item.
+mod-dexterity: +2 or =18, whichever is better.
+mod-water_walk: +20' status when activated.
+modified: 20210808195906529
+tags: Item Magical Transmutation Invested Apex Interact
+title: Anklets of Alacrity
+type: text/vnd.tiddlywiki
+
+These gem-studded golden anklets give you a +3 item bonus to [[Acrobatics]] checks. 
+
+When you invest the anklets, you either increase your [[Dexterity]] score by 2 or increase it to 18, whichever would give you a higher score. {{ApexLimit}}
+
+''Activate'' {{OneAction}} Interact; ''Frequency'' once per day; ''Effect'' You click the anklets together, gaining a +20-foot status bonus to all your Speeds and the effects of [[Water Walk]] for the next 10 minutes.

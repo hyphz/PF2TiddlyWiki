@@ -1,0 +1,20 @@
+created: 20210808205342512
+item-bulk: L
+item-hands: 0
+item-level: 5 11
+item-price: 1450 12500
+item-slot: Shoes
+item-variants: Standard Greater
+mod-acrobatics: +1-2 item bonus.
+mod-difficult_terrain: Ignore when activated.
+modified: 20210808205639511
+tags: Item Invested Magical Transmutation
+title: Boots of Elvenkind
+type: text/vnd.tiddlywiki
+
+These tall, pointed boots are made from soft, supple black or green leather and are decorated with trim and buckles of gold. 
+
+When worn, the boots allow you to move more nimbly, granting you a +1 item bonus to [[Acrobatics]] checks. If you have greater Boots of Elvenkind, they grant a +2 item bonus.
+
+''Activate'' {{FreeAction}} envision; ''Frequency'' once per hour; ''Effect'' Until the end of your turn, you ignore [[Difficult Terrain]] when moving on the ground. If you’re wearing a [[Cloak of
+Elvenkind]], you also gain a +5-foot status bonus to your land Speed until the end of your turn. If you have greater Boots of Elvenkind and are wearing a Cloak of Elvenkind, they grant the effects of [[Pass Without Trace]] (DC 30) in forest environments.

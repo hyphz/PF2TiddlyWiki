@@ -1,0 +1,24 @@
+created: 20210808203611025
+item-bulk: L
+item-hands: 0
+item-level: 9
+item-price: 6500
+item-slot: Belt
+mod-intimidation: +1 circumstance vs giants and orcs.
+mod-make_an_impression: +1 circumstance vs dwarves.
+mod-request: +1 circumstance vs dwarves.
+modified: 20210808203851851
+tags: Item Invested Magical Uncommon Enchantment Interact
+title: Belt of the Five Kings
+type: text/vnd.tiddlywiki
+virtual-tags: Manipulate
+
+Made from interlocking plates of silver and gold, this heavy belt bears stylized miniature images of five kingly dwarves. 
+
+You gain a +1 circumstance bonus to [[Diplomacy]] checks to [[Make an Impression]] with dwarves or make a [[Request]] from dwarves. 
+
+You also gain a +1 circumstance bonus to [[Intimidation]] checks against giants and orcs.
+
+The belt also grants you [[Darkvision]] and the ability to understand, speak, and write the Dwarven language.
+
+''Activate'' {{OneAction}} Interact; ''Frequency'' once per day; ''Requirements'' You are a dwarf; ''Effect'' You tighten the belt one notch to gain temporary Hit Points equal to your level and grant allies within 20 feet of you [[Darkvision]]. Both effects last for 10 minutes.

@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210606142900970
+modified: 20210808201923502
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -34,6 +34,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Command]]">
 <tr><th>[[Command]]</th><td>You must speak loudly to activate this item; <<tag Auditory>> and <<tag Concentrate>>.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Companion]]">
+<tr><th>[[Companion]]</th><td>Works only for animal companions, familiars, and similar.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Composition]]">
 <tr><th>[[Composition]]</th><td>Inherits traits from a [[Perform]] style, 1 per turn, only 1 active at once.</td></tr>
@@ -105,10 +108,10 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Injury]]</th><td>Affects target struck with piercing or slashing damage. Poison lost on fumble but not miss.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Interact]]">
-<tr><th>[[Interact]]</th><td>You must [[Interact]] with this item to activate it.</td></tr>
+<tr><th>[[Interact]]</th><td>You must [[Interact]] with this item to activate it. This has <<tag Manipulate>> and needs a free hand.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Invested]]">
-<tr><th>[[Invested]]</th><td>This consumes one of your magical investment slots.</td></tr>
+<tr><th>[[Invested]]</th><td>This consumes one of your magical investment slots (normally 10, or 2 for a companion).</td></tr>
 </$list>
 <$list filter="[all[current]tag[Illusion]]">
 <tr><th>[[Illusion]]</th><td>It may be possible to disbelieve this with [[Perception]] vs its DC.</td></tr>

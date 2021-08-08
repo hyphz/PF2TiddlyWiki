@@ -1,0 +1,19 @@
+created: 20210808200334555
+item-bulk: L
+item-hands: 0
+item-level: 17
+item-price: 150000
+item-slot: Belt
+mod-constitution: +2 or =18, whichever is better.
+modified: 20210808200521809
+tags: Item Magical Invested Apex Interact Necromancy
+title: Belt of Regeneration
+type: text/vnd.tiddlywiki
+
+This belt is crafted from rubbery troll hide that’s green and orange in color. 
+
+You gain 15 temporary Hit Points the first time you invest the belt in a day. 
+
+When you invest the belt, you either increase your Constitution score by 2 or increase it to 18, whichever would give you a higher score. {{ApexLimit}}
+
+''Activate'' {{OneAction}} Interact; ''Frequency'' once per day; ''Effect'' You tighten the belt one notch to gain a [[Regeneration]] effect. For 2d4 rounds, at the start of your turn each round, you recover 15 Hit Points unless you took <<tag Acid>> or <<tag Fire>> damage since the start of your previous turn.

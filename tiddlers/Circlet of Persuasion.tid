@@ -1,0 +1,22 @@
+created: 20210808200546344
+item-bulk: 
+item-hands: 0
+item-level: 17
+item-price: 150000
+item-slot: Circlet
+mod-charisma: +2 or =18, whichever is better.
+mod-deception: +2 item.
+mod-diplomacy: +2 item.
+modified: 20210808200917914
+tags: Item Magical Invested Apex Enchantment Envision
+title: Circlet of Persuasion
+type: text/vnd.tiddlywiki
+
+This elegant silver band often resembles curling fig leaves and fits around your brow. 
+
+You gain a +2 item bonus to [[Deception]] and [[Diplomacy]] checks.
+
+When you invest the circlet, you either increase your [[Charisma]] score by 2 or increase it to 18,
+whichever would give you a higher score. {{ApexLimit}}
+
+''Activate'' {{TwoActions}} envision; ''Frequency'' once per hour; ''Effect'' You cast a 4th-level [[Charm]] spell (DC 38).
