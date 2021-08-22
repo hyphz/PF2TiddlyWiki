@@ -1,0 +1,25 @@
+created: 20210822193508901
+item-bulk: -
+item-hands: 0
+item-level: 10 17
+item-price: 9000 140000
+item-slot: Shoes
+item-variants: Standard Greater
+mod-acrobatics: +2-3 item.
+mod-cat_fall: Gain benefits one Acrobatics rank better.
+mod-grab_an_edge: Can grab an edge without free hands.
+mod-tumble_through: +1-2 circumstance.
+modified: 20210822193835867
+tags: Item Invested Magical Abjuration Command
+title: Daredevil Boots
+type: text/vnd.tiddlywiki
+
+These brightly colored, soft-soled boots motivate you to perform risky stunts and grant you the agility to succeed. 
+
+The boots grant you a +2 (+3 for Greater) item bonus to [[Acrobatics]] checks and a +1 (+2 for Greater) circumstance bonus to checks to [[Tumble Through]] an enemy’s space.
+
+The boots can grip solid surfaces and help you avoid a fall, allowing you to use the [[Grab an Edge]] reaction even if your hands aren’t free. 
+
+You treat falls as 10 feet shorter or, if you have the [[Cat Fall]] feat, treat your proficiency rank in [[Acrobatics]] as one degree better to determine the benefits of that feat. If you have Cat Fall and are already legendary in Acrobatics, you can choose the speed of your fall, from 60 feet per round up to normal falling speed.
+
+''Greater Boots only: Activate:'' {{TwoAction}} Command; ''Frequency'' Once per day; ''Effect'' The boots cast [[Freedom of Movement]] on you.

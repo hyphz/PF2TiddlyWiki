@@ -1,0 +1,14 @@
+created: 20210822204447344
+item-bulk: L
+item-hands: 0
+item-level: 2
+item-price: 300
+item-slot: Worn
+modified: 20210822204653944
+tags: Item Invested Magical Command Evocation Envision
+title: Hand of the Mage
+type: text/vnd.tiddlywiki
+
+This mummified elf hand hangs on a golden chain, its gnarled fingers locked in a peculiar pattern.
+
+''Activate'' {{TwoAction}} command, envision; ''Effect'' You cast [[Mage Hand]].

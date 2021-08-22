@@ -1,0 +1,16 @@
+created: 20210822194558267
+item-bulk: -
+item-hands: 0
+item-level: 4 10
+item-price: 850 9000
+item-slot: Mask
+item-variants: Standard Greater
+mod-intimidation: +1-2 item.
+modified: 20210822194727348
+tags: Item Invested Magical Enchantment Interact
+title: Demon Mask
+type: text/vnd.tiddlywiki
+
+This terrifying mask is crafted in the visage of a leering demon and grants a +1 (Greater: +2) item bonus to [[Intimidation]] checks.
+
+''Activate'' {{TwoAction}} Interact; ''Frequency'' once per day; Effect The mask casts a [[Fear]] spell with a DC of 20. A greater Demon Mask casts a 3rd-level Fear spell with a DC of 29.

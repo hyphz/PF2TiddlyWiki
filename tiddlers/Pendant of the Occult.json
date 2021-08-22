@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20210822212909964",
+        "text": "This amulet is hollow and shaped in the form of an unblinking eye. Its cavity typically holds some fragment of occult text. \n\nWhile wearing the pendant, you gain a +1 (Greater: +2) item bonus to [[Occultism]] checks, and you can cast the [[Guidance]] cantrip as an occult innate spell.\n\n''Greater Pendant only: Activate'' 10 minutes ([[Cast a Spell]]); ''Frequency'' once per day; ''Effect'' You cast a 4th-level [[Dream Message]] spell.\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Pendant of the Occult",
+        "tags": "Item Invested Divination Occult",
+        "modified": "20210822213051455",
+        "item-slot": "Worn",
+        "item-price": "600 6500",
+        "item-level": "3 9 ",
+        "item-hands": "0",
+        "item-bulk": "-",
+        "item-variants": "Standard Greater"
+    }
+]

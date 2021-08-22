@@ -1,0 +1,19 @@
+created: 20210822190327096
+item-bulk: L
+item-hands: 0
+item-level: 6 10
+item-price: 2000 8500
+item-slot: Collar
+item-variants: Standard Greater
+mod-deafened: DC for Auditory action is 3 not 5.
+mod-society: +1-2 item.
+modified: 20210822190538908
+tags: Item Invested Magical Enchantment
+title: Choker of Elocution
+type: text/vnd.tiddlywiki
+
+This platinum choker bears characters from a language’s alphabet, and it gives knowledge of that language and the associated culture’s customs. 
+
+You gain a +1 item bonus to [[Society]] checks and the ability to understand, speak, and write the chosen language. A greater Choker of Elocution has an item bonus of +2, bears characters from three languages and grants fluency in all three.
+
+Your excellent elocution reduces the DC of the flat check to perform an [[Auditory]] action while [[Deafened]] from 5 to 3.

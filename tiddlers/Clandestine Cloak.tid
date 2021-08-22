@@ -1,0 +1,21 @@
+created: 20210822190628331
+item-bulk: L
+item-hands: 0
+item-level: 6 10
+item-price: 2300 9000
+item-slot: Cloak
+item-variants: Standard Greater
+mod-deception: +1-2 item to impersonate a background character when active.
+mod-diplomacy: -1 item when active.
+mod-intimidation: -1 item when active.
+mod-stealth: +1-2 item when active.
+modified: 20210822191745447
+tags: Item Invested Magical Uncommon Illusion Interact Envision
+title: Clandestine Cloak
+type: text/vnd.tiddlywiki
+
+When you pull up the hood of this nondescript gray cloak (an [[Interact]] action), you become drab and uninteresting, gaining a +1 item bonus to [[Stealth]] checks and to [[Deception]] checks to Impersonate a forgettable background character, such as a servant, but also taking a –1 item penalty to [[Diplomacy]] and [[Intimidation]] checks.
+
+If you have a Greater Clandestine Cloak, the item bonus is +2.
+
+''Activate'' {{TwoAction}} envision, Interact; ''Frequency'' once per day; ''Effect'' You pull the cloak’s hood up and gain the benefits of [[Nondetection]] for 1 hour or until you pull the hood back down, whichever comes first. If you have a greater Clandestine Cloak, you gain the benefits of 5th-level [[Nondetection]] for 8 hours.

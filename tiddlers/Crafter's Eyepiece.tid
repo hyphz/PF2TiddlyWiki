@@ -1,0 +1,22 @@
+created: 20210822192730615
+item-bulk: -
+item-hands: 0
+item-level: 3 11
+item-price: 600 12000
+item-slot: Eyepiece
+item-variants: Standard Greater
+mod-crafting: +1-2 item.
+mod-repair: Restore 15 HP per rank, not 10.
+modified: 20210822192953523
+tags: Item Invested Magical Interact Transmutation
+title: Crafter's Eyepiece
+type: text/vnd.tiddlywiki
+
+This rugged metal eyepiece etched with square patterns is designed to be worn over a single eye. Twisting the lens reveals a faint three-dimensional outline of an item you plan to build or repair, with helpful labels on the component parts. 
+
+While worn, this eyepiece gives you a +1 item bonus to [[Crafting]] checks, or +2 if you have a greater eyepiece.
+
+When you [[Repair]] an item, increase the Hit Points restored by 15 per proficiency rank instead of 10.
+
+''Greater Eyepiece Only:'' ''Activate'' 1 minute (Interact); ''Frequency'' once per day; ''Effect'' You
+calibrate the eyepiece to have it cast a 5th-level [[Creation (Spell)]] over the course of 1 minute to construct a temporary item.

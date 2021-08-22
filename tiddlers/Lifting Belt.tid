@@ -1,0 +1,18 @@
+created: 20210822211307136
+item-bulk: L
+item-hands: 0
+item-level: 4
+item-price: 800
+item-slot: Belt
+mod-athletics: +1 item.
+mod-bulk: Can carry 6 + Str modifier without encumbering, and up to 11+Str.
+modified: 20210822211800494
+tags: Item Invested Magical Interact Transmutation
+title: Lifting Belt
+type: text/vnd.tiddlywiki
+
+This wide leather belt grants you a +1 item bonus to [[Athletics]] checks and increases the amount you can easily carry. 
+
+You can carry Bulk equal to 6 + your [[Strength]] modifier before becoming encumbered, and you can hold and carry a total Bulk up to 11 + your Strength modifier.
+
+''Activate'' {{TwoAction}} Interact; ''Effect'' You lift an object of up to 8 Bulk as though it were weightless. This requires two hands, and if the object is locked or otherwise held in place, you can attempt to [[Force it Open|Force Open]] using [[Athletics]] as part of this activation. The object still has its full weight and Bulk for all other purposes—you just ignore that weight. The effect lasts until the end of your next turn.

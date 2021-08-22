@@ -1,0 +1,16 @@
+created: 20210822173228588
+item-bulk: L
+item-hands: 0
+item-level: 10
+item-price: 9800
+item-slot: Cloak
+modified: 20210822191800773
+tags: Item Invested Magical Uncommon Conjuration Interact
+title: Cape of the Mountebank
+type: text/vnd.tiddlywiki
+
+This bright red-and-gold cape is often interlaced with glittery threads and serves as a distraction.
+
+While wearing the cape, you gain a +2 item bonus to [[Deception]] checks.
+
+''Activate'' {{TwoAction}} Interact; ''Frequency'' once per day; ''Effect'' You cast [[Dimension Door]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Concealed]] until they leave the smoke or the end of your next turn, at which point the smoke dissipates. Strong winds immediately disperse the smoke.

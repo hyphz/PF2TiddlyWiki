@@ -1,0 +1,17 @@
+created: 20210822160400382
+item-bulk: L
+item-hands: 0
+item-level: 3
+item-price: 520 6500
+item-slot: Bracers
+item-variants: Standard Greater
+modified: 20210822160618003
+tags: Item Invested Magical Abjuration Interact
+title: Bracers of Missile Deflection
+type: text/vnd.tiddlywiki
+
+These bracers are made from plates of durable mithral and gleam like the summer sun.
+
+''Activate'' {{ReactionIcon}} Interact; ''Frequency'' once per day; ''Trigger'' A ranged weapon attack hits you but doesn’t critically hit; ''Requirements'' You are aware of the attack and not [[Flat‑Footed]]; ''Effect'' The bracers send the missile off-course. You gain a +2 circumstance bonus to AC against the triggering attack. If this would cause the attack to be a failure, the attack misses you.
+
+Greater Bracers of Missile Deflection can be activated once every 10 minutes.

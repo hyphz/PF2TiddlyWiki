@@ -1,0 +1,19 @@
+created: 20210822201040256
+item-bulk: L
+item-hands: 0
+item-level: 5 11 18
+item-price: 1500 12500 200000
+item-slot: Gloves
+item-variants: Standard Greater Major
+mod-perception: +1-3 item for sight.
+modified: 20210822201339596
+tags: Item Invested Magical Transmutation Interact
+title: Goggles of Night
+type: text/vnd.tiddlywiki
+
+The opaque crystal lenses of these sleek goggles do not obscure vision, but rather enhance it. 
+
+While wearing the goggles, you gain a +1 (Greater: +2, Major: +3) item bonus to [[Perception]] checks involving sight.
+
+''Activate'' {{OneAction}} Interact; ''Frequency'' once per day; ''Effect'' Rotating the lenses 90 degrees, you gain [[Darkvision]] for 1 hour. With Greater Goggles, the darkvision lasts until you rotate the lenses back or the item is no longer invested by you. With Major Goggles, you gain [[Greater Darkvision]] and the benefit of Greater Goggles.
+

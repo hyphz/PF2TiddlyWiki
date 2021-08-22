@@ -1,0 +1,16 @@
+created: 20210822200801698
+item-bulk: L
+item-hands: 0
+item-level: 7
+item-price: 3400
+item-slot: Gloves
+modified: 20210822200915644
+tags: Item Invested Magical Transmutation Uncommon Extradimensional Interact
+title: Gloves of Storing
+type: text/vnd.tiddlywiki
+
+An item can be stored inside these supple leather gloves, held in an extradimensional space. When an item is inside the glove, an image of the item appears as a simple, stitched pattern on the back of each glove. Many gloves of storing are found with an item already inside.
+
+''Activate'' {{OneAction}} Interact; ''Requirements'' No item is stored in the gloves; ''Effect'' One item you’re holding with a Bulk of 1 or less vanishes into the gloves’ extradimensional space.
+
+''Activate'' {{FreeAction}} Interact; ''Requirements'' An item is stored in the gloves, and you have a free hand; ''Effect'' The item stored in the gloves appears in your hand. The gloves can’t be activated again for 1 minute.

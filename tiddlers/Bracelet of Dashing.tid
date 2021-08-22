@@ -1,0 +1,15 @@
+created: 20210822153232171
+item-bulk: L
+item-hands: 0
+item-level: 3
+item-price: 580
+item-slot: Bracelet
+mod-acrobatics: +1 item.
+modified: 20210822153334339
+tags: Item Invested Magical Transmutation Command
+title: Bracelet of Dashing
+type: text/vnd.tiddlywiki
+
+This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 item bonus to [[Acrobatics]] checks.
+
+''Activate'' {{OneAction}} Command; ''Frequency'' once per day; ''Effect'' You gain a +10-foot status bonus to Speed for 1 minute.

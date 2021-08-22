@@ -1,5 +1,5 @@
 created: 20210207203857246
-modified: 20210320181100837
+modified: 20210822161323049
 tags: 
 title: Item
 type: text/vnd.tiddlywiki
@@ -16,6 +16,8 @@ See also [[Rune]]s.
 <$list filter="[list[!!item-level]nth<index>match<level>]" variable="matchedlevel">
 <$list filter="[list[!!item-variants]nth<index>!match[Standard]]"><<currentTiddler>></$list>
 <$link />
+<$list filter="[all[current]tag[Uncommon]]">(Uncommon)</$list>
+<$list filter="[all[current]tag[Rare]]">(Rare)</$list>
 <br>
 </$list>
 </$list>

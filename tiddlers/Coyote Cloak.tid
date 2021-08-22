@@ -1,0 +1,19 @@
+created: 20210822192446739
+item-bulk: -
+item-hands: 0
+item-level: 3 9
+item-price: 600 6500
+item-slot: Cloak
+item-variants: Standard Greater
+mod-subsist: Feed 2x or 4x as many creatures on crit.
+mod-survival: +1-2 item.
+modified: 20210822192626757
+tags: Item Invested Magical Divination
+title: Coyote Cloak
+type: text/vnd.tiddlywiki
+
+This dusty coat is made of mangy brown-and-gray coyote fur.
+
+You gain a +1 item bonus to [[Survival]] checks, or +2 for a Greater cloak.
+
+If you critically succeed at your Survival check to [[Subsist]], you can feed twice as many additional creatures, or four times as many for a Greater cloak.

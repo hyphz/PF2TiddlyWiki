@@ -1,0 +1,21 @@
+created: 20210822191428612
+item-bulk: L
+item-hands: 0
+item-level: 7 12
+item-price: 3600 17500
+item-slot: Cloak
+item-variants: Standard Greater
+mod-sneak: Greater Cloak and Boots can sneak when observed in forest.
+mod-stealth: +1-2 item when active.
+modified: 20210822191738382
+tags: Item Invested Magical Illusion Interact
+title: Cloak of Elvenkind
+type: text/vnd.tiddlywiki
+
+This cloak is deep green with a voluminous hood, embroidered with gold trim and symbols significant in elven culture. 
+
+The cloak allows you to cast the [[Ghost Sound]] cantrip as an arcane innate spell. 
+
+When you adjust the cloak’s clasp (an [[Interact]] action), the cloak transforms to match the environment around you and muffles your sounds, granting you a +1 item bonus to [[Stealth]] checks, or +2 if you have a Greater Cloak of Elvenkind.
+
+''Activate'' {{TwoAction}} Interact; ''Frequency'' once per day; ''Effect'' You draw the hood up and gain the effects of [[Invisibility]], with the spell’s normal duration or until you pull the hood back down, whichever comes first. If you’re also wearing [[Boots of Elvenkind]], you can activate this ability twice per day. If you have a greater cloak of elvenkind, you gain the benefits of 4th-level [[Invisibility]], and if you are also wearing Boots of Elvenkind you can [[Sneak]] in forest environments even when creatures are currently observing you.

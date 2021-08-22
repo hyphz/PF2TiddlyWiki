@@ -1,0 +1,16 @@
+created: 20210822205204465
+item-bulk: -
+item-hands: 0
+item-level: 2 7
+item-price: 300 3400
+item-slot: Headwear
+item-variants: Standard Greater
+modified: 20210822205332449
+tags: Item Invested Magical Illusion Interact
+title: Hat of Disguise
+type: text/vnd.tiddlywiki
+
+This ordinary-looking hat allows you to cloak yourself in illusions.
+
+''Activate'' 1 minute (Greater: {{TwoAction}}) (Interact); ''Frequency'' once per day (Greater: any number of times); ''Effect'' The hat casts a 1st-level [[Illusory Disguise]] (Greater: 2nd-level) spell on you. While setting up the disguise, you can magically alter the hat to appear as a comb, ribbon, helm, or other piece of headwear.
+

@@ -1,0 +1,18 @@
+created: 20210822195825497
+item-bulk: -
+item-hands: 0
+item-level: 17
+item-price: 150000
+item-slot: Eyepiece
+m-save: Will
+modified: 20210822200107037
+tags: Item Invested Magical Enchantment Emotion Fear Mental
+title: Dread Blindfold
+type: text/vnd.tiddlywiki
+
+When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to [[Intimidation]] checks and [[Darkvision]]. You can see through the blindfold, but only using darkvision.
+
+The first time a particular creature sees you in a day, it must succeed at a DC 37 [[Will]] save or be [[Frightened]] 1. This is an <<tag Emotion>>, <<tag Fear>>, and <<tag Mental>> effect, and your allies become immune to it after about a week.
+
+''Activate'' {{FreeAction}} command; ''Frequency'' once per minute; ''Trigger'' You damage a creature with a [[Strike]]; ''Effect'' Your target is gripped by intense fear. This has the effect of a
+DC 37 [[Phantasmal Killer]] spell, but it is an enchantment instead of an illusion. The creature is then temporarily immune for 24 hours.

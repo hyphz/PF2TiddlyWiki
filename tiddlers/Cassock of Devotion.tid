@@ -1,0 +1,21 @@
+created: 20210822173622050
+item-bulk: L
+item-hands: 0
+item-level: 11
+item-price: 11500
+item-slot: Garment
+mod-religion: +2 item.
+modified: 20210822190159810
+tags: Item Uncommon Divine Envision Focused
+title: Cassock of Devotion
+type: text/vnd.tiddlywiki
+
+Each cassock of devotion depicts scenes related to the domains of a certain deity. 
+
+It serves as a religious symbol of that deity, and it doesn’t need to be wielded to provide that benefit. 
+
+You gain a +2 item bonus to [[Religion]] checks and a +1 item bonus to the divine skill of the deity to whom the cassock is dedicated //(these are not listed in this database because the Lost Omens deities are not Open Game Content)//.
+
+''Activate'' {{FreeAction}} Envision; ''Frequency'' once per day; ''Effect'' Gain 1 Focus Point, which you can spend only to cast a cleric domain spell for a domain belonging to the deity the cassock is dedicated to. If you don’t spend this point by the end of this turn, it is lost.
+
+''Craft Requirements'' You are a cleric who worships the deity tied to the cassock.

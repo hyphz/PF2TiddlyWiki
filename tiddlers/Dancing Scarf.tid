@@ -1,0 +1,19 @@
+created: 20210822193048688
+item-bulk: -
+item-hands: 0
+item-level: 3 9
+item-price: 600 6500
+item-slot: Belt
+item-variants: Standard Greater
+mod-performance: +1-2 item to dance.
+modified: 20210822193319134
+tags: Item Invested Magical Interact Illusion Visual
+title: Dancing Scarf
+turn-sun: Concealment wears off.
+type: text/vnd.tiddlywiki
+
+This long and billowing scarf is typically woven of silk or sheer fabric and adorned with bells or other jangling bits of shiny metal. 
+
+It grants a +1 item bonus to [[Performance]] checks to dance, or +2 for a Greater scarf.
+
+''Activate'' {{OneAction}} Interact; ''Requirements'' On your most recent action, you succeeded at a [[Performance]] check to dance; ''Effect'' You become [[Concealed]] until the beginning of your next turn. If you have a greater scarf, you can also [[Stride]] up to half your speed, or [[Step]].

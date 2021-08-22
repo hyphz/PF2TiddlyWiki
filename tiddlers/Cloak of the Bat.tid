@@ -1,0 +1,19 @@
+created: 20210822191933230
+item-bulk: L
+item-hands: 0
+item-level: 10 17
+item-price: 9500 130000
+item-slot: Cloak
+item-variants: Standard Greater
+mod-maneuver_in_flight: +2-3 item.
+mod-stealth: +2-3 item.
+modified: 20210822192418620
+tags: Item Invested Magical Interact Transmutation Command
+title: Cloak of the Bat
+type: text/vnd.tiddlywiki
+
+Sewn from several long strips of luxurious brown and black silk, this cloak grants you a +2 item bonus to [[Stealth]] checks, as well as to [[Acrobatics]] checks to [[Maneuver in Flight]]. A Greater cloak of the Bat gives a +3 bonus.
+
+You can also use your feet to hang from any surface that can support your weight, without requiring any check, though you still must attempt [[Athletics]] checks to [[Climb]] in order to move around while inverted.
+
+''Activate'' {{TwoAction}} command, Interact; ''Frequency'' once per day, or any number of times for a Greater cloak; ''Effect'' You can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by casting a 4th-level [[Pest Form]] spell on you.

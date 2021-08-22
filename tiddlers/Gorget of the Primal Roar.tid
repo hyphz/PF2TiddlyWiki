@@ -1,0 +1,25 @@
+a-crit: The creature is [[Frightened]] 2.
+a-defense: Will
+a-fail: The creature is unaffected.
+a-hit: The creature is [[Frightened]] 1.
+a-skill: Intimidation
+created: 20210822201428784
+item-bulk: L
+item-hands: 0
+item-level: 11
+item-price: 1250
+item-slot: Collar
+mod-intimidation: +2 item.
+modified: 20210822204020600
+tags: Item Invested Magical Enchantment Command
+title: Gorget of the Primal Roar
+type: text/vnd.tiddlywiki
+
+This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to [[Intimidation]] checks.
+
+''Activate'' {{OneAction}} command; ''Frequency'' once during the duration of each <<tag Polymorph>> effect; ''Requirements'' You’re in a non‑humanoid form via a polymorph effect;
+''Effect'' You unleash a bestial roar, attempting a single [[Intimidation]] check compared to the [[Will]] DCs of all enemies within 30 feet to impose the effects below. 
+
+Though this activation has the command component, you can issue this command without the need for language.
+
+{{||ActionSuccessTable}}

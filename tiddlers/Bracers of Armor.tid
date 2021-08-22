@@ -1,0 +1,25 @@
+created: 20210822153526433
+item-bulk: L
+item-hands: 0
+item-level: 8 14 20
+item-price: 4500 40000 600000
+item-slot: Bracers
+item-variants: [[Type I]] [[Type II]] [[Type III]]
+mod-ac: +1-3 item.
+mod-dexterity: Maximum modifier +5.
+mod-fortitude: +1-3 item.
+mod-reflex: +1-3 item.
+mod-will: +1-3 item.
+modified: 20210822155834379
+tags: Item Invested Magical Abjuration
+title: Bracers of Armor
+type: text/vnd.tiddlywiki
+
+These stiff leather armguards grant you a +1 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5. 
+
+You can affix talismans to bracers of armor as though they were light armor.
+
+| !Type | !Level | !Price | !Item Bonus |
+| I | 8 | 4500 | +1 |
+| II | 14 | 40000 | +2 |
+| III | 20 | 600000 | +3 |

@@ -1,0 +1,18 @@
+created: 20210822205858885
+item-bulk: L
+item-hands: 0
+item-level: 4 9
+item-price: 800 7000
+item-slot: Gloves
+item-variants: Standard Greater
+mod-medicine: +1-2 item.
+modified: 20210822210048868
+tags: Item Invested Magical Necromancy Positive Healing
+title: Healer's Gloves
+type: text/vnd.tiddlywiki
+
+These clean, white, gloves never show signs of blood, even when used to stitch up wounds or treat other ailments. 
+
+They give you a +1 {Greater: +2) item bonus to [[Medicine]] checks.
+
+''Activate'' {{OneAction}} Interact; ''Frequency'' once per day; ''Effect'' You can soothe the wounds of a willing, living, adjacent creature, restoring 2d6+7 Hit Points (Greater: 4d6+15) to that creature. This is a <<tag Positive>> <<tag Healing>> effect. You can’t harm undead with this healing.

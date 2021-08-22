@@ -1,0 +1,17 @@
+created: 20210822194739973
+item-bulk: -
+item-hands: 0
+item-level: 5
+item-price: 1250
+item-slot: Worn
+mod-diplomacy: +1-2 item.
+modified: 20210822194849528
+tags: Item Invested Magical Enchantment
+title: Diplomat's Badge
+type: text/vnd.tiddlywiki
+
+When displayed prominently, this brass badge makes creatures find you more agreeable. 
+
+You gain a +1 item bonus to [[Diplomacy]] checks.
+
+''Activate'' {{OneAction}} [[Recall Knowledge]]; ''Frequency'' once per day; ''Effect'' Attempt a DC 20 check to [[Recall Knowledge]] about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) If you succeed, the badge’s bonus increases to +2 for [[Diplomacy]] checks with creatures of that group for the rest of the day.

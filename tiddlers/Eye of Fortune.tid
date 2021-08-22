@@ -1,0 +1,16 @@
+created: 20210822200352527
+item-bulk: L
+item-hands: 0
+item-level: 13
+item-price: 27000
+item-slot: Eyepiece
+modified: 20210822200528360
+tags: Item Invested Envision Divination Magical Fortune
+title: Eye of Fortune
+type: text/vnd.tiddlywiki
+
+Adherents of //the// god of the hunt create these magical eye patches. 
+
+An eye of fortune has a jeweled eye symbol on its front, allowing you to magically see through the eye patch as though it were transparent.
+
+''Activate'' {{FreeAction}} envision (fortune); ''Trigger'' You attack a [[Concealed]] or [[Hidden]] creature and haven’t attempted the flat check yet; ''Effect'' You can roll the flat check for the concealed or hidden condition twice and use the higher result.

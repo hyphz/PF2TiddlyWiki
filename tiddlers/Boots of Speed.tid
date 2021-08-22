@@ -1,0 +1,16 @@
+created: 20210822153047407
+item-bulk: L
+item-hands: 0
+item-level: 13
+item-price: 30000
+item-slot: Shoes
+modified: 20210822153346535
+tags: Item Invested Magical Transmutation Interact
+title: Boots of Speed
+type: text/vnd.tiddlywiki
+
+These sleek red boots make your legs feel like they’re bursting with energy. 
+
+You gain a +5-foot item bonus to your land Speed and to any climb or swim Speeds you have.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Frequency'' once per day; ''Effect'' You click the heels of the boots together and gain the [[Quickened]] condition for 1 minute. You can use the extra action to [[Stride]], [[Climb]], or [[Swim]]. (You must still attempt an [[Athletics]] check for the [[Climb]] and [[Swim]] actions unless you have the appropriate movement type.)
