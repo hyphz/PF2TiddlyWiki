@@ -1,0 +1,23 @@
+created: 20210823211229642
+item-bulk: -
+item-hands: 0
+item-level: 11 18
+item-price: 11750 42500
+item-slot: Ring
+item-variants: Standard Greater
+mod-craft: +2-3 item for snares and traps.
+mod-disable_a_device: +2-3 item.
+mod-pick_a_lock: +2-3 item.
+mod-repair: +2-3 item for snares and traps.
+modified: 20210823211612471
+tags: Item Invested Magical Divination Interact
+title: Ring of Maniacal Devices
+type: text/vnd.tiddlywiki
+
+This ring seems like simple tarnished brass, but it enhances your curiosity about traps and devices of all kinds. 
+
+You can use an [[Interact]] action to pull a set of thieves’ tools from the ring. These tools appear in your hand and fold back into the ring if they would leave your possession. They grant you a +2 (Greater: +3) item bonus to Thievery checks to [[Disable a Device]] and to [[Pick a Lock]], and the ring’s insights grant you the same bonus to Crafting checks to [[Craft]] and [[Repair]] snares and traps.
+
+''Activate'' 10 minutes (Interact); ''Frequency'' once per day; ''Effect'' You create a 4th-level [[Glyph of Warding]] containing [[Fireball]]. You can have only one glyph of warding from a ring of maniacal devices active at a time, even if you have multiple rings, and the spell ends if you lose your investiture in the ring.
+
+A greater Ring can create an 8th-level [[Glyph of Warding]] containing your choice of either [[Prismatic Spray]] or 7th-level [[Fireball]].

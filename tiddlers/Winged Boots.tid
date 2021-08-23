@@ -1,0 +1,16 @@
+created: 20210823215800011
+item-bulk: L
+item-hands: 0
+item-level: 10
+item-price: 8500
+item-slot: Shoes
+modified: 20210823215858590
+tags: Item Invested Magical Transmutation Command Interact
+title: Winged Boots
+type: text/vnd.tiddlywiki
+
+Made from soft leather, with delicate white wings attached to the heel, these boots are ensorcelled with powerful air magic. 
+
+Whenever you fall while wearing these boots, the boots automatically cast [[Feather Fall]] on you. This benefit can’t trigger again for 10 minutes.
+
+''Activate'' {{TwoAction}} command, Interact; ''Frequency'' once per day; ''Effect'' You speak a command word and click the boots’ heels together to cause the wings to animate and flap rapidly, granting you a fly Speed of 30 feet for 10 minutes.

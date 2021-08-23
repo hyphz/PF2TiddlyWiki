@@ -1,0 +1,19 @@
+created: 20210823214649765
+item-bulk: -
+item-hands: 0
+item-level: 3 9
+item-price: 600 6600
+item-slot: Eyepiece
+item-variants: Standard Greater
+mod-sense_direction: +1-2 unnamed.
+mod-track: +1-2 unnamed, and try again after 30-15 minutes.
+modified: 20210823214911859
+tags: Item Invested Divination Magical
+title: Tracker's Goggles
+type: text/vnd.tiddlywiki
+
+These lenses of forest-green glass are bound in rough leather stitched with crude twine. 
+
+While wearing these goggles, you gain a +1 (Greater: +2) bonus to [[Survival]] checks to [[Sense Direction]] and [[Track]]. 
+
+If you fail a check to [[Track]], you can try again after 30 minutes (Greater: 15 minutes) rather than an hour.

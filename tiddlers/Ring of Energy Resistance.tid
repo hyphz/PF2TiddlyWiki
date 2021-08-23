@@ -1,0 +1,20 @@
+created: 20210823202124477
+item-bulk: -
+item-hands: 0
+item-level: 6 10 14
+item-price: 2450 9750 44000
+item-slot: Ring
+item-variants: Standard Greater Major
+modified: 20210823202241835
+tags: Item Invested Magical Abjuration
+title: Ring of Energy Resistance
+type: text/vnd.tiddlywiki
+
+This ring grants you resistance 5 against one type of energy damage: acid, cold, electricity, fire, or sonic. 
+
+Each ring is crafted to protect against a particular type of energy damage, and its design usually embodies the type of energy it protects the wearer from in some way. For instance, a ring of fire resistance might be capped with a ruby, whereas a ring of cold resistance features a sapphire instead.
+
+| !Type | !Level | !Price | !Resistance Level |
+| Standard | 6 | 2450 | 5 |
+| Greater | 10 | 9750 | 10 |
+| Major | 14 | 44000 | 15 |

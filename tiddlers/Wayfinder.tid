@@ -1,0 +1,24 @@
+created: 20210823215343659
+item-bulk: -
+item-hands: 0
+item-level: 2
+item-price: 280
+item-slot: Worn
+modified: 20210823215526848
+tags: Item Invested Magical Uncommon Evocation
+title: Wayfinder
+type: text/vnd.tiddlywiki
+
+This compact compass repurposes ancient technology to draw fantastic powers from the mysterious magical items called [[Aeon Stone]]s. It serves as a badge of office for agents of the Pathfinder Society and as a status symbol among adventurers of any stripe. 
+
+A wayfinder functions as a compass. 
+
+An indentation in the middle of the wayfinder can hold a single [[Aeon Stone]]. Placing an aeon stone in this indentation provides you all the benefits of having the aeon stone orbiting your head, but it protects the stone from being noticed or stolen as easily. 
+
+You invest a wayfinder and the aeon stone within it simultaneously, and they count as only one item toward your investiture limit. 
+
+An invested aeon stone slotted in a wayfinder also grants its resonant power.
+
+If you have more than one wayfinder with an invested aeon stone on your person at a given time, destructive interference from their resonance prevents you from gaining benefits from any of them. You can still benefit from additional aeon stones orbiting your head, just not in wayfinders.
+
+''Activate'' {{OneAction}} command; ''Effect'' The wayfinder is targeted by a 1st-level [[Light]] spell.

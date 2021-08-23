@@ -1,0 +1,31 @@
+created: 20210823212940739
+item-bulk: -
+item-hands: 0
+item-level: 7 10 12 14
+item-price: 3600 10000 20000 45000
+item-slot: Ring
+item-variants: [[Type I]] [[Type II]] [[Type III]] [[Type IV]]
+mod-arcana: +1-2 item for arcane spellcasters.
+modified: 20210823213306070
+tags: Item Invested Magical Uncommon Arcane Divination
+title: Ring of Wizardry
+type: text/vnd.tiddlywiki
+
+This ring is made from the purest platinum and is covered in esoteric arcane symbols. 
+
+It does nothing unless you have a spellcasting class feature with the arcane tradition. 
+
+While wearing the ring of wizardry, you gain a +1 item bonus to [[Arcana]] checks and have two additional 1st-level arcane spell slots each day. You prepare spells in these slots or cast from them spontaneously, just as you normally cast your spells.
+
+If you take off the ring for any reason, you lose the additional spell slots. You can’t gain spell slots from more than one ring of wizardry per day, nor can a single ring of wizardry grant spell slots more than once per day.
+
+If you can cast arcane spells in a variety of different ways (such as if you are a draconic
+bloodline [[Sorcerer]] with the wizard multiclass archetype), you can divide the spell slots as you wish among your various sources of arcane spells.
+
+| !Type | !Level | !Price | !Arcana Bonus | !1st | !2nd | !3rd | !4th |
+| I | 7 | 3600 | +1 | 2 | - | - | - |
+| II | 10 | 10000 | +2 | 1 | 2 | - | - |
+| III | 12 | 20000 | +2 | - | 1 | 2 | - |
+| IV | 14 | 45000 | +2 | - | - | 1 | 2 |
+
+''Craft Requirements'' You have a spellcasting class feature with the arcane tradition.

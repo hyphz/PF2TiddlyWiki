@@ -1,0 +1,16 @@
+created: 20210823211943365
+item-bulk: -
+item-hands: 0
+item-level: 20
+item-price: 670000
+item-slot: Ring
+modified: 20210823212252829
+tags: Item Invested Magical Rare Abjuration Envision
+title: Ring of Spell Turning
+type: text/vnd.tiddlywiki
+
+This golden ring has three diamonds set into its face.
+
+''Activate'' {{ReactionIcon}} envision; ''Trigger'' You are targeted by a spell; ''Effect'' The ring replicates the effects of an 8th-level [[Spell Turning]] with a [[Counteract]] modifier of +35, possibly causing the triggering spell to reflect back on its caster.
+
+The ring can reflect no more than 9 total levels of spells per day. If you activate the ring to reflect a spell that would exceed this limit, the attempt fails, but the attempted usage of the ring does not count toward the daily limit.

@@ -1,0 +1,26 @@
+created: 20210823212557205
+item-bulk: -
+item-hands: 0
+item-level: 6 13
+item-price: 2200 27000
+item-slot: Ring
+item-variants: Standard Greater
+m-save: Fortitude
+modified: 20210823212855217
+s-crit: The target is unaffected.
+s-fail: The target takes full damage and is pushed the full distance.
+s-fumble: The target takes double damage and is pushed twice the distance.
+s-hit: The target takes half damage and is pushed half the distance.
+tags: Item Invested Magical Interact Evocation Force
+title: Ring of the Ram
+type: text/vnd.tiddlywiki
+
+This heavy iron ring is shaped to look like the head of a ram, with curling horns.
+
+''Activate'' {{OneAction}} or more (Interact); ''Frequency'' once per minute; ''Effect'' A ram-shaped blast of force slams into one foe that you can see within 60 feet. The number of actions you spend to Activate this Item (from 1 to 3) determines the intensity of the force. 
+
+The blow deals 2d6 (Greater: 3d6) force damage per action spent and pushes the target 5 feet per action spent. The target must attempt a DC 22 [[Fortitude]] save (Greater: DC 32).
+
+{{||SaveSuccessTable}}
+
+When you activate a Greater Ring of the Ram using 3 actions, you can disperse the force into multiple magical rams, targeting all creatures in a 30-foot cone instead of one target within 60 feet.

@@ -1,0 +1,28 @@
+created: 20210823213616580
+item-bulk: 1
+item-hands: 0
+item-level: 15 19
+item-price: 65000 320000
+item-slot: Garment
+item-variants: Standard Greater
+mod-fortitude: +1 circumstance vs arcane spells.
+mod-reflex: +1 circumstance vs arcane spells.
+mod-will: +1 circumstance vs arcane spells.
+modified: 20210823214718773
+tags: Item Invested Uncommon Abjuration Arcane Command
+title: Robe of the Archmagi
+type: text/vnd.tiddlywiki
+
+Embroidered with fine silver thread in ornate arcane patterns, these robes come in one of three colors depending on their attuned alignment. 
+
+Good robes are white, neutral robes are gray, and evil robes are black. An evil or good robe gains the appropriate trait. 
+
+The robes benefit only characters who can cast arcane spells and whose alignment on the good-evil axis matches that of the robe. If your alignment does not match that of the robe, or you are not an arcane spellcaster, you are instead [[Stupefied]] 2 while wearing a robe of the archmagi. This condition can’t be removed in any way until you remove the robe.
+
+The robes are [[+2|Armor Potency]] greater [[Resilient]] explorer’s clothing, and they grant a +1 circumstance bonus to saving throws against arcane spells and resistance 5 (Greater: 10) to damage from arcane spells. //(Note that this is on top of the +2 Item bonus they grant by being Greater Resilient.)//
+
+''Activate'' {{ReactionIcon}} command; ''Frequency'' once per day; ''Trigger'' You attempt a saving throw against an arcane spell, but you haven’t rolled yet; ''Effect'' You automatically succeed at your save against the triggering arcane spell.
+
+If you have a Greater Robe of the Archmagi, you can activate the robe when you or an ally within 30 feet attempts a saving throw against an arcane spell, and the robe grants either you or the ally a success on the triggering saving throw; you still can activate it only once per day.
+
+''Craft Requirements'' You are an arcane spellcaster.

@@ -1,0 +1,18 @@
+created: 20210823214922704
+item-bulk: -
+item-hands: 0
+item-level: 3 9
+item-price: 600 6700
+item-slot: Ring
+item-variants: Standard Greater
+mod-deception: +1-2 item.
+modified: 20210823215107106
+tags: Item Invested Magical Illusion Interact
+title: Ventriloquist's Ring
+type: text/vnd.tiddlywiki
+
+This elegant copper ring has miniature images of songbirds engraved around its circumference. 
+
+You gain a +1 (Greater: +2) item bonus to [[Deception]] checks.
+
+''Activate'' {{TwoAction}} Interact; ''Frequency'' once per day (Greater: any number of times); ''Effect'' Twisting the ring around your finger allows you to magically throw your voice, with the effects of a [[Ventriloquism]] spell (DC 19) (Greater: 2nd-level [[Ventriloquism]] DC 27).
