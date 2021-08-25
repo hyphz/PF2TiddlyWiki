@@ -1,0 +1,15 @@
+created: 20210824165754419
+feat-arch: [[Ghost Hunter]]
+feat-level: 4
+modified: 20210824165838994
+tags: Feat Archetype
+title: Spirit Spells
+type: text/vnd.tiddlywiki
+
+Your ability to confront incorporeal menaces develops into full-fledged spellcasting. 
+
+Choose a 1st-level occult spell. You can Cast this Spell as an innate occult spell. 
+
+At 6th level, you gain a 2nd-level occult spell, and at 8th level, you gain a 3rd-level occult spell. 
+
+Each of these spells must have the <<tag Divination>>, <<tag Enchantment>>, or <<tag Necromancy>> trait. You can cast each of these spells once per day.

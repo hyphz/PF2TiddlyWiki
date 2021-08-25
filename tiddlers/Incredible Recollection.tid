@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: [[Recall Knowledge]]
+created: 20210824182622861
+feat-arch: [[Eldritch Researcher]]
+feat-level: 14
+modified: 20210824182701526
+tags: Feat Archetype Action
+title: Incredible Recollection
+type: text/vnd.tiddlywiki
+
+You can sift through knowledge locked within your mind at an incredible pace. 
+
+You instantly use up to 5 [[Recall Knowledge]] actions. 
+
+If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can’t use them for these actions.

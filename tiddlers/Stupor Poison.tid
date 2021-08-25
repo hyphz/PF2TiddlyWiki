@@ -1,0 +1,27 @@
+created: 20210825005616405
+item-bulk: L
+item-hands: 2
+item-level: 4
+item-price: 160
+mod-unconscious: No Perception check to wake up from this poison.
+modified: 20210825005748826
+tags: Alchemical Consumable Item Poison Uncommon Incapacitation Injury Sleep
+title: Stupor Poison
+type: text/vnd.tiddlywiki
+
+Stupor poison is a more potent distillation of [[Lethargy Poison]]. 
+
+Further exposure to stupor poison doesn’t require the target to attempt additional saving throws; only failing a saving throw against an ongoing exposure can progress its stage.
+
+<p style="border: 1px solid black; padding:2px; background-color: tomato">''Incapacitation effect: All targets of higher level than the effect use the result one better than the save they rolled.''</p>
+
+| !Saving Throw |DC 20 [[Fortitude]] |
+| !Onset |Immediate |
+| !Maximum Duration |6 hours |
+| !Stage 1 |[[Slowed]] 1 and [[Flat-Footed]] (1 round) |
+| !Stage 2 |[[Slowed]] 2 and [[Flat-Footed]] (1 round) |
+| !Stage 3 |[[Unconscious]] with no [[Perception]] check to wake up (1 round) |
+| !Stage 4 |[[Unconscious]] with no [[Perception]] check to wake up (1d6 hours) |
+
+
+

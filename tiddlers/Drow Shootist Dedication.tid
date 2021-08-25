@@ -1,0 +1,23 @@
+created: 20210825010523754
+feat-arch: [[Drow Shootist]]
+feat-level: 2
+modified: 20210825010914794
+tags: Feat Dedication
+title: Drow Shootist Dedication
+type: text/vnd.tiddlywiki
+
+You must be trained in the Hand Crossbow to take this Dedication.
+
+Every chance you get, you practice with the hand crossbow to increase your draw speed and accuracy. 
+
+Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the hand crossbow. 
+
+If you’re at least an expert in a hand crossbow you’re using, you gain access to its critical specialization effect. 
+
+You also gain the Shootist’s Draw action.
+
+''Shootist’s Draw'' {{OneAction}}; ''Frequency'' once per round; ''Effect'' You [[Interact]] to draw a hand crossbow and [[Strike]] with it, or you [[Strike]] with a loaded hand crossbow you’re already holding and then Interact to stow it.
+
+''Poison Weapon and Running Reload should only be taken at level 8, and Skirmish Strike at level 10.''
+
+<<archetypefeatlist "4 6 8 10" "[[Drow Shootist]]">>

@@ -1,0 +1,14 @@
+a-actions: 2
+created: 20210824165851469
+feat-arch: [[Ghost Hunter]]
+feat-level: 6
+modified: 20210824165926520
+tags: Feat Archetype Action
+title: Ghost Strike
+type: text/vnd.tiddlywiki
+
+Once per day, you can infuse a weapon you are carrying with magical energies that allow it to strike true against incorporeal undead. 
+
+The weapon gains the effects of the [[Ghost Touch]] property rune for 10 minutes.
+
+At 10th level, you can apply this effect to two weapons instead of one.

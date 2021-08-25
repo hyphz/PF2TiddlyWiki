@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210824164340246
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 corporeal creature
+m-time: 
+modified: 20210824164544695
+s-crit: The worms writhe away harmlessly and the target takes no damage.
+s-fail: The target takes full initial and persistent damage and is [[Flat-Footed]] due to the pain for as long as it takes persistent damage.
+s-fumble: As failure, but the target takes double the initial damage and is also [[Slowed]] 1 by the pain for as long as it takes persistent damage.
+s-hit: The target takes full initial damage but no persistent damage, and the spell ends immediately.
+tags: Spell Somatic Verbal Concentrate Manipulate Rare Necromancy Occult Primal
+title: Worm's Repast
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Gnawing worms materialize within the flesh of the target creature, dealing 4d6 piercing damage and 1d6 persistent piercing damage. 
+
+If the target is a non-skeletal corporeal undead creature, you deal an extra 2d6 persistent piercing damage. 
+
+The target must attempt a [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+
+''Heightened (+2)'': The initial and persistent damage increase by 2d6 and 1d6, respectively.

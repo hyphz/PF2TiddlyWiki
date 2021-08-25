@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210808201923502
+modified: 20210824170654695
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -193,6 +193,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Uncommon]]">
 <tr><th>[[Uncommon]]</th><td>You can't normally gain this by character advancement.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Unique]]">
+<tr><th>[[Unique]]</th><td>There is only one in the world. How will you claim it?</td></tr>
 </$list>
 <$list filter="[all[current]tag[Verbal]]">
 <tr><th>[[Verbal]]</th><td>You must normally be able to speak loudly to cast this spell, and you lose all your air if you use this while holding your breath.</td></tr>

@@ -1,0 +1,20 @@
+created: 20210824165255430
+feat-arch: [[Ghost Hunter]]
+feat-level: 2
+feat-skill: Occultism Religion
+feat-spre: T
+lore-mention: Spirit Haunt
+modified: 20210824165500535
+tags: Feat Dedication
+title: Ghost Hunter Dedication
+type: text/vnd.tiddlywiki
+
+You have focused your training on hunting and defeating ghosts, spirits, and all manner of haunts. 
+
+Pick Spirit [[Lore]] or Haunt [[Lore]]; you become trained in this skill. If you were already trained in both skills, you become trained in a new Lore skill of your choice.
+
+Choose two cantrips from the occult spell list. Each cantrip must have the <<tag Divination>>, <<tag Enchantment>>, or <<tag Necromancy>> trait. You can cast these spells as innate occult spells. You gain access to the [[Cast a Spell]] activity if you didn’t have it already.
+
+You’re trained in occult spell attack rolls and spell DCs. You can usually replace material components with somatic components, so you don’t need a spell component pouch. Your key spellcasting ability for these spells is Charisma.
+
+<<archetypefeatlist "4 6 8" "[[Ghost Hunter]]">>

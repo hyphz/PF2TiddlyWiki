@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20210825011137668
+feat-arch: [[Drow Shootist]]
+feat-level: 6
+modified: 20210825011238434
+tags: Feat Archetype Action Manipulate
+title: Reloading Trick
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per round.
+
+''Requirements'' You’re holding an unloaded hand crossbow.
+
+You can fire off a single shot even when unprepared. 
+
+You [[Interact]] to reload your hand crossbow and [[Strike]] with it.
+
+''Special'' If you have the [[Repeating Hand Crossbow Training]] feat, you can use this feat with a repeating hand crossbow to load either a bolt or a magazine, but the speed means you can fire only one bolt, then the magazine jams. You must spend a 3-action [[Interact]] activity to remove the jammed magazine and clear it before it can be used again.

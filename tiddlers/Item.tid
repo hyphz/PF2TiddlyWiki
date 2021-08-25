@@ -1,5 +1,5 @@
 created: 20210207203857246
-modified: 20210822161323049
+modified: 20210824170738291
 tags: 
 title: Item
 type: text/vnd.tiddlywiki
@@ -18,6 +18,7 @@ See also [[Rune]]s.
 <$link />
 <$list filter="[all[current]tag[Uncommon]]">(Uncommon)</$list>
 <$list filter="[all[current]tag[Rare]]">(Rare)</$list>
+<$list filter="[all[current]tag[Unique]]">(Unique)</$list>
 <br>
 </$list>
 </$list>

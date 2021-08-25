@@ -1,0 +1,18 @@
+created: 20210824170408679
+item-bulk: 1
+item-hands: 1
+item-level: 6
+item-price: 2500
+item-slot: Hand
+mod-aid: +2 item to roll, and +3 bonus to expert's ally.
+modified: 20210824170545343
+tags: Item Magical Divination Unique
+title: Cooperative Blade
+type: text/vnd.tiddlywiki
+
+This [[+1|Weapon Potency]] [[Striking]] longsword has a mirror-like blade free of tarnish despite being millennia old. 
+
+While wielding it, you gain a +2 item bonus to checks to [[Aid]]. 
+
+If you’re an expert with the skill or attack roll you’re using to Aid and you critically succeed, you grant your ally a +3 circumstance bonus to the triggering check instead of a +2 bonus.
+

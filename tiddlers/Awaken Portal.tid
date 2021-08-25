@@ -1,0 +1,37 @@
+a-crit: You awaken the portal. If its other side is awakened, the portal can be used normally and won’t deactivate naturally. If its other side is not awakened, this side remains awakened for 1 year, possibly allowing you enough time to find and awaken the connecting portal.
+a-defense: 
+a-fail: You fail to activate the portal, and magical backlash leaves you [[Stupefied]] 1 for 24 hours.
+a-fumble: As failure, but in addition, a hostile creature is drawn through the portal and immediately attacks anyone present. The creature drawn through the portal varies, according to the portal’s nature.
+a-hit: As critical success, but if the portal’s other side is not awakened, this side remains awakened for only 1d6 days before it fades and falls dormant again.
+created: 20210824163956408
+m-area: 
+m-components: 
+m-duration: 
+m-level: 3
+m-range: 10 feet
+m-save: 
+m-targets: 1 portal
+m-time: 1 hour
+modified: 20210824164256181
+rit-pskill: Arcana Occultism
+rit-pspre: T
+rit-secondaries: 5
+rit-sskill: Arcana Occultism
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Rare Conjuration
+title: Awaken Portal
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+You attempt to reactivate a dormant [[Gate]], [[Portal]], or [[Teleportation Circle]] by infusing it with magical energies. This ritual must be successfully performed twice, once at each location
+the portal connects. 
+
+Portals might require rare items or specific materials as a cost for this ritual at the GM’s discretion—some portals might even be so powerful that this ritual cannot awaken them at all. 
+
+The DC required to successfully awaken a portal varies based on the strength and distance between its end points. 
+
+{{||ActionSuccessTable}}

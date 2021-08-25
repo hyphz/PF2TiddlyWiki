@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210824175912151
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: Touch
+m-save: Will
+m-targets: 1 creature
+m-time: 
+mod-medicine: Must roll twice and use worse result.
+mod-nature: Must roll twice and use worse result.
+mod-perception: Must roll twice and use worse results, and demote crits.
+mod-survival: Most roll twice and use worse result.
+modified: 20210824180234660
+modtag-concentrate: Must demote crits, or if fumbled vs spell, demote all.
+s-crit: The target is unaffected.
+s-fail: As success, but the effect is permanent.
+s-fumble: As failure, except the target treats the outcomes of all checks with the <<tag Concentrate>> trait as one degree of success worse than the result it rolled (a critical success becomes a success, a success becomes a failure, and a failure becomes a critical failure).
+s-hit: For 10 minutes, the target must roll twice and use the worse result whenever attempting a [[Medicine]], [[Nature]], [[Perception]], or [[Survival]] check. If the target critically succeeds at a [[Perception]] check or skill check to perform an action with the <<tag Concentrate>> trait, the target gets a success instead.
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Attack Curse Enchantment Mental Misfortune Arcane Occult
+title: Daydreamer's Curse
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You impose a curse upon the target that renders it easily distracted and unable to focus its thoughts on tasks that demand insight or discernment. The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

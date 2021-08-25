@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210825010252241
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20210825010441653
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Mental Necromancy Occult Material
+title: Ectoplasmic Expulsion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon tendrils of ephemeral ectoplasm to pass through the target and carry away a harmful psychic affliction.
+
+You immediately attempt to [[Counteract]] a single effect on the target with the <<tag Emotion>> or <<tag Possession>> trait, or an effect giving the target the [[Controlled]] or [[Fascinated]] condition. 
+
+If you fail to counteract the effect, you nevertheless set up a resonance that allows the target to more ably escape the effect on its own; for the next hour, the target gains a +2 status bonus to [[Will]] saves to shrug off the effect you failed to counteract (such as Will saves to shake off control by the possession spell).

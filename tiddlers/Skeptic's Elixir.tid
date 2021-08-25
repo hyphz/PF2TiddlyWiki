@@ -1,0 +1,22 @@
+created: 20210824163621229
+item-bulk: L
+item-hands: 1
+item-level: 1 6 11
+item-price: 40 500 3000
+item-variants: Lesser Moderate Greater
+mod-perception: +1-3 item to notice falsehoods.
+mod-will: +1-3 item.
+modified: 20210824163813687
+tags: Alchemical Consumable Item Elixir Uncommon
+title: Skeptic's Elixir
+type: text/vnd.tiddlywiki
+
+This elixir sharpens your mind and allows you to see through lies, falsehoods, and magical trickery.
+
+You gain an item bonus to [[Perception]] checks and [[Perception]] DCs to notice falsehoods, whether they’re spoken lies or written deceit. You gain this same item bonus to [[Will]] saves.
+
+| !Type | !Level | !Price | !Bonus | !Duration |
+| Lesser | 1 | 40 | +1 | 1 minute |
+| Moderate | 6 | 500 | +2 | 10 minutes |
+| Greater | 11 | 3000 | +3 | 1 hour |
+

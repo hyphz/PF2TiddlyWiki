@@ -1,9 +1,11 @@
 a-actions: 1
 a-subactions: Step Strike
 created: 20201031150305540
+feat-archadd: [[Drow Shootist]]
+feat-archlevel: 10
 feat-class: Ranger Rogue
 feat-level: 6
-modified: 20201031173457583
+modified: 20210825010957844
 tags: Feat Class Ranger Action Flourish Rogue
 title: Skirmish Strike
 type: text/vnd.tiddlywiki

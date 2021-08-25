@@ -1,0 +1,23 @@
+created: 20210824180907718
+feat-arch: [[Eldritch Researcher]]
+feat-level: 2
+feat-skill: Arcana Occultism
+feat-spre: T
+mod-identify_magic: +1 circumstance using Arcana/Occultism.
+mod-investigate: +1 circumstance using Arcana/Occultism.
+modified: 20210824181604237
+tags: Feat Dedication
+title: Eldritch Researcher Dedication
+type: text/vnd.tiddlywiki
+
+//This Archetype has special plot requirements described in Abomination Vaults 2.//
+
+You gain the ability to cast a single arcane or occult cantrip of your choice (which is heightened to a spell level equal to half your level rounded up). 
+
+If you weren’t already, you become trained in that tradition’s spell DCs and spell attack rolls with Intelligence as your spellcasting ability.
+
+Regardless of whether you choose an arcane or occult cantrip, you also become an expert in your choice of either [[Arcana]] or [[Occultism]]. 
+
+You also gain a +1 circumstance bonus to checks you attempt with the chosen skill when [[Investigating|Investigate]] or [[Identifying Magic|Identify Magic]].
+
+<<archetypefeatlist "4 6 8 10 12 14" "[[Eldritch Researcher]]">>

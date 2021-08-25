@@ -1,0 +1,19 @@
+created: 20210825005821843
+item-bulk: L
+item-hands: 1
+item-level: 5
+item-price: 210
+mod-ac: +1 item vs fungus without vision.
+mod-perception: -4 for Fungus to notice user, or -6 if mindless.
+modified: 20210825010009301
+tags: Item Alchemical Consumable Olfactory Interact
+title: Fungal Walk Musk
+type: text/vnd.tiddlywiki
+
+This foul-smelling unguent dulls the odors and traces that fungus creatures detect. 
+
+For 1 day after you slather this musk on your body ({{OneAction}} [[Interact]]), fungus creatures take a –4 penalty to [[Perception]] checks to [[Seek]] you or otherwise notice you. If a fungus creature is mindless, it instead has a –6 penalty.
+
+The musk also grants you a +1 item bonus to AC against melee attacks from fungus creatures with no vision for the same period of time. 
+
+The effects of fungal walk musk end immediately if you’re submerged in water or subject to another olfactory effect.

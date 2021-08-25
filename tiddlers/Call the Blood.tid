@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210825010055205
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20210825010333910
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Occult Primal Uncommon Death Necromancy Negative
+title: Call the Blood
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+With a word and gesture, you cause streams of blood to erupt from the target’s mouth, nostrils, ears, or other facial openings and come rushing into your mouth. 
+
+You deal 8d4 negative damage to the target with a basic [[Fortitude]] saving throw.
+
+If the target takes damage, its blood flows into your mouth. If you’re a living creature and don’t have negative healing, you’re [[Sickened]] 2. 
+
+If you’re undead (or living but have negative healing), you can choose to either gain temporary Hit Points equal to half of the negative damage the target takes (after applying resistance and the like) and become [[Quickened]] for 1 round, or forgo the temporary Hit Points and become [[Quickened]] for 1 minute. You can use this extra action only to [[Step]], [[Stride]], or [[Strike]]. You lose any remaining temporary Hit Points after 1 minute.
+
+''Heightened (+1)'' The damage increases by 2d4.
