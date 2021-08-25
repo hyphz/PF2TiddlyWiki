@@ -1,0 +1,17 @@
+created: 20210825221532220
+item-bulk: -
+item-hands: 1
+item-level: 12
+item-price: 3500
+modified: 20210825221647577
+tags: Consumable Item Interact Magical Necromancy Negative
+title: Incense of Distilled Death
+type: text/vnd.tiddlywiki
+
+This black incense smells of fresh earth and ash. 
+
+You activate the incense by lighting it ({{OneAction}} [[Interact]]), whereupon it fills a 10-foot emanation with oily smoke and potent negative energy. 
+
+Undead creatures, including incorporeal undead, gain [[Fast Healing]] 4 while in the area; though this healing comes from negative energy, it doesn’t negatively impact living creatures. 
+
+Once lit, the incense burns for 1 minute, and it can’t be extinguished.

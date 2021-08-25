@@ -1,0 +1,21 @@
+created: 20210825210753259
+item-bulk: -
+item-hands: -
+item-level: 2
+item-price: 70
+modified: 20210825211551598
+tags: Consumable Item Magical Conjuration
+title: Antler Arrow
+type: text/vnd.tiddlywiki
+
+Ammunition: Arrow.
+
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. 
+
+When an activated ({{OneAction}} [[Interact]]) antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 [[Reflex]] save or become stuck to the surface, taking the critical specialization effects of a bow.
+
+If the hit with the antler arrow is a critical hit and you have access to the bow critical specialization effect, the DC of the [[Athletics]] check increases to 15.
+
+
+
+

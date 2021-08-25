@@ -1,0 +1,23 @@
+created: 20210825224118744
+item-bulk: L
+item-hands: 1
+item-level: 1 3 6 12 18
+item-price: 40 120 500 4000 50000
+item-variants: Minor Lesser Moderate Greater Major
+modified: 20210825224412853
+tags: Consumable Item Interact Magical Potion Evocation
+title: Potion of Retaliation
+type: text/vnd.tiddlywiki
+
+A potion of retaliation is available in four varieties—acid, cold, electricity, and fire—each with a faint shimmer reminiscent of the energy it contains. 
+
+For 1 minute after drinking a potion of retaliation ({{OneAction}} [[Interact]]), you glow with a faint aura of that energy, and a creature that touches you (such as by making an unarmed attack or using a spell with a range of touch against you) takes damage of that type. 
+
+The moderate, greater, and major versions also damage an adjacent creature that hits you with a melee weapon Strike.
+
+| !Type | !Level | !Price | !Damage | !Trigger |
+| Minor | 1 | 40 | 1 | Unarmed attack or Touch spell |
+| Lesser | 3 | 120 | 1d4 | Unarmed attack or Touch spell |
+| Moderate | 6 | 500 | 2d4 | Melee weapon Strike, Unarmed attack or Touch spell |
+| Greater | 12 | 4000 | 3d6 | Melee weapon Strike, Unarmed attack or Touch spell |
+| Major | 18 | 50000 | 4d8 | Melee weapon Strike, Unarmed attack or Touch spell |

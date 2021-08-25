@@ -1,0 +1,18 @@
+[
+    {
+        "created": "20210825205652560",
+        "text": "You arrange a spiky cage of bones, particularly tough vegetation, or other material to spring up when disturbed.\n\nThe snare deals 9d8 piercing damage to the first creature to enter this square; that creature must attempt a DC 31 [[Reflex]] save.\n\n{{||SaveSuccessTable}}\n\n\n\n\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Engulfing Snare",
+        "tags": "Consumable Item Mechanical Snare Trap",
+        "modified": "20210825205920121",
+        "item-price": "9000",
+        "item-level": "14",
+        "item-hands": "-",
+        "item-bulk": "-",
+        "s-crit": "The creature is unaffected.",
+        "s-hit": "The creature is knocked aside by the snare’s deployment, taking half damage, and is [[Flat-Footed]] until the end of its next turn.",
+        "s-fail": " The creature is captured by the cage, taking full damage and falling prone. It is immobilized while it remains within the cage. It can get free by [[Escaping|Escape]] (DC 31) or by destroying the cage (Hardness 5, HP 30, object immunities).",
+        "s-fumble": "As failure, but the creature takes double damage."
+    }
+]

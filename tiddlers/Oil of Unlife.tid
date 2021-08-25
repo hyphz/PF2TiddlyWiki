@@ -1,0 +1,23 @@
+created: 20210825222607772
+item-bulk: L
+item-hands: 1
+item-level: 1 3 6 12 18
+item-price: 40 120 500 4000 50000
+item-variants: Minor Lesser Moderate Greater Major
+modified: 20210825223110420
+tags: Consumable Item Interact Magical Oil Necromancy Negative
+title: Oil of Unlife
+type: text/vnd.tiddlywiki
+
+This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature’s physical or spiritual form. 
+
+When you dash oil of unlife onto an undead creature ({{OneAction}} [[Interact]]), or a living creature with [[Negative Healing]], the oil absorbs quickly into its body, and the creature regains the listed number of Hit Points.
+
+You can pour oil of unlife on an incorporeal undead; in this case, the creature absorbs the oil into itself.
+
+| !Type | !Level | !Price | !HP Restored |
+| Minor | 1 | 40 | 1d8 |
+| Lesser | 3 | 120 | 2d8+5 |
+| Moderate | 6 | 500 | 3d8+10 |
+| Greater | 12 | 4000 | 6d8+20 |
+| Major | 18 | 50000 | 8d8+30 |

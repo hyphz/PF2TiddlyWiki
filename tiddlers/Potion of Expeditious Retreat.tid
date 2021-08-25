@@ -1,0 +1,13 @@
+created: 20210825223817450
+item-bulk: L
+item-hands: 1
+item-level: 1
+item-price: 30
+modified: 20210825223924018
+tags: Consumable Item Interact Magical Potion Transmutation
+title: Potion of Expeditious Retreat
+type: text/vnd.tiddlywiki
+
+The stopper for a Potion of Expeditious Retreat easily snap open in dire circumstances. 
+
+When you drink this potion ({{OneAction}} [[Interact]]), you become [[Fleeing]] for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are fleeing. You immediately [[Stride]].

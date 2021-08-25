@@ -1,0 +1,18 @@
+created: 20210825204510006
+item-bulk: L
+item-hands: 1
+item-level: 2
+item-price: 60
+modified: 20210825204606176
+tags: Alchemical Consumable Item Interact
+title: Origin Unguent
+type: text/vnd.tiddlywiki
+
+This shimmering, violet unguent forms mild chemical bonds between objects with a matching composition. 
+
+You apply the adhesive to two objects, or to an object and a creature ({{OneAction}} [[Interact]]). 
+
+You can check if the two share an origin (such as if they were broken from the same whole, or if a poison sample or body part came from the same creature) by holding them together with the unguent between; if they match, the unguent becomes sticky.
+
+
+

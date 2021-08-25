@@ -1,0 +1,16 @@
+created: 20210825220759924
+item-bulk: L
+item-hands: 1
+item-level: 1
+item-price: 30
+mod-climb: +1 item.
+mod-palm_an_object: +1 item.
+mod-reflex: +1 item to DC vs Disarm.
+modified: 20210825221007338
+tags: Consumable Item Interact Magical Potion Transmutation
+title: Gecko Potion
+type: text/vnd.tiddlywiki
+
+A gecko potion is a sticky, tawny brown liquid with flecks of sand suspended in it. 
+
+For 5 minutes after drinking this potion, your fingertips sprout thousands of microscopic, bristled hairs that cling to objects, granting you a +1 item bonus to [[Climb]] and [[Palm an Object]], and to your [[Reflex]] DC against [[Disarm]] attempts.

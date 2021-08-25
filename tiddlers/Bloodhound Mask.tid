@@ -1,0 +1,28 @@
+created: 20210825202939528
+item-bulk: L
+item-hands: 1
+item-level: 2 6 11
+item-price: 60 400 2500
+item-slot: Mask
+item-variants: Lesser Moderate Greater
+mod-track: Track using scent with proficiency=level and +1-3 item.
+modified: 20210825203222894
+tags: Alchemical Consumable Item Interact
+title: Bloodhound Mask
+type: text/vnd.tiddlywiki
+
+This wide, single-use mask is designed to be slipped over your mouth and nose and its alchemical filter activated all with one hand ({{OneAction}} Interact). 
+
+Once activated, the mask sharpens odors, giving you [[Imprecise]] [[Scent]] with the listed range. 
+
+You can’t wear other masks while you’re wearing a bloodhound mask.
+
+When you use [[Survival]] to [[Track]] a creature by its scent, your proficiency bonus is equal to your level even if you’re untrained, and the mask grants you the listed item bonus to your [[Survival]] check. The GM sets the Survival DC based on the area’s ability to hold scent rather than on visual clues, as normal for using scent.
+
+| !Type | !Level | !Price | !Range | !Bonus | !Duration |
+| Lesser | 2 | 60 | 15' | +1 | 10 min |
+| Moderate | 6 | 400 | 30' | +2 | 1 hour |
+| Greater | 11 | 2500 | 60' | +3 | 8 hours |
+
+
+

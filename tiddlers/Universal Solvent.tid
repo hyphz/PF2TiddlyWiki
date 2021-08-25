@@ -1,0 +1,25 @@
+created: 20210825205432614
+item-bulk: L
+item-hands: 1
+item-level: 5 12 18
+item-price: 210 3250 32500
+item-variants: Moderate Greater Major
+modified: 20210825205600777
+tags: Alchemical Consumable Item Interact
+title: Universal Solvent
+type: text/vnd.tiddlywiki
+
+Originally formulated as a means of dissolving sovereign glue, this powerful solvent can break almost any adhesive’s grip.
+
+As universal solvent is particularly effective against [[Sovereign Glue]], it automatically dissolves sovereign glue. 
+
+It attempts to counteract any other adhesives, such as [[Tanglefoot Bags]], with a counteract modifier depending on the type.
+
+| !Type | !Level | !Price | !Counteract Modifier |
+| Moderate | 5 | 210 | +9 |
+| Greater | 12 | 3250 | +19 |
+| Major | 18 | 32500 | +28 |
+
+
+
+

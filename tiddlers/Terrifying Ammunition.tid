@@ -1,0 +1,25 @@
+created: 20210825225357557
+item-bulk: -
+item-hands: 
+item-level: 6
+item-price: 500
+m-save: Will
+modified: 20210825225826733
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Frightened]] 1 and can’t reduce its frightened value below 1 until it spends an action, which has the <<tag Concentrate>> trait, to calm itself down.
+s-fumble: As failure, but the creature is [[Frightened]] 2.
+s-hit: The creature is [[Frightened]] 1.
+tags: Consumable Item Interact Magical Emotion Enchantment Fear Mental
+title: Terrifying Ammunition
+type: text/vnd.tiddlywiki
+
+Ammunition: Any.
+
+This black-and-gray ammunition is etched with occult symbols and tiny, grinning skulls. 
+
+When activated ({{OneAction}} [[Interact]]) terrifying ammunition damages a creature, it fills the creature’s mind with visions of their own failures, tragedies, and eventually, their own death. 
+
+The creature must attempt a DC 20 [[Will]] save.
+
+{{||SaveSuccessTable}}
+

@@ -1,0 +1,16 @@
+created: 20210825215206754
+item-bulk: -
+item-hands: 1
+item-level: 7
+item-price: 700
+modified: 20210825215325484
+tags: Consumable Item Interact Magical Evocation
+title: Corrosive Ammunition
+type: text/vnd.tiddlywiki
+
+This peculiar ammunition is coated in yellow dust that leaves a stain on anything it touches. 
+
+When activated ({{OneAction}} [[Interact]]) corrosive ammunition hits a target, it dissolves across the target’s armor. The armor takes 1d8 persistent acid damage that ignores the armor’s Hardness; if the target isn’t wearing armor, it takes the acid damage instead. This damage occurs at the end of the target’s turns.
+
+The creature can end this effect by spending an [[Interact]] action to wipe off the corrosive dust, and otherwise the effect ends once the armor becomes broken.
+

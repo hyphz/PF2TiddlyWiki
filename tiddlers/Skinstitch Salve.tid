@@ -1,0 +1,18 @@
+created: 20210825204631965
+item-bulk: L
+item-hands: 1
+item-level: 7
+item-price: 550
+modified: 20210825204749855
+tags: Alchemical Consumable Item Interact Healing
+title: Skinstitch Salve
+type: text/vnd.tiddlywiki
+
+This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Effect'' You [[Administer First Aid]] without requiring healer’s tools. You either gain a +2 item bonus to the [[Medicine]] check, or you can use the skinstitch salve’s Medicine modifier of +13 instead of your own.
+
+''Activate'' {{FreeAction}} [[Interact]]; ''Trigger'' You [[Treat Wounds]] or use [[Battle Medicine]]; ''Effect'' You gain a +2 item bonus to the triggering Medicine check. If you roll a success on the Medicine check, you get a critical success instead.
+
+
+

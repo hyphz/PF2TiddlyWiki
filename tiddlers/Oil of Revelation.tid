@@ -1,0 +1,16 @@
+created: 20210825222400951
+item-bulk: L
+item-hands: 2
+item-level: 5
+item-price: 250
+mod-invisible: Wounded creature is Hidden, not Undetected, for 1 minute.
+modified: 20210825222525867
+tags: Consumable Item Interact Magical Oil Evocation
+title: Oil of Revelation
+type: text/vnd.tiddlywiki
+
+This bright oil, first created by humans as a tool to help them fight in darkness, holds flecks of tiny gemstones in suspension and smells like a struck tindertwig.
+
+The first time a weapon coated with this oil damages a creature, the wound glows with light for 1 minute. If the creature is [[Invisible]], the light’s position means it is merely [[Hidden]] to creatures that would otherwise be unable to see it, rather than [[Undetected]]. The light also negates the [[Concealed]] condition due to lighting conditions. 
+
+If the coated weapon doesn’t damage a creature within 1 hour, the oil sloughs off and loses its power.

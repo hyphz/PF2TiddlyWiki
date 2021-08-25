@@ -1,0 +1,15 @@
+created: 20210825225055473
+item-bulk: L
+item-hands: 2
+item-level: 1
+item-price: 40
+modified: 20210825225151863
+tags: Consumable Item Interact Magical Abjuration Oil
+title: Shielding Salve
+type: text/vnd.tiddlywiki
+
+This shimmering paste has many properties of a shield spell.
+
+When you slather it onto a creature or object ({{OneAction}} [[Interact]]), the target gains a +1 circumstance bonus to AC for 1 round. 
+
+The first time a physical attack or a magic missile hits the target during that round, the oil prevents 5 damage from that attack or spell, and then the oil’s effect ends.

@@ -1,0 +1,24 @@
+created: 20210825210046429
+item-bulk: -
+item-hands: -
+item-level: 6
+item-price: 400
+m-save: Fortitude
+modified: 20210825210147894
+s-crit: The creature is unaffected.
+s-fail: The creature becomes [[Sickened]] 2.
+s-fumble: The creature becomes [[Sickened]] 3.
+s-hit: The creature becomes [[Sickened]] 1.
+tags: Consumable Item Mechanical Snare Trap Poison
+title: Nauseating Snare
+type: text/vnd.tiddlywiki
+
+You position particularly foul substances to splash over a creature. 
+
+The first creature to enter the square must attempt a DC 20 [[Fortitude]] saving throw.
+
+{{||SaveSuccessTable}}
+
+
+
+

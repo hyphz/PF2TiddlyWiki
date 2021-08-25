@@ -1,0 +1,17 @@
+created: 20210825214602902
+item-bulk: -
+item-hands: 1
+item-level: 7
+item-price: 600
+mod-invisible: Only concealed within 10' radius of candle.
+modified: 20210825214710323
+tags: Consumable Item Interact Divination Magical
+title: Candle of Revealing
+type: text/vnd.tiddlywiki
+
+When lit ({{OneAction}} [[Interact]]), this black candle’s eerie blue flame reveals the presence of invisible creatures. 
+
+Within a 10-foot radius of the lit candle, creatures don’t benefit from the [[Invisible]] condition. Their bodies are outlined, not fully visible, so they are [[Concealed]]. 
+
+Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can’t be relit.
+

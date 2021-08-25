@@ -1,0 +1,18 @@
+created: 20210825213957008
+item-bulk: -
+item-level: 9
+item-price: 1500
+m-save: Fortitude
+modified: 20210825214121662
+tags: Consumable Item Talisman Envision Magical Transmutation Visual
+title: Basilisk Eye
+type: text/vnd.tiddlywiki
+
+Affix to a shield. 
+
+This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. 
+
+''Trigger'' You [[Shield Block]] a melee attack with the affixed shield.
+
+''Activate'' {{FreeAction}} Envision: ''Effect'' When the eye is activated, the attacker must succeed at a DC 25 [[Fortitude]] save or become [[Slowed]] 1 for 1 minute as its body slowly stiffens in partial petrification.
+

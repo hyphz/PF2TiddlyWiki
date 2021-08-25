@@ -1,0 +1,20 @@
+created: 20210825221857398
+item-bulk: -
+item-hands: 2
+item-level: 8 16
+item-price: 850 14000
+item-variants: Standard Greater
+modified: 20210825222033848
+tags: Consumable Item Interact Magical Oil Transmutation Uncommon
+title: Oil of Object Animation
+type: text/vnd.tiddlywiki
+
+This fine golden oil comes in a small blue canister. 
+
+Carefully spreading the oil over an object ({{TwoAction}} [[Interact]]) turns it into an animated object of the same type. For example, sprinkling it on a statue makes an animated statue. 
+
+If the animated object’s level would be greater than 3 (Greater Oil: 11), the oil struggles to animate it and ultimately fails.
+
+This animated object has the <<tag Minion>> trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. 
+
+The object remains animated for 1 minute before falling inert. As usual, you can have a maximum of four minions under your control.

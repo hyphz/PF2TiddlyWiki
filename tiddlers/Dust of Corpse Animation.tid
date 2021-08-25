@@ -1,0 +1,24 @@
+created: 20210825215624074
+item-bulk: -
+item-hands: 2
+item-level: 8 16
+item-price: 1000 15000
+item-variants: Standard Greater
+modified: 20210825220040314
+tags: Consumable Item Interact Magical Necromancy Uncommon
+title: Dust of Corpse Animation
+type: text/vnd.tiddlywiki
+
+This black pouch contains what appears to be fine bone dust.
+
+Pouring the dust in a special pattern over a corpse ({{TwoAction}} [[Interact]]) turns it into an undead creature. The type of undead created depends on the condition of the corpse, resulting in either a skeleton or a zombie. 
+
+If the undead’s level would be greater than 3, the dust fails to animate it.  Greater Dust of Corpse Animation can animate undead with a level of 11 or lower.
+
+The body must be of an appropriate size and type for the undead you wish to create—for example, you must sprinkle the dust on a horse’s skeleton to animate a skeletal horse. If more than one undead in the level range is appropriate, such as skeletal guard or skeletal champion for a Medium humanoid skeleton, you choose.
+
+The animated undead has the <<Tag Minion>> trait, meaning it can use 2 actions when you command it. You can issue a Command for the current turn as part of the activation.
+
+The undead creature remains animated for 1 minute before collapsing back into its corpse form. As usual, you can have a maximum of four minions under your control.
+
+

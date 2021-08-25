@@ -1,0 +1,17 @@
+created: 20210825213418161
+item-bulk: -
+item-level: 12
+item-price: 4000
+m-save: Will
+modified: 20210825213552931
+tags: Consumable Item Talisman Envision Divine Evocation Magical
+title: Balisse Feather
+type: text/vnd.tiddlywiki
+
+Affix to a weapon. 
+
+This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. 
+
+''Trigger'' You deal damage using the affixed weapon to a creature you have seen commit an evil act.
+
+''Activate'' {{FreeAction}} Envision:  The creature you damaged burns with holy light. The creature must succeed at a DC 29 [[Will]] save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn.
