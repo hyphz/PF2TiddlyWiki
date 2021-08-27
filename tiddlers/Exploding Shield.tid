@@ -1,0 +1,14 @@
+created: 20210827170251329
+item-bulk: 1
+item-hands: 1
+item-level: 5
+item-price: 250
+item-slot: Shield
+modified: 20210827170409403
+tags: Item Magical Evocation Interact
+title: Exploding Shield
+type: text/vnd.tiddlywiki
+
+The magic within this wooden shield (Hardness 3, HP 12, BT 6) lashes out at your foes as the shield is destroyed.
+
+''Activate'' {{FreeAction}} [[Interact]]; ''Trigger'' The exploding shield is destroyed; ''Effect'' The shield explodes outward, dealing 4d6 piercing damage to each creature in a 15-foot cone (DC 19 basic Reflex save).

@@ -1,0 +1,17 @@
+created: 20210827171620468
+item-bulk: L
+item-hands: 1
+item-level: 2
+item-price: 350
+item-slot: Buckler
+mod-feint: +1 item when raised.
+modified: 20210827171742713
+tags: Item Magical Illusion Envision
+title: Glamorous Buckler
+type: text/vnd.tiddlywiki
+
+A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. 
+
+While you have it raised, the glamorous buckler grants you a +1 item bonus to [[Deception]] checks to [[Feint]].
+
+''Activate'' {{FreeAction}} envision; ''Frequency'' once per day; ''Trigger'' You [[Feint]]; ''Requirements'' You have the glamorous buckler raised; ''Effect'' As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[Dazzled]] for 1 round.

@@ -1,0 +1,16 @@
+created: 20210827172052750
+item-bulk: 1
+item-hands: 0
+item-level: 13
+item-price: 30000
+item-slot: Boots
+modified: 20210827172206463
+tags: Item Magical Evocation Fire Invested Interact
+title: Hellfire Boots
+type: text/vnd.tiddlywiki
+
+These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. 
+
+While wearing hellfire boots, you gain resistance 10 to <<tag Fire>> damage.
+
+''Activate'' {{TwoAction}} Interact; ''Frequency'' once per minute; ''Effect'' [[Stride]]. Each square you move through during your Stride is scorched with hellish flames, becoming [[Hazardous Terrain]] for 1 minute. A creature that moves through one of these spaces takes 3d6 fire damage.

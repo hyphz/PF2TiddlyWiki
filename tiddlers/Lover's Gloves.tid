@@ -1,0 +1,21 @@
+created: 20210827172723869
+item-bulk: -
+item-hands: 0
+item-level: 8
+item-price: 5000
+item-slot: Gloves
+mod-diplomacy: +1 item.
+mod-fortitude: +1 status when active.
+mod-reflex: +1 status when active.
+mod-will: +1 status when active.
+modified: 20210827172955550
+modtag-emotion: Promote success on saves vs negative emotions if mutually active.
+tags: Item Magical Interact Emotion Enchantment Invested Mental
+title: Lover's Gloves
+type: text/vnd.tiddlywiki
+
+These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward. 
+
+They buoy your spirit, giving you a +1 item bonus to [[Diplomacy]] checks.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Frequency'' once per day; ''Effect'' You grasp the hands of a willing creature you have strong positive feelings about, regardless of the nature of those feelings. The creature gains a +1 status bonus to saving throws and 10 temporary Hit Points for 10 minutes. If the creature shares your feelings, you gain the same benefits, and for the duration, when you both roll a success on a saving throw against an <<tag Emotion>> effect that causes negative emotions, you both get a critical success instead.

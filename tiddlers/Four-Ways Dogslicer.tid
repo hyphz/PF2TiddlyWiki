@@ -1,0 +1,14 @@
+created: 20210827171314881
+item-bulk: L
+item-hands: 1
+item-level: 12
+item-price: 17000
+item-slot: Weapon
+modified: 20210827171504119
+tags: Item Magical Uncommon Fire Cold Electricity Evocation
+title: Four-Ways Dogslicer
+type: text/vnd.tiddlywiki
+
+This [[+2|Weapon Potency]] [[Striking]] [[Dogslicer]] is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade’s cutting edge, three of which glow—one with fiery red light, one with a chill blue, and one that gives off sparks—while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
+
+''Activate'' {{OneAction}} [[Interact]]; Effect You twist the gem along the blade corresponding with the desired weapon rune: red for [[Flaming]], blue for [[Frost]], or yellow for [[Shock]]. You take 1d6 damage of the type the chosen rune deals. You can instead twist the black gem to disable the active property rune, taking no damage.

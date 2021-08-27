@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210824170654695
+modified: 20210827171153630
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -108,7 +108,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Injury]]</th><td>Affects target struck with piercing or slashing damage. Poison lost on fumble but not miss.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Interact]]">
-<tr><th>[[Interact]]</th><td>You must [[Interact]] with this item to activate it. This has <<tag Manipulate>> and needs a free hand.</td></tr>
+<tr><th>[[Interact]]</th><td>You must [[Interact]] with this item to activate it. This has <<tag Manipulate>> and needs a free hand, or the item to be worn/wielded.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Invested]]">
 <tr><th>[[Invested]]</th><td>This consumes one of your magical investment slots (normally 10, or 2 for a companion).</td></tr>

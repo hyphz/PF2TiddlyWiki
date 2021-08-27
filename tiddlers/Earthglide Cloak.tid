@@ -1,0 +1,14 @@
+created: 20210827165709960
+item-bulk: -
+item-hands: 0
+item-level: 15
+item-price: 65000
+item-slot: Cloak
+modified: 20210827165810459
+tags: Item Invested Magical Transmutation Earth Interact
+title: Earthglide Cloak
+type: text/vnd.tiddlywiki
+
+This brown-and-gold robe covers you from head to toe. Its weighty fabric doesn’t move with the wind, instead hanging still as if carved of stone.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Frequency'' once per hour; ''Effect'' You [[Burrow]] through dirt and stone up to your land Speed, leaving no tunnels or signs of your passing. If you end your movement inside solid stone, you are forcibly expelled into the nearest open area, taking 1d6 bludgeoning damage for every 5 feet between the end of your movement and the open area.

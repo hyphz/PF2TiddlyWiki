@@ -1,0 +1,23 @@
+created: 20210827185100107
+item-bulk: -
+item-hands: 0
+item-level: 9 19
+item-price: 7000 35000
+item-slot: Mask
+item-variants: Standard Greater
+m-save: Fortitude
+mod-intimidation: +2-3 item.
+modified: 20210827185356874
+tags: Item Interact Invested Magical Auditory Necromancy Negative Emotion
+title: Mask of the Banshee
+type: text/vnd.tiddlywiki
+
+This ice-blue half-mask is adorned with a wicked silver grin that covers the wearer’s mouth, leaving the rest of the face uncovered. 
+
+You gain a +2 (Greater: +3) item bonus to [[Intimidation]] checks.
+
+''Activate'' {{TwoActions}} envision, [[Interact]]; ''Frequency'' once per day; ''Effect'' The mask emits a soul-chilling scream that deals 6d10 negative damage to each living creature in a 20 foot emanation (DC 25 basic [[Fortitude]] save).
+
+Activating a greater mask of the banshee casts a 9th-level [[Wail of the Banshee]] (DC 41) affecting all living creatures in the area.
+
+''Craft Requirements'' Supply a casting of [[Wail of the Banshee]].

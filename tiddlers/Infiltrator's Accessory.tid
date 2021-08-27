@@ -1,0 +1,14 @@
+created: 20210827172228094
+item-bulk: 1
+item-hands: 1
+item-level: 5
+item-price: 1500
+item-slot: Weapon
+modified: 20210827172409435
+tags: Item Magical Illusion Interact
+title: Infiltrator's Accessory
+type: text/vnd.tiddlywiki
+
+This elegant [[+1|Weapon Potency]] [[Striking]] [[Sword Cane]] serves equally well as a fashionable accessory and hidden weapon suitable for high society events where weapons aren’t typically permitted.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Effect'' You twist the sword cane’s hilt, magically merging the blade into the cane. While the blade is merged, it can’t be drawn and gains the benefits of a 3rd-level [[Magic Aura]] spell to appear non-magical. Passive observers can’t attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 [[Perception]]). Activating the sword cane again releases the blade, allowing it to be drawn normally.
