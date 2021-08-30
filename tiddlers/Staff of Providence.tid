@@ -1,0 +1,29 @@
+created: 20210830162345995
+item-bulk: 1
+item-hands: 1
+item-level: 6 10 14 20
+item-price: 2300 9000 41000 640000
+item-variants: Standard Greater Major True
+mod-recall_knowledge: +1 item when using Religion.
+mod-sense_direction: +1 item.
+mod-subsist: +1 item.
+modified: 20210830162748827
+tags: Item Magical Staff Divination
+title: Staff of Providence
+type: text/vnd.tiddlywiki
+
+A large, stylized symbol of an eye adorns the top of this wooden staff, representing the watchful eye of the divine powers. The bearer of the staff can guide and protect, seeing bounties and tragedies that could befall them in the future. 
+
+When wielding this staff, you gain a +1 item bonus on [[Survival]] checks to [[Sense Direction]] or [[Subsist]], and to [[Religion]] checks to [[Recall Knowledge]].
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Guidance]], [[Light]] |
+|~|~|~| 1st |[[Bless]], [[Create Water]] |
+|~|~|~| 2nd |[[Augury]], [[Create Food]], [[See Invisibility]], [[Status]] |
+| Greater | 10 | 9000 | 3rd |[[Safe Passage]], [[Wanderer's Guide]] |
+|~|~|~| 4th |[[Remove Curse]], [[Spell Immunity]], [[Status]] |
+| Major | 14 | 41000 | 5th |[[Prying Eye]], [[See Invisibility]], [[Spell Immunity]] |
+|~|~|~| 6th |[[Spell Immunity]], [[Scintillating Safeguard]], [[True Seeing]] |
+| True | 20 | 640000 | 7th |[[Energy Aegis]], [[Spell Immunity]] |
+|~|~|~| 8th |[[Divine Inspiration]], [[Spell Immunity]] |
+|~|~|~| 9th |[[Foresight]], [[Overwhelming Presence]], [[Spell Immunity]] |

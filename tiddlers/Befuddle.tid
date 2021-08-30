@@ -12,7 +12,7 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200802220945349
+modified: 20210830164607116
 s-crit: The target is unaffected.
 s-fail: The target is [[Clumsy]] 2 and [[Stupefied]] 2.
 s-fumble: The target is [[Clumsy]] 3, [[Stupefied]] 3, and [[Confused]].
@@ -24,7 +24,5 @@ type: text/vnd.tiddlywiki
 {{||SpellSummaryTable}}
 
 You sow seeds of confusion in your target’s mind, causing their actions and thoughts to become clumsy.
-
-//The book does not list what saving throw is made against this spell. It is generally assumed to be [[Will]] because of the theme of the effect.//
 
 {{||SaveSuccessTable}}

@@ -2,7 +2,7 @@ created: 20200821225814725
 feat-anc: Halfling
 feat-level: 9
 mod-legendary_climber: Waives Quick Climb prerequisite.
-modified: 20200821225949941
+modified: 20210830163311386
 tags: Ancestry Feat Halfling
 title: Cunning Climber
 type: text/vnd.tiddlywiki
@@ -10,7 +10,3 @@ type: text/vnd.tiddlywiki
 Whether you are climbing a ship’s rigging, a jungle tree, or a clock tower, you have an uncanny knack for finding footholds and handholds where larger creatures can’t.
 
 You gain a climb Speed of 10 feet. 
-
-You can take the Legendary Climber feat even if you don’t have the [[Quick Climb]] feat, provided you meet its other prerequisites.
-
-//This is an error. There is no Legendary Climber feat.//

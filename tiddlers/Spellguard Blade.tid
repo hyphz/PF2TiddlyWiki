@@ -1,0 +1,15 @@
+created: 20210830161127008
+item-bulk: L
+item-hands: 1
+item-level: 7
+item-price: 3200
+item-slot: -
+mod-parry: Bonus also applies to saves vs spells.
+modified: 20210830161244997
+tags: Item Magical Abjuration
+title: Spellguard Blade
+type: text/vnd.tiddlywiki
+
+The guard of this [[+1|Weapon Potency]] [[Striking]] main-gauche is inscribed with eldritch glyphs that guard against magic. 
+
+When you are benefiting from the +1 circumstance bonus to AC from this weapon’s [[Parry]] trait, you also apply that circumstance bonus to your saving throws against spells that target you.

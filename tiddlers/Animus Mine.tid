@@ -12,7 +12,7 @@ m-range:
 m-save: Will
 m-targets: You
 m-time: 
-modified: 20200806182216784
+modified: 20210830164418888
 modtag-mental: May trigger target's Animus Mine.
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is [[Stunned]] 1.
@@ -31,6 +31,8 @@ You can use a single action, which has the <<tag Concentrate>> trait, to suppres
 You can [[Dismiss]] the spell.
 
 The first creature that uses a mental effect against you triggers the animus mine, causing the spell to end. The animus mine deals 4d8 mental damage to the triggering creature, which must attempt a [[Will]] save.
+
+__The animus mine spell should only the deal the mental damage on magical mental effects that send their magic into your mind, not if a creature tries to do something mundane like talk to you.__
 
 ''Heightened (+1)'' The damage increases by 2d8.
 

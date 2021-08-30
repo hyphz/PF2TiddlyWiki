@@ -11,9 +11,9 @@ m-duration:
 m-level: 1
 m-range: 
 m-save: 
-m-targets: 
+m-targets: __You and the triggering ally__
 m-time: 
-modified: 20200809195035247
+modified: 20210830164836126
 modtag-emotion: Can improve save by sharing effect.
 s-crit: 
 s-fail: 

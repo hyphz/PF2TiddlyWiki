@@ -15,7 +15,7 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20201226174052303
+modified: 20210830164207071
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -33,3 +33,5 @@ You deal normal melee damage for your weapon, including all appropriate bonuses,
 A creature that critically fails this save also suffers any additional effect you would normally inflict with your weapon on a critical hit; if the creature that critically fails its save is also immune to critical hits, it merely fails the save instead.
 
 You can convert all the physical damage from this spell into positive damage against all undead creatures in the area.
+
+__Your key casting ability for //this spell// is [[Charisma]].__

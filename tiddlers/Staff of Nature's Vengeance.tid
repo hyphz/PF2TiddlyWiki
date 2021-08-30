@@ -1,0 +1,27 @@
+created: 20210830161956389
+item-bulk: 1
+item-hands: 1
+item-level: 10 14 18
+item-price: 9000 40000 240000
+item-variants: Standard Greater Major
+modified: 20210830162411642
+tags: Item Magical Staff Evocation
+title: Staff of Nature's Vengeance
+type: text/vnd.tiddlywiki
+
+This stout staff is made from gnarled hawthorn. 
+
+When used as a weapon, a staff of nature’s vengeance permanently has the effects of [[Shillelagh]].
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 10 | 9000 | Cantrip |[[Tanglefoot]] |
+|~|~|~| 1st |[[Shocking Grasp]], [[Spider Sting]] |
+|~|~|~| 2nd |[[Flaming Sphere]], [[Vomit Swarm]] |
+|~|~|~| 3rd |[[Earthbind]], [[Wall of Thorns]] |
+|~|~|~| 4th |[[Bestial Curse]], [[Spike Stones]] |
+| Greater | 14 | 40000 | 5th |[[Cloudkill]], [[Control Water]] |
+|~|~|~| 6th |[[Purple Worm Sting]], [[Tangling Creepers]] |
+| Major | 18 | 240000 | 7th |[[Sunburst]], [[Volcanic Eruption]] |
+|~|~|~| 8th |[[Earthquake]], [[Punishing Winds]] |
+
+To craft a Staff of Nature's Vengeance, you must provide a casting of [[Shillelagh]] as well as all other listed spells.

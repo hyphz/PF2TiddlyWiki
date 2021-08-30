@@ -1,7 +1,7 @@
 created: 20200822174545273
-modified: 20200822174604710
+modified: 20210830163527655
 tags: Heritage Leshy
 title: Fungus Leshy
 type: text/vnd.tiddlywiki
 
-You gain [[Darkvision]].
+You gain [[Darkvision]]. __You lose the <<tag Plant>> trait and gain the <<tag Fungus>> trait.__

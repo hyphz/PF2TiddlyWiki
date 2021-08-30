@@ -12,7 +12,7 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200802215042467
+modified: 20210830164528804
 s-crit: The spell has no effect.
 s-fail: The duration is 2 rounds.
 s-fumble: The duration is 4 rounds.
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 
 You send the target’s mind and body into overdrive, forcing it to become restless and hyperactive.
 
-During the duration, the target must [[Stride]] at least once each turn or take 2d8 <<tag Mental>>damage that turn. 
+During the duration, the target must [[Stride]], __[[Fly]] or [[Swim]]__ at least once each turn or take 2d8 <<tag Mental>>damage that turn. __The GM might decide to add additional move actions to the list for creatures who possess only a more unusual form of movement, //but the spell should not allow creatures to [[Step]]//.__
 
 The duration of this effect depends on the target’s [[Will]] save.
 

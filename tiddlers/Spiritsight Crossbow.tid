@@ -1,0 +1,14 @@
+created: 20210830161306666
+item-bulk: 2
+item-hands: 2
+item-level: 8
+item-price: 4500
+item-slot: -
+modified: 20210830161445221
+tags: Item Magical Uncommon Conjuration Teleportation Envision
+title: Spiritsight Crossbow
+type: text/vnd.tiddlywiki
+
+This [[+1|Weapon Potency]] [[Striking]] [[Ghost Touch]] crossbow has an array of crystalline lenses and silver fittings along the stock and feels strangely light.
+
+''Activate'' {{OneAction}} envision; ''Frequency'' once per minute; ''Effect'' You aim through the crossbow’s crystalline lenses, gaining [[Imprecise]] vision onto the Ethereal Plane with a range of 60 feet in addition to your normal senses for the rest of your turn. While this effect lasts, your next [[Strike]] with the spiritsight crossbow can also affect targets on the Ethereal Plane during the first 60 feet of its flight.

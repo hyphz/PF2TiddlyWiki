@@ -17,7 +17,7 @@ mod-high_jump: -1 status in the area.
 mod-long_jump: -1 status in the area.
 mod-track: Destroys tracks in the affected area.
 mod-tumble_through: -1 status in the area.
-modified: 20200812214608415
+modified: 20210830164651708
 s-crit: The creature is unaffected and ignores the area’s difficult terrain and penalty to skill checks until the end of its turn.
 s-fail: The creature is affected normally by the spell this turn.
 s-fumble: The creature becomes [[Immobilized]] within the spell’s area until it [[Escape]]s. If the creature was already immobilized by shifting sands, it also falls [[Prone]].
@@ -35,7 +35,7 @@ The area becomes [[Difficult Terrain]] and any tracks in the area are destroyed 
 
 Creatures standing in the area take a –1 status penalty to [[Acrobatics]] checks to [[Balance]] and [[Tumble Through]] and [[Athletics]] checks to [[High Jump]] and [[Long Jump]]. 
 
-When you [[Sustain the Spell|Sustain a Spell]], you can move the churning area up to 10 feet in any direction.  Creatures [[Immobilized]] by the spell are carried along with the shifting sand in the same direction, if possible; this movement is [[Forced Movement]]
+__The first time each round__ you [[Sustain the Spell|Sustain a Spell]], you can move the churning area up to 10 feet in any direction.  Creatures [[Immobilized]] by the spell are carried along with the shifting sand in the same direction, if possible; this movement is [[Forced Movement]]
 
 Creatures that enter or begin their turn standing in the shifting sand must attempt a [[Reflex]] save.
 

@@ -1,0 +1,30 @@
+created: 20210830161508242
+item-bulk: 1
+item-hands: 1
+item-level: 6 12 16 20
+item-price: 2300 18000 100000 700000
+item-variants: Standard Greater Major True
+modified: 20210830161849156
+tags: Item Magical Staff Illusion Uncommon
+title: Staff of Impossible Visions
+type: text/vnd.tiddlywiki
+
+This bizarre staff is made from oak, capped with a cluster of eye-shaped gemstones that seem to move and undulate at the corner of your vision. 
+
+While wielding the staff, you can peer through the eyes, using your normal visual senses (including any benefits of spells affecting your vision, like [[See Invisibility]]). 
+
+You can maneuver the staff to see things around corners, at higher elevations, or in places where the staff can fit but your head can’t. This doesn’t provide sufficient line of effect to target creatures around corners.
+
+The eyes are as vulnerable as your eyes and can be affected by anything that alters your vision, such as a blinding flash of light.
+
+| !Type | !Level | !Price | !Spell Level | !Spells |
+| Standard | 6 | 2300 | Cantrip |[[Daze]] |
+|~|~|~| 1st |[[Fear]], [[Phantom Pain]] |
+|~|~|~| 2nd |[[Augury]], [[Paranoia]] |
+| Greater | 12 | 18000 | 3rd |[[Hypnotic Pattern]], [[Paralyze]] |
+|~|~|~| 4rd |[[Countless Eyes]], [[Phantasmal Killer]] |
+|~|~|~| 5th |[[Strange Geometry]] |
+| Major | 16 | 100000 | 6th |[[Blinding Fury]], [[Phantasmal Calamity]] |
+|~|~|~| 7th |[[Visions of Danger]], [[Warp Mind]] |
+| True | 20 | 700000 | 8th |[[Spirit Song]], [[Uncontrollable Dance]] |
+|~|~|~| 9th |[[Unfathomable Song]], [[Weird]] |

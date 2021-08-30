@@ -1,0 +1,19 @@
+created: 20210830155343375
+item-bulk: 1
+item-hands: 1
+item-level: 13 16
+item-price: 30000 90000
+item-slot: Shield
+item-variants: Standard Greater
+modified: 20210830155636539
+tags: Item Interact Magical Transmutation Visual
+title: Medusa's Scream
+type: text/vnd.tiddlywiki
+
+The ghastly visage of a slain medusa’s head stares out from this steel shield (Standard: Hardness 13, HP 52, BT 26; Greater: Hardness 15, HP 60, BT 30). The shield comes with a thick leather cover to conceal the head.
+
+''Activate'' {{TwoAction}} [[Interact]] (visual); ''Frequency'' once per day (Greater: once per hour); ''Effect'' You reveal the medusa’s face, focusing its gaze on one creature within 30 feet. The shield casts [[Flesh to Stone]] with a range of 30 feet. For a greater Medusa's Scream, the DC is 35.
+
+//The book doesn't state what the DC for a standard Medusa's Scream is.//
+
+''Craft Requirements'' The initial raw materials must include the head of a medusa.

@@ -13,13 +13,13 @@ m-range: 60 feet
 m-save: 
 m-targets: 1 or more creatures
 m-time: 
-modified: 20200809193712237
+modified: 20210830164814491
 modtag-electricity: Target takes save penalty and attackers gain bonus.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Electricity Evocation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Electricity Evocation Attack
 title: Charged Javelin
 type: text/vnd.tiddlywiki
 

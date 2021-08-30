@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210830162912498
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: Until your next daily preparations
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 1 minute
+mod-difficult_terrain: Ignore in exploration mode if following inspired route.
+modified: 20210830163106600
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divine Material Occult Divination
+title: Wanderer's Guide
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon the beyond to guide your route. 
+
+When you Cast this Spell, choose a destination; you receive an inspired route to that destination, allowing you and allies who travel overland with you to reduce the movement penalty from difficult terrain by half for the duration, as long as you don’t deviate from the inspired route. 
+
+This doesn’t have any effect on movement during encounters. 
+
+If you use this ability again before the duration is over, this effect ends and is replaced by that of the new route.
