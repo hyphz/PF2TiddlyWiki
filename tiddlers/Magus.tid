@@ -1,0 +1,47 @@
+cls-combt: Simple Martial Unarmed Light Medium Unarmored
+cls-exskills: 2
+cls-fortitude: E
+cls-hpbase: 8
+cls-key: Strength Dexterity
+cls-per: T
+cls-reflex: T
+cls-tskills: Arcana
+cls-will: E
+created: 20210901215716169
+modified: 20210901222523304
+tags: Class
+title: Magus
+type: text/vnd.tiddlywiki
+
+!! Splats
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Arcane Cascade]], [[Spellstrike]], __''no advancement feat''__, 5 cantrips, 1 1st-level slot |
+| 2 | +1 1st-level slot |
+| 3 | 1 2nd-level slot |
+| 4 | +1 2nd-level slot |
+| 5 | [[Lightning Reflexes]], [[Weapon Expertise]], Lose 1st level slots, 2 3rd-level slots |
+| 6 |  |
+| 7 | [[Studious Spells]] (2nd level), [[Weapon Specialization]], Lose 2nd level slots, 2 4th-level slots |
+| 8 |  |
+| 9 | [[Alertness]], [[Expert Spellcaster]], [[Resolve]], Lose 3rd level slots, 2 5th-level slots |
+| 10 |  |
+| 11 | [[Studious Spells]] (3rd level), [[Medium Armor Expertise]], Lose 4th level slots, 2 6th-level slots |
+| 12 |  |
+| 13 | [[Studious Spells]] (4th level), [[Weapon Mastery]], Lose 5th level slots, 2 7th-level slots |
+| 14 |  |
+| 15 | [[Greater Weapon Specialization]], [[Juggernaut]], Lose 6th level slots, 2 8th-level slots  |
+| 16 |  |
+| 17 | [[Master Spellcaster]], [[Medium Armor Mastery]], Lose 7th level slots, 2 9th-level slots |
+| 18 |  |
+| 19 | [[Double Spellstrike]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

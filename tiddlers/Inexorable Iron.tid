@@ -1,0 +1,21 @@
+created: 20210901221529998
+mod-arcane_cascade: At turn start in stance and with 2-handed melee, gain half level temp HP.
+modified: 20210901222953413
+splat-class: Magus
+tags: Splat Magus
+title: Inexorable Iron
+type: text/vnd.tiddlywiki
+
+Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an unstoppable force to augment your own striking power or keep you standing on the battlefield.
+
+When you enter [[Arcane Cascade]] stance and at the start of each of your turns while you’re in that stance, if you’re wielding a melee weapon in two hands, you gain temporary Hit Points equal to half your level (minimum 1 temporary HP).
+
+''Conflux Spell'': [[Thunderous strike]].
+
+!!! Studious Spells
+
+| !Slot Level | !Spell |
+| 2nd | [[Enlarge]] |
+| 3rd | [[Earthbind]] |
+| 4th | [[Dimensional Anchor]] |
+

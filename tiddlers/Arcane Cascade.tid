@@ -1,0 +1,30 @@
+a-actions: 1
+a-class: Magus
+created: 20210901221123929
+mod-strike: +1-3 damage and becomes Arcane.
+modified: 20210901221405631
+tags: Action Magus Concentrate Stance
+title: Arcane Cascade
+type: text/vnd.tiddlywiki
+
+''Requirements'' You used your most recent action to [[Cast a Spell]] or make a [[Spellstrike]].
+
+You divert a portion of the spell’s magical power and keep it cycling through your body and weapon using specialized forms, breathing, or footwork. 
+
+While you’re in the stance, your melee [[Strike]]s deal 1 extra damage. This damage increases to 2 if you have weapon specialization and 3 if you have greater weapon specialization. 
+
+Any Strike that benefits from this damage gains the <<tag Arcane>> trait, making it magical.
+
+If your most recent spell before entering the stance was one that can deal damage, the damage from the stance is the same type that spell could deal (or one type of your choice if the spell could deal multiple types of damage). 
+
+If the spell couldn’t deal damage, this stance’s bonus damage depends on the spell’s school.
+
+| !School | !Damage Type |
+| Abjuration | Force |
+| Conjuration | Same type as your weapon or unarmed attack |
+| Divination | Mental |
+| Enchantment | Mental |
+| Evocation | Mental |
+| Illusion | Mental |
+| Necromancy | Negative |
+| Transmutation | Same type as your weapon or unarmed attack |

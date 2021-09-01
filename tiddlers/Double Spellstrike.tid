@@ -1,0 +1,12 @@
+created: 20210901223350309
+mod-spellstrike: Spell stored for 1 minute for use on a second strike.
+modified: 20210901223437585
+tags: Ability
+title: Double Spellstrike
+type: text/vnd.tiddlywiki
+
+You can extend the magic of spells you store with [[Spellstrike]]. 
+
+After you make a Spellstrike with a spell cast from a spell slot, you retain an echo of the spell, stored in your body. The next time you Spellstrike, you can cast the same spell again without expending a spell slot.
+
+If you choose to cast a different spell with Spellstrike, or you go 1 minute without using the stored spell, the stored spell dissipates harmlessly.

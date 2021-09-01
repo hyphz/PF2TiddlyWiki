@@ -1,0 +1,21 @@
+a-actions: 1
+a-subactions: [[Recall Knowledge]]
+created: 20210901223639963
+feat-class: Magus
+feat-fpre: Spellstrike
+feat-level: 1
+mod-spellstrike: Recharge by recalling knowledge about opponent.
+modified: 20210901224048337
+tags: Feat Class Magus
+title: Magus's Analysis
+type: text/vnd.tiddlywiki
+
+You make an assessment informed by your knowledge of how a creature fights. 
+
+Attempt a check to [[Recall Knowledge]] about a creature. You gain a +1 circumstance bonus to your check if you previously hit the creature with a [[Strike]] this turn. 
+
+If your check is successful, recharge your [[Spellstrike]]. 
+
+The subject of your check is temporarily immune to Magus’s Analysis for 1 day.
+
+//You presumably also gain some information about the creature; otherwise, this is just worse than [[Recharge Spellstrike]].//

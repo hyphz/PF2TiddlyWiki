@@ -1,10 +1,10 @@
 created: 20200711181407107
 feat-archadd: [[Familiar Master]]
 feat-archlevel: 4
-feat-class: Druid Sorcerer Wizard Witch
+feat-class: Druid Sorcerer Wizard Witch Magus
 feat-level: 2
-modified: 20210606143154536
-tags: Ability Class Feat Wizard Druid Sorcerer Witch
+modified: 20210901224405206
+tags: Ability Class Feat Wizard Druid Sorcerer Witch Magus
 title: Enhanced Familiar
 type: text/vnd.tiddlywiki
 
@@ -14,4 +14,4 @@ You infuse your familiar with additional magical energy.
 
 You can select four familiar or master abilities each day, instead of two.
 
-''Special'' If your arcane thesis is [[Improved Familiar Attunement]], your familiar’s base number of familiar abilities, before adding any extra abilities from the arcane thesis, is four.
+''Special'' If you're a [[Wizard]] and your arcane thesis is [[Improved Familiar Attunement]], your familiar’s base number of familiar abilities, before adding any extra abilities from the arcane thesis, is four.
