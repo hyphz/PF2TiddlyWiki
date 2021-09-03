@@ -1,0 +1,14 @@
+created: 20210903193616563
+feat-class: Magus
+feat-level: 6
+mod-recall_knowledge: Critical gives +1 circumstance to next hit, next AC and next save.
+modified: 20210903193709225
+tags: Class Feat Magus
+title: Knowledge is Power
+type: text/vnd.tiddlywiki
+
+When you critically succeed at a [[Recall Knowledge]] check about a creature, you gain a +1 circumstance bonus to your next attack roll against the creature, to your AC against its next attack roll, and to your save against its next effect requiring a save. 
+
+If you share this information with your allies, they gain the benefits as well. 
+
+If not used, these bonuses end after 1 minute.

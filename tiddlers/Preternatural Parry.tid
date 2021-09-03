@@ -1,0 +1,18 @@
+a-hands: 1
+created: 20210903203337495
+feat-class: Magus
+feat-fpre: [[Spell Parry]]
+feat-level: 14
+modified: 20210903203425655
+tags: Class Feat Magus Action Reaction
+title: Preternatural Parry
+type: text/vnd.tiddlywiki
+
+''Trigger'' You’re targeted by a Strike or a spell attack roll, or you’re about to roll a saving throw against a spell effect.
+
+''Requirements'' You have one or more hands free.
+
+You snap your weapon or limb into place to ward off harm at the last second. 
+
+You gain a +2 circumstance bonus to AC and saving throws against the triggering effect until the start of your next turn.
+

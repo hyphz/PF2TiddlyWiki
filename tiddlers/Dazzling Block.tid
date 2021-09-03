@@ -1,0 +1,23 @@
+a-defense: Fortitude
+created: 20210903195210269
+feat-class: Magus
+feat-fpre: [[Arcane Cascade]]
+feat-level: 10
+feat-sppre: [[Sparkling Targe]]
+mod-shield_block: Block creates a cone that may blind or dazzle.
+modified: 20210903195531835
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 minute. The creature can spend an [[Interact]] action rubbing its eyes to end this blinded condition.
+s-fumble: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 hour.
+s-hit: The creature is [[Dazzled]] for 1 round.
+tags: Class Feat Magus Evocation Light Visual
+title: Dazzling Block
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in Arcane Cascade stance.
+
+When you use [[Shield Block]], you can create a flash of brilliant, multicolored light in a 15-foot cone. 
+
+Each creature in the area must attempt a [[Fortitude]] save, with the following effects.
+
+{{||SaveSuccessTable}}

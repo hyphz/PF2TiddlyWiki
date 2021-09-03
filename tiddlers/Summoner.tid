@@ -1,0 +1,47 @@
+cls-combt: Simple Unarmed Unarmored
+cls-exskills: 3
+cls-fortitude: E
+cls-hpbase: 10
+cls-key: Charisma
+cls-per: T
+cls-reflex: T
+cls-tskills: 
+cls-will: E
+created: 20210903204232525
+modified: 20210903204949394
+tags: Class
+title: Summoner
+type: text/vnd.tiddlywiki
+
+!! Eidolons
+
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
+
+!! Class Features
+
+| !Level | !Features |
+| 1 | [[Eidolon]], [[Manifest Eidolon]], [[Act Together]], [[Share Senses]], [[Evolution Surge]], [[Boost Eidolon]], Evolution Feat, __**No advancement feat**__,  5 cantrips, 1 1st-level slot |
+| 2 |  +1 1st level slot |
+| 3 | [[Shared Vigilance]], [[Unlimited Signature Spells]], 1 2nd-level slot |
+| 4 | +1 2nd-level slot |
+| 5 | [[Eidolon Unarmed Expertise]], 1st level slots become 3rd level |
+| 6 |  |
+| 7 | [[Eidolon Symbiosis]], [[Eidolon Weapon Specialization]], 2nd level slots become 4th level |
+| 8 |  |
+| 9 | [[Expert Spellcaster]], [[Shared Reflexes]], 3rd level slots become 5th level |
+| 10 |  |
+| 11 | [[Eidolon Defensive Expertise]], [[Simple Weapon Expertise]], [[Twin Juggernauts]], 4th level slots become 6th level |
+| 12 |  |
+| 13 | [[Defensive Robes]], [[Eidolon Unarmed Mastery]], [[Weapon Specialization]], 5th level slots become 7th level |
+| 14 |  |
+| 15 | [[Greater Eidolon Specialization]], [[Shared Resolve]], 6th level slots become 8th level |
+| 16 |  |
+| 17 | [[Eidolon Transcendence]], [[Master Spellcaster]], 7th level slots become 9th level |
+| 18 |  |
+| 19 | [[Eidolon Defensive Mastery]], [[Instant Manifestation]] |
+| 20 | |
+
+!! Class Feats
+
+{{||ClassFeatList}}
+

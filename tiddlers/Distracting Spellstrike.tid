@@ -1,0 +1,18 @@
+a-actions: 2
+created: 20210903192538033
+feat-class: Magus
+feat-fpre: [[Arcane Cascade]] [[Spellstrike]]
+feat-level: 4
+feat-sppre: [[Laughing Shadow]]
+modified: 20210903192653163
+tags: Feat Class Magus Action
+title: Distracting Spellstrike
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are in [[Arcane Cascade]] stance and have a hand free //and your [[Spellstrike]] is charged//.
+
+You weave distracting magic with one hand to enhance your Spellstrike. 
+
+Make a [[Spellstrike]] and [[Feint]] against the target of your Strike. Do this immediately before making the Strike, but after choosing your target. 
+
+The Feint gains the <<tag Arcane>>, <<tag Illusion>>, and <<tag Visual>> traits, and it always has the basic effects of a Feint, rather than applying any adjustments or alternate effects from other feats or abilities.

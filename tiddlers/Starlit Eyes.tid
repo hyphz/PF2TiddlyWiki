@@ -1,0 +1,20 @@
+created: 20210903192853380
+feat-class: Magus
+feat-fpre: [[Arcane Cascade]]
+feat-level: 4
+feat-sppre: [[Starlit Span]]
+mod-concealed: Flat DC 3 if in Arcane Cascade and attacking at range.
+mod-hidden: Flat DC 9 if in Arcane Cascade and attacking at range.
+mod-shooting_star: No flat check for targetting a hidden creature.
+modified: 20210903193032129
+tags: Feat Class Magus
+title: Starlit Eyes
+type: text/vnd.tiddlywiki
+
+Starlight shines in your sight, enhancing your perception and range. 
+
+When you make a ranged Strike while in Arcane Cascade stance, you lower the DC of your flat check to target a creature that’s [[Concealed]] or [[Hidden]] from you. 
+
+The DC is reduced to 3 instead of 5 against a concealed creature and to 9 instead of 11 against a hidden one. 
+
+When you cast [[Shooting Star]] and target a hidden creature, you don’t have to attempt the flat check for targeting a hidden creature with a ranged Strike.

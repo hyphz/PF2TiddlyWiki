@@ -1,0 +1,32 @@
+a-actions: 1
+created: 20210903200939470
+feat-class: Magus
+feat-fpre: Spellstrike [[Arcane Cascade]]
+feat-level: 14
+modified: 20210903203314448
+tags: Class Feat Magus Action
+title: Arcane Shroud
+type: text/vnd.tiddlywiki
+
+''Frequency'' once per turn
+
+''Requirements'' Your most recent action was to [[Cast a Spell]] from a spell slot or make a [[Spellstrike]] with a spell from a spell slot.
+
+Your spell has a powerful aftereffect, briefly granting you a certain spell depending on the spell you cast. 
+
+You use [[Arcane Cascade]] and are subject to an additional aftereffect spell depending on the school of your most recent spell. 
+
+This aftereffect spell’s duration lasts until the end of your next turn or its normal duration, whichever is longer. 
+
+Using Arcane Shroud again ends any existing spell you gained from Arcane Shroud.
+
+| !School | !Aftereffect Spell |
+| Abjuration | [[Stoneskin]] |
+| Conjuration | [[Blink]] |
+| Divination | [[See Invisibility]] |
+| Enchantment | [[Heroism]] |
+| Evocation | [[Fire Shield]] |
+| Illusion | [[Invisibility]] (ends after a hostile action, as normal) |
+| Necromancy | [[False Life]] |
+| Transmutation | [[Fleet Step]] |
+

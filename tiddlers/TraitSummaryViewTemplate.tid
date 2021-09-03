@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210827171153630
+modified: 20210903211446755
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -61,6 +61,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Divine]]">
 <tr><th>[[Divine]]</th><td>This spell can be identified using [[Religion]].</td></tr>
+</$list>
+<$list filter="[all[current]tag[Eidolon]]">
+<tr><th>[[Eidolon]]</th><td>Can only be used, worn, or action taken by an eidolon.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Emotion]]">
 <tr><th>[[Emotion]]</th><td>This won't work on creatures with mechanical or artificial intelligence.</td></tr>
@@ -187,6 +190,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Talisman]]">
 <tr><th>[[Talisman]]</th><td>[[Affix a Talisman]] to an item, then activate for one use.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Tandem]]">
+<tr><th>[[Tandem]]</th><td>Requires a separate, manifested, eidolon; and that it and you are able to act. Can't stack tandem actions.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Trained]]">
 <tr><th>[[Trained]]</th><td>You must be trained in the relevant skill to use this. //Having [[Untrained Improvisation]] is ''not'' sufficient.//</td></tr>

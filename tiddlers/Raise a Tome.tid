@@ -3,7 +3,8 @@ created: 20210901224105989
 feat-class: Magus
 feat-level: 1
 mod-recall_knowledge: +1 circumstance to identify creatures using skill related to book.
-modified: 20210901224246151
+mod-shield_block: Can block with your book.
+modified: 20210903193938299
 tags: Feat Class Magus
 title: Raise a Tome
 type: text/vnd.tiddlywiki

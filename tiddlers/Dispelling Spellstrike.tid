@@ -1,0 +1,19 @@
+a-actions: 3
+created: 20210903203546588
+feat-class: Magus
+feat-fpre: [[Spellstrike]]
+feat-level: 16
+modified: 20210903203640369
+tags: Class Feat Magus Action
+title: Dispelling Spellstrike
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your Spellstrike is charged.
+
+The spell you deliver tries to force out magic affecting your enemy. 
+
+Make a [[Spellstrike]]. 
+
+If it hits, you also attempt to [[Counteract]] a single spell (of your choice) active on the target.
+
+The counteract level is half your level rounded up, and the counteract check modifier is the standard modifier for counteracting with a spell (your Intelligence modifier plus your spellcasting proficiency bonus, plus any bonuses or penalties that specifically apply to counteract checks).

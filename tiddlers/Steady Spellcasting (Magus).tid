@@ -1,0 +1,17 @@
+created: 20210903193116572
+feat-class: Magus
+feat-level: 4
+modified: 20210903193209766
+tags: Class Feat Magus
+title: Steady Spellcasting (Magus)
+type: text/vnd.tiddlywiki
+
+You don’t lose spells easily.
+
+If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check.
+
+If you succeed, your action isn’t disrupted.
+
+//NB: there is no protection against spellcasting being disrupted by things other than reactions.//
+
+//This feat is available to most casters at level 6, but to the Magus at level 4.//

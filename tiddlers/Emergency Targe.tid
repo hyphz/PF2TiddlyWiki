@@ -1,0 +1,14 @@
+created: 20210903192710267
+feat-class: Magus
+feat-level: 4
+feat-sppre: [[Sparkling Targe]]
+modified: 20210903192833511
+tags: Feat Class Magus Action Reaction
+title: Emergency Targe
+type: text/vnd.tiddlywiki
+
+''Trigger'' An enemy hits you with a melee Strike or a melee spell attack roll, or you fail a save against an enemy’s spell.
+
+''Requirements'' You are wielding a shield or have the [[Shield]] spell prepared.
+
+You immediately [[Raise a Shield]] //(or [[Raise a Tome]])// or cast [[Shield]]. The circumstance bonus applies to your defenses when determining the outcome of the triggering attack or spell.

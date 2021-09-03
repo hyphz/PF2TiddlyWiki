@@ -1,0 +1,18 @@
+a-actions: 2
+created: 20210903195948188
+feat-class: Magus
+feat-fpre: [[Spellstrike]]
+feat-level: 10
+feat-sppre: [[Starlit Span]]
+modified: 20210903200035582
+tags: Class Feat Magus Action Arcane Transmutation
+title: Meteoric Spellstrike
+type: text/vnd.tiddlywiki
+
+''Requirements'' You’re wielding a ranged or thrown weapon, or have a ranged unarmed attack.
+
+A trail of energy flows from your target back to you. 
+
+Make a [[Spellstrike]] with a ranged weapon or ranged unarmed attack against a target within the ranged weapon or unarmed attack’s first range increment. The spell you cast for the Spellstrike can’t be a cantrip or focus spell. 
+
+Each creature in a line between you and the target, excluding you and the target, takes damage equal to double the spell's level. Determine the damage type as described in [[Arcane Cascade]].

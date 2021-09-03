@@ -1,0 +1,18 @@
+created: 20210903200155971
+feat-class: Magus
+feat-fpre: [[Arcane Cascade]]
+feat-level: 10
+feat-sppre: [[Inexorable Iron]]
+modified: 20210903200325110
+tags: Class Feat Magus Action Free Arcane Healing Necromancy Positive
+title: Sustaining Steel
+type: text/vnd.tiddlywiki
+
+''Trigger'' You [[Cast a Spell]] using a spell slot.
+''Requirements'' You’re in [[Arcane Cascade]] stance.
+
+You pull magic into your weapon, using its substance to transform the magic into restorative energy. 
+
+You regain Hit Points equal to double the spell’s level and roll to end any persistent negative damage you have.
+
+If the spell was of the <<tag Necromancy>> school, any persistent negative damage you have ends automatically, and you can change the damage type from [[Arcane Cascade]] to <<tag Positive>> if you wish. (Positive damage typically damages only undead or other creatures with [[Negative Healing]].)

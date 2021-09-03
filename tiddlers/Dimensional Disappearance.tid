@@ -1,0 +1,17 @@
+a-defense: Fortitude
+created: 20210903195605878
+feat-class: Magus
+feat-fpre: [[Dimensional Assault]]
+feat-level: 10
+feat-sppre: [[Laughing Shadow]]
+mod-dimensional_assault: Invisible after teleport (but ends after strike, if made)
+modified: 20210903195731665
+tags: Class Feat Magus
+title: Dimensional Disappearance
+type: text/vnd.tiddlywiki
+
+You take advantage of teleportation to better hide your position. 
+
+When you cast [[Dimensional Assault]], you’re affected by an [[Invisibility]] spell at the end of the teleport. 
+
+You can choose not to make the [[Strike]] that is normally part of dimensional assault. If you do make the Strike, your invisibility ends after the Strike, as normal for invisibility.

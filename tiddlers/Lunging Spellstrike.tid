@@ -1,0 +1,16 @@
+a-actions: 2
+created: 20210903195832258
+feat-class: Magus
+feat-fpre: [[Spellstrike]]
+feat-level: 10
+feat-sppre: [[Twisting Tree]]
+modified: 20210903195925908
+tags: Class Feat Magus Action Arcane Transmutation
+title: Lunging Spellstrike
+type: text/vnd.tiddlywiki
+
+''Requirements'' You’re wielding a staff.
+
+Your spell unwinds the structure of your staff to make it exceptionally long, or even separate it into shards held together by magical power. 
+
+Make a [[Spellstrike]] with a staff, with a spell that isn’t a cantrip or focus spell. Increase the staff’s reach by 5 feet × the spell’s level.

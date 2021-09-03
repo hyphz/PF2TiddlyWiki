@@ -1,0 +1,21 @@
+a-actions: 2
+created: 20210903200818457
+feat-class: Magus
+feat-fpre: Spellstrike
+feat-level: 12
+modified: 20210903200916819
+tags: Class Feat Magus Action
+title: Overwhelming Spellstrike
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your Spellstrike is charged.
+
+You pierce through your foe’s resistance. 
+
+Make a [[Spellstrike]]. 
+
+The spell you cast as part of the Spellstrike ignores an amount of the target’s resistance to acid, cold, electricity, fire, or sonic damage equal to your level. 
+
+This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell. 
+
+A creature’s immunities are unaffected.
