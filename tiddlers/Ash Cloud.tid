@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210929210003232
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal Material
+m-duration: 1 minute
+m-level: 2
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+mod-scent: Can't detect using smell inside the cloud.
+modified: 20210929210239513
+s-crit: The target is unaffected.
+s-fail: The target takes full damage and is [[Dazzled]] for 1 round.
+s-fumble: The target takes double damage and is [[Blinded]] for 1 round.
+s-hit: The target takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Air Conjuration Fire Arcane Primal Material
+title: Ash Cloud
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You summon a tumultuous cloud of ash and smoke. 
+
+The cloud is [[Difficult Terrain]] for flying creatures, and creatures in the cloud can’t detect anything using their sense of smell. 
+
+Creatures that start their turn within the cloud take 2d4 fire damage as their lungs fill with the hot, acrid smoke, with a Fortitude save.
+
+{{||SaveSuccessTable}}

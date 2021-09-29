@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210929205557614
+m-area: 5-foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20210929210137770
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Primal
+title: Animal Allies
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You summon tiny, ordinary animals from the environment, such as insects, birds, or fish, to quickly lash out at nearby foes. 
+
+The animals swarm around the creatures in the area, dealing each of them 3d4 piercing damage with a basic [[Reflex]] save.
+
+''Heightened (+1)'' The damage increases by 3d4.

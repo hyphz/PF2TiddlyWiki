@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20210929211507064
+m-area: 120-foot [[Line]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20210929211702284
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage, and it falls [[Prone]].
+s-fumble: The target takes double damage, and it falls Prone.
+s-hit: The creature takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Earth Evocation Fire Arcane Primal
+title: Blazing Fissure
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A thin crack rips through the earth, erupting with magma, then swiftly seals up. 
+
+Each creature along the line and on solid ground takes 4d6 bludgeoning damage and 6d6 fire damage with a [[Reflex]] save.
+
+{{||SaveSuccessTable}}
+
+''Heightened (+1)'' The damage increases by 1d6 bludgeoning and 1d6 fire.
