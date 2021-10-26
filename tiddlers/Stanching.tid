@@ -1,0 +1,21 @@
+created: 20211013104407973
+item-level: 5 9 13 17
+item-price: 1300 6000 25000 125000
+item-variants: Standard Greater Major True
+mod-persistent_damage: Reduces flat DC against bleed.
+modified: 20211013104738238
+tags: Rune Uncommon Magical Necromancy Armor
+title: Stanching
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor.
+
+These symbols close bloody wounds. 
+
+Armor with this rune reduces the DC of the flat check to end persistent bleed damage, more so with particularly effective assistance.
+
+| !Type | !Level | !Price | !Flat DC | !Flat DC With Assistance |
+| (standard) | 5 | 1300 | 12 | 7 |
+| Greater | 9 | 6000 | 10 | 5 |
+| Major | 13 | 25000 | 8 | 3 |
+| True | 17 | 125000 | 5 | Automatic success |

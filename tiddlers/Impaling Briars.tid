@@ -15,7 +15,7 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Choose an effect when sustained.
-modified: 20201024150038297
+modified: 20211026215452606
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,8 +28,7 @@ type: text/vnd.tiddlywiki
 
 The ground within the area transforms into a mass of dangerous briars that assault and impede your foes. 
 
-Each round when you [[Sustain the Spell|Sustain a Spell]], you can select one of the
-following effects to occur in the area.
+__The first time in each turn that__ you [[Sustain the Spell|Sustain a Spell]], you can select one of the following effects to occur in the area.
 
 * ''Ensnare'' The briars clump around your foes, attempting to hold them in place. A foe within the area (or flying at most 20 feet above the area) must attempt a [[Reflex]] save. On a failure, it takes a –10-foot circumstance penalty to all [[Speed]]s for 1 round, and on a critical failure, it is [[Immobilized]] for 1 round unless it [[Escape]]s.
 * ''Impede'' The briars twist and writhe, making the entire area [[Difficult Terrain]].

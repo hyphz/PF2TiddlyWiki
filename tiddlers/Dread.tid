@@ -1,0 +1,18 @@
+created: 20211013103706553
+item-level: 6 12 18
+item-price: 2250 18000 210000
+item-variants: Lesser Moderate Greater
+mod-frightened: Fear doesn't decrease if Will save failed.
+modified: 20211013103958694
+tags: Rune Magical Uncommon Emotion Enchantment Fear Mental Visual
+title: Dread
+type: text/vnd.tiddlywiki
+
+Eerie symbols cover your armor, inspiring terror in your foes. 
+
+[[Frightened]] enemies within 30 feet that can see you must attempt a [[Will]] save at the end of their turn; on a failure, the value of their frightened condition doesn’t decrease below a given minimum that turn.
+
+| !Type | !Level | !Price | !DC | !Minimum Frightened |
+| Lesser | 6 | 2250 | 20 | 1 |
+| Moderate | 12 | 18000 | 29 | 2 |
+| Greater | 18 | 21000 | 38 | Never decreases |

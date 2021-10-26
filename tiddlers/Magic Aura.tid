@@ -12,7 +12,7 @@ m-range: Touch
 m-save: 
 m-targets: 1 object of 3 bulk or less
 m-time: 1 minute
-modified: 20200726233050266
+modified: 20211026210122087
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -29,7 +29,7 @@ You can choose to have the target’s aura appear as that of common magic item o
 
 If the target is magical, you can instead choose to have it appear as entirely non-magical.
 
-A caster using [[Detect Magic]] or study aura (//they probably mean [[Read Aura]]//) of an equal or higher spell level can attempt to disbelieve the illusion from magic aura. 
+A caster using [[Detect Magic]] or __[[Read Aura]]__ of an equal or higher spell level can attempt to disbelieve the illusion from magic aura. 
 
 Magic aura doesn’t mask the aura of spells that are 9th level or higher or of items that are 19th level or higher.
 

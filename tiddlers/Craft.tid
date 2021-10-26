@@ -4,7 +4,7 @@ a-fumble: You fail to complete the item. You ruin 10% of the raw materials you s
 a-hit: Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amount based on your level and your proficiency rank.
 a-skill: Crafting
 created: 20200705230159620
-modified: 20201129002745336
+modified: 20211026212445068
 modified-by: Crafting
 tags: Action Exploration Manipulate
 title: Craft
@@ -36,5 +36,7 @@ For each additional day you spend, reduce the value of the materials you need to
 After any of these downtime days, you can complete the item by spending the remaining portion of its Price in materials. 
 
 If the downtime days you spend are interrupted, you can return to finish the item later, continuing where you left off. 
+
+__The GM might allow you to Craft a permanent item from a lower-level version of the same item as an upgrade. For example, you might upgrade a bag of holding from a type I to a type II bag, but you couldn’t upgrade a clear spindle aeon stone into an orange prism aeon stone. The cost for this upgrade is the full difference in Price between the items, and the Crafting check uses a DC for the item’s new level."__
 
 {{||ActionSuccessTable}}

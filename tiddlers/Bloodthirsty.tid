@@ -1,0 +1,16 @@
+created: 20211013104742256
+item-level: 16
+item-price: 85000
+modified: 20211013105005835
+tags: Rune Uncommon Magical Necromancy Weapon
+title: Bloodthirsty
+type: text/vnd.tiddlywiki
+virtual-tags: Reaction Envision Concentrate
+
+''Usage'' etched onto a slashing or piercing melee weapon
+
+The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. 
+
+When you critically hit a target that’s taking persistent bleed damage, your target becomes [[Drained]] 1.
+
+''Activate'' {{ReactionIcon}} <<tag Envision>>; ''Trigger'' You reduce a creature to 0 Hit Points with the weapon; ''Effect'' You gain a number of temporary Hit Points equal to twice the creature’s level. These Hit Points remain for 1 minute.

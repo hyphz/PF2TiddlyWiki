@@ -12,7 +12,7 @@ m-range: Touch
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20200807015400827
+modified: 20211026214909760
 modtag-acid: Deactivates regeneration from this spell.
 modtag-fire: Deactivates regeneration from this spell.
 s-crit: 
@@ -29,7 +29,7 @@ An infusion of positive energy grants a creature continuous healing.
 
 The target temporarily gains [[Regeneration]] 15, which restores 15 Hit Points to it at the start of each of its turns.
 
-While it has regeneration, the target can’t die from damage and its [[Dying]] value can’t exceed 3, though if its [[Wounded]] value becomes 4 or higher, it stays [[Unconscious]] until its wounds are treated. 
+While it has regeneration, the target can’t die from damage and its [[Dying]] value can’t __increase to a value that would kill it (this stops most creatures from going beyond dying 3)__, though if its [[Wounded]] value becomes 4 or higher, it stays [[Unconscious]] until its wounds are treated. 
 
 If the target takes <<tag Acid>>or <<tag Fire>> damage, its regeneration deactivates until after the end of its next turn.
 

@@ -12,7 +12,7 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 ripe berry
 m-time: 
-modified: 20200806195917129
+modified: 20211026214552313
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 
 You imbue the target berry with the bounty of nature, __turning it into a goodberry that can heal and sustain far beyond its normal capacity.__
 
-A living __can eat__ the __goodberry__ with an [[Interact]] action to regain __1d6+4__ Hit Points.
+A creature __can eat__ the __goodberry__ with an [[Interact]] action to regain __1d6+4__ Hit Points.
 
 __A berry not consumed during the duration__ withers away.
 

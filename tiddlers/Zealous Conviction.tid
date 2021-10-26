@@ -13,12 +13,12 @@ m-save: Will
 m-targets: Up to 10 willing creatures
 m-time: 
 mod-will: +2 status vs mental effects.
-modified: 20200731181837554
+modified: 20211026215959877
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Divine Occult
+tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Divine Occult Emotion Mental
 title: Zealous Conviction
 type: text/vnd.tiddlywiki
 

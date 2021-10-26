@@ -1,0 +1,16 @@
+created: 20211013105014508
+item-level: 3 9
+item-price: 500 6500
+item-variants: Standard Greater
+modified: 20211013105131532
+tags: Rune Uncommon Magical Necromancy Weapon
+title: Crushing
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a bludgeoning weapon
+
+Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. 
+
+When you critically hit a target with this weapon, your target becomes [[Clumsy]] 1 and [[Enfeebled]] 1 until the end of your next turn.
+
+A greater crushing rune causes your critical hits to leave the target [[Clumsy]] 2 and [[Enfeebled]] 2 until the end of your next turn.

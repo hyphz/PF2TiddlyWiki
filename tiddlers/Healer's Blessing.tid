@@ -13,7 +13,7 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20200805200839630
+modified: 20211026220042462
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -26,7 +26,7 @@ type: text/vnd.tiddlywiki
 
 Your words bless a creature with an enhanced connection to positive energy. 
 
-When the target regains [[Hit Points]] from a <<tag Healing>> spell, it regains 1 additional Hit Point.
+When the target regains [[Hit Points]] from a <<tag Healing>> spell, it regains __2__ additional Hit Points.
 
 The target regains additional Hit Points from healer’s blessing only the first time it regains HP from a given healing spell, so a spell that heals the creature repeatedly over a duration would restore additional Hit Points only once.
 

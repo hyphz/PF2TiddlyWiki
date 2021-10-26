@@ -1,5 +1,5 @@
 created: 20200708194107203
-modified: 20201128233646855
+modified: 20211026205943605
 tags: Ability
 title: Perpetual Infusions
 type: text/vnd.tiddlywiki
@@ -8,10 +8,10 @@ You have learned how to create perpetual alchemical infusions that can provide a
 
 You gain the ability to create two 1st-level alchemical items using [[Quick Alchemy]] without spending a batch of infused reagents. The items you can select depend on your research field and must be in your formula book.
 
-[[Bomber]]: Choose two of the following formulas: [[Lesser Acid Flask]],  [[Lesser Alchemist’s Fire]], [[Lesser Bottled Lightning]], __[[Lesser Frost Vial]]__, [[Lesser Tanglefoot Bag]], [[Lesser Thunderstone]].
+[[Bomber]]: Choose two of the following formulas: Lesser [[Acid Flask]],  Lesser [[Alchemist’s Fire]], Lesser [[Bottled Lightning]], __Lesser [[Frost Vial]]__, Lesser [[Tanglefoot Bag]], Lesser [[Thunderstone]].
 
-[[Chirurgeon]]: [[Lesser Antidote]] and [[Lesser Antiplague]].
+[[Chirurgeon]]: Lesser [[Antidote]] and Lesser [[Antiplague]].
 
-[[Mutagenist]]: Choose two of the following formulas: [[Lesser Bestial Mutagen]], __[[Lesser Serene Mutagen]]__, [[Lesser Cognitive Mutagen]], [[Lesser Juggernaut Mutagen]], [[Lesser Silvertongue Mutagen]], [[Lesser Quicksilver Mutagen]].
+[[Mutagenist]]: Choose two of the following formulas: Lesser [[Bestial Mutagen]], __Lesser [[Serene Mutagen]]__, Lesser [[Cognitive Mutagen]], Lesser [[Juggernaut Mutagen]], Lesser [[Silvertongue Mutagen]], Lesser [[Quicksilver Mutagen]].
 
 [[Toxicologist]]: Choose two common 1st-level alchemical poisons.

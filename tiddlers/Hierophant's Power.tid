@@ -1,7 +1,7 @@
 created: 20201024150933537
 feat-class: Druid
 feat-level: 20
-modified: 20201129000305742
+modified: 20211026211209998
 tags: Feat Class Druid
 title: Hierophant's Power
 type: text/vnd.tiddlywiki
@@ -9,3 +9,5 @@ type: text/vnd.tiddlywiki
 You have entwined yourself with the natural world, and its full power flows through you. 
 
 You gain an additional 10th-level spell slot.
+
+//The requirement for Legendary Nature was removed by official errata.//

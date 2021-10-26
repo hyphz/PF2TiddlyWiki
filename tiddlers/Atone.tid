@@ -12,7 +12,7 @@ m-range: 10 feet
 m-save: 
 m-targets: Another creature of up to 8th level who is a worshipper of the same deity or philosophy as you
 m-time: 1 day
-modified: 20200808152011472
+modified: 20211026220122852
 rit-pskill: Nature Religion
 rit-pspre: E
 rit-secondaries: 1
@@ -37,4 +37,4 @@ You attempt to help a truly penitent creature atone for its misdeeds, typically 
 
 {{||ActionSuccessTable}}
 
-''Heightened (5th)'' Increase the maximum target level by 2 and the base cost by 20 gp.
+__''Heightened (+1)''__ Increase the maximum target level by 2 and the base cost by 20 gp.

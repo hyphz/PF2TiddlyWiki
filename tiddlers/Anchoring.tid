@@ -1,0 +1,16 @@
+created: 20211013105242547
+item-level: 10 18
+item-price: 9000 220000
+item-variants: Standard Greater
+modified: 20211013105414616
+tags: Rune Uncommon Magical Weapon Abjuration
+title: Anchoring
+type: text/vnd.tiddlywiki
+
+''Usage'' Etched onto a weapon.
+
+This rune prevents enemies from escaping your grasp by fleeing to other planes. 
+
+If you critically hit a target with an anchoring weapon, the weapon casts [[Dimensional Anchor]] on the target (DC 27, counteract modifier +17).
+
+''Greater Anchoring'': When you critically hit a target with a weapon with the //greater// anchoring rune, the weapon casts 8th-level [[Dimensional Anchor]] on the target (DC 38, counteract modifier +28), except that if the target critically succeeds at its Will save, instead of having no effect, the dimensional anchor lasts for 1 round. When you hit a target with the weapon but don’t critically hit, the target is affected by 4th-level [[Dimensional Anchor]] for 1 round without a save (this still uses a counteract modifier of +28).

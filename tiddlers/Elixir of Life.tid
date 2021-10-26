@@ -7,12 +7,12 @@ item-variants: Minor Lesser Moderate Greater Major True
 mod-fortitude: +1-4 vs disease and poison.
 mod-reflex: +1-4 vs disease and poison.
 mod-will: +1-4 vs disease and poison.
-modified: 20210220150032900
+modified: 20211026212756947
 tags: Alchemical Consumable Item Elixir Healing
 title: Elixir of Life
 type: text/vnd.tiddlywiki
 
-Elixirs of life accelerate a living creature’s natural healing processes and immune system. 
+Elixirs of life accelerate a __living__ creature’s natural healing processes and immune system. 
 
 Upon drinking this elixir, you regain the listed number of Hit Points and gain an item bonus to saving throws against diseases and poisons for 10 minutes.
 

@@ -1,15 +1,15 @@
 created: 20200626165044724
-modified: 20200626165154995
+modified: 20211026213954863
 title: Assist Recovery
 type: text/vnd.tiddlywiki
 
 You can take steps to help yourself recover from [[Persistent Damage]], or an ally can help you, allowing you to attempt an additional flat check before the end of your turn. 
 
-This is usually an activity requiring 2 actions, and it must be something that would reasonably improve your chances (as determined by the GM). For example, you might try to smother a flame, wash off acid, or use [[Medicine]] to [[Administer First Aid]] to stanch bleeding. This
-allows you to attempt an extra flat check immediately.
+This is usually an activity requiring 2 actions, and it must be something that would reasonably improve your chances (as determined by the GM). For example, you might try to smother a flame or wash off acid,. This allows you to attempt an extra flat check immediately, __but only once per round.__
 
 The GM decides how your help works, using the following examples as guidelines.
 
 * Reduce the DC of the flat check to 10 for a particularly appropriate type of help, such as dousing you in water to put out flames.
 * Automatically end the condition due to the type of help, such as healing that restores you to your maximum HP to end persistent bleed damage, or submerging yourself in a lake to end persistent fire damage.
 * Alter the number of actions required to help you if the means the helper uses are especially efficient or remarkably inefficient.
+* __The action to help might require a skill check or another roll to determine its effectiveness.__

@@ -10,9 +10,9 @@ m-duration: 1 minute
 m-level: 1
 m-range: Touch
 m-save: 
-m-targets: 1 non-magical weapon that is unattended or wielded by you or a willing ally
+m-targets: 1 weapon that is unattended or wielded by you or a willing ally
 m-time: 
-modified: 20200726233818817
+modified: 20211026215107665
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -26,3 +26,5 @@ type: text/vnd.tiddlywiki
 The weapon glimmers with magic and energy. 
 
 The target becomes a +1 [[Striking]] weapon, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two.
+
+__//You may cast this spell on a +1 weapon to gain the benefit of [[Striking]], but otherwise item bonuses do not stack.//__

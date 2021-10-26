@@ -13,7 +13,7 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Attack again with weapon when sustained.
-modified: 20200730193644792
+modified: 20211026214759431
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,7 +28,7 @@ type: text/vnd.tiddlywiki
 
 A weapon made of pure magical force materializes and attacks foes you designate within range. 
 
-This weapon has a ghostly appearance and manifests as your deity’s favored weapon.
+This weapon has a ghostly appearance and manifests as __a club, a dagger, or__ your deity’s favored weapon. //(Occult casters may be able to cast this spell without following a deity.)//
 
 When you cast the spell, the weapon appears next to a foe you choose within range and makes a [[Strike]] against it. 
 

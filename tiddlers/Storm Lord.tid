@@ -15,7 +15,7 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20201129004150219
+modified: 20211026215515956
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,7 +28,7 @@ type: text/vnd.tiddlywiki
 
 The sky above you darkens in a matter of moments, swirling with ominous clouds punctuated by flashes of lighting. 
 
-Each round when you [[Sustain the Spell|Sustain a Spell]], you can select one of the following effects to occur in the area.
+__The first time in each turn__ when you [[Sustain the Spell|Sustain a Spell]], you can select one of the following effects to occur in the area.
 
 * ''Calm'' No additional effect.
 * ''Fog'' Heavy fog rolls in, concealing the area with the effects of [[Obscuring Mist]].

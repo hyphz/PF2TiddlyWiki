@@ -12,7 +12,7 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 corporeal creature
 m-time: 
-modified: 20200726224157822
+modified: 20211026215356841
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 
 You crush the target by causing it to collapse in on itself, dealing 75 damage //with a basic Fortitude save//. 
 
-Each time you [[Sustain the Spell|Sustain a Spell]], you must choose a new target to be subject to the same effect. 
+__The first time each turn__ you [[Sustain the Spell|Sustain a Spell]], you must choose a new target to be subject to the same effect. 
 
 The same creature can never be targeted more than once with a single casting of this spell. 
 

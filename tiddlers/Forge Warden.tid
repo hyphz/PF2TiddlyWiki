@@ -4,12 +4,12 @@ item-hands: 1
 item-level: 10
 item-price: 9750
 item-slot: Shield
-modified: 20210801164905885
+modified: 20211026213235397
 tags: Magical Item Uncommon Command Fire Abjuration
 title: Forge Warden
 type: text/vnd.tiddlywiki
 
-The religious symbol of the forge god—an ornate hammer of dwarven construction—adorns the face of this reinforced steel shield (Hardness 10, HP 24, BT 12). 
+The religious symbol of the forge god—an ornate hammer of dwarven construction—adorns the face of this reinforced steel shield __(Hardness 10, HP 40, BT 20)__. 
 
 The shield is a religious symbol of the forge god.
 

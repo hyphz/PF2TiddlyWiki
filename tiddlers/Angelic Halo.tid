@@ -14,7 +14,7 @@ m-save:
 m-targets: 
 m-time: 
 mod-heal: +2 status HP healed to allies.
-modified: 20201102193133968
+modified: 20211026214524162
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -25,8 +25,6 @@ type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
 
-You gain an angelic halo with an aura that increases allies’ healing from the heal spell. 
+You gain an angelic halo with an aura that increases allies’ healing from the [[Heal]] spell. 
 
-[[Heal]] spells gain a +2 status bonus to Hit Points healed to your allies in the area.
-
-''Heightened (+1)'' The status bonus increases by 2.
+__Allies in your halo’s emanation who are healed by a heal spell gain a status bonus to Hit Points regained equal to double the heal spell’s level.__

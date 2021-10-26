@@ -12,7 +12,7 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200724225838703
+modified: 20211026215328305
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -29,7 +29,7 @@ The sphere must be supported by a solid surface, such as a stone floor.
 
 The sphere deals 3d6 fire damage to each creature in the square where it first appears; each creature must attempt a basic [[Reflex]] save. 
 
-On subsequent rounds, you can [[Sustain this Spell|Sustain a Spell]], leaving the sphere in its square or rolling it to another square within range and dealing 3d6 fire damage; each creature in its square must attempt a basic Reflex save.
+On subsequent rounds __once per turn__, you can [[Sustain this Spell|Sustain a Spell]], leaving the sphere in its square or rolling it to another square within range and dealing 3d6 fire damage; each creature in its square must attempt a basic Reflex save.
 
 Creatures that succeed at their save take no damage (instead of half).
 

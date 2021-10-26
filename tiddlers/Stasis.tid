@@ -10,10 +10,10 @@ m-domain: Time
 m-duration: 
 m-level: 4
 m-range: 30 feet
-m-save: Reflex Will
+m-save: Will
 m-targets: 
 m-time: 
-modified: 20200809211820737
+modified: 20211026220621960
 s-crit: The target is unaffected.
 s-fail: Time ceases to pass for the target for 1 round. It is invulnerable to all damage, it cannot be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. While in stasis, the target can’t be moved, and it remains fixed in place, defying gravity if need be.
 s-fumble: As failure, but the target is held in stasis for 3 rounds. At the end of each of its turns, it can attempt a [[Will]] save to reduce the remaining duration by 1 round or end it entirely on a critical success.

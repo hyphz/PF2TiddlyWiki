@@ -1,7 +1,7 @@
 created: 20210206160750139
 item-level: 9
 item-price: 7000
-modified: 20210206175214501
+modified: 20211026213029947
 tags: Rune Magical Weapon Enchantment
 title: Grievous
 type: text/vnd.tiddlywiki
@@ -34,6 +34,6 @@ When your attack roll with this weapon is a critical hit and gains the critical 
 
 ''Sling'' The target also takes a –10-foot status penalty to its Speed for 1 round if it fails the save.
 
-''Spear'' The [[Clumsy]] condition lasts for 2 rounds.
+''Spear'' The __[[Clumsy]]__ condition lasts for 2 rounds.
 
 ''Sword'' The target is [[Flat-Footed]] until the end of your next turn.

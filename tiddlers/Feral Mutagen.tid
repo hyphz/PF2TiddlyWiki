@@ -2,7 +2,7 @@ created: 20200723191211883
 feat-class: Alchemist
 feat-level: 8
 mod-intimidation: Allows Bestial Mutagen to grant an item bonus.
-modified: 20200730195202222
+modified: 20211026210545312
 tags: Alchemist Feat Class
 title: Feral Mutagen
 type: text/vnd.tiddlywiki
@@ -12,3 +12,5 @@ Your bestial mutagen brings out the beast lurking within you, granting you espec
 Whenever you’re affected by a bestial mutagen, you gain the mutagen’s item bonus to your [[Intimidation]] checks. In addition, your claws and jaws are increasingly vicious, and they gain the [[Deadly]] d10 trait. 
 
 Finally, you can increase the mutagen’s penalty to [[AC]] from –1 to –2 and, in exchange, increase the damage die size of your claws and jaws by one step.
+
+{{NoSelfCreation}}

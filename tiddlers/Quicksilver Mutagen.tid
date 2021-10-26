@@ -9,14 +9,14 @@ mod-fortitude: -2 penalty.
 mod-reflex: +1-4 item bonus.
 mod-stealth: +1-4 item bonus.
 mod-thievery: +1-4 item bonus.
-modified: 20210220152525525
+modified: 20211026212820204
 tags: Alchemical Consumable Item Elixir Mutagen Polymorph
 title: Quicksilver Mutagen
 type: text/vnd.tiddlywiki
 
 Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.
 
-''Benefit'' You gain an item bonus to [[Acrobatics]] checks, [[Stealth]] checks, [[Thievery]] checks, [[Reflex]] saves, and [[Dexterity]]-based attack rolls, and you gain the listed status bonus to your Speed.
+''Benefit'' You gain an item bonus to [[Acrobatics]] checks, [[Stealth]] checks, [[Thievery]] checks, [[Reflex]] saves, and __[[Dexterity]]-based__ attack rolls, and you gain the listed status bonus to your Speed.
 
 ''Drawback'' You take damage equal to twice your level; you can’t recover Hit Points lost in this way by any means while the mutagen lasts. You take a –2 penalty to [[Fortitude]] saves.
 

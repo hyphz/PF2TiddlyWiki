@@ -1,0 +1,11 @@
+created: 20211013104059171
+item-level: 9
+item-price: 1350
+mod-engulf: Creature is sickened by you.
+mod-swallow_whole: Creature is sickened by you.
+modified: 20211013104313976
+tags: Rune Magical Uncommon Poison Transmutation
+title: Bitter
+type: text/vnd.tiddlywiki
+
+While you wear this acrid armor, any creature that [[Engulf]]s you or [[Swallows you Whole|Swallow Whole]] is [[Sickened]] 1; if it spends an action retching to reduce the sickened condition, you can attempt to [[Escape]] as a reaction.

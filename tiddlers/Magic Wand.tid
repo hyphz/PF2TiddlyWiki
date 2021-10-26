@@ -4,7 +4,7 @@ item-hands: 1
 item-level: 3 5 7 9 11 13 15 17 19
 item-price: 600 1600 3600 7000 15000 30000 65000 150000 400000
 item-variants: 1st-level 2nd-level 3rd-level 4th-level 5th-level 6th-level 7th-level 8th-level 9th-level
-modified: 20210508151107785
+modified: 20211026213539694
 tags: Item Magical Wand
 title: Magic Wand
 type: text/vnd.tiddlywiki
@@ -27,7 +27,7 @@ If anyone tries to overcharge a wand when it’s already been overcharged that d
 
 A wand’s base statistics are the same unless noted otherwise in a special wand. It has light Bulk, and must be held in one hand to be activated. Each wand contains a specific level of the spell, but you can craft a wand with a heightened version of a spell.
 
-Each type of wand has a Level and Price determined by the spell’s level. The wand’s rarity matches the spell’s rarity, and it has its spell’s traits. A wand has the normal Hardness, BT, and HP of a thin item of its material.
+Each type of wand has a Level and Price determined by the spell’s level. The wand’s rarity matches the spell’s rarity, and it has its spell’s traits. __A wand has the normal Hardness, BT, and HP of a thin item of its material.__
 
 ''Craft Requirements'' Supply a listed-level casting of the spell.
 

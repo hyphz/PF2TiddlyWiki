@@ -1,10 +1,10 @@
 created: 20210424155712478
-modified: 20210424160005650
+modified: 20211026213435097
 tags: 
 title: StaffRules
 type: text/vnd.tiddlywiki
 
-During your daily preparations, you can prepare a staff to add charges to it for free. When you do so, that staff gains a number of charges equal to the level of your highest-level spell slot. You don’t need to expend any spells to add charges in this way. 
+During your daily preparations, you can prepare a staff to add charges to it for free. When you do so, that staff gains a number of charges __equal to the level of your highest-level spell slot. You don’t need to expend any spells to add charges in this way__. 
 
 No one can prepare more than one staff per day, nor can a staff be prepared by more than one person per day.
 
@@ -23,3 +23,7 @@ If a staff contains a cantrip, you can cast that cantrip using the staff without
 A prepared spellcaster—such as a cleric, druid, or wizard— can place some of their own magic in a staff to increase its number of charges. When a prepared spellcaster prepares a staff, they can expend a spell slot to add a number of charges to the staff equal to the level of the spell. They can’t expend more than one spell in this way each day. 
 
 A spontaneous spellcaster, such as a bard or sorcerer, can reduce the number of charges it takes to [[Activate]] a staff by supplementing with their own energy. When a spontaneous spellcaster Activates a staff, they can expend 1 charge from the staff and one of their spell slots to cast a spell from the staff of the same level (or lower) as the expended spell slot. This doesn’t change the number of actions it takes to cast the spell. 
+
+__Many staves can be found in multiple versions, with more powerful versions that contain more spells—such a staff always contains the spells of all lower-level versions, in addition to the spells listed in its own entry.__
+
+__Staves are also <<tag Staff>> weapons. They can be etched with fundamental runes but not property runes. This doesn’t alter any of their spellcasting abilities.__

@@ -4,12 +4,12 @@ item-hands: 1
 item-level: 11
 item-price: 1350
 item-slot: Shield
-modified: 20210801163438047
+modified: 20211026213207065
 tags: Magical Item Abjuration Interact
 title: Arrow-Catching Shield
 type: text/vnd.tiddlywiki
 
-This remarkable wooden shield (Hardness 10, HP 60, BT 30) is carved with images of overlapping fletched arrows.
+This remarkable wooden shield (__Hardness 10, HP 60, BT 30__) is carved with images of overlapping fletched arrows.
 
-''Activate'' {{ReactionIcon}} Interact; ''Frequency'' once per minute; ''Trigger'' A ranged weapon [[Strike]] targets a creature within 15 feet of you when you have this shield raised, and the attacker has not yet rolled their attack; ''Effect'' The triggering Strike tragets you instead of its normal target. If it hits, you gain the effects of the [[Shield Block]] reaction.
+''Activate'' {{ReactionIcon}} Interact; ''Frequency'' __once per minute__; ''Trigger'' A ranged weapon [[Strike]] targets a creature within 15 feet of you when you have this shield raised, and the attacker has not yet rolled their attack; ''Effect'' The triggering Strike tragets you instead of its normal target. If it hits, you gain the effects of the [[Shield Block]] reaction.
 

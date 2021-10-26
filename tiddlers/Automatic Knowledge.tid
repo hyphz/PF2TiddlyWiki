@@ -1,7 +1,7 @@
 created: 20200630084013029
 feat-level: 2
 mod-recall_knowledge: Lets you use this with Assurance as a free action.
-modified: 20200725235224452
+modified: 20211026212152975
 tags: General Feat Skill
 title: Automatic Knowledge
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ You know basic facts off the top of your head.
 
 Choose a skill you’re an expert in that has the Recall Knowledge action and for which you have the Assurance feat. 
 
-You can use the Recall Knowledge action with that skill as a free action once per round.
+You can use the Recall Knowledge action with that skill as a free action once per __round__.
 If you do, you must use Assurance on the skill check.
 
 You can select this feat multiple times, choosing a different skill each time. 

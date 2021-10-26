@@ -1,0 +1,14 @@
+created: 20211013103327930
+item-level: 7
+item-price: 3300
+modified: 20211013103519067
+tags: Rune Magical Uncommon Healing Necromancy Armor
+title: Deathless
+type: text/vnd.tiddlywiki
+virtual-tags: Reaction Envision Concentrate
+
+''Usage'' Etched onto armor.
+
+These symbols fortify your body’s grasp on your soul, keeping it tethered when death  approaches.
+
+''Activate'' {{ReactionIcon}} <<tag Envision>>; ''Frequency'' once per day; ''Trigger'' You gain the [[Doomed]] or [[Wounded]] condition; ''Effect'' You reduce the value of the triggering condition by 1.

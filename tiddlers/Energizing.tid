@@ -1,0 +1,11 @@
+created: 20211013103544791
+item-level: 6
+item-price: 2500
+modified: 20211013103642676
+tags: Rune Magical Uncommon Abjuration Weapon
+title: Energizing
+type: text/vnd.tiddlywiki
+
+A weapon with this rune can absorb energy damage to empower it.
+
+''Activate'' {{ReactionIcon}} <<Tag Envision>>; ''Trigger'' You take acid, cold, electricity, fire, or sonic damage; ''Effect'' The weapon becomes imbued with the triggering energy type. It deals an additional 1d8 damage of the triggering type until the end of your next turn. As normal, if you use this reaction again during the duration, the damage doesn’t combine; instead, change the 1d8 damage to the new triggering type of damage and change the duration to the end of your next turn.

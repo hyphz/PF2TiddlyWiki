@@ -3,7 +3,7 @@ feat-class: Alchemist
 feat-level: 10
 mod-squeeze: Can allow you to squeeze as one size smaller.
 mod-step: Can allow you to step up to 10 feet.
-modified: 20200730195214462
+modified: 20211026210555783
 tags: Alchemist Feat Class
 title: Elastic Mutagen
 type: text/vnd.tiddlywiki
@@ -11,3 +11,5 @@ type: text/vnd.tiddlywiki
 You can cause your body to twist and flow like the quicksilver within your mutagens. 
 
 Whenever you are under the effects of a [[Quicksilver Mutagen]], you can stretch your legs and [[Step]] up to 10 feet, and you can squish and compress your body, allowing you to make it through tight spaces as if you were one size smaller, in addition to any effect from [[Squeezing|Squeeze]].
+
+{{NoSelfCreation}}

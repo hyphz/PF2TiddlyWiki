@@ -1,0 +1,17 @@
+created: 20211013105446862
+item-level: 6 11
+item-price: 2250 13000
+item-variants: Standard Greater
+modified: 20211013105638044
+tags: Rune Uncommon Magical Weapon Evocation
+title: Hauling
+type: text/vnd.tiddlywiki
+virtual-tags: Command Auditory Concentrate
+
+''Usage'' Etched onto a weapon.
+
+Hauling weapons are adept at moving creatures around the battlefield after a successful attack.
+
+''Activate'' {{ReactionIcon}} <<tag Command>>; ''Frequency'' once per hour; ''Trigger'' You succeed at an attack roll to Strike with a weapon with the hauling rune; ''Effect'' The target must succeed at a DC 20 [[Reflex]] save or be moved 5 feet in a direction you choose. This is forced movement.
+
+''Greater Hauling'': The DC is 28, and the target is moved up to 10 feet.

@@ -13,7 +13,7 @@ m-save: Will
 m-targets: Up to 5 creatures
 m-time: 
 mod-sustain_a_spell: Targets must Will save again.
-modified: 20200730230358403
+modified: 20211026215423087
 s-crit: The target is unaffected, can’t be affected on subsequent rounds, and is temporarily immune for 1 minute.
 s-fail: Roll 1d4 on the table below.
 s-fumble: Roll 1d4+1 on the table below.
@@ -26,7 +26,7 @@ type: text/vnd.tiddlywiki
 
 Fleeting notes of a strange and unnatural song fill the air, overtaking the mind. 
 
-Each target must attempt a [[Will]] save when you cast the spell, and again each time you [[Sustain the Spell|Sustain a Spell]]. 
+Each target must attempt a [[Will]] save when you cast the spell, and again each time you [[Sustain the Spell|Sustain a Spell]] __for the first time in a turn__. 
 
 A creature needs to attempt only one save against the song each round, and you have to keep the same targets when you Sustain the Spell.
 

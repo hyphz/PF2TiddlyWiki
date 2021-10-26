@@ -4,7 +4,7 @@ bl-list: Divine
 bl-magic: Necromantic energy flows through you or one target. Either you gain temporary Hit Points equal to the spell’s level for 1 round, or a target takes 1 negative damage per spell level (if the spell already deals initial negative damage, combine this with the spell’s initial damage before determining weaknesses and resistances).
 bl-skill: Intimidation Religion
 created: 20201122154732481
-modified: 20201128234004540
+modified: 20211026210100463
 tags: Bloodline
 title: Undead (Bloodline)
 type: text/vnd.tiddlywiki

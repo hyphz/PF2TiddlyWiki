@@ -1,10 +1,10 @@
 created: 20210801162437810
-item-bulk: L 1 L 1
+item-bulk: L L L L
 item-hands: 
 item-level: [[8]] [[8]] [[16]] [[16]]
 item-price: 4000 4400 80000 88000
 item-variants: [[Standard Buckler]] [[Standard Shield]] [[High-Grade Buckler]] [[High-Grade Shield]]
-modified: 20210801162547789
+modified: 20211026213130830
 tags: Item Uncommon
 title: Mithral Shield
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ Mithral shields are 1 Bulk lighter than normal (or light Bulk if their normal Bu
 
 | !Type | !Grade| !Level | !Price | !Bulk | !Mithral Value | !Hardness | !HP | !BT |
 | Buckler | Standard | 8 | 4000 | L | 500 | 3 | 12 | 6 |
-| Shield | Standard | 8 | 4400 | 1 | 550 | 5 | 20 | 10 |
+| Shield | Standard | 8 | 4400 | __L__ | 550 | 5 | 20 | 10 |
 | Buckler | High | 16 | 80000 | L | 40000 | 6 | 24 | 12 |
-| Shield | High | 16 | 88000 | 1 | 44000 | 8 | 32 | 16 |
+| Shield | High | 16 | 88000 | __L__ | 44000 | 8 | 32 | 16 |
 

@@ -10,9 +10,9 @@ m-duration: Until the start of your next turn
 m-level: 7
 m-range: 60 feet
 m-save: 
-m-targets: 1 creature
+m-targets: __4 creatures__
 m-time: 
-modified: 20200805231312549
+modified: 20211026215821381
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -24,8 +24,8 @@ type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
 
-You delve into the possible futures of the next few seconds to understand all the ways your target might avoid harm, then cast out a vision of that future to those around you. 
+You delve into the possible futures of the next few seconds to understand all the ways your __foe__ might avoid harm, then cast out a vision of that future to those around you. 
 
-On the first attack roll made against the target during true target’s duration, the attacker rolls twice and uses the better result. 
+__Designate a creature. The first time each target makes an attack roll against that creature during True Target's duration__, the attacker rolls twice and uses the better result. 
 
-The attacker also ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Concealed]] or [[Hidden]].
+The attacker also ignores circumstance penalties to the attack roll and any flat check required due to the __designated creature__ being [[Concealed]] or [[Hidden]].
