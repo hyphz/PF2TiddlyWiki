@@ -1,0 +1,14 @@
+created: 20211027134921386
+feat-arch: [[Lastwall Sentry]]
+feat-level: 4
+mod-shove: Using a shield, can move an extra 5 feet either side. If in Everstand stance, can Shove 10 feet.
+modified: 20211027135110120
+tags: Feat Archetype Rare
+title: Rescuer's Press
+type: text/vnd.tiddlywiki
+
+Any shield you wield gains the shove trait. 
+
+When you [[Shove]] using a shield and Stride as part of that action, you can move an additional 5 feet to either side of the creature you Shoved. 
+
+In addition, if you are in the [[Everstand Stance]]  and successfully Shove a creature using a shield that you wield two-handed, you can increase the distance of your Shove to 10 feet.

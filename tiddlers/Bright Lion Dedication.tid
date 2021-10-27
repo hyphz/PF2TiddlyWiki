@@ -1,0 +1,17 @@
+created: 20211027144226396
+feat-arch: [[Bright Lion]]
+feat-level: 2
+feat-skill: Stealth
+feat-spre: T
+modified: 20211027144512962
+tags: Feat Dedication Uncommon
+title: Bright Lion Dedication
+type: text/vnd.tiddlywiki
+
+//This feat has specific plot and background requirements described in Lost Omens: Legends. In particular, it relates to people living in a city ruled by a god-king who are rebelling against that god-king.//
+
+You become trained in your choice of [[Deception]] or [[Diplomacy]] and in Mzali [[Lore]]; if you were already trained, you become an expert instead. 
+
+You incorporate enough worship of //the god-king// in your daily life to avoid suspicion. You typically don’t need to [[Lie]] or [[Impersonate]] to pass yourself off as a worshipper of //the god-king//. Against careful inspection, you gain a +4 circumstance bonus to [[Deception]] checks specifically to pass yourself off as a version of yourself faithful to //the god-king//.
+
+<<archetypefeatlist "4 6 8" "[[Bright Lion]]">>

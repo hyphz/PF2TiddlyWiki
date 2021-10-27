@@ -1,0 +1,25 @@
+created: 20211027141855435
+item-bulk: Varies
+item-hands: 0
+item-level: 13 20
+item-price: 24000 500000
+item-variants: Standard-Grade High-Grade
+mod-ac: +1 circumstance vs spell attacks.
+mod-cast_a_spell: Must flat 5 or lose spell.
+modified: 20211027142305718
+tags: Item Armor Rare
+title: Sovereign Steel Armor
+type: text/vnd.tiddlywiki
+
+Sovereign steel armor sickens certain creatures that touch it. 
+
+A creature with weakness to cold iron that critically fails an unarmed attack against a creature in sovereign steel armor becomes [[Sickened]] 1, and such a creature is sickened 1 as long as it wears sovereign steel armor. 
+
+The noqual in sovereign steel armor provides protection against magic, granting you a +1 circumstance bonus to AC against spell attack rolls. 
+
+If you [[Cast a Spell]] while wearing sovereign steel armor, you must succeed at a DC 5 flat check or the spell fails.
+
+| !Type | !Level | !Price | !Value of Cold Iron needed | !Value of Noqual needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| Standard-Grade | 13 | 24000 + 2400/Bulk | 1500 + 150/Bulk | 1500 + 150/Bulk | 11 | 44 | 22 | 15 |
+| High-Grade | 20 | 500000 + 50000/Bulk | 125000 + 12500/Bulk | 125000 + 12500/Bulk | 14 | 56 | 28 | Any |
+ 

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211027134351344
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 
+m-level: 8
+m-range: 60 feet
+m-save: 
+m-targets: You and up to 10 willing living allies
+m-time: 
+modified: 20211027134627846
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Rare Necromancy Material Arcane Primal
+title: All is One, One is All
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You meld the targets’ matter and life force into one and then, in an instant, sift them back out into their component selves. 
+
+When you separate the targets back into themselves, you can choose to switch the positions of any number of targets with the positions of other targets. 
+
+Additionally, you can modulate the share of vital essence to share the burden of pain. Distribute the Hit Points of all targets however you choose, except that no target can receive fewer than 1 Hit Point or more than their maximum Hit Points.

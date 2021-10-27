@@ -1,0 +1,24 @@
+created: 20211027143627305
+item-bulk: L
+item-hands: 1
+item-level: 4 12 18
+item-price: 200 4000 50000
+item-variants: Lesser Moderate Greater
+mod-ac: -1 unnamed.
+mod-athletics: +2-4 item.
+mod-reflex: -2 unnamed.
+modified: 20211027143902612
+tags: Alchemical Consumable Item Elixir Mutagen Polymorph Rare
+title: Applereed Mutagen
+type: text/vnd.tiddlywiki
+
+This gummy liquid disproportionately lengthens your legs, causing you to grow but making your movement awkward. The effect is very noticeable unless your clothes can adequately conceal it.
+
+''Benefit'' You gain an item bonus to [[Athletics]] checks and you gain the listed status bonus to your Speed. In addition, you grow one size larger, but your larger size does not have any additional effects beyond the potential change in space.
+
+''Drawback'' You take a –1 penalty to AC and a –2 penalty to Reflex saves.
+
+| !Type | !Level | !Price | !Athletics bonus | !Speed bonus | !Duration |
+| Lesser | 4 | 200 | +2 | +10' | 1 minute |
+| Moderate | 12 | 4000 | +3 | +15' | 10 minutes |
+| Greater | 18 | 50000 | +4 | +20' | 1 hour |

@@ -1,0 +1,18 @@
+created: 20211027132032468
+item-bulk: 
+item-hands: 1
+item-level: 14
+item-price: 9000
+mod-create_demiplane: Fulfils cost requirement and gives success on all secondary checks with no secondary casters.
+modified: 20211027132242943
+tags: Item Conjuration Rare Consumable
+title: Ruby String
+type: text/vnd.tiddlywiki
+
+A ruby string can fulfill the cost requirement for an 8th-level [[Create Demiplane]] ritual. 
+
+When used in this way, the ruby string negates the need for secondary casters, and you get a success for all secondary checks. 
+
+Alternatively, you can activate it to create a smaller demiplane without requiring the ritual.
+
+''Activate'' 8 hours (<<tag Envision>>, <<tag Interact>>); ''Effect'' You spin the thread to form a demiplane with the effects of a successful 8th-level [[Create Demiplane]], but the space is a single 10-foot cube.

@@ -1,0 +1,21 @@
+created: 20211027143915350
+item-bulk: 2
+item-hands: 2
+item-level: 3
+item-price: 120
+modified: 20211027144034948
+tags: Alchemical Consumable Item Rare
+title: Swamp Lily Quilt
+type: text/vnd.tiddlywiki
+
+This quilt is defined by its green lily-pad pattern. 
+
+The quilt is 10 feet square and infused with a reagent that activates when the quilt is laid out across soil or earth. 
+
+One round after you lay out the quilt ({{TwoAction}} <<tag Interact>>), the ground beneath it becomes soft and muddy, creating [[Difficult Terrain]] in the area where the quilt was. 
+
+You can leave the quilt to maintain the difficult terrain indefinitely, but the affected ground begins to dry once you remove the quilt with an [[Interact]] action. 
+
+The ground dries over the span of 1 hour, after which the ground returns to normal terrain.
+
+Placing the quilt on the ground uses up its infused reagents, and it becomes an ordinary quilt once removed from the ground.

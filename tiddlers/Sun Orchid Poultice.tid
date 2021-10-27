@@ -1,0 +1,16 @@
+created: 20211027125920449
+item-bulk: L
+item-hands: 1
+item-level: 18
+item-price: 50000
+mod-fortitude: +3 item for 1 hour after use.
+mod-reflex: +3 item for 1 hour after use.
+mod-will: +3 item for 1 hour after use.
+modified: 20211027130050975
+tags: Item Rare Alchemical Consumable
+title: Sun Orchid Poultice
+type: text/vnd.tiddlywiki
+
+When you apply the sun orchid poultice, ({{OneAction}} [[Interact]]) it reduces your [[Clumsy]], [[Drained]], and [[Enfeebled]] condition values by 2. 
+
+In addition, the poultice provides a youthful burst of energy, granting you a +3 item bonus to saves and 20 temporary Hit Points for 1 hour.

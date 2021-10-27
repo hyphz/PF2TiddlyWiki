@@ -2,7 +2,7 @@ created: 20201226145525413
 feat-arch: [[Red Mantis Assassin]]
 feat-level: 2
 lore-mention: Assassin
-modified: 20201226150812461
+modified: 20211027132955129
 tags: Feat Dedication Uncommon
 title: Red Mantis Assassin Dedication
 type: text/vnd.tiddlywiki
@@ -17,4 +17,4 @@ You become trained in Stealth and Assassin [[Lore]]; if you were already trained
 
 Whenever your proficiency in any weapon increases to expert or beyond, you also gain that new proficiency with sawtooth sabers.
 
-<<archetypefeatlist "4 6 8" "[[Red Mantis Assassin]]">>
+<<archetypefeatlist "4 6 8 10 12 14" "[[Red Mantis Assassin]]">>

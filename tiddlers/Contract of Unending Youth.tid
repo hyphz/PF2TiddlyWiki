@@ -1,0 +1,18 @@
+created: 20211027125525895
+item-bulk: L
+item-hands: 0
+item-level: 20
+item-price: [[Your Soul]]
+modified: 20211027125820566
+modtag-death: +4 status to saves.
+tags: Item Rare Contract Invested Magical conjuration
+title: Contract of Unending Youth
+type: text/vnd.tiddlywiki
+
+You cease aging, and if you were older than young adult in age, you become a young adult again.
+
+You gain a +4 status bonus to saves against <<tag Death>> effects and resistance to <<tag Negative>> damage equal to half your level. 
+
+Once per day, from any distance, //the issuing fiend// can recite a mandatory appearance clause in your contract as a 3-action activity to summon you to //their// side, where you are [[Controlled]] by //them// for 1 minute before you return.
+
+''Activate'' {{TwoAction}} <<tag Command>>; ''Frequency'' once per day; ''Effect'' You recite a hold harmless provision from your contract. Reduce your [[Doomed]] value to 0. //The issuing fiend// is immediately made aware that you have used this ability.

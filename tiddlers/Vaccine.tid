@@ -1,0 +1,23 @@
+created: 20211027135859228
+item-bulk: L
+item-hands: 1
+item-level: 1 3 6 12 18
+item-price: 40 120 500 4000 50000
+item-variants: Minor Lesser Moderate Greater Major
+modified: 20211027140207215
+tags: Consumable Item Elixir Rare
+title: Vaccine
+type: text/vnd.tiddlywiki
+
+A vaccine grants a creature immunity to a specific strain of disease of a level equal to or less than the vaccine’s level, and a +2 item bonus on all saving throws against other strains of the
+same disease. 
+
+For example, a vaccine could grant immunity to filth fever inflicted by otyughs, but would only grant a +2 saving throw bonus against filth fever inflicted by a giant rat.
+
+| !Type | !Level | !Price | !Duration |
+| Minor | 1 | 40 | 1 hour |
+| Lesser | 3 | 120 | 24 hours |
+| Moderate | 6 | 500 | 1 week |
+| Greater | 12 | 4000 | 1 year |
+| Major | 18 | 50000 | Permanent |
+

@@ -1,0 +1,19 @@
+created: 20211027132252790
+item-bulk: 
+item-hands: 1
+item-level: 7 14
+item-price: 550 8000
+item-variants: Lesser Greater
+modified: 20211027132444080
+tags: Item Conjuration Rare Consumable Magical
+title: Starshot Arrow
+type: text/vnd.tiddlywiki
+virtual-tags: Interact Teleportation
+
+When you activate ({{OneAction}} <<tag Interact>>) and shoot a starshot arrow, you take no range penalties against any target that you can personally detect.
+
+There must be a line of effect between you and the target.
+
+''Lesser'' Level 7, 55 gp: The target must be within the maximum range of your weapon.
+
+''Greater'' Level 14, 800 gp: You can fire at any creature you can detect, regardless of range. The arrow travels instantly, hitting your target as soon as you fire the arrow. This is a <<tag Teleportation>> effect.

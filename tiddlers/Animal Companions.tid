@@ -1,6 +1,6 @@
 created: 20201017173516669
 mod-command_an_animal: Gives companion 2 actions.
-modified: 20201129002133784
+modified: 20211027145517832
 tags: Rule
 title: Animal Companions
 type: text/vnd.tiddlywiki
@@ -25,23 +25,23 @@ Animal companions can’t use abilities that require greater Intelligence, such 
 
 Your animal companion has ancestry Hit Points from its type, plus a number of Hit Points equal to 6 plus its Constitution modifier for each level you have.
 
-| !Trait | !Young | !Mature | !Nimble | !Savage | !Specialized |
-| !Strength | As Listed | +1 | +3 | +3 | +3 |
-| !Dexterity | As Listed | +1 | +2 | +2 | +3 |
-| !Constitution | As Listed | +1 | +2 | +2 | +2 |
-| !Intelligence | As Listed | As Listed | As Listed | As Listed | +2 |
-| !Wisdom | As Listed | +1 | +2 | +2 | +2 |
-| !Unarmed Proficiency | Trained | Trained | Trained | Trained | Expert |
-| !Unarmed Damage Dice | 1 | 2 | 2 | 2 | 3 |
-| !Unarmed Extra Damage | 0 | 0 | +2 | +3 | 4/6 |
-| !Unarmed Traits | As Listed | As Listed | Add Magical | Add Magical | Add Magical |
+| !Trait | !Young | !Mature | !Nimble | !Savage | !Specialized | !Genie-Touched |
+| !Strength | As Listed | +1 | +3 | +3 | +3 | +1 |
+| !Dexterity | As Listed | +1 | +2 | +2 | +3 | +1 |
+| !Constitution | As Listed | +1 | +2 | +2 | +2 | +1 |
+| !Intelligence | As Listed | As Listed | As Listed | As Listed | +2 | As Listed |
+| !Wisdom | As Listed | +1 | +2 | +2 | +2 | +2 |
+| !Unarmed Proficiency | Trained | Trained | Trained | Trained | Expert | Trained |
+| !Unarmed Damage Dice | 1 | 2 | 2 | 2 | 3 | 1 |
+| !Unarmed Extra Damage | 0 | 0 | +2 | +3 | 4/6 | +3 |
+| !Unarmed Traits | As Listed | As Listed | Add Magical | Add Magical | Add Magical | Add Magical and Genie's element |
 | !Perception/Saves | Trained | Expert | Expert | Expert | Master |
-| !Acrobatics | Trained | Trained | Expert | Trained | As last |
-| !Athletics | Trained | Trained | Trained | Expert | As last |
+| !Acrobatics | Trained | Trained | Expert | Trained | As last | Expert if Djinni or Efreeti |
+| !Athletics | Trained | Trained | Trained | Expert | As last | Expert if Marid or Shaitan |
 | !Intimidation | As Listed | Trained/Expert | Trained/Expert | Trained/Expert | Trained/Expert |
 | !Stealth | As Listed | Trained/Expert | Trained/Expert | Trained/Expert | Trained/Expert |
 | !Survival | As Listed | Trained/Expert | Trained/Expert | Trained/Expert | Trained/Expert |
 | !Size | As Listed | +1 max Large | +1 max Large | +1 max Large | +1 max Large |
-| !Advanced Maneuver | No | No | Yes | Yes | Yes |
+| !Advanced Maneuver | No | No | Yes | Yes | Yes | Yes |
 
 

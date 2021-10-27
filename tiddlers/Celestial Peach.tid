@@ -1,0 +1,16 @@
+created: 20211027131603595
+item-bulk: L
+item-hands: 1
+item-level: 17 20
+item-price: 30000 730000
+item-variants: Rejuvenation Life
+modified: 20211027131824702
+tags: Item Rare Magical Consumable Divine Healing Necromancy Positive
+title: Celestial Peach
+type: text/vnd.tiddlywiki
+
+Eating ({{OneAction}} [[Interact]]) one of these small red peaches can heal even the most grievous of injuries.
+
+''Rejuvenation'' Level 17, Price 3,000 gp: You gain the effects of 7th-level [[Neutralize Poison]], [[Regenerate]], [[Remove Curse]], and [[Remove Disease]] spells. The peach has a counteract modifier of +27.
+
+''Life'' Level 20, Price 73,000 gp: When you place the peach into the mouth of an intact corpse that died within the last year, it casts a 10th-level [[Raise Dead]] on the corpse.

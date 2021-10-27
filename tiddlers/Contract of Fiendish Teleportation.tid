@@ -1,0 +1,18 @@
+created: 20211027125025030
+item-bulk: L
+item-hands: 0
+item-level: 11
+item-price: [[Your Soul]]
+mod-ac: +3 item when striding vs reactions to mevoment.
+modified: 20211027125341346
+tags: Item Rare Conjuration Contract Invested Magical
+title: Contract of Fiendish Teleportation
+type: text/vnd.tiddlywiki
+
+You tap into the fiendish ability to slip through space. 
+
+When you [[Stride]], you gain a +3 item bonus to Armor Class against reactions triggered by your movement. 
+
+Once per day, from any distance, //the issuing fiend// can call on a provision in your contract as a single action, causing you to become [[Paralyzed]] for 1 hour or until //the fiend// releases you, whichever comes first.
+
+''Activate'' {{TwoAction}} <<tag Command>>; ''Frequency'' once per day; ''Effect'' You recite a subclause of your contract regarding change in venue. You cast [[Dimension Door]]. The space you leave and the one you appear in are filled with the scent of brimstone, dealing 2d6 evil damage to creatures adjacent to both spaces.

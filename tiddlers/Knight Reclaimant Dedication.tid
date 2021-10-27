@@ -6,7 +6,7 @@ feat-spre: T
 mod-fortitude: Promote successes vs undead.
 mod-reflex: Promote successes vs undead.
 mod-will: Promote successes vs undead.
-modified: 20201226173944172
+modified: 20211027135456326
 tags: Feat Dedication Uncommon
 title: Knight Reclaimant Dedication
 type: text/vnd.tiddlywiki
@@ -19,4 +19,4 @@ You gain expert proficiency in [[Stealth]] and [[Survival]].
 
 Whenever you roll a success on a saving throw against an undead’s special ability, you get a critical success instead. This applies to any abilities that come from being undead, including an undead’s innate spells (but not its prepared or spontaneous spells).
 
-<<archetypefeatlist "8 12" "[[Knight Reclaimant]]">>
+<<archetypefeatlist "8 10 12" "[[Knight Reclaimant]]">>

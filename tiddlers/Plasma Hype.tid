@@ -1,0 +1,18 @@
+created: 20211027143200095
+item-bulk: L
+item-hands: 1
+item-level: 12
+item-price: 4000
+modified: 20211027143313297
+tags: Item Alchemical Consumable Drug Ingested Poison Rare
+title: Plasma Hype
+type: text/vnd.tiddlywiki
+
+A synthetic adrenaline supplement that increases awareness and reaction time. Plasma Hype has been infused with a specific mixture of fluids and other alchemical reagents to improve upon the original hype formula.
+
+| !Saving Throw | DC 30 Fortitude |
+| !Maximum Duration | 1 minute |
+| !Stage 1 | +10-foot status bonus to speed, [[Quickened]] and can use the additional action to [[Step]], [[Stride]], [[Climb]] or [[Swim]] (1 round) |
+| !Stage 2 | [[Quickened]] and can use the additional action to [[Step]] or [[Stride]] (1 round) |
+| !Stage 3 | [[Drained]] 2 and [[Stupefied]] 2 (1 round) |
+

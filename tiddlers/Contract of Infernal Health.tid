@@ -1,0 +1,16 @@
+created: 20211027125346684
+item-bulk: L
+item-hands: 0
+item-level: 15
+item-price: [[Your Soul]]
+mod-rest: Healed Hit Points are tripled, unless the fiend says no.
+modified: 20211027125607288
+tags: Item Rare Contract Invested Magical Healing
+title: Contract of Infernal Health
+type: text/vnd.tiddlywiki
+
+You regain triple the normal number of Hit Points when resting (meaning you regain triple your Constitution modifier multiplied by your level). The healing you gain from long-term rest is similarly tripled. 
+
+Once per day, from any distance, //the issuing fiend// can recite a voidability clause in your contract as a 1-minute activity to prevent you from regaining Hit Points from resting for 1 day.
+
+''Activate'' {{TwoAction}} <<tag Command>>; ''Frequency'' once per day; ''Effect'' You recite a subclause regarding mandatory remediation from your contract. For 6 rounds, at the start of your turn each round, you recover 25 Hit Points unless you took <<tag Good>> damage since the start of your previous turn.

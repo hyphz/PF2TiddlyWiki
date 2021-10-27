@@ -1,0 +1,15 @@
+created: 20211027130419131
+item-bulk: L
+item-hands: 
+item-level: 3
+item-price: 600
+modified: 20211027130515627
+tags: Item Rare
+title: Palm Crossbow
+type: text/vnd.tiddlywiki
+
+This thick, elegant bracelet conceals a specialized firing mechanism that can hold a single blowgun dart. You can fire the dart normally from the bracelet. 
+
+Recognizing the bracelet’s nature requires a successful DC 25 [[Perception]] check. 
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Effect'' You expand the bracelet into a hand crossbow. The bracelet has enough pieces to assemble up to three bolts, but the bolts contain necessary components for the bracelet. Without all of the bolt pieces, you cannot collapse the crossbow back into a bracelet.

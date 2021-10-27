@@ -1,0 +1,20 @@
+created: 20211027142330623
+item-bulk: Varies
+item-hands: Varies
+item-level: 12 19
+item-price: 16000 320000
+item-variants: Standard-Grade High-Grade
+modified: 20211027142533763
+tags: Item Rare Weapon
+title: Sovereign Steel Weapon
+type: text/vnd.tiddlywiki
+
+Sovereign steel weapons are treated as cold iron against creatures with a weakness to
+cold iron, like demons and fey. 
+
+In addition, the noqual in sovereign steel weapons disrupts spellcasters’ concentration, causing them to become [[Stupefied]] 1 for 1 round on a critical hit.
+
+| !Type | !Level | !Price | !Value of Cold Iron needed | !Value of Noqual needed | !Hardness | !HP | !BT | !Magic Level Limit |
+| Standard-Grade | 12 | 16000 + 1600/Bulk | 1000 + 100/Bulk | 1000 + 100/Bulk | 11 | 44 | 22 | 15 |
+| High-Grade | 19 | 320000 + 32000/Bulk | 80000 + 8000/Bulk | 80000 + 8000/Bulk | 14 | 56 | 28 | Any |
+ 

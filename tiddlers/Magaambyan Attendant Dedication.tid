@@ -3,7 +3,7 @@ feat-arch: [[Magaambyan Attendant]]
 feat-level: 2
 feat-skill: Arcana Nature
 feat-spre: T
-modified: 20210102151431852
+modified: 20211027134020388
 tags: Feat Dedication Uncommon
 title: Magaambyan Attendant Dedication
 type: text/vnd.tiddlywiki
@@ -22,4 +22,4 @@ When you gain this feat, choose to affiliate with the Cascade Bearers, Emerald B
 
 ''Special'' //You can select Halcyon Speaker Dedication even if you haven't gained two feats from Magaambyan Attendant.//
 
-<<archetypefeatlist "4 6 10" "[[Magaambyan Attendant]]">>
+<<archetypefeatlist "4 6 10 12" "[[Magaambyan Attendant]]">>

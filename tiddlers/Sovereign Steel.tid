@@ -1,0 +1,30 @@
+created: 20211027141547712
+item-bulk: L 1 1 1
+item-level: 1 1 9 17
+item-price: 7000 70000 5000 80000
+item-variants: Chunk Ingot [[Standard-Grade]] [[High-Grade]]
+mod-fortitude: +4 circumstance if protecting item from magic or item saves vs magic.
+mod-reflex: +4 circumstance if protecting item from magic or item saves vs magic.
+mod-will: +4 circumstance if protecting item from magic or item saves vs magic.
+modified: 20211027141829624
+tags: Material Precious Rare
+title: Sovereign Steel
+type: text/vnd.tiddlywiki
+
+All sovereign steel items have a +4 circumstance bonus on saves against magic that the item makes, and grant their bonus to saves the owner makes specifically to protect the item from magic (such as against the [[Rusting Grasp]] spell).
+
+| !Unit | !Price | !Bulk |
+| Chunk | 7000 | L |
+| Ingot | 70000 | 1 |
+
+| !Grade | !Level | !Price |
+| Standard | 9 | 5000/Bulk |
+| High | 17 | 80000/Bulk |
+
+| !Item | !Grade | !Hardness | !HP | !BT |
+| Thin | Standard | 7 | 28 | 14 |
+| Thin | High | 10 | 40 | 20 |
+| Item | Standard | 11 | 44 | 22 |
+| Item | High | 14 | 56 | 28 |
+| Structure | Standard | 22 | 88 | 44 |
+| Structure | High | 28 | 112 | 56 |

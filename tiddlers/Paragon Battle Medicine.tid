@@ -1,0 +1,20 @@
+created: 20211027140754446
+feat-fpre: [[Battle Medicine]]
+feat-level: 7
+feat-skill: Medicine
+feat-spre: M
+mod-battle_medicine: Reduce conditions as well as healing.
+modified: 20211027141027319
+tags: Feat General Skill Rare
+title: Paragon Battle Medicine
+type: text/vnd.tiddlywiki
+
+When you successfully use [[Battle Medicine]], you can also reduce the target’s [[Sickened]],
+[[Enfeebled]], or [[Clumsy]] condition by 1 (this has no effect if you are subject to an effect
+continually applying the clumsy condition, like [[Enlarge]]). 
+
+If you are legendary in Medicine, you can choose to reduce the target’s [[Frightened]] or [[Stunned]] condition by 1 instead, and if you have the [[Godless Healing]] feat, you can
+choose to reduce the target’s [[Stupefied]] or [[Drained]] condition by 1 instead. 
+
+If you have the [[Mortal Healing]] feat, you can reduce all available conditions by 1 for a target who hasn’t benefited from positive or healing magic in the last 24 hours, and if you roll a critical success before applying the effects of the feat, you reduce all available conditions by  
+2 for that target instead.

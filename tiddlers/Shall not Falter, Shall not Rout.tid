@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211027135250313
+feat-arch: [[Knight Reclaimant]]
+feat-level: 10
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 5
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20211027135417964
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Feat Rare Healing Necromancy
+title: Shall not Falter, Shall not Rout
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The first time each round that you [[Strike]] with your weapon and deal damage to a foe, you recover a number of HP equal to twice //Shall not falter, shall not rout//’s level. 
+
+This healing can’t raise your current HP above half of your maximum HP.

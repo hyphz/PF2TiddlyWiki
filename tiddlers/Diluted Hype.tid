@@ -1,0 +1,18 @@
+created: 20211027142848481
+item-bulk: L
+item-hands: 1
+item-level: 5
+item-price: 200
+modified: 20211027143040973
+tags: Item Alchemical Uncommon Consumable Drug Ingested Poison
+title: Diluted Hype
+type: text/vnd.tiddlywiki
+
+A synthetic adrenaline supplement that increases awareness and reaction time. Diluted hype has been mixed with saltwater to allow for cheaper mass production.
+
+| !Saving Throw | DC 21 Fortitude |
+| !Maximum Duration | 1 minute |
+| !Stage 1 | [[Quickened]] and can use the additional action to [[Step]] (1 round) |
+| !Stage 2 | [[Stupefied]] 1 (1 round) |
+| !Stage 3 | [[Drained]] 1 and [[Stupefied]] 1 (1 round) |
+

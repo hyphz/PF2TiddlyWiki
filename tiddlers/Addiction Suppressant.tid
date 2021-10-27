@@ -1,0 +1,23 @@
+created: 20211027140234281
+item-bulk: L
+item-hands: 1
+item-level: 1 6 10 14
+item-price: 20 300 1400 5000
+item-variants: Lesser Moderate Greater Major
+modified: 20211027140358674
+tags: Consumable Item Elixir Rare
+title: Addiction Suppressant
+type: text/vnd.tiddlywiki
+
+When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug, but without any of the drug’s effects, and it doesn’t increase the addiction DC. 
+
+You also gain an item bonus against the ongoing save against the drug’s addiction depending on the type of addiction suppressant.
+
+| !Type | !Level | !Price | !Item Bonus |
+| Lesser | 1 | 20 | +1 |
+| Moderate | 6 | 300 | +2 |
+| Greater | 10 | 1400 | +3 |
+| Major | 14 | 5000 | +4 |
+
+
+

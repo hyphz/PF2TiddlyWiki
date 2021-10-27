@@ -1,0 +1,18 @@
+created: 20211027143056900
+item-bulk: L
+item-hands: 1
+item-level: 8
+item-price: 1000
+modified: 20211027143145112
+tags: Item Alchemical Consumable Drug Ingested Poison Rare
+title: Hype
+type: text/vnd.tiddlywiki
+
+A synthetic adrenaline supplement that increases awareness and reaction time. 
+
+| !Saving Throw | DC 25 Fortitude |
+| !Maximum Duration | 1 minute |
+| !Stage 1 | [[Quickened]] and can use the additional action to [[Step]] or [[Stride]] (1 round) |
+| !Stage 2 | [[Stupefied]] 2 (1 round) |
+| !Stage 3 | [[Drained]] 2 and [[Stupefied]] 2 (1 round) |
+

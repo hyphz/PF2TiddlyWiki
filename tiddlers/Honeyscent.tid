@@ -1,0 +1,21 @@
+created: 20211027143422910
+item-bulk: L
+item-hands: 1
+item-level: 10
+item-price: 1800
+modified: 20211027143603958
+tags: Item Alchemical Consumable Poison Rare Inhaled
+title: Honeyscent
+type: text/vnd.tiddlywiki
+
+This sweet-scented poison triggers vivid hallucinations in those who succumb to it, causing most to believe swarms of ravenous biting insects are feeding on them. So vivid are these hallucinations that the victims damage themselves by scratching and clawing at the
+imaginary swarm. 
+
+At the GM’s discretion, a creature incapable of clawing at itself might instead slam against solid objects, in which case the poison inflicts bludgeoning damage.
+
+| !Saving Throw | DC 30 [[Will]] |
+| !Maximum Duration | 6 rounds |
+| !Stage 1 | 2d6 slashing damage (1 round) |
+| !Stage 2 | 2d6 slashing damage and [[Stupefied]] 1 (1 round)  |
+| !Stage 3 | 2d6 slashing damage, [[Drained]] 1 and [[Stupefied]] 1 //(1 round)// |
+
