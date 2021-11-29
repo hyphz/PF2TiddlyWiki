@@ -1,0 +1,9 @@
+created: 20211129000751755
+modified: 20211129000826084
+tags: [[Master Ability]]
+title: Lifelink
+type: text/vnd.tiddlywiki
+
+If your familiar would be reduced to 0 HP by damage, as a [[Reaction]] with the <<tag Concentrate>> trait, you can take the damage. If you do, you take all the damage and your familiar takes none. 
+
+However, special effects when a hit damages your familiar (such as snake venom) still apply to your familiar.

@@ -1,0 +1,18 @@
+a-actions: 1
+created: 20201010152451984
+feat-class: Fighter
+feat-fpre: Lunge [[Attack of Opportunity]]
+feat-level: 12
+mod-attack_of_opportunity: Can attack creatures in lunge range.
+modified: 20211128231521539
+tags: Feat Class Fighter Action Stance
+title: Lunging Stance
+type: text/vnd.tiddlywiki
+
+''Requirement'' You are wielding a melee weapon.
+
+Your body coiled to strike, you can lash out at distant enemies. 
+
+While you are in this stance, you can use [[Attack of Opportunity]] against a creature that is outside your reach but within the reach you would have with a [[Lunge]]. 
+
+If you do, you increase your range with the Strike by 5 feet.

@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20200926144203410
+feat-class: Cleric
+feat-level: 12
+mod-ac: +2 status.
+mod-fortitude: +2 status.
+mod-harm: Gives bonus to AC and saves to healed targets.
+mod-heal: Also gives bonus to AC and saves.
+mod-reflex: +2 status.
+mod-will: +2 status.
+modified: 20211128231226033
+tags: Cleric Feat Class Concentrate Metamagic
+title: Defensive Recovery
+type: text/vnd.tiddlywiki
+
+''Prerequisites'' harmful font or healing font.
+
+Your faith provides temporary protection in addition to healing.
+
+If the next action you use is to cast [[Harm]] or [[Heal]] on a single target and the target regains Hit Points from the spell, it also gains a +2 status bonus to [[AC]] and saving throws for 1 round.

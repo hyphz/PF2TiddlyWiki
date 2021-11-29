@@ -1,0 +1,21 @@
+created: 20211128232113354
+feat-class: Ranger
+feat-fpre: [[Experienced Tracker]]
+feat-level: 6
+feat-skill: Survival
+feat-spre: E
+mod-track: Move full speed; master doesn't need to check every hour, legend can multitask.
+modified: 20211128232247718
+tags: Feat Class Ranger
+title: Swift Tracker
+type: text/vnd.tiddlywiki
+
+Your keen eyes catch signs of passage even when you’re moving.
+
+You can move at your full Speed while you [[Track]]. 
+
+If you have master proficiency in [[Survival]], you don’t need to attempt a new Survival check every hour while Tracking. 
+
+If you have legendary proficiency in [[Survival]], you can use another exploration activity while Tracking.
+
+If you roll Survival for initiative while tracking your hunted prey, when you start your first turn of the encounter, you can Stride toward your hunted prey as a free action.

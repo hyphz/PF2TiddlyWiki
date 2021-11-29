@@ -1,0 +1,15 @@
+created: 20211128231908442
+feat-class: Ranger
+feat-fpre: [[Animal Companion]]
+feat-level: 6
+mod-animal_companions: Animal takes 1 action even if not commanded.
+modified: 20211128232052329
+tags: Feat Class Ranger
+title: Mature Animal Companion (Ranger)
+type: text/vnd.tiddlywiki
+
+Your animal companion grows up, becoming a mature animal companion, which grants it additional capabilities. 
+
+If you have the [[Hunt Prey]] action, your animal companion assaults the prey even without your orders. During an encounter, even if you don’t use the [[Command an Animal]] action, your animal companion can still use 1 action on your turn that round to [[Stride]] or [[Strike]].
+
+//Note: the Druid version of this feat is level 4 and does not require [[Hunt Prey]] to give the bonus action to your animal companion.//

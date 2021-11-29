@@ -6,14 +6,14 @@ item-price: 500 6500
 item-slot: Headwear
 item-variants: Standard Greater
 mod-arcana: +1-2 item.
-modified: 20210822205752938
+modified: 20211128232856527
 tags: Item Invested Arcane Conjuration
 title: Hat of the Magi
 type: text/vnd.tiddlywiki
 
 This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and can bear symbols or runes. 
 
-It grants you a +1 (Greater: +2) item bonus to [[Arcana]] checks and allows you to cast the [[Prestigitation]] cantrip as an arcane innate spell.
+It grants you a +1 (Greater: +2) item bonus to [[Arcana]] checks and allows you to cast the [[Prestidigitation]] cantrip as an arcane innate spell.
 
 ''Greater Hat only: Activate'' {{ThreeAction}} [[Cast a Spell]]; ''Frequency'' once per day; ''Effect''
 You cast a 4th-level arcane [[Summon Elemental]] spell.

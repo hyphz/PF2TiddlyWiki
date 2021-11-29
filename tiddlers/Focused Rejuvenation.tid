@@ -1,0 +1,10 @@
+created: 20211128235002276
+mod-refocus: Familiar regains 1hp/level.
+modified: 20211128235034862
+tags: [[Familiar Ability]]
+title: Focused Rejuvenation
+type: text/vnd.tiddlywiki
+
+When you Refocus, you generate magical energy that heals your familiar. 
+
+Your familiar regains 1 Hit Point per level whenever you [[Refocus]].

@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211128232931617
+m-area: 15 foot [[Cone]]
+m-components: Material Verbal
+m-domain: Sun
+m-duration: 
+m-level: 1
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20211128233213964
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 minute. The creature can spend an [[Interact]] action rubbing its eyes to end the blinded condition.
+s-fumble: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 hour.
+s-hit: The creature is [[Dazzled]] for 1 round.
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Material Manipulate
+title: Dazzling Flash
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You raise your religious symbol and create a blinding flash of light. 
+
+Each creature in the area must attempt a [[Fortitude]] save.
+
+Heightened (3rd) The area increases to a 30-foot cone.
+
+{{||SaveSuccessTable}}
