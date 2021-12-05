@@ -1,11 +1,11 @@
 created: 20200627220351244
-modified: 20200730123636224
+modified: 20211205203546687
 title: Verbal
 type: text/vnd.tiddlywiki
 
 A verbal component is a vocalization of words of power.
 
-Shouting out verbal components forces magic out into the world via a word laden with magical power. Spells that require only a verbal component tend to be direct and forceful, such as power word kill or power word stun. Verbal components are especially unsubtle, so spells that benefit from stealth, such as invisibility, might not have any verbal components in favor of having somatic components, material components, or both.
+Shouting out verbal components forces magic out into the world via a word laden with magical power. Spells that require only a verbal component tend to be direct and forceful, such as [[Power Word Kill]] or [[Power Word Stun]]. Verbal components are especially unsubtle, so spells that benefit from stealth, such as [[Invisibility]], might not have any verbal components in favor of having somatic components, material components, or both.
 
 You must speak them in a strong voice, so it’s hard to conceal that you’re Casting a Spell. 
 
@@ -13,6 +13,6 @@ The spell gains the [[Concentrate]] trait.
 
 You must be able to speak to provide this component.
 
-//The target does not have to be able to understand or hear you.//
+//The target does not have to be able to understand or hear you, so verbal effects are ''not'' automatically <<tag Auditory>> or <<tag Linguistic>>.//
 
 {{BardConSub}}

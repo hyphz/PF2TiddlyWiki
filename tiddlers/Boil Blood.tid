@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211205203607710
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 8
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20211205203808739
+s-crit: The target is unaffected.
+s-fail: The target takes full damage and is [[Drained]] 2.
+s-fumble: The target takes double damage and is [[Drained]] 3.
+s-hit: The target takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Primal Evocation Fire
+title: Boil Blood
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You heat a foe’s blood and boil it within its veins. 
+
+The target takes 10d10 fire damage, with a [[Fortitude]] save. 
+
+A nonliving creature with blood in its body (such as a vampire) can be affected, but a creature with no blood is immune.
+
+''Heightened (+1)'' The damage increases by 1d10.
+
+{{||SaveSuccessTable}}
+

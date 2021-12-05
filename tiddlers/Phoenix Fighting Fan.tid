@@ -1,0 +1,16 @@
+created: 20211205230722681
+item-bulk: -
+item-hands: 1
+item-level: 20
+item-price: Priceless
+item-slot: 
+modified: 20211205231035113
+tags: Item Interact Rare Artifact Conjuration Healing Envision Command
+title: Phoenix Fighting Fan
+type: text/vnd.tiddlywiki
+
+This elegant +3 greater [[Striking]] [[Flaming]] silver fighting fan features sharp silver feathers instead of traditional paper leaves in its design.
+
+''Activate'' {{ThreeAction}} Command, envision, Interact; ''Frequency'' once per day; ''Effect'' You call upon the fan’s extradimensional powers to trap a creature in  a small demiplane that holds the countless relics //the fan's creator// collected over her lifetime (though a trapped creature cannot interact with any of these relics). The fighting fan casts [[Maze]] on a creature within 30 feet. The fan automatically Sustains the Spell as long as you Strike a creature with it each round. The [[Survival]] or [[Perception]] DC to escape the demiplane is 34. The spell ends once the creature escapes, you fail to Strike a creature with the fan during a round, or after 1 minute, whichever comes first.
+
+''Activate'' 10 minutes (Envision, Interact); ''Effect'' The fan casts 8th-level [[Raise Dead]], consuming the Phoenix Fighting Fan in the process.

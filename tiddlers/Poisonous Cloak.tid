@@ -1,0 +1,23 @@
+created: 20211205201351294
+item-bulk: L
+item-hands: 
+item-level: 6 10 13 17
+item-price: Cursed Cursed Cursed Cursed
+item-slot: Cloak
+item-variants: [[Type I]] [[Type II]] [[Type III]] [[Type IV]]
+modified: 20211205201541714
+tags: Item Rare Cursed Magical Invested Transmutation
+title: Poisonous Cloak
+type: text/vnd.tiddlywiki
+
+This innocuous-looking cloak is associated with a type of poison, set at the cloak’s creation. It often appears as a [[Clandestine Cloak]] or a [[Cloak of the Bat]] to the unaware. 
+
+When you invest this cloak, you lose any resistance to poison damage, and anytime you take piercing or slashing damage in combat, you are exposed to the type of poison associated with the poisonous cloak with no onset, even if it’s not an injury poison. 
+
+Once the curse has activated for the first time, the cloak fuses to you.
+
+| !Type | !Level | !Poison |
+| Type I | 6 | [[Giant Scorpion Venom]] |
+| Type II | 10 | [[Wolfsbane]] |
+| Type III | 13 | [[Purple Worm Venom]] |
+| Type IV | 17 | [[Hemlock]] |

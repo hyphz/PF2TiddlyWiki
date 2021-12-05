@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20210903211446755
+modified: 20211205200804154
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -53,6 +53,9 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Cursebound]]">
 <tr><th>[[Cursebound]]</th><td>Requires an [[Oracular Curse]], and increases its severity.</td></tr>
 </$list>
+<$list filter="[all[current]tag[Cursed]]">
+<tr><th>[[Cursed (Trait)]]</th><td>Identifies as helpful item on non-crit. If fused, can't be removed and is auto invested.</td></tr>
+</$list>
 <$list filter="[all[current]tag[Debilitation]]">
 <tr><th>[[Debilitation]]</th><td>Only one debilitation can apply to an enemy at a time.</td></tr>
 </$list>
@@ -76,6 +79,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Exploration]]">
 <tr><th>[[Exploration]]</th><td>This can only be used in Exploration Mode, not Encounter Mode (ie, not combat).</td></tr>
+</$list>
+<$list filter="[all[current]tag[Extradimensional]]">
+<tr><th>[[Extradimensional]]</th><td>Does not work if nested inside another extradimensional space.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Finisher]]">
 <tr><th>[[Finisher]]</th><td>Uses up [[Panache]] and must be last attack in turn.</td></tr>

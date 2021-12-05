@@ -1,0 +1,18 @@
+created: 20211205200333584
+item-bulk: L
+item-hands: 
+item-level: 7
+item-price: Cursed
+item-slot: Cloak
+modified: 20211205200439839
+tags: Item Rare Cursed Magical Invested Evocation
+title: Cloak of Immolation
+type: text/vnd.tiddlywiki
+
+Appearing as a magic cloak such as a [[Cloak of Elvenkind]], this garment is made of highly volatile fabric. 
+
+While wearing it, if you take fire damage, you also take 1d10 persistent fire damage. Taking fire damage while the persistent fire damage is in effect has no additional effect. You can extinguish the persistent fire damage as normal.
+
+Any creature that hits you with a melee unarmed attack while you are taking this persistent fire damage takes fire damage equal to the persistent fire damage you took on your previous turn. 
+
+Once the curse has activated for the first time, the boots fuse to you.

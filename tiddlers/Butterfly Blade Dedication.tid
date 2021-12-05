@@ -1,0 +1,17 @@
+created: 20211205232307067
+feat-arch: [[Butterfly Blade]]
+feat-level: 4
+modified: 20211205232426197
+tags: Feat Dedication Uncommon
+title: Butterfly Blade Dedication
+type: text/vnd.tiddlywiki
+
+//This Dedication has special plot requirements described in Fist of the Ruby Phoenix Part 1.//
+
+You become trained in [[Deception]] and [[Stealth]]; if you were already trained, you become an expert instead. 
+
+Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with butterfly swords. 
+
+You gain access to butterfly swords.
+
+<<archetypefeatlist "4 6 8 14" "[[Butterfly Blade]]">>

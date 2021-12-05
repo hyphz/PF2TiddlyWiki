@@ -1,0 +1,21 @@
+created: 20211205195309154
+item-bulk: L
+item-hands: 2
+item-level: 7 11 13
+item-price: Cursed Cursed Cursed
+item-variants: [[Type I]] [[Type II]] [[Type III]]
+modified: 20211205195557640
+tags: Item Rare Conjuration Cursed Extradimensional Magical
+title: Bag of Devouring
+type: text/vnd.tiddlywiki
+
+This item appears to be and functions as a [[Bag of Holding]], but is actually a feeding orifice of a bizarre extradimensional creature. 
+
+Any animal or vegetable matter put in the bag has a chance of triggering the bag’s interest. Whenever you reach into the bag to retrieve an item or place an animal or plant or animal or plant product) within the bag, roll a DC 9 flat check. On a success, the bag ignores the intrusion. On a failure, the bag devours the triggering material, removing it from this realm of existence; the bag can’t eat artifacts or other similarly hard-to-destroy items. 
+
+If the triggering material is not entirely inside of the bag, such as when someone reaches a hand inside, the bag of devouring attempts to pull it completely inside the bag using a [[Grapple]] action, with an [[Athletics]] bonus determined by the type of bag. On a success, it devours the victim or object entirely.
+
+| !Type | !Level | !Athletics | !Disguise |
+| Type I | 7 | +15 | Acts as a type II [[Bag of Holding]] |
+| Type II | 11 | +21 | Acts as a type III [[Bag of Holding]] |
+| Type III | 13 | +24 | Acts as a type IV [[Bag of Holding]] |

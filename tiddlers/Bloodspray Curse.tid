@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211205203224997
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 4
+m-range: 30 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20211205203400830
+s-crit: The target is unaffected.
+s-fail: As success, but when it takes the additional damage, it also takes 2d6 persistent bleed damage.
+s-fumble: 
+s-hit: For 1 minute, the first time each round that the target takes at least 10 piercing or slashing damage from a single Strike, it takes 2d6 additional damage of the same type.
+tags: Spell Somatic Verbal Concentrate Manipulate Curse Necromancy Divine Occult Primal
+title: Bloodspray Curse
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You inflict a curse upon the target that causes any wound to gush blood. 
+
+The target must attempt a [[Fortitude]] save.
+
+''Heightened (+2)'' The additional damage increases by 1d6 and the persistent bleed damage increases by 1d6.
+
+{{||SaveSuccessTable}}

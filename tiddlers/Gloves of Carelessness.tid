@@ -1,0 +1,19 @@
+created: 20211205200539496
+item-bulk: L
+item-hands: 
+item-level: 7
+item-price: Cursed
+item-slot: Gloves
+mod-interact: Curse activates on drawing or picking up.
+modified: 20211205200705332
+tags: Item Rare Cursed Magical Invested Abjuration Extradimensional
+title: Gloves of Carelessness
+type: text/vnd.tiddlywiki
+
+These gloves appear and function as [[Gloves of Storing]] but repel any item not stored in the gloves. 
+
+When wearing them, whenever you [[Interact]] to draw or pick up an item, roll a DC 11 flat check. On a success, you do so as normal. On a failure, you instead fling the item 15 feet in a random direction. You can use a reaction to attempt a DC 23 [[Reflex]] save, causing the item to land at your feet instead if you succeed. 
+
+Removing the stored item from the gloves does not trigger the //gloves//’ curse.
+
+The first time the curse activates, the gloves fuse to you.

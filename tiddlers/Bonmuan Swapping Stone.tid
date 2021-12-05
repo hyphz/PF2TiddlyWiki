@@ -1,0 +1,25 @@
+created: 20211205230439131
+item-bulk: -
+item-hands: 1
+item-level: 11 14 17 20
+item-price: 3000 6000 30000 90000
+item-slot: 
+item-variants: Lesser Moderate Greater Major
+modified: 20211205230814002
+tags: Item Magical Interact Uncommon Conjuration Consumable Teleportation
+title: Bonmuan Swapping Stone
+type: text/vnd.tiddlywiki
+
+This small, opalescent stone glows with a light that constantly shifts between colors. 
+
+When you activate the stone, you throw it into a space within 100 feet. The stone then casts [[Dimension Door]] on you and transports you to itself. This destroys the stone.
+
+You can instead hurl the stone at a creature in an attempt to bring that creature closer to you.
+Make a ranged [[Strike]] against a creature using your highest proficiency with a ranged weapon. The swapping stone has a range increment of 15 feet. On a hit, the stone shatters against the creature, casting [[Dimension Door]] on the creature and causing it to instantly teleport to a space adjacent to you. An unwilling creature can resist this teleportation with
+a successful Will save.
+
+| !Type | !Level | !Price | !Will DC |
+| Lesser | 11 | 3000 | 28 |
+| Moderate | 14 | 6000 | 31 |
+| Greater | 17 | 30000 | 37 |
+| Major | 20 | 90000 | 43 |

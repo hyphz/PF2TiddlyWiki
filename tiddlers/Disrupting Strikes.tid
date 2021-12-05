@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20211205233620122
+feat-arch: [[Ghost Eater]]
+feat-level: 6
+modified: 20211205233701790
+tags: Feat Archetype Action
+title: Disrupting Strikes
+type: text/vnd.tiddlywiki
+
+You call forth positive energy from within to help you destroy undead. 
+
+Your weapon and unarmed Strikes gain the effects of a [[Disrupting]] property rune until the start of your next turn.
+
+If you’re 14th level or higher, your Strikes instead gain the effects of a greater [[Disrupting]] property rune. 
+
+The DC for the rune’s effect is equal to your class DC or spell DC, whichever is higher.

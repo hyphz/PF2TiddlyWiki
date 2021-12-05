@@ -1,0 +1,20 @@
+created: 20211205230218114
+feat-class: Monk
+feat-level: 10
+mod-ki_blast: Can change damage type to selected type.
+mod-ki_form: Can add damage type option.
+mod-ki_strike: Can add damage type option.
+modified: 20211205230339450
+tags: Feat Class Uncommon Monk
+title: Entwined Energy Ki
+type: text/vnd.tiddlywiki
+
+You can transform your inner power into a type of energy to empower your ki abilities. 
+
+When you gain this feat, choose either acid, cold, electricity, fire, or sonic damage. 
+
+When you cast [[Ki Blast]], you can choose to have the spell deal the type of damage you chose instead of force damage. 
+
+When you cast [[Ki Form]] or [[Ki Strike]], add the type of damage you chose to the list of damage types you can select for the spell.
+
+''Special'' At the GM’s discretion, this feat can alter other ki spells.

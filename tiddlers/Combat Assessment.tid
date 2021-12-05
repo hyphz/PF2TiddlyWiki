@@ -1,9 +1,11 @@
 a-actions: 1
 a-subactions: Strike
 created: 20201010160456194
+feat-archadd: [[Butterfly Blade]]
+feat-archlevel: 4
 feat-class: Fighter
 feat-level: 1
-modified: 20201010160526772
+modified: 20211205232523732
 tags: Feat Class Fighter Action
 title: Combat Assessment
 type: text/vnd.tiddlywiki

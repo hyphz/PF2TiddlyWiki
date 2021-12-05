@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211205231815699
+feat-class: Monk
+feat-level: 10
+m-area: 5 foot [[Emanation]] or more
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 5
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20211205232203431
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Electricity Evocation Uncommon Force Monk Feat Class
+title: Wronged Monk's Wrath
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You unleash your ki as a powerful storm of force and lightning. //Its effect is based on how many actions you use to cast the spell.//
+
+| !Actions | !Emanation Size | !Force Damage | !Electricity Damage |
+| {{OneAction}} | 5 feet | 2d6 | 2d12 |
+| {{TwoAction}} | 10 feet | 3d6 | 3d12 |
+| {{ThreeAction}} | 20 feet | 4d6 | 4d12 |
+
+Each creature attempts one basic [[Reflex]] save that applies to both types of damage.
+
+On a failed save, the creature is [[Deafened]] for 1 round; on a critical failure, the creature also takes 2d12 persistent electricity damage and is [[Deafened]] for 1 minute.
+
+''Heightened (+2)'' The force damage increases by 1d6 and the electricity damage by 1d12, or 2d6 and 2d12 if you use 2 or 3 actions.

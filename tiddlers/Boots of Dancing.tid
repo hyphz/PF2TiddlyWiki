@@ -1,0 +1,19 @@
+created: 20211205200040379
+item-bulk: L
+item-hands: 
+item-level: 11
+item-price: Cursed
+item-slot: Shoes
+mod-athletics: Curse activates on check.
+mod-stride: Curse activates on second use in a round.
+modified: 20211205200305172
+tags: Item Rare Cursed Magical Enchantment Invested
+title: Boots of Dancing
+type: text/vnd.tiddlywiki
+
+These boots act as greater [[Boots of Elvenkind]], but they react wildly to strong physical exertion. 
+
+While you wear the boots, the curse activates whenever you attempt an [[Athletics]] check or [[Stride]] more than once in a single round during an encounter. The boots cast an 8th-level [[Uncontrollable Dance]] spell on you, and you automatically fail your save. 
+
+Once the curse has activated for the first time, the boots fuse to you.
+

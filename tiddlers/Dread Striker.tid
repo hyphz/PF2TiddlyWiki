@@ -1,8 +1,10 @@
 created: 20201031171920093
+feat-archadd: [[Butterfly Blade]]
+feat-archlevel: 6
 feat-class: Rogue
 feat-level: 4
 mod-frightened: Victim also flat-footed against striker.
-modified: 20201031171957541
+modified: 20211205232618713
 tags: Feat Class Rogue
 title: Dread Striker
 type: text/vnd.tiddlywiki

@@ -1,0 +1,15 @@
+created: 20211205233323073
+feat-arch: [[Ghost Eater]]
+feat-level: 2
+feat-skill: Occultism Religion
+feat-spre: T
+modified: 20211205233434847
+tags: Feat Dedication Uncommon
+title: Ghost Eater Dedication
+type: text/vnd.tiddlywiki
+
+You have trained as a ghost eater, a hunter specialized in the destruction of spirits. You know how to channel your own spiritual energy to harm spirits. 
+
+Your weapon and unarmed attack Strikes become magical. Against incorporeal creatures, they also gain the effects of a [[Ghost Touch]] property rune.
+
+<<archetypefeatlist "4 6 16" "[[Ghost Eater]]">>

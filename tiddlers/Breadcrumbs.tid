@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211205211414435
+m-area: 
+m-components: Material Somatic Verbal
+m-duration: 1 hour
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: 1 [[Willing]] creature
+m-time: 1 minute
+modified: 20211205211508101
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Primal Material Arcane Occult Divine Abjuration
+title: Breadcrumbs
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You protect your target from going astray in hostile territory by tracking where it’s already been, helping it deduce where it still needs to go. 
+
+The target leaves a glittering trail behind it that lasts for the spell’s duration. 
+
+This trail doesn’t denote the direction or the order of its path—it merely indicates where the target has moved during the spell’s duration.
+
+''Heightened (2nd)'' The duration increases to 8 hours.
+
+''Heightened (3rd)'' The duration increases to last until your next daily preparations.
+

@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211205212454030
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 8
+m-range: 120 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20211205212648814
+s-crit: The target is unaffected.
+s-fail: The target takes 10d6 mental damage, is [[Frightened]] 3, and can’t benefit from circumstance or status bonuses for 1 week.
+s-fumble: The target takes 20d6 mental damage and is [[Frightened]] 4. It can’t benefit from circumstance or status bonuses until the curse is broken. While the curse remains, the target’s allies are also unable to benefit from circumstance or status bonuses while within 15 feet of it.
+s-hit: The target takes 5d6 mental damage, is [[Frightened]] 1, and can’t benefit from circumstance or status bonuses for 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate Curse Divine Occult Auditory Emotion Enchantment Fear Mental
+title: Canticle of Everlasting Grief
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create a melody distilled from pure grief, conveying the inevitable loss of everything your target cherishes, audible only to them. 
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

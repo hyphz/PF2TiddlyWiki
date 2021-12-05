@@ -1,9 +1,11 @@
 a-actions: 1
 a-subactions: Interact Strike
 created: 20201024182359642
+feat-archadd: [[Butterfly Blade]]
+feat-archlevel: 4
 feat-class: Ranger Rogue
 feat-level: 2
-modified: 20201031170944048
+modified: 20211205232548975
 tags: Ranger Class Feat Action Rogue
 title: Quick Draw
 type: text/vnd.tiddlywiki
