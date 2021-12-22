@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211221215602119
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20211221220150993
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Light Arcane Occult
+title: Chromatic Ray
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send out a ray of colored light streaming toward your enemy, with a magical effect depending on the ray’s color. 
+
+Make a spell attack roll. If you hit, roll 1d4 to see which beam you cast. If the ray deals damage, that damage is doubled on a critical hit. Any additional traits that apply to a ray are listed in parentheses just after the name of the color.
+
+''Heightened (6th)'' The damage for red, orange, yellow, and green each increase by 10. Roll 1d8 to determine the ray’s color, using the results for 1–4 above and the results for 5–8 below.
+
+| !Roll | !Color | !Effect |
+|1 |Red |The ray deals 30 <<tag Fire>> damage to the target (or 40 if heightened). |
+|2 |Orange |The ray deals 40 <<tag Acid>> damage to the target (or 50 if heightened). |
+|3 |Yellow |The ray deals 50 <<tag Electricity>> damage to the target (or 60 if heightened). |
+|4 |Green |The ray deals 25 <<tag Poison>>  damage to the target (or 35 if heightened), and the target must succeed at a [[Fortitude]] save or be [[Enfeebled]] 1 for 1 minute (or [[Enfeebled]] 2 on a critical failure). |
+|5 |Blue |The ray has the effect of the [[Flesh to Stone]] spell. On a critical hit, the target is [[Clumsy]] 1 as long as it's [[Slowed]] by the Flesh to Stone effect. |
+|6 |Indigo |The ray has the effect of the [[Confusion]] spell. On a critical hit, it has the effect of [[Warp Mind]] instead. This has the traits <<tag Emotion>>, <<tag Incapacitation>>, <<tag Mental>>. ''Because it has Incapacitation, note it will have a reduced effect on creatures of lower level.'' |
+|7 |Violet |The target is [[Slowed]] for 1 minute. It must also succeed at a [[Will]] save or be teleported 120 feet directly away from you (if there isn't room for it to appear there, it appears in the nearest open space); this is a <<tag Teleportation>> effect. |
+|8 |Intense Color |The target is [[Dazzled]] until the end of your next turn, or [[Blinded]] if your attack roll was a critical hit. Roll again and add the effects of another color (rerolling results of 8). |

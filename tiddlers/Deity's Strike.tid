@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211221223607360
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 7
+m-range: 500 feet
+m-save: Reflex
+m-targets: 1 creature (see text)
+m-time: 
+modified: 20211221223719971
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divine Evocation Force
+title: Deity's Strike
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A manifested version of your deity’s favored weapon appears in the air above and attacks the target, using your spell attack roll. 
+
+On a hit, the weapon deals 7d12 force damage, or double damage on a critical hit.
+
+After the attack, whether it succeeds or fails, divine energy bursts from the weapon in a shock wave. It emits in a 10-foot-wide, 30-foot-long line starting from the target and continuing in a direction you choose. 
+
+Choose an alignment your deity has (chaotic, evil, good, or lawful). Your target and any other creatures within the area of the spell take 5d6 damage of the chosen alignment type, with a basic [[Reflex]] save. The spell gains the trait of the alignment you choose. 
+
+If your deity is true neutral, the weapon doesn’t create a shock wave.
+
+//If you don't have a deity, you can't cast this spell.//
+
+''Heightened (9th)'' The force damage increases by 1d12 and the alignment damage increases by 1d6.

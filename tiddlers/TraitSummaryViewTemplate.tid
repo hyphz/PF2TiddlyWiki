@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20211205200804154
+modified: 20211221220508365
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -102,7 +102,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Good]]</th><td>Good damage harms only evil creatures.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Hex]]">
-<tr><th>[[Hex]]</th><td>Casting more than one hex a turn auto fails.</td></tr>
+<tr><th>[[Hex]]</th><td>Casting more than one hex a turn automatically fails.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Incapacitation]]">
 <tr><th>[[Incapacitation]]</th><td>This has reduced effect against creatures of higher level.</td></tr>
@@ -189,7 +189,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Social]]</th><td>You must be in your social identity to use this.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Somatic]]">
-<tr><th>[[Somatic]]</th><td>You must normally be able to make gestures to cast this spell.</td></tr>
+<tr><th>[[Somatic]]</th><td>You must normally make gestures to cast this spell.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Stance]]">
 <tr><th>[[Stance]]</th><td>One stance at a time; one stance action per round. Can only use in combat.</td></tr>
@@ -210,7 +210,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Unique]]</th><td>There is only one in the world. How will you claim it?</td></tr>
 </$list>
 <$list filter="[all[current]tag[Verbal]]">
-<tr><th>[[Verbal]]</th><td>You must normally be able to speak loudly to cast this spell, and you lose all your air if you use this while holding your breath.</td></tr>
+<tr><th>[[Verbal]]</th><td>You must normally speak loudly to cast this spell, and you lose all your air if you use this while holding your breath.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Vigilante]]">
 <tr><th>[[Vigilante]]</th><td>You must be in your vigilante identity to use this.</td></tr>

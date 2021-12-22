@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211222005651926
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 3
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20211222005906449
+modtag-auditory: DC 5 flat for target to use or be affected by.
+modtag-verbal: DC 5 flat to use.
+s-crit: The creature is unaffected.
+s-fail: The duration is 3 rounds.
+s-fumble: The duration is 1 minute.
+s-hit: The duration is 1 round.
+tags: Spell Somatic Verbal Concentrate Manipulate Auditory Illusion Arcane Occult
+title: Distracting Chatter
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You bombard a target with distracting auditory illusions, surrounding them with a tumultuous cacophony of overlapping speech, whispers, screams, and muttering.
+
+The target is [[Flat-Footed]], takes a –2 status penalty to purely auditory Perception checks, and must succeed at a DC 5 flat check to use <<tag Auditory>> abilities or <<tag Verbal>> spell components. 
+
+Similarly, a creature who attempts to affect the target with an <<tag Auditory>> effect must succeed at a DC 5 flat check or the attempt fails. 
+
+The duration depends on the target’s [[Will]] save.
+
+''Heightened (7th)'' You can target up to five creatures.
+
+{{||SaveSuccessTable}}

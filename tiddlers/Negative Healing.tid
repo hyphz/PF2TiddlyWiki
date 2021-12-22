@@ -1,5 +1,5 @@
 created: 20200829000237817
-modified: 20210227184142780
+modified: 20211222010330781
 title: Negative Healing
 type: text/vnd.tiddlywiki
 
@@ -9,4 +9,4 @@ It is damaged by positive damage and is not healed by positive healing effects.
 
 It does not take negative damage, and it is healed by negative effects that heal undead.
 
-//Note: a creature with Negative Healing is subject to positive ''damage'', but is ''not'' damaged by positive healing effects. Likewise, they are not automatically healed by negative ''damage''.//
+//Note: a creature with Negative Healing is not damaged by positive healing.//

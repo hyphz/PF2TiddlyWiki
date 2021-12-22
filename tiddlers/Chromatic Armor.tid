@@ -1,0 +1,44 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211221214953853
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 1 [[Willing]] creature
+m-time: 
+modified: 20211221215250484
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Light Arcane Occult
+title: Chromatic Armor
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You wrap the target in armor made of sheets of colored light.
+
+The armor sheds bright light for 20 feet (and [[Dim Light]] for the next 20 feet). 
+
+Whenever a creature attacks the target and is adjacent to it, the attacker must attempt a [[Will]] save at the end of its action. On a failure, it becomes [[Dazzled]] until the end of its next turn. Regardless of the result of the save, the attacker is temporarily immune until the end of its next turn. The dazzling effect has the <<tag Light>> and <<tag Visual>> traits.
+
+When you cast the spell, roll 1d8 twice on the table below to see the armor’s colors (rerolling any duplicates). Each color grants resistance 5 to the indicated damage type. If you spend three actions to Cast the Spell, roll three times instead.
+
+| !Roll | !Color | !Damage |
+|1 |Red |<<tag Fire>> |
+|2 |Orange |<<tag Acid>> |
+|3 |Yellow |<<tag Electricity>> |
+|4 |Green |<<tag Poison>> |
+|5 |Blue |<<tag Sonic>> |
+|6 |Indigo |<<tag Mental>> |
+|7 |Violet |<<tag Force>> |
+|8 |Matching Color |The armor becomes the color matching the type of damage the target took most recently in the past minute. If it didn’t take any of those seven types of damage or the armor is already that color, roll again, rerolling any results of 8. |
+
+''Heightened (+3)'' The resistance is increased by 5.

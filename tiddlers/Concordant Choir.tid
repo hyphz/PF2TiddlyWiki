@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211221220832073
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Fortitude
+m-targets: Varies
+m-time: 
+modified: 20211221221029690
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Sonic Divine Occult
+title: Concordant Choir
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You unleash a dangerous consonance of reverberating sound, focusing on a single target or spreading out to damage many foes. 
+
+The number of actions you spend Casting this Spell determines its targets, range, area, and other parameters.
+
+{{OneAction}} <<tag Verbal>> The spell deals 1d4 <<tag Sonic>> damage to a single enemy, with a basic [[Fortitude]] save.
+
+{{TwoAction}} <<tag Somatic>> <<tag Verbal>> The spell deals 2d4 <<tag Sonic>> damage to all creatures in a 10-foot [[Burst]], with a basic [[Fortitude]] save.
+
+{{ThreeAction}} <<tag Material>> <<tag Somatic>> <<tag Verbal>> The spell deals 2d4 <<tag Sonic>> damage to all creatures in a 30-foot [[Emanation]], with a basic [[Fortitude]] save.
+
+''Heightened (+1)'' The damage increases by 1d4 for the 1-action version, or 2d4 for the other versions.

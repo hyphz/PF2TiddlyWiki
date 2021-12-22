@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211222005950891
+m-area: 60 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 8
+m-range: 120 feet
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20211222010133374
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Positive Divine
+title: Divine Armageddon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth a divine cataclysm from your deity, destroying living and undead creatures in the area alike. 
+
+Creatures in the area take 10d6 negative damage and 10d6 alignment damage (good, evil, lawful, or chaotic), chosen from among the alignments your deity has. If your deity is true neutral, increase the negative damage by 4d6 instead of dealing alignment damage. 
+
+A creature harmed by positive damage, such as one with [[Negative Healing]], takes positive damage instead of negative damage from this spell.
+
+You can’t cast this spell if you don’t have a deity. 
+
+This spell gains the trait corresponding to the alignment damage dealt.
+
+''Heightened (+1)'' The damage increases by 1d6 negative damage, 1d6 alignment damage, and 1d6 additional negative and positive damage for a true neutral deity.
