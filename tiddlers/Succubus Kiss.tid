@@ -1,0 +1,23 @@
+created: 20211223222256073
+item-bulk: L
+item-hands: 1
+item-level: 7
+item-price: 700
+modified: 20211223222614224
+modtag-emotion: +2 item to saves at stages 1-2.
+modtag-mental: +2 item to saves at stages 1-2.
+tags: Item Alchemical Consumable Drug Poison Ingested Rare
+title: Succubus Kiss
+type: text/vnd.tiddlywiki
+
+The save for addiction to Succubus Kiss is DC 28, and the addiction has the <<tag Virulent>> trait.
+
+| !Saving Throw | DC 24 Fortitude |
+| !Onset | 1 minute |
+| !Maximum Duration | 8 hours |
+| !Stage 1 | +1 item bonus to [[Initiative]] checks and to all saving throws against <<tag Emotion>> and <<tag Mental>> effects (10 minutes) |
+| !Stage 2 | As stage 1 plus [[Drained]] 1  (1 hour) |
+| !Stage 3 | As stage 2 plus [[Blinded]] or [[Deafened]] (1 hour) |
+| !Stage 4 | [[Blinded]] and [[Deafened]] (1 hour) |
+| !Stage 5 | [[Unconscious]] |
+

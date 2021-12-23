@@ -1,0 +1,19 @@
+created: 20211223221416272
+item-bulk: L
+item-hands: 1
+item-level: 0
+item-price: 4
+mod-reflex: +1 item at stage 1.
+modified: 20211223221537766
+tags: Item Alchemical Consumable Drug Ingested Poison
+title: Qat
+type: text/vnd.tiddlywiki
+
+The save for addiction to Qat is DC 14, but the maximum addiction stage of Qat never progresses beyond stage 1.
+
+| !Saving Throw | DC 14 Fortitude |
+| !Onset | 10 minutes |
+| !Maximum Duration | 8 hours |
+| !Stage 1 | +1 item bonus to [[Reflex]] saves (10 minutes) |
+| !Stage 2 | [[Stupefied]] 1 |
+

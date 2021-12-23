@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211223224808579
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 1 minute
+m-level: 10
+m-range: 120 feet
+m-save: 
+m-targets: 1 [[Willing]] ally and 1 enemy
+m-time: 
+modified: 20211223225023984
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Arcane Divine Occult Primal Material
+title: Fated Confrontation
+type: text/vnd.tiddlywiki
+virtual-tags: Teleportation
+
+{{||SpellSummaryTable}}
+
+You weave the threads of fate to lead two foes into a climactic battle. The targets of this spell are the fated opponents: one of the targets of this spell must be you or a willing ally, and the other must be an enemy.
+
+When you Cast the Spell, the ally you targeted (or you, if you targeted yourself) may teleport to any unoccupied space of their choice within 30 feet of its fated opponent. This is a <<tag Teleportation>> effect.
+
+You isolate the two targets for 1 round. During this time, fate refuses to allow either fated opponent to be affected by attacks or effects from a third party; a fated opponent could be affected by the other’s meteor swarm or its own heal spell, but it would be entirely immune to a spell or Strike from a creature outside of the spell's effects, as well including damage from a hazard or the environment //(sic)//. 
+
+This doesn’t apply to anything that was affecting the targets before you cast fated confrontation (such as a spell with a duration or persistent damage the creature had before it was affected by fated confrontation).
+
+For the duration of the spell, either fated opponent can manipulate fate once on each of its turns. This allows it to either roll twice and take the higher result on an attack roll or skill check it makes against its fated opponent (a <<tag Fortune>> effect), or force the fated opponent to roll twice on a saving throw against one of its abilities and take the lower result (a <<tag Misfortune>> effect).
+
+This spell ends if either target becomes unable to act, or if they both agree to cease hostilities.

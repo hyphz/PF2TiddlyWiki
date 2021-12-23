@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211223224158331
+m-area: 20 foot radius [[Burst]]
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20211223224332817
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Primal
+title: Elemental Zone
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+
+Select an elemental trait: <<tag Air>>, <<tag Earth>>, <<tag Fire>>, or <<tag Water>>. Elemental zone gains the trait you chose. 
+
+You imbue the area with the raw energy of that element, creating a zone that emits and amplifies magic of that type. The temperature might suddenly rise or fall, a storm cloud might form, and so on. 
+
+Spells with the chosen elemental trait cast against creatures in the zone get a +2 status bonus to one damage type the spell deals based on the chosen trait: bludgeoning or electricity for air, bludgeoning for earth, fire for fire, and bludgeoning or cold for water. 
+
+The caster chooses one type to add the bonus to if the spell deals more than one eligible type. 
+
+This bonus is halved if the spell didn’t use a spell slot (such as a cantrip, focus spell, or innate spell).
+
+The zone has no effect on the spell if the spell doesn’t deal any damage of an eligible type.
+
+''Heightened (+2)'' The status bonus increases by 1.

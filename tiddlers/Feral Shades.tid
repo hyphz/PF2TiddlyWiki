@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211223225117677
+m-area: 30 foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20211223225235667
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Primal
+title: Feral Shades
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A wave of gray mist formed of negative energy spills out from your outstretched hand, briefly taking the shape of a pack of predatory animals that set viciously on your foes. 
+
+You deal 2d4 slashing damage and 2d4 negative damage to creatures in the area //with a basic [[Fortitude]] save.// 
+
+The shades set upon the vulnerable with greater ferocity: [[Prone]] creatures or those taking persistent bleed damage take a –2 status penalty to the save.
+
+''Heightened (+1)'' The slashing damage and the negative damage each increase by 1d4.

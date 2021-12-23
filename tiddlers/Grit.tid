@@ -1,0 +1,26 @@
+created: 20211223221602209
+item-bulk: L
+item-hands: 1
+item-level: 1
+item-price: 30
+mod-athletics: +1 item in stages 1-2.
+mod-crafting: +1 item in stages 1-2.
+mod-perception: -2 to -4 item in stages 2-4.
+mod-performance: +1 item in stages 1-2.
+modified: 20211223221853826
+tags: Item Alchemical Consumable Drug Ingested Poison
+title: Grit
+type: text/vnd.tiddlywiki
+
+The save for addiction to Grit is DC 15, and the addiction has the <<tag Virulent>> trait.
+
+| !Saving Throw | DC 15 Fortitude |
+| !Onset | 1 minute |
+| !Maximum Duration | 4 hours |
+| !Stage 1 | +1 item bonus to [[Athletics]], [[Crafting]] and [[Performance]] checks (10 minutes) |
+| !Stage 2 | +1 item bonus to [[Athletics]], [[Crafting]] and [[Performance]] checks, -2 item penalty to [[Perception]] checks (1 hour) |
+| !Stage 3 | -4 item penalty to [[Perception]] checks (1 hour) |
+| !Stage 4 | -4 item penalty to [[Perception]] checks (1 hour) |
+| !Stage 5 | [[Confused]] (1 round) |
+| !Stage 6 | [[Unconscious]] (Remaining Duration) |
+

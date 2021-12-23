@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211223224416262
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 3
+m-range: 30 feet
+m-save: 
+m-targets: Your [[Companion|Animal Companions]] or [[Eidolon]]
+m-time: 
+modified: 20211223224546472
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Primal Necromancy Poison
+title: Envenom Companion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You envenom your companion or eidolon’s attacks, which drip with highly toxic venom for the spell’s duration. 
+
+The first time each round the target hits a creature with an unarmed Strike that deals piercing or slashing damage, that Strike deals an additional 1d8 poison damage. 
+
+A creature that is damaged by this poison must attempt a [[Fortitude]] save. On a failure, it’s also [[Clumsy]] 1 for 1 round.
+
+This spell can’t target familiars.
+
+''Heightened (+3)'' The poison damage increases by 1d8 and the clumsy value imposed on a failed save increases by 1.

@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20211223223914388
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 4
+m-range: 30 feet
+m-save: 
+m-targets: 1 [[Willing]] Creature
+m-time: 
+mod-fortitude: Earth: +2 status vs shove, trip or prone.
+mod-reflex: Earth: +2 status vs shove, trip or prone.
+modified: 20211223224123046
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Primal
+title: Elemental Gift
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+An elemental force fills your target, granting the target the swiftness of air, the ruggedness of earth, the sting of fire, or the flexibility of water, depending on which element you choose. 
+
+Choose an element when you Cast the Spell. The target gains the benefit of that element as described below, and this spell gains that trait’s element.
+
+* ''Air'' The target gains a +30-foot status bonus to its land Speed and gains a fly Speed equal to its land Speed without the status bonus.
+* ''Earth'' While on the ground, the target gets a +2 status bonus to [[Fortitude]] and [[Reflex]] saves against effects that would [[Shove]] or [[Trip]] it, and to saves against effects that would attempt to knock it [[Prone]]. In addition, the ground adjacent to the target is [[Difficult Terrain]], and the difficult terrain moves with the target, though the target ignores this difficult terrain with its own movement.
+* ''Fire'' The target’s melee unarmed Strikes and melee weapon Strikes deal 1d6 persistent fire damage on a hit.
+* ''Water'' The target takes on a watery sheen, gaining resistance 5 to fire and a swim Speed equal to its land Speed.
+
+''Heightened (8th)'' You can target up to 5 willing creatures.

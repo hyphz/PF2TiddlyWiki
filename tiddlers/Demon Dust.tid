@@ -1,0 +1,22 @@
+created: 20211223221930279
+item-bulk: L
+item-hands: 1
+item-level: 6
+item-price: 450
+mod-athletics: +2 item at stage 1-2.
+modified: 20211223222348377
+tags: Item Alchemical Consumable Drug Poison Uncommon Inhaled
+title: Demon Dust
+type: text/vnd.tiddlywiki
+
+The save for addiction to Demon Dust is DC 24, and the addiction has the <<tag Virulent>> trait.
+
+| !Saving Throw | DC 20 Fortitude |
+| !Maximum Duration | 8 hours |
+| !Stage 1 | +2 item bonus to [[Athletics]] checks and treat up to 4 Bulk as being negligible in weight (1 minute) |
+| !Stage 2 | +2 item bonus to [[Athletics]] checks, treat up to 4 Bulk as being negligible in weight, and [[Stupefied]] 1 (1 hour) |
+| !Stage 3 | [[Stupefied]] 1 (1 hour) |
+| !Stage 4 | [[Stupefied]] 2 (1 hour) |
+| !Stage 5 | [[Stupefied]] 2 and all memories made since you were first exposed to this dose of demon dust become hazy and vague (1 hour) |
+| !Stage 6 | [[Stupefied]] 2 and all memories made in the past 24 hours become hazy and vague (1 hour) |
+
