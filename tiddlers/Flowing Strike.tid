@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220214233338037
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 
+m-level: 5
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220214233436568
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Water Arcane Primal Material
+title: Flowing Strike
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A wave of flowing water rushes behind you like an elegant river, pushing you across the battlefield with fluid grace.
+
+You [[Stride]] up to 50 feet. This movement doesn’t trigger reactions. 
+
+You can make a [[Strike]] at any point during your Stride. If your Strike hits, the wave flows after you to batter the target of your Strike as well, dealing 2d10 bludgeoning damage and pushing it 10 feet in a direction of your choice.

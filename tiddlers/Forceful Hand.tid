@@ -1,0 +1,52 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220214234133122
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 60 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220214235227038
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Force Arcane Occult
+title: Forceful Hand
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A Medium floating, disembodied hand made of magical force appears in an unoccupied space adjacent to you, following you across the battlefield to shield you against your foes’ attacks. 
+
+Each time you [[Sustain the Spell|Sustain a Spell]], the hand moves to an unoccupied space of your choice adjacent to you. When you Sustain the Spell, you can have the hand [[Fly]] to an unoccupied space of your choice adjacent to an ally to protect that ally instead. 
+
+The hand’s movement does not trigger reactions based on creature movement.
+
+Successful attacks against the hand damage it, and damaging effects that can target a creature can target the hand. The hand has an AC of 25, 50 Hit Points, and can’t recover HP by any means. A hit by a [[Disintegrate]] spell or similar effect destroys the hand.
+
+The hand’s actions and the cover it provides depend on what actions you take during your turn. At the end of your turn, what the hand does is determined by the first entry on this list that matches a trait from any of the actions you used on your turn. For instance, if you [[Step]], [[Stride]], and [[Sustain the Spell|Sustain a Spell]], you use the entry for <<tag Move>> actions, so the hand provides standard cover.
+
+* <<tag Manipulate>> or <<tag Attack>>: The hand interposes between you and your foes. It provides lesser [[Cover]] (+1 circumstance bonus to AC) against all attacks that pass through the hand’s square.
+* <<tag Move>> The hand provides standard [[Cover]] (+2 circumstance bonus to AC, [[Reflex]], and [[Stealth]] checks) against all attacks that pass through the hand’s square.
+* <<tag Concentrate>> The hand provides greater [[Cover]] (+4 circumstance bonus to AC, [[Reflex]], and [[Stealth]] checks) against all attacks that pass through the hand’s square.
+
+//Heightening the Spell increases the hand's statistics and gives you the option to replace the Manipulate/Attack option with other moves, as below.//
+
+| !Level | !AC | !HP | !Size | !Replace Manipulate/Attack with.. |
+| 5 | 25 | 50 | Medium | None |
+| 6 | 27 | 60 | Medium | Swat |
+| 7 | 30 | 70 | Large | Swat or Grasp |
+| 8 | 32 | 80 | Large | Swat, Grasp or Punch |
+| 9 | 35 | 90 | Large | Swat, Grasp, Punch or Crush |
+
+* ''Swat'': the hand [[Flies|Fly]] to an enemy of your choice within range and attempts to [[Push]] that enemy, using your spell attack roll instead of an Athletics check to determine the results of the Push. //Push is a monster ability which doesn't normally use an Athletics check. They probably meant [[Shove]].//
+* ''Grasp'': the hand [[Flies|Fly]] to an enemy of your choice within range and attempts to [[Grapple]] that enemy, using your spell attack roll instead of an Athletics check to determine the results of the Grapple.
+* ''Punch'': the hand [[Flies|Fly]] to an enemy of your choice within range and attempts to [[Strike]] that enemy with crushing force. The hand's Strikes use your melee spell attack modifiers and deal 7d8 <<tag Force>> damage. The hand's Strikes don't use or contribute to your multiple attack penalty.
+* ''Crush'': if the hand doesn’t have a target grabbed, it [[Flies|Fly]] to an enemy of your choice within range and attempts to [[Strike]] that enemy with deadly crushing force. The hand’s Strikes are melee spell attacks that deal 6d8 force damage. The hand’s Strikes don’t take or contribute to your multiple attack penalty. On a successful Strike, the target is [[Grabbed]] by the hand until the end of your next turn, unless the hand moves or the target successfully [[Escape]]s against your spell DC. However, if the hand has a target grabbed when it uses Crush, it instead [[Constrict]]s the target, dealing 6d8 force damage with a basic [[Fortitude]] save.

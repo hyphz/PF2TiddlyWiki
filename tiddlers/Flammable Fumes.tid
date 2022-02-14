@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220214233116782
+m-area: 20 foot [[Burst]]
+m-components: Somatic Verbal Material
+m-duration: 1 minute
+m-level: 5
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220214233250914
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Poison Arcane Primal Material
+title: Flammable Fumes
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Sending magic deep underground, you conjure a cloud of toxic gases that swiftly degenerate into volatile fumes.
+
+The gases are invisible, requiring a successful [[Perception]] check against your spell DC to detect visually, though their acrid smell and toxic effects are clear once a creature has entered the cloud. 
+
+A creature that enters the cloud or is within the cloud at the start of its turn takes 2d6 <<tag Poison>> damage. 
+
+A creature can take the poison damage from flammable fumes only once per round.
+
+One round after you conjure the cloud, the gases lose stability and become flammable. If an open flame is brought into the cloud, or if anyone within the area uses a fire effect, the cloud detonates in a massive blaze that deals 10d6 <<tag Fire>> damage to all creatures within it, and the spell ends.
+
+''Heightened (+2)'' The poison damage increases by 1d6 and the fire damage on an explosion increases by 2d6.
