@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410155101098
+m-area: 20-foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 
+m-range: 
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20220410155557702
+s-crit: The creature is unaffected and is aware of the aura.
+s-fail: The creature’s attitude toward you improves by two steps. It can’t take [[Hostile Action]]s against you, though the effect ends as soon as you take a hostile action against the creature or its allies.
+s-fumble: The creature’s attitude becomes [[Helpful]] to you, though the effect ends as soon as you take a [[Hostile Action]] against the creature or its allies. While the creature is helpful, it can’t take hostile actions against you.
+s-hit: The creature’s attitude toward you improves by one step. If that improves its attitude to at least [[Indifferent]], it can’t take [[Hostile Action]]s against you, though the effect ends as soon as you take a hostile action against the creature or its allies.
+tags: Spell Somatic Verbal Concentrate Manipulate Aura Emotion Enchantment Incapacitation Mental Arcane Occult Primal
+title: Glimmer of Charm
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You’re bathed in a smooth, almost glittering aura that improves the attitude of those near you. 
+
+Any creature that ends its turn in the aura must attempt a [[Will]] saving throw with the following effects. No matter the result, it’s then temporarily immune for 24 hours. 
+
+The effect lasts until the spell ends, even after the creature leaves the aura.
+
+//The original spell entry reads "20-foot emanation centered on you", but all emanations are centred on you, so this has been removed to avoid confusion.//
+
+{{||SaveSuccessTable}}
+

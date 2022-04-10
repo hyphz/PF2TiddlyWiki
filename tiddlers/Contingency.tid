@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20200719212240272
+modified: 20220410172703683
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Abjuration Arcane Material Somatic Verbal Manipulate Concentrate Spell
+tags: Abjuration Arcane Material Somatic Verbal Manipulate Concentrate Spell Contingency
 title: Contingency
 type: text/vnd.tiddlywiki
 

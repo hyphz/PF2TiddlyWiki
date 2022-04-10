@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410171601826
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 1
+m-range: [[Touch]]
+m-save: 
+m-targets: Your companion
+m-time: 
+modified: 20220410171715614
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Primal
+title: Juvenile Companion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transform your companion into its juvenile form, such as a cub, foal, kitten, puppy, or piglet, making the target appear harmless. 
+
+It becomes Tiny (if it was larger), and its reach is reduced to 0 feet. All of its Speeds are halved (to a minimum Speed of 5 feet), and it gains [[Weakness]] 5 to physical damage. 
+
+In all other ways, its abilities and statistics are unchanged.
+
+If your companion uses a [[Hostile Action]], juvenile companion ends. 
+
+This spell has no effect on a companion that doesn’t have a juvenile form.
+
+''Heightened (2nd)'' The duration increases to 1 hour.

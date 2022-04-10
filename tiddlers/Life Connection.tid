@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410172014052
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 24 hours
+m-level: 3
+m-range: [[Touch]]
+m-save: 
+m-targets: 1 living creature
+m-time: 10 minutes
+modified: 20220410172201226
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Contingency Necromancy Divine Primal Material
+title: Life Connection
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+When you cast this spell, you place a failsafe deep within the life force of the target. 
+
+You can sense when the target takes damage, provided you’re within 1 mile of one another. 
+
+A creature can be part of no more than one life connection simultaneously. 
+
+When the spell is complete, you gain the Defend Life reaction; once you use the reaction, the spell ends.
+
+''Defend Life'' {{ReactionIcon}} <<tag Concentrate>> ''Trigger'' The target takes damage; ''Requirements'' You’re within 1 mile of the target; ''Effect'' After calculating the amount of damage the target would take (applying weaknesses, resistances, and the like), you lose an equal number of Hit Points, and the target doesn’t take any of the damage. You can’t reduce the amount of Hit Points you lose in this way. The target still takes any effects that would come with the damage, however, such as the venom on a viper’s fangs Strike.

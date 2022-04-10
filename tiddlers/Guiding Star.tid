@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410160317872
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until your next daily preparations
+m-level: 2
+m-range: Planetary
+m-save: 
+m-targets: 1 creature you've met
+m-time: 
+modified: 20220410160414507
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Mental Divine Primal
+title: Guiding Star
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call on the constellations of the night sky to guide a creature to the location where you Cast the Spell. 
+
+Each time the target views the stars, it receives a mental nudge toward your chosen location, though it isn’t compelled to follow. 
+
+The target can recognize you as the source. 
+
+If the creature goes to another planet or plane, the spell’s effects are suppressed, but they resume if the creature returns.

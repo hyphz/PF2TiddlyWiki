@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410162854867
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20220410163531661
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Curse Divination Prediction Divine Occult Predicton
+title: Inevitable Disaster
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You briefly glimpse cause and effect, putting into motion a chain of events that will visit doom on your enemy at some point in the future, though you’re not quite sure when or how the doom will occur. 
+
+Some kind of strange accident occurs 1d4 rounds later, dealing 55 damage to the creature, with a basic [[Fortitude]] save. 
+
+This happens regardless of where the target is located at the time, even if it travels to another plane. 
+
+The GM should roll to determine when the damage occurs secretly and determine the form of the accident as well as the type of damage it deals; generally, the accident should be one that deals physical damage of some type (for instance, a tree branch might fall on the foe and deal bludgeoning damage, or a window might break and fling sharp slashing glass at them), though other damage types might be appropriate in more unusual environments.
+
+''Heightened (+1)'' The damage increases by 10.

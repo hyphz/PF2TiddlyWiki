@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410154358135
+m-area: 5 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20220410154534815
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage and is pushed 5 feet away from you.
+s-fumble: The creature takes double damage and is pushed 10 feet away from you.
+s-hit: The creature takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Air Cantrip Evocation Arcane Primal
+title: Gale Blast
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Wind flows from your outstretched hands and whirls around you in a 5-foot [[Emanation]]. 
+
+Each creature in the area takes bludgeoning damage equal to your spellcasting ability modifier, with a [[Fortitude]] save.
+
+''Heightened (+2)'' The damage increases by 1d6.
+
+{{||SaveSuccessTable}}

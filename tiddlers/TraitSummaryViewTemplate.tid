@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20211221220508365
+modified: 20220410171853649
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -46,6 +46,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Contact]]">
 <tr><th>[[Contact]]</th><td>Poison delivered by touch to item. Can't apply via weapon attack.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Contingency]]">
+<tr><th>[[Contingency]]</th><td>Single caster can only have one contingency spell active at once.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Curse]]">
 <tr><th>[[Curse]]</th><td><u>Can only be removed by effects which specifically target curses.</u></td></tr>
@@ -149,6 +152,9 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]tag[Misfortune]]">
 <tr><th>[[Misfortune]]</th><td>Doesn't stack with other Misfortune effects, and cancels with [[Fortune]].</td></tr>
 </$list>
+<$list filter="[all[current]tag[Morph]]">
+<tr><th>[[Morph]]</th><td>May attempt to [[Counteract]] other morphs of the same body part.</td></tr>
+</$list>
 <$list filter="[all[current]tag[Multiclass]]">
 <tr><th>[[Multiclass]]</th><td>Can't take this if you are already a member of the class.</td></tr>
 </$list>
@@ -190,6 +196,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Somatic]]">
 <tr><th>[[Somatic]]</th><td>You must normally make gestures to cast this spell.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Sonic]]">
+<tr><th>[[Sonic]]</th><td>This requires you to make a noise. It may not require others to hear it.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Stance]]">
 <tr><th>[[Stance]]</th><td>One stance at a time; one stance action per round. Can only use in combat.</td></tr>

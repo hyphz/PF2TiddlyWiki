@@ -7,12 +7,12 @@ created: 20211222010554236
 m-area: 
 m-components: Somatic Verbal
 m-duration: 1 minute
-m-level: 
+m-level: 4
 m-range: 120 feet
 m-save: Reflex
 m-targets: 1 creature that is either taller than you or higher in the air than you
 m-time: 
-modified: 20211222010747066
+modified: 20220410154955764
 s-crit: 
 s-fail: 
 s-fumble: 

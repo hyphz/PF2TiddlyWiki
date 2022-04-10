@@ -1,0 +1,42 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410162247174
+m-area: 
+m-components: Somatic Verbal
+m-duration: 3 rounds
+m-level: 3
+m-range: 30 feet
+m-save: Will
+m-targets: 1 living creature
+m-time: 
+modified: 20220410162928277
+s-crit: The creature is unaffected.
+s-fail: The creature is immediately [[Flat-footed]]. On the second round, it becomes [[Frightened]] 2. Finally, on the third round, it also becomes [[Stunned]] 1. At the end of the third round, the creature takes full damage.
+s-fumble: The creature is immediately [[Flat-Footed]] and [[Frightened]] 3. On the second round, it becomes [[Stunned]] 1. Finally, on the third round, it also becomes [[Paralyzed]]. At the end of the third round, the creature takes double damage.
+s-hit: The creature is unaffected for 1 round. On the second round, it becomes [[Flat-Footed]]. Finally, on the third round, it becomes [[Frightened]] 1. At the end of the third round, it takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Emotion Fear Incapacitation Mental Arcane Divine Occult Prediction
+title: Impending Doom
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You sift through myriad potential futures, seize upon one potential moment in which the target meets a particularly gruesome and fatal end, and then show it a vision of its impending demise. The intense mental vision grows more and more terrifying to the target as the doom grows closer, and it takes 3 rounds to reach its conclusion. 
+
+The target must attempt a [[Will]] saving throw to determine the effects. 
+
+At the end of the spell’s duration, if the target was affected, the target witnesses its death and takes 6d6 mental damage ''affected by the save''.
+
+''Heightened (+1)'' The damage increases by 2d6.
+
+{{||SaveSuccessTable}}
+
+!!! Round-by-round Summary
+
+| !Save | !1 | !2 | !3 | !End |
+| !Critical Success | Nothing | Nothing | Nothing | No damage |
+| !Success | Nothing | [[Flat-Footed]] | [[Frightened]] 1 | Half mental damage |
+| !Failure | [[Flat-Footed]] | [[Frightened]] 2 | [[Stunned]] 1 | Full mental damage |
+| !Critical Failure | [[Flat-Footed]] and [[Frightened]] 3 | [[Stunned]] 1 | [[Paralyzed]] | Double mental damage |

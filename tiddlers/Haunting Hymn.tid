@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410160441350
+m-area: 15-foot [[Cone]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 
+m-save: Fortitude
+m-targets: 
+m-time: 
+modified: 20220410160929833
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Auditory Cantrip Evocation Sonic Divine Occult
+title: Haunting Hymn
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You echo a jarring hymn that only creatures in the area can hear. 
+
+The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic [[Fortitude]] save. 
+
+If a target critically fails the save, it’s also [[Deafened]] for 1 minute.
+
+''Heightened (+2)'' The damage increases by 1d6.

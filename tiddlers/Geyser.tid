@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410154607046
+m-area: 10-foot radius, 50-foot-tall cylinder
+m-components: Somatic Verbal
+m-duration: 1 round
+m-level: 5
+m-range: 500 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20220410154841137
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage and is pushed 20 feet into the air.
+s-fumble: The creature takes double damage and is pushed 40 feet into the air.
+s-hit: The creature takes half damage and isn't pushed into the air.
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Water Arcane Primal
+title: Geyser
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A powerful geyser blasts up from the ground, potentially pushing creatures on top of it into the air. 
+
+The bottom of this spell’s area must be on solid ground. 
+
+Each creature in the area takes 3d6 bludgeoning damage and 4d6 fire damage, with a [[Reflex]] save. 
+
+A creature pushed into the air by the geyser can’t be pushed beyond the top of the geyser. 
+
+After being pushed into the air, a creature falls unless it’s flying or has some other means of staying aloft, taking [[Falling]] damage (normally equal to half the distance it fell). 
+
+After the geyser erupts, its area is filled with a cloud of steam for 1 round. All creatures in the steam are [[Concealed]], and all creatures outside the steam are [[Concealed]] to creatures within it.
+
+''Heightened (+1)'' The damage increases by 1d6 bludgeoning and 1d6 fire.
+
+{{||SaveSuccessTable}}

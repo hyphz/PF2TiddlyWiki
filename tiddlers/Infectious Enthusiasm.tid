@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410163958838
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 round
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-charisma: May give +1 status to skill checks vs those who did not see the spell cast.
+mod-will: May give +1 status.
+modified: 20220410164203368
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Emotion Enchantment Mental Arcane Occult
+title: Infectious Enthusiasm
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+With enchanted gusto, you encourage yourself to get things done and share your motivation with your allies.
+
+You gain a +1 status bonus to your choice of attack rolls, [[Will]] saves, or [[Charisma]]-based skill checks. 
+
+During the spell’s duration, an ally who observed you Casting this Spell and was within 30 feet when you did so can take a single action, which has the <<tag Concentrate>> trait, to gain the same bonus you chose until the start of its next turn.
+
+Using this spell to influence someone in a social situation is typically considered a faux pas, negating the benefit on [[Charisma]]-based skills if the subject of the check observed you casting the spell.

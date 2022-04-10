@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220410164859625
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 24 hours
+m-level: 
+m-range: 
+m-save: 
+m-targets: 
+m-time: 10 minutes
+modified: 20220410165024988
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Contingency Extradimensional Arcane Divine Occult Primal Material
+title: Instant Armor
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Upon casting this spell, the armor you’re wearing is whisked away into an extradimensional space that’s linked to you. 
+
+If the armor is magical and invested by you, it remains invested while in this space, though you don’t gain its benefits. 
+
+You then gain the Armor Up! action; once you use the action, the spell ends. If the action hasn’t been used by the time the spell’s duration ends, the extradimensional space collapses, ejecting the armor’s pieces on the ground under you.
+
+''Armor Up!'' {{OneAction}} <<tag Manipulate>> ''Effect'' You snap your fingers. The armor returns to your body.
+
