@@ -1,13 +1,13 @@
 created: 20201017180801119
 mod-flanking: Can be in any square in 10 feet for flanking.
-modified: 20201017180914491
+modified: 20220415183625192
 tags: [[Animal Companion]]
 title: Horse (Animal Companion)
 type: text/vnd.tiddlywiki
 
 ''Size'' Medium or Large
 
-''Melee'' {{OneAction}} hoof [[Agcile]], damage 1d6 bludgeoning
+''Melee'' {{OneAction}} hoof [[Agile]], damage 1d6 bludgeoning
 
 ''Str'' +3, ''Dex'' +2, ''Con'' +2, ''Int'' –4, ''Wis'' +1, ''Cha'' +0
 

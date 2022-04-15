@@ -4,7 +4,8 @@ a-fail: You detect what a deceptive creature wants you to believe. If they’re 
 a-fumble: You get a false sense of the creature’s intentions.
 a-hit: You can tell whether the creature is behaving normally, but you don’t know its exact intentions or what magic might be affecting it.
 created: 20200626205330326
-modified: 20200626205519072
+modified: 20220415183000804
+modified-by: Perception
 tags: Action Concentrate Secret
 title: Sense Motive
 type: text/vnd.tiddlywiki

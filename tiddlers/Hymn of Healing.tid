@@ -15,7 +15,7 @@ m-save:
 m-targets: You or 1 ally
 m-time: 2 actions
 mod-sustain_a_spell: Target gains 2 temporary Hit Points.
-modified: 20200830165148480
+modified: 20220415180519213
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -32,6 +32,6 @@ Your divine singing mends wounds and provides a temporary respite from harm.
 
 The target gains [[Fast Healing]] 2. 
 
-When you Cast the Spell and each time you [[Sustain the Spell|Sustain a Spell]], the target gains 2 temporary Hit Points, which last for 1 round.
+When you Cast the Spell and __the first time each round__ you [[Sustain the Spell|Sustain a Spell]], the target gains 2 temporary Hit Points, which last for 1 round.
 
 ''Heightened (+1)'' The fast healing and temporary Hit Points each increase by 2.

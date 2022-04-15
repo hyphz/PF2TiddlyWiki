@@ -4,7 +4,7 @@ feat-level: 2
 mod-fortitude: +1 circumstance vs sleep and paralysis.
 mod-reflex: +1 circumstance vs sleep and paralysis.
 mod-will: +1 circumstance vs sleep and paralysis.
-modified: 20201206174547032
+modified: 20220415180114979
 tags: Feat Dedication Uncommon
 title: Dragon Disciple Dedication
 type: text/vnd.tiddlywiki
@@ -16,6 +16,8 @@ You choose to study or worship one type of dragon, and your focus grants you a m
 Choose one color of dragon when you select this feat; if you are a sorcerer with the draconic bloodline, this must be the same type as your bloodline. 
 
 You gain resistance equal to half your level against one type of damage determined by the chosen dragon type. 
+
+__You become trained in Arcane spell DCs and Arcane spell attack rolls.__
 
 The GM may allow you to choose a dragon type not listed below, and will determine the damage type appropriate for that dragon.
 

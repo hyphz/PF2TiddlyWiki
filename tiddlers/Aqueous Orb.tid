@@ -13,7 +13,7 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Move the orb 10 feet when sustained.
-modified: 20200801150732537
+modified: 20220415180654135
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -26,7 +26,7 @@ type: text/vnd.tiddlywiki
 
 A sphere of water 10 feet in diameter forms in an unoccupied space in range, either on the ground or on the surface of a liquid. 
 
-When you Cast the Spell and each time you [[Sustain the Spell|Sustain a Spell]], you can roll the orb, moving it up to 10 feet along the ground or the surface of a liquid. Unlike most spells, you can gain this effect multiple times in the same round by Sustaining the Spell multiple times. 
+When you Cast the Spell and each time you [[Sustain the Spell|Sustain a Spell]], you can roll the orb, moving it up to 10 feet along the ground or the surface of a liquid. You can gain this effect multiple times in the same round by Sustaining the Spell multiple times. 
 
 The orb can move through the spaces of any creatures or obstacles that wouldn’t stop the flow of water. 
 

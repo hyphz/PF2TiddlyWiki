@@ -6,7 +6,8 @@ feat-arch: Medic
 feat-level: 16
 feat-skill: Medicine
 feat-spre: L
-modified: 20201213214624446
+modified: 20220415183042689
+modified-by: Medicine
 tags: Feat Archetype Action Healing Manipulate
 title: Resuscitate
 type: text/vnd.tiddlywiki

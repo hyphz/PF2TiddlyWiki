@@ -2,7 +2,7 @@ a-subactions: Stride
 created: 20201205165035662
 feat-arch: [[Bounty Hunter]]
 feat-level: 6
-modified: 20201205165355957
+modified: 20220415175938216
 tags: Feat Archetype Action Reaction
 title: Keep Pace
 type: text/vnd.tiddlywiki
@@ -15,4 +15,5 @@ Your prey can’t escape.
 
 You can use Keep Pace to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.
 
-//The book reads "your prey can't Escape" as if it referred to the [[Escape]] action, but this would not match the trigger, since it does not include movement unless it has already been successful.//
+__"Your prey can't escape" is flavor text and does not refer to the Escape action.__ 
+

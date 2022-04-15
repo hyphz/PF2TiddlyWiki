@@ -1,5 +1,5 @@
 created: 20200627221522512
-modified: 20200627221614841
+modified: 20220415181424622
 tags: Trait
 title: Minion
 type: text/vnd.tiddlywiki
@@ -13,3 +13,5 @@ Your minion acts on your turn in combat, once per turn, when you spend an action
 If given no commands, by default minions use no actions except to defend themselves or to escape obvious harm. 
 
 If left unattended for long enough, typically 1 minute, [[Mindless]] minions usually don’t act, animals often indulge their creature comforts, and sapient minions act how they please.
+
+__A minion can't control other creatures.__

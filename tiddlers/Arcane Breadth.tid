@@ -2,11 +2,11 @@ created: 20201205161254289
 feat-arch: Wizard
 feat-fpre: [[Basic Wizard Spellcasting]]
 feat-level: 8
-modified: 20201205161336733
+modified: 20220415175500645
 tags: Feat Archetype
 title: Arcane Breadth
 type: text/vnd.tiddlywiki
 
 You can cast more arcane spells each day. 
 
-Increase the spell slots you gain from wizard archetype feats by 1 for each spell level other than your two highest spell levels.
+Increase the spell slots you gain from wizard archetype feats by 1 for each spell level other than your two highest __Wizard__ spell __slots__.

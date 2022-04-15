@@ -13,12 +13,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20201219155546950
+modified: 20220415180038167
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Conjuration Shadow Teleportation
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Conjuration Shadow Teleportation Uncommon
 title: Shadow Jump
 type: text/vnd.tiddlywiki
 virtual-tags: Illusion

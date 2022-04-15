@@ -9,7 +9,8 @@ feat-arch: Marshal
 feat-level: 4
 feat-skill: Diplomacy
 feat-spre: T
-modified: 20201212170256227
+modified: 20220415182717087
+modified-by: Diplomacy
 modtag-mental: +1 status on saves in aura.
 tags: Feat Archetype Action Open Stance
 title: Inspiring Marshal Stance

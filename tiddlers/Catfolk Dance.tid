@@ -6,7 +6,8 @@ feat-anc: Catfolk
 feat-level: 1
 lore-mention: Catfolk
 mod-reflex: -2 circumstance while affected.
-modified: 20210227165104978
+modified: 20220415182159092
+modified-by: Acrobatics
 s-crit: The target creature gains a –2 circumstance penalty to [[Reflex]] saves and is [[Flat-Footed]] until the start of your next turn.
 s-hit: The target creature gains a –2 circumstance penalty to [[Reflex]] saves until the start of your next turn.
 tags: Ancestry Feat Catfolk Action

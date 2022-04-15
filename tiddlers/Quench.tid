@@ -14,7 +14,7 @@ m-targets:
 m-time: 
 mod-counterspell: Can use Quench to counter any fire spell.
 mod-sustain_a_spell: Move the vapor and put out non-magical fires.
-modified: 20200801171052993
+modified: 20220415180437438
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -35,7 +35,7 @@ Choose one magical fire, fire spell, or fire item in the area and attempt to [[C
 
 If you succeed against an item, the item loses its fire properties for 10 minutes (for instance, a +1 [[Flaming]] longsword would become a +1 longsword). If the target is an artifact or similarly powerful item, you automatically fail to counteract it.
 
-When you [[Sustain this Spell|Sustain a Spell]], you can move the area of vapor anywhere within range, but the only effect when you do so is to automatically extinguish non-magical fires.
+__The first time each round__ you [[Sustain this Spell|Sustain a Spell]], you can move the area of vapor anywhere within range, but the only effect when you do so is to automatically extinguish non-magical fires.
 
 If you have the [[Counterspell]] reaction, you can use quench to counter any spell with the fire trait instead of needing to have the triggering fire spell prepared or in your repertoire.
 

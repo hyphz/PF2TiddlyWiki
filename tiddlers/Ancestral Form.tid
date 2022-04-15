@@ -15,7 +15,7 @@ m-save:
 m-targets: 
 m-time: 
 mod-fly: Moving upward isn't difficult terrain.
-modified: 20200811001356716
+modified: 20220415181202040
 modtag-attack: Prevents action.
 modtag-manipulate: Prevents action.
 s-crit: 
@@ -36,6 +36,6 @@ You gain a fly Speed equal to your land Speed; when Flying, moving upward isn’
 
 You can’t move through solid objects, but you can float through tiny gaps. 
 
-You can’t Cast Spells (but you can [[Sustain a Spell]]), activate items, or use actions that have the <<tag Attack>> or <<tag Manipulate>> trait.
+You can’t Cast Spells (but you can __[[Sustain Spells|Sustain a Spell]]__), activate items, or use actions that have the <<tag Attack>> or <<tag Manipulate>> trait.
 
 ''Heightened (+2)'' The resistance increases by 5.

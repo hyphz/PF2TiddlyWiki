@@ -5,14 +5,14 @@ a-fumble:
 a-hit: 
 created: 20220410172440725
 m-area: 
-m-components: Somatic Verbal
+m-components: Somatic Verbal Material
 m-duration: Until the next time you make your daily preparations
 m-level: 2
 m-range: 
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20220410172628712
+modified: 20220415174539050
 s-crit: 
 s-fail: 
 s-fumble: 

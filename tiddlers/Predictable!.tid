@@ -12,7 +12,8 @@ mod-ac: -1/+1-2 circumstance to target.
 mod-fortitude: -1/+1-2 circumstance vs target.
 mod-reflex: -1/+1-2 circumstance vs target.
 mod-will: -1/+1-2 circumstance vs target.
-modified: 20201031190153387
+modified: 20220415182941273
+modified-by: [[Sense Motive]]
 tags: Feat Class Rogue Action
 title: Predictable!
 turn-sun: Bonus/penalty wears off.

@@ -7,7 +7,8 @@ a-hit: As critical success, but the circumstance bonus is +2.
 a-skill: Diplomacy
 created: 20201003161640510
 mod-lie: Gives +2/+4 Perception DC vs Lies on a success.
-modified: 20201003161924825
+modified: 20220415182857991
+modified-by: Diplomacy
 tags: Action Investigator Auditory Concentrate Linguistic Mental
 title: Pointed Question
 type: text/vnd.tiddlywiki

@@ -6,8 +6,8 @@ item-variants: Chunk Ingot [[Standard-Grade]] [[High-Grade]]
 mod-fortitude: +4 circumstance if protecting item from magic or item saves vs magic.
 mod-reflex: +4 circumstance if protecting item from magic or item saves vs magic.
 mod-will: +4 circumstance if protecting item from magic or item saves vs magic.
-modified: 20211027141829624
-tags: Material Precious Rare
+modified: 20220415174430168
+tags: Precious Rare Substance
 title: Sovereign Steel
 type: text/vnd.tiddlywiki
 

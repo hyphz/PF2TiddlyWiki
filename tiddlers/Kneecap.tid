@@ -3,7 +3,7 @@ a-subactions: Strike
 created: 20200823152930860
 feat-anc: Goblin
 feat-level: 5
-modified: 20200823153041845
+modified: 20220415175213006
 tags: Ancestry Feat Goblin Action
 title: Kneecap
 type: text/vnd.tiddlywiki
@@ -12,6 +12,6 @@ You deliver a punishing blow to an enemy’s knee, shin, or other vulnerable ana
 
 Make a [[Strike]] with one of your melee weapons or melee unarmed attacks. This attack doesn’t deal damage. 
 
-On a hit, the target takes a –10-foot status penalty to its Speed or a –15-foot status penalty on a critical hit. This penalty applies only if the target has a land Speed and depends on legs or other targetable appendages to use its land Speed. 
+On a hit, the target takes a –10-foot status penalty to its Speed __for 1 round__ or a –15-foot status penalty on a critical hit. This penalty applies only if the target has a land Speed and depends on legs or other targetable appendages to use its land Speed. 
 
 As with all penalties to Speed, this can’t reduce a creature’s Speed below 5 feet.

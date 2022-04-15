@@ -14,7 +14,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200812212935797
+modified: 20220415181238051
 modtag-attack: Prevents use.
 modtag-manipulate: Prevents use.
 s-crit: 
@@ -38,7 +38,7 @@ You also gain resistance 10 to physical damage and become immune to precision da
 
 You can slip through tiny cracks and don’t need to breathe.
 
-You can’t cast spells, activate items, or use actions that have the <<tag Attack>> or <<tag Manipulate>> trait. //(Other than the ones that are given to you by your form.)//
+You can’t cast spells, activate items, or use actions that have the <<tag Attack>> or <<tag Manipulate>> trait __except those granted by this spell__.
 
 You also gain the following effects based on your form:
 

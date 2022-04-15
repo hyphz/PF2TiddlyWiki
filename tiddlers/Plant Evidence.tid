@@ -6,7 +6,8 @@ feat-class: Rogue
 feat-fpre: [[Pickpocket]]
 feat-level: 1
 mod-shove: If Ruffian, can plant an object on shove.
-modified: 20201031184955471
+modified: 20220415182821776
+modified-by: Thievery
 tags: Feat Class Rogue
 title: Plant Evidence
 type: text/vnd.tiddlywiki

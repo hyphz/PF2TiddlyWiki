@@ -4,14 +4,14 @@ created: 20200905212017432
 feat-class: Barbarian
 feat-level: 12
 feat-sppre: [[Superstition Instinct]]
-modified: 20200905212140338
+modified: 20220415175700815
 tags: Barbarian Class Feat Rage Action Attack Concentrate
 title: Sunder Spell
 type: text/vnd.tiddlywiki
 
 You draw upon your superstitious fury to destroy a spell. 
 
-Make a [[Strike]] with a melee weapon or an unarmed attack against a creature, object, or a spell manifestation (such as the wall created by [[Wall of Fire]] or the guardian from [[Spiritual Guardian]]).
+Make a [[Strike]] with a melee weapon or an unarmed attack against a creature, object, or a spell manifestation (such as the wall created by [[Wall of Fire]] or the guardian from [[Spiritual Guardian]]). __If you're targeting something that doesn't have an AC listed, its AC is usually 10 against this Strike for targets that are very easy to hit, like a wall, or a different AC determined by the GM.__
 
 If your Strike hits, you can attempt to [[Counteract]] a single spell or magical effect on the target. 
 

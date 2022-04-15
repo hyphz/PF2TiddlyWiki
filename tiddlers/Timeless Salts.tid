@@ -3,7 +3,7 @@ item-bulk: L
 item-hands: 1
 item-level: 4
 item-price: 140
-modified: 20210825205250616
+modified: 20220415181331950
 tags: Alchemical Consumable Item Interact
 title: Timeless Salts
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ You sprinkle these salts ({{OneAction}} [[Interact]]) onto a single object up to
 
 The object doesn’t decay, and effects that require the object to be fresh don’t count the time passing during this duration as having elapsed. 
 
-When sprinkled on a corpse, this extends the period in which a creature can be revived by magic, as well as the wait time required before a corpse can be targeted again with [[Speak with Dead]]. 
+When sprinkled on a corpse, this extends the period in which a creature can be revived by magic, as well as the wait time required before a corpse can be targeted again with __[[Talking Corpse]]__.
 
 The salts prevent ordinary pests from consuming the target (such as maggots for a corpse or moths for a piece of clothing). 
 

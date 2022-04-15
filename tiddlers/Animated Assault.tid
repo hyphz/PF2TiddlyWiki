@@ -13,7 +13,7 @@ m-save: Reflex
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Repeats damage when sustained.
-modified: 20200801150133924
+modified: 20220415180338672
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,6 +28,6 @@ You use your mind to manipulate unattended objects in the area, temporarily anim
 
 This assault deals 2d10 bludgeoning damage (basic [[Reflex]] save) to each creature in the area. 
 
-On subsequent rounds, you can [[Sustain this Spell|Sustain a Spell]], dealing 1d10 bludgeoning damage (basic [[Reflex]] save) to each creature in the area.
+On subsequent rounds, you can [[Sustain this Spell|Sustain a Spell]], dealing 1d10 bludgeoning damage (basic [[Reflex]] save) to each creature in the area __the first time each round you Sustain the Spell__.
 
 ''Heightened (+2)'' The initial damage increases by 2d10 and the subsequent damage increases by 1d10.

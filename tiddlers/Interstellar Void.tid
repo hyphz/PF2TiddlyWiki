@@ -15,7 +15,7 @@ m-save: Fortitude
 m-targets: 1 creature
 m-time: 
 mod-sustain_a_spell: Repeats damage on sustain.
-modified: 20200812211111948
+modified: 20220415180549350
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,7 +28,7 @@ type: text/vnd.tiddlywiki
 
 You call upon the frigid depths of outer space to bring a terrible chill to your enemy. 
 
-The target is cloaked in the freezing void, which deals 3d6 <<tag Cold>> damage immediately and when you [[Sustain the Spell|Sustain a Spell]] on future turns, with a basic [[Fortitude]] save.
+The target is cloaked in the freezing void, which deals 3d6 <<tag Cold>> damage immediately and __the first time each round__ you [[Sustain the Spell|Sustain a Spell]] on future turns, with a basic [[Fortitude]] save.
 
 The target is [[Fatigued]] for as long as the effect persists.
 

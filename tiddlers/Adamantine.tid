@@ -3,8 +3,8 @@ item-bulk: L 1 1 1
 item-level: 1 1 8 16
 item-price: 5000 50000 3500 60000
 item-variants: Chunk Ingot [[Standard-Grade]] [[High-Grade]]
-modified: 20210424151939134
-tags: Material Uncommon Precious
+modified: 20220415173205936
+tags: Uncommon Precious Substance
 title: Adamantine
 type: text/vnd.tiddlywiki
 

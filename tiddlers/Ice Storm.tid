@@ -4,15 +4,15 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200801162320766
-m-area: 5 foot [[Burst]]
+m-area: __20__ foot [[Burst]]
 m-components: Somatic Verbal Material
-m-duration: 1 minute
+m-duration: __[[Sustained|Sustain a Spell]] up to__ 1 minute
 m-level: 4
 m-range: 120 feet
-m-save: 
+m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200801162546106
+modified: 20220415180933790
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,10 +28,12 @@ You create a gray storm cloud that pelts creatures with an icy deluge.
 
 When you Cast the Spell, a burst of magical hail deals 2d8 bludgeoning damage and 2d8 cold damage to each creature in the area below the cloud (basic [[Reflex]] save). 
 
-Snow and sleet continue to rain down in the area for the remainder of the spell’s duration, making the area [[Difficult Terrain]], causing creatures in the storm to be [[Concealed]], and making creatures outside the storm concealed from those inside the storm. 
+Snow and sleet continue to rain down in the area for the remainder of the spell’s duration, making the area [[Difficult Terrain]]. 
 
-Any creature that ends its turn in the storm takes 4 <<tag Cold>> damage. 
+Any creature that ends its turn in the storm takes __2__ <<tag Cold>> damage. 
 
-If you Cast this Spell outdoors, you can create two non-overlapping clouds instead of one.
+If you Cast this Spell outdoors, you can create two non-overlapping clouds instead of one. __As normal, if a big creature is in both clouds, it still only takes the initial damage once and the continued damage once per turn.__
 
-''Heightened (+2)'' The initial bludgeoning damage and cold damage increase by 1d8 each, and the cold damage creatures take at the end of their turns increases by 2.
+''Heightened (+2)'' The initial bludgeoning damage and cold damage increase by 1d8 each, and the cold damage creatures take at the end of their turns increases by __1__.
+
+//Errata removed the ability for this spell to make creatures inside the storm concealed.//

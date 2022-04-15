@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: The triggering creature
 m-time: 
-modified: 20220410172412350
+modified: 20220415173121747
 s-crit: The creature is unaffected.
 s-fail: The creature treats all squares as [[Difficult Terrain]] for its [[Stride]].
 s-fumble: As failure, except that you determine where the target moves during the Stride, though you can't move it into hazardous terrain or to a place it can't stand.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Concentrate Manipulate Illusion Mental Visual Occult Primal Reaction
+tags: Spell Somatic Manipulate Illusion Mental Visual Occult Primal Reaction
 title: Lose the Path
 type: text/vnd.tiddlywiki
 

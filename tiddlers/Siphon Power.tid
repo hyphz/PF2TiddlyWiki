@@ -1,7 +1,7 @@
 created: 20210606152450410
 feat-class: Witch
 feat-level: 16
-modified: 20210606152617744
+modified: 20220415175254915
 tags: Feat Class Witch Action Free
 title: Siphon Power
 type: text/vnd.tiddlywiki
@@ -14,6 +14,6 @@ You draw upon the reservoir of your patron’s magic that resides within your fa
 
 During your turn, you can cast one spell your familiar knows that was granted by your patron’s theme or lessons without spending a spell slot to do so (or even having it prepared). 
 
-The spell must be at least 1 level lower than the highest-level spell you can cast.
+The spell must be at least 1 level lower than __your highest level spell slot__.
 
 ''Special'' This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, occult, or primal).

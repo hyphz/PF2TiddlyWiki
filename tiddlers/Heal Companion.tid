@@ -15,7 +15,7 @@ m-range: [[Touch]] or 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20201031162326209
+modified: 20220415181301758
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -34,6 +34,6 @@ The number of actions you spend Casting this Spell determines range and other pa
 
 {{OneAction}} (somatic) The spell has a range of touch.
 
-{{TwoAction}} (verbal) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.
+{{TwoAction}} (verbal, __somatic__) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.
 
 ''Heightened (+1)'' The amount of healing increases by 1d10, and the additional healing for the 2-action version increases by 8.

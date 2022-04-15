@@ -15,9 +15,9 @@ m-save: Fortitude
 m-targets: 1 creature
 m-time: 
 mod-sustain_a_spell: Can repeat damage on sustain.
-modified: 20201122163819340
+modified: 20220415180626341
 s-crit: The target is unaffected.
-s-fail: The target takes 3d4 negative damage and is [[Enfeebled]] 1 for the spell’s duration as you tear its shadow away, collecting it in your hand. On subsequent rounds, when you [[Sustain the Spell|Sustain a Spell]], you can throttle the shadow to deal 3d4 negative damage to the target (basic [[Fortitude]] save). Until the spell ends, the target doesn’t cast a shadow.
+s-fail: The target takes 3d4 negative damage and is [[Enfeebled]] 1 for the spell’s duration as you tear its shadow away, collecting it in your hand. On subsequent rounds, __the first time each round__ you [[Sustain the Spell|Sustain a Spell]], you can throttle the shadow to deal 3d4 negative damage to the target (basic [[Fortitude]] save). Until the spell ends, the target doesn’t cast a shadow.
 s-fumble: As failure, but the target is enfeebled 2.
 s-hit: The target is [[Enfeebled]] 1 for 1 round.
 tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Necromancy Shadow Sorcerer
