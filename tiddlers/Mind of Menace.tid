@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220418200948566
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 24 hours
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 10 minutes
+modified: 20220418201300934
+modtag-mental: Can trigger Fight with Fear to gain save bonus.
+s-crit: 
+s-fail: The creature is [[Frightened]] 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
+s-fumble: The creature is [[Frightened]] 2 and you're unaffected by the triggering mental effect.
+s-hit: The creature is unaffected.
+tags: Spell Somatic Verbal Concentrate Manipulate Contingency Emotion Enchantment Fear Mental Arcane Divine Occult Primal Material
+title: Mind of Menace
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+This spell wards against those who attempt to subvert your mind and turns mental magic back on them. 
+
+When the spell is complete, you gain the Fight with Fear reaction; once you use the reaction, the spell ends.
+
+''Fight with Fear'' {{ReactionIcon}} <<tag Concentrate>> <<tag Emotion>> <<tag Enchantment>> <<tag Fear>> <<tag Mental>>; ''Trigger'' A creature that you can see uses a mental effect against you; ''Effect'': The triggering creature must attempt a Will save with the following effects:
+
+{{||SaveSuccessTable}}

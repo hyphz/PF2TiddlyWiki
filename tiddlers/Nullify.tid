@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220418210413921
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 10
+m-range: 120 feet
+m-save: 
+m-targets: The triggering spell
+m-time: 
+modified: 20220418210507806
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Divine Occult Primal Reaction
+title: Nullify
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' A foe within range casts a 9th-level or lower spell.
+
+You instantly destroy the incoming spell, though at the cost of sending magical feedback through your body. 
+
+You automatically [[Counteract]] the spell, but the feedback brings you unavoidable harm. You lose 1d8 Hit Points per level of the triggering spell.

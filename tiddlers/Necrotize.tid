@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220418205718614
+m-area: 
+m-components: Somatic Verbal
+m-duration: Varies
+m-level: 6
+m-range: 60 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20220418210102820
+s-crit: The target is unaffected.
+s-fail: The target takes full damage and the debilitation lasts for 1 minute.
+s-fumble: The target takes double damage, and you can pick a second debilitation to apply, in addition to the one you rolled randomly. Both debilitations last for 1 minute.
+s-hit: The target takes half damage and the debilitation lasts until the end of your next turn.
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Arcane Divine Primal
+title: Necrotize
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You necrotize part of a creature’s body, harming it and debilitating it as its body putrefies, mimicking the natural process of decay. 
+
+The target takes 12d6 negative damage and one of the following debilitations; roll 1d4 to randomly determine which. The effects depend on its [[Fortitude]] save.
+
+{{||SaveSuccessTable}}
+
+# ''Bones'' The target’s bones necrotize and become spongy and weak, giving it weakness 3 to bludgeoning damage.
+# ''Joints'' The target’s joints necrotize, making its movements ungainly and clumsy. It becomes [[Clumsy]] 1.
+# ''Legs'' The target’s legs necrotize, as well as any other limbs associated with forms of movement, making it harder for the creature to move. The target takes a –10-foot status penalty to its Speeds.
+# ''Muscles'' The target’s muscles necrotize, rotting away. The target becomes [[Enfeebled]] 1.
+
+''Heightened (+1)'' The damage increases by 2d6.
+
+//It is not clear if these "debilitations" actually have the <<tag Debilitation>> trait and can stack with other effects with that trait or not.//

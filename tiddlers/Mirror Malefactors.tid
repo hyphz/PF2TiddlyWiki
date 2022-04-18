@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220418201327860
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 5
+m-range: 30 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+mod-frightened: Can't reduce frightened.
+modified: 20220418201535722
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Illusion Mental Visual Arcane Divine Occult
+title: Mirror Malefactors
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You completely surround a Large or smaller creature in a shimmering ring of illusory mirrors that follows it as it moves, even when the creature moves outside the range of the spell. 
+
+These mirrors reflect the target, though if the target has no reflection, like a vampire, it’s unaffected by mirror malefactors. 
+
+As long as the target is surrounded by mirrors, it’s [[Frightened]] 1, and it can’t reduce its frightened value.
+
+When you Cast the Spell, the reflections leap from the mirrors and attack the target, dealing 7d8 mental damage with a basic [[Will]] save. On subsequent turns, this effect repeats the first time you [[Sustain|Sustain a Spell]] the spell that turn. 
+
+If the target succeeds at any Will save it attempts against mirror malefactors, the illusory mirrors shatter and the spell ends.
+
+''Heightened (+1)'' The damage for both the initial effect and on subsequent turns increases by 1d8.
