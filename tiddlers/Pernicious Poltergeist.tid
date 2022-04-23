@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423212855229
+m-area: 10 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 4
+m-range: 60 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220423213124592
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Divine Occult
+title: Pernicious Poltergeist
+type: text/vnd.tiddlywiki
+virtual-tags: Negative Emotion Fear Mental Force
+
+{{||SpellSummaryTable}}
+
+You create an echo of a powerful poltergeist, temporarily anchoring it to the area to terrorize and harm any opponents foolish enough to remain in the area. 
+
+Because the poltergeist is a manifestation and is not truly present, it can’t be attacked or hurt; it remains [[Invisible]] unless otherwise stated. 
+
+When you Cast the Spell, and the first time you [[Sustain|Sustain a Spell]] it on subsequent rounds, the poltergeist creates your choice of one of the following effects.
+
+* ''Deathly Assault'' <<tag Negative>> The poltergeist focuses on one creature in the area and flies through that creature’s space, dealing 4d10 negative damage (basic [[Fortitude]] save).
+* ''Frighten'' <<tag Emotion>> <<tag Fear>> <<tag Mental>> The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Creatures in the area must attempt a [[Will]] save, becoming [[Frightened]] 2 on a failure.
+* ''Telekinetic Storm'' <<tag Force>> The poltergeist hurls debris and quasi-real objects around in the area. All creatures in the area take 4d8 force damage (basic [[Reflex]] save).
+
+''Heightened (+2)'' The damage of the deathly assault effect increases by 1d10, and the damage of the telekinetic storm effect increases by 1d8.

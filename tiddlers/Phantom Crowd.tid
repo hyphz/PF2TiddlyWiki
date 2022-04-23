@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423213541799
+m-area: A 10-foot square
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 10 minutes
+m-level: 2
+m-range: 60 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220423213935433
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Illusion Visual Arcane Occult
+title: Phantom Crowd
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+A tightly packed crowd of humanoids appropriate to the area appear, facing you and agreeing loudly with anything you say. 
+
+A creature that touches a member of the crowd or makes a [[Seek]] action to examine the crowd can attempt to [[Disbelieve]] your illusion. 
+
+The crowd is [[Difficult Terrain]] for anyone who hasn’t disbelieved the illusion.
+
+When you spend 1 or more actions to cast a <<tag Composition>> spell or to perform an activity that includes a [[Performance]] check, you can also Sustain this Spell as part of that action.
+
+''Heightened (+1)'' The crowd occupies an additional 10-foot square in range. The additional square doesn’t need to be adjacent to any other square created by the spell. It can overlap, but there’s no additional effect in the overlapped squares.

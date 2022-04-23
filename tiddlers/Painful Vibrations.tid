@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423212710021
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 4
+m-range: 100 feet
+m-save: Fortitude
+m-targets: 1 living creature
+m-time: 
+modified: 20220423212835156
+s-crit: The target is unaffected.
+s-fail: The target takes full damage, is [[Sickened]] 1, and is [[Deafened]] for 1 round.
+s-fumble: The target takes double damage, is [[Sickened]] 2, and is [[Deafened]] for 1 minute.
+s-hit: The target takes half damage.
+tags: Spell Concentrate Manipulate Evocation Sonic Divine Occult
+title: Painful Vibrations
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You send powerful sound waves through an opponent’s body, vibrating its bones and internal organs painfully.
+
+The creature takes 8d6 <<tag Sonic>> damage and must attempt a [[Fortitude]] save.
+
+''Heightened (+1)'' The damage increases by 2d6.
+
+{{||SaveSuccessTable}}

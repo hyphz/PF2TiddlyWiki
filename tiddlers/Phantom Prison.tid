@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423214027099
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: 1 minute
+m-level: 3
+m-range: 50 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20220423214151698
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Illusion Incapacitation Mental Visual Arcane Occult Material
+title: Phantom Prison
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You completely surround a Large or smaller creature in immobile illusory walls, trapping it inside a false prison it can’t escape. 
+
+No other creatures see or feel these walls, and the target can’t see anything outside of the illusory walls. 
+
+The target can attempt a [[Will]] save when the spell is cast, each time it attempts to interact with or escape the walls, and each time something from outside the walls affects the target. On a success, it disbelieves the illusion and the spell ends. //(Because this is an incapacitation effect, creatures of more than twice the spell's level promote their saves.)//
+
+''Heightened (8th)'' You can target up to 5 creatures.
+

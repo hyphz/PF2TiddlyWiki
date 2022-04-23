@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423225112863
+m-area: 
+m-components: Somatic Verbal
+m-duration: Up to 1 minute
+m-level: 1
+m-range: 10 feet
+m-save: 
+m-targets: Up to 200 unattended objects in range, each of light Bulk or less
+m-time: 
+modified: 20220423225224451
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Occult Primal Material Transmutation
+title: Quick Sort
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You magically sort a group of objects into neat stacks or piles. 
+
+You can sort the objects in two different ways.
+
+The first option is to separate them into different piles depending on an easily observed factor, such as color or shape. 
+
+Alternatively, you can sort the objects into ordered stacks depending on a clearly indicated notation, such as a page number, title, or date. 
+
+The objects sort themselves throughout the duration, though it takes less time per object to sort a smaller number of objects, down to a single round for 30 or fewer objects.
+
+''Heightened (3rd)'' The spell can sort up to 400 objects in a minute, or 60 objects in a round.
+
+''Heightened (5th)'' The spell can sort up to 800 objects in a minute, or 120 objects in a round.

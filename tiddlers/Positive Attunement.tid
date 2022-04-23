@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423223939898
+m-area: 
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-range: [[Touch]]
+m-save: Will
+m-targets: 1 living or <<tag Undead>> creature
+m-time: 
+modified: 20220423224126928
+s-crit: The creature is unaffected.
+s-fail: The creature is damage immediately and at the end of each of your turns (so twice in the round you Cast the Spell)
+s-fumble: As failure, and the damage is doubled.
+s-hit: The creature is damaged once and the spell ends.
+tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Positive Divine Primal
+title: Positive Attunement
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You attune a creature to the Positive Energy Plane, connecting its life force without fully transporting it. The creature’s appearance becomes more brightly colored. 
+
+If the creature is living, it heals 1d8 Hit Points immediately and at the end of each of your turns. Effects that increase healing only increase the initial healing.
+
+If the creature is undead or has [[Negative Healing]], it instead takes 1d8 positive damage, depending on the result of its Will save.
+
+{{||SaveSuccessTable}}

@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423224528059
+m-area: 
+m-components: Verbal
+m-duration: Until the start of your next turn
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: Your [[Eidolon]], or a creature with the <<tag Minion>> trait under your control
+m-time: 
+modified: 20220423224724959
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Abjuration Cantrip Arcane Divine Occult Primal
+title: Protect Companion
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You extend your aura, as a magical shield that protects your eidolon or minion. 
+
+The target gains a +1 circumstance bonus to AC until the start of your next turn. 
+
+You gain the following reaction; after using the reaction, the spell ends and you can’t cast protect companion again for 10 minutes.
+
+''Life Block'' {{ReactionIcon}} ''Trigger'' The spell’s target would take damage; ''Effect'' Reduce the triggering damage by 10, but you lose 5 Hit Points. Even if this reduces the damage to 0, the target still takes any effects that would come with the damage, such as the poison on a viper’s fangs Strike.
+
+''Heightened (+2)'' The reaction reduces the damage by another 10, and you lose 5 more Hit Points. If you want to lose fewer Hit Points, you can choose to lower the damage reduction and HP lost to what any lower-level version of the spell could do without lowering the spell’s actual level.

@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423213153049
+m-area: 60 foot [[Burst]]
+m-components: Somatic Verbal Material
+m-duration: Until your next daily preparations
+m-level: 2
+m-range: 120 feet
+m-save: 
+m-targets: 
+m-time: 1 minute
+modified: 20220423213312300
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Arcane Occult Material
+title: Persistent Servant
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call forth an [[Unseen Servant]] and task it to perform a specific chore repeatedly. 
+
+Choose a basic instruction, such as sweeping the floor, or picking up all objects from the floor and putting them in a designated bin. The servant performs the task over and over again throughout the duration, though it can’t ever leave the spell’s area.
+
+The servant isn’t a minion, and you don’t need to Sustain the Spell in order for it to continue to act. However, it acts on its own time, and thus can’t accomplish anything useful during an encounter, even if an encounter happens within the spell’s range.
+
+Tasks that rely on timing, discretion, or significant manual dexterity are doomed to failure. For instance, a servant tasked to pick objects off the floor won’t discriminate between trash, misplaced treasure, or objects that are supposed to be on the floor, like a mousetrap.

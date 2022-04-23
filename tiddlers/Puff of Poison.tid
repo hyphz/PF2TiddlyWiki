@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423224943350
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 5 feet
+m-save: Fortitude
+m-targets: 1 creature
+m-time: 
+modified: 20220423225101155
+s-crit: The creature is unaffected.
+s-fail: The creature takes full initial and persistent damage.
+s-fumble: The creature takes double initial and persistent damage.
+s-hit: The creature takes half initial and persistent damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Evocation Inhaled Poison Arcane Primal
+title: Puff of Poison
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You exhale a shimmering cloud of toxic breath at an enemy’s face. 
+
+The target takes <<tag Poison>> damage equal to your spellcasting modifier and 2 persistent poison damage, depending on its [[Fortitude]] save.
+
+''Heightened (+2)'' The initial poison damage increases by 1d8 and the persistent poison damage increases by 1.
+
+{{||SaveSuccessTable}}

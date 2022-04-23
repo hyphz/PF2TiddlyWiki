@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20210929205456061
+modified: 20220423211057608
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -34,6 +34,7 @@ You have hands in this battle form and can use <<tag Manipulate>> actions.
 You can [[Dismiss]] the spell.
 
 You gain the following statistics and abilities regardless of the form that you choose:
+
 * AC = 22 + your level. Ignore your armor check’s penalty and Speed reduction.
 * 40 temporary Hit Points and weakness 10 to evil damage.
 * [[Darkvision]].

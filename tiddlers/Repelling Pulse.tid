@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423230047124
+m-area: 30 foot [[Emanation]]
+m-components: Somatic Verbal
+m-duration: 
+m-level: 5
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20220423230218178
+s-crit: The creature is unaffected.
+s-fail: The creature takes full damage and is pushed 10 feet away from you.
+s-fumble: The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [[Prone]].
+s-hit: The creature takes half damage.
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Force Divine Occult
+title: Repelling Pulse
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You unleash a powerful pulse of telekinetic power, and the pulse violently hurls creatures away from you. 
+
+Each creature in the area takes 7d10 force damage depending on its [[Reflex]] save.
+
+''Heightened (+2)'' The force damage increases by 2d10, and the distance the target is moved on a failure and critical failure increases by 5 feet.
+
+{{||SaveSuccessTable}}

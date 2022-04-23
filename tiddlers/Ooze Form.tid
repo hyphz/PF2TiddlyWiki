@@ -1,0 +1,57 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423211104834
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220423212413259
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Occult
+title: Ooze Form
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You invoke all things that seep and ooze, your body dissolving into a thick slurry and then reconstituting itself into a Medium ooze battle form. 
+
+When you first cast this spell, choose black pudding, gelatinous cube, gray ooze, or ochre jelly. While in this form, you gain the <<tag Ooze>> trait. 
+
+You can Dismiss the spell.
+
+You gain the following statistics and abilities //based on the heightening level of the spell//,  regardless of which battle form you choose:
+
+| !Effect | !Level 3 | !Level 4 | !Level 5 | !Level 8 |
+| !AC | 7+level, ignoring armor check penalty and speed reduction |<|<|<|
+| !Immunities | Critical Hits, Precision Damage, <<tag Visual>> effects |<|<|<|
+| !Vision | No normal vision |<|<|<|
+| !Size | Medium | Large | Huge | Gargantuan |
+| !Reach | 5' | 10' | 15' | 20' |
+| !Temporary HP | 20 | 30 | 40 | 60 |
+| !Resistance to <<tag Acid>>, Piercing and Slashing | 5 | 7 | 10 | 12 |
+| !Precise Motion Sense Range | 30' | 40' | 60' | 60' |
+| !Minimum Attack Modifier | +14 | +16 | +18 | +28 |
+| !Minimum [[Athletics]] Modifier |  +14 | +16 | +20 | +29 |
+| !Damage Modifier | +5 | +9 | +6 and double damage dice | +13 and double damage dice |
+
+{{BattleFormRestrictions}}
+
+You also gain specific abilities based on the ooze:
+
+* ''Black Pudding'' Speed 15 feet, climb 15 feet; Melee {{OneAction}} pseudopod, Damage 2d6+//damage modifier// bludgeoning and 1d8 acid.
+
+* ''Gelatinous Cube'' Speed 15 feet; Melee {{OneAction}} cube face, Damage 1d6+//damage modifier// <<tag Acid;>> a creature hit by your cube face Strike must succeed at a [[Fortitude]] save against your spell DC or be [[Stunned]] 1 (or [[Paralyzed]] for 1 round on a critical failure); this save has the <<tag Incapacitation>> trait //(so creatures of more than twice the spell's level promote their saves)//
+
+* ''Gray Ooze'' Speed 15 feet, climb 15 feet, swim 15 feet; Melee {{OneAction}} pseudopod, Damage 1d6+//defense modifier// bludgeoning and 1d6 acid, and you can spend an action after a hit to [[Grab]] the target.
+
+* ''Ochre Jelly'' Speed 15 feet, climb 10 feet; resistance 5 to electricity; Melee {{OneAction}} pseudopod, Damage 1d8+//damage modifier// bludgeoning and 1d8 acid, and you can spend an action after a hit to [[Grab]] the target.

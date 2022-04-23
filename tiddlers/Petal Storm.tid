@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423213400231
+m-area: 15 foot radius [[Burst]]
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 4
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20220423213451631
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Air Conjuration Plant Primal
+title: Petal Storm
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You bring forth a cloud of razor-sharp flower petals that thrash violently in the wind. 
+
+A creature that enters the storm or starts its turn in the storm is sliced by the razor‑sharp edges of the petals. It takes 2d10 slashing damage with a basic [[Reflex]] save. 
+
+A creature can take damage from the petals only once per round. 
+
+At the end of the duration, the storm calms and the petals fall harmlessly to the ground.
+
+''Heightened (+2)'' The damage increases by 1d10.

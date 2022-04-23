@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220423225251489
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 hour
+m-level: 2
+m-range: [[Touch]]
+m-save: 
+m-targets: Your [[Companion|Animal Companions]] or [[Eidolon]]
+m-time: 
+mod-balance: Promote successes on (Arctic: ice/snow, Desert: sand, Mountain: rubble)
+mod-climb: Mountain: not flat-footed when Climbing.
+mod-temperature_effects: Immune to severe or extreme (Arctic: cold, Desert: heat).
+modified: 20220423225644747
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+title: Rapid Adaptation
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You flood the target with energy from the terrain around it, compressing centuries of evolution into a single moment.
+
+The target gains one of the following natural adaptations based on the surrounding environment.
+
+* ''Aquatic'' The target gains a swim Speed equal to its land Speed. If it already had a swim Speed, it gains a +10‑foot status bonus to its swim Speed.
+* ''Arctic'' The target isn’t affected by [[severe or extreme cold|Temperature Effects]], and when it rolls a success on an [[Acrobatics]] check to [[Balance]] on ice and snow, it gets a critical success instead.
+* ''Desert'' The target isn’t affected by [[severe or extreme heat|Temperature Effects]], and when it rolls a success on an [[Acrobatics]] check to [[Balance]] on sand, it gets a critical success instead.
+* ''Forest'' The target gains [[Scent]] as an imprecise sense with a range of 30 feet.
+* ''Mountain'' The target isn’t [[Flat-Footed]] when [[Climb]]ing, and when it rolls a success on an [[Acrobatics]] check to [[Balance]] on rubble, it gets a critical success instead.
+* ''Plains'' The target gains a +10-foot status bonus to its land Speed.
+* ''Underground'' The target gains [[Darkvision]].
