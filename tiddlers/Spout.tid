@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220424200316773
+m-area: A 5-foot cube
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 30 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20220424200428672
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Water Arcane Primal Cantrip
+title: Spout
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Water blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. 
+
+Any creatures in the area take bludgeoning damage equal to 1d4 plus your spellcasting ability modifier, with a basic [[Reflex]] saving throw.
+
+You can change this spell’s area to a 5-foot [[Burst]], provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.
+
+''Heightened (+1)'' The damage increases by 1d4.

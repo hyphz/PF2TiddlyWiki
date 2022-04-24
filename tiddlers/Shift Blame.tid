@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220424194738181
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 3
+m-range: 30 feet
+m-save: Will
+m-targets: The target of the triggering attack or skill check
+m-time: 
+modified: 20220424194931532
+s-crit: The target knows you attempted to alter its memories.
+s-fail: You successfully alter the target's memory. It isn't forced to react to the new memories in a particular way, and it's likely to question them if they contradict other information it knows or are implausible for the situation.
+s-fumble: 
+s-hit: The target doesn't realize you attempted to alter its memories, though it knows you cast a spell.
+tags: Spell Somatic Verbal Concentrate Enchantment Mental Arcane Occult Reaction
+title: Shift Blame
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You alter the target’s memories of the triggering event as they form. 
+
+You choose another creature (which can be you) with the capacity to make the triggering attack or skill check, and you alter the target’s memories to recall the creature you chose as responsible for the triggering attack or skill check. 
+
+The target must attempt a [[Will]] save and is then temporarily immune for 24 hours.
+
+{{||SaveSuccessTable}}

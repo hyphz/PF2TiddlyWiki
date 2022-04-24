@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20220410171853649
+modified: 20220424201321044
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -109,6 +109,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Incapacitation]]">
 <tr><th>[[Incapacitation]]</th><td>This has reduced effect against creatures of higher level.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Incarnate]]">
+<tr><th>[[Incarnate]]</th><td>Creates free-willed pseudocreature that arrives, moves, then departs.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Ingested]]">
 <tr><th>[[Ingested]]</th><td>Poison must be taken by mouth; save when consumed.</td></tr>

@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220424193641793
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 2
+m-range: 60 feet
+m-save: 
+m-targets: 1 or more creatures
+m-time: 
+modified: 20220424193757127
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Fire Primal
+title: Scorching Ray
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You fire a ray of heat and flame. 
+
+Make a spell attack roll against a single creature. On a hit, the target takes 2d6 fire damage, and on a critical hit, the target takes double damage.
+
+//You can use between 1 and 3 actions to cast this spell.// For each action you use when Casting the Spell, you can fire a ray at a different target, to a maximum of three rays targeting three different targets for 3 actions. 
+
+These attacks each increase your multiple attack penalty, but you don’t increase your multiple attack penalty until after you make all the spell attack rolls for scorching ray. 
+
+If you spend 2 or more actions Casting the Spell, the damage increases to 4d6 fire damage on a hit, and it still deals double damage on a critical hit.
+
+''Heightened (+1)'' The damage to each target increases by 1d6 for the 1-action version, or by 2d6 for the 2-action and 3-action versions.
+

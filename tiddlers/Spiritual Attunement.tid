@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220424200057069
+m-area: 
+m-components: Somatic Material
+m-duration: 1 minute
+m-level: 4
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220424200300138
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Concentrate Manipulate Uncommon Abjuration Divine Occult Material
+title: Spiritual Attunement
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You attune yourself to a spiritual plane of the Outer Sphere, connecting your spirit without fully transporting to it. //There is a plane for each alignment pair.//
+
+Your Strikes and spells gain the alignment traits of the plane you chose, which deals additional damage to creatures with a weakness to either of those alignment traits. 
+
+Furthermore, the plane protects you from energy of the alignments that oppose the plane. You gain resistance 5 to damage of the alignments that oppose those of your chosen plane. 
+
+For example, if you chose //a Lawful Good plane//, your Strikes would gain the good and lawful traits, and you would gain resistance to chaotic and evil. 
+
+If you choose the //True Neutral Plane//, the resistance is to negative and positive damage instead.
+
+''Heightened (+2)'' The resistance increases by 5.

@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220424192714857
+m-area: 10 foot [[Burst]]
+m-components: Somatic Verbal
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 3
+m-range: 60 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20220424192819307
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Occult Necromancy
+title: Rouse Skeletons
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Misshapen skeletal forms erupt from a solid surface, such as a stone floor, and fill the burst. 
+
+The area they fill is [[Difficult Terrain]]. 
+
+Their grasping claws deal 2d6 slashing damage to creatures on the ground in the area when the skeletons first appear (basic [[Reflex]] save).
+
+On subsequent rounds, the first time you Sustain the Spell each round, you can move the area of skeletons up to 20 feet within the range of the spell and deal 2d6 slashing damage (basic [[Reflex]] save) to each creature in their new area.
+
+Damaging or destroying the skeletons is irrelevant, as new bones pull forth from the ground to repair and replace any that are obliterated.
+
+''Heightened (+2)'' The damage increases by 1d6.
