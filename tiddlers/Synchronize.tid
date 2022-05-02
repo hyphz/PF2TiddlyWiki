@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220502175110451
+m-area: 
+m-components: Somatic Verbal
+m-duration: Up to 24 hours
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: Up to 5 [[Willing]] creatures
+m-time: 
+modified: 20220502175221980
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Arcane Divine Occult Primal
+title: Synchronize
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You harmlessly place your unique magic sigil, which is about 1 square inch in size, on your targets. 
+
+When you Cast the Spell, you set the duration by choosing a time at which point the sigil flashes dimly three times. After that point, the spell ends. 
+
+Even though spell durations aren’t normally exact, the effects of synchronize are precise to the second. 
+
+The timer is based on the place where the spell was cast, so entering a plane or area where time flows differently changes how the time elapses.
+
+''Heightened (2nd)'' The spell can target up to 20 willing creatures.

@@ -12,8 +12,8 @@ m-range:
 m-save: Will
 m-targets: You
 m-time: 
-modified: 20210830164418888
-modtag-mental: May trigger target's Animus Mine.
+modified: 20220502180556319
+modtag-mental: May trigger target's Animus Mine if magically intrusive.
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is [[Stunned]] 1.
 s-fumble: The creature takes double damage and is [[Stunned]] 1. You are unaffected by the triggering mental effect.

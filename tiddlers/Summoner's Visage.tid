@@ -1,0 +1,41 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220502174816136
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 2
+m-range: Touch
+m-save: 
+m-targets: Your [[Eidolon]]
+m-time: 
+mod-impersonate: +4 status and add level, for eidolon to impersonate summoner.
+modified: 20220502175011145
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Divine Occult Primal
+title: Summoner's Visage
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transform your eidolon into your identical twin.
+
+Assuming you are a humanoid, the eidolon gains the <<tag Humanoid>> trait in addition to its other traits while it’s in this form, as well as any other trait related to your form (such as <<tag Elf>> or <<tag Gnome>>). 
+
+Your eidolon gains a +4 status bonus to [[Deception]] checks to [[Impersonate]] you and can add its level to such checks even if it’s untrained.
+
+Although your eidolon looks like you, it doesn’t gain any new abilities, and its statistics don’t change in any way—the transformation is purely cosmetic. 
+
+If this transformation reduces your eidolon’s size, the eidolon loses any other effects of its larger size, such as any increase to reach.
+
+Your eidolon can still use gear only if //the gear// has the <<tag Eidolon>> trait, which allows eidolons to use it. Any such eidolon items the eidolon was wearing change size and shape, if necessary, and its effects remain active.
+
+You can [[Dismiss]] the spell.
+
+''Heightened (4th)'' The duration increases to 1 hour.

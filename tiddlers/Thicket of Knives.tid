@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220502180040772
+m-area: 
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-deception: +2 status (?)
+mod-feint: Use untrained, with level added.
+modified: 20220502180207238
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Illusion Visual Arcane Occult
+title: Thicket of Knives
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You create numerous phantom copies of your weapon arm, hiding your true movements and rendering your attacks unpredictable.
+
+You gain a +2 status bonus to [[Deception]] checks.
+
+If you're untrained in Deception, you can use the [[Feint]] action anyway, and add your level as a proficiency bonus despite being untrained.

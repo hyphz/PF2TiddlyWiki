@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220502174601617
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until your next daily preparations
+m-level: 2
+m-range: 
+m-save: 
+m-targets: 
+m-time: 10 minutes
+modified: 20220502174808226
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Contingency Necromancy Arcane Divine Occult Primal Material
+title: Summoner's Precaution
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Requirements'' You have an [[Eidolon]].
+
+You create a buffer in the link between yourself and your eidolon in order to prevent you from falling alongside your bonded ally. 
+
+You gain the following reaction; after using it, the spell ends.
+
+''Sever Conduit'' {{ReactionIcon}} <<tag Concentrate>> ''Trigger'' Your eidolon takes damage that would bring you to 0 Hit Points and comes from an effect other than a <<tag Death>> effect; ''Effect'' You quickly shut the buffer in your link with your eidolon, causing your bonded ally to wink out of existence before you can be laid low. Your eidolon unmanifests, and you can’t [[Manifest your Eidolon|Manifest Eidolon]] for 1 minute. In exchange, you don’t take the triggering damage, though your eidolon still suffers any other adverse effects that accompanied the damage.
+

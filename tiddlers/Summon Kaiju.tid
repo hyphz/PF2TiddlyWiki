@@ -1,0 +1,38 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220502172825930
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: Until the end of your next turn
+m-level: 10
+m-range: 500 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20220502173831496
+modtag-spell: Casting in 60 feet of Shapeless Feeder must Fortitude save or be sickened.
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Rare Conjuration Incarnate Primal Material
+title: Summon Kaiju
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You briefly conjure a kaiju, a massive, rampaging monster with a unique name and legendary reputation. It rises from its secluded lair to annihilate your foes. 
+
+The summoned kaiju occupies the space of a Gargantuan creature. 
+
+When you Cast this Spell, choose one of the kaiju below to summon.
+
+* ''The Star Titan'' Speed 100 feet, climb 50 feet; ''Arrive'' <<tag Necromancy>> <<tag Negative>> Channel Void: Each foe in a 100-foot [[Emanation]] takes 16d8 negative energy damage with a basic [[Fortitude]] save; ''Depart'' <<tag Transmutation>> Gravitic Repulsion: Each foe in a 50-foot [[Emanation]] is pushed 100 feet away unless it succeeds at a [[Fortitude]] save.
+* ''The Forever Storm'' Speed 80 feet, fly 200 feet; ''Arrive'' <<tag Electricity>> <<tag Evocation>> Breath of a Thousand Storms: //The kaiju// shoots two 1,200-foot [[Line]]s of electricity, one from each of //their// heads. The lines can’t overlap. Each creature along one of the lines takes 6d12 electricity damage with a basic [[Reflex]] save. On a failure, the creature is also [[Slowed]] 1 for 1 round (or for 1 minute on a critical failure); ''Depart'' <<tag Evocation>> <<tag Sonic>> Thunderous Blast: Each creature within a 100-foot [[Emanation]] takes 6d10 sonic damage with a basic [[Reflex]] save, and is also knocked [[Prone]] on a failed save.
+* ''The Inferno Below'' Speed 100 feet, burrow 100 feet; ''Arrive'' <<tag Earth>> <<tag Evocation>> Burrow from the Earth’s Heart: //The kaiju// explodes from the ground where it was summoned, causing all creatures in a 50-foot [[Emanation]] to take 8d12 bludgeoning damage with a basic [[Reflex]] save. This potentially collapses structures with the collapse effect of the [[Earthquake]] spell, except there is no chance of falling into a fissure; ''Depart'' Web Hurricane: //The kaiju// departs with a hurricane of webbing. All creatures within a 50-foot [[Emanation]] must succeed at a Reflex save or take a –20-foot circumstance penalty to its Speeds until it [[Escape]]s (or is [[Immobilized]] until it escapes on a critical failure). The Escape DC is your spell DC.
+* ''The Final King'' Speed 100 feet, swim 100 feet; ''Arrive'' <<tag Auditory>> <<tag Enchantment>> <<tag Mental>> Trance of the King’s Melody: //The kaiju// manifests with a burst of the song that summoned //them//, requiring all foes within 60 feet who can hear //them// to attempt a [[Will]] save, leaving them [[Stunned]] 3 on a failure; ''Depart'' <<tag Evocation>> <<tag Fire>> Volcanic Breath: //The kaiju// unleashes //their// scorching breath in a 120-foot [[Cone]]. Each creature in the area takes 10d6 fire damage with a basic [[Reflex]] save. On a failure, it also takes 4d6 persistent fire damage.
+* ''The Shapeless Feeder'' Speed 50 feet, climb 50 feet, swim 100 feet; ''Arrive'' <<tag Necromancy>> Pollute Magic: //The kaiju//’s foul presence pollutes magic around //them//. Each of your enemies within a 60-foot [[Emanation]] that are under the effects of a spell must attempt a [[Fortitude]] save. On a failure, the creature is [[Sickened]] 2. Any of your enemies that Casts a Spell within 60 feet of //the kaiju// must attempt a [[Fortitude]] save with the same effects unless it’s already [[Sickened]]; ''Depart'' <<tag Acid>> <<tag Evocation>> Beam of Purest Vitriol: Each creature in a 1,200-foot [[Line]] takes 10d6 acid damage and 10d6 bludgeoning damage with a basic [[Fortitude]] save.
+* ''The Moon Grub'' Speed 60 feet, burrow 100 feet, fly 100 feet, swim 100 feet; ''Arrive'' <<tag Cold>> <<tag Evocation>> Algid Beam Barrage: //The kaiju// fires countless beams, targeting each of your enemies within 200 feet of it. The beams deal 10d6 cold damage with a basic [[Reflex]] save; Depart <<tag Cold>> <<tag Conjuration>> <<tag Water>> Frostbite Mist: Chilling mist surges out in a 100‑foot [[Burst]] centered on //the kaiju// and remains for 1 minute. This mist has the effects of [[Obscuring Mist]], plus any creature within the area at the end of its turn take 5d6 cold damage with a basic [[Fortitude]] save.
