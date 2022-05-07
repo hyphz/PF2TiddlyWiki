@@ -1,0 +1,40 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220507212706111
+m-area: 
+m-components: Somatic Verbal
+m-duration: 10 minutes
+m-level: 3
+m-range: 30 feet
+m-save: 
+m-targets: Up to 5 [[Willing]] creatures
+m-time: 
+modified: 20220507212903751
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate Divination Scrying Arcane Divine Occult Primal
+title: Web of Eyes
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You place an invisible scrying sensor on each target just above their eyes. Each sensor looks where that target looks, and all the targets can link their vision briefly to help notice things one target sees but the others might not.
+
+Each target can use an action, which has the <<tag Concentrate>> trait, to share what it sees with any number of other targets until the start of its next turn. 
+
+Only one creature can share its vision at a time, so if another target takes this action, the effect ends for any target that was previously sharing its vision.
+
+This improves how well the recipients can perceive anything the sharing creature is looking at. For instance, if a creature is [[Undetected]] to a recipient but [[Observed]] by the sharing creature, the creature becomes observed by the recipient as well. 
+
+Typically, the creature is seen as a glowing outline superimposed on its position. This might allow the recipient to target a creature it couldn’t otherwise; however, cover and line of effect still might prevent or impede targeting and attacks. 
+
+This can only improve the recipient’s vision, not reduce it; for example, if an enemy was undetected by the sharing creature and observed by a recipient, the recipient would still clearly observe the enemy.
+
+Once the vision sharing stops, the benefit ends. 
+
+Whether a creature is [[Hidden]] or [[Undetected]] is still based on the last information a target had before the vision sharing ended. For example, that means if a creature is behind a wall but hasn’t moved, it’s still hidden rather than undetected by a recipient that witnessed its current position.

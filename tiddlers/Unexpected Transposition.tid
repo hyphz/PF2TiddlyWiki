@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220507210132504
+m-area: 
+m-components: Verbal
+m-duration: 
+m-level: 6
+m-range: 30 feet
+m-save: Will
+m-targets: 
+m-time: 
+modified: 20220507210319056
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate Conjuration Teleportation Arcane Occult Reaction
+title: Unexpected Transposition
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Trigger'' You are target with an enemy's Strike.
+
+When attacked, you attempt to quickly swap your own position with that of another creature. 
+
+A creature that is unwilling to swap places with you must attempt a [[Will]] save. Willing creatures automatically fail. 
+
+You automatically switch places if the target is willing. If it’s unwilling, it can attempt a Will save. Neither of you teleports if the target succeeds at its save.
+
+If you successfully switch places with the target, the triggering attack is resolved against that creature as if it had been the original target of the attack. 
+
+After the swap, you and the target are both temporarily immune to unexpected transposition spells for 1 minute. 
+

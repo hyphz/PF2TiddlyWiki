@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220507211952933
+m-area: 
+m-components: Somatic Verbal
+m-duration: Up to 1 minute
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-AC: +1-3 status.
+modified: 20220507212113567
+s-crit: You gain a +3 status bonus to AC against the foe for 1 round, and a +2 status bonus to AC against the foe for the remaining duration.
+s-fail: You gain a +1 status bonus to AC against the foe.
+s-fumble: You gain no additional effect.
+s-hit: You gain a +2 status bonus to AC against the foe.
+tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Divine Primal
+title: Warding Aggression
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You channel a magical ward through your attack and attempt to plant it on a foe. This ward increases your defenses against that foe, as long as you keep attacking that foe to maintain it. 
+
+Make a melee Strike with a weapon or unarmed attack against a foe. In addition to the normal effects of the Strike, it has the effects below. 
+
+Warding aggression ends if the foe you attacked dies, or at the end of any turn in which you didn’t hit that foe with a melee Strike.
+
+{{||SaveSuccessTable}}

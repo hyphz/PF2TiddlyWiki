@@ -1,0 +1,41 @@
+a-crit: You emerge rejuvenated and revived. You become up to 40 years younger, returning to the prime of youth and life. If you're already at your desired age, your aging instead stops for the next 40 years. While remaining recognizably yourself, you also become preternaturally attractive, gaining a +1 circumstance bonus to [[Make an Impression]].
+a-defense: 
+a-fail: The ritual has no effect.
+a-fumble: You die. Casters killed this way frequently return as undead, such as ghosts or vampires.
+a-hit: You become 20 years younger or pause your aging for 20 years.
+created: 20220507221634384
+m-area: 
+m-components: 
+m-duration: 
+m-level: 8
+m-range: 20 feet
+m-save: 
+m-targets: 1 living creature of a level no greater than double the Bathe in Blood ritual's level
+m-time: 1 day
+mod-make_an_impression: +1 circumstance if made more attractive.
+modified: 20220507222050712
+rit-pskill: Occultism
+rit-pspre: E
+rit-secondaries: 2
+rit-sskill: Religion Society
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Rare Necromancy
+title: Bathe in Blood
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' Alchemical herbs and components worth a total of 1000 gp times the target's level.
+
+This an old ritual, illegal in nearly every corner of Golarion, but never quite exterminated. You bathe in the freshly spilled blood of your people, whose lives and years you steal in the process.
+
+This ritual requires that you submerge yourself in a bath of alchemically treated blood, attended by silent servants. The blood must come from the same ancestry as your own, and must have been spilled within the last 6 hours; a spell such as [[Gentle Repose]] can extend this time, but using such preserved blood applies a –4 circumstance penalty to the primary and secondary checks. 
+
+If you're Medium, you require 30 gallons of blood to immerse yourself, and a typical Medium creature holds about 1-1/2 gallons of blood in its body. This ritual doesn’t strictly require that the blood donors be killed and drained dry, but the logistical challenges of gathering enough blood without murder are beyond all but the most well-resourced casters.
+
+Each time you enact this ritual, regardless of its success or failure, you take a penalty to the primary check for all subsequent castings. This penalty starts at –1 and increases by –1 during each casting (so if you were casting this ritual on yourself for the fifth time, you would take a –4 penalty on your Occultism check).
+
+{{||ActionSuccessTable}}

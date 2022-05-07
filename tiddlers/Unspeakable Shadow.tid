@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20220507210331734
+m-area: 
+m-components: Somatic Verbal
+m-duration: 
+m-level: 9
+m-range: 120 feet
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20220507210809851
+s-crit: The target is unaffected.
+s-fail: The target is [[Frightened]] 3. It can't reduce its frightened value below 1 for 1 minute.
+s-fumble: The target is so afraid, it might instantly die. It must succeed at a [[Fortitude]] save or die; this saving throw has the <<tag Incapacitation>> trait //(which means that if the enemy is more than twice the level of the spell, they must critically fail to die)//. If it succeeds at its save, the target is [[Frightened]] 4 and can't reduce its frightened value below 1 for 1 minute.
+s-hit: The target is [[Frightened]] 2.
+tags: Spell Somatic Verbal Concentrate Manipulate Death Emotion Fear Illusion Mental Shadow Visual Arcane Occult
+title: Unspeakable Shadow
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You alter a creature’s shadow, transforming it into a terrifying monster out to devour the creature. 
+
+The creature must attempt a [[Will]] save. 
+
+A creature that has the frightened condition from unspeakable shadow must spend at least one of its actions each turn to either attack its shadow (making a Strike ineffectually) or flee from its shadow (using one action to move away as though it had the [[Fleeing]] condition).
+
+{{||SaveSuccessTable}}
