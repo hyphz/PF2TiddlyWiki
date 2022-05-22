@@ -1,0 +1,44 @@
+a-crit: The target is unable to visually detect the casters for the duration, and the target’s detection spells don’t detect the //casters//.
+a-defense: 
+a-fail: The ritual has no effect.
+a-fumble: The ritual backfires and all casters participating in it are [[Blinded]] for the next 24 hours.
+a-hit: The target is unable to visually detect the casters for the duration, but its detection spells function normally.
+created: 20220522205645378
+m-area: 
+m-components: 
+m-duration: 1 week
+m-level: 4
+m-range: Planetary
+m-save: 
+m-targets: 1 living creature
+m-time: 6 days
+modified: 20220522210106683
+rit-pskill: Occultism
+rit-pspre: 
+rit-secondaries: 3
+rit-sskill: Arcana Deception Stealth
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Curse Divination Mental
+title: Concealment's Curtain
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+''Cost'' an ornate mirror worth at least 100 gp, naturally occurring round fruit the size and number of the target’s eyes, and the same amount of flawless silver needles worth at least 1 gp each.
+
+At twilight for 5 days, you line the fruit in front of the mirror, chanting the name of the target, and envisioning its eyes in your mind. At exactly midnight on the last day, you drive the pins through the fruits, miming the action of methodically blinding the target to you and your companions. 
+
+The target is immediately affected and can’t visually detect any of the casters involved in the ritual—provided that the ritual was successful, the target is unaware of the effects. 
+
+Since the ritual affects the target’s ability to see the casters, rather than make the casters invisible, effects like [[True Seeing]] are ineffective against concealment’s curtain; instead, the target would need to remove the curse with effects like [[Remove Curse]].
+
+To perform this ritual, you must have been within 5 feet of the target at least once, close enough to get a good look at its eyes. 
+
+The target is temporarily immune to further castings of concealment’s curtain for 1 year.
+
+{{||ActionSuccessTable}}
+
+''Heightened (8th)'' You aren’t satisfied with simply concealing yourself from the target. The cost of the ritual mirror increases to 1,000 gp, and a personal effect of the target is required. After completing the ritual, the target takes 6d6 mental damage and is [[Blinded]] for 1 week, requiring both a [[Remove Curse]] and a [[Restore Senses]] to end the effect early. The target is aware that the ritual was cast on them; however, it doesn’t have any additional information.

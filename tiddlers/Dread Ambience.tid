@@ -1,0 +1,41 @@
+a-crit: The sense of dread is particularly powerful. Every creature in an area takes a –2 status penalty to saving throws against fear effects.
+a-defense: 
+a-fail: The dread ambience fails.
+a-fumble: The dread ambience fails, and the casters take a –1 status penalty to all Will saves for the next week.
+a-hit: The dread ambience succeeds. Every creature in the area takes a –1 status penalty to saving throws against fear effects.
+created: 20220522210037414
+m-area: 1 square mile
+m-components: 
+m-duration: 1 year
+m-level: 5
+m-range: 
+m-save: 
+m-targets: 
+m-time: 2 days
+modified: 20220522210322672
+modtag-fear: -1-2 status to saves in affected area.
+rit-pskill: Arcana Occultism
+rit-pspre: E
+rit-secondaries: 1
+rit-sskill: Deception
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Ritual Exploration Uncommon Consecration Emotion Enchantment Fear Mental
+title: Dread Ambience
+type: text/vnd.tiddlywiki
+
+{{||RitualSummaryTable}}
+
+In some places, it always feels like something is observing you, as if the very land doesn’t want you there. Hostile creatures skitter about in the underbrush. Tendrils of mist try to lead you stray. Even the scent of the place is unwelcoming. Sometimes, this eerie atmosphere is a natural occurrence. Other times, it’s the result of the dread ambience ritual.
+
+To create this unwelcoming, intimidating aura, you must prepare the area with salts and herbs, traveling the entire edge of the area throughout the casting.
+
+After you complete your ritual, anyone who enters the area receives a status penalty to saving throws against fear effects within the dread ambience.
+
+{{||ActionSuccessTable}}
+
+''Heightened (7th)'' The dread ambience costs 750 gp and remains in place for 10 years.
+
+''Heightened (9th)'' The dread ambience costs 5,000 gp and remains in place for an unlimited duration.

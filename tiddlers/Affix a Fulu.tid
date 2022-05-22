@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20220522213326876
+modified: 20220522213508296
+tags: Action Manipulate
+title: Affix a Fulu
+type: text/vnd.tiddlywiki
+
+You affix a fulu to an armor, weapon, shield, creature, or structure that’s beside or in the same square as you. 
+
+A creature can remove a fulu from itself or an unattended object in its reach with a single action.
+
+//If the fulu is also a talisman, you must attach it with [[Affix a Talisman]] rather than this action.//
