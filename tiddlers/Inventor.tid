@@ -1,21 +1,47 @@
-created: 20200701090837061
-feat-level: 7
-feat-skill: Crafting
-feat-spre: M
-mod-craft: You can craft formulas.
-modified: 20200726001339564
-tags: Downtime Feat General Skill
+cls-combt: Simple Martial Unarmed Light Medium Unarmored
+cls-exskills: 3
+cls-fortitude: E
+cls-hpbase: 8
+cls-key: Intelligence
+cls-per: T
+cls-reflex: T
+cls-tskills: Crafting
+cls-will: E
+created: 20220602223719274
+modified: 20220602224348439
+tags: Class Uncommon
 title: Inventor
 type: text/vnd.tiddlywiki
 
-''Prerequisites'' Master in [[Crafting]].
+!! Splats
 
-You are a genius at Crafting, easily able to determine how things are made and create new inventions. 
+<$list filter="[tag<currentTiddler>tag[Splat]]" />
 
-You can spend downtime to invent a common [[Formula]] that you don’t know. 
+!! Class Features
 
-This works just like the [[Craft]] activity: you spend half the Price of the formula up front, attempt a Crafting check, and on a success either finish the formula by paying the difference or work for longer to decrease the Price. 
+| !Level | !Features |
+| 1 | [[Overdrive]], Innovation, [[Explode]], [[Peerless Inventor]], [[Shield Block]] |
+| 2 | |
+| 3 | [[Expert Overdrive]], [[Reconfigure]] |
+| 4 |  |
+| 5 | [[Inventor Weapon Expertise]] |
+| 6 | |
+| 7 | Breakthrough Innovation, [[Lightning Reflexes]], [[Master Overdrive]], [[Weapon Specialization]] |
+| 8 |  |
+| 9 | [[Inventive Expertise]], [[Offensive Boost]] |
+| 10 |  |
+| 11 | [[Medium Armor Expertise]], [[Resolve]] |
+| 12 |  |
+| 13 | [[Alertness]], [[Complete Reconfiguration]], [[Inventor Weapon Mastery]] |
+| 14 |  |
+| 15 | [[Greater Weapon Specialization]], [[Legendary Overdrive]], Revolutionary Innovation |
+| 16 |  |
+| 17 | [[Inventive Mastery]], [[Juggernaut]] |
+| 18 |  |
+| 19 | [[Infinite Invention]], [[Medium Armor Mastery]] |
+| 20 | |
 
-The difference is that you spend the additional time in research, design, and development, rather than in creating an item. 
+!! Class Feats
 
-Once it’s complete, you add the new formula you invented to your formula book.
+{{||ClassFeatList}}
+

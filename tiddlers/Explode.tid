@@ -1,0 +1,14 @@
+a-actions: 2
+a-tool: Your Innovation
+created: 20220602225029891
+m-save: Reflex
+modified: 20220602225128739
+tags: Fire Inventor Action Manipulate Unstable
+title: Explode
+type: text/vnd.tiddlywiki
+
+You intentionally take your innovation beyond normal safety limits, making it explode and damage nearby creatures without damaging the innovation... hopefully. 
+
+The explosion deals 2d6 fire damage with a basic [[Reflex]] save to all creatures in a 5-foot [[Emanation]] around you (if you’re wearing or holding the innovation) or around your innovation (if your innovation is a minion).
+
+At 3rd level, and every level thereafter, increase your explosion’s damage by 1d6.

@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20220424201321044
+modified: 20220602225000337
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -220,6 +220,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Unique]]">
 <tr><th>[[Unique]]</th><td>There is only one in the world. How will you claim it?</td></tr>
+</$list>
+<$list filter="[all[current]tag[Unstable]]">
+<tr><th>[[Unstable]]</th><td>Must use innovation; flat 17 or innovation malfuncctions afterwards.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Verbal]]">
 <tr><th>[[Verbal]]</th><td>You must normally speak loudly to cast this spell, and you lose all your air if you use this while holding your breath.</td></tr>
