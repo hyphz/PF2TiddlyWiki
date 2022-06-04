@@ -1,0 +1,28 @@
+created: 20220603160048867
+mod-overdrive: Can make additional damage fire damage.
+modified: 20220603160327023
+tags: Splat Inventor
+title: Weapon Innovation
+type: text/vnd.tiddlywiki
+
+Your innovation is an impossible-looking weapon augmented by numerous unusual mechanisms. 
+
+It begins with the same statistics as a level 0 common simple or martial weapon of your choice, or another level 0 simple or martial weapon to which you have access. You can instead use the statistics of a 1st-level common simple or martial weapon of your choice, or another 1st-level simple or martial weapon to which you have access, but you must pay the monetary Price for the weapon. 
+
+An innovation weapon can have fundamental and property runes added to it in the same way as an ordinary weapon. 
+
+Because of the unique features of your innovation, everyone except you is untrained in it, even if they would normally be trained (or better) in simple or martial weapons. 
+
+If you use the [[Overdrive]] action, you can choose to change the additional damage from Overdrive to fire damage.
+
+Choose one initial weapon modification to apply to your innovation, either from the following or from other initial weapon modifications to which you have access. These modifications grant additional weapon traits, sometimes with extra abilities. 
+
+A modification might give your weapon the versatile trait with a damage type that the weapon could already deal, either from its base damage type or from an existing versatile trait. In that case, if you select that modification, you can instead choose to give the weapon the versatile trait for a different damage type: bludgeoning, piercing, or slashing.
+
+!! Initial Modifications 
+
+<table>
+<$list filter="[tag[Modification]tag[Weapon]tag[Initial]sort[]]">
+<tr><th><$link /></th><td>{{!!text}}</td></tr>
+</$list>
+</table>

@@ -1,5 +1,5 @@
 created: 20220602230524031
-modified: 20220602230951397
+modified: 20220603152515429
 tags: Splat Inventor
 title: Armor Innovation
 type: text/vnd.tiddlywiki
@@ -16,13 +16,10 @@ Because of the unique features of your innovation, everyone except you is untrai
 
 Choose one initial armor modification to apply to your innovation, either from the following or from other initial armor modifications to which you have access.
 
-! Initial Modifications 
+!! Initial Modifications 
 
-* ''Harmonic Oscillator'': You designed your armor to inaudibly thrum at just the right frequency to create interference against force and sound waves. You gain resistance equal to 3 + half your level to force and sonic damage. When under the effects of Overdrive, the resistance increases by 2.
-* ''Metallic Reactance:'' The metals in your armor are carefully alloyed to ground electricity and protect from acidic chemical reactions. You gain resistance equal to 3 + half your level to acid and electricity damage. When under the effects of Overdrive, the resistance increases by 2.
-* ''Muscular Exoskeleton (Power Suit Only)'': Your armor supports your muscles with a carefully crafted exoskeleton. When you send your armor into overdrive, the exoskeleton supplements your feats of athletics as well. When under the effects of [[Overdrive]], you gain a +1 circumstance bonus to [[Athletics]] checks; if you’re a master in [[Crafting]], this increases to a +2 circumstance bonus.
-* ''Otherworldly Protection'': Just because you use science doesn’t mean you can’t build your armor with carefully chosen materials and gizmos designed to protect against otherworldly attacks. You gain resistance equal to 3 + half your level to negative damage, or to positive damage if you have negative healing (such as if you’re a [[Dhampir]]). You gain the same amount of resistance to any types of alignment damage—good, evil, chaotic, lawful—that can damage you (note that creatures don’t take a given type of alignment damage unless they are of the opposing alignment; for instance, you can take evil damage only if you are good in alignment).
-* ''Phlogistonic Regulator'': A layer of insulation within your armor protects you from rapid temperature fluctuations. You gain resistance equal to half your level to cold and fire damage. When under the effects of Overdrive, the resistance increases by 2.
-* ''Speed Boosters'': You have boosters in your armor that increase your Speed. You gain a +5‑foot status bonus to your Speed, which increases to a +10-foot status bonus when under the effects of Overdrive.
-* ''Subtle Dampeners (Subterfuge Suit Only)'': You’ve designed your armor to help you blend in and dampen noise slightly. When you send your armor into overdrive, the dampeners increase their effect, improving your [[Stealth]]. When under the effects of Overdrive, you gain a +1 circumstance bonus to Stealth checks. If you're a master in Crafting, this increases to a +2 circumstance bonus.
-
+<table>
+<$list filter="[tag[Modification]tag[Armor]tag[Initial]sort[]]">
+<tr><th><$link /></th><td>{{!!text}}</td></tr>
+</$list>
+</table>

@@ -1,0 +1,15 @@
+a-actions: 1
+a-tool: [[Repair Kit]]
+created: 20220603152859226
+feat-class: Inventor
+feat-level: 1
+modified: 20220603153023103
+tags: Feat Class Inventor Action Unstable
+title: Haphazard Repair
+type: text/vnd.tiddlywiki
+
+You quickly fix your innovation, at the cost of its stability. 
+
+You [[Repair]] your innovation almost immediately. 
+
+You don’t have to place the innovation on a flat surface, but you do need to be adjacent to it (including holding or wearing it), as well as having a repair kit as normal.

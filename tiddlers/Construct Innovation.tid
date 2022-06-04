@@ -1,0 +1,23 @@
+created: 20220603152351949
+modified: 20220603152506845
+tags: Splat Inventor
+title: Construct Innovation
+type: text/vnd.tiddlywiki
+
+Your innovation is a mechanical creature, such as a clockwork construct made of cogs and gears. 
+
+It’s a prototype construct companion, and you can adjust most of its base statistics by taking feats at higher levels, such as [[Advanced Companion]]. 
+
+If you use the [[Overdrive]] action, your construct gains the same Overdrive benefits you do, and it also takes the same amount of fire damage on a critical failure.
+
+You know how to spend additional time directing, controlling, or programming your construct innovation for a more complex plan of action. You can spend 2 actions to [[Command]] instead of 1 when commanding your construct companion; your construct companion can then use an additional action (normally 3 actions, rather than 2).
+
+Choose one initial construct modification to apply to your innovation, either from the following or from other initial construct modifications to which you have access. These modifications alter the construct’s abilities or form.
+
+!! Initial Modifications 
+
+<table>
+<$list filter="[tag[Modification]tag[Construct]tag[Initial]sort[]]">
+<tr><th><$link /></th><td>{{!!text}}</td></tr>
+</$list>
+</table>

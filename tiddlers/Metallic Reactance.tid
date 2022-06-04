@@ -1,0 +1,10 @@
+created: 20220603151356721
+mod-overdrive: Also gives +2 to Acid/Electricity resistance.
+modified: 20220603151938174
+tags: Modification Armor Initial
+title: Metallic Reactance
+type: text/vnd.tiddlywiki
+
+The metals in your armor are carefully alloyed to ground electricity and protect from acidic chemical reactions. 
+
+You gain resistance equal to 3 + half your level to <<tag Acid>> and <<tag Electricity>> damage. When under the effects of [[Overdrive]], the resistance increases by 2.

@@ -1,0 +1,9 @@
+created: 20220603161115056
+modified: 20220603161147710
+tags: [[Weapon Trait]]
+title: Hampering
+type: text/vnd.tiddlywiki
+
+A weapon with the hampering trait includes a disruptive limb or flange. 
+
+You can use an [[Interact]] action to thrash the weapon in a square within the weapon’s reach. That square becomes [[Difficult Terrain]] until you attack with the weapon, move, would otherwise stop thrashing it, or at the beginning of your next turn.

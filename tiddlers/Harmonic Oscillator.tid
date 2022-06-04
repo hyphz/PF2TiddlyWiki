@@ -1,0 +1,10 @@
+created: 20220603151148178
+mod-overdrive: Also gives +2 to Force/Sonic resistance.
+modified: 20220603151945382
+tags: Modification Armor Initial
+title: Harmonic Oscillator
+type: text/vnd.tiddlywiki
+
+You designed your armor to inaudibly thrum at just the right frequency to create interference against force and sound waves. 
+
+You gain resistance equal to 3 + half your level to <<tag Force>> and <<tag Sonic>> damage. When under the effects of [[Overdrive]], the resistance increases by 2.

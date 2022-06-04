@@ -1,0 +1,13 @@
+created: 20220603155543374
+feat-class: Inventor
+feat-level: 6
+modified: 20220603155632922
+tags: Feat Class Inventor
+title: Construct Shell
+type: text/vnd.tiddlywiki
+
+You’ve adjusted your construct innovation so that when you ride it, special plates, hollows, or similar form partial barriers around you to add additional protection. 
+
+You have lesser [[Cover]] from all attacks when mounted on your construct innovation, not just from attacks where the construct would be in the way.
+
+Additionally, if your construct uses an [[Emanation]] while you’re riding on it, such as [[Explode]], you can choose not to be affected by the emanation.

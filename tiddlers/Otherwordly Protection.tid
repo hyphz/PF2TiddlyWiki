@@ -1,0 +1,11 @@
+created: 20220603151548798
+modified: 20220603151655991
+tags: Modification Armor Initial
+title: Otherwordly Protection
+type: text/vnd.tiddlywiki
+
+Just because you use science doesn’t mean you can’t build your armor with carefully chosen materials and gizmos designed to protect against otherworldly attacks. 
+
+You gain resistance equal to 3 + half your level to <<tag Negative>> damage, or to <<tag Positive>> damage if you have [[Negative Healing]] (such as if you’re a [[Dhampir]]). 
+
+You gain the same amount of resistance to any types of alignment damage—good, evil, chaotic, lawful—that can damage you (note that creatures don’t take a given type of alignment damage unless they are of the opposing alignment; for instance, you can take evil damage only if you are good in alignment).

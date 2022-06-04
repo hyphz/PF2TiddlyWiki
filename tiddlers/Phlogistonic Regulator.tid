@@ -1,0 +1,10 @@
+created: 20220603151722929
+mod-overdrive: Also gives +2 to Cold/Fire resistance.
+modified: 20220603151928435
+tags: Modification Armor Initial
+title: Phlogistonic Regulator
+type: text/vnd.tiddlywiki
+
+A layer of insulation within your armor protects you from rapid temperature fluctuations. 
+
+You gain resistance equal to half your level to <<tag Cold>> and <<tag Fire>> damage. When under the effects of [[Overdrive]], the resistance increases by 2.

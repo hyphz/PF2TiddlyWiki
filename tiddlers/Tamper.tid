@@ -1,0 +1,20 @@
+a-actions: 1
+a-crit: Your tampering is incredibly effective. If you tampered with a weapon, the enemy takes a –2 circumstance penalty to attack rolls and damage rolls with that weapon. If you tampered with armor, the armor hampers the enemy’s movement, making the enemy flat‑footed and inflicting a –10-foot penalty to its Speeds. The effect lasts until the enemy Interacts to remove it, regardless of which one you used.
+a-defense: Reflex
+a-fumble: Your tampering backfires dramatically, creating a small explosion from your own tools or gear. You take fire damage equal to your level.
+a-hands: 1
+a-hit: Your tampering is temporarily effective. As critical success, but the effect ends at the start of your next turn, even if the enemy doesn’t Interact to end it.
+a-skill: Crafting
+created: 20220603153309390
+feat-class: Inventor
+feat-level: 1
+modified: 20220603153504974
+tags: Feat Class Inventor Action Manipulate
+title: Tamper
+type: text/vnd.tiddlywiki
+
+You tamper with a foe’s weapon or armor, using a free hand. 
+
+Choose either a weapon held by an enemy in your reach or a suit of armor worn by an enemy in your reach. Attempt a [[Crafting]] check against the enemy’s [[Reflex]] DC.
+
+{{||ActionSuccessTable}}

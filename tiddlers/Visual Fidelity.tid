@@ -1,0 +1,15 @@
+created: 20220603155844692
+feat-class: Inventor
+feat-level: 6
+mod-blinded: Blinding effect must Counteract devices.
+mod-invisible: Invisible creatures are only Concealed.
+modified: 20220603160004045
+tags: Feat Class Inventor
+title: Visual Fidelity
+type: text/vnd.tiddlywiki
+
+You’ve found a way to use a hodgepodge combination of devices to enhance your visual abilities in every situation. 
+
+You gain [[Darkvision]] and [[Low-Light Vision]], and you can see [[Invisible]] creatures and objects as translucent shapes, though these shapes are indistinct enough to be [[Concealed]] to you.
+
+If an effect would give you the [[Blinded]] condition, the effect must attempt a [[Counteract]] check against your class DC, with your counteract level equaling half your level, rounded up. On a failed counteract check, you aren’t blinded—your various devices are able to compensate.
