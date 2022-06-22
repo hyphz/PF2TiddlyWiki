@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200727221452062
+modified: 20220622204400889
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -38,7 +38,7 @@ You gain the following statistics and abilities regardless of which battle form 
 * [[AC]] = 19 + your level. Ignore your armor’s check penalty and [[Speed]] reduction.
 * 10 temporary [[Hit Points]].
 * [[Darkvision]].
-* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You’re trained with them. Your attack modifier is +18, and your damage bonus is +9. These are [[Dexterity]] based (air or fire) or [[Strength]] based (earth or water). If your corresponding unarmed attack modifier is higher, you can use it instead.
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can __Strike with__. You’re trained with them. Your attack modifier is +18, and your damage bonus is +9. These are [[Dexterity]] based (air or fire) or [[Strength]] based (earth or water). If your corresponding unarmed attack modifier is higher, you can use it instead.
 * [[Acrobatics]] (air or fire) or [[Athletics]] (earth or water) modifier of +20; ignore this change if your own modifier is higher.
 
 You also gain specific abilities based on the type of

@@ -2,10 +2,12 @@ a-actions: 2
 created: 20200912142914070
 feat-class: Champion
 feat-level: 12
-modified: 20201128235739615
+modified: 20220622185554420
 tags: Feat Class Champion Action
 title: Blade of Justice
 type: text/vnd.tiddlywiki
+
+__Requires Tenets of Good__.
 
 You call upon divine power and make a weapon or unarmed [[Strike]] against a foe you have witnessed harming an ally or innocent. 
 

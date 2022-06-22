@@ -6,7 +6,7 @@ a-hit:
 created: 20200729194440664
 m-area: 30-foot [[Burst]] centered on you
 m-components: Somatic Verbal Material
-m-duration: 24 hours
+m-duration: __Until the next time you make your daily preparations__
 m-level: 3
 m-range: 
 m-save: 
@@ -15,7 +15,7 @@ m-time: 1 minute
 mod-fortitude: Gives +1 status against named creatures.
 mod-reflex: Gives +1 status against named creatures.
 mod-will: Gives +1 status against named creatures.
-modified: 20200729194656545
+modified: 20220622205351479
 s-crit: 
 s-fail: 
 s-fumble: 

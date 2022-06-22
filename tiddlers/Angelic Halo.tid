@@ -14,12 +14,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-heal: +2 status HP healed to allies.
-modified: 20211026214524162
+modified: 20220622190835461
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration Good Sorcerer
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration Good Sorcerer Aura
 title: Angelic Halo
 type: text/vnd.tiddlywiki
 

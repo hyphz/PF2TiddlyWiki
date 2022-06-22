@@ -6,13 +6,13 @@ a-hit:
 created: 20200727221138269
 m-area: 100 foot [[Burst]]
 m-components: Material Somatic Verbal
-m-duration: 24 hours
+m-duration: __Until the next time you make your daily preparations__
 m-level: 4
 m-range: Touch
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200727221238276
+modified: 20220622205338204
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -2,8 +2,8 @@ created: 20201024174026392
 feat-class: Sorcerer Magus Wizard Oracle
 feat-level: 12
 mod-seek: Also gain level 3 detect magic on what you see.
-modified: 20210903200520775
-tags: Class Feat Wizard Arcana Detection Divination Sorcerer Oracle Magus
+modified: 20220622191302326
+tags: Class Feat Wizard Detection Divination Sorcerer Oracle Magus Arcane Divine Occult Primal
 title: Magic Sense
 type: text/vnd.tiddlywiki
 
@@ -14,3 +14,5 @@ You can sense the presence of magic auras as though you were always using a 1st-
 When you [[Seek]], you gain the benefits of a 3rd-level detect magic spell on things you see (in addition to the normal benefits of Seeking). 
 
 You can turn this sense off and on with a free action at the start or the end of your turn.
+
+__This feat has the trait corresponding to the tradition of spells you cast - <<tag Arcane>>, <<tag Divine>>, <<tag Occult>>, or <<tag Primal>>.__

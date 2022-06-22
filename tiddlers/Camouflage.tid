@@ -6,11 +6,11 @@ feat-level: 10
 feat-skill: Stealth
 feat-spre: M
 mod-sneak: Can sneak while observed in natural terrain.
-modified: 20201219145047860
+modified: 20220622190951203
 tags: Feat Class Ranger
 title: Camouflage
 type: text/vnd.tiddlywiki
 
 You alter your appearance to blend in to the wilderness. 
 
-In natural terrain, you can [[Sneak]] even if you’re [[Observed]].
+In natural terrain, you can __[[Hide]] and [[Sneak]] even without [[Cover]] or being [[Concealed]].__

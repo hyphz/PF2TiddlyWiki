@@ -6,13 +6,13 @@ a-hit:
 created: 20200722192953895
 m-area: 
 m-components: Material Somatic Verbal
-m-duration: 24 hours
+m-duration: __Until the next time you make your daily preparations__
 m-level: 7
 m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 1 minute
-modified: 20200722221147756
+modified: 20220622205216070
 s-crit: 
 s-fail: 
 s-fumble: 

@@ -4,7 +4,7 @@ item-hands: 1
 item-level: 3 5 7 9 11 13 15 17 19
 item-price: 600 1600 3600 7000 15000 30000 65000 150000 400000
 item-variants: 1st-level 2nd-level 3rd-level 4th-level 5th-level 6th-level 7th-level 8th-level 9th-level
-modified: 20211026213539694
+modified: 20220622210801032
 tags: Item Magical Wand
 title: Magic Wand
 type: text/vnd.tiddlywiki
@@ -29,7 +29,7 @@ A wand’s base statistics are the same unless noted otherwise in a special wand
 
 Each type of wand has a Level and Price determined by the spell’s level. The wand’s rarity matches the spell’s rarity, and it has its spell’s traits. __A wand has the normal Hardness, BT, and HP of a thin item of its material.__
 
-''Craft Requirements'' Supply a listed-level casting of the spell.
+''Craft Requirements'' Supply a listed-level casting of the spell. __You only need to learn a single 1st-level formula to Craft a Magic Wand.__
 
 | !Spell Level | !Wand Level | !Wand Price |
 | 1st | 3 | 600 |

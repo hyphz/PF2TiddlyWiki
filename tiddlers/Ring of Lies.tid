@@ -5,7 +5,7 @@ item-level: 10
 item-price: 8500
 item-slot: Ring
 mod-deception: +2 item.
-modified: 20210823211216035
+modified: 20220622211046768
 tags: Item Invested Magical Uncommon Enchantment
 title: Ring of Lies
 type: text/vnd.tiddlywiki
@@ -14,4 +14,4 @@ This plain silver ring has an almost oily sheen.
 
 While wearing the ring, you gain a +2 item bonus to [[Deception]] checks.
 
-''Activate'' {{TwoAction}} Interact; ''Effect'' Snapping your fingers on the hand that wears the ring causes the ring to cast [[Glibness]] on you with no visual manifestations of a spell being cast.
+''Activate'' {{TwoAction}} Interact; __''Frequency'' Once per day;__ ''Effect'' Snapping your fingers on the hand that wears the ring causes the ring to cast [[Glibness]] on you with no visual manifestations of a spell being cast.

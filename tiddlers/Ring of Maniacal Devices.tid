@@ -2,14 +2,14 @@ created: 20210823211229642
 item-bulk: -
 item-hands: 0
 item-level: 11 18
-item-price: 11750 42500
+item-price: 11750 210000
 item-slot: Ring
 item-variants: Standard Greater
 mod-craft: +2-3 item for snares and traps.
 mod-disable_a_device: +2-3 item.
 mod-pick_a_lock: +2-3 item.
 mod-repair: +2-3 item for snares and traps.
-modified: 20210823211612471
+modified: 20220622211114645
 tags: Item Invested Magical Divination Interact
 title: Ring of Maniacal Devices
 type: text/vnd.tiddlywiki

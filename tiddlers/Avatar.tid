@@ -3,7 +3,7 @@ m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 10
 m-targets: You
-modified: 20200807183524011
+modified: 20220622204240271
 tags: Divine Spell Somatic Verbal Polymorph Transmutation Manipulate Concentrate
 title: Avatar
 type: text/vnd.tiddlywiki
@@ -21,7 +21,7 @@ You gain the following statistics and abilities regardless of which deity’s ba
 * AC = 25 + your level. Ignore your armor’s check penalty and Speed reduction.
 * 30 temporary Hit Points.
 * [[Darkvision]].
-* One or more attacks specific to your deity’s battle form, which are the only attacks you can use. You’re trained with them. Your attack modifier is +33, and you use the listed damage. Melee attacks are [[Strength]] based (for the purposes of the [[Enfeebled]] condition, for example) unless they have the [[Finesse]] trait, and all ranged attacks are [[Dexterity]] based. Attacks that deal positive or negative damage don’t heal creatures.
+* One or more attacks specific to your deity’s battle form, which are the only attacks you can __Strike with__. You’re trained with them. Your attack modifier is +33, and you use the listed damage. Melee attacks are [[Strength]] based (for the purposes of the [[Enfeebled]] condition, for example) unless they have the [[Finesse]] trait, and all ranged attacks are [[Dexterity]] based. Attacks that deal positive or negative damage don’t heal creatures.
 * [[Athletics]] modifier of +35, unless your own is higher. 
 
 You also gain the specific abilities listed for your deity below:

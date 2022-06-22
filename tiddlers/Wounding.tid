@@ -1,7 +1,7 @@
 created: 20210206180121141
 item-level: 7
 item-price: 3400
-modified: 20210206180210525
+modified: 20220622210919799
 tags: Rune Magical Weapon Necromancy
 title: Wounding
 type: text/vnd.tiddlywiki
@@ -12,4 +12,4 @@ Weapons with wounding runes are said to thirst for blood.
 
 When you hit a creature with a wounding weapon, you deal an extra 1d6 [[persistent bleed damage|Persistent Damage]]. 
 
-On a critical hit, it instead deals 1d12 persistent bleed damage.
+On a critical hit, //__this damage is doubled as normal for a critical hit__//.

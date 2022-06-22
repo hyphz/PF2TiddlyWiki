@@ -1,5 +1,5 @@
 created: 20200627222718411
-modified: 20220415181516855
+modified: 20220622192707631
 tags: Trait
 title: Summoned
 type: text/vnd.tiddlywiki
@@ -21,5 +21,7 @@ If you can communicate with it, you can attempt to command it, but the GM determ
 Immediately when you finish Casting the Spell, the summoned creature uses its 2 actions for that turn.
 
 Summoned creatures can be banished by various spells and effects. They are automatically banished if reduced to 0 [[Hit Point]]s or if the spell that called them ends.
+
+__A spawn or other creature generated from a summoned creature returns to its unaltered state (usually a corpse in the case of spawn) once the summoned creature is gone. If it’s unclear what this state would be, the GM decides.__
 
 //The restriction that summoned creatures can't control other creatures they summon or spawn was moved to the [[Minion]] trait by errata.//

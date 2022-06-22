@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Increases radius by 5 foot.
-modified: 20200808145631334
+modified: 20220622190904563
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]]
+tags: Spell Somatic Manipulate [[Focus Spell]] Aura
 title: Protective Ward
 type: text/vnd.tiddlywiki
 

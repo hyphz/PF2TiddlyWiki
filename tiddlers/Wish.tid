@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200731181651769
+modified: 20220622204839187
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -27,8 +27,8 @@ You state a wish, making your greatest desire come true.
 
 A wish spell can produce any one of the following effects.
 
-* Duplicate any arcane spell of 9th level or lower.
-* Duplicate any non-arcane spell of 7th level or lower.
+* Duplicate any __spell from the arcane list__ of 9th level or lower __which you have access to__.
+* Duplicate any __spell from another spell list__ of 7th level or lower __which you have access to__.
 * Produce any effect whose power level is in line with the above effects.
 * Reverse certain effects that refer to the wish spell.
 

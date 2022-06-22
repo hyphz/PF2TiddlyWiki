@@ -1,9 +1,9 @@
 created: 20200627201129825
-modified: 20200627201214331
+modified: 20220622191121158
 tags: Ability
 title: Sneak Attack
 type: text/vnd.tiddlywiki
 
-When the user [[Strike]]s a creature that has the [[Flat-Footed]] condition with an [[Agile]] or [[Finesse]] melee weapon, an agile or finesse unarmed attack, or a ranged weapon attack, they also deals the listed [[Precision]] damage. 
+When the user [[Strike]]s a creature that has the [[Flat-Footed]] condition with an [[Agile]] or [[Finesse]] melee weapon, an agile or finesse unarmed attack,  a ranged weapon attack, __or a ranged unarmed attack__, they also deals the listed [[Precision]] damage. 
 
 For a ranged attack with a thrown weapon, that weapon must also be an agile or finesse weapon.

@@ -12,7 +12,7 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200727000456113
+modified: 20220622205909018
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -27,8 +27,7 @@ You call down four meteors that explode in a fiery blast.
 
 Each meteor deals 6d10 <<tag Bludgeoning>>damage to any creatures in the 10-foot burst at the center of its area of effect before exploding, dealing 14d6 <<tag Fire>>damage to any creatures in its 40-foot burst. //The target makes a single basic [[Reflex]] save against all the damage.//
 
-The meteors’ central 10-foot bursts can’t overlap, and a creature takes the same amount of fire damage no matter how many overlapping explosions it’s
-caught in. 
+The meteors’ central 10-foot bursts can’t overlap, and a creature __attempts only one saving throw against the spell no matter how many overlapping explosions it's caught in, and they can take each type of damage once once.__
 
 The saving throw applies to both the bludgeoning and the fire damage.
 

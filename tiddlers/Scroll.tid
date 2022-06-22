@@ -4,7 +4,7 @@ item-hands: 1
 item-level: 1 3 5 7 9 11 13 15 17 19
 item-price: 40 120 300 700 1500 3000 6000 13000 30000 80000
 item-variants: [[Level 1]] [[Level 2]] [[Level 3]] [[Level 4]] [[Level 5]] [[Level 6]] [[Level 7]] [[Level 8]] [[Level 9]] [[Level 10]]
-modified: 20210410162151718
+modified: 20220622210837709
 tags: Consumable Item Magical Scroll
 title: Scroll
 type: text/vnd.tiddlywiki
@@ -46,6 +46,8 @@ The traits for a scroll vary based on the spell it contains. A scroll always has
 The process to Craft a scroll is much like that to Craft any other magic item. When you begin the crafting process, choose a spell to put into the scroll. You have to either Cast that Spell during the crafting process, or someone else must do so in your presence. Casting that Spell doesn’t produce its normal effects; instead, the magic is trapped inside the scroll. 
 
 The casting must come from a spellcaster expending a spell slot. You can’t Craft a scroll from a spell produced from another magic item, for example. The caster has to provide any cost of the spell.
+
+__You only need to learn one 1st-level formula to craft a Scroll.__
 
 Like other consumables, scrolls can be crafted in batches of four. All scrolls of one batch must contain the same spell at the same level, and you must provide one casting for each scroll crafted.
 

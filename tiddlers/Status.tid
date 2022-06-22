@@ -6,13 +6,13 @@ a-hit:
 created: 20200730193902005
 m-area: 
 m-components: Somatic Verbal
-m-duration: 1 day
+m-duration: __Until the next time you make your daily preparations__
 m-level: 2
 m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20200730232954403
+modified: 20220622205506501
 s-crit: 
 s-fail: 
 s-fumble: 

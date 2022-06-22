@@ -5,7 +5,7 @@ item-level: 6 14
 item-price: 2300 39000
 item-variants: Standard Greater
 mod-nature: +1-2 item.
-modified: 20210424142835279
+modified: 20220622205802364
 tags: Item Interact Primal Transmutation
 title: Primeval Mistletoe
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ This sprig of berry-festooned holly and mistletoe doesn’t wilt or rot.
 
 It can be used as a primal focus, and it also grants the creature holding it a +1 item bonus to [[Nature]] checks.
 
-''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per 10 minutes; ''Effect'' You squeeze juice from one of the berries and smear it onto a non-magical club or staff to cast [[Shillelagh]] upon it.
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per 10 minutes; ''Effect'' You squeeze juice from one of the berries and smear it onto a club or staff to cast [[Shillelagh]] upon it. //Errata removed the requirement for the club or staff to be non-magical.//
 
 ''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per day; Effect You twine the sprig around the wrist of one hand and touch a tree to cast [[Tree Shape]] upon yourself, except instead of a becoming a tree, you become a vine on the touched tree..
 

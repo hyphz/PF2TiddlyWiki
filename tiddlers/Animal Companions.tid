@@ -1,13 +1,13 @@
 created: 20201017173516669
 mod-command_an_animal: Gives companion 2 actions.
-modified: 20211027145517832
+modified: 20220622191651362
 tags: Rule
 title: Animal Companions
 type: text/vnd.tiddlywiki
 
 An animal companion is a loyal comrade who follows your orders without you needing to use [[Handle an Animal]] on it. 
 
-Your animal companion has the <<tag Minion>> trait, and it gains 2 actions during your turn if you use the [[Command an Animal]] action to command it; this is in place of the usual effects of Command an Animal, __and you don’t need to attempt a Nature check__.
+Your animal companion has the __<<tag Animal>> and__ <<tag Minion>> trait, and it gains 2 actions during your turn if you use the [[Command an Animal]] action to command it; this is in place of the usual effects of Command an Animal, __and you don’t need to attempt a Nature check__.
 
 If your companion dies, you can spend a week of downtime to replace it at no cost. 
 

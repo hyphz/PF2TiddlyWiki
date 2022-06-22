@@ -1,5 +1,5 @@
 created: 20200727220927217
-modified: 20200806183504570
+modified: 20220622205037623
 modtag-auditory: Blocked by Blue wall.
 modtag-divination: Blocked by Indigo wall.
 modtag-mental: Blocked by Indigo wall.
@@ -10,7 +10,7 @@ title: ChromaWall57
 type: text/vnd.tiddlywiki
 
 <ol start="5">
-<li>''Blue'' The wall stops <<tag Auditory>>, <<tag Petrification>>, and <<tag Visual>> effects from passing through, and creatures passing through are subject to the effects of [[Flesh to Stone]]. [[Magic Missile]] can counteract a blue chromatic wall.</li>
+<li>''Blue'' The wall stops <<tag Auditory>>, __<<tag Sonic>>__, <<tag Petrification>>, and <<tag Visual>> effects from passing through, and creatures passing through are subject to the effects of [[Flesh to Stone]]. [[Magic Missile]] can counteract a blue chromatic wall.</li>
 <li>''Indigo'' The wall stops <<tag Divination>>and <<tag Mental>> effects from passing through, and those passing through are subject to the effects of [[Warp Mind]]. [[Searing Light]] can counteract an indigo chromatic wall.</li>
 <li>''Violet'' The wall prevents spells from targeting the other side (area effects still cross as normal). Creatures passing through must succeed at a [[Will]] save or they are [[Slowed]] 1 for 1 minute; on a critical failure, the creature is instead sent to another plane, with the effect of [[Plane Shift]]. [[Dispel Magic]] can counteract a violet chromatic wall.</li>
 </ol>

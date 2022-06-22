@@ -6,13 +6,13 @@ a-hit:
 created: 20200729222921347
 m-area: 
 m-components: Somatic Verbal
-m-duration: 1 day
+m-duration: __Until the next time you make your daily preparations__
 m-level: 3
 m-range: Touch
 m-save: 
 m-targets: 1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk
 m-time: 10 minutes
-modified: 20200729223130545
+modified: 20220622205405694
 s-crit: 
 s-fail: 
 s-fumble: 

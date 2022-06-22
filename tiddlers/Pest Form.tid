@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200727212537943
+modified: 20220622205944282
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,7 +28,7 @@ You transform into a the battle form of a Tiny animal, such as a cat, insect, li
 
 You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form’s Size or statistics. 
 
-While in this form, you gain the <<tag Animal>>trait. 
+While in this form, you gain the <<tag Animal>>trait, __and you can't make Strikes__.
 
 You can [[Dismiss]] the spell.
 
@@ -37,7 +37,7 @@ You can [[Dismiss]] the spell.
 You gain the following statistics and abilities:
 
 * AC = 15 + your level. Ignore your armor’s check penalty and Speed reduction.
-* Speed 10 feet.
+* Speed __20__ feet.
 * [[Weakness]] 5 to physical damage. 
 * [[Low-Light Vision]] and imprecise [[Scent]] 30 feet.
 * [[Acrobatics]] and [[Stealth]] modifiers of +10, unless your own modifier is higher; [[Athletics]] modifier –4.

@@ -1,5 +1,5 @@
 a-actions: 1
-a-crit: The target must succeed at a [[Fortitude]] save against your Intimidation DC or die. If the target succeeds at its save, it becomes [[Frightened]] 2 and is [[Fleeing]] for 1 round; it suffers no effect on a critical success.
+a-crit: The target must __attempt__ a [[Fortitude]] save against your Intimidation DC. __On a critical failure, it dies. On any other result,__ it becomes [[Frightened]] 2 and is [[Fleeing]] for 1 round. __The critical failure effect has the <<tag Death>> trait.__
 a-defense: Will
 a-fail: The target becomes [[Frightened]] 1.
 a-fumble: The target is unaffected.
@@ -8,11 +8,12 @@ created: 20200702145831102
 feat-level: 15
 feat-skill: Intimidation
 feat-spre: L
-modified: 20200723212644309
+modified: 20220622192539219
 modified-by: Intimidation
-tags: Feat General Skill Death Emotion Fear Incapacitation Action
+tags: Feat General Skill Emotion Fear Incapacitation Action
 title: Scare to Death
 type: text/vnd.tiddlywiki
+virtual-tags: Death
 
 ''Prerequisites'' Legendary in [[Intimidation]].
 

@@ -10,9 +10,9 @@ m-duration: 1 minute
 m-level: 1
 m-range: Touch
 m-save: 
-m-targets: 1 non-magical [[Club]] or [[Staff]] you hold
+m-targets: 1 [[Club]] or [[Staff]] you hold
 m-time: 
-modified: 20200729212917977
+modified: 20220622205732105
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -23,8 +23,11 @@ type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
 
+//Errata removed the requirement for the target item to be non-magical.//
+
 The target grows vines and leaves, brimming with primal energy. 
 
 The target becomes a +1 [[Striking]] weapon while in your hands, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two. 
 
 Additionally, as long as you are on your home plane, attacks you make with the target against <<tag Aberration>>s, extraplanar creatures, and <tag Undead>> increase the number of weapon damage dice to three.
+

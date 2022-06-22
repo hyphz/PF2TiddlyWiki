@@ -6,13 +6,13 @@ a-hit:
 created: 20200726232042159
 m-area: 
 m-components: Somatic Verbal
-m-duration: 1 day
+m-duration: __Until the next time you make your daily preparations__
 m-level: 1
 m-range: Touch
 m-save: 
 m-targets: 1 lock, or a door or container with a latch
 m-time: 
-modified: 20200726232207986
+modified: 20220622205242872
 s-crit: 
 s-fail: 
 s-fumble: 

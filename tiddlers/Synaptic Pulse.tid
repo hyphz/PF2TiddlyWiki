@@ -8,11 +8,11 @@ m-area: 30 foot [[Emanation]]
 m-components: Somatic Verbal
 m-duration: 1 round
 m-level: 5
-m-range: 30 feet
+m-range: 
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200730220415846
+modified: 20220622210014142
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Stunned]] 2.
 s-fumble: The creature is [[Stunned]] for 1 round.
@@ -25,6 +25,6 @@ type: text/vnd.tiddlywiki
 
 You emit a pulsating mental blast that penetrates the minds of all enemies in the area. 
 
-Each creature in the area must attempt a [[Will]] save.
+Each __enemy__ in the area must attempt a [[Will]] save.
 
 {{||SaveSuccessTable}}

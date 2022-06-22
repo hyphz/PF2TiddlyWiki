@@ -1,13 +1,13 @@
 created: 20200722204001681
 mod-flat-footed: You're flat-footed to anyone flanking you.
-modified: 20200722204159344
+modified: 20220622210606185
 tags: Rule
 title: Flanking
 type: text/vnd.tiddlywiki
 
 When you and an ally are flanking a foe, it has a harder time defending against you. 
 
-A creature is [[Flat-Footed]] to creatures that are flanking it.
+A creature is [[Flat-Footed]] to __melee attacks from__ creatures that are flanking it.
 
 To flank a foe, you and your ally must be on opposites sides or corners of the creature. A line drawn between the center of your space and the center of your ally’s space must pass through opposite sides or opposite corners of the foe’s space. 
 

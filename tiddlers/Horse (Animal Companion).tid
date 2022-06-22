@@ -1,6 +1,6 @@
 created: 20201017180801119
 mod-flanking: Can be in any square in 10 feet for flanking.
-modified: 20220415183625192
+modified: 20220622191757700
 tags: [[Animal Companion]]
 title: Horse (Animal Companion)
 type: text/vnd.tiddlywiki
@@ -21,6 +21,6 @@ type: text/vnd.tiddlywiki
 
 ''Special'' Mount
 
-''Support Benefit'' Your horse adds momentum to your charge. Until the start of your next turn, if you moved at least 10 feet on the action before your attack, add a circumstance bonus to damage to that attack equal to twice the number of damage dice. If your weapon already has the [[Jousting]] weapon trait, increase the trait’s damage bonus by 2 per die instead.
+''Support Benefit'' Your horse adds momentum to your charge. Until the start of your next turn, if you moved at least 10 feet on the action before your __[[Strike]]__, add a circumstance bonus to damage __for__ that __Strike__ equal to twice the number of damage dice. If your weapon already has the [[Jousting]] weapon trait, increase the trait’s damage bonus by 2 per die instead.
 
 ''Advanced Maneuver'' [[Gallop]]

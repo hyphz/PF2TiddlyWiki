@@ -4,7 +4,7 @@ m-level: 4
 m-range: You
 m-save: None (Beneficial)
 m-targets: You
-modified: 20200805223745576
+modified: 20220622204129966
 tags: Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate
 title: Aerial Form
 type: text/vnd.tiddlywiki
@@ -31,7 +31,7 @@ You gain the following statistics and abilities regardless of which battle form 
 You ignore your armor's check penalty and Speed reduction when in your aerial form.
 
 The unarmed melee attacks specific to the battle form you choose are the only attacks you
-can use. You’re trained with them. These attacks are [[Dexterity]] based (for the purpose of the clumsy condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead.
+can __Strike with__. You’re trained with them. These attacks are [[Dexterity]] based (for the purpose of the clumsy condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead.
 
 If your own [[Acrobatics]] modifier is higher than the one for your form, you can use it instead.
 

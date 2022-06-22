@@ -6,13 +6,13 @@ a-hit:
 created: 20200720211958246
 m-area: 60 foot [[Burst]]
 m-components: Somatic Verbal
-m-duration: 1 day
+m-duration: __Until the next time you make your daily preparations__
 m-level: 7
 m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200808154759380
+modified: 20220622205149354
 modtag-teleportation: Attempts to counter effects.
 s-crit: 
 s-fail: 

@@ -3,12 +3,12 @@ item-bulk: L
 item-hands: 2
 item-level: 2
 item-price: 70
-modified: 20210410152054049
+modified: 20220622205828425
 tags: Consumable Item Oil Interact Magical Transmutation
 title: Oil of Potency
 type: text/vnd.tiddlywiki
 
-When you apply this thick, viscous oil to a non-magical weapon or suit of armor, that item immediately becomes magically potent. 
+When you apply this thick, viscous oil to a weapon or suit of armor, that item immediately becomes magically potent. //Errata removed the requirement for the weapon or armor to be non-magical.//
 
 If the item is a weapon, it temporarily becomes a [[+1|Weapon Potency]] [[Striking]] weapon, or, if it’s armor, it temporarily becomes [[+1|Armor Potency]] [[Resilient]] armor. 
 
