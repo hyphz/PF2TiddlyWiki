@@ -1,0 +1,16 @@
+created: 20220710161832666
+feat-class: Inventor
+feat-fpre: [[Gadget Specialist]]
+feat-level: 12
+modified: 20220710161923084
+tags: Feat Class Inventor
+title: Contingency Gadget
+type: text/vnd.tiddlywiki
+
+You are too brilliant to be caught off guard, and you always have just the right gadget for the situation. 
+
+When you prepare your gadgets during your daily preparations, you can choose to leave one of them as a contingency gadget that you keep ready for just this situation, rather than declaring which gadget you’re making. 
+
+You can pull the contingency gadget out using an [[Interact]] action, at which point you must choose which gadget you had prepared as a contingency.
+
+If you’re legendary in Crafting, you can leave two contingency gadgets during your daily preparations, instead of just one.

@@ -1,0 +1,13 @@
+created: 20220710171133122
+modified: 20220710171214419
+tags: Reaction Automaton
+title: Resist Magic
+type: text/vnd.tiddlywiki
+
+''Trigger'' You attempt a saving throw against a harmful magical effect but haven’t rolled yet.
+
+Your innate magic protects you. 
+
+You gain a +1 circumstance bonus to the triggering saving throw. 
+
+Additionally, if the triggering effect is <<tag Arcane>>, if you roll a success, you get a critical success instead.

@@ -1,0 +1,21 @@
+a-defense: Fortitude
+created: 20220710151017424
+feat-class: Inventor
+feat-level: 8
+mod-megaton_strike: On unstable version foe must also save or be knocked back.
+modified: 20220710151351180
+s-crit: The creature is unaffected.
+s-fail: The creature is pushed back 10 feet.
+s-fumble: The creature is pushed back 20 feet.
+s-hit: The creature is pushed back 5 feet.
+tags: Feat Class Inventor
+title: Gigaton Strike
+type: text/vnd.tiddlywiki
+
+When you use a full-power Megaton Strike, you can knock your foe back. 
+
+When you succeed at your Strike while using an unstable [[Megaton Strike]], your target must attempt a [[Fortitude]] save against your class DC.
+
+If your innovation is a minion, this benefit applies on its unstable Megaton Strikes.
+
+{{||SaveSuccessTable}}

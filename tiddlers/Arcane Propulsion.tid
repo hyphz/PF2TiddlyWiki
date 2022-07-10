@@ -1,0 +1,18 @@
+a-actions: 2
+created: 20220710172019981
+feat-anc: Automaton
+feat-level: 9
+modified: 20220710172239564
+tags: Feat Ancestry Automaton Action Arcane Transmutation
+title: Arcane Propulsion
+type: text/vnd.tiddlywiki
+
+''Frequency'' Once per day
+
+You redirect energy from your core to ports on your back or feet, allowing you to fly for a short time. 
+
+You can maintain this redirected energy for 5 minutes. 
+
+You gain a fly Speed equal to your Speed while redirecting the energy.
+
+''[[Enhancement]]'' You can maintain your flight for longer. You can redirect your energy at all times, allowing you to fly whenever you want, rather than just once per day for 5 minutes.

@@ -1,0 +1,15 @@
+created: 20220710162253493
+feat-class: Inventor
+feat-fpre: Megavolt
+feat-level: 12
+mod-megavolt: Electricity can bounce off walls up to max distance.
+modified: 20220710162330336
+tags: Feat Class Inventor
+title: Gigavolt
+type: text/vnd.tiddlywiki
+
+When you unleash electricity from your innovation, you can bounce it off obstacles, creating a field of electric death. 
+
+When you use [[Megavolt]], each time your line of electricity hits a solid barrier, such as a wall, it bounces off at an angle of your choice and continues until you have reached the full length of the line. 
+
+Even if a creature is in the area from multiple bounces, it takes the damage only once.

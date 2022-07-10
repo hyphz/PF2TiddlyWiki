@@ -181,3 +181,21 @@ Lost and Alone,Strength,Charisma,Intimidation,Warfare,Intimidating Glare,The Fal
 Missionary,Constitution,Wisdom,Diplomacy,Scribing,Group Impression,The Fall of Plaguestone
 Refugee (Plaguestone),Constitution,Intelligence,Survival,Hunting,Forager,The Fall of Plaguestone
 Teamster,Strength,Wisdom,Nature,Mercantile,Train Animal,The Fall of Plaguestone
+Anti-Tech Activist,Constitution,Charisma,Intimidation,Guild,Group Coercion,Guns and Gears
+Clockfighter,Intelligence,Charisma,Crafting,Gladiatorial,Experienced Professional,Guns and Gears
+Clockwork Researcher,Dexterity,Intelligence,Society,Engineering,Eye for Numbers,Guns and Gears
+Codebreaker,Intelligence,Wisdom,Society,Cryptography,Glean Contents,Guns and Gears
+Disciple of the Gear,Intelligence,Wisdom,Crafting,*Per Deity,Quick Repair,Guns and Gears
+Driver,Strength,Dexterity,Acrobatics,Piloting,Assurance,Guns and Gears
+Hounded Thief,Dexterity,Wisdom,Thievery,Underworld,Pickpocket,Guns and Gears
+Junker,Strength,Wisdom,Athletics,*Per Terrain,Hefty Hauler,Guns and Gears
+Mechanic,Strength,Intelligence,Crafting,Engineering,Quick Repair,Guns and Gears
+Medicinal Clocksmith,Intelligence,Wisdom,Medicine,Engineering,Risky Surgery,Guns and Gears
+Printer,Intelligence,Charisma,Society,Scribing,Multilingual,Guns and Gears
+Saboteur,Strength,Dexterity,Thievery,Engineering,Concealing Legerdemain,Guns and Gears
+Toymaker,Intelligence,Charisma,Crafting,Mercantile,Speciality Crafting,Guns and Gears
+Discarded Duplicate,Free,Free,,,Extra Ability Boost,Guns and Gears
+Mechanical Symbiosis,Intelligence,WIsdom,Arcana,,Clockwork Symbiote,Guns and Gears
+Saved by Clockwork,Strength,Intelligence,Crafting,,Clockwork Life Support,Guns and Gears
+Tech-Reliant,Constitution,Intelligence,Crafting Medicine,,Magical Disconnection,Guns and Gears
+Wished Alive,Constitution,Charisma,Diplomacy,,Inspiring Wish,Guns and Gears

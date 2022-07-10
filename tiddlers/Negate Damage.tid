@@ -1,0 +1,13 @@
+created: 20220710164233248
+feat-class: Inventor
+feat-level: 18
+modified: 20220710164326216
+tags: Feat Class Inventor Reaction
+title: Negate Damage
+type: text/vnd.tiddlywiki
+
+''Trigger'' You would take damage.
+
+Your armor innovation activates various devices you prepared ahead of time, and you use one of them to reduce the damage you would take by 15.
+
+''Unstable Function'' You activate all the precautions at once, violently repelling the incoming attack to blunt its force. Add the <<tag Unstable>> trait to Negate Damage and reduce the damage you would take by 50..

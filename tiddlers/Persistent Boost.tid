@@ -1,0 +1,12 @@
+created: 20220710163224864
+feat-class: Inventor
+feat-fpre: [[Offensive Boost]]
+feat-level: 16
+modified: 20220710163350679
+tags: Feat Class Inventor
+title: Persistent Boost
+type: text/vnd.tiddlywiki
+
+Your innovation sets foes on fire, covers them in acid, leaves barbed thorns behind, or otherwise deals persistent damage to your foes that sticks around long after you deliver your boosted attack. 
+
+When you or your construct innovation damage a foe with [[Offensive Boost]], that foe also takes 1d8 persistent damage of the same damage type as the offensive boost damage.

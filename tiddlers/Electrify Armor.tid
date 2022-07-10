@@ -1,0 +1,20 @@
+a-actions: 1
+created: 20220710154158953
+feat-class: Inventor
+feat-level: 10
+modified: 20220710154652696
+tags: Feat Class Inventor Manipulate Action
+title: Electrify Armor
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are wearing your armor innovation.
+
+You electrify your armor to punish foes who dare to attack you. 
+
+For 1 round, any creature that touches you, or that hits you with a melee unarmed attack or a non-reach melee weapon attack, takes 1d4 electricity damage. 
+
+The effect ends if you cease wearing your armor innovation.
+
+If you have the [[Revolutionary Innovation]] class feature, the damage increases to 2d4.
+
+''Unstable Function'' You create an unstable chain reaction, sending countless sparks dancing across your armor. Add the <<tag Unstable>> trait to Electrify Armor. The effects last for 1 minute instead of 1 round, and the damage dice increase from d4s to d12s.

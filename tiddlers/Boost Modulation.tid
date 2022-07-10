@@ -1,0 +1,18 @@
+created: 20220710161416142
+feat-class: Inventor
+feat-fpre: [[Offensive Boost]]
+feat-level: 12
+modified: 20220710161602319
+tags: Feat Class Inventor
+title: Boost Modulation
+type: text/vnd.tiddlywiki
+
+You aren’t satisfied with keeping to just one kind of boost from your constant tinkering, so you’ve learned to modulate between several possibilities at once. 
+
+Choose two additional [[Offensive Boost]]s. 
+
+You can use an [[Interact]] action to change the offensive boost currently affecting your weapon, choosing between the one you chose for the class feature and the two you chose for this modification. 
+
+If your weapon has the [[Modular]] trait, you can swap the offensive boost as part of the Interact action you take to use that trait.
+
+//As written, this feat has the Manipulate trait, but this has no meaning in this context because this feat is not an action. It presumably refers to the Interact action taken to use it, which already has the Manipulate trait.//
