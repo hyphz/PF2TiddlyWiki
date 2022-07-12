@@ -1,0 +1,22 @@
+created: 20220712222810840
+feat-arch: [[Sterling Dynamo]]
+feat-level: 4
+modified: 20220712223000245
+tags: Feat Archetype
+title: Modular Dynamo
+type: text/vnd.tiddlywiki
+
+Your dynamo has modular configurations, allowing you to swap between various different possibilities with ease in order to adapt to various situations in combat. 
+
+Your dynamo attack gains the [[Modular]] trait, as well as one of the following configurations of your choice: 
+
+* Power driver (1d6 bludgeoning damage; [[Shove]])
+* Percussive Striker (1d4 bludgeoning damage; [[Agile]], [[Finesse]])
+* Rotating Sickle (1d6 slashing damage; [[Trip]])
+* Entangling barbs (1d6 piercing damage; [[Grapple]]). 
+
+If you have a manually controlled dynamo, these damage dice increase by 1 size, as usual, and you can also choose the extendable baton (1d4 bludgeoning damage; [[Finesse]], [[Reach]]), which has the damage increase already factored in.
+
+When you use an [[Interact]] action to switch configurations using the modular trait, you switch between the initial configuration of dynamo you chose with the Sterling Dynamo Dedication and the new configuration you chose with Modular Dynamo.
+
+You can select this feat multiple times. Each time, you choose another configuration and add it to the list of options you can choose when you use an Interact action with the modular trait.

@@ -1,0 +1,13 @@
+created: 20220712223451938
+feat-arch: [[Sterling Dynamo]]
+feat-level: 18
+modified: 20220712223523021
+tags: Feat Archetype
+title: Soaring Dynamo
+type: text/vnd.tiddlywiki
+
+You’ve built clockwork wings or jets into your dynamo, allowing you to use your prosthesis to fly. 
+
+You gain a fly Speed equal to your Speed. 
+
+Each minute of flight reduces the operational time of your sterling dynamo by 1 hour, measured from the first time you use the [[Fly]] action in a given minute.

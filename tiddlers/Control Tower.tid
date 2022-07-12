@@ -1,0 +1,20 @@
+created: 20220712222004530
+feat-arch: Overwatch
+feat-level: 14
+feat-skill: Perception
+feat-spre: M
+mod-concealed: In aura, flat check not needed.
+mod-hidden: In aura, flat DC to target is 5.
+mod-seek: In aura +2 circumstance to find hidden/undetected.
+modified: 20220712222142792
+tags: Feat Archetype
+title: Control Tower
+type: text/vnd.tiddlywiki
+
+Your keen senses and ability to process battlefield information have dramatically improved, allowing you to drastically reduce the advantage of unseen foes. 
+
+You and allies in your overwatch field gain a +2 circumstance bonus when using the [[Seek]] action to find [[Hidden]] or [[Undetected]] creatures within the overwatch field. 
+
+You and your allies don’t have to succeed at a flat check to target a [[Concealed]] creature within your overwatch field. 
+
+When you or an ally targets a [[Hidden]] creature in your overwatch field, reduce the DC of the flat check to 5.

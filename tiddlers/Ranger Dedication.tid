@@ -3,7 +3,7 @@ feat-abpre: Dexterity
 feat-abprel: 14
 feat-arch: Ranger
 feat-level: 2
-modified: 20201205152300434
+modified: 20220712221935496
 tags: Feat Dedication Multiclass
 title: Ranger Dedication
 type: text/vnd.tiddlywiki
@@ -14,4 +14,4 @@ You become trained in ranger class DC.
 
 You can use the [[Hunt Prey]] action.
 
-<<levelfeatlist "4 6 12" "[tag[Archetype]field:feat-arch[Ranger]]">>
+<<levelfeatlist "4 6 12" "[tag[Archetype]contains:feat-arch[Ranger]]">>

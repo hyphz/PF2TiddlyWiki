@@ -1,0 +1,16 @@
+created: 20220712223339295
+feat-arch: [[Sterling Dynamo]]
+feat-level: 12
+mod-fortitude: +1 status vs magic.
+mod-reflex: +1 status vs magic.
+mod-will: +1 status vs magic.
+modified: 20220712223436026
+tags: Feat Archetype
+title: Golem Dynamo
+type: text/vnd.tiddlywiki
+
+''Access'' You are an [[Automaton]] or are otherwise from the ancient Jistka Imperium.
+
+You’ve learned the secrets of Jistkan golem prostheses, allowing you to incorporate golem components into your dynamo and gain a portion of their magic. 
+
+You gain a +1 status bonus to saving throws against magic, and your dynamo Strikes become magical.

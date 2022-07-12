@@ -1,0 +1,11 @@
+created: 20220712220021030
+feat-arch: Inventor
+feat-level: 4
+modified: 20220712220046430
+tags: Feat Archetype
+title: Basic Breakthrough
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level inventor feat of your choice.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Inventor]]">>

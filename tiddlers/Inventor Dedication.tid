@@ -1,0 +1,17 @@
+created: 20220712215843806
+feat-abpre: Intelligence
+feat-abprel: 14
+feat-arch: Inventor
+feat-level: 2
+modified: 20220712215958111
+tags: Feat Dedication Multiclass Uncommon
+title: Inventor Dedication
+type: text/vnd.tiddlywiki
+
+You become trained in [[Crafting]] and inventor class DC. 
+
+You gain the [[Inventor]] skill feat, even if you don’t meet the skill feat’s requirements. 
+
+Choose an innovation. You gain that innovation, though you don’t gain any other abilities that modify or use that innovation, such as modifications or [[Explode]].
+
+<<levelfeatlist "4 6 8" "[tag[Archetype]field:feat-arch[Inventor]]">>
