@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20220724164824562
+modified: 20220724165233765
+tags: Action Manipulate
+title: Take Control
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are aboard //a// vehicle and adjacent to its controls.
+
+You grab the reins, the wheel, or some other mechanism to control the vehicle. 
+
+Attempt a [[Piloting Check]]; on a success, you become the vehicle’s pilot, or regain control of the vehicle if it was uncontrolled. 
+
+Some vehicles have complicated controls that cause this action to become a multi-action activity.

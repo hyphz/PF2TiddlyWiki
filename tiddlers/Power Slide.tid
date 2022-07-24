@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20220724162639697
+feat-arch: [[Trick Driver]]
+feat-level: 4
+modified: 20220724163656766
+tags: Feat Archetype Action Move Skill Reckless
+title: Power Slide
+type: text/vnd.tiddlywiki
+
+You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. 
+
+You [[Drive]] with a –2 penalty to your [[Piloting Check]], gaining the effects of the Drive action for the same number of actions you spent to Power Slide. 
+
+At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. 
+
+If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.

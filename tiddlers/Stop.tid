@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20220724164520602
+modified: 20220724164834952
+tags: Action Manipulate
+title: Stop
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are piloting a vehicle in motion.
+
+You bring the vehicle to a stop.
+
+//If the pilot neither Stops nor [[Drive]]s a vehicle in a turn, it becomes [[Uncontrolled]].//

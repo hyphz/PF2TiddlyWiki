@@ -1,0 +1,16 @@
+a-actions: 1
+created: 20220724162515599
+feat-arch: [[Trick Driver]]
+feat-level: 4
+feat-skill: [[Driving Lore]]
+feat-spre: E
+modified: 20220724162612742
+tags: Feat Archetype Action Flourish
+title: Take the Wheel
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are adjacent to a vehicle’s point of entry.
+
+Diving into a moving vehicle and seizing the controls is nothing new for you. 
+
+You [[Board]] and [[Take Control]] of the adjacent vehicle.

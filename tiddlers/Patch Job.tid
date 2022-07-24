@@ -1,0 +1,14 @@
+created: 20220724170719331
+feat-arch: [[Vehicle Mechanic]]
+feat-level: 4
+mod-improvised_repair: Can make a Crafting check to avoid the item becoming shoddy.
+modified: 20220724170837670
+tags: Feat Archetype Skill
+title: Patch Job
+type: text/vnd.tiddlywiki
+
+You can patch up damage to an object with a quick fix. 
+
+You gain the [[Improvised Repair]] general feat. 
+
+When you use Improvised Repair, you can attempt a [[Crafting]] check with the same DC as [[Repair]]. If you succeed, you can use the object as a normal object of its type until it takes damage rather than as a [[Shoddy]] object of its type.

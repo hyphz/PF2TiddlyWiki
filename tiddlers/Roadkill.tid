@@ -1,0 +1,14 @@
+created: 20220724162907018
+feat-arch: [[Trick Driver]]
+feat-level: 10
+mod-run_over: Use class DC instead of vehicle DC and more targets available.
+modified: 20220724162957769
+tags: Feat Archetype
+title: Roadkill
+type: text/vnd.tiddlywiki
+
+In your hands, any vehicle is a weapon.
+
+When you use [[Run Over]], you can use your class DC in place of the vehicle’s collision DC. 
+
+Your vehicle can Run Over any number of creatures up to one Size smaller than the vehicle or ram any one target creature or object in your path up to the size of your vehicle.

@@ -1,0 +1,18 @@
+created: 20220724161224874
+feat-arch: Trapsmith
+feat-level: 4
+feat-skill: Crafting
+feat-spre: E
+mod-disable_a_device: Snares require a second Thievery check at reduced risk.
+modified: 20220724161738394
+tags: Feat Archetype
+title: Gear Gnash
+type: text/vnd.tiddlywiki
+
+Snares you create have complicated inner workings that are quite difficult to disable. 
+
+Creatures attempting to [[Disable|Disable a Device]] your snares that use gears must succeed at an additional [[Thievery]] check in order to disable the snare. 
+
+On a failed check, while the snare doesn’t fully trigger, the grinding mechanisms deal bludgeoning damage to the creature equal to half your level. 
+
+The snare still triggers on a critical failure, as normal.

@@ -1,0 +1,15 @@
+created: 20220724162746409
+feat-arch: [[Trick Driver]]
+feat-level: 7
+feat-skill: [[Driving Lore]]
+feat-spre: M
+modified: 20220724162835256
+tags: Feat Archetype Skill
+title: Push It
+type: text/vnd.tiddlywiki
+
+You can push your vehicle’s performance beyond the limits envisioned by its makers. 
+
+Whenever you succeed at a piloting check, the vehicle you are piloting gains a +5-foot circumstance bonus to all its Speeds until the end of your turn. 
+
+If you critically succeed, this bonus increases to +10 feet.

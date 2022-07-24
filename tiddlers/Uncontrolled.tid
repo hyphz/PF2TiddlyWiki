@@ -1,0 +1,14 @@
+created: 20220724163432738
+modified: 20220724165426184
+title: Uncontrolled
+type: text/vnd.tiddlywiki
+
+Some situations can cause a pilot to lose control of their vehicle. Most commonly, this is due to a failed [[Piloting Check]] for a <<tag Reckless>> action, but it can also occur if a round passes without a pilot using a move action to control the vehicle or [[Stop]]ping the vehicle. 
+
+A vehicle can also become uncontrolled if the pilot becomes unable to act during a move action to control the vehicle. For example, if a vehicle’s movement triggers an [[Attack of Opportunity]] that knocks the pilot [[Unconscious]] or [[paralyzes|Paralyzed]] them, the vehicle becomes uncontrolled.
+
+An uncontrolled vehicle continues to move each round at its most recent pilot’s initiative position. The distance it moves each round is 10 feet less than on the previous round, always in a straight line at its current heading until it crashes or it comes to a stop. At //the GM's// discretion, it could slow down more if it’s on uneven terrain, [[Difficult Terrain]], on an upward slope, or facing adverse wind conditions; by the same token, it could stay at the same speed or even accelerate if it’s on a downward slope or being pushed by strong winds.
+
+An uncontrolled vehicle in motion interacts with obstacles, other vehicles, and creatures using the effects of the [[Run Over]] action, except that the distance it moves is dictated by the factors above instead of the Speed specified in that action.
+
+Attacks made while on a vehicle that has moved within the last round take a –4 penalty if the vehicle is uncontrolled.

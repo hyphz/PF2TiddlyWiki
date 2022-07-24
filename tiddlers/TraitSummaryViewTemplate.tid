@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20220602225000337
+modified: 20220724163356696
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -190,6 +190,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Rare]]">
 <tr><th>[[Rare]]</th><td>You can't gain this unless a plot gives it to you.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Reckless]]">
+<tr><th>[[Reckless]]</th><td>Must succeed at a piloting check or lose control of vehicle.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Secret]]">
 <tr><th>[[Secret]]</th><td>The GM makes the roll for this in secret.</td></tr>

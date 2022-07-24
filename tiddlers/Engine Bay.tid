@@ -1,0 +1,16 @@
+created: 20220724170549336
+feat-arch: [[Vehicle Mechanic]]
+feat-level: 4
+feat-skill: Crafting
+feat-spre: E
+mod-repair: Fix multiple objects if full 10 minutes is spent.
+modified: 20220724170646675
+tags: Feat Archetype Skill
+title: Engine Bay
+type: text/vnd.tiddlywiki
+
+You are practiced at working in vast garages of vehicles and can work on many machines at a time. 
+
+When [[Repair]]ing and spending the full 10 minutes, you can fix up to two objects. If you are a master in Crafting, you can fix up to four targets. If you’re legendary in Crafting, you can fix up to eight targets.
+
+This feat has no effect when using [[Quick Repair]] or another ability to reduce the time spent Repairing.
