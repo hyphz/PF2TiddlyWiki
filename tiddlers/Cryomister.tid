@@ -1,0 +1,28 @@
+created: 20220904215828256
+item-bulk: L
+item-hands: 1
+item-level: 1 5 11 17
+item-price: 30 250 2500 25000
+item-variants: Lesser Moderate Greater Major
+modified: 20220904220256134
+tags: Item Uncommon Consumable Gadget Cold
+title: Cryomister
+type: text/vnd.tiddlywiki
+
+When you Activate ([[Interact]]) a cryomister, you can either place it in an adjacent square or toss it up to 20 feet away. Once you’ve done so, the metallic device instantly disperses a heavy mist, settling quickly on nearby flat surfaces and forming a sheet of ice. 
+
+The cryomister creates a [[Burst]] with a radius depending on the type, making the affected area [[Difficult Terrain]] for 1 minute; at the GM’s discretion, however, this duration might be reduced in unusually hot conditions or increased in unusually cold ones. 
+
+If an affected square takes fire damage, the difficult terrain is removed. 
+
+Though not designed as a weapon, the cryomister’s rapidly cooling mist deals cold splash damage depending on the type to creatures in the area on activation. 
+
+Creatures attempting to move through the affected area can attempt an [[Acrobatics]] check with a DC depending on the type to ignore the difficult terrain and move at their normal Speed. 
+
+Throwing the cryomister onto the surface of a liquid creates a floating piece of ice for the same duration, capable of supporting one or more creatures of the listed size.
+
+| !Type | !Level | !Price | !Burst area | !Acrobatics DC | !Splash damage | !Creatures supported by ice |
+| Lesser | 1 | 30 | 5 foot | 17 | 1 | One creature up to Medium |
+| Moderate | 5 | 250 | 10 foot | 21 | 3 | One Large creature or two Medium or smaller |
+| Greater | 11 | 2500 | 15 foot | 30 | 5 | One Huge creature, two Large, or four Medium or smaller |
+| Major | 17 | 25000 | 20 foot | 39 | 8 | One Gargantuan creature //no larger than a 20-by-20 foot space//, two Huge, four Large, or eight Medium or smaller |

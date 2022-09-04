@@ -1,0 +1,18 @@
+[
+    {
+        "created": "20220904220324861",
+        "text": "This rare gadget uses Stasian technology to grant someone a burst of activity, though its use can be painful. \n\nThe electromuscular stimulator must be carefully attached to you, requiring 1 minute to do so. You can attach an electromuscular stimulator to yourself. \n\nWhen you Activate an attached electromuscular stimulator //(2 [[Interact]] actions)//, roll a [[Crafting]] check, using the Crafting modifier of the creature who attached the stimulator to you, with a DC equal to the standard DC for your level. \n\nThe effects of the activation depend on the result of the Crafting check.\n\n{{||ActionSuccessTable}}\n\n",
+        "title": "Electromuscular Stimulator",
+        "modified": "20220904220608265",
+        "tags": "Item Consumable Gadget Rare",
+        "type": "text/vnd.tiddlywiki",
+        "item-bulk": "1",
+        "item-hands": "1",
+        "item-level": "5",
+        "item-price": "300",
+        "a-crit": "You gain the [[Quickened]] condition for 1 minute and can use the extra action each round only to [[Stride]] or [[Strike]].",
+        "a-hit": "As critical success, but you also take 3 persistent electrical damage.",
+        "a-fail": " You gain the [[Quickened]] condition for 2 rounds and can use the extra action each round only to [[Stride]] or [[Strike]]. You take 3 persistent electrical damage.",
+        "a-fumble": "You take 2d6 electrical damage and 3 persistent electrical damage."
+    }
+]

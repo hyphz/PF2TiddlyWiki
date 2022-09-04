@@ -1,0 +1,24 @@
+created: 20220904221127570
+item-bulk: L
+item-hands: 2
+item-level: 1 6 12 18
+item-price: 40 400 4000 400000
+item-variants: Lesser Moderate Greater Major
+modified: 20220904221352961
+tags: Item Uncommon Consumable Gadget
+title: Explosive Mine
+type: text/vnd.tiddlywiki
+
+When you Activate //(2 [[Interact]] actions)// an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. 
+
+If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use [[Stealth]] to [[Conceal an Object]] before you Activate the mine. If you don’t Conceal the mine, its position is obvious at a glance.
+
+Once activated, the mine is primed to explode when enough pressure is placed on the square where it’s located. Typically, this occurs when a Small or larger creature moves onto the square, though it could happen if a creature intentionally places pressure on the square from a distance to safely trigger the mine. 
+
+Once triggered, the mine explodes, dealing the listed fire damage to any creatures in a 5-foot emanation with a basic [[Reflex]] save.
+
+| !Type | !Level | !Price | !Fire Damage | !Reflex DC |
+| Lesser | 1 | 40 | 2d6 | 15 |
+| Moderate | 6 | 400 | 6d6 | 20 |
+| Greater | 12 | 4000 | 12d6 | 29 |
+| Major | 18 | 40000 | 18d6 in a 10-foot [[Emanation]] | 38 |

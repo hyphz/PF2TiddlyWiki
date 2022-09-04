@@ -1,0 +1,26 @@
+created: 20220904213427986
+item-bulk: 1
+item-hands: 
+item-level: 1 3 7 13 19
+item-price: 40 120 700 6000 80000
+item-variants: Lesser Moderate Greater Major True
+modified: 20220904213651601
+tags: Item Uncommon Consumable Gadget
+title: Ablative Armor Plating
+type: text/vnd.tiddlywiki
+
+''Usage'' attached to armor or traveler’s clothing.
+
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+
+The process of attaching the plating takes 10 minutes and grants the wearer of the armor the listed temporary Hit Points for the stated duration or until lost. 
+
+Removing the plating early destroys it.
+
+| !Type | !Level | !Price | !Temp HP | !Max Duration |
+| Lesser | 1 | 40 | 5 | 1 minute |
+| Moderate | 3 | 120 | 10 | 10 minutes |
+| Greater | 7 | 700 | 20 | 1 hour |
+| Major | 13 | 6000 | 30 | 1 hour |
+| True | 19 | 80000 | 40 | 1 hour |
+

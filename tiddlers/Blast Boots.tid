@@ -1,0 +1,28 @@
+created: 20220904214105120
+item-bulk: L
+item-hands: 
+item-level: 1 3 9 17
+item-price: 30 110 1400 27500
+item-variants: Lesser Moderate Greater Major
+mod-high_jump: No need to stride first and 30-80 extra height.
+mod-leap: Greater: when active, can leap minimum of 30 feet.
+mod-long_jump: No need to stride first and 45-120 extra distance.
+modified: 20220904215026153
+tags: Item Uncommon Consumable Gadget
+title: Blast Boots
+type: text/vnd.tiddlywiki
+
+These sets of rockets come in pairs and strap onto existing footwear (or a creature’s feet). 
+
+Inserting them and aligning them properly takes 1 minute. 
+
+When you Activate the blast boots ([[Interact]]), you can [[High Jump]] or [[Long Jump]], without the need to Stride first. Higher-level versions increase the distance of your High Jump or Long Jump.
+
+//These items are listed with the consumable trait, but it is not explicitly stated when they are used up. Presumably, the boots can be used only once.//
+
+| !Type | !Level | !Price | !Extra High Jump Distance | !Extra Long Jump Distance | !Other |
+| Lesser | 1 | 30 | None | None |None |
+| Moderate | 3 | 110 | +30 feet | +45 feet |None |
+| Greater | 9 | 1400 | +50 feet | +75 feet |For 1 minute, the greater blast boots continue to boost your jumps. Every time you [[Leap]] during the duration, you can move 30 feet in any direction, or your normal Leap distance, whichever is further. |
+| Major | 17 | 27500 | +80 feet | +120 feet |For 1 minute, the major blast boots remain active, allowing you to clumsily fly through the air for the duration. You gain a 30-foot [[Fly]] speed for the duration, but any time you Fly, you are [[Clumsy]] 1 until the start of your next turn. |
+

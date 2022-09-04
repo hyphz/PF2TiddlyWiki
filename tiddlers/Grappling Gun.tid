@@ -1,0 +1,16 @@
+created: 20220904212218033
+item-bulk: 1
+item-hands: 2
+item-level: 0 1
+item-price: 30 150
+item-variants: Standard Clockwork
+modified: 20220904212329855
+tags: Item Uncommon
+title: Grappling Gun
+type: text/vnd.tiddlywiki
+
+This wooden, pistol-like device features a large reel coiled with 100 feet of thin metal cord and can fire a grappling hook up to 100 feet. 
+
+To reload the grappling gun, you must manually recoil the cord by turning the reel’s crank, and then lock in the grappling hook. Reloading a grappling gun takes 1 minute.
+
+//Clockwork Grappling Gun:// Clockwork controls the reel on this grappling gun, reeling the grappling hook back in when you pull a lever. Reloading a clockwork grappling gun takes three [[Interact]] actions.

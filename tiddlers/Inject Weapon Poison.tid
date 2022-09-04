@@ -1,0 +1,9 @@
+a-actions: 1
+a-subactions: Interact
+created: 20220904204051899
+modified: 20220904204128416
+tags: Action Implied
+title: Inject Weapon Poison
+type: text/vnd.tiddlywiki
+
+Immediately after a successful attack with an [[Injection]] weapon, you can inject the target with the loaded poison with a single Interact action. 

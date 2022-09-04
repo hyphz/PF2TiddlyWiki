@@ -1,0 +1,10 @@
+a-actions: 3
+a-hands: 2
+a-subactions: Interact
+created: 20220904204135710
+modified: 20220904204211935
+tags: Action Implied
+title: Refill Injection Weapon
+type: text/vnd.tiddlywiki
+
+Refilling an [[Injection]] weapon with a new substance requires three Interact actions and uses both hands.

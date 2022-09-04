@@ -1,0 +1,11 @@
+created: 20220904204013337
+modified: 20220904204049384
+tags: [[Weapon Trait]]
+title: Injection
+type: text/vnd.tiddlywiki
+
+This weapon can be filled with an injury [[Poison]].
+
+Immediately after a successful attack with the weapon, you can inject the target with the loaded poison with a single [[Interact]] action. 
+
+Refilling the weapon with a new substance requires three [[Interact]] actions and uses both hands.

@@ -1,0 +1,24 @@
+created: 20220904224557427
+item-bulk: L
+item-hands: 1
+item-level: 1 6 10 16
+item-price: 40 350 1800 15000
+item-variants: Lesser Moderate Greater Major
+modified: 20220904225149387
+tags: Item Uncommon Consumable Gadget
+title: Flare Beacon
+type: text/vnd.tiddlywiki
+
+Flare beacons create an incredibly bright light for a brief period of time. They are often used to signal others to the beacon’s location, to coordinate assaults, to request rescue, or for other similar reasons. Higher-level beacons have a radius so large that they can be seen from miles away at night. 
+
+When you [[Activate]] //(2 [[Interact]] actions)/// a flare beacon, you can either place it on the ground in a space within your reach or toss it up to 60 feet straight up. The beacon then sparks into being, casting bright light in a 20-foot radius and dim light in the next 20 feet for 1 minute. 
+
+A flare beacon in the air falls at a rate of 10 feet per round. Creatures adjacent to a flare beacon must succeed at a DC 15 Fortitude save or be dazzled until they are no longer adjacent to it. //(Upgraded beacons have higher dazzling radiuses. These represent both how close a creature must be in order to need to make a save, and the area they must leave in order to no longer be dazzled.)//
+
+//If a beacon is listed as Blinding, creatures who critically fail the Fortitude save against being dazzled are also [[Blinded]] for 1 round.//
+
+| !Type | !Level | !Price | !Bright radius | !Dim radius | !Dazzling radius | !Fortitude DC | !Blinding |
+| Lesser | 1 | 40 | 20 | 20 | Adjacent | 15 | No |
+| Moderate | 6 | 350 | 60 | 60 | 10 | 20 | No |
+| Greater | 10 | 1800 | 100 | 100 | 20 | 27 | Yes |
+| Major | 16 | 15000 | 180 | 180 | 30 | 35 | Yes |

@@ -1,0 +1,30 @@
+created: 20220904213921707
+item-bulk: 1
+item-hands: 
+item-level: 1 3 7 13 19
+item-price: 40 120 700 6000 80000
+item-variants: Lesser Moderate Greater Major True
+modified: 20220904214010781
+tags: Item Uncommon Consumable Gadget
+title: Ablative Shield Plating
+type: text/vnd.tiddlywiki
+
+''Usage'' attached to a shield.
+
+Ablative shield plating is an amalgam device that provides a layer of additional protection for a shield. Ablative shield plating is cobbled together from parts of other shields, wires, scraps, and bits of detritus, adding mass to a shield. 
+
+The process of attaching ablative shield plating takes 10 minutes, and you can’t attach ablative shield plating to a shield that has any other attached item, such as a shield boss or shield spikes.
+
+When the shield is damaged, this additional material crumples, breaks, and falls apart, absorbing some of the energy of the blow. Otherwise, the additional material slowly crumbles over time. 
+
+Applying the plating grants the shield temporary Hit Points that last for the stated duration or until lost. 
+
+Removing the plating early destroys it.
+
+| !Type | !Level | !Price | !Temp HP | !Max Duration |
+| Lesser | 1 | 40 | 5 | 1 minute |
+| Moderate | 3 | 120 | 10 | 10 minutes |
+| Greater | 7 | 700 | 20 | 1 hour |
+| Major | 13 | 6000 | 30 | 1 hour |
+| True | 19 | 80000 | 40 | 1 hour |
+

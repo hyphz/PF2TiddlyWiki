@@ -1,5 +1,5 @@
 created: 20210207203857246
-modified: 20210824170738291
+modified: 20220904212449795
 tags: 
 title: Item
 type: text/vnd.tiddlywiki
@@ -7,8 +7,8 @@ type: text/vnd.tiddlywiki
 See also [[Rune]]s.
 
 <table>
-<tr><th>Level</th><th>Items</th><th>Price</th></tr>
-<$list filter="[range[1,20]]" variable="level">
+<tr><th>Level</th><th>Items</th><th>Price (sp)</th></tr>
+<$list filter="[range[0,20]]" variable="level">
 <tr><th><<level>></th>
 <td>
 <$list filter="[tag[Item]contains:item-level<level>sort[]]">

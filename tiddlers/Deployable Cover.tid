@@ -1,0 +1,18 @@
+created: 20220904211957853
+item-bulk: 1
+item-hands: 2
+item-level: 1 2
+item-price: 150 350
+item-variants: Standard Ballistic
+modified: 20220904212109200
+tags: Item Uncommon
+title: Deployable Cover
+type: text/vnd.tiddlywiki
+
+This thick mat of canvas, foliage, and wood is mounted on a tripod of flexible metal struts, folded into a batonlike shape, and clamped shut. 
+
+You can rapidly deploy it on the ground with an [[Interact]] action to create cover. Deployable  cover is large enough to [[Take Cover]] behind, allowing you (and others) to gain standard [[Cover]] when you use the Take Cover action. 
+
+Before it can be used again, deployable cover must be carefully folded and clamped shut, which takes 1 minute.
+
+Specially crafted to protect against bullet fire, a ballistic cover also works against other physical projectiles, such as arrows, bolts, and thrown weapons. While a creature has cover from Taking Cover behind a ballistic cover, it gains resistance 2 to piercing damage from ranged weapons and ranged unarmed attacks.

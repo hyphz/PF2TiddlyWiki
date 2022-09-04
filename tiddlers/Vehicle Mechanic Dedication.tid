@@ -6,9 +6,9 @@ feat-spre: T
 feat-statpre: Intelligence
 feat-statprel: 14
 mod-piloting_check: +1-2 circumstance in signature vehicle.
-modified: 20220724170356111
+modified: 20220904203603595
 tags: Feat Dedication Uncommon
-title: Vehicle Mechanic
+title: Vehicle Mechanic Dedication
 type: text/vnd.tiddlywiki
 
 You are adept at designing and maintaining mechanical vehicles, and you lavish your attention and ingenuity on one vehicle in particular. 

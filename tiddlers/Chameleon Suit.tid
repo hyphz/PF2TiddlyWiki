@@ -1,0 +1,24 @@
+created: 20220904214838348
+item-bulk: L
+item-hands: 
+item-level: 4 8 12
+item-price: 160 800 3200
+item-variants: Standard Greater Major
+mod-hide: Doesn't need cover or concealment.
+modified: 20220904215318042
+tags: Item Uncommon Consumable Gadget Clockwork
+title: Chameleon Suit
+type: text/vnd.tiddlywiki
+
+This complex clockwork outerwear, worn over armor or other clothing, is composed of thin, interlocking scales of myriad colors attached to numerous clockwork gears that can rotate between all visible colors and shades.
+
+When activated (//2 [[Interact]] actions//), the clockwork gears work double-time to temporarily switch and adjust the scales to match the exact coloration of the area around you, allowing you to blend in as long as you stay still. 
+
+For the duration, you can [[Hide]] without needing [[Cover]] or [[Concealment|Concealed]] to do so. This doesn’t allow you to [[Sneak]] without ending your movement in cover or concealment, however, as the clockwork flips over and adjusts the scales to match your background as you move, giving the impression of rippling waves of color and revealing your movement. 
+
+Once the duration expires, the overworked clockwork and scales fall apart.
+
+| !Type | !Level | !Price | !Duration |
+| Standard | 4 | 160 | 1 minute |
+| Greater | 8 | 800 | 10 minutes |
+| Major | 12 | 3200 | 1 hour |

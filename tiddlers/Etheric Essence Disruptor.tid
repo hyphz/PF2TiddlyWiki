@@ -1,0 +1,22 @@
+created: 20220904220748036
+item-bulk: 1
+item-hands: 1
+item-level: 3 7 11 15
+item-price: 600 3600 14000 65000
+item-variants: Lesser Moderate Greater Major
+modified: 20220904221059995
+tags: Item Uncommon Consumable Gadget
+title: Etheric Essence Disruptor
+type: text/vnd.tiddlywiki
+
+An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. 
+
+Upon activation //(2 [[Interact]] actions)//, attempt to [[Counteract]] an active divine or occult spell within the listed range, with the listed counteract modifier and counteract level.
+
+//These items are listed with the consumable trait, but it is not explicitly stated when they are used up. Presumably, the device can be used only once.//
+
+| !Type | !Level | !Price | !Range | !Counteract Modifier | !Counteract Level |
+| Lesser | 3 | 600 | 30 feet | +7 | 2 |
+| Moderate | 7 | 3600 | 40 feet | +13 | 4 |
+| Greater | 11 | 14000 | 60 feet | +18 | 6 |
+| Major | 15 | 65000 | 90 feet | +24 | 8 |
