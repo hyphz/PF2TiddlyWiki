@@ -1,0 +1,21 @@
+a-actions: 1
+a-crit: This movement doesn’t trigger reactions from the foe, the foe is [[Flat-Footed]] to you until the end of your turn, and you gain [[Panache]].
+a-defense: Reflex
+a-fail: //Your movement still triggers reactions from the foe as normal.//
+a-fumble: Your movement immediately stops when you enter the creature’s reach; if you began in the creature’s reach, you don’t move.
+a-hit: This movement doesn’t trigger reactions from the foe, and you gain [[Panache]].
+a-skill: Acrobatics
+a-subactions: Stride
+created: 20221002164121220
+feat-class: Swashbuckler
+feat-level: 6
+modified: 20221002164407060
+tags: Feat Class Swashbuckler Action
+title: Vexing Tumble
+type: text/vnd.tiddlywiki
+
+You tumble around your foes, expertly avoiding their reactions. 
+
+[[Stride]] up to half your Speed and roll an [[Acrobatics]] check. Compare the result to the [[Reflex]] DC of each foe whose reach you began in or enter during the movement, in sequence.
+
+{{||ActionSuccessTable}}

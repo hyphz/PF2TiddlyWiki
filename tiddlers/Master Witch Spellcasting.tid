@@ -1,0 +1,12 @@
+created: 20221002185503983
+feat-arch: Witch
+feat-fpre: [[Expert Witch Spellcasting]]
+feat-level: 18
+modified: 20221002185529459
+tags: Feat Archetype
+title: Master Witch Spellcasting
+type: text/vnd.tiddlywiki
+
+To take this feat, you must be Legendary in the skill associated with your patron's tradition.
+
+{{MulticlassMasterSpellcasting}}

@@ -1,5 +1,5 @@
 created: 20200706233729775
-modified: 20200706233802651
+modified: 20221002173221008
 tags: [[Weapon Trait]]
 title: Deadly
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ On a critical hit, the weapon adds a weapon damage die of the listed size.
 
 Roll this after doubling the weapon’s damage. 
 
-This increases to two dice if the weapon has a [[Greater Striking]] rune and three dice if the weapon has a [[Major Striking]] rune. 
+This increases to two dice if the weapon has a Greater [[Striking]] rune and three dice if the weapon has a Major [[Striking]] rune. 
 
 For instance, a rapier with a greater striking rune deals 2d8 extra piercing damage on a critical hit. 
 

@@ -1,0 +1,12 @@
+created: 20221002154534308
+feat-class: Swashbuckler
+feat-level: 1
+mod-raise_a_shield: Buckler gives +2, not +1.
+modified: 20221002154619864
+tags: Feat Class Swashbuckler
+title: Buckler Expertise
+type: text/vnd.tiddlywiki
+
+You’ve learned a flexible way to position your buckler to provide more protection. 
+
+When you [[Raise a Shield]] to gain a circumstance bonus to AC from a buckler, increase the bonus from +1 to +2.

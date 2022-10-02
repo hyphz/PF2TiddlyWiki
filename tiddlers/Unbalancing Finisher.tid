@@ -1,0 +1,12 @@
+a-actions: 1
+created: 20221002161243991
+feat-class: Swashbuckler
+feat-level: 2
+modified: 20221002161320177
+tags: Feat Class Swashbuckler Action Finisher
+title: Unbalancing Finisher
+type: text/vnd.tiddlywiki
+
+You attack with a flashy assault that leaves your target off balance. 
+
+Make a melee [[Strike]]. If you hit and deal damage, the target is [[Flat-Footed]] until the end of your next turn.

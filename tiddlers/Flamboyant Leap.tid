@@ -1,0 +1,22 @@
+a-actions: 2
+a-subactions: Leap [[High Jump]] [[Long Jump]]
+created: 20221002170509796
+feat-class: Swashbuckler
+feat-fpre: [[Flamboyant Athlete]]
+feat-level: 14
+feat-skill: Athletics
+feat-spre: M
+modified: 20221002170725672
+tags: Feat Class Swashbuckler Action
+title: Flamboyant Leap
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are capable of using a finisher.
+
+You stylishly leap and deliver a powerful finisher. 
+
+Make a [[Leap]], [[High Jump]], or [[Long Jump]] and attempt one single-action finisher at any point during your jump; the finisher can’t be one that includes other movement, such as [[Mobile Finisher]].
+
+Immediately after the finisher, you fall to the ground if you’re in the air, even if you haven’t reached the maximum distance of your jump. If the distance you fall is no more than the height of your jump, you take no damage and land upright. 
+
+When attempting a High Jump or Long Jump during a Flamboyant Leap, determine the DC using the Long Jump DCs, and increase the maximum distance to double your Speed, rather than just your Speed.

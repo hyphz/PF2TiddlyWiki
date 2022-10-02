@@ -1,0 +1,13 @@
+a-actions: 1
+a-subactions: Strike
+created: 20221002182759041
+modified: 20221002182909190
+tags: Action Swashbuckler Finisher
+title: Basic Finisher
+type: text/vnd.tiddlywiki
+
+You make a graceful, deadly attack. 
+
+Make a [[Strike]]; if you hit and your weapon qualifies for [[Precise Strike]], you deal the full 1d6 damage from precise strike.
+
+//This action is only used by [[Swashbuckler Dedication]] characters. Actual Swashbucklers have better finisher actions.//

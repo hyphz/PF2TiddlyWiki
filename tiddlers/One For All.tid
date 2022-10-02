@@ -1,0 +1,17 @@
+a-actions: 1
+created: 20221002160007657
+feat-class: Swashbuckler
+feat-level: 1
+feat-skill: Diplomacy
+feat-spre: T
+mod-aid: Counts as preparation, and can roll Diplomacy to aid with anything.
+modified: 20221002160132309
+tags: Feat Class Swashbuckler Auditory Concentrate Emotion Linguistic Mental Action
+title: One For All
+type: text/vnd.tiddlywiki
+
+With precisely the right words of encouragement, you bolster an ally’s efforts. 
+
+Designate an ally within 30 feet; this action counts as sufficient preparation to [[Aid]] that ally. When you use the Aid reaction to help that ally, you can roll [[Diplomacy]] in place of the usual check. 
+
+If your swashbuckler’s style is [[Wit]] and your Diplomacy check to Aid meets or exceeds the very hard DC for your level, you gain [[Panache]].

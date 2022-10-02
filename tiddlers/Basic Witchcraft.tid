@@ -1,0 +1,13 @@
+created: 20221002184025473
+feat-arch: Witch
+feat-level: 4
+modified: 20221002184047823
+tags: Feat Archetype
+title: Basic Witchcraft
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Witch feat of your choice. 
+
+Your familiar no longer has one less familiar ability than normal.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Witch]]">>

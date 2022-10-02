@@ -1,0 +1,25 @@
+created: 20221002182154143
+feat-abpre: Charisma Dexterity
+feat-abprel: 14
+feat-arch: Swashbuckler
+feat-level: 2
+modified: 20221002182540962
+tags: Feat Dedication Multiclass
+title: Swashbuckler Dedication
+type: text/vnd.tiddlywiki
+
+Choose a swashbuckler style. 
+
+You gain the [[Panache]] class feature (page 84), and you can gain panache in all the ways a swashbuckler of your style can. 
+
+You become trained in [[Acrobatics]] or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice.
+
+You also become trained in swashbuckler class DC. 
+
+You don’t gain any other effects of your chosen style.
+
+!! Styles
+
+<$list filter="[tag[Swashbuckler]tag[Splat]]" />
+
+<<levelfeatlist "4 6 8 12" "[tag[Archetype]contains:feat-arch[Swashbuckler]]">>

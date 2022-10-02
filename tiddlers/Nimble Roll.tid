@@ -1,10 +1,10 @@
 created: 20201031173854150
-feat-class: Rogue
+feat-class: Rogue Swashbuckler
 feat-fpre: [[Nimble Dodge]]
 feat-level: 8
 mod-nimble_dodge: Dodge Reflex saves, and can Stride on successful dodges.
-modified: 20201031174105381
-tags: Feat Class Rogue
+modified: 20221002165001721
+tags: Feat Class Rogue Swashbuckler
 title: Nimble Roll
 type: text/vnd.tiddlywiki
 

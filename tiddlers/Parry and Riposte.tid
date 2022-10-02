@@ -1,0 +1,13 @@
+created: 20221002173847750
+feat-class: Swashbuckler
+feat-fpre: [[Opportune Riposte]]
+feat-level: 18
+mod-opportune_riposte: Can use against enemies who fail, not fumble, in certain circumstances.
+modified: 20221002173958772
+tags: Feat Class Swashbuckler
+title: Parry and Riposte
+type: text/vnd.tiddlywiki
+
+Your parries and finishers allow you to riposte with the slightest provocation. 
+
+You can use [[Opportune Riposte]] against an enemy who fails at a [[Strike]] against you (not just critically fails), provided you have both damaged that creature with a finisher on your last turn, and currently have a circumstance bonus to AC from the [[Parry]] weapon trait, [[Dueling Parry]], or [[Twin Parry]].

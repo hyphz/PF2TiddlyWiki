@@ -1,0 +1,17 @@
+created: 20221002174321398
+feat-abpre: Intelligence
+feat-abprel: 14
+feat-arch: Investigator
+feat-level: 2
+modified: 20221002175256439
+tags: Feat Dedication Multiclass
+title: Investigator Dedication
+type: text/vnd.tiddlywiki
+
+You gain the on the case class feature, which grants you both the [[Pursue a Lead]] activity and [[Clue In]] reaction. 
+
+You become trained in [[Society]] and another skill of your choice. If you were already trained in Society, you instead become trained in an additional skill of your choice. 
+
+You also become trained in investigator class DC.
+
+<<levelfeatlist "4 6 8 12" "[tag[Archetype]contains:feat-arch[Investigator]]">>

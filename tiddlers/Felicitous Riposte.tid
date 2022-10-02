@@ -1,0 +1,12 @@
+created: 20221002173346264
+feat-class: Swashbuckler
+feat-level: 16
+mod-opportune_riposte: Take best of 2 attack rolls.
+modified: 20221002173432086
+tags: Feat Class Swashbuckler Fortune
+title: Felicitous Riposte
+type: text/vnd.tiddlywiki
+
+You take advantage of your foe’s openings with uncanny odds. 
+
+When you make an [[Opportune Riposte]], roll twice on the attack roll and take the better result.

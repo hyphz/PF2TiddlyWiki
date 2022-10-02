@@ -1,0 +1,11 @@
+created: 20221002180242438
+feat-arch: Oracle
+feat-level: 4
+modified: 20221002180311009
+tags: Feat Archetype
+title: Basic Mysteries
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level oracle feat of your choice.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Oracle]]">>

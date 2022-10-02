@@ -1,0 +1,14 @@
+created: 20221002182952001
+feat-arch: Swashbuckler
+feat-fpre: [[Basic Flair]]
+feat-level: 6
+modified: 20221002183047410
+tags: Feat Archetype
+title: Advanced Flair
+type: text/vnd.tiddlywiki
+
+You gain one swashbuckler feat. 
+
+For the purpose of meeting its prerequisites, your swashbuckler level is equal to half your character level.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Swashbuckler]]">>

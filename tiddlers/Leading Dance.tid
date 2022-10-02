@@ -1,0 +1,26 @@
+a-actions: 1
+a-crit: Your foe is swept up in your dance. You both move up to 10 feet in the same direction, remaining adjacent to one another. Your movement doesn’t trigger reactions from the target (and the target’s movement doesn’t trigger reactions, because it’s forced movement).
+a-defense: Will
+a-fail: The foe doesn't follow your steps. You can move 5 feet if you choose, but this movement triggers reactions normally.
+a-fumble: You stumble, falling [[Prone]] in your space.
+a-hit: As critical success, but you both move only 5 feet.
+a-skill: Performance
+created: 20221002161857679
+feat-class: Swashbuckler
+feat-level: 4
+feat-skill: Performance
+feat-spre: T
+modified: 20221002162139727
+tags: Feat Class Swashbuckler Action Move
+title: Leading Dance
+type: text/vnd.tiddlywiki
+
+''Requirements'' You are adjacent to an enemy.
+
+You sweep your foe into your dance. 
+
+Attempt a [[Performance]] check against an adjacent enemy’s [[Will]] DC. 
+
+If your swashbuckler’s style is [[Battledancer]] and you succeed, you gain [[Panache]].
+
+{{||ActionSuccessTable}}

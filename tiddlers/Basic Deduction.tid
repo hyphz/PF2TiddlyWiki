@@ -1,0 +1,11 @@
+created: 20221002174504518
+feat-arch: Investigator
+feat-level: 4
+modified: 20221002174526568
+tags: Feat Archetype
+title: Basic Deduction
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Investigator feat of your choice.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Investigator]]">>

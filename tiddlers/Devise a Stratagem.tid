@@ -1,6 +1,6 @@
 a-actions: 1
 created: 20201003160308279
-modified: 20201003160413266
+modified: 20221002174658463
 tags: Action Concentrate Fortune Investigator
 title: Devise a Stratagem
 type: text/vnd.tiddlywiki
@@ -15,6 +15,6 @@ If you [[Strike]] the chosen creature later this round, you must use the result 
 
 You make this substitution only for the first Strike you make against the creature this round, not any subsequent attacks.
 
-When you make this substitution, you can also add your [[Intelligence]] modifier to your attack roll instead of your [[Strength]] or [[Dexterity]] modifier, provided your [[Strike]] uses an [[Agile]] or [[Finesse]] melee weapon, an [[Agile]] or [[Finesse]] unarmed attack, a ranged weapon (which must be [[Agile]] or [[Finesse]] if it’s a melee weapon with the [[Thrown]] trait), or a [[Sap]].
+//If you are an Investigator as your main class, rather than having [[Investigator Dedication]], then// when you make this substitution, you can also add your [[Intelligence]] modifier to your attack roll instead of your [[Strength]] or [[Dexterity]] modifier, provided your [[Strike]] uses an [[Agile]] or [[Finesse]] melee weapon, an [[Agile]] or [[Finesse]] unarmed attack, a ranged weapon (which must be [[Agile]] or [[Finesse]] if it’s a melee weapon with the [[Thrown]] trait), or a [[Sap]].
 
 If you’re aware that the creature you choose is the subject of a lead you’re pursuing, you can use this ability as a free action.

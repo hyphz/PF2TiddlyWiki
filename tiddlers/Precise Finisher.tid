@@ -1,0 +1,13 @@
+created: 20221002163955469
+feat-class: Swashbuckler
+feat-fpre: [[Confident Finisher]]
+feat-level: 6
+mod-confident_finisher: Failure does full damage, not half.
+modified: 20221002164051099
+tags: Feat Class Swashbuckler
+title: Precise Finisher
+type: text/vnd.tiddlywiki
+
+Even when your foe avoids your [[Confident Finisher]], you can still hit a vital spot. 
+
+On a failure with Confident Finisher, you apply your full [[Precise Strike]] damage instead of half.

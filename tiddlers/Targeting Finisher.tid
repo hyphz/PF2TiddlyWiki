@@ -1,0 +1,19 @@
+a-actions: 1
+a-subactions: Strike
+created: 20221002165821791
+feat-class: Swashbuckler
+feat-level: 10
+modified: 20221002170221783
+tags: Feat Class Swashbuckler Action Finisher
+title: Targeting Finisher
+type: text/vnd.tiddlywiki
+
+Your attack harms and hinders your foe. 
+
+Choose a particular part of your foe from the list below and [[Strike]]. If you hit and damage the target, apply the effect corresponding to the chosen part. This hindrance lasts until the end of your next turn. 
+
+On a critical hit, you also apply a lesser effect lasting for 1 minute.
+
+* ''Arm'' (or another limb used for attacks, such as a tentacle): The target is [[Enfeebled]] 2. On a critical hit, it is also [[Enfeebled]] 1 for 1 minute.
+* ''Head'' The target is [[Stupefied]] 2. On a critical hit, it is also [[Stupefied]] 1 for 1 minute.
+* ''Legs'' The target takes a –10-foot status penalty to its Speeds. On a critical hit, it also takes a –5-foot status penalty to its Speeds for 1 minute.

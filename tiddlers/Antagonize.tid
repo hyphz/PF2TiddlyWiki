@@ -1,0 +1,12 @@
+created: 20221002160605805
+feat-class: Swashbuckler
+feat-level: 2
+mod-demoralize: Frightened can't be lost until you're attacked or unobserved.
+modified: 20221002160703303
+tags: Feat Class Swashbuckler
+title: Antagonize
+type: text/vnd.tiddlywiki
+
+Your taunts and threats earn your foes ire. 
+
+When you successfully [[Demoralize]] a creature, its [[Frightened]] condition can’t decrease to less than 1 at the end of its turn until it either uses a [[Hostile Action]] against you or can no longer observe or sense you for at least 1 round.

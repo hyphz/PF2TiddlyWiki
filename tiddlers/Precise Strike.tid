@@ -1,5 +1,5 @@
 created: 20200806224356880
-modified: 20200806224510512
+modified: 20221002182747129
 tags: Ability Swashbuckler
 title: Precise Strike
 type: text/vnd.tiddlywiki
@@ -11,6 +11,8 @@ When you have [[Panache]] and you [[Strike]] with an [[Agile]] or [[Finesse]] me
 If the strike is part of a <<tag Finisher>>, the additional damage is 2d6 precision damage instead.
 
 As your swashbuckler level increases, so does your additional damage for precise strike. Increase the amount of additional damage on a [[Strike]] and the number of additional dice on a finisher by one at 5th, 9th, 13th, and 17th levels.
+
+If you have [[Swashbuckler Dedication]], you deal 1 additional precision damage on a hit and 1d6 on a finisher, and these do not increase as you gain level.
 
 | !Level | !Extra Dice |
 | 1 | 2d6 |

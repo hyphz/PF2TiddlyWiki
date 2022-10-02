@@ -1,0 +1,11 @@
+created: 20221002180333599
+feat-arch: Oracle
+feat-level: 4
+modified: 20221002180402907
+tags: Feat Archetype
+title: Basic Oracle Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicSpellcasting}}
+
+Each time you gain a spell slot of a new level from the Oracle archetype, add a common Divine spell or another Divine spell you learned or discovered to your repertoire, of the appropriate spell level.

@@ -1,0 +1,18 @@
+created: 20221002160738002
+feat-class: Swashbuckler
+feat-level: 2
+feat-statpre: Charisma
+feat-statprel: 14
+mod-fortitude: +2 circumstance.
+mod-reflex: +2 circumstance.
+mod-will: +2 circumstance.
+modified: 20221002160955020
+tags: Feat Class Swashbuckler Action Reaction
+title: Charmed Life
+type: text/vnd.tiddlywiki
+
+''Trigger'' You attempt a saving throw, but you haven’t rolled yet.
+
+When danger calls, you have a strange knack for coming out on top. 
+
+You gain a +2 circumstance bonus to the triggering save.

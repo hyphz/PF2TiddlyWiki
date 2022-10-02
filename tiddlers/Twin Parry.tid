@@ -2,10 +2,10 @@ a-actions: 1
 created: 20201010135855641
 feat-archadd: [[Dual-Weapon Warrior]]
 feat-archlevel: 6
-feat-class: Fighter Ranger
+feat-class: Fighter Ranger Swashbuckler
 feat-level: 4
-modified: 20201206181910068
-tags: Feat Class Fighter Action Ranger
+modified: 20221002162324656
+tags: Feat Class Fighter Action Ranger Swashbuckler
 title: Twin Parry
 type: text/vnd.tiddlywiki
 

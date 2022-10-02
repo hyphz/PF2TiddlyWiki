@@ -1,0 +1,11 @@
+created: 20221002183907773
+feat-arch: Witch
+feat-level: 4
+modified: 20221002184013227
+tags: Feat Archetype
+title: Basic Witch Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicSpellcasting}}
+
+Each time you gain a spell slot of a new level from the Witch archetype, add two common spells of that level to your familiar.

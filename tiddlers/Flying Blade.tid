@@ -1,0 +1,14 @@
+created: 20221002155403085
+feat-class: Swashbuckler
+feat-level: 1
+mod-precise_strike: Works with agile/finesse thrown weapons at short range with panache.
+modified: 20221002155510031
+tags: Feat Class Swashbuckler
+title: Flying Blade
+type: text/vnd.tiddlywiki
+
+You’ve learned to apply your flashy techniques to thrown weapons as easily as melee attacks. 
+
+When you have [[Panache]], you apply your [[Precise Strike]] damage on ranged Strikes you make with a thrown weapon within that weapon’s first range increment. The thrown weapon must be an [[Agile]] or [[Finesse]] weapon. 
+
+This also allows you to make a thrown weapon ranged Strike for [[Confident Finisher]] and any other finisher that includes a Strike that can benefit from your precise strike.

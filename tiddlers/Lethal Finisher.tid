@@ -1,0 +1,25 @@
+a-actions: 1
+a-defense: Fortitude
+a-subactions: Strike
+created: 20221002173651633
+feat-class: Swashbuckler
+feat-level: 18
+modified: 20221002173831658
+s-crit: You deal 6 precision damage.
+s-fail: You deal 12d6 precision damage.
+s-fumble: You deal 18d6 precision damage.
+s-hit: You deal 6d6 precision damage.
+tags: Feat Class Swashbuckler Action Finisher Death
+title: Lethal Finisher
+type: text/vnd.tiddlywiki
+
+''Requirements'' [[Precise Strike]] 6d6.
+
+You stab your foe in a vital organ, possibly killing them outright. 
+
+Make a [[Strike]]. On a success, you forego your [[Precise Strike]] damage from the finisher. Instead, your target takes additional precision damage based on a [[Fortitude]] save against
+your class DC. 
+
+If your Strike was a critical hit, the target’s saving throw outcome is one degree worse.
+
+{{||SaveSuccessTable}}

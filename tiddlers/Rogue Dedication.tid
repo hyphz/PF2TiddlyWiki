@@ -3,7 +3,7 @@ feat-abpre: Dexterity
 feat-abprel: 14
 feat-arch: Rogue
 feat-level: 2
-modified: 20201205155441481
+modified: 20221002175217045
 tags: Feat Dedication Multiclass
 title: Rogue Dedication
 type: text/vnd.tiddlywiki
@@ -16,4 +16,4 @@ In addition, you become trained in [[Stealth]] or [[Thievery]] plus one skill of
 
 You become trained in rogue class DC.
 
-<<levelfeatlist "4 6 8 10 12" "[tag[Archetype]field:feat-arch[Rogue]]">>
+<<levelfeatlist "4 6 8 10 12" "[tag[Archetype]contains:feat-arch[Rogue]]">>

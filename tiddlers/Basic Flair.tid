@@ -1,0 +1,11 @@
+created: 20221002182559033
+feat-arch: Swashbuckler
+feat-level: 4
+modified: 20221002182623743
+tags: Feat Archetype
+title: Basic Flair
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Swashbuckler feat of your choice.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Swashbuckler]]">>

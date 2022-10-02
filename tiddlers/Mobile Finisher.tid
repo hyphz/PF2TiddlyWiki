@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike Stride
+created: 20221002170411138
+feat-class: Swashbuckler
+feat-level: 12
+modified: 20221002170455009
+tags: Feat Class Swashbuckler Action Finisher
+title: Mobile Finisher
+type: text/vnd.tiddlywiki
+
+You attack in motion. 
+
+[[Stride]] and then [[Strike]]. 
+
+You can use Mobile Finisher while [[Burrow]]ing, [[Climb]]ing, [[Fly]]ing, or [[Swim]]ming instead of Striding if you have the corresponding movement type.

@@ -1,0 +1,31 @@
+created: 20221002183725843
+feat-abpre: Intelligence
+feat-abprel: 14
+feat-arch: Witch
+feat-level: 2
+modified: 20221002183844745
+tags: Feat Dedication Multiclass
+title: Witch Dedication
+type: text/vnd.tiddlywiki
+
+You cast spells like a witch. 
+
+Choose a patron; you gain a [[Familiar]] with two common cantrips of your choice from your chosen patron’s tradition, but aside from the tradition, you don’t gain any other effects the patron would usually grant. 
+
+Your familiar has one less familiar ability than normal. 
+
+You gain the [[Cast a Spell]] activity. 
+
+You can prepare one cantrip each day from your familiar. 
+
+You’re trained in spell attack rolls and spell DCs from your patron’s tradition. 
+
+Your key spellcasting ability for witch archetype spells is [[Intelligence]], and they are witch spells of your patron’s tradition. 
+
+You become trained in the skill associated with the patron’s tradition; if you were already trained in it, you instead become trained in a skill of your choice.
+
+!! Patrons
+
+<$list filter="[tag[Witch]tag[Splat]]" />
+
+<<levelfeatlist "4 6 8 12 18" "[tag[Archetype]contains:feat-arch[Witch]]">>

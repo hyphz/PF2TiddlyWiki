@@ -1,0 +1,12 @@
+created: 20221002180843384
+feat-arch: Oracle
+feat-fpre: [[Expert Oracle Spellcasting]]
+feat-level: 18
+feat-skill: Religion
+feat-spre: L
+modified: 20221002180904382
+tags: Feat Archetype
+title: Master Oracle Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassMasterSpellcasting}}

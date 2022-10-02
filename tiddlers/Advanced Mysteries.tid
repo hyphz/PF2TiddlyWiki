@@ -1,0 +1,14 @@
+created: 20221002180534758
+feat-arch: Oracle
+feat-fpre: [[Basic Mysteries]]
+feat-level: 6
+modified: 20221002180558359
+tags: Feat Archetype
+title: Advanced Mysteries
+type: text/vnd.tiddlywiki
+
+You gain one Oracle feat. 
+
+For the purpose of meeting its prerequisites, your Oracle level is equal to half your character level.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Oracle]]">>

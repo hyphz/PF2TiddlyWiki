@@ -1,0 +1,16 @@
+created: 20221002163646490
+feat-class: Swashbuckler
+feat-level: 6
+feat-skill: Athletics
+feat-spre: E
+mod-grapple: Multiple Attack Penalty reduced.
+mod-shove: Multiple Attack Penalty reduced.
+mod-trip: Multiple Attack Penalty reduced.
+modified: 20221002163805894
+tags: Feat Class Swashbuckler
+title: Agile Maneuvers
+type: text/vnd.tiddlywiki
+
+//You// easily maneuver against your foes. 
+
+Your [[Grapple]], [[Shove]], and [[Trip]] actions have a lower [[Multiple Attack Penalty]]: –4 instead of –5 if they’re the second attack on your turn, or –8 instead of –10 if they’re the third or subsequent attack on your turn.

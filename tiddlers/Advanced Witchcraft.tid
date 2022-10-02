@@ -1,0 +1,11 @@
+created: 20221002184106025
+feat-arch: Witch
+feat-level: 6
+modified: 20221002184140131
+tags: Feat Archetype
+title: Advanced Witchcraft
+type: text/vnd.tiddlywiki
+
+You gain one witch feat. For the purpose of meeting its prerequisites, your witch level is equal to half your character level.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Witch]]">>

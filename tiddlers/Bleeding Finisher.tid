@@ -1,0 +1,15 @@
+a-actions: 1
+a-subactions: Strike
+created: 20221002164432272
+feat-class: Swashbuckler
+feat-level: 8
+modified: 20221002164533656
+tags: Feat Class Swashbuckler Action Finisher
+title: Bleeding Finisher
+type: text/vnd.tiddlywiki
+
+Your blow inflicts profuse bleeding. 
+
+Make a slashing or piercing [[Strike]] with a weapon or unarmed attack that allows you to add your [[Precise Strike]] damage. 
+
+If you hit, the target also takes [[persistent|Persistent Damage]] bleed damage equal to your precise strike finisher damage.

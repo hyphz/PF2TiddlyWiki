@@ -1,0 +1,12 @@
+created: 20221002185353130
+feat-arch: Witch
+feat-fpre: [[Basic Witch Spellcasting]]
+feat-level: 12
+modified: 20221002185447926
+tags: Feat Archetype
+title: Expert Witch Spellcasting
+type: text/vnd.tiddlywiki
+
+To take this feat, you must be Master in the skill associated with your patron's tradition.
+
+{{MulticlassExpertSpellcasting}}

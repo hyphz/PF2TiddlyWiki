@@ -1,0 +1,19 @@
+a-actions: 1
+a-subactions: Strike
+created: 20221002164559067
+feat-class: Swashbuckler
+feat-level: 8
+modified: 20221002164635654
+tags: Feat Class Swashbuckler Action Finisher
+title: Dual Finisher
+type: text/vnd.tiddlywiki
+
+''Requirements'' You wield two melee weapons, one in each hand.
+
+You split your attacks. 
+
+Make two melee Strikes, one with each required weapon, each against a different foe. 
+
+If the second Strike is made with a non-agile weapon, it takes a –2 penalty. 
+
+Increase your multiple attack penalty only after attempting both Strikes.

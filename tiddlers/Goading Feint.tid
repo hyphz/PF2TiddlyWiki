@@ -1,0 +1,20 @@
+created: 20221002155726948
+feat-class: Swashbuckler
+feat-level: 1
+feat-skill: Deception
+feat-spre: T
+mod-feint: Gives extra options for success or critical.
+modified: 20221002155852517
+tags: Feat Class Swashbuckler
+title: Goading Feint
+type: text/vnd.tiddlywiki
+
+When you trick a foe, you can goad them into overextending their next attack. 
+
+On a [[Feint]], you can use the following success and critical success effects instead of any other effects you would gain when you Feint; if you do, other abilities that adjust the normal effects of your Feint no longer apply. 
+
+You can choose whether to use the Goading Feint benefits or the normal benefits each time you Feint a given foe.
+
+''Critical Success'' The target takes a –2 circumstance penalty to all attack rolls against you before the end of its next turn.
+
+''Success'' The target takes a –2 circumstance penalty to its next attack roll against you before the end of its next turn.
