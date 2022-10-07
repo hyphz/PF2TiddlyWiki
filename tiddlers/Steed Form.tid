@@ -1,0 +1,15 @@
+created: 20221007174330724
+feat-class: Summoner
+feat-level: 2
+modified: 20221007174547609
+tags: Feat Class Evolution Summoner
+title: Steed Form
+type: text/vnd.tiddlywiki
+
+Your eidolon changes to make it particularly effective as your mount. 
+
+While you ride it, you get your full number of actions each round instead of reducing them to 2. This applies only when you ride your eidolon, not when anyone else does.
+
+Your eidolon still must be at least one size category larger than you to ride it. 
+
+Since you work together to move, your eidolon’s <<tag Move>> actions while you’re mounted gain the <<tag Tandem>> trait.

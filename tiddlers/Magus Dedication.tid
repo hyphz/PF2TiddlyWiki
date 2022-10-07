@@ -1,0 +1,28 @@
+created: 20221007191206482
+feat-abpre: Strength Dexterity Intelligence
+feat-abprel: 14 14 14
+feat-arch: Magus
+feat-level: 2
+modified: 20221007191455166
+tags: Feat Dedication Multiclass
+title: Magus Dedication
+type: text/vnd.tiddlywiki
+
+You cast spells like a [[Magus]], gaining a spellbook with four common arcane cantrips of your choice. 
+
+You gain the [[Cast a Spell]] activity. 
+
+You can prepare two cantrips each day from your spellbook. 
+
+Each time you gain a spell slot of a new level from the magus archetype, add a spell of that level or lower to your spellbook. 
+
+You’re trained in arcane spell attack rolls and spell DCs. 
+
+Your key spellcasting ability for magus archetype spells is [[Intelligence]], and they are arcane
+magus spells. 
+
+You become trained in [[Arcana]]; if you were already trained in Arcana, you instead become trained in a skill of your choice.
+
+You become trained in simple weapons.
+
+<<levelfeatlist "4 6 12 18" "[tag[Archetype]field:feat-arch[Magus]]">>

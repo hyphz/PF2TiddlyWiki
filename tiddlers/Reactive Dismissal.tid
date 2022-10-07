@@ -1,0 +1,16 @@
+created: 20221007175058248
+feat-class: Summoner
+feat-level: 4
+mod-manifest_eidolon: Can't manifest after dismissing until end of next turn.
+modified: 20221007175156741
+tags: Feat Class Evolution Summoner Action Reaction
+title: Reactive Dismissal
+type: text/vnd.tiddlywiki
+
+''Trigger'' Your eidolon would take damage.
+
+You abruptly dismiss your eidolon to reduce the damage it takes, though this makes summoning it again more difficult.
+
+Reduce the triggering damage to your eidolon by double your level, and your eidolon unmanifests. 
+
+You can’t [[Manifest your Eidolon|Manifest Eidolon]] again until after the end of your next turn.

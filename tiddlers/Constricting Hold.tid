@@ -1,0 +1,13 @@
+a-actions: 1
+a-defense: Fortitude
+created: 20221007181049044
+feat-class: Summoner
+feat-level: 8
+modified: 20221007181302383
+tags: Feat Class Summoner Eidolon Evolution Action
+title: Constricting Hold
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your eidolon has a creature [[Grabbed]] or [[Restrained]].
+
+Your eidolon constricts the creature, dealing bludgeoning damage equal to your eidolon’s level plus its Strength modifier, with a basic [[Fortitude]] save against your spell DC.

@@ -1,0 +1,14 @@
+created: 20221007192651541
+feat-arch: Summoner
+feat-fpre: [[Basic Synergy]]
+feat-level: 6
+modified: 20221007192731963
+tags: Feat Archetype
+title: Advanced Synergy
+type: text/vnd.tiddlywiki
+
+You gain one summoner feat. For the purpose of meeting its prerequisites, your summoner level is equal to half your character level.
+
+''Special'' You can select this feat more than once. Each time you select it, you gain another summoner feat.
+
+<<levelfeatlist "1 2 4 6 8 10" "[tag[Class]tag[Summoner]]">>

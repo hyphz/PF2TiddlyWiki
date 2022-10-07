@@ -1,0 +1,13 @@
+created: 20221007193439776
+feat-arch: Summoner
+feat-fpre: [[Expert Summoner Spellcasting]]
+feat-level: 18
+modified: 20221007193501282
+tags: Feat Archetype
+title: Master Summoner Spellcasting
+type: text/vnd.tiddlywiki
+
+''Requirements'' Legendary in the skill associated with your eidolon's tradition.
+
+{{MulticlassMasterBoundedSpellcasting}}
+

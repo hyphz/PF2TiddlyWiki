@@ -1,0 +1,11 @@
+created: 20221007192545700
+feat-arch: Summoner
+feat-level: 4
+modified: 20221007192559339
+tags: Feat Archetype
+title: Basic Synergy
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Summoner feat of your choice.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Summoner]]">>

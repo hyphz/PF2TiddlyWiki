@@ -1,0 +1,10 @@
+created: 20221007192043200
+feat-arch: Magus
+feat-level: 6
+modified: 20221007192111553
+tags: Feat Archetype
+title: Basic Magus Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicBoundedSpellcasting}}
+

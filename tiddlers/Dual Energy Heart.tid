@@ -1,0 +1,12 @@
+created: 20221007175010396
+feat-class: Summoner
+feat-fpre: [[Energy Heart]]
+feat-level: 4
+modified: 20221007175041124
+tags: Feat Class Evolution Summoner
+title: Dual Energy Heart
+type: text/vnd.tiddlywiki
+
+A second energy dwells in your eidolon. 
+
+Choose an additional energy damage type. Your unarmed attack that deals energy damage gains the [[Versatile]] trait for the second energy damage type, and your eidolon gains resistance to the second type of energy damage equal to half your level.

@@ -1,0 +1,14 @@
+created: 20221007191749662
+feat-arch: Magus
+feat-level: 4
+mod-spellstrike: Takes 1 minute to recharge for multiclassers.
+modified: 20221007191824637
+tags: Feat Archetype
+title: Spellstriker
+type: text/vnd.tiddlywiki
+
+You gain the magus’s [[Spellstrike]] activity. 
+
+You can recharge it only as an activity that takes 1 minute. 
+
+This restriction applies even if you gain another ability that recharges Spellstrike.

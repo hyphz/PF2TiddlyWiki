@@ -1,0 +1,13 @@
+created: 20221007174021265
+feat-class: Summoner
+feat-level: 2
+modified: 20221007174046790
+tags: Feat Class Evolution Summoner
+title: Amphibious Form
+type: text/vnd.tiddlywiki
+
+Your eidolon adapts to life on land and underwater. 
+
+It gains the <<tag Amphibious>> trait, allowing it to breathe in water and air and to avoid the normal –2 penalty for making bludgeoning and slashing unarmed Strikes underwater. 
+
+It gains a swim Speed equal to its land Speed or 25 feet, whichever is less; or if it is normally aquatic, it gains a land Speed equal to its swim Speed or 25 feet, whichever is less.

@@ -1,6 +1,6 @@
 a-actions: 1
 created: 20200704182421305
-modified: 20200704182558024
+modified: 20221007174747248
 tags: Action Move
 title: Mount
 type: text/vnd.tiddlywiki
@@ -12,3 +12,7 @@ You move onto the creature and ride it.
 //If you have the [[Ride]] feat, the creature skips its next turn and acts as a [[Minion]] under your control on your next turn. If you don't, you have to use [[Command an Animal]] to tell the mount what to do.//
 
 If you’re already mounted, you can instead use this action to dismount, moving off the mount into a space adjacent to it.
+
+Riding along on a sapient creature that isn’t a minion requires a lot of coordination and timing. Both the riding creature and the mount regain only 2 actions at the start of their turns each round, as both the mount and the riding creature interfere with one another’s actions. 
+
+If you ride your [[Eidolon]], you reduce your total actions to 2 and continue to share actions normally - you don’t reduce the number of actions twice.

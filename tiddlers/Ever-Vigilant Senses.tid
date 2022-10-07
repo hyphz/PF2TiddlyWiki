@@ -1,0 +1,15 @@
+created: 20221007184420800
+feat-class: Summoner
+feat-level: 16
+modified: 20221007184514907
+tags: Feat Class Summoner Evolution
+title: Ever-Vigilant Senses
+type: text/vnd.tiddlywiki
+
+Your eidolon has enhanced senses. 
+
+It gains a +2 circumstance bonus to [[Perception]], and can’t be flanked except by creatures that are higher level than it. 
+
+It can see [[Invisible]] creatures and objects; they appear translucent and are [[Concealed]]. 
+
+When your eidolon moves within 30 feet of an <<tag Illusion>> that can be disbelieved, the GM rolls a secret check to [[Disbelieve]] it, even if your eidolon didn’t spend an action to Interact.

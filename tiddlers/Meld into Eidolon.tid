@@ -1,0 +1,20 @@
+a-actions: 3
+created: 20221007173739383
+feat-class: Summoner
+feat-level: 1
+modified: 20221007173930105
+tags: Feat Class Summoner Action
+title: Meld into Eidolon
+type: text/vnd.tiddlywiki
+
+Your physical form can combine with that of your eidolon, granting benefits but limiting your capabilities. 
+
+You [[Manifest your Eidolon|Manifest Eidolon]], but instead of summoning it into an adjacent open space, you become it. 
+
+While Manifested in this way, you use its statistics, and you can’t act except to direct it to use [[Manifest Eidolon]] to unmanifest it. 
+
+Since you can’t act, you can’t Cast Spells, activate or benefit from magic items that normally benefit you and not your eidolon, perform actions that have the <<tag Tandem>> trait, or use other abilities that require you, and not the eidolon, to act. 
+
+Your //Eidolon// can’t be separately targeted while you are melded into it. 
+
+When you reach 0 HP, your eidolon unmanifests, leaving your body behind, unconscious and dying.

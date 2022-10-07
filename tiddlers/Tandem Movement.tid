@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20221007175359897
+feat-class: Summoner
+feat-level: 4
+modified: 20221007175438932
+tags: Feat Class Evolution Summoner Action Tandem
+title: Tandem Movement
+type: text/vnd.tiddlywiki
+
+You and your eidolon move together. 
+
+You each use a single action to [[Stride]]. 
+
+Either of you that has the corresponding movement type can [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] instead.

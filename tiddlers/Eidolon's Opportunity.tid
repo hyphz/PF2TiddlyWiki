@@ -1,0 +1,15 @@
+created: 20221007180126597
+feat-class: Summoner
+feat-level: 6
+modified: 20221007180217119
+tags: Feat Class Evolution Summoner Action Eidolon Reaction
+title: Eidolon's Opportunity
+type: text/vnd.tiddlywiki
+
+''Trigger'' A creature within your eidolon’s reach uses a <<tag Manipulate>> action or a <<tag Move>> action, makes a ranged attack, or leaves a square during a move action it’s using.
+
+Your eidolon makes a melee Strike against the triggering creature. 
+
+If the attack is a critical hit and the trigger was a <<tag Manipulate>> action, your eidolon disrupts that action.
+
+This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.

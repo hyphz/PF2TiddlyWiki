@@ -1,0 +1,13 @@
+created: 20221007192139642
+feat-arch: Magus
+feat-fpre: [[Expert Magus Spellcasting]]
+feat-level: 18
+feat-skill: Arcana
+feat-spre: L
+modified: 20221007192301485
+tags: Feat Archetype
+title: Master Magus Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassMasterBoundedSpellcasting}}
+

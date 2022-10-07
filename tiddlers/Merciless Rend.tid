@@ -1,0 +1,14 @@
+a-actions: 1
+created: 20221007182103405
+feat-class: Summoner
+feat-level: 10
+modified: 20221007182212885
+tags: Feat Class Summoner Action
+title: Merciless Rend
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your eidolon hit the same enemy with two consecutive [[Strike]]s with its secondary attack this turn and dealt slashing damage with both.
+
+Your eidolon rends its foes. 
+
+It automatically deals the damage from its secondary attack to the enemy.

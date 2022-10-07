@@ -1,0 +1,19 @@
+created: 20221007192743277
+feat-arch: Summoner
+feat-level: 6
+modified: 20221007192822972
+tags: Feat Archetype
+title: Basic Summoner Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassBasicBoundedSpellcasting}}
+
+You gain the [[Cast a Spell]] activity. 
+
+Your key spellcasting ability for summoner archetype spells is [[Charisma]], and they are summoner spells of your eidolon’s tradition. 
+
+You become trained in spell attack rolls and spell DCs of that tradition. 
+
+You gain a spell repertoire and two cantrips. 
+
+Each time you gain a spell slot of a new level from the summoner archetype, add a spell of that level or lower to your repertoire. Each time you lose spell slots of a particular level, remove those spells from your repertoire.

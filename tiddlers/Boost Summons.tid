@@ -1,0 +1,12 @@
+created: 20221007180918236
+feat-class: Summoner
+feat-level: 8
+mod-boost_eidolon: Also boosts summoned creatures in 60 feet.
+modified: 20221007180953431
+tags: Feat Class Summoner
+title: Boost Summons
+type: text/vnd.tiddlywiki
+
+Augmenting your eidolon extends to creatures you summon.
+
+When you cast [[Boost Eidolon]], in addition to your eidolon, it also targets your summoned creatures within 60 feet.

@@ -1,0 +1,19 @@
+a-actions: 1
+created: 20221007175623301
+feat-class: Summoner
+feat-fpre: [[Bloodletting Claws]]
+feat-level: 6
+modified: 20221007175723771
+tags: Feat Class Evolution Summoner Action Eidolon
+title: Blood Frenzy
+type: text/vnd.tiddlywiki
+
+''Requirements'' Your eidolon’s last action dealt bleed damage to a living creature.
+
+Your eidolon flies into a frenzy. 
+
+It gains the benefits of [[Boost Eidolon]] and gains temporary HP equal to your level, but takes a –2 penalty to AC. 
+
+It can’t voluntarily end the frenzy or start another frenzy while in the frenzy. 
+
+The frenzy lasts for 1 minute, after which your eidolon is [[Fatigued]] for 1 minute and can't start another frenzy for 1 minute.

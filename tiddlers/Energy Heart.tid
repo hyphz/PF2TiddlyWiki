@@ -1,0 +1,11 @@
+created: 20221007173536650
+feat-class: Summoner
+feat-level: 1
+modified: 20221007173559071
+tags: Feat Class Evolution Summoner
+title: Energy Heart
+type: text/vnd.tiddlywiki
+
+Your eidolon’s heart beats with energy. 
+
+Choose an energy damage type other than force. One of its unarmed attacks changes its damage type to the chosen type, and it gains resistance to that type equal to half your level (minimum 1).

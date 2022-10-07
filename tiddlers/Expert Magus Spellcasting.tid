@@ -1,0 +1,13 @@
+created: 20221007192118150
+feat-arch: Magus
+feat-fpre: [[Basic Magus Spellcasting]]
+feat-level: 12
+feat-skill: Arcana
+feat-spre: M
+modified: 20221007192232195
+tags: Feat Archetype
+title: Expert Magus Spellcasting
+type: text/vnd.tiddlywiki
+
+{{MulticlassExpertBoundedSpellcasting}}
+

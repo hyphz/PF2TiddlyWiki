@@ -1,0 +1,15 @@
+created: 20221007174214065
+feat-class: Summoner
+feat-level: 2
+modified: 20221007174320022
+tags: Feat Class Evolution Summoner
+title: Ranged Combatant
+type: text/vnd.tiddlywiki
+
+Spines, flame jets, and holy blasts are just some of the ways your eidolon might strike from a distance. 
+
+It gains a ranged unarmed attack with a range increment of 30 feet that deals 1d4 damage and has the <<tag Magical>> and [[Propulsive]] traits. 
+
+When you select this feat, choose a damage type: <<tag Acid>>, <<tag Bludgeoning>>, <<tag Cold>>, <<tag Electricity>>, <<tag Fire>>, <<tag Negative>>, <<tag Piercing>>, <<tag Positive>>, or <<tag Slashing>>.
+
+If your eidolon is a <<tag Celestial>>, <<tag Fiend>>, or <<tag Monitor>> with an alignment other than true neutral, you can choose a damage type in its alignment.

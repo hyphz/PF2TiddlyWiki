@@ -1,0 +1,16 @@
+a-actions: 2
+created: 20221007180759022
+feat-class: Summoner
+feat-level: 6
+modified: 20221007180847484
+tags: Feat Class Summoner Action Tandem
+title: Tandem Strike
+type: text/vnd.tiddlywiki
+
+''Requirements'' A creature is in your and your eidolon’s reach.
+
+You and your eidolon each attack, seamlessly targeting the same foe without interfering with each other’s movements.
+
+Your eidolon makes a melee [[Strike]], and then you make a melee [[Strike]] against the same creature. 
+
+Both attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after both attacks have been made.

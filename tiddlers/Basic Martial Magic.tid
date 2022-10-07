@@ -1,0 +1,11 @@
+created: 20221007191413516
+feat-arch: Magus
+feat-level: 4
+modified: 20221007191431680
+tags: Feat Archetype
+title: Basic Martial Magic
+type: text/vnd.tiddlywiki
+
+You gain a 1st- or 2nd- level Magus feat of your choice.
+
+<<levelfeatlist "1 2" "[tag[Class]tag[Magus]]">>

@@ -1,0 +1,13 @@
+created: 20221007180310899
+feat-class: Summoner
+feat-level: 6
+modified: 20221007180437142
+tags: Feat Class Summoner Concentrate Manipulate Metamagic Action Free
+title: Ostentatious Arrival
+type: text/vnd.tiddlywiki
+
+If the next action you take is to [[Manifest your Eidolon|Manifest Eidolon]] as a three-action activity, or to [[Cast|Cast a Spell]] a three-action summoning Spell, the creature appears in an explosion.
+
+All creatures in a 10-foot [[Emanation]] around the creature you summoned or manifested take 1d4 fire damage per spell level for a summoning spell, or 1d4 damage per 2 levels for Manifesting your Eidolon. 
+
+If the creature you summoned or manifested has the <<tag Acid>>, <<tag Cold>>, <<tag Electricity>>, <<tag Fire>>, <<tag Sonic>>, or <<tag Water>> trait, the damage is that type instead (or <<tag Cold>> damage for the water trait). If the creature has more than one of these traits, you choose which damage type to deal.

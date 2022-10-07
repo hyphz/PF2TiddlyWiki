@@ -1,0 +1,17 @@
+created: 20221007183811831
+feat-class: Summoner
+feat-level: 12
+modified: 20221007183855264
+tags: Feat Class Summoner Concentrate Conjuration Teleportation Action Reaction
+title: Summoner's Call
+type: text/vnd.tiddlywiki
+
+''Trigger'' You or your eidolon take damage from a foe or hazard.
+
+''Requirements'' Your eidolon is manifested more than 5 feet away.
+
+In a moment of danger, you call your eidolon to your side. 
+
+Your eidolon teleports to an open space adjacent to you.
+
+''Special'' This feat has the trait matching your eidolon’s tradition (arcane, divine, occult, or primal).
