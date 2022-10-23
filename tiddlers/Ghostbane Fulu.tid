@@ -1,0 +1,15 @@
+created: 20221023233116530
+item-level: 6
+item-price: 400
+modified: 20221023233225639
+tags: Consumable Item Fulu Magical Talisman Envision Concentrate Necromancy Transmutation
+title: Ghostbane Fulu
+type: text/vnd.tiddlywiki
+
+''Usage'' Affixed to a weapon. 
+
+''Activate'' {{FreeAction}} <<tag Envision>>; ''Trigger'' You successfully [[Strike]] an <<tag Incorporeal>> creature with the weapon to which the fulu is affixed, but you haven’t rolled damage.
+
+This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. 
+
+Upon activation, the weapon gains the benefit of the [[Ghost Touch]] property rune against the triggering incorporeal creature for 1 minute.

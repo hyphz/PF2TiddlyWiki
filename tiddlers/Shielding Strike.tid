@@ -1,0 +1,30 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023224630413
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20221023224736629
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration Magus
+title: Shielding Strike
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+As you attack a foe, warding magic transforms your momentum into action and lifts your shield. 
+
+Make a melee [[Strike]]. You can then either [[Raise your Shield|Raise a Shield]] if you’re wielding one or cast [[Shield (Spell)]] if you have the spell.
+

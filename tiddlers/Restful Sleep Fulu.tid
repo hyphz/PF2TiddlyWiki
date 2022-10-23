@@ -1,0 +1,19 @@
+created: 20221023233848700
+item-level: 6
+item-price: 320
+modified: 20221023233953375
+tags: Consumable Item Fulu Magical Talisman Envision Concentrate Enchantment
+title: Restful Sleep Fulu
+type: text/vnd.tiddlywiki
+
+''Usage'' affixed to a creature
+
+''Duration'' 1 hour.
+
+''Activate'' {{FreeAction}} <<tag Envision>>.
+
+This fulu depicts the five-spoke wheel of //the// god of magic and medicine, and burns away slowly, like incense. 
+
+If you fall asleep within the fulu’s duration, you regain double the amount of Hit Points you usually gain from resting. 
+
+You also gain a +2 status bonus to saves against <<tag Mental>> effects that occur in your dreams, such as the [[Nightmare]] spell.

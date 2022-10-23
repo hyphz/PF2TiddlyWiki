@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023225904387
+feat-class: Summoner
+feat-level: 6
+m-area: 20-foot radius [[Emanation]] around your [[Eidolon]]
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 
+m-level: 3
+m-range: 
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20221023230119497
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Eidolon Evocation Summoner Feat Class
+title: Eidolon's Wrath
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your eidolon releases a powerful energy attack that deals 5d6 damage of the type you chose when you took the Eidolon’s Wrath feat, with a basic [[Reflex]] save.
+
+You determine the damage type when you gain the feat: acid, cold, electricity, fire, negative, positive, or sonic. If your eidolon is a celestial, fiend, or monitor with an alignment other than true neutral, you can choose a damage type in its alignment. 
+
+''Heightened (+1)'' The damage increases by 2d6.

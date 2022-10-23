@@ -1,0 +1,39 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023230146795
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 1
+m-range: 100 feet
+m-save: 
+m-targets: Your Eidolon
+m-time: 
+modified: 20221023230533864
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Summoner Transmutation
+title: Evolution Surge
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You flood your eidolon with power, creating a temporary evolution in your eidolon’s capabilities.
+
+Choose one of the following effects based on the level of the spell:
+
+| !Level | !Evolution |
+| 1 |Your eidolon gains [[Low-Light Vision]] and [[Darkvision]]. |
+| 1 |Your eidolon gains [[Scent]] as an [[Imprecise]] sense up to 30 feet. |
+| 1 |Your eidolon can breathe underwater and gains a swim Speed equal to its land Speed or 30 feet, whichever is less. Alternatively, if your eidolon is normally aquatic, it can breathe air and gains a land Speed equal to its swim Speed or 30 feet, whichever is less. Either way, it gains the amphibious trait. |
+| 1 |Your eidolon gains a +20-foot status bonus to its Speed. |
+| 3 |Your eidolon becomes Large, instead of its previous size. This increases your eidolon’s reach to 10 feet but doesn’t change any other statistics for your eidolon. Because of the special link you share, you can ride your eidolon without getting in each other’s way. If another creature tries to ride your eidolon, both you and the riding creature each regain only 2 actions at the start of your turns each round, as normal. |
+| 3 |Your eidolon gains a climb Speed equal to its land Speed. |
+| 5 |Your eidolon becomes Huge, instead of its previous size. This has the same effects as the 3rd-level option to become Large, except your eidolon’s reach increases to 15 feet. |
+| 5 |Your eidolon gains a fly Speed equal to its Speed. |

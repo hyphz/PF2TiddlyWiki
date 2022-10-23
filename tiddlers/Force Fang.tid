@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023223817945
+feat-class: Magus
+feat-level: 2
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: Varies
+m-save: 
+m-targets: 1 creature
+m-time: 
+modified: 20221023224047472
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Force Magus Class Feat
+title: Force Fang
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You briefly turn your attack into pure force to bypass your opponent’s defenses. 
+
+Choose a target within your reach, or within the reach of a melee weapon you’re wielding. If you can use [[Spellstrike]] with a ranged weapon (with the [[Starlit Span]] hybrid study, for example), you can target a creature in the first range increment of your ranged weapon. 
+
+For an instant, you transform your weapon or unarmed attack into a spike of pure force, replacing all its normal statistics and abilities. The force fang automatically deals 1d4+1 force damage to the target.
+
+''Heightened (+2)'' The damage increases by 1d4+1.

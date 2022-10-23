@@ -1,0 +1,15 @@
+created: 20221023232916454
+item-level: 5
+item-price: 250
+modified: 20221023233046631
+tags: Consumable Item Fulu Magical Abjuration Talisman Envision Concentrate
+title: Fulu of the Stoic Ox
+type: text/vnd.tiddlywiki
+
+''Usage'' Affixed to armor. 
+
+''Activate'' {{FreeAction}} <<tag Envision>>; ''Trigger'' You attempt a [[Fortitude]] save against a disease.
+
+The ox on this fulu rests vigilantly on the point of the armor right over the bearer’s heart, protecting the bearer against diseases and safeguarding their health. 
+
+When you activate the fulu, you gain a +2 status bonus on the triggering [[Fortitude]] save and on all Fortitude saves against the same disease for the next minute.

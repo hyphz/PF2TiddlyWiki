@@ -1,0 +1,30 @@
+[
+    {
+        "created": "20221023230600608",
+        "text": "{{||SpellSummaryTable}}\n\nYou focus on the intricacies of the magic binding you to your eidolon to extend the duration of your [[Boost Eidolon]] or [[Reinforce Eidolon]] spell. \n\nIf your next action is to cast [[Boost Eidolon]] or [[Reinforce Eidolon]], attempt a skill check with the skill associated with the tradition of magic you gain from your eidolon (such as Nature for a primal eidolon). The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. \n\n{{||ActionSuccessTable}}\n",
+        "title": "Extend Boost",
+        "modified": "20221023230841128",
+        "tags": "Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Metamagic Summoner Free Feat Class",
+        "type": "text/vnd.tiddlywiki",
+        "a-crit": "The spell lasts 4 rounds.",
+        "a-defense": "",
+        "a-fail": "The spell lasts 1 round, but you don't spend the Focus Point for casting this spell.",
+        "a-fumble": "",
+        "a-hit": "The spell lasts 3 rounds.",
+        "m-area": "",
+        "m-components": " Verbal",
+        "m-domain": "",
+        "m-duration": "",
+        "m-level": "1",
+        "m-range": "",
+        "m-save": "",
+        "m-targets": "",
+        "m-time": "",
+        "s-crit": "",
+        "s-fail": "",
+        "s-fumble": "",
+        "s-hit": "",
+        "feat-level": "1",
+        "feat-class": "Summoner"
+    }
+]

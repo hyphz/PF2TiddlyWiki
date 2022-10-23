@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023224121918
+feat-class: Magus
+feat-level: 14
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 1 minute
+m-level: 7
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20221023224251566
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Magus Transmutation Class Feat
+title: Hasted Assault
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You call upon your magic to speed up your attacks.
+
+You gain the [[Quickened]] condition and can use the extra action each round for only [[Strike]] actions.

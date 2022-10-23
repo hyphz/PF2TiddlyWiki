@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023222318534
+feat-class: Magus
+feat-level: 6
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: Until the [[Arcane Cascade]] stance ends
+m-level: 3
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+modified: 20221023223926551
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Magus Feat Class
+title: Cascade Countermeasure
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Requirements'' You’re benefiting from [[Arcane Cascade]].
+
+You quickly adjust your Arcane Cascade to offer magical protection. 
+
+You gain resistance 5 against damage from spells. 
+
+As normal, using Arcane Cascade again means you’ve ended the stance, and the spell ends.
+
+''Heightened (+3)'' The resistance increases by 5.

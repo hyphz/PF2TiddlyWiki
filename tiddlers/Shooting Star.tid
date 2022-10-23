@@ -1,0 +1,37 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023224757466
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: 
+m-save: 
+m-targets: 
+m-time: 
+mod-concealed: Negated while trail is in air.
+mod-cover: Reduced by one step while trail is in air.
+modified: 20221023225047390
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Magus
+title: Shooting Star
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+''Requirements'' You’re wielding a ranged weapon or a thrown weapon.
+
+You let loose a projectile that flies true and leaves the blazing trail of a meteor behind it. 
+
+Make a ranged [[Strike]], ignoring the target’s [[Concealment|Concealed]] and reducing the target’s [[Cover]] by one degree for this Strike only (greater to standard, standard to lesser, and lesser to none). 
+
+If the Strike hits, the meteor trail hangs in the air. This gives the benefits of concealment negation and cover reduction to any attacks made against the creature (by anyone) until the start of your next turn.
+
+

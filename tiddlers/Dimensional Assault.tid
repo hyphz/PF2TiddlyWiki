@@ -1,0 +1,29 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023223706504
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 
+m-level: 1
+m-range: Half your Speed
+m-save: 
+m-targets: 
+m-time: 
+modified: 20221023223904116
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Conjuration Teleportation Magus
+title: Dimensional Assault
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You tumble through space, making a short dimensional hop to better position yourself for an attack. 
+
+Teleport to any square in range that’s within reach of a creature, and then make a melee [[Strike]] against one creature within your reach.

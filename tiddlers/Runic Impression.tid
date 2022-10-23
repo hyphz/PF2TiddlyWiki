@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023224313771
+feat-class: Magus
+feat-level: 8
+m-area: 
+m-components: Somatic
+m-domain: 
+m-duration: 1 minute
+m-level: 4
+m-range: Touch
+m-save: 
+m-targets: You or one weapon you're wielding
+m-time: 
+modified: 20221023224545992
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Magus Class Feat
+title: Runic Impression
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your unarmed attacks or weapon gain the benefits of a weapon rune you choose when you cast this spell: [[Corrosive]], [[Flaming]], [[Frost]], [[Ghost Touch]], [[Returning]], [[Shock]], or [[Thundering]]. 
+
+If you cast runic impression on a weapon, this spell ends if you cease holding the weapon.
+
+If this spell would give a weapon more property runes than its normal maximum, one of the existing property runes (you choose) is suppressed until the spell ends. For unarmed attacks, if this spell would give you more property runes than you could have from [[Handwraps of Mighty Blows]], one of the existing property runes is similarly suppressed.
+
+''Heightened (8th)'' Add [[Keen]] to the list of runes you can choose as well as the greater types of [[Corrosive]], [[Flaming]], [[Frost]], [[Shock]], and [[Thundering]].

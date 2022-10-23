@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023231610337
+feat-class: Summoner
+feat-level: 1
+m-area: 
+m-components: Somatic Verbal
+m-domain: 
+m-duration: 1 minute
+m-level: 1
+m-range: 100 feet
+m-save: 
+m-targets: Your eidolon
+m-time: 
+modified: 20221023231719370
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Class Feat Summoner Abjuration Uncommon
+title: Unfetter Eidolon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You loosen the link between yourself and your eidolon, allowing it to travel farther from you for a short period of time. 
+
+While the spell is active, your eidolon can travel an unlimited distance away from you. 
+
+When the spell ends, if your eidolon is more than 100 feet away from you, it unmanifests.

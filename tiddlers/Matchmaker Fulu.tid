@@ -1,0 +1,16 @@
+created: 20221023233403996
+item-level: 3
+item-price: 100
+mod-make_an_impression: +2 status to Diplomacy and promote fumbles.
+modified: 20221023233706706
+tags: Consumable Item Fulu Magical Talisman Envision Concentrate Enchantment Fortune
+title: Matchmaker Fulu
+type: text/vnd.tiddlywiki
+
+''Usage'' affixed to armor.
+
+''Activate'' {{FreeAction}} <<tag Envision>>; ''Trigger'' You attempt a [[Diplomacy]] check to [[Make an Impression]].
+
+This red fulu contains blessings for one’s relationship from //the// goddess of beauty and love. 
+
+You get a +2 status bonus to the [[Diplomacy]] check, and if you roll a critical failure on the check, you get a failure instead.

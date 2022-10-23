@@ -1,0 +1,33 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20221023225737043
+m-area: 
+m-components: Verbal
+m-domain: 
+m-duration: 1 round
+m-level: 1
+m-range: 100 feet
+m-save: 
+m-targets: Your Eidolon
+m-time: 
+modified: 20221023231358984
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cantrip Evocation Summoner
+title: Boost Eidolon
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You focus deeply on the link between you and your eidolon and boost the power of your eidolon’s attacks. 
+
+Your eidolon gains a +2 status bonus to damage rolls with its unarmed attacks. 
+
+If your eidolon’s Strikes deal more than one weapon damage die, the status bonus increases to 2 per weapon damage die, to a maximum of +8 with four weapon damage dice.
+
+//Your eidolon can benefit from either [[Boost Eidolon]] or [[Reinforce Eidolon]], but not both; if you cast one of these spells during the other’s duration, the newer spell replaces the older one.//
