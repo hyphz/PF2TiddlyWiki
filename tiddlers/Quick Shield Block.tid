@@ -2,9 +2,9 @@ created: 20201010145556101
 feat-archadd: Bastion Viking
 feat-archlevel: 10
 feat-class: Fighter Champion
-feat-fpre: [[Shield Block]] [[Reactive Shield]]
+feat-fpre: [[Shield Block]]
 feat-level: 8
-modified: 20220622185514506
+modified: 20230104153245798
 tags: Feat Class Fighter Champion
 title: Quick Shield Block
 type: text/vnd.tiddlywiki
@@ -13,4 +13,4 @@ You can bring your shield into place with hardly a thought.
 
 At the start of each of your turns, you gain an additional reaction that you can use only to [[Shield Block]].
 
-__[[Champion]]s do not require [[Reactive Shield]] to take this feat. The Champion version was previously referred to as "Quick Block" prior to errata.__
+__Errata removed the requirement for anyone to take [[Reactive Shield]] to take this feat. The Champion version was previously referred to as "Quick Block" prior to errata.__

@@ -1,5 +1,5 @@
 created: 20200704175039712
-modified: 20200802225021063
+modified: 20230104161205084
 tags: Rule
 title: Forced Movement
 type: text/vnd.tiddlywiki
@@ -7,3 +7,9 @@ type: text/vnd.tiddlywiki
 When an effect forces you to move, or if you start [[Falling]], the distance you move is defined by the effect that moved you, not by your Speed. 
 
 Because you’re not acting to move, this doesn’t trigger reactions triggered by movement.
+
+Usually the creature or effect forcing the movement chooses the path the victim takes. 
+
+If you’re pushed or pulled, you can usually be moved through hazardous terrain, pushed off a ledge, or the like. Abilities that reposition you in some other way can’t put you in such dangerous places unless they specify otherwise. In all cases, the GM makes the final call if there’s doubt on where forced movement can move a creature.
+
+__If a creature has you [[Grabbed]] and is forcing you to move along with it, the default assumption is that you will not be affected by any dangerous terrain unless the grabbing creature subjects itself to it too, even if it has [[Reach]].__

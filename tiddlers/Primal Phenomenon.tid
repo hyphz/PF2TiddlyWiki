@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220622204903962
+modified: 20230104154338480
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -30,7 +30,7 @@ Nature always refuses unnatural requests and might grant a different request (po
 A primal phenomenon spell can do any of the following things.
 
 * Duplicate any __spell from the primal list__ of 9th level or lower __which you have access to__.
-* Duplicate any __spell from another spell list__ of 7th level or lower __which you have access to__.
+* Duplicate any __spell from another spell list__ of 7th level or lower __is common, or which you have access to__.
 * Produce any effect whose power level is in line with the above effects.
 * Reverse certain effects that refer to the [[Wish]] spell.
 
@@ -44,7 +44,7 @@ At the GM’s discretion, you can try to use primal phenomenon to produce greate
 </$list>
 
 ''Non-Primal spells that can be duplicated:''
-<$list filter="[tag[Spell]!tag[Primal]]" variable="spell">
+<$list filter="[tag[Spell]!tag[Primal]!tag[Uncommon]!tag[Rare]]" variable="spell">
 <$list filter="[<spell>get[m-level]compare:number:lteq[7]]">
 <$link to=<<spell>> />,
 </$list>

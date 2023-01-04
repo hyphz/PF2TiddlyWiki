@@ -12,7 +12,7 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20200806183554084
+modified: 20230104154753917
 modtag-auditory: Can't use in affected area.
 modtag-sonic: Can't use attacks in affected area.
 modtag-verbal: Can't cast in affected area.
@@ -26,7 +26,7 @@ type: text/vnd.tiddlywiki
 
 {{||SpellSummaryTable}}
 
-The target makes no sound, preventing creatures from noticing it using hearing or other senses alone. 
+The target makes no sound, preventing creatures from noticing it using hearing alone. __"Or other senses" here was removed by errata, although other senses related to sound may be affected.__
 
 The target can’t use <<tag Sonic>>attacks, nor can it use actions with the <<tag Auditory>>trait. 
 

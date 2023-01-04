@@ -1,5 +1,5 @@
 created: 20200719184147424
-modified: 20200719184624361
+modified: 20230104160908201
 tags: Rule
 title: Affliction
 type: text/vnd.tiddlywiki
@@ -37,4 +37,6 @@ An affliction might give you conditions with a longer or shorter duration than t
 Multiple exposures to the same [[Curse]] or [[Disease]] currently affecting you have no effect. 
 
 For a [[Poison]], however, failing the initial saving throw against a new exposure increases the stage by 1 (or by 2 if you critically fail) without affecting the maximum duration. This is true even if you’re within the poison’s onset period, though it doesn’t change the onset length.
+
+__If an affliction applies a condition that normally has a duration, such as [[Enfeebled]], then the duration is "until the applying stage of the affliction ends" unless otherwise stated.__
 

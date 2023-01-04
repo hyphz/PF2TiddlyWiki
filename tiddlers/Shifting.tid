@@ -1,7 +1,7 @@
 created: 20210206163711645
 item-level: 6
 item-price: 2250
-modified: 20210206175048784
+modified: 20230104161509499
 tags: Rune Magical Weapon Transmutation
 title: Shifting
 type: text/vnd.tiddlywiki
@@ -10,4 +10,10 @@ type: text/vnd.tiddlywiki
 
 With a moment of manipulation, you can shift this weapon into a different weapon with a similar form.
 
-''Activate'' {{OneAction}} [[Interact]]; ''Effect'' The weapon takes the shape of another melee weapon that requires the same number of hands to wield. The weapon’s runes and any precious material it’s made of apply to the weapon’s new shape. Any property runes that can’t apply to the new form are suppressed until the item takes a shape to which they can apply.
+''Activate'' {{OneAction}} [[Interact]]; ''Effect'' The weapon takes the shape of another melee weapon that requires the same number of hands to wield __as the shifting weapon ''requires''__. The weapon’s runes and any precious material it’s made of apply to the weapon’s new shape. Any property runes that can’t apply to the new form are suppressed until the item takes a shape to which they can apply.
+
+__If a weapon can be held in 1 or 2 hands, it does not ''require'' 2 hands, so you cannot shift it into a 2-handed weapon, even if you are choosing to wield it in 2 hands.__
+
+__If you are holding a [[Jousting]] weapon that normally requires 2 hands, but are holding it in 1 because you are mounted, then you can turn it into a 2-handed weapon. If the new weapon has [[Jousting]] also, you can continue holding it in 1 hand. If it does not, you can continue holding it in 1 hand but cannot use it until you [[Interact]] to shift it to 2 hands.__
+
+__Shifting can change a weapon's [[Bulk]], but cannot be used to produce extra Bulk of precious material.__

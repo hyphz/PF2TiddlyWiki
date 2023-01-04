@@ -10,9 +10,9 @@ m-duration: 1 minute
 m-level: 1
 m-range: 30 feet
 m-save: 
-m-targets: 1 [[Willing]] living creature
+m-targets: 1 [[Willing]] creature, __even if not living__
 m-time: 
-modified: 20200809204445897
+modified: 20230104154833022
 modtag-mental: +2 status on saves.
 s-crit: 
 s-fail: 

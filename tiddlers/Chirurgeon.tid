@@ -2,7 +2,7 @@ created: 20200730194239454
 mod-advanced_alchemy: At level 5, make three elixirs of life per batch, not 2.
 mod-medicine: Can use Crafting in place of Medicine.
 mod_quick-alchemy: At level 13, your elixirs always heal the maximum possible.
-modified: 20200730195118690
+modified: 20230104152608448
 splat-class: Alchemist
 tags: Alchemist Splat
 title: Chirurgeon
@@ -10,10 +10,10 @@ type: text/vnd.tiddlywiki
 
 You concentrate on healing others with alchemy.
 
-''Level 1'': You start with the formulas for two of the following in your formula book, in addition to your other formulas: lesser [[Antidote]], lesser [[Antiplague]], or __minor__ [[Elixir of Life]].
+''Level 1'': You start with the formulas for two __common first-level elixirs with the <<tag Healing>> trait of your choice__ in your formula book, in addition to your other formulas.
 
-''Level 1'': As long as your proficiency rank in [[Medicine]] is trained or better, you can attempt a [[Crafting]] check instead of a Medicine check for any of Medicine’s untrained and trained uses.
+''Level 1'': __You can use your proficiency rank in [[Crafting]] for anything that requires a proficiency rank in [[Medicine]] (such as prerequisites), and use your Crafting modifier in place of your Medicine modifier for all Medicine checks.__
 
-''Level 5'': When using [[Advanced Alchemy]] to make elixirs of life during your daily preparations, you can create three elixirs with each batch of reagents instead of two.
+''Level 5'': When using [[Advanced Alchemy]] to make __<<tag Healing>> elixirs__ during your daily preparations, you can create three elixirs with each batch of reagents instead of two.
 
 ''Level 13'': When you use [[Quick Alchemy]] to create any type of elixir of life, the creature drinking the elixir gains the maximum Hit Points possible for that elixir, instead of rolling to determine the number of Hit Points regained.

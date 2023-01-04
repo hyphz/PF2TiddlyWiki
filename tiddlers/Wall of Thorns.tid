@@ -12,7 +12,7 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200731175518006
+modified: 20230104154914728
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -35,7 +35,7 @@ Everything on each side of the wall has [[Cover]] from creatures on the opposite
 
 For every <<tag Move>> action a creature uses to enter at least one of the wall’s spaces, that creature takes 3d4 piercing damage.
 
-Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 10, and 20 Hit Points. It’s immune to critical hits and precision damage. 
+Each __10-foot-by-10-foot__ section of the wall has AC 10, Hardness 10, and 20 Hit Points. It’s immune to critical hits and precision damage. 
 
 A destroyed section can be moved through freely.
 

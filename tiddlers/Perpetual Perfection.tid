@@ -1,17 +1,17 @@
 created: 20200806212403225
-modified: 20200806221416698
+modified: 20230104153147906
 tags: Ability
 title: Perpetual Perfection
 type: text/vnd.tiddlywiki
 
-You have perfected your perpetual infusions, allowing you to use [[Quick Alchemy]] to create even more powerful items at no cost. 
+You have perfected your perpetual infusions, allowing you to use [[Quick Alchemy]] to create even more powerful items at no cost __for [[Quick Alchemy]]__. 
 
 The items you can select depend on your research field and must be in your formula book.
 
-[[Bomber]]: The greater versions of the bombs you chose for [[Perpetual Infusions]].
+[[Bomber]]: __Choose two 11th-level or lower <<tag Bomb>>s.__
 
-[[Chirurgeon]]: Greater antidote and antiplague.
+[[Chirurgeon]]: __Choose two 11th-level or lower elixirs with the <<tag Healing>> trait.__
 
-[[Mutagenist]]: The greater versions of the mutagens you chose for perpetual infusions.
+[[Mutagenist]]: __Choose two 11th-level or lower mutagens.__
 
 [[Toxicologist]]: Choose two common 11th-level or lower alchemical poisons.

@@ -7,7 +7,7 @@ item-slot: Shield
 mod-fortitude: Gives bonus as circumstance bonus vs spells.
 mod-reflex: Gives bonus as circumstance bonus vs spells.
 mod-will: Gives bonus as circumstance bonus vs spells.
-modified: 20210801165937361
+modified: 20230104155442701
 tags: Item Abjuration Magical
 title: Spellguard Shield
 type: text/vnd.tiddlywiki
@@ -15,3 +15,5 @@ type: text/vnd.tiddlywiki
 This shield bears eldritch glyphs to guard against magic. 
 
 While you have this steel shield (Hardness 6, HP 24, BT 12) raised, you gain its circumstance bonus to saving throws against spells that target you (as well as to AC).
+
+__You can [[Shield Block]] spells that target you if you have that action.__

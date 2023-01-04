@@ -1,5 +1,5 @@
 created: 20200626202204722
-modified: 20200626202427143
+modified: 20230104160618232
 tags: Condition
 title: Slowed
 type: text/vnd.tiddlywiki
@@ -11,3 +11,5 @@ Slowed always includes a value. When you regain your actions at the start of you
 Because slowed has its effect at the start of your turn, you don’t immediately lose actions if you become slowed during your turn.
 
 //If you are both [[Stunned]] and slowed, actions lost to the Stunned condition also count against those lost to the Slowed condition in the turn in which you recover from being Stunned.//
+
+__If a <<tag Minion>> becomes slowed, it gains less actions when it gains its actions (since it doesn't have a "start of its turn").__

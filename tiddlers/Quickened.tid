@@ -1,5 +1,5 @@
 created: 20200626201917418
-modified: 20200830152427128
+modified: 20230104160529721
 tags: Condition
 title: Quickened
 type: text/vnd.tiddlywiki
@@ -10,3 +10,5 @@ If you become quickened from multiple sources, you can use the extra action youâ
 quickened.  //(But you don't gain more extra actions, just more options with the one you have.)//
 
 Because quickened has its effect at the start of your turn, you donâ€™t immediately gain actions if you become quickened during your turn.
+
+__If a <<tag Minion>> becomes Quickened, it gains the extra actions when it gains its actions (since it doesn't have a "start of its turn").__

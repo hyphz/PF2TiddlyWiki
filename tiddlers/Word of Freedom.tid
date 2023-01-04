@@ -13,7 +13,7 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200809215440020
+modified: 20230104155002421
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -26,9 +26,9 @@ type: text/vnd.tiddlywiki
 
 You utter a liberating word of power that frees a creature. //They do not have to be able to hear or understand you.//
 
-You suppress one of the following conditions of your choice: [[Confused]], [[Frightened]], [[Grabbed]], or [[Paralyzed]]. 
+You suppress one of the following conditions of your choice: [[Confused]], [[Frightened]], [[Grabbed]], __[[Restrained]]__ or [[Paralyzed]]. 
 
-The target isn’t affected by the chosen condition, and if you suppress the [[Grabbed]] condition, the target automatically breaks free from any grab affecting it when you Cast the Spell.
+The target isn’t affected by the chosen condition, and if you suppress the [[Grabbed]] __or [[Restrained]]__ condition, the target automatically breaks free from any grab affecting it when you Cast the Spell.
 
 If you don’t remove the effect that provided the condition, the condition returns after the spell ends. For example, if a spell was making the target confused for 1 minute, word of freedom would let the target act normally for a round, but the confused condition would return afterward.
 

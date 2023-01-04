@@ -5,7 +5,7 @@ a-tool: Alchemist's Tools
 created: 20200723185140278
 feat-arch: Alchemist
 feat-level: 4
-modified: 20201010164808334
+modified: 20230104152316768
 tags: Action Alchemist Manipulate Feat Archetype
 title: Quick Alchemy
 turn-sun: Created items lose their potency.
@@ -17,6 +17,6 @@ type: text/vnd.tiddlywiki
 
 You swiftly mix up a short-lived alchemical item to use at a moment’s notice. 
 
-You create a single alchemical item of your advanced alchemy level or lower that’s in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [[Crafting]] check.
+You create a single alchemical __consumable__ item of your advanced alchemy level or lower that’s in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [[Crafting]] check.
 
 This item has the <<tag Infused>>trait, but it remains potent only until the start of your next turn.

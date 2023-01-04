@@ -1,9 +1,11 @@
 created: 20200801212127061
-modified: 20200828233757569
+modified: 20230104150634584
 title: Ancestry
 type: text/vnd.tiddlywiki
 
-The following base Ancestries are available:
+The following base Ancestries are available. Most ancestries give a free boost in addition to the abilities listed.
+
+__The listed boosts and penalties for Ancestries can be ignored, and two free boosts taken instead.__
 
 <table>
 <tr><th>Ancestry</th><th>Str</th><th>Dex</th><th>Con</th><th>Int</th><th>Wis</th><th>Cha</th></tr>

@@ -1,18 +1,18 @@
 created: 20200912153140639
-modified: 20220622190221038
+modified: 20230104153411415
 tags: Cleric Splat
 title: Warpriest
 type: text/vnd.tiddlywiki
 
 You have trained in the more militant doctrine of your church, focusing on both spells and battle.
 
-''First Doctrine'' (1st): You’re trained in light and medium armor, and you have expert proficiency in [[Fortitude]] saves. You gain the [[Shield Block]] general feat, a reaction to reduce damage with a shield. If your deity’s weapon is simple, you gain the [[Deadly Simplicity]] cleric feat.
+''First Doctrine'' (1st): You’re trained in light and medium armor, and you have expert proficiency in [[Fortitude]] saves. You gain the [[Shield Block]] general feat, a reaction to reduce damage with a shield. If your deity’s weapon is simple __or unarmed attack__, you gain the [[Deadly Simplicity]] cleric feat.
 
 At 13th level, if you gain the [[Divine Defense]] class feature, you also gain expert proficiency in light and medium armor.
 
 ''Second Doctrine'' (3rd): You’re trained in martial weapons.
 
-''Third Doctrine'' (7th): You gain expert proficiency with __unarmed attacks and__ your deity’s favored weapon. When you critically succeed at an attack roll using __your deity's favored__ weapon, you apply the weapon’s [[Critical Specialization Effect]]; use your divine spell DC if necessary.
+''Third Doctrine'' (7th): You gain expert proficiency with __unarmed attacks, simple weapons and__ your deity’s favored weapon. When you critically succeed at an attack roll using __your deity's favored__ weapon, you apply the weapon’s [[Critical Specialization Effect]]; use your divine spell DC if necessary.
 
 ''Fourth Doctrine'' (11th Level): Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert.
 

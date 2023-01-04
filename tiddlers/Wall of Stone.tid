@@ -12,7 +12,7 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200731175330018
+modified: 20230104154859276
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -33,7 +33,7 @@ The wall doesn’t need to stand vertically, so you can use it to form a bridge 
 
 You must conjure the wall in an unbroken open space so its edges don’t pass through any creatures or objects, or the spell is lost.
 
-Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 14, and 50 Hit Points, and it’s immune to critical hits and precision damage. 
+Each __10-foot-by-10-foot__ section of the wall has AC 10, Hardness 14, and 50 Hit Points, and it’s immune to critical hits and precision damage. 
 
 A destroyed section of the wall can be moved through, but the rubble created from it is [[Difficult Terrain]].
 

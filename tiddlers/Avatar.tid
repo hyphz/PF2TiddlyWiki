@@ -3,7 +3,7 @@ m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 10
 m-targets: You
-modified: 20220622204240271
+modified: 20230104154510653
 tags: Divine Spell Somatic Verbal Polymorph Transmutation Manipulate Concentrate
 title: Avatar
 type: text/vnd.tiddlywiki
@@ -41,7 +41,7 @@ You also gain the specific abilities listed for your deity below:
 * ''Erastil'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Ranged {{OneAction}} longbow (deadly d8, range increment 150 feet), Damage 6d8+3 piercing.
 * ''Ghlaunder'' Speed 30 feet, fly Speed 70 feet; Melee {{OneAction}} proboscis (agile, reach 20 feet), Damage 6d6+6 piercing plus 3d6 persistent bleed.
 * ''Gorum'' Speed 70 feet, immune to immobilized; Melee {{OneAction}} greatsword (versatile P, reach 15 feet), Damage 6d12+6 slashing.
-* ''Gozreh'' no land Speed, fly Speed 70 feet, swim Speed 70 feet; ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} waves (bull rush, reach 15 feet, thrown 20 feet), Damage 6d8+6 bludgeoning; Ranged {{OneAction}} wind (versatile electricity, range 120 feet), Damage 6d6+3 bludgeoning.
+* ''Gozreh'' no land Speed, fly Speed 70 feet, swim Speed 70 feet; ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} waves (__[[Shove]]__, reach 15 feet, thrown 20 feet), Damage 6d8+6 bludgeoning; Ranged {{OneAction}} wind (versatile electricity, range 120 feet), Damage 6d6+3 bludgeoning.
 * ''Grandmother Spider'' Speed 70 feet, climb Speed 70 feet, immune to immobilized; Melee {{OneAction}} leg (deadly 3d8, finesse, reach 15 feet, versatile P), Damage 6d6+6 bludgeoning; Ranged {{OneAction}} venom web (range 120 feet), Damage 6d6+3 poison.
 * ''Groetus'' Speed 70 feet, [[Air Walk]], ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} war flail (disarm, reach 15 feet, sweep, trip), Damage 6d10+6 bludgeoning; Ranged {{OneAction}} dreadful thought (range 120 feet), Damage 6d6+3 mental.
 * ''Gruhastha'' Speed 50 feet, fly Speed 70 feet; Melee {{OneAction}} fist (agile, finesse, nonlethal, reach 15 feet), Damage 6d6+6 bludgeoning; Ranged {{OneAction}} arrow of enlightenment (deadly 3d10, range increment 120 feet), Damage 6d6+3 piercing.
@@ -62,7 +62,7 @@ You also gain the specific abilities listed for your deity below:
 * ''Shelyn'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} glaive (deadly d8, nonlethal, reach 20 feet), Damage 6d8+6 slashing; Ranged {{OneAction}} melody of inner beauty, (nonlethal, range 120 feet), Damage 6d6+3 sonic.
 * ''Shizuru'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} katana (deadly 3d8, two-hand d10, reach 15 feet, versatile P), Damage 6d6+6 slashing; Ranged {{OneAction}} sunbolt arrow (range 120 feet), Damage 6d6+3 fire.
 * ''Sivanah'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} bladed scarf (disarm, finesse, reach 15 feet, trip), Damage 6d8+6 slashing; Ranged {{OneAction}} illusory assault (range 120 feet), Damage 6d6+3 mental.
-* ''Torag'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; shield (15 Hardness, can’t be damaged); Melee {{OneAction}} warhammer (bull rush, reach 15 feet), Damage 6d8+6 bludgeoning.
+* ''Torag'' Speed 50 feet, burrow Speed 30 feet, immune to immobilized; shield (15 Hardness, can’t be damaged); Melee {{OneAction}} warhammer (__[[Shove]]__, reach 15 feet), Damage 6d8+6 bludgeoning.
 * ''Tsukiyo'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} longspear (reach 20 feet), Damage 6d10+6 piercing; Ranged {{OneAction}} moonbeam (nonlethal, range 120 feet, silver), Damage 6d6+3 mental.
 * ''Urgathoa'' Speed 70 feet, air walk; Melee {{OneAction}} scythe (deadly d10, trip, reach 15 feet), Damage 6d10+6 slashing; Ranged {{OneAction}} pallid plague (range 120 feet), Damage 6d6+3 negative.
 * ''Zon-Kuthon'' Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain; Melee {{OneAction}} spiked chain (disarm, trip, reach 15 feet), Damage 6d8+6 slashing; Ranged {{OneAction}} midnight pain (mental, nonlethal, range 120 feet), Damage 6d6+3 mental.

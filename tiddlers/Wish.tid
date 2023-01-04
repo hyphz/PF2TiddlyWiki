@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220622204839187
+modified: 20230104154410206
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -28,7 +28,7 @@ You state a wish, making your greatest desire come true.
 A wish spell can produce any one of the following effects.
 
 * Duplicate any __spell from the arcane list__ of 9th level or lower __which you have access to__.
-* Duplicate any __spell from another spell list__ of 7th level or lower __which you have access to__.
+* Duplicate any __spell from another spell list__ of 7th level or lower __which is common, or you have access to__.
 * Produce any effect whose power level is in line with the above effects.
 * Reverse certain effects that refer to the wish spell.
 
@@ -44,7 +44,7 @@ The GM might allow you to try using wish to produce greater effects than these, 
 </$list>
 
 ''Non-Arcane spells that can be duplicated:''
-<$list filter="[tag[Spell]!tag[Arcane]]" variable="spell">
+<$list filter="[tag[Spell]!tag[Arcane]!tag[Uncommon]!tag[Rare]]" variable="spell">
 <$list filter="[<spell>get[m-level]compare:number:lteq[7]]">
 <$link to=<<spell>> />,
 </$list>

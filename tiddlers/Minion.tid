@@ -1,5 +1,5 @@
 created: 20200627221522512
-modified: 20220622192827449
+modified: 20230104160730242
 tags: Trait
 title: Minion
 type: text/vnd.tiddlywiki
@@ -9,6 +9,8 @@ Minions are creatures that directly serve another creature.
 A creature with this trait can use only 2 actions per turn, __doesn't have reactions, and can't act when it's not your turn.__
 
 Your minion acts on your turn in combat, once per turn, when you spend an action to issue it commands. For an animal companion, you [[Command an Animal]]; for a minion that’s a spell or magic item effect like a summoned minion you [[Sustain a Spell]] or [[Sustain an Activation]]; and if not otherwise specified, you issue a verbal command, which is a single action with the <<tag Auditory>> and <<tag Concentrate>> traits. 
+
+__If a minion becomes [[Quickened]] or [[Slowed]], it can use less or more than 2 actions per turn.__
 
 If given no commands, by default minions use no actions except to defend themselves or to escape obvious harm. 
 

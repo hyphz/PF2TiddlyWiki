@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220622204924393
+modified: 20230104154305695
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -30,7 +30,7 @@ Your divine source always refuses a request out of line with its nature, and it 
 A casting of miracle can do any of the following things.
 
 * Duplicate any __spell from the divine list__ of 9th level or lower __which you have access to__.
-* Duplicate any __spell from another spell list__ of 7th level or lower __which you have access to__.
+* Duplicate any __spell from another spell list__ of 7th level or lower __which is common, or you have access to__.
 * Produce any effect whose power level is in line with the above effects.
 * Reverse certain effects that refer to the [[Wish]] spell.
 
@@ -44,7 +44,7 @@ The GM might allow you to try using miracle to produce greater effects than thes
 </$list>
 
 ''Non-Divine spells that can be duplicated:''
-<$list filter="[tag[Spell]!tag[Divine]]" variable="spell">
+<$list filter="[tag[Spell]!tag[Divine]!tag[Uncommon]!tag[Rare]]" variable="spell">
 <$list filter="[<spell>get[m-level]compare:number:lteq[7]]">
 <$link to=<<spell>> />,
 </$list>

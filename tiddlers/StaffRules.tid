@@ -1,5 +1,5 @@
 created: 20210424155712478
-modified: 20211026213435097
+modified: 20230104161703621
 tags: 
 title: StaffRules
 type: text/vnd.tiddlywiki
@@ -27,3 +27,5 @@ A spontaneous spellcaster, such as a bard or sorcerer, can reduce the number of 
 __Many staves can be found in multiple versions, with more powerful versions that contain more spells—such a staff always contains the spells of all lower-level versions, in addition to the spells listed in its own entry.__
 
 __Staves are also <<tag Staff>> weapons. They can be etched with fundamental runes but not property runes. This doesn’t alter any of their spellcasting abilities.__
+
+__A class that loses lower-level spell slots as it increases in level, such as [[Magus]], may still use a staff to cast spells of lower level than their slots.__

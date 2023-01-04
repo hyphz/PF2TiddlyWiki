@@ -1,5 +1,5 @@
 created: 20200706234154203
-modified: 20200706234214437
+modified: 20230104160156698
 tags: [[Weapon Trait]]
 title: Jousting
 type: text/vnd.tiddlywiki
@@ -8,4 +8,4 @@ The weapon is suited for mounted combat with a harness or similar means.
 
 When mounted, if you moved at least 10 feet on the action before your attack, add a circumstance bonus to damage for that attack equal to the number of damage dice for the weapon. 
 
-In addition, while mounted, you can wield the weapon in one hand, changing the damage die to the listed value.
+In addition, while mounted, you can wield the weapon in one hand, changing the damage die to the listed value. __If you dismount while wielding the weapon in one hand, you can continue holding it, but cannot use it until you [[Interact]] to change to holding it in two hands.//

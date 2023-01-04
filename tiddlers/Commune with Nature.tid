@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 1 day
-modified: 20200808153908209
+modified: 20230104152135579
 rit-pskill: Nature
 rit-pspre: M
 rit-secondaries: 1
@@ -29,4 +29,4 @@ type: text/vnd.tiddlywiki
 
 ''Cost'' Rare incense worth a total value of 60 gp.
 
-As [[Commune]], except you contact the primal spirits of nature, which know about <<tag Animal>>s, <<tag Beast>>s, <<tag Fey>>, <<tag Plant>>s, topography, and natural resources within a 3-mile radius of the ritual’s location.
+As [[Commune]], except you contact the primal spirits of nature, which know about <<tag Animal>>s, <<tag Beast>>s, <<tag Fey>>, <<tag Plant>>s, __<<tag Fungus>>es__, topography, and natural resources within a 3-mile radius of the ritual’s location.

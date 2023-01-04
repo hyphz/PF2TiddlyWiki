@@ -5,12 +5,12 @@ item-level: 6 12
 item-price: 2250 17500
 item-variants: Standard Greater
 mod-nature: +2 circumstance to identify plants.
-modified: 20210508145115994
+modified: 20230104152240793
 tags: Item Magical Staff Transmutation
 title: Verdant Staff
 type: text/vnd.tiddlywiki
 
-This oak branch grows leaves in spring that change color in autumn and shed in winter. While wielding it, you gain a +2 circumstance bonus to [[Nature]] checks to identify plants.
+This oak branch grows leaves in spring that change color in autumn and shed in winter. While wielding it, you gain a +2 circumstance bonus to __all__ checks to identify plants __and fungi__. 
 
 ''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
 

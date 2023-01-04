@@ -1,14 +1,14 @@
 created: 20201031170505052
 feat-class: Rogue
 feat-level: 2
-modified: 20201129001240218
+modified: 20230104153600837
 tags: Feat Class Rogue
 title: Minor Magic
 type: text/vnd.tiddlywiki
 
 You’ve dabbled in a variety of tricks, gaining minor magical abilities from a particular tradition. 
 
-Choose <<tag Arcane>>, <<tag Divine>>, <<tag Occult>>, or <<tag Primal>> magic, and gain two cantrips from the common cantrips available to that tradition.
+Choose <<tag Arcane>>, <<tag Divine>>, <<tag Occult>>, or <<tag Primal>> magic, and gain two cantrips from the common cantrips available to that tradition. __You cast these using the [[Cast a Spell]] activity, but do not gain a spell repertoire or spellbook.__
 
 __Your key spellcasting ability is [[Charisma]], and you’re trained in spell attack rolls and DCs for the tradition of your chosen cantrips.__
 

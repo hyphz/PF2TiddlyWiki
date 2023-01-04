@@ -1,17 +1,17 @@
 created: 20200806211747735
-modified: 20200806221345896
+modified: 20230104153049058
 tags: Ability
 title: Perpetual Potency
 type: text/vnd.tiddlywiki
 
-Your perpetual infusions improve, allowing you to use [[Quick Alchemy]] to create more powerful items with no cost. 
+Your perpetual infusions improve, allowing you to use [[Quick Alchemy]] to create more powerful items with no cost __for [[Quick Alchemy]]__. 
 
 The items you can select depend on your research field and must be in your formula book.
 
-[[Bomber]]: The moderate versions of the bombs you chose for [[Perpetual Infusions]].
+[[Bomber]]: __Choose two 3rd-level or lower <<tag Bomb>>s.__
 
-[[Chirurgeon]]: Moderate antidote and antiplague.
+[[Chirurgeon]]: __Choose two 6th-level or lower elixirs with the <<tag Healing>> trait.__
 
-[[Mutagenist]]: The moderate versions of the mutagens you chose for perpetual infusions.
+[[Mutagenist]]: __Choose two 3rd-level or lower mutagens.__
 
 [[Toxicologist]]: Choose two common 5th-level or lower alchemical poisons.

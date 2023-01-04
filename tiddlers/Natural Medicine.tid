@@ -3,13 +3,15 @@ feat-level: 1
 feat-skill: Nature
 feat-spre: T
 mod-treat_wounds: Can use Nature instead of Medicine.
-modified: 20200726002009158
+modified: 20230104155617656
 tags: Feat General Skill
 title: Natural Medicine
 type: text/vnd.tiddlywiki
 
 ''Prerequisites'' Trained in [[Nature]].
 
-You can apply natural cures to heal your allies. You can use Nature instead of [[Medicine]] to [[Treat Wounds]]. 
+You can apply natural cures to heal your allies. You can use Nature instead of [[Medicine]] to [[Treat Wounds]]. __You can use the higher-DC versions of Treat Wounds if you have the corresponding [[Nature]] proficiency.__
+
+__This feat does not allow you to take feats that require Medicine, such as [[Ward Medic]], based on your Nature proficiency. But if you do have them, you can use Nature to make the check to use them.__
 
 If you’re in the wilderness, you might have easier access to fresh ingredients, allowing you to gain a +2 circumstance bonus to your check to Treat Wounds using Nature, subject to the GM’s determination.

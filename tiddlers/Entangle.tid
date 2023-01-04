@@ -4,7 +4,7 @@ a-fail:
 a-fumble: 
 a-hit: 
 created: 20200722194807540
-m-area: All squares in a 20-foot radius [[Burst]] that contain plants
+m-area: All squares in a 20-foot radius [[Burst]] that contain plants __or fungi__
 m-components: Somatic Verbal
 m-duration: 1 minute
 m-level: 2
@@ -12,7 +12,7 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200722194948402
+modified: 20230104151949732
 s-crit: 
 s-fail: 
 s-fumble: 

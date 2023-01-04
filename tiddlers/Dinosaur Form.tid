@@ -12,7 +12,7 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20220622204305821
+modified: 20230104154620697
 s-crit: 
 s-fail: 
 s-fumble: 
@@ -48,7 +48,7 @@ You also gain specific abilities based on the form you choose:
 * ''Deinonychus'' Speed 40 feet; Melee [one-action] talon ([[Agile]]), Damage 2d4 piercing plus 1 persistent bleed; Melee [one-action] jaws, Damage 1d10 piercing. //These look a bit like the velociraptors out of that movie.//
 * ''Stegosaurus'' Speed 30 feet; Melee [one-action] tail (reach 10 feet), Damage 2d8 piercing. //These are the ones with the big spikes down their backs.//
 * ''Triceratops'' Speed 30 feet; Melee [one-action] horn, Damage 2d8 piercing, plus 1d6  persistent bleed on a critical hit; Melee [one-action] foot, Damage 2d6 bludgeoning. //These are the ones with the rhino-like flap above their head and big horns.// 
-* ''Tyrannosaurus'' Speed 30 feet; Melee [one-action] jaws ([[Deadly]], reach 10 feet), Damage 1d12 piercing; Melee [one-action] tail (reach 10 feet), Damage 1d10 bludgeoning. //These are the huge ones with tiny little claws. The "Rex" being missing doesn't make any difference.//
+* ''Tyrannosaurus'' Speed 30 feet; Melee [one-action] jaws ([[Deadly]] __d12__, reach 10 feet), Damage 1d12 piercing; Melee [one-action] tail (reach 10 feet), Damage 1d10 bludgeoning. //These are the huge ones with tiny little claws. The "Rex" being missing doesn't make any difference.//
 
 ''Heightened (5th)'' Your battle form is [[Huge]] and your attacks have 15-foot reach, or 20-foot reach if they started with 15-foot reach. You instead gain 20 temporary HP, an attack modifier of +18, a damage bonus of +6, double the damage dice, and Athletics +21.
 
