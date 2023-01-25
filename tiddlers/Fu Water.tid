@@ -1,0 +1,19 @@
+created: 20230124235654815
+item-hands: 1
+item-level: 5
+item-price: 210
+modified: 20230124235904594
+tags: Consumable Item Necromancy Divine Good Potion Splash
+title: Fu Water
+type: text/vnd.tiddlywiki
+
+''Usage'' held in 1 hand.
+
+Burnt fulu ashes float in this liquid, lending a distinctive red color and imparting it with a variety of purifying effects. 
+
+Unlike many fulu items, fu water must be created using divine magic.
+
+''Activate'' {{OneAction}} [[Interact]]; ''Effect'' This potion functions as a bottle of [[Holy Water]]. Like holy water, you throw it as a [[Strike]]. It’s a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn’t add the manipulate trait to the attack made with it.
+
+''Activate'' {{OneAction}} [[Interact]]: ''Effect'' You drink the fu water to counteract ailments within yourself. Attempt a [[Counteract]] check with a +9 counteract modifier and a counteract level of 3 against one effect that imposes the [[Confused]], [[Fascinated]], [[Frightened]], or
+[[Stupefied]] condition. You are then [[Sickened]] 1.

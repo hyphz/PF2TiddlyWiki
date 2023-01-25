@@ -1,0 +1,17 @@
+created: 20230124235426538
+item-level: 3
+item-price: 100
+modified: 20230124235644704
+modtag-poison: +2 status to saves vs injected.
+tags: Consumable Item Fulu Magical Envision Talisman Necromancy
+title: Venomous Cure Fulu
+type: text/vnd.tiddlywiki
+
+''Usage'' affixed to armor.
+
+''Activate'' {{FreeAction}} Envision. ''Trigger'' You attempt a saving throw against an injected <<tag Poison>>.
+
+This green fulu depicts venomous creatures and vermin.
+
+When activated, the venom from the fulu fights against the venom in your system, granting you a +2 status bonus to the triggering saving throw.
+

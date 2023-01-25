@@ -1,0 +1,19 @@
+created: 20230124235019819
+item-level: 16
+item-price: 19000
+modified: 20230124235211997
+tags: Consumable Item Fulu Magical Uncommon Abjuration Talisman Command
+title: Stormbreaker Fulu
+type: text/vnd.tiddlywiki
+
+''Usage'' affixed to armor.
+
+''Activate'' {{FreeAction}} Command. ''Trigger'': You would be forced to move, you would be teleported, or you would take <<tag Cold>>, <<tag Electricity>>, or <<tag Sonic>> damage.
+
+This unassuming paper tag is inscribed with magical symbols. 
+
+When you activate the fulu, it vanishes in a wisp of cloud, and you gain [[Resistance]] 15 to cold, electricity, and sonic damage until the end of your next turn. 
+
+For that duration, you ignore [[Difficult Terrain]] from wind and weather, and you can’t be forcibly moved or teleported unless the effect [[Counteract]]s the fulu (DC 40). 
+
+These protections apply against the triggering effect.

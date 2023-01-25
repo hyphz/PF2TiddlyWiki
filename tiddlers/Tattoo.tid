@@ -1,0 +1,18 @@
+created: 20230125004949568
+modified: 20230125005138707
+title: Tattoo
+type: text/vnd.tiddlywiki
+
+A magical tattoo has the <<tag Tattoo>> trait. 
+
+It’s permanently a part of the subject’s body, and reduces the number of items that creature can invest per day by 1. Each tattoo has the <<tag Invested>> trait to indicate this limitation—a magical tattoo is like an invested item that the tattooed creature has no choice but to invest. 
+
+If the tattoo loses its magic or is destroyed, it no longer reduces your investiture.
+
+Just like a physical magic item, a magical tattoo can be [[Counteract]]ed by spells like [[Dispel Magic]] or [[Disjunction]]. If destroyed, the tattoo fades from the skin.
+
+If a creature gets a new magical tattoo when their limit on invested items has already been reduced to zero, the new tattoo’s magic fails to take hold, and it becomes a non-magical tattoo instead. 
+
+However, a tattooist can alter an existing tattoo when they Craft a tattoo, modifying the old one into a different magical tattoo and removing the old effect. 
+
+Magical tattoos can usually be upgraded into their greater versions by having a tattooist add to or modify the existing tattoo.

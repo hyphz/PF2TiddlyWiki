@@ -1,0 +1,15 @@
+created: 20230125001057421
+item-bulk: L
+item-level: 6 12
+item-price: 2150 18000
+item-variants: Standard Greater
+modified: 20230125001252208
+tags: Grimoire Magical Item Envision Divination
+title: Codex of Unimpeded Sight
+type: text/vnd.tiddlywiki
+
+A female figure peers through her blindfold from the cover of this stately tome.
+
+''Activate'' {{FreeAction}} <<tag Envision>>; ''Frequency'' once per day; ''Requirements'' Your last action was to cast a <<tag Divination>> spell prepared from this grimoire; ''Effect'' The grimoire offers you a glimpse into the truth of things. [[Seek]] or [[Recall Knowledge]].
+
+//A Greater Codex of Unimpeded Sight can be activated// once per hour instead of once per day. When you use it, you gain a +1 item bonus on your [[Perception]] check to [[Seek]] or skill check to [[Recall Knowledge]].

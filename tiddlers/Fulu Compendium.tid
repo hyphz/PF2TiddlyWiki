@@ -1,0 +1,14 @@
+created: 20230124235940673
+item-level: 9
+item-price: 5500
+modified: 20230125000113451
+modtag-fulu: +2 item to checks to identify or verify.
+tags: Item Necromancy Uncommon Magical
+title: Fulu Compendium
+type: text/vnd.tiddlywiki
+
+This pamphlet-sized book records the various symbols seen on fulu and also contains some ready-made magic on a special page that restores itself every day at sunrise.
+
+Using the compendium as a reference grants a +2 item bonus to any skill checks to determine a fulu’s function or authenticity.
+
+''Activate'' {{TwoAction}} [[Interact]]; ''Frequency'' once per day; ''Effect'' You rip a page from the fulu compendium and cast it in a wide arc; as it flies in that arc, it multiplies into a storm of fulus. All undead creatures in a 30-foot [[Emanation]] are affected by a [[Spirit-Sealing Fulu]] with a save DC of 25.

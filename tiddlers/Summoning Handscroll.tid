@@ -1,0 +1,15 @@
+created: 20230125002714897
+item-bulk: L
+item-level: 8
+item-price: 4800
+modified: 20230125002827667
+tags: Grimoire Magical Item Envision Conjuration
+title: Summoning Handscroll
+type: text/vnd.tiddlywiki
+
+Classic summoning circles are engraved into the batons of this massive papyrus scroll.
+
+
+''Activate'' {{FreeAction}} envision (<<tag Metamagic>>); ''Frequency'' once per day; ''Effect'' If your next action is to cast a <<tag Conjuration>> spell prepared from this spellbook that summons one or more creatures, you infuse one of the summoned creatures with the spell’s energies, causing it to arrive with 10 temporary Hit Points that last for up to 1 minute.
+
+

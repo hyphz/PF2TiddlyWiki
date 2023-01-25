@@ -1,0 +1,15 @@
+created: 20230125002109469
+item-bulk: L
+item-level: 5
+item-price: 2000
+modified: 20230125002206449
+tags: Grimoire Magical Item Envision
+title: Instructions for Lasting Agony
+type: text/vnd.tiddlywiki
+virtual-tags: Envision Metamagic
+
+This worn and stained manual emits a chill when opened.
+
+''Activate'' {{OneAction}} Envision (<<tag Metamagic>>); ''Frequency'' once per day; ''Effect'' If
+your next action is to cast a harmful <<tag Necromancy>> spell that you prepared from this grimoire and that allows a saving throw, you warp and twist negative energy into the spell to cause intense pain. If the target fails its saving throw against the spell, it becomes [[Sickened]] 1 by the pain.
+

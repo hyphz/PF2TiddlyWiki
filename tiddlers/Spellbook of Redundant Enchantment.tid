@@ -1,0 +1,13 @@
+created: 20230125002244412
+item-bulk: L
+item-level: 8
+item-price: 4200
+modified: 20230125002339625
+tags: Grimoire Magical Item Envision Enchantment
+title: Spellbook of Redundant Enchantment
+type: text/vnd.tiddlywiki
+
+When opening the book, whispers can be heard on the wind, or laughter rings in the distance.
+
+''Activate'' {{FreeAction}} envision; ''Frequency'' once per day; ''Trigger'' You cast an <<tag Enchantment>> spell prepared from this grimoire that has no effect because all targets critically succeeded on their saving throws; ''Effect'' You quickly divert the failed enchantment energy into yourself to retain your favored spell in place of another. You lose another spell you prepared of an equal or higher level to the triggering enchantment spell but retain the ability to cast the enchantment spell again.
+

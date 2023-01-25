@@ -1,0 +1,26 @@
+created: 20230124234516412
+item-level: 3 10
+item-price: 100 1550
+item-variants: Standard Greater
+m-save: Will
+modified: 20230124234927412
+tags: Consumable Item Fulu Magical Incapacitation Necromancy
+title: Spirit-Sealing Fulu
+type: text/vnd.tiddlywiki
+
+''Usage'' affixed to one undead creature.
+
+''Duration'' 1 or 4 rounds.
+
+This classic fulu seals the negative energy within an undead, freezing it in its tracks. 
+
+Upon affixing, the target undead must attempt a [[Will]] save or be [[Paralyzed]] for 1 round.
+
+//If you use a greater spirit-sealing fulu and the opponent rolls a critical failure,// the undead is [[Paralyzed]] for 4 rounds. At the end of each of its turns, it can attempt a new [[Will]] save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
+
+//Because the fulu has the Incapacitation trait, undead of higher level promote their saving rolls.//
+
+| !Type | !Level | !Price | !Save DC |
+| (standard) | 3 | 100 | 17 |
+| Greater | 10 | 1550 | 27 |
+

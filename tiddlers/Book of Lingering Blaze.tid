@@ -1,0 +1,13 @@
+created: 20230125000813450
+item-bulk: L
+item-level: 10
+item-price: 9000
+modified: 20230125000955936
+tags: Grimoire Magical Item Envision
+title: Book of Lingering Blaze
+type: text/vnd.tiddlywiki
+virtual-tags: Envision Metamagic
+
+The common saying, “Where there is progress in the field of magic, there is always someone who uses it to set things on fire,” is engraved in gold on the cover of this red spellbook.
+
+''Activate'' {{OneAction}} Envision (<<tag Metamagic>>); ''Frequency'' once per day; ''Effect'' If your next action is to cast an <<tag Evocation>> spell dealing fire damage that you prepared from this grimoire, you superheat the flames, allowing the spell to ignore up to 10 resistance to fire of creatures affected by the spell.

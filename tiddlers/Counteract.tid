@@ -3,7 +3,7 @@ a-fail: Counteract the target if its counteract level is lower than your effect�
 a-fumble: You fail to counteract the target.
 a-hit: Counteract the target if its counteract level is no more than 1 level higher than your effect’s counteract level.
 created: 20200719184805973
-modified: 20200731173605733
+modified: 20230125003216482
 tags: Rule
 title: Counteract
 type: text/vnd.tiddlywiki
@@ -26,3 +26,5 @@ What you can counteract depends on the check result, the target’s //counteract
 //[[Chromatic Wall]] can't be counteracted normally.//
 
 {{||ActionSuccessTable}}
+
+See [[Standard Counteract Target Numbers]] for quick reference.

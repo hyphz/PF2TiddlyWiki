@@ -1,0 +1,24 @@
+created: 20230125003228719
+modified: 20230125004622437
+title: Standard Counteract Target Numbers
+type: text/vnd.tiddlywiki
+
+Target numbers are based on the standard Spell Level DCs and adjustments for requiring a critical success and/or succeeding on a standard failure.
+
+A rolled 1 never counteracts.
+
+A rolled 20 always counteracts if it's possible.
+
+| !Effect Level | !1st (1-2) | !2nd (3-4) | !3rd (5-6) | !4th (7-8) | !5th (9-10) | !6th (11-12) | !7th (13-14) | !8th (15-16) | !9th (17-18) | !10th (19-20) |
+| !Counteract Level |
+| !1st (1-2) | 15 | 18 | 30 | 33 | Can't | Can't | Can't | Can't | Can't | Can't |
+| !2nd (3-4) | 5 | 18 | 20 | 33 | 36 | Can't | Can't | Can't | Can't | Can't |
+| !3rd (5-6) | 5 | 8 | 20 | 23 | 36 | 38 | Can't | Can't | Can't | Can't |
+| !4th (7-8) | 5 | 8 | 10 | 23 | 26 | 38 | 41 | Can't | Can't | Can't |
+| !5th (9-10) | 5 | 8 | 10 | 13 | 26 | 28 | 41 | 44 | Can't | Can't |
+| !6th (11-12) | 5 | 8 | 10 | 13 | 16 | 28 | 31 | 44 | 46 | Can't |
+| !7th (13-14) | 5 | 8 | 10 | 13 | 16 | 18 | 31 | 34 | 46 | 49 |
+| !8th (15-16) | 5 | 8 | 10 | 13 | 16 | 18 | 21 | 34 | 36 | 49 |
+| !9th (17-18) | 5 | 8 | 10 | 13 | 16 | 18 | 21 | 24 | 36 | 39 |
+| !10th (19-20) | 5 | 8 | 10 | 13 | 16 | 18 | 21 | 24 | 26 | 39 |
+

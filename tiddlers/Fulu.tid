@@ -1,0 +1,24 @@
+created: 20230124234235669
+modified: 20230124234419924
+title: Fulu
+type: text/vnd.tiddlywiki
+
+Fulus are small paper charms that can be affixed to a suit of armor, a shield, a weapon  a creature, or even a structure. Some fulus are composed of multiple such charms, taking effect only once all have been affixed. 
+
+Normal fulus have effects immediately once affixed, while fulu talismans have an effect only once activated. Once a fulu has been activated, it lasts for the given duration and then burns out. 
+
+Unless otherwise noted, fulus expire one year after being created, reverting to mundane paper.
+
+All fulus have the fulu and consumable traits. Fulus also have a tradition trait—either arcane, divine, occult or primal—determined by the magical tradition of its creator. For example, a fulu created by a priest would have the divine trait, whereas a witch who dabbles in fate might create a fulu with the occult trait. Some fulus also have the talisman trait, if they work similarly to talismans (such as being affixed to a suit of armor, a shield, or a weapon). 
+
+Each fulu’s stat block indicates the type of item or creature it can be affixed to. Affixing or removing a fulu requires using the [[Affix a Fulu]] activity, or the [[Affix a Talisman]] action instead if the fulu is also a talisman.
+
+Beyond fulu talismans, non-talisman fulus can be affixed or removed easily, though removing a fulu causes it to immediately burn out. 
+
+The paper is fragile, easily destroyed by hazards such as water, fire, or an observant enemy when either unattended or affixed to the ground or a structure. 
+
+Fulus can be created using the [[Crafting]] skill like any other magic item, and they have a batch size of four, meaning you can Craft four copies of the same fulu at a time. 
+
+A fulu’s script consists of symbols citing the person or place from which the fulu draws power, a symbol of command, details of the desired effect, and other formulaic elements to complete the charm. Each part is written as the crafter recites a spell mantra, with the crafter’s powers and magic essences weaving into the ink and paper. As creating a fulu requires knowledge of these mantras, a fulu can’t be disassembled to learn its formula like many other items—the formula for a fulu can be learned only firsthand.
+
+Unlike most items, the ritualistic aspect of fulus’ creation allows the creator to expedite the process, though doing so decreases the fulus’ stability. A character with the formula for a fulu can Craft up to four fulus for their full price in a single day of downtime, rather than taking four days as normal for the Craft downtime activity. However, if they do so, the fulus only last for a month, rather than a year. This is perfect for fulus you expect to use soon after Crafting them, as in that case, there isn’t much difference between a month and a year.

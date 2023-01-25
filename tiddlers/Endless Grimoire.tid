@@ -1,0 +1,23 @@
+created: 20230125001324574
+item-bulk: L
+item-level: 6 10 14 18
+item-price: 2300 9000 40000 230000
+item-variants: Standard Greater Major True
+modified: 20230125001635334
+tags: Grimoire Magical Item Divination
+title: Endless Grimoire
+type: text/vnd.tiddlywiki
+
+When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. 
+
+Unlike most grimoires, it has no limits to its number of spells. 
+
+The grimoire’s eagerness to contain your spells grants you an item bonus to checks to [[Learn a Spell]] if you do so by transcribing the spell into the grimoire. 
+
+If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate level, the grimoire’s nature leaks into your mind, allowing you to prepare an additional spell //of the level listed below//.
+
+| !Type | !Level | !Price | !Item Bonus to Learn | !Extra Spell Level |
+| Standard | 6 | 2300 | +1 | 1st |
+| Greater | 10 | 9000 | +2 | 3rd |
+| Major | 14 | 40000 | +2 | 5th |
+| True | 18 | 230000 | +3 | 7th |

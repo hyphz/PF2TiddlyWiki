@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20220724163356696
+modified: 20230125005249858
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -214,6 +214,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Tandem]]">
 <tr><th>[[Tandem]]</th><td>Requires a separate, manifested, eidolon; and that it and you are able to act. Can't stack tandem actions.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Tattoo]]">
+<tr><th>[[Tattoo]]</th><td>Automatically invested every day; cannot choose not to invest.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Trained]]">
 <tr><th>[[Trained]]</th><td>You must be trained in the relevant skill to use this. //Having [[Untrained Improvisation]] is ''not'' sufficient.//</td></tr>

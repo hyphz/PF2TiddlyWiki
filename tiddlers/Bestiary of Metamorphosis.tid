@@ -1,0 +1,14 @@
+created: 20230125000515129
+item-bulk: L
+item-level: 6
+item-price: 2100
+modified: 20230125000836272
+modtag-polymorph: 
+tags: Grimoire Magical Transmutation Item Envision
+title: Bestiary of Metamorphosis
+type: text/vnd.tiddlywiki
+virtual-tags: Polymorph
+
+This grimoire fancifully illustrates the spells you inscribe within it with illuminated drawings of creatures that have never existed, the pictures changing to depict new ones from time to time.
+
+''Activate'' {{OneAction}} Envision (<<tag Polymorph>>, <<tag Transmutation>>); ''Frequency'' once per day; ''Requirements'' You’re under the effect of a <<tag Polymorph>> spell you prepared from this grimoire that offers a choice of multiple forms; ''Effect'' You transform into a different form allowed by the polymorph by bending and molding the spell’s energy. This reduces the spell’s remaining duration by half.

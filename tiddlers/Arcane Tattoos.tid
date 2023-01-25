@@ -1,7 +1,7 @@
 created: 20200817233430437
 feat-anc: Human
 feat-level: 1
-modified: 20200828185358014
+modified: 20230125004935141
 tags: Ancestry Feat Human Uncommon
 title: Arcane Tattoos
 type: text/vnd.tiddlywiki
@@ -11,3 +11,5 @@ type: text/vnd.tiddlywiki
 You have tattoos on your body corresponding to one of the ancient schools of magic. 
 
 Choose one of the following schools of magic: abjuration ([[Shield (Spell)]]), conjuration ([[Tanglefoot]]), enchantment ([[Daze]]), evocation ([[Electric Arc]]), illusion ([[Ghost Sound]]), necromancy ([[Chill Touch]]), or transmutation ([[Sigil]]). You can cast the associated cantrip (listed in parentheses) as an innate arcane spell at will.
+
+//These tattoos are different from the magic item type with the <<tag Tattoo>> trait.//
