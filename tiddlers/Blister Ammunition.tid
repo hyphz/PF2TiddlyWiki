@@ -1,0 +1,26 @@
+created: 20230222111012499
+item-bulk: -
+item-level: 5 11 16
+item-price: 210 2100 14000
+item-variants: Lesser Moderate Greater
+modified: 20230222111225743
+tags: Consumable Item Alchemical Interact Poison
+title: Blister Ammunition
+type: text/vnd.tiddlywiki
+
+Ammunition: Any.
+
+Blister ammunition is loaded with alchemically processed irritants, such as pollen, pepper, and formic acid. 
+
+A creature hit by activated ({{OneAction}} [[Interact]]) blister ammunition must attempt a [[Fortitude]] save or begin to itch uncontrollably in addition to damage the attack normally deals. On a critical hit, increase the [[Fortitude]] DC by 2, and the target is [[Dazzled]] for 1 round. 
+
+For the duration, each time the target attempts a <<tag Concentrate>> action, it must attempt a DC 8 flat check, losing the action on a failure. An affected creature can use a single [[Interact]] action to scratch and sneeze, allowing it to automatically pass the flat check. 
+
+The effect ends early once an affected creature spends 3 Interact actions scratching and sneezing. These Interact actions don’t need to be consecutive.
+
+| !Type | !Level | !Price | !Maximum Duration | !Fortitude DC |
+| Lesser | 5 | 210 | 3 | 19 |
+| Moderate | 11 | 2100 | 6 | 28 |
+| Greater | 16 | 14000 | 10 | 35 |
+
+

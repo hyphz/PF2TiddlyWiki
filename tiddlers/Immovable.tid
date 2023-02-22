@@ -1,0 +1,11 @@
+created: 20230222100459984
+item-level: 12
+item-price: 18000
+modified: 20230222100614132
+tags: Rune Magical Transmutation Uncommon
+title: Immovable
+type: text/vnd.tiddlywiki
+
+This rune utilizes magical principles used in an [[Immovable Rod]].
+
+''Activate'' {{OneAction}} [[Interact]]; ''Frequency'' once per day; ''Effect'' Your armor anchors you in place, even defying gravity, rendering you [[Immobilized]] until you Dismiss the Activation. While you’re immobilized in this way, you can be moved only if a creature succeeds at a DC 40 [[Athletics]] check to [[Force Open]] your armor. You can also be moved if 8,000 pounds of pressure are placed upon you, though this is likely fatal.

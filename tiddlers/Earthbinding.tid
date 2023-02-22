@@ -1,0 +1,13 @@
+created: 20230222104829548
+item-level: 5
+item-price: 1250
+modified: 20230222104925237
+tags: Rune Magical Weapon Transmutation
+title: Earthbinding
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon
+
+A weapon with this rune hums when touched to the ground.
+
+''Activate'' {{ReactionIcon}} <<tag Command>>; ''Frequency'' once per hour; ''Requirements'' You critically hit a flying creature with the etched weapon; ''Effect'' The rune casts a DC 20 [[Earthbind]] spell on the flying creature.

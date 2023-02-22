@@ -1,0 +1,16 @@
+created: 20230222094944199
+item-bulk: L
+item-level: 0
+item-price: 10
+modified: 20230222095031168
+tags: Item Adjustment
+title: Storage
+type: text/vnd.tiddlywiki
+
+''Usage'' applied to armor or unarmored defense clothing
+
+The storage adjustment fits the armor or clothing with belts, buckles, pouches, and loops for holding and storing tools. Countless fasteners make the armor as jangly as chain mail.
+
+While wearing armor with this adjustment, you can wear up to 3 Bulk of tools instead of the usual 2. 
+
+However, the armor acquires the [[Noisy]] trait. If it already has the noisy trait, increase its penalty to [[Stealth]] checks by 1.

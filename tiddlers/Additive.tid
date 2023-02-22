@@ -1,5 +1,5 @@
 created: 20200708194453714
-modified: 20200708194601536
+modified: 20230222110332780
 tags: Trait
 title: Additive
 type: text/vnd.tiddlywiki
@@ -11,3 +11,7 @@ The additive trait is always followed by a level, such as additive 2. An additiv
 You can add only one additive to a single alchemical item, and attempting to add another spoils the item. 
 
 You can typically use actions with the additive trait only when you’re creating an infused alchemical item, and some can be used only with the [[Quick Alchemy]] action. 
+
+Items with the additive trait work just like alchemist feats with the additive trait, except that they require using or consuming the item itself. 
+
+You can typically Activate items with the additive trait only when you’re creating an infused alchemical item, and some can be used only with the [[Quick Alchemy]] action. 

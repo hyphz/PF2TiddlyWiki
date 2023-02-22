@@ -1,0 +1,22 @@
+created: 20230222102424368
+item-level: 6 12 16
+item-price: 2000 17500 192500
+item-variants: Standard Greater Major
+modified: 20230222102756106
+tags: Rune Magical Transmutation
+title: Swallow-Spike
+type: text/vnd.tiddlywiki
+
+''Usage'' Etched onto armor.
+
+Your armor responds to your desire to break free of a creature grabbing you by growing spikes.
+
+''Activate'' {{ReactionIcon}} <<tag Envision>> <<tag Attack>>; ''Trigger'' You become [[Grabbed]], [[Restrained]], or otherwise held immobilized in a creature’s grasp, such as by being engulfed or swallowed; ''Effect'' Your armor suddenly grows spikes, attacking the triggering creature. The armor makes a melee attack with an attack modifier of +14 that deals 2d6 piercing damage. If the creature is swallowing or engulfing you, the attack deals an additional 1d6 damage, and damage from this attack can cut you free if it equals or exceeds the Rupture value of the immobilizing ability. This attack gets an item bonus to the attack roll equal to the armor’s item bonus to your AC and an item bonus to damage equal to double that amount.
+
+''Activate'' {{OneAction}} <<tag Envision>> <<tag Attack>>; ''Requirements'' You’re being held
+immobilized as described in the rune’s other activation; ''Effect'' Your armor attacks the creature immobilizing you. The armor makes a melee attack against the creature, as described in the rune’s other activation.
+
+| !Type | !Level | !Price | !Attack Modifier | !Damage | !Extra damage when engulfed |
+| Standard | 6 | 2000 | +14 | 2d6 | 1d6 |
+| Greater | 12 | 17500 | +22 | 3d6 | 2d6 |
+| Major | 16 | 192500 | +28 | 5d6 | 3d6 |

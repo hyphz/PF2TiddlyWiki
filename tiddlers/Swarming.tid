@@ -1,0 +1,13 @@
+created: 20230222110035667
+item-level: 9
+item-price: 7000
+modified: 20230222110139102
+tags: Rune Magical Weapon Conjuration
+title: Swarming
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a thrown weapon
+
+Able to copy itself many times over when thrown until the air is filled with deadly blades, a swarming weapon turns a single weapon into a shower of devastation.
+
+''Activate'' {{TwoAction}} <<tag Command>>, <<tag Envision>>; ''Frequency'' once per hour; ''Effect'' You fling your weapon and it multiplies as it flies through the air, filling a 30-foot [[Cone]]. All creatures within the area take damage equal to double the weapon’s number of damage dice, with a DC 27 basic [[Reflex]] save.

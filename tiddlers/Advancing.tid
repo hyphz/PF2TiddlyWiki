@@ -1,0 +1,15 @@
+created: 20230222095433933
+item-level: 9 16
+item-price: 6250 80000
+item-variants: Standard Greater
+modified: 20230222095628770
+tags: Rune Magical Necromancy
+title: Advancing
+type: text/vnd.tiddlywiki
+
+This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory.
+
+''Activate'' {{FreeAction}} <<Tag Command>>; ''Requirements'' Your last action or activity reduced an enemy to 0 Hit Points; ''Effect'' You [[Stride]] up to 15 feet. This movement doesn’t trigger reactions. You can [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] instead of Striding if you
+have the corresponding movement type.
+
+//If you have a Greater Advancing rune, you can stride up to your Speed instead of 15 feet.//

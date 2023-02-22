@@ -1,0 +1,19 @@
+created: 20230222101713486
+item-level: 6 10 14 18
+item-price: 2500 10000 45000 240000
+item-variants: Standard Greater Major True
+mod-persistent_damage: Reduced flat DC vs acid or fire damage.
+modified: 20230222102002761
+tags: Rune Magical Abjuration
+title: Quenching
+type: text/vnd.tiddlywiki
+
+''Usage'' Etched onto armor.
+
+This rune counters burning and corrosive agents. Armor with this rune reduces the DC of the flat check to end persistent <<tag Acid>> or <<tag Fire>> damage affecting you from 15 to 12 (7 with particularly effective assistance).
+
+| !Type | !Level | !Price | !Flat DC | !Flat DC with assistance |
+| Standard | 6 | 2500 | 12 | 7 |
+| Greater | 10 | 10000 | 10 | 5 |
+| Major | 14 | 45000 | 8 | 3 |
+| True | 18 | 240000 | 5 | Automatic Success |

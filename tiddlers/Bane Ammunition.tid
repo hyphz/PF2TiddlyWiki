@@ -1,0 +1,21 @@
+created: 20230222110722828
+item-bulk: -
+item-level: 1 5 11
+item-price: 30 250 2500
+item-variants: Lesser Moderate Greater
+modified: 20230222110916315
+tags: Consumable Item Alchemical Interact
+title: Bane Ammunition
+type: text/vnd.tiddlywiki
+
+Ammunition: Any.
+
+Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature— aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula.
+
+When activated ({{OneAction}} [[Interact]]) bane ammunition hits a target that has a trait matching the selected type, it takes persistent poison damage in addition to the damage the attack normally deals.
+
+| !Type | !Level | !Price | !Persistent Poison Damage |
+| Lesser | 1 | 30 | 1d4 |
+| Moderate | 5 | 250 | 2d6 |
+| Greater | 11 | 2500 | 3d6 |
+

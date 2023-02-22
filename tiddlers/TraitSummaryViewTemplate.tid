@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20230125005249858
+modified: 20230222094752460
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -16,6 +16,9 @@ type: text/vnd.tiddlywiki
 <table>
 <$list filter="[all[current]tag[Additive]]">
 <tr><th>[[Additive]]</th><td>One per alchemy item, increases item level by the given amount.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Adjustment]]">
+<tr><th>[[Adjustment]]</th><td>Modifies an item. One per item.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Air]]">
 <tr><th>[[Air]]</th><td>This may not work in vacuum or without air.</td></tr>

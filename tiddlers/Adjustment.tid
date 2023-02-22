@@ -1,0 +1,14 @@
+created: 20230222094618833
+modified: 20230222094648964
+tags: Trait
+title: Adjustment
+type: text/vnd.tiddlywiki
+
+Items with this trait are intended to alter existing pieces of equipment: typically armor, shields,
+and weapons. The item’s description notes which type of equipment it modifies. 
+
+An adjustment that modifies armor can modify unarmored defense attire only if specified in its description. 
+
+A piece of equipment can have one adjustment at a time unless noted otherwise. 
+
+Adding or removing an adjustment normally requires using a 10-minute activity and a repair kit.

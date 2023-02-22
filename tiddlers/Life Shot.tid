@@ -1,0 +1,31 @@
+created: 20230222112246943
+item-bulk: -
+item-level: 2 6 10 14 16 20
+item-price: 50 500 2000 7500 15000 90000
+item-variants: Minor Lesser Moderate Greater Major True
+modified: 20230222112554559
+modtag-disease: +1-4 item to saves.
+modtag-poison: +1-4 item to saves.
+tags: Consumable Item Alchemical Interact Healing
+title: Life Shot
+type: text/vnd.tiddlywiki
+
+Ammunition: Round.
+
+Life shot is a special cartridge that carries a small dose of elixir of life. 
+
+A creature hit by activated ({{OneAction}} [[Interact]]) life shot takes no damage from the successful attack, instead receiving healing and gaining an item bonus to saving throws against <<tag Disease>>s and <<tag Poison>>s for 1 minute. 
+
+On a critical hit, roll the healing received twice and take the better result (this is a <<tag Fortune>> effect). 
+
+A target willing to be hit by this attack is [[Flat-Footed]] against it.
+
+| !Type | !Level | !Price | !Healing | !Save Bonus |
+| Minor | 2 | 50 | 1d4 | +1 |
+| Lesser | 6 | 500 | 3d4+3 | +1 |
+| Moderate | 10 | 2000 | 5d4+7 | +2 |
+| Greater | 14 | 7500 | 7d4+10 | +2 |
+| Major | 16 | 15000 | 8d4+11 | +3 |
+| True | 20 | 90000 | 10d4+14 | +4 |
+
+

@@ -1,0 +1,17 @@
+created: 20230222102130510
+item-level: 13
+item-price: 30000
+mod-ac: +1 status vs protected school.
+mod-fortitude: +1 status vs protected school.
+mod-reflex: +1 status vs protected school.
+mod-will: +1 status vs protected school.
+modified: 20230222102331503
+tags: Rune Magical Abjuration
+title: Spellbreaking
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor
+
+Counter-runes specific to a particular school of magic provide protections against that school. 
+
+You gain a +1 status bonus to saving throws and AC against one school of magic: <<tag Abjuration>>, <<tag Conjuration>>, <<tag Divination>>, <<tag Enchantment>>, <<tag Evocation>>, <<tag Illusion>>, <<tag Necromancy>>, or <<tag Transmutation>>. The crafter chooses the school when creating the rune.

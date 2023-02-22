@@ -1,0 +1,16 @@
+created: 20230222101104635
+item-level: 16
+item-price: 80000
+mod-concealed: Flat check DC is 6, not 5.
+modified: 20230222101217066
+tags: Rune Magical Illusion
+title: Misleading
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto light armor
+
+This rune attempts to obfuscate your location through illusory trickery. 
+
+When you’re [[Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
+
+''Activate'' {{TwoAction}} <<tag Command>>, <<tag Envision>>; ''Frequency'' once per day; ''Effect'' The armor casts [[Mislead]], affecting you. It lasts until the end of your next turn.

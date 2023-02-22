@@ -1,0 +1,13 @@
+created: 20230222105107686
+item-level: 7
+item-price: 3600
+modified: 20230222105234001
+tags: Rune Magical Weapon Evocation
+title: Flurrying
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a melee weapon with the [[Monk]] trait
+
+When you make a [[Flurry of Blows]] using the etched weapon and your first Strike reduces a creature to 0 Hit Points, you can make your second Strike with an echo of the weapon, increasing the reach to 30 feet.
+
+''Activate'' {{TwoAction}} <<tag Command>>, <<tag Envision>>, <<tag Evocation>>, <<tag Force>>; ''Frequency'' once per day; ''Effect'' The weapon casts a [[Spiritual Weapon]] spell. The ghostly weapon looks like the etched weapon. Use your normal attack bonus and damage for the weapon instead of the damage listed in the spell, but use your Wisdom modifier instead of Strength when determining damage. You can choose to make a Flurry of Blows instead of a Strike when the spiritual weapon attacks; this still counts as your <<tag Flourish>> for the turn. You can Sustain this activation in the same manner as the spell.

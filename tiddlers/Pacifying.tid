@@ -1,0 +1,15 @@
+created: 20230222105828104
+item-level: 5
+item-price: 1500
+modified: 20230222110017787
+tags: Rune Magical Weapon Enchantment
+title: Pacifying
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto a weapon
+
+This rune turns weapons into instruments of peacemaking.
+
+''Activate'' {{ReactionIcon}} <<tag Command>> <<tag Mental>>; ''Trigger'' You damage a creature with the etched weapon; ''Effect'' The damaged creature must succeed at a DC 20 [[Will]] save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that aren’t nonlethal for 1 minute, and the creature also experiences a clear psychic warning that they should stop making attacks that could kill.
+
+//Nothing above implies that the peacemaking weapon cannot deal lethal damage!//

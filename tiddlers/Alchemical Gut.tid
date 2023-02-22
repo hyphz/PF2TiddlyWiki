@@ -1,0 +1,12 @@
+created: 20230222110457883
+mod-performance: +1-2 circumstance.
+modified: 20230222110527252
+tags: [[Familiar Ability]]
+title: Alchemical Gut
+type: text/vnd.tiddlywiki
+
+Choose one alchemical item with a level no higher than yours that has the <<tag Distilling>> trait. 
+
+Your familiar can act as the chosen item by swallowing consumables to be affected, which takes two [[Interact]] actions on its part and one from you. 
+
+Instead of taking the normal time to distill the consumable, however, your familiar regurgitates the distilled item 1 round later.

@@ -1,0 +1,30 @@
+created: 20230222112655770
+item-bulk: -
+item-level: 2 6 12 18
+item-price: 70 420 3500 32500
+item-variants: Lesser Moderate Greater Major
+modified: 20230222113034841
+tags: Consumable Item Alchemical Interact Acid
+title: Ooze Ammunition
+type: text/vnd.tiddlywiki
+
+Ammunition: Any.
+
+Ooze ammunition is a capsule containing a sticky substance. 
+
+If you hit a creature with activated ({{OneAction}} [[Interact]]) ooze ammunition, it deals <<tag Acid>> damage instead of its normal damage type, and the creature then takes the listed penalty to Speed and persistent acid damage until it ends the effects. 
+
+On a critical hit, the creature is [[Immobilized]] for 1 round in addition to the other effects. 
+
+The target can end the effects by [[Escaping|Escape]] the sticky foam. These Escape actions don’t need to be consecutive, and other creatures can provide the actions, although doing so deals half the ammunition’s persistent acid damage to the assisting creature. 
+
+A creature that ends the effect still takes the persistent damage that turn.
+
+//It is not clear what is meant by "these Escape actions don't need to be consecutive", since nothing states that more than one Escape action would be required.//
+
+| !Type | !Level | !Price | !Persistent Acid Damage | !Speed penalty | !Escape DC |
+| Lesser | 2 | 70 | 1d4 | -5 | 16 |
+| Moderate | 6 | 420 | 2d4 | -10 | 20 |
+| Greater | 12 | 3500 | 3d4 | -10 | 29 |
+| Major | 18 | 32500 | 4d4 | -15 | 38 |
+

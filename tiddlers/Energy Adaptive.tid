@@ -1,0 +1,13 @@
+created: 20230222095955546
+item-level: 13
+item-price: 26000
+modified: 20230222100117659
+tags: Rune Magical Abjuration
+title: Energy Adaptive
+type: text/vnd.tiddlywiki
+
+''Usage'' etched onto armor
+
+A complex pattern of protective symbols gives protection against various forms of energy, but only part of the runic structure can be active at a given time.
+
+''Activate'' {{ReactionIcon}} <<tag Envision>>; ''Frequency'' once per hour; ''Trigger'' You take <<tag Acid>>, <<tag Cold>>, <<tag Electricity>>, or <<tag Fire>> damage; ''Effect'' You gain resistance 5 to the triggering damage type. This doesn’t apply to the triggering damage. This resistance lasts until you Activate this rune again or the armor is no longer invested by you.
