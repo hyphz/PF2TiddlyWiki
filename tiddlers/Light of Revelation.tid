@@ -16,12 +16,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-perception: +1 status to detect hidden and undetected.
-modified: 20201226171733711
+modified: 20230305193555381
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Divination Light Revelation Champion Class Feat
+tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Divination Revelation Champion Class Feat Light
 title: Light of Revelation
 type: text/vnd.tiddlywiki
 

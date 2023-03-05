@@ -7,7 +7,7 @@ item-variants: Standard Greater Major True
 mod-recall_knowledge: +1 item when using Religion.
 mod-sense_direction: +1 item.
 mod-subsist: +1 item.
-modified: 20210830162748827
+modified: 20230305193238532
 tags: Item Magical Staff Divination
 title: Staff of Providence
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ A large, stylized symbol of an eye adorns the top of this wooden staff, represen
 When wielding this staff, you gain a +1 item bonus on [[Survival]] checks to [[Sense Direction]] or [[Subsist]], and to [[Religion]] checks to [[Recall Knowledge]].
 
 | !Type | !Level | !Price | !Spell Level | !Spells |
-| Standard | 6 | 2300 | Cantrip |[[Guidance]], [[Light]] |
+| Standard | 6 | 2300 | Cantrip |[[Guidance]], [[Light|Light (Spell)]] |
 |~|~|~| 1st |[[Bless]], [[Create Water]] |
 |~|~|~| 2nd |[[Augury]], [[Create Food]], [[See Invisibility]], [[Status]] |
 | Greater | 10 | 9000 | 3rd |[[Safe Passage]], [[Wanderer's Guide]] |

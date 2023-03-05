@@ -3,7 +3,7 @@ item-bulk: 1
 item-hands: 1
 item-level: 20
 item-price: 900000
-modified: 20210508144436557
+modified: 20230305193250811
 modtag-spell: +1 circumstance to saves.
 tags: Item Magical Staff Rare Evocation
 title: Staff of the Magi
@@ -19,7 +19,7 @@ Voluntarily destroying a staff of the magi unleashes a truly devastating wave of
 The explosion continues to echo beyond the initial blast zone, dealing half as much damage to creatures beyond 30 feet but within a 60-foot burst. A creature reduced to 0 Hit Points by this damage dies instantly; this is a <<tag Death>> effect.
 
 | !Type | !Level | !Price | !Spell Level | !Spells |
-| Standard | 20 | 900000 | Cantrip |[[Detect Magic]], [[Light]], [[Mage Hand]], [[Telekinetic Projectile]] |
+| Standard | 20 | 900000 | Cantrip |[[Detect Magic]], [[Light|Light (Spell)]], [[Mage Hand]], [[Telekinetic Projectile]] |
 |~|~|~| 1st |[[Lock]] |
 |~|~|~| 2nd |[[Enlarge]], [[Glitterdust]], [[Invisibility]], [[Knock]], [[Telekinetic Maneuver]], [[Web]] |
 |~|~|~| 3rd |[[Dispel Magic]], [[Fireball]], [[Lightning Bolt]] |

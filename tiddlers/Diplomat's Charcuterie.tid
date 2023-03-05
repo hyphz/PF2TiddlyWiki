@@ -1,0 +1,18 @@
+created: 20230305220947896
+item-bulk: L
+item-hands: 2
+item-level: 3
+item-price: 90
+mod-make_an_impression: +1 item to Diplomacy.
+mod-sense_motive: +1 item to Perception.
+modified: 20230305221138630
+tags: Alchemical Consumable Item Interact Processed
+title: Diplomat's Charcuterie
+type: text/vnd.tiddlywiki
+
+A common sight at political gatherings, a diplomat’s charcuterie has fine meats, cheeses, nuts, fruits, and other finger foods mixed with reagents to engender friendly feelings between those consuming them. 
+
+After Activating the charcuterie by eating it ({{ClockIcon}} 10 minutes [[Interact]]), you gain a +1 item bonus to [[Diplomacy]] checks to [[Make an Impression]] and [[Perception]] checks to [[Sense Motive]]. 
+
+These bonuses last 24 hours or until you make your next daily preparations, whichever comes first.
+

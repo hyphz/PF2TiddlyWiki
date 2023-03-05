@@ -1,0 +1,24 @@
+created: 20230222215815056
+item-bulk: L
+item-hands: 1
+item-level: 15 20
+item-price: 12000 120000
+item-variants: Standard Greater
+modified: 20230222220059269
+tags: Alchemical Bomb Consumable Splash Item Poison Disease Uncommon
+title: Blightburn Bomb
+type: text/vnd.tiddlywiki
+
+Blightburn bombs have radioactive materials sealed inside flasks treated with lead. 
+
+The bomb grants an item bonus to attack rolls and deals poison damage, persistent poison damage, and poison splash damage, according to the bomb’s type. 
+
+A creature that takes the persistent poison damage deals the splash damage again from its current position as the radiation continues to harm nearby creatures. 
+
+The persistent damage can last up to 1 minute. 
+
+Blightburn bombs also expose the primary target to [[Blightburn Sickness]] at the listed Fortitude DC.
+
+| !Type | !Level | !Price | !Item bonus to attack | !Poison Damage | !Persistent Poison Damage | !Poison Splash Damage | !Disease Fortitude DC |
+| Standard | 15 | 12000 | +2 | 3d6 | 3d4 | 3 | 34 |
+| Greater | 20 | 120000 | +3 | 4d6 | 4d4 | 4 | 43 |

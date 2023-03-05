@@ -1,5 +1,5 @@
 created: 20200802230048867
-modified: 20200802230125489
+modified: 20230305193113437
 tags: Rule
 title: Darkness
 type: text/vnd.tiddlywiki
@@ -11,3 +11,5 @@ A creature without darkvision or another means of perceiving in darkness has the
 If a creature can see into an illuminated area, it can observe creatures within that illuminated area normally. 
 
 After being in darkness, sudden exposure to bright light might make you [[Dazzled]] for a short time, as determined by the GM.
+
+Darkness effects extinguish non-magical light in the area, and can [[Counteract]] less powerful magical <<tag Light>>. You must usually target light magic with your darkness magic directly to counteract the light, but some darkness spells automatically attempt to counteract light.

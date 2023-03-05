@@ -3,7 +3,7 @@ feat-level: 1
 feat-vher: Ifrit
 mod-hide: -2 circumstance to Stealth.
 mod-sneak: -2 circumstance to Stealth.
-modified: 20210327154641418
+modified: 20230305193211387
 modtag-light: +1 circumstance on saves.
 tags: Heritage Feat Ifrit Lineage
 title: Brightsoul
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 The fire inside you asserts itself as beaming, radiant light. 
 
-Your body is naturally luminescent, glowing with the effects of a primal [[Light]] cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. 
+Your body is naturally luminescent, glowing with the effects of a primal [[Light|Light (Spell)]] cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. 
 
 The light is involuntary and constant; if counteracted, it returns in 1d4 rounds. 
 

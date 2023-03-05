@@ -3,7 +3,7 @@ item-bulk: 1
 item-hands: 1
 item-level: 8
 item-price: 4250
-modified: 20210508142351004
+modified: 20230305193228961
 tags: Item Magical Staff Necromancy
 title: Staff of Illumination
 type: text/vnd.tiddlywiki
@@ -15,6 +15,6 @@ This simple iron staff is capped with a faceted, clear gem.
 ''Craft Requirements'' Supply one casting of all listed levels of all listed spells.
 
 | !Type | !Level | !Price | !Spell Level | !Spells |
-| Standard | 8 | 4250 | Cantrip |[[Light]] |
+| Standard | 8 | 4250 | Cantrip |[[Light|Light (Spell)]] |
 |~|~|~| 2nd |[[Continual Flame]] |
 |~|~|~| 3rd |[[Continual Flame]], [[Searing Light]] |

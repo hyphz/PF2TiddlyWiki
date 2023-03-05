@@ -1,0 +1,21 @@
+created: 20230305194223312
+item-bulk: L
+item-hands: 1
+item-level: 12 18
+item-price: 3800 38000
+item-variants: Standard Greater
+modified: 20230305194429417
+tags: Alchemical Bomb Consumable Splash Item Sonic
+title: Shatterstone
+type: text/vnd.tiddlywiki
+
+A shatterstone is a small ceramic orb, much like a [[Thunderstone]]. Inside are reactive agents that set up an intense field of sonic vibration when the stone breaks. 
+
+The bomb grants an item bonus to attack rolls and deals sonic damage and sonic splash damage, according to the bomb’s type. 
+
+Much of the sound is ultrasonic, and creatures with <<tag Sonic>> [[Weakness]] that take damage from the bomb must succeed at a [[Fortitude]] saving throw at the listed DC or be [[Deafened]] until the end of their next turn.
+
+| !Type | !Level | !Price | !IItem bonus to attack | !Sonic damage | !Sonic splash damage | !Fortitude DC |
+| Standard | 12 | 3800 | +2 | 3d6 | 3 | 30 |
+| Greater | 18 | 38000 | +3 | 4d6 | 4 | 40 |
+

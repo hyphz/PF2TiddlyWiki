@@ -1,0 +1,37 @@
+created: 20230305194508812
+item-bulk: L
+item-hands: 1
+item-level: 1 3 11 17
+item-price: 40 120 2400 24000
+item-variants: Lesser Moderate Greater Major
+modified: 20230305194948195
+s-crit: The target is unaffected.
+s-fail: The target is [[Sickened]] 1 and [[Slowed]] 1 while sickened.
+s-fumble: The target is [[Blinded]] for 1 round, [[Sickened]] 2, and [[Slowed]] 1 while sickened.
+s-hit: The target is [[Sickened]] 1.
+tags: Alchemical Bomb Consumable Splash Item Olfactory Poison
+title: Skunk Bomb
+type: text/vnd.tiddlywiki
+
+Skunk bombs are made from the concentrated odors of creatures with natural or supernatural stench. 
+
+The bomb grants an item bonus to attack rolls and deals poison damage and poison splash damage. 
+
+Any creature hit by the bomb or in its splash area must attempt a [[Fortitude]] saving throw with a DC based on the bomb’s type. ''Creatures in the splash area treat the results of their saving
+throw as one step better.''
+
+{{||SaveSuccessTable}}
+
+Creatures sickened by the bomb emit an odor that lasts 10 minutes after the sickened condition ends (or 1 hour if they were also blinded). 
+
+The odor can be removed or neutralized by using [[Prestidigitation]] or similar magic or by spending 10 minutes scrubbing with ample soap and water. 
+
+While the odor lasts, creatures within 30 feet can smell the target, enabling even those with a weak sense of smell to detect its presence, and all creatures gain a +1 item bonus to [[Track]] the affected creature for as long as it has the odor. 
+
+A creature that has [[Imprecise]] or [[Precise]] [[Scent]] doubles the range at which it can detect the target using this scent. //(Most player races have [[Vague]] scent.)//
+
+| !Type | !Level | !Price | !Item bonus to attack | !Poison damage | !Poison splash damage | !Fortitude DC |
+| Lesser | 1 | 40 | - | 1d4 | 1 | 15 |
+| Moderate | 3 | 120 | +1 | 2d4 | 2 | 17 |
+| Greater | 11 | 2400 | +2 | 3d4 | 3 | 28 |
+| Major | 17 | 24000 | +3 | 4d4 | 4 | 37 |

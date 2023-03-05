@@ -1,0 +1,22 @@
+created: 20230305200347852
+item-bulk: L
+item-hands: 2
+item-level: 2 5
+item-price: 50 250
+item-variants: Standard Greater
+mod-aid: If shared greater waffles with target, bonus is +1.
+mod-follow_the_expert: If shared waffles with target, bonus is +1.
+modified: 20230305200657271
+tags: Alchemical Consumable Item Processed Interact
+title: Cooperative Waffles
+type: text/vnd.tiddlywiki
+
+Flash-cooked on a waffle iron and drizzled with alchemical syrups and compound butter, cooperative waffles bolster the supportive spirit of those who share the batch. 
+
+You can split the waffles with one other creature. After you both eat half of the waffles to Activate them ({{ClockIcon}} 10 minutes [[Interact]]) , when one of you uses [[Follow the Expert]] to follow the other, the circumstance bonus granted is 1 higher. 
+
+The waffles’ bonus lasts 24 hours or until you next make your daily preparations, whichever comes first. 
+
+You can only be linked to one creature in this way at a time; if either of you eats cooperative waffles again, the effect of your previous waffles ends.
+
+//If you eat __greater__ cooperative waffles//, the benefit of the waffles also applies when one of you successfully [[Aid]]s a skill check the other attempts.

@@ -1,0 +1,26 @@
+created: 20230305195014912
+item-bulk: L
+item-hands: 1
+item-level: 12 18
+item-price: 3750 37500
+item-variants: Standard Greater
+modified: 20230305195240346
+modtag-morph: Must repeat poison save to change shape.
+modtag-polymorph: Must repeat poison save to change shape.
+tags: Alchemical Bomb Consumable Splash Item Poison
+title: Trueshape Bomb
+type: text/vnd.tiddlywiki
+
+Concentrated wolfsbane and other anti-shapechanger reagents fill trueshape bombs. 
+
+These bombs grant an item bonus to attack rolls and deal poison damage, persistent poison damage, and poison splash damage, according to their type. 
+
+If the primary target is under the effects of a <<tag Morph>> or <<tag Polymorph>> effect, it must succeed at a [[Fortitude]] saving throw at the bomb’s listed DC, or else the effects end and the creature returns to its normal form. 
+
+Targets taking persistent poison damage from this bomb must succeed at another [[Fortitude]] saving throw at the same DC to change shape using a <<tag Morph>> or <<tag Polymorph>> effect.
+
+The persistent damage can last up to 1 minute.
+
+| !Type | !Level | !Price | !Item bonus to attack | !Poison damage | !Persistent poison damage | !Poison splash damage | !Fortitude DC |
+| Standard | 12 | 3750 | +2 | 3d6 | 3d4 | 3 | 30 |
+| Greater | 18 | 37500 | +3 | 4d6 | 4d4 | 4 | 40 |

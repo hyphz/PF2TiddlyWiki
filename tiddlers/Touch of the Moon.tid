@@ -19,7 +19,7 @@ mod-damage_roll: +4 status when Waxing or Full.
 mod-fortitude: +1 status when Full or Waning.
 mod-reflex: +1 status when Full or Waning.
 mod-will: +1 status when Full or Waning.
-modified: 20200806174047421
+modified: 20230305193552472
 s-crit: 
 s-fail: 
 s-fumble: 

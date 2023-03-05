@@ -1,0 +1,22 @@
+created: 20230222220631253
+item-bulk: L
+item-hands: 1
+item-level: 12 18
+item-price: 4000 45000
+item-variants: Standard Greater
+modified: 20230222220800767
+tags: Alchemical Bomb Consumable Splash Item Force
+title: Lodestone Bomb
+type: text/vnd.tiddlywiki
+
+Lodestone bombs hold reactive ionized minerals preserved in a dormant state until broken. 
+
+The bomb grants an item bonus to attack rolls and deals force damage and force splash damage, according to the bomb’s type. 
+
+In addition, a target made of metal, wearing metal armor, or using metal weapons takes persistent force damage and is [[Clumsy]] 1 and [[Enfeebled]] 1 while taking the persistent damage. 
+
+The persistent damage can last up to 1 minute.
+
+| !Type | !Level | !Price | !Item bonus to attack | !Force Damage | !Force Splash Damage | !Persistent Force Damage |
+| Standard | 12 | 4000 | +2 | 3d4 | 2 | 2d4 |
+| Greater | 18 | 45000 | +3 | 4d4 | 3 | 3d4 |

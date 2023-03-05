@@ -5,12 +5,12 @@ feat-fpre: [[Arcane Cascade]]
 feat-level: 10
 feat-sppre: [[Sparkling Targe]]
 mod-shield_block: Block creates a cone that may blind or dazzle.
-modified: 20210903195531835
+modified: 20230305193558198
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 minute. The creature can spend an [[Interact]] action rubbing its eyes to end this blinded condition.
 s-fumble: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 hour.
 s-hit: The creature is [[Dazzled]] for 1 round.
-tags: Class Feat Magus Evocation Light Visual
+tags: Class Feat Magus Evocation Visual Light
 title: Dazzling Block
 type: text/vnd.tiddlywiki
 

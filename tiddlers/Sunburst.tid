@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20201129003932670
+modified: 20230305193550980
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Light Positive Divine Primal
+tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Positive Divine Primal Light
 title: Sunburst
 type: text/vnd.tiddlywiki
 

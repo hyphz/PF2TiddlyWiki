@@ -1,0 +1,15 @@
+created: 20230305195529935
+mod-quick_alchemy: Takes 1 minute to create. Remains potent long enough to activate.
+modified: 20230305195702046
+modtag-processed: Takes 1 minute of Quick Alchemy. Remains potent long enough to activate.
+tags: Trait
+title: Processed
+type: text/vnd.tiddlywiki
+
+An alchemical consumable with the processed trait can be created with Quick Alchemy but is too complex to create in a single action. 
+
+Using [[Quick Alchemy]] to create a processed item takes 1 minute. 
+
+If the item would take more than 3 actions to Activate, the time the item remains potent after you create it is equal to its activation time. For instance, a processed item that takes 10 minutes to Activate would remain potent for 10 minutes when created with Quick Alchemy instead of remaining potent only until the start of your next turn. 
+
+This trait doesn’t change other specifics of Quick Alchemy. You could, for example, use [[Double Brew]] to create two of the same processed item over the course of 1 minute.

@@ -1,0 +1,30 @@
+created: 20230305222925988
+item-bulk: -
+item-hands: 1
+item-level: 6 12 19
+item-price: 400 3750 75000
+item-variants: Lesser Moderate Greater
+mod-recall_knowledge: +2-4 item with skill based on coffee blend.
+mod-strategic_strike: Use d8s instead of d6s.
+modified: 20230305223240307
+tags: Alchemical Consumable Item Elixir
+title: Insight Coffee
+type: text/vnd.tiddlywiki
+
+A popular choice for investigators studying alchemy, insight coffee is infused with alchemical flavoring during percolation.
+
+For 1 hour after you drink an insight coffee, you use d8s instead of d6s for your extra damage from the [[Strategic Strike]] class feature, if you have it. //(An [[Investigator]] feature.)// 
+
+You also gain an item bonus to checks to [[Recall Knowledge]] with a skill determined by the blend chosen when the item is crafted.
+
+* ''Double Coffee'' [[Religion]]
+* ''Hazelnut'' [[Nature]]
+* ''Mocha'' [[Arcana]]
+* ''Vanilla'' [[Society]]
+* ''Pumpkin Spice'' [[Occultism]]
+* ''Toffee'' [[Medicine]]
+
+| !Type | !Level | !Price | !Item bonus |
+| Lesser | 6 | 40 | +2 |
+| Moderate | 12 | 3750 | +3 |
+| Greater | 19 | 75000 | +4 |

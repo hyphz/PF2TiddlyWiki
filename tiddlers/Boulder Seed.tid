@@ -1,0 +1,25 @@
+created: 20230222220131979
+item-bulk: L
+item-hands: 1
+item-level: 12 18
+item-price: 3600 36000
+item-variants: Standard Greater
+modified: 20230222220620496
+tags: Alchemical Bomb Consumable Splash Item
+title: Boulder Seed
+type: text/vnd.tiddlywiki
+
+This bomb is made of volatile fluids that rapidly expand and harden when exposed to air. 
+
+A boulder seed grants an item bonus to attack rolls and deals bludgeoning damage and bludgeoning splash damage, according to the bomb’s type.
+
+When activated, the bomb fills a 5-foot cube with hardened foam, which has stats according to the bomb’s type and which pushes a primary target of a certain size or smaller occupying that space 5 feet away from you. On a critical hit, the target also falls prone. 
+
+The splash zone fills with rubble, creating [[Difficult Terrain]]. 
+
+The “boulder” the bomb creates fails all saving throws and loses 1 Hardness per round, disintegrating into fine powder when the boulder’s Hardness is reduced to 0. At that time, the difficult terrain the bomb created also disappears.
+
+
+| !Type | !Level | !Price | !Item bonus to attack | !Bludgeoning damage | !Bludgeoning Splash damage | !Boulder Stats | !Largest size pushed |
+| Standard | 12 | 3600 | +2 | 3d4 | 3 | Hardness 2, HP 20 (Wood) | Medium |
+| Greater | 18 | 36000 | +3 | 4d4 | 4 | Hardness 10, HP 40 (Stone) | Large |

@@ -1,13 +1,13 @@
 created: 20211027144558714
 feat-arch: [[Bright Lion]]
 feat-level: 4
-modified: 20211027144640423
+modified: 20230305193300138
 tags: Feat Archetype
 title: Warding Light
 type: text/vnd.tiddlywiki
 
 You gain a tattoo that serves as a special ward to defend you against //the god-king//’s forces.
 
-The tattoo allows you to cast the [[Light]] cantrip as a divine innate spell at will. The cantrip is heightened to a spell level equal to half your level rounded up. 
+The tattoo allows you to cast the [[Light|Light (Spell)]] cantrip as a divine innate spell at will. The cantrip is heightened to a spell level equal to half your level rounded up. 
 
 If you die, the tattoo immediately casts [[Gentle Repose]] on your corpse, heightened to the same spell level.

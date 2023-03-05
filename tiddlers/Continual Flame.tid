@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200725145902458
+modified: 20230305193543126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Light Spell Arcane Divine Occult Primal Material Somatic Verbal Manipulate Concentrate
+tags: Evocation Spell Arcane Divine Occult Primal Material Somatic Verbal Manipulate Concentrate Light
 title: Continual Flame
 type: text/vnd.tiddlywiki
 

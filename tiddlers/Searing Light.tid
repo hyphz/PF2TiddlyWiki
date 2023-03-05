@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200729201718946
+modified: 20230305193550619
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Fire Good Light Divine Primal
+tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Fire Good Divine Primal Light
 title: Searing Light
 type: text/vnd.tiddlywiki
 

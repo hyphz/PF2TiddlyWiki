@@ -1,0 +1,23 @@
+created: 20230305223321112
+item-bulk: -
+item-hands: 1
+item-level: 1 4
+item-price: 30 150
+item-variants: Standard Power
+mod-climb: Power: +1 item to Athletics.
+mod-force_open: Power: +1 item to Athletics.
+mod-fortitude: Power: +1 vs Sickened.
+mod-hustle: Power: Hustle for Con mod minutes times 20.
+mod-swim: Power: +1 item to Athletics.
+modified: 20230305223643420
+tags: Alchemical Consumable Item Uncommon Interact
+title: Journeybread
+type: text/vnd.tiddlywiki
+
+Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost. 
+
+Eating one journeybread ({{OneAction}} [[Interact]]) provides all the food and water you need for a day. 
+
+If you subsist on nothing else for a week, you become temporarily immune to journeybread until you eat real food and drink water normally for 24 hours.
+
+In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to [[Athletics]] checks to [[Climb]], [[Force Open]], and [[Swim]], and to [[Fortitude]] saving throws against being [[Sickened]]. The number of minutes you can [[Hustle]] changes to your [[Constitution]] modifier × 20. These benefits last for 4 hours.

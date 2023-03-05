@@ -1,0 +1,16 @@
+created: 20230305222756318
+item-bulk: -
+item-hands: 1
+item-level: 5
+item-price: 280
+modified: 20230305222856400
+tags: Alchemical Consumable Item Lozenge
+title: Ginger Chew
+type: text/vnd.tiddlywiki
+
+This chewy ginger candy aids digestion and soothes unsettled stomachs. 
+
+A ginger chew lasts for 1 hour and grants you a +1 item bonus to [[Fortitude]] saves against being [[Sickened]].
+
+''Bite Effect'' {{OneAction}} Reduce your sickened value by 1, if any. The chew becomes inert.
+

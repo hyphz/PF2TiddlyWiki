@@ -1,0 +1,27 @@
+created: 20230305221402200
+item-bulk: L
+item-hands: 1
+item-level: 5
+item-price: 270
+mod-balance: Chocolate: +1 item to Acrobatics.
+mod-climb: Strawberry: +1 item to Athletics.
+mod-leap: Strawberry: +1 item to Athletics.
+mod-maneuver_in_flight: Chocolate: +1 item to Acrobatics.
+mod-squeeze: Chocolate: +1 item to Acrobatics.
+mod-step: Vanilla: can step into difficult terrain.
+mod-swim: Strawberry: +1 item to Athletics.
+modified: 20230305221707206
+tags: Alchemical Consumable Item Interact Elixir
+title: Egg Cream Fizz
+type: text/vnd.tiddlywiki
+
+Containing neither eggs nor cream, an egg cream fizz contains milk or nut milk, sparkling water, and flavored syrup, frothed and chilled. 
+
+Upon drinking ({{OneAction}} [[Interact]]), you feel lighter and more buoyant, gaining a +5-foot item bonus to your Speed for 10 minutes.
+
+During this time, you also gain another effect determined by the drink’s syrup, which is chosen when the drink is created.
+
+* ''Chocolate'' You gain a +1 item bonus to [[Acrobatics]] checks to [[Balance]], [[Maneuver in Flight]], and [[Squeeze]].
+* ''Strawberry'' You gain a +1 item bonus to Athletics checks to [[Climb]], [[Leap]], and [[Swim]].
+* ''Vanilla'' You can [[Step]] into [[Difficult Terrain]].
+

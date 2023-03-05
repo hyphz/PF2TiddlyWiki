@@ -1,0 +1,23 @@
+created: 20230305214509752
+item-bulk: -
+item-hands: 1
+item-level: 5 9 13 15
+item-price: 300 1500 4500 10000
+item-variants: Lesser Moderate Greater Major
+modified: 20230305214750316
+tags: Alchemical Consumable Item Lozenge
+title: Crackling Bubblegum
+type: text/vnd.tiddlywiki
+
+This tangy gum cracks and pops in your mouth as you chew it. 
+
+While you’re chewing crackling bubble gum, for up to 10 minutes, you have an item bonus to saving throws against <<tag Auditory>> and <<tag Sonic>> effects.
+
+''Bite Effect'' {{TwoAction}} <<tag Sonic>> ''Effect'' You blow a bubble with the gum until it pops, after which it becomes inert. The pop deals sonic damage to all creatures in a 15-foot cone with a basic [[Fortitude]] save. A creature that fails its save is also bound with sticky gum, taking a –10-foot item penalty to its Speed for 1 minute. The creature can remove the gum with a total of 3 [[Interact]] actions. These actions don’t have to be consecutive, and other creatures can provide the actions as well.
+
+| !Type | !Level | !Price | !Item bonus to attack | !Damage | !Fortitude DC |
+| Lesser | 5 | 300 | +1 | 4d4 | 19 |
+| Moderate | 9 | 1500 | +2 | 6d4 | 25 |
+| Greater | 13 | 4500 | +2 | 8d4 | 30 |
+| Major | 15 | 10000 | +3 | 9d4 | 34 |
+

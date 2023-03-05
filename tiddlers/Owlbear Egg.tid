@@ -1,0 +1,21 @@
+created: 20230305224521555
+item-bulk: L
+item-hands: 1
+item-level: 7
+item-price: 600
+modified: 20230305224733479
+s-crit: The creature is unaffected.
+s-fail: The creature is [[Frightened]] 2.
+s-fumble: The creature is [[Frightened]] 3 and [[Fleeing]] for 1 round.
+s-hit: The creature is [[Frightened]] 1.
+tags: Alchemical Consumable Item Auditory Interact Emotion Fear Mental
+title: Owlbear Egg
+type: text/vnd.tiddlywiki
+
+Not only are owlbear eggs delicious when boiled, but when infused with a mix of alchemical reagents, they also make you emit a long screech much like an owlbear’s. 
+
+//When you eat the egg ({{TwoAction}} [[Interact]])//, all creatures in a 30-foot [[Emanation]] must attempt a DC 23 [[Will]] save. 
+
+Regardless of the result, creatures in the area are temporarily immune to this screech for 1 minute.
+
+{{||SaveSuccessTable}}

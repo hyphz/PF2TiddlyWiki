@@ -4,7 +4,7 @@ item-hands: 0
 item-level: 2
 item-price: 280
 item-slot: Worn
-modified: 20210823215526848
+modified: 20230305193312285
 tags: Item Invested Magical Uncommon Evocation
 title: Wayfinder
 type: text/vnd.tiddlywiki
@@ -21,4 +21,4 @@ An invested aeon stone slotted in a wayfinder also grants its resonant power.
 
 If you have more than one wayfinder with an invested aeon stone on your person at a given time, destructive interference from their resonance prevents you from gaining benefits from any of them. You can still benefit from additional aeon stones orbiting your head, just not in wayfinders.
 
-''Activate'' {{OneAction}} command; ''Effect'' The wayfinder is targeted by a 1st-level [[Light]] spell.
+''Activate'' {{OneAction}} command; ''Effect'' The wayfinder is targeted by a 1st-level [[Light|Light (Spell)]] spell.

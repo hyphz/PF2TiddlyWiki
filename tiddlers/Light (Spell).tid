@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200726231155493
+m-area: 
+m-components: Somatic Verbal
+m-duration: Until the next time you make your [[daily preparations|Rest]]
+m-level: 1
+m-range: Touch
+m-save: 
+m-targets: __1 object of 1 Bulk or less, either unattended or possessed by you or a [[Willing]] ally__
+m-time: 
+modified: 20230305193802519
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Cantrip Evocation Arcane Divine Occult Primal Somatic Verbal Spell Concentrate Manipulate Light
+title: Light (Spell)
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+The object glows, casting bright light in a 20-foot radius and dim light for the next 20 feet, like a [[Torch]]. 
+
+If you cast this spell again on a second object, the light spell on the first object ends. 
+
+''Heightened (4th)'' The object sheds bright light in a 60-foot radius and dim light for the next 60 feet.
+
+//The [[Darkness]] spell does not suppress magical light of a higher level than it. Because Light is a cantrip and scales with your level, this means the Light cantrip can relatively easily outshine the Darkness spell.//

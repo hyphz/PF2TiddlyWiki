@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-concealed: Prevents a creature becoming concealed unless invisible.
 mod-invisible: Makes an invisible creature only Concealed, not undetected.
-modified: 20200805230044334
+modified: 20230305193548745
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Light Spell Divine Occult Primal Somatic Verbal Manipulate Concentrate
+tags: Evocation Spell Divine Occult Primal Somatic Verbal Manipulate Concentrate Light
 title: Faerie Fire
 type: text/vnd.tiddlywiki
 

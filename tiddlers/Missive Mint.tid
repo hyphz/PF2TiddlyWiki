@@ -1,0 +1,17 @@
+created: 20230305224155026
+item-bulk: -
+item-hands: 1
+item-level: 1
+item-price: 30
+modified: 20230305224430865
+tags: Alchemical Consumable Item Auditory Linguistic Interact
+title: Missive Mint
+type: text/vnd.tiddlywiki
+
+This white mint with a chalky coating appears to be a normal candy unless someone examining it succeeds at a DC 15 [[Crafting]] check to [[Identify Alchemy]]. 
+
+If the crafter has the [[Powerful Alchemy]] class feature, this DC is their class DC instead, if it’s higher. 
+
+The mint’s crafter can imbue a missive mint with a message containing up to 25 words while creating it. 
+
+Someone who consumes the missive mint hears the message in a fizzing voice as the mint’s coating bubbles away, which takes the same amount of time as it would to speak the message.. The mint’s eater has no way of knowing who the original sender was, what they sound like, or who the message was intended for.

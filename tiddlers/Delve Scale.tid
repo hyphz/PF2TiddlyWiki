@@ -1,0 +1,16 @@
+created: 20230305215129468
+item-bulk: -
+item-hands: 1
+item-level: 10
+item-price: 1550
+mod-high_jump: +2 item to Athletics.
+mod-long_jump: +2 item to Athletics.
+modified: 20230305220938484
+tags: Alchemical Consumable Item Interact
+title: Delve Scale
+type: text/vnd.tiddlywiki
+
+If fried, a bulette’s thick forefoot scales render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales’ properties and flavor. 
+
+For 1 minute after eating a delve scale ({{OneAction}} [[Interact]]), you gain a burrow Speed of 15 feet and a +2 item bonus to [[Athletics]] checks to [[High Jump]] or [[Long Jump]].
+

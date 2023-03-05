@@ -1,0 +1,18 @@
+created: 20230305195728292
+item-bulk: L
+item-hands: 1
+item-level: 9 12
+item-price: 3500 1300
+item-variants: Standard Aged
+modified: 20230305195919406
+tags: Alchemical Consumable Item Elixir Interact
+title: Assassin Vine Wine
+type: text/vnd.tiddlywiki
+
+Crafting wine from assassin vine berries is a dangerous process, but the resulting ruby-red drink is rich and heady. Alchemical reagents added during fermentation concentrate the vine’s connection to its environment and impart them onto the imbiber. 
+
+For 1 minute after drinking ({{OneAction}} [[Interact]]) a glass of assassin vine wine, you have [[Tremorsense]] at a range of 30 feet.
+
+Assassin vine wine that has been aged for several years— or artificially aged with alchem —develops both a greater complexity of flavor and a stronger connection to an assassin vine’s bond with nature. 
+
+When you drink the //aged// wine, vegetation in a 20-foot emanation around you begins to writhe, becoming [[Difficult Terrain]] until the start of your next turn.

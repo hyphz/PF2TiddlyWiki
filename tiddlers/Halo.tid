@@ -1,13 +1,13 @@
 created: 20200829214805289
 feat-level: 1
 feat-vher: Aasimar
-modified: 20200829214931023
+modified: 20230305193220376
 tags: Heritage Feat Aasimar
 title: Halo
 type: text/vnd.tiddlywiki
 
 You are surrounded by a halo of light and goodness at all times. 
 
-Your halo sheds light with the effects of a <<tag Divine>> [[Light]] cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. 
+Your halo sheds light with the effects of a <<tag Divine>> [[Light|Light (Spell)]] cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. 
 
 You can suppress or reestablish the halo with a single action, which has the <<tag Concentrate>> trait.

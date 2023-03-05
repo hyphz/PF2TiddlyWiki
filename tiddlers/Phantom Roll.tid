@@ -1,0 +1,16 @@
+created: 20230305224803467
+item-bulk: L
+item-hands: 1
+item-level: 4
+item-price: 130
+mod-avoid_notice: +1 item to Stealth, go full speed or combine with Investigate or Scout.
+modified: 20230305225000491
+tags: Alchemical Consumable Item Interact
+title: Phantom Roll
+type: text/vnd.tiddlywiki
+
+A phantom roll contains vegetables, greens, and fine, clear noodles, all wrapped in transparent, edible starch paper and alchemically treated and laced with a tangy sauce. 
+
+Upon eating the roll ({{ClockIcon}} 10 minutes [[Interact]]), you gain a +1 item bonus to [[Stealth]] checks you attempt during the [[Avoid Notice]] exploration activity. You can also [[Avoid Notice]] at full Speed or combine it with [[Investigate]] or [[Scout]] while moving at half Speed. 
+
+These effects expire 24 hours after you eat the roll or when you make your next daily preparations, whichever comes first.

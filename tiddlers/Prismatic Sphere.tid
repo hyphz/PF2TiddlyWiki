@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-counteract: Can't be counteracted by lower or same level effects.
-modified: 20200801163405444
+modified: 20230305193549484
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Abjuration Light Arcane Occult Somatic Verbal Spell Concentrate Manipulate
+tags: Abjuration Arcane Occult Somatic Verbal Spell Concentrate Manipulate Light
 title: Prismatic Sphere
 type: text/vnd.tiddlywiki
 

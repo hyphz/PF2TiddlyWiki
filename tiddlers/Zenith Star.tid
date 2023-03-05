@@ -13,7 +13,7 @@ m-range: 60 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200809205332933
+modified: 20230305193553215
 s-crit: The target is unaffected.
 s-fail: The target is dazzled for 1 round. While the spell persists, as long as you can see the night sky and the target is visible from the same night sky, you can sense the approximate direction and distance to the creature by using a single action, which has the <<tag Concentrate>> trait. This is exact enough to track the creature, but not pinpoint their exact square (for instance, to make an attack). You can set a number of zenith stars equal to your Wisdom modifier; if you exceed this number, your oldest zenith star is automatically [[Dismiss]]ed.
 s-fumble: As failure, but the target is [[Blinded]] for 1 round.

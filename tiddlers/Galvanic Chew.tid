@@ -1,0 +1,16 @@
+created: 20230305222516305
+item-bulk: -
+item-hands: 1
+item-level: 8
+item-price: 750
+modified: 20230305222706061
+tags: Alchemical Consumable Item Lozenge
+title: Galvanic Chew
+type: text/vnd.tiddlywiki
+
+A galvanic chew is a processed ball of dried electric eel, roasted until chewy and coated in spicy, reagent-infused powder that tingles with electricity as you chew. 
+
+For up to 1 hour, you have resistance 5 to <<tag Electricity>>.
+
+''Bite Effect'' {{ReactionIcon}} <<Tag Electricity>> ''Trigger'' You’re hit by a melee attack or touched by a creature; ''Effect'' You channel electricity into the triggering creature, which must succeed at a DC 24 [[Fortitude]] save or be [[Stunned]] 1 (or [[Stunned]] 2 on a critical failure). The chew becomes inert. You’re then temporarily immune to galvanic chews for 24 hours or until the next time you make your daily preparations.
+

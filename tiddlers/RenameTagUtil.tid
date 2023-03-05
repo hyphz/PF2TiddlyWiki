@@ -1,0 +1,25 @@
+created: 20230305193457662
+modified: 20230305193506662
+tags: 
+title: RenameTagUtil
+type: text/vnd.tiddlywiki
+
+
+|!Search tag: | <$edit-text tiddler="$:/temp/RenameTags/search" tag="input" type="text"/> |
+|!Replace by: | <$edit-text tiddler="$:/temp/RenameTags/replace" tag="input" type="text"/> |
+
+
+---
+
+!First step
+!!//Apply the new tag to the following tiddlers//
+<$list filter="[!has[draft.of]tag{$:/temp/RenameTags/search}!tag{$:/temp/RenameTags/replace}sort[created]]">
+<$checkbox tag={{$:/temp/RenameTags/replace}}><$link to={{!!title}}><$view field="title"/></$link></$checkbox>
+
+</$list>
+
+!Second step
+!!//Remove the old tag from the following tiddlers//
+<$list filter="[!has[draft.of]tag{$:/temp/RenameTags/search}tag{$:/temp/RenameTags/replace}sort[created]]">
+<$checkbox tag={{$:/temp/RenameTags/search}}> ~~<$link to={{!!title}}><$view field="title"/></$link>~~</$checkbox>
+</$list>
