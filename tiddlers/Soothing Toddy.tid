@@ -1,0 +1,22 @@
+created: 20230414222107424
+item-bulk: L
+item-hands: 1
+item-level: 6
+item-price: 450
+modified: 20230414222304098
+modtag-auditory: Amaretto: +1 item to saves.
+modtag-emotion: +1 item to saves.
+modtag-olfactory: Limoncello: +1 item to saves.
+modtag-visual: Whiskey: +1 item to saves.
+tags: Alchemical Consumable Item Interact Elixir
+title: Soothing Toddy
+type: text/vnd.tiddlywiki
+
+Hot tea with a comforting, flowery aroma, a soothing toddy grants you a +1 item bonus to saving throws against <<tag Emotion>> effects and against effects with a trait determined by the liquor mixed into the tea when it’s created. 
+
+These benefits last for 1 hour.
+
+| !Liquor | !Bonus against |
+| Amaretto | <<tag Auditory>> |
+| Limoncello | <<tag Olfactory>> |
+| Whiskey | <<tag Visual>> |

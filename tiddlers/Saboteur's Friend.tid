@@ -1,0 +1,15 @@
+created: 20230414220814534
+item-bulk: -
+item-hands: 1
+item-level: 4
+item-price: 140
+modified: 20230414221402900
+tags: Alchemical Consumable Item Interact Ingested Poison
+title: Saboteur's Friend
+type: text/vnd.tiddlywiki
+
+The euphemistically named saboteur’s friend looks, smells, and tastes like an appetizing chocolate square. You lace the chocolate with reagents that induce a strong laxative effect. 
+
+Saboteur’s friend is useful for incapacitating rather than dealing lasting harm. Unlike some poisons, saboteur’s friend can have its [[Sickened]] condition reduced (but changing to a higher or lower stage after a save applies any sickened condition listed for that stage, as normal).
+
+''Saving Throw'' DC 20 [[Fortitude]]; ''Onset'' 10 minutes; ''Maximum Duration'' 1 hour; ''Stage 1'' [[Sickened]] 1 (10 minutes); ''Stage 2'' [[Enfeebled]] 1 and [[Sickened]] 2 (10 minutes); ''Stage 3'' [[Enfeebled]] 1, [[Fatigued]], and [[Sickened]] 3 (10 minutes)

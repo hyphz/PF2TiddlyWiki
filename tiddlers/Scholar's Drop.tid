@@ -1,0 +1,17 @@
+created: 20230414221426187
+item-bulk: -
+item-hands: 1
+item-level: 6
+item-price: 400
+modified: 20230414221548057
+tags: Alchemical Consumable Item Interact Lozenge
+title: Scholar's Drop
+type: text/vnd.tiddlywiki
+
+University students first used the scholar’s drop to gain an edge over their academic rivals, but the candy has since spread across //the world//. The flavor of this hard, sugar‑coated candy is highly refreshing and based on lemon and green tea. 
+
+For 1 hour, you gain a +1 item bonus to saving throws against effects that could render you [[Fatigued]].
+
+''Secondary Effect'' {{TwoAction}} ''Requirements'' You’re [[Fatigued]]; ''Effect'' Ignore the effects of the fatigued condition for 10 minutes. The drop’s other effects end for you, and when the 10 minutes are up, you’re temporarily immune to scholar’s drops for 1 hour. 
+
+If you use this effect three times in a single day, you become temporarily immune to scholar’s drops entirely until you get a full night’s rest.

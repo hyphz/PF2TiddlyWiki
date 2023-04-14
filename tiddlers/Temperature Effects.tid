@@ -1,18 +1,20 @@
 created: 20200801192529149
-modified: 20200801192827427
+modified: 20230414224746882
 tags: Rule
 title: Temperature Effects
 type: text/vnd.tiddlywiki
 
 | !Category | !Temperature | !Fatigue | !Damage |
-| Incredible cold | –80º F or colder | 2 hours | Moderate (4-6d6) cold every minute |
-| Extreme cold | –79º F to –20º F | 4 hours | Minor (1-2d6) cold every 10 minutes |
-| Severe cold | –21º F to 12º F | 4 hours | Minor (1-2d6) cold every hour |
-| Mild cold | 13º F to 32º F | 4 hours | None |
-| Normal | 33º F to 94º F | 8 hours | None |
-| Mild heat | 95º F* to 104º F* | 4 hours | None |
-| Severe heat | 105º F* to 114º F | 4 hours | Minor (1-2d6) fire every hour |
-| Extreme heat | 115º F to 139º F | 4 hours | Minor (1-2d6) fire every 10 minutes |
-| Incredible heat | 140º F or warmer | 2 hours | Moderate (4-6d6) fire every minute |
+| Incredible cold | –80º F (-62ºC) or colder | 2 hours | Moderate (4-6d6) cold every minute |
+| Extreme cold | –79º F to –20º F (-28ºC) | 4 hours | Minor (1-2d6) cold every 10 minutes |
+| Severe cold | –21º F to 12º F (-11ºC) | 4 hours | Minor (1-2d6) cold every hour |
+| Mild cold | 13º F to 32º F (0ºC) | 4 hours | None |
+| Normal | 33º F to 94º F (34ºC) | 8 hours | None |
+| Mild heat | 95º F* to 104º F* (40ºC) | 4 hours | None |
+| Severe heat | 105º F* to 114º F (45ºC) | 4 hours | Minor (1-2d6) fire every hour |
+| Extreme heat | 115º F to 139º F (59ºC) | 4 hours | Minor (1-2d6) fire every 10 minutes |
+| Incredible heat | 140º F (60ºC) or warmer | 2 hours | Moderate (4-6d6) fire every minute |
 
-Adjust temperatures down by 15º in areas of high humidity.
+Adjust temperatures down by 15ºF in areas of high humidity.
+
+

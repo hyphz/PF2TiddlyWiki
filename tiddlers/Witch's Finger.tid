@@ -1,0 +1,14 @@
+created: 20230414224237727
+item-bulk: L
+item-hands: 1
+item-level: 3
+item-price: 110
+mod-temperature_effects: Take no damage from severe cold, and reduce extreme cold to severe.
+modified: 20230414224434664
+tags: Alchemical Consumable Item Interact
+title: Witch's Finger
+type: text/vnd.tiddlywiki
+
+Shaped like a pointed, gnarled finger on a stick, witch’s finger is a frozen treat imbued with berries that lend it a blood-red hue. A popular tale claims witches created this dessert, but the story is apocryphal; an enterprising ice cream shop owner invented the treat and, as a marketing ploy, the myth surrounding it. 
+
+Taking a bite makes you feel warm. For 1 hour, you have <<tag Cold>> resistance 3, and for 8 hours, the treat negates the damage you would take from severe environmental cold and reduces the damage you take from extreme cold to that of severe cold. //(See [[Temperature Effects]]).//

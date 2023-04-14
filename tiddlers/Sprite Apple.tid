@@ -1,0 +1,26 @@
+created: 20230414222400716
+item-bulk: L
+item-hands: 1
+item-level: 3 4 5 6
+item-price: 100 160 260 410
+item-variants: Golden Pink Chartreuse Teal
+mod-invisible: Concealed instead of undetected.
+mod-nature: Chartreuse: +1 item.
+mod-performance: Pink: +1 item.
+mod-will: Golden: -1 item vs Diplomacy checks.
+modified: 20230414222904372
+modtag-fear: Teal: +1 item to saves.
+tags: Alchemical Consumable Item Interact Elixir
+title: Sprite Apple
+type: text/vnd.tiddlywiki
+
+A sparkling candy coating covers a sprite apple. 
+
+For 10 minutes after consuming (1 minute [[Interact]]) a sprite apple, you shed bright light in a 20-foot [[Emanation]] (and [[Dim Light]] for the next 20 feet). While shedding this light, you can’t be [[Concealed]] if you’re visible, and if you’re [[Invisible]], you’re [[Concealed]] instead rather than being [[Undetected]]. The light matches the vibrant color of the apple’s candy coating. 
+
+Creatures in the bright light are subject to another effect, depending on the type of apple.
+
+* ''Golden'': Creatures in the bright light feel kind and inviting, taking a –1 item penalty to their [[Will]] DC against [[Diplomacy]] checks.
+* ''Pink'': Creatures in the bright light feel a burst of creativity, gaining a +1 item bonus to [[Performance]] checks.
+* ''Chartreuse'': Creatures in the bright light feel more in tune with nature, gaining a +1 item bonus to [[Nature]] checks, and to [[Diplomacy]] checks attempted against animals or plants (if they have the [[Wild Empathy]] class feature or some other ability to make such checks).
+* ''Teal'': Creatures in the bright light feel a sense of calm, gaining a +1 item bonus to saving throws against <<tag Fear>> effects.

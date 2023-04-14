@@ -1,0 +1,22 @@
+created: 20230414220416253
+item-bulk: L
+item-hands: 1
+item-level: 5
+item-price: 300
+mod-engulf: Engulfing creature becomes sickened.
+mod-sickened: If sickened because of eating you, retching lets you try to escape.
+mod-swallow_whole: Swallowing creature becomes sickened.
+modified: 20230414220854107
+tags: Alchemical Consumable Item Interact Poison
+title: Pucker Pickle
+type: text/vnd.tiddlywiki
+
+Sharp and pungent, but tasty, pucker pickles were created by goblin alchemists working to avoid being eaten by larger creatures. 
+
+For 1 hour after eating a pucker pickle, you smell slightly of pickle, but you have a horrendous taste. 
+
+Once a creature hits you with a [[Strike]] using an attack that allows it to taste you, such as a jaws Strike, it takes a –2 circumstance penalty to further attacks against you that allow it to taste you, including attacks like [[Grappling|Grapple]] or [[Trip]]ping you using its jaws or [[Swallowing you Whole|Swallow Whole]]. 
+
+Creatures, especially <<tag Animal>>s, often choose other targets after tasting you. 
+
+Any creature that [[Engulf]]s you or [[Swallows you Whole|Swallow Whole]] is [[Sickened]] 1. If it spends an action retching to reduce the sickened condition, you can attempt to [[Escape]] as a reaction.

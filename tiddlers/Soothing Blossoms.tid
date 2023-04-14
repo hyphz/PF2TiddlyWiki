@@ -13,9 +13,9 @@ m-save:
 m-targets: 
 m-time: 
 mod-persistent_damage: In area recovery is assisted at the start of each of caster's turns.
-modified: 20220424195543710
+modified: 20230414223907895
 modtag-disease: Promote save successes in area.
-modtag-poison: Promote save successis in area.
+modtag-poison: Promote save successes in area.
 s-crit: 
 s-fail: 
 s-fumble: 

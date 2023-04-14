@@ -1,0 +1,27 @@
+created: 20230414221616070
+item-bulk: -
+item-hands: 1
+item-level: 6 11 16
+item-price: 350 2350 14000
+item-variants: Lesser Moderate Greater
+mod-invisible: Concealed rather than undetected when invisible.
+modified: 20230414222009798
+modtag-olfactory: +1-3 item to saves.
+tags: Alchemical Consumable Item Interact Lozenge Light
+title: Silver Crescent
+type: text/vnd.tiddlywiki
+
+A piquant tamarind and chili-lime flavor infuses a silver crescent, which was first created to aid those battling the undead. 
+
+For 1 hour, you shed cool, white light like a torch, and you gain an item bonus to saving throws against <<tag Olfactory>> effects according to the crescent’s type. 
+
+While shedding this light, you can’t be [[Concealed]] if you’re visible, and if you’re [[Invisible]], you’re [[Concealed]] instead rather than being [[Undetected]].
+
+//{{TorchLight}}//
+
+''Secondary Effect'' {{TwoAction}} ''Effect'' A ray of light descends on a 5-foot square of your choice within 120 feet. Any creature in that space takes positive damage with a basic [[Reflex]] save and is [[Dazzled]] until the end of its next turn on a failed save. This is treated as silver for the purposes of weaknesses, resistances, and the like. The silver crescent becomes inert.
+
+| !Type | !Level | !Price | !Item bonus | !Reflex DC | !Damage |
+| Lesser | 6 | 350 | +1 | 20 | 4d6 |
+| Moderate | 11 | 2350 | +2 | 28 | 7d6 |
+| Greater | 16 | 14000 | +3 | 35 | 9d6 |

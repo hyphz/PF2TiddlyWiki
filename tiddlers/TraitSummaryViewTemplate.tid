@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20230222094752460
+modified: 20230414223828000
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -142,6 +142,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Linguistic]]">
 <tr><th>[[Linguistic]]</th><td>Your target must be able to understand your language.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Lozenge]]">
+<tr><th>[[Lozenge]]</th><td>1 at a time in mouth. Bite for secondary effect then end effect.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Manipulate]]">
 <tr><th>[[Manipulate]]</th><td>This may provoke [[Attack of Opportunity]] and other reactions.</td></tr>

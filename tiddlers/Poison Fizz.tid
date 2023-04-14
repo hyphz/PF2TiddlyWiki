@@ -1,0 +1,23 @@
+created: 20230414220110902
+item-bulk: -
+item-hands: 1
+item-level: 8 12 15
+item-price: 800 3500 10000
+item-variants: Lesser Moderate Greater
+mod-petrified: +2-3 item to saves.
+modified: 20230414221229271
+modtag-poison: +2-3 item to saves.
+tags: Alchemical Consumable Item Interact Lozenge
+title: Poison Fizz
+type: text/vnd.tiddlywiki
+
+Made from a special mixture of honey and alchemical reagents, poison fizz is a zesty, sweet rock candy that pops and crackles in your mouth. 
+
+For 1 hour, you have resistance to <<tag Poison>> and an item bonus to saving throws against poison and being [[Petrified]].
+
+''Secondary Effect'' {{TwoAction}} <<tag Poison>> ''Effect'' You bite the poison fizz to release its poisonous liquid center and spray green mist in a 15-foot [[Cone]]. This deals poison damage with a basic [[Reflex]] save. A creature that critically fails is also [[Blinded]] until the end of your next turn and is then temporarily immune to being blinded by poison fizz for 1 hour.
+
+| !Type | !Level | !Price | !Item bonus | !Damage | !Blind DC |
+| Lesser | 8 | 800 | +2 | 3d6 | 24 |
+| Moderate | 12 | 3500 | +2 | 4d6 | 29 |
+| Greater | 15 | 10000 | +3 | 5d6 | 34 |
