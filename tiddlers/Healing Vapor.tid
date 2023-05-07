@@ -1,0 +1,26 @@
+created: 20230507183649610
+item-bulk: L
+item-hands: 2
+item-level: 4 8 12 17
+item-price: 200 1000 4000 30000
+item-variants: Lesser Moderate Greater Major
+modified: 20230507183943081
+tags: Alchemical Consumable Item Interact Healing
+title: Healing Vapor
+type: text/vnd.tiddlywiki
+
+Healing vapor is a substance that accelerates natural recovery processes by dispersing a mist infused with a variety of reagents typically used for healing and recovery.
+
+When deployed from a sealed container ({{ThreeAction}} [[Interact]]), the vapors fill a 5-foot [[Burst]], last for 10 minutes, and can affect up to four living creatures at one time. Any creatures beyond the first four gain no benefit, though if a creature leaves before the duration is over, a new creature that enters can benefit from the mist. 
+
+A creature benefiting from the vapors regains a number of Hit Points based on the vapor’s type. While affected, a creature also gains an item bonus to saving throws against <<tag Disease>>s and <<tag Poison>>s. 
+
+If the areas of more than one healing vapor overlap, only the strongest applies to creatures inside overlapping areas. 
+
+Strong wind disperses the mist, rendering it ineffective while the wind blows.
+
+| !Type | !Level | !Price | !Healing Rate | !Item Bonus |
+| Lesser | 4 | 200 | 1 HP / 2 minutes | +1 |
+| Moderate | 8 | 1000 | 1 HP / 1 minute | +1 |
+| Greater | 12 | 4000 | 2 HP / 1 minute | +2 |
+| Major | 17 | 30000 | 3 HP / 1 minute | +3 |

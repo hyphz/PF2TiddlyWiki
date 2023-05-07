@@ -1,0 +1,22 @@
+created: 20230507180356586
+item-bulk: L
+item-hands: 1
+item-level: 3 7
+item-price: 10 60
+item-variants: Lesser Greater
+mod-hide: Can Hide without Cover or Concealment.
+mod-sneak: Can Sneak without Cover or Concealment.
+modified: 20230507180724131
+tags: Alchemical Consumable Item Interact
+title: Camouflage Dye
+type: text/vnd.tiddlywiki
+
+Camouflage dye uses a variety of alchemically treated paints and crushed crystals to make the user particularly hard to distinguish from their surroundings. 
+
+When you Activate the dye by sprinkling it on yourself or a creature within reach ({{OneAction}} [[Interact]]), the target and its clothing change colors, blending into their surroundings until the target makes a sudden movement.
+
+The target can [[Hide]] or [[Sneak]] without [[Cover]] or [[Concealment]] for //the listed duration//. If //you use lesser Camouflage Dye then// the target uses a [[Hostile Action]] or moves at more than half its Speed, after that action is completed, the effects of camouflage powder //(dye?)// end and the creature ceases to be hidden or undetected.
+
+| !Type | !Level | !Price | !Duration | !Ends on Hostile Action or fast movement |
+| Lesser | 3 | 100 | 10 minutes | Yes |
+| Greater | 7 | 600 | 1 minute | No |

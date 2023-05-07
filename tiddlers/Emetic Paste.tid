@@ -1,0 +1,21 @@
+created: 20230507182346657
+item-bulk: L
+item-hands: 1
+item-level: 2 9 14
+item-price: 50 1200 7000
+item-variants: Lesser Moderate Greater
+modified: 20230507182553235
+tags: Alchemical Consumable Item Interact Healing
+title: Emetic Paste
+type: text/vnd.tiddlywiki
+
+Sickened creatures have difficulty swallowing, so you can activate emetic paste by applying it to your skin or that of a [[Sickened]] creature within reach ({{OneAction}} [[Interact]]), typically on the throat. 
+
+The paste makes it easy for the sickened creature to purge, granting it an immediate [[Fortitude]] save to reduce its sickened condition. 
+
+The paste grants the target an item bonus to that save and to all saving throws to reduce the sickened condition for 1 hour.
+
+| !Type | !Level | !Price | !Item Bonus |
+| Lesser | 2 | 50 | +2 |
+| Moderate | 9 | 1200 | +3 |
+| Greater | 14 | 7000 | +4 |

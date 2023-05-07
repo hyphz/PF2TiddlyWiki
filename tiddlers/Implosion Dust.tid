@@ -1,0 +1,30 @@
+created: 20230507184030237
+item-bulk: L
+item-hands: 1
+item-level: 4 8 12 17
+item-price: 200 1000 4000 30000
+item-variants: Lesser Moderate Greater Major
+modified: 20230507184306251
+s-crit: The dust becomes inert, and the creature returns to its normal size.
+s-fail: The target decreases in size one step, to a minimum of Tiny. The reach of each of its Strikes decreases by 5 feet, to a minimum of 5 feet if the creature is Small or larger, or a minimum of 0 feet if the creature is Tiny. Shrinking also imposes a status penalty to the creature’s physical melee damage. This penalty is –2 for every step lower than its normal size the creature is.
+s-fumble: As failure, but the target decreases in size by two steps.
+s-hit: The target increases in size one step, up to its normal size. If it’s at its normal size after the increase, the effect ends.
+tags: Alchemical Consumable Item Interact
+title: Implosion Dust
+type: text/vnd.tiddlywiki
+
+Sealed in a packet so it can be released in a pressurized puff, implosion dust causes amorphous creatures to compress and shrink by hardening and even evaporating the liquid components of their physical forms. 
+
+It’s effective at weakening water elementals, air elementals, oozes, and other creatures the GM determines are similarly amorphous, which can even include particularly gelatinous aberrations. 
+
+You release the dust toward one creature within 5 feet of you ({{OneAction}} [[Interact]]), which must attempt a [[Fortitude]] saving throw. The target must repeat the saving throw at the end
+of each of its turns. 
+
+{{||SaveSuccessTable}}
+
+Implosion dust functions for up to 6 rounds. It then becomes inert, and the creature returns to its normal size.
+
+| !Type | !Level | !Price | !Save DC |
+| Lesser | 6 | 400 | 20 |
+| Moderate | 12 | 3700 | 29 |
+| Greater | 18 | 41000 | 38 |

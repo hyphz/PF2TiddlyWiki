@@ -1,0 +1,26 @@
+created: 20230507184645118
+item-bulk: L
+item-hands: 2
+item-level: 6 12
+item-price: 400 3500
+item-variants: Lesser Greater
+mod-perception: -1 to checks.
+modified: 20230507184852783
+modtag-auditory: +2-4 item to saves.
+modtag-olfactory: +2-4 item to saves.
+modtag-visual: +2-4 item to saves.
+tags: Alchemical Consumable Item Interact
+title: Sense-Dulling Hood
+type: text/vnd.tiddlywiki
+
+Sometimes, an enemy’s dangerous special ability makes relatively standard sensory capabilities a liability. From otyugh stench to a harpy’s song, plenty of creatures use their prey’s senses against them. 
+
+A sense-dulling hood is a wide, single-use mask designed to be pulled from an airtight package and slipped over the head ({{OneAction}} [[Interact]]). 
+
+The mask grants you an item bonus to saving throws against <<tag Auditory>>, <<tag Olfactory>>, and <<tag Visual>> effects for a time, according to the mask’s type. 
+
+Since it dulls your senses without depriving you of them, the mask also imposes a –1 penalty to rolls and checks using [[Perception]] for the same duration.
+
+| !Type | !Level | !Price | !Bonus | !Duration |
+| Lesser | 6 | 400 | +2 | 10 minutes |
+| Greater | 12 | 3500 | +4 | 1 hour |

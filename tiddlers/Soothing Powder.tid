@@ -1,0 +1,16 @@
+created: 20230507185208318
+item-bulk: L
+item-hands: 1
+item-level: 5 11
+item-price: 300 2100
+item-variants: Lesser Greater
+modified: 20230507185407618
+tags: Alchemical Consumable Item Interact Healing
+title: Soothing Powder
+type: text/vnd.tiddlywiki
+
+Soothing powders are remedies made to stop a particular type of persistent damage. Each damage type requires a different formula, with the most popular being bleed soothing powder, <<tag Poison>> soothing powder, <<tag Fire>> soothing powder, and <<tag Acid>> soothing powder. 
+
+You Activate soothing powder by sprinkling it on yourself or another creature within reach ({{OneAction}} [[Interact]]). The target can immediately attempt a new flat check to remove [[Persistent Damage]] the powder works against. This powder lowers the DC to 10, as normal for a particularly appropriate type of help.
+
+In addition to the effects described above, //Greater Soothing Powder//  persists for 1 minute, lowering the DCs of flat checks against that type of persistent damage due to particularly effective assistance.

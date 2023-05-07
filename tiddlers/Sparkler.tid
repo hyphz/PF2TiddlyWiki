@@ -1,0 +1,17 @@
+created: 20230507185421380
+item-bulk: -
+item-hands: 1
+item-level: 1
+item-price: 4
+modified: 20230507185554988
+tags: Alchemical Consumable Item Interact Uncommon Fire
+title: Sparkler
+type: text/vnd.tiddlywiki
+
+''Access'' Sparklers are common in //certain areas of the world// and can be Crafted by those who can specifically [[Craft]] fireworks (such as a fireworks technician).
+
+A sparkler gives off colorful sparks ({{OneAction}} [[Interact]]), burning for 1 minute. It provides [[Bright Light]] in a 10-foot radius (and [[Dim Light]] for the next 10 feet). 
+
+While the sparkler burns, you can use it as an improvised weapon, dealing 1 fire damage on a hit. On a critical hit, you cause the target to become [[Dazzled]] for 1 round.
+
+You can touch a sparkler to a flammable object as part of the same [[Interact]] action you use to Activate it or as an Interact action while the sparkler is already activated. If you do so, the sparkler can ignite flammable objects the way a [[Tindertwig]] does.

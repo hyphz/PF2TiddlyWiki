@@ -1,5 +1,5 @@
 created: 20200629190146242
-modified: 20230414223828000
+modified: 20230507185743746
 tags: $:/tags/ViewTemplate
 title: TraitSummaryViewTemplate
 type: text/vnd.tiddlywiki
@@ -82,6 +82,9 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]tag[Evil]]">
 <tr><th>[[Evil]]</th><td>Evil damage harms only good creatures.</td></tr>
+</$list>
+<$list filter="[all[current]tag[Expandable]]">
+<tr><th>[[Expandable]]</th><td>Must have room to expand into an adjacent grounded space when used.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Exploration]]">
 <tr><th>[[Exploration]]</th><td>This can only be used in Exploration Mode, not Encounter Mode (ie, not combat).</td></tr>
@@ -177,7 +180,7 @@ type: text/vnd.tiddlywiki
 <tr><th>[[Oil]]</th><td>Apply to an item or creature in reach that is willing, [[Paralyzed]], [[Petrified]] or [[Unconscious]].</td></tr>
 </$list>
 <$list filter="[all[current]tag[Olfactory]]">
-<tr><th>[[Occult]]</th><td>This only affects creatures that can smell it.</td></tr>
+<tr><th>[[Olfactory]]</th><td>This only affects creatures that can smell it.</td></tr>
 </$list>
 <$list filter="[all[current]tag[Open]]">
 <tr><th>[[Open]]</th><td>Can't use this after an [[Attack]] or [[Open]] in the same turn.</td></tr>

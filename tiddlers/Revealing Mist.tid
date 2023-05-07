@@ -1,0 +1,22 @@
+created: 20230507184357080
+item-bulk: L
+item-hands: 1
+item-level: 3 7
+item-price: 90 600
+item-variants: Lesser Greater
+modified: 20230507184535219
+tags: Alchemical Consumable Item Interact
+title: Revealing Mist
+type: text/vnd.tiddlywiki
+
+Kept in an airtight spray bottle, revealing mist is an alchemical concoction that creates a sticky and clinging mist of chemicals in a [[Cone]] when sprayed ({{OneAction}} [[Interact]]). 
+
+It doesn’t affect visibility but causes [[Invisible]] creatures in the area to be [[Concealed]] rather than [[Undetected]]. 
+
+Revealing mist is ineffective in water or in areas with other factors affecting the spread of the mist, as determined by the GM. 
+
+It remains in the area for 1 minute or until any significant wind disperses it, whichever comes first.
+
+| !Type | !Level | !Price | !Size of cone |
+| Lesser | 3 | 90 | 15 foot |
+| Greater | 7 | 600 | 30 foot |

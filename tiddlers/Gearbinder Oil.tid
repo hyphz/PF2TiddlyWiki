@@ -1,0 +1,31 @@
+created: 20230507182632691
+item-bulk: L
+item-hands: 1
+item-level: 6 12 18
+item-price: 450 3900 45000
+item-variants: Lesser Moderate Greater
+modified: 20230507183045071
+s-crit: The oil becomes inert, and the effect ends.
+s-fail: The target increases its [[Slowed]] condition by 1, to a maximum of slowed 3.
+s-fumble: The target increases its [[Slowed]] condition by 2, to a maximum of slowed 3.
+s-hit: The target reduces its [[Slowed]] condition by 1. If the slowed condition’s value is 0, the effect ends.
+tags: Alchemical Consumable Item Interact Incapacitation
+title: Gearbinder Oil
+type: text/vnd.tiddlywiki
+
+Gearbinder oil comes in a sealed pump that can squirt the oil a short distance. The oil is designed to flow through complex mechanisms and, agitated through mechanical action, foam up and form a paste that binds the works.
+
+The oil is effective against articulated constructs and machinery, including many constructs, clockworks, and mechanical hazards. You apply the oil ({{OneAction}} [[Interact]]) to the target you want to bind, which must be within 10 feet of you. 
+
+After the oil is applied, at the end of any round during which the target took an action with the <<tag Attack>>, <<tag Manipulate>>, or <<tag Move>> trait, it must attempt a [[Fortitude]] save against a DC determined by the oil’s type. 
+
+{{||SaveSuccessTable}}
+
+A mechanism that’s [[Slowed]] 2 or more by gearbinder oil also can’t use reactions. 
+
+Gearbinder oil functions for up to 6 rounds before becoming an inert, oily residue.
+
+| !Type | !Level | !Price | !Save DC |
+| Lesser | 6 | 450 | 20 |
+| Moderate | 12 | 3900 | 29 |
+| Greater | 18 | 4500 | 38 |

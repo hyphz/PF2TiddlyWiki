@@ -1,12 +1,14 @@
 created: 20200627221345517
-modified: 20200629192130527
+modified: 20230507185134867
 tags: Trait
 title: Auditory
 type: text/vnd.tiddlywiki
 
 Auditory spells rely on sound. 
 
-A spell with the auditory trait has its effect only if the target can hear it. 
+An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. 
+
+A spell or effect with the auditory trait has its effect only if the target can hear it. 
 
 This is different from a sonic effect, which still affects targets who can’t hear it (such as deaf targets) as long as the effect makes sound.
 
