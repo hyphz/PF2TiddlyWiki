@@ -12,13 +12,13 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220502173831496
+modified: 20230726200948144
 modtag-spell: Casting in 60 feet of Shapeless Feeder must Fortitude save or be sickened.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Rare Conjuration Incarnate Primal Material
+tags: Spell Concentrate Manipulate Rare Conjuration Incarnate Primal
 title: Summon Kaiju
 type: text/vnd.tiddlywiki
 

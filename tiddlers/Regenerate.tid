@@ -12,14 +12,14 @@ m-range: Touch
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20211026214909760
+modified: 20230726200741063
 modtag-acid: Deactivates regeneration from this spell.
 modtag-fire: Deactivates regeneration from this spell.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Healing Necromancy Positive Divine Primal Somatic Verbal Spell Concentrate Manipulate
+tags: Healing Necromancy Positive Divine Primal Spell Concentrate Manipulate
 title: Regenerate
 type: text/vnd.tiddlywiki
 

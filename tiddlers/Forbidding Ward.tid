@@ -16,12 +16,12 @@ mod-ac: Gives +1/+2 status against a specific enemy.
 mod-fortitude: Gives +1/+2 status against a specific enemy.
 mod-reflex: Gives +1/+2 status against a specific enemy.
 mod-will: Gives +1/+2 status against a specific enemy.
-modified: 20200724232149151
+modified: 20230726200740978
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Cantrip Divine Occult Somatic Verbal Concentrate Manipulate
+tags: Spell Abjuration Cantrip Divine Occult Concentrate Manipulate
 title: Forbidding Ward
 type: text/vnd.tiddlywiki
 

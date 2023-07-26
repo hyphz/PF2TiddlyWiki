@@ -1,16 +1,16 @@
 a-actions: 1
 created: 20200627200557729
-modified: 20221007182557801
+modified: 20230725203623664
 tags: Action
 title: Push
 type: text/vnd.tiddlywiki
 
 ''Requirements'' The monster’s last action was a success with a [[Strike]] that lists Push in its damage entry. 
 
-The monster automatically knocks the target away from the monster. 
+The monster __attempts to [[Shove]] the creature. This attempt neither applies nor counts towards the monster's multiple attack penalty. 
 
-Unless otherwise noted  in the ability description, the creature is pushed 5 feet. 
-
-If the attack was a critical hit, this distance is doubled.
+If Push lists a distance, change the distance the creature is pushed on a success to that distance.__
 
 //This is a monster ability. The equivalent for player characters is [[Shove]].//
+
+//Remaster: altered to use [[Shove]] instead of directly moving the target.//

@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220502175719508
+modified: 20230726200948145
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Incarnate Necromancy Arcane Divine Occult Material
+tags: Spell Concentrate Manipulate Incarnate Necromancy Arcane Divine Occult
 title: Tempest of Shades
 type: text/vnd.tiddlywiki
 virtual-tags: Negative Emotion Fear Mental

@@ -14,12 +14,12 @@ m-targets: 1 [[Willing]] Creature
 m-time: 
 mod-fortitude: Earth: +2 status vs shove, trip or prone.
 mod-reflex: Earth: +2 status vs shove, trip or prone.
-modified: 20211223224123046
+modified: 20230726200740967
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Primal
+tags: Spell Concentrate Manipulate Transmutation Primal
 title: Elemental Gift
 type: text/vnd.tiddlywiki
 

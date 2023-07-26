@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: You or 1 ally
 m-time: 
-modified: 20200830173512866
+modified: 20230726200741148
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Abjuration Bard Composition Feat Class
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Abjuration Bard Composition Feat Class
 title: Symphony of the Unfettered Heart
 type: text/vnd.tiddlywiki
 

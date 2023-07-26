@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200730212631740
+modified: 20230726200741123
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Earth Arcane Primal
+tags: Spell Concentrate Manipulate Abjuration Earth Arcane Primal
 title: Stoneskin
 type: text/vnd.tiddlywiki
 

@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20210515160809266
+modified: 20230726200741102
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Necromancy Negative Oracle
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cursebound Necromancy Negative Oracle
 title: Soul Siphon
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220418205402268
+modified: 20230726200948135
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Earth Water Arcane Primal Material
+tags: Spell Concentrate Manipulate Conjuration Earth Water Arcane Primal
 title: Mud Pit
 type: text/vnd.tiddlywiki
 

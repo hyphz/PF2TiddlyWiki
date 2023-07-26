@@ -13,12 +13,12 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-sustain_a_spell: Once active, modify a memory each time.
-modified: 20200727203326151
+modified: 20230726200741022
 s-crit: The target is unaffected and realizes you tried to alter its memory.
 s-fail: During the first 5 minutes of the spell’s duration, you can [[Sustain the Spell|Sustain a Spell]] to modify a memory once each round. When you do, you imagine up to 6 seconds of memory to modify, to a maximum of 5 continuous minutes of memory.
 s-fumble: 
 s-hit: The target is unaffected but thinks your spell was something harmless instead of modify memory, unless it identifies the spell.
-tags: Uncommon Divination Mental Occult Spell Somatic Verbal Concentrate Manipulate
+tags: Uncommon Divination Mental Occult Spell Concentrate Manipulate
 title: Modify Memory
 type: text/vnd.tiddlywiki
 

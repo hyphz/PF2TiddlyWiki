@@ -3,8 +3,8 @@ m-components: Somatic Verbal
 m-level: 2
 m-range: 120 feet
 m-targets: 1 creature
-modified: 20201129003824691
-tags: Spell Acid Attack Evocation Arcane Primal Somatic Verbal Concentrate Manipulate
+modified: 20230726200740935
+tags: Spell Acid Attack Evocation Arcane Primal Concentrate Manipulate
 title: Acid Arrow
 type: text/vnd.tiddlywiki
 

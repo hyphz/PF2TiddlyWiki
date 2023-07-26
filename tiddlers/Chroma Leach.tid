@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200801153926248
+modified: 20230726200740944
 s-crit: The target is unaffected.
 s-fail: The target is [[Enfeebled]] 2 for 1 minute and [[Drained]] 1. The target is also filled with listlessness and ennui. For 1 round, if the target tries to use a <<tag Move>>action, it must succeed at a [[Will]] save against your spell DC or the action is lost; this effect has the <<tag Mental>>and <<tag Emotion>>traits.
 s-fumble: As failure, but the creature is permanently [[Enfeebled]] 2 and [[Drained]] 2 (although magic such as [[Restoration]] can reduce or remove these conditions).
 s-hit: The target is [[Enfeebled]] 2 for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Occult
+tags: Spell Concentrate Manipulate Necromancy Occult
 title: Chroma Leach
 type: text/vnd.tiddlywiki
 

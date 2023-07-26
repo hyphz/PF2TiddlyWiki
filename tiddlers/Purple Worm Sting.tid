@@ -12,12 +12,12 @@ m-range: Touch
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200728193607436
+modified: 20230726200741056
 s-crit: The target is unaffected.
 s-fail: The target is afflicted with purple worm venom at stage 1.
 s-fumble: The target is afflicted with purple worm venom at stage 2.
 s-hit: The target takes 3d6 poison damage.
-tags: Necromancy Poison Arcane Primal Somatic Verbal Spell Manipulate Concentrate
+tags: Necromancy Poison Arcane Primal Spell Manipulate Concentrate
 title: Purple Worm Sting
 type: text/vnd.tiddlywiki
 

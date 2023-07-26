@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 1 falling creature
 m-time: 
-modified: 20200724230913263
+modified: 20230726200649281
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Arcane Primal Verbal Reaction Concentrate
+tags: Spell Abjuration Arcane Primal Reaction Concentrate
 title: Feather Fall
 type: text/vnd.tiddlywiki
 

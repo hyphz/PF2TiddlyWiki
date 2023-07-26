@@ -16,12 +16,12 @@ m-time:
 mod-deception: +2 status in a crowd.
 mod-difficult_terrain: Ignore if caused by a crowd.
 mod-stealth: +2 status in a crowd.
-modified: 20200805192946062
+modified: 20230726200740972
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual
 title: Face in the Crowd
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200814211030950
+modified: 20230726200741162
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Healing Necromancy
+tags: Spell Concentrate Manipulate [[Focus Spell]] Healing Necromancy
 title: Tireless Worker
 type: text/vnd.tiddlywiki
 

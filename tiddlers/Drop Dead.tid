@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200722114007501
+modified: 20230726200740964
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Spell Illusion Visual Arcane Divine Somatic Reaction Manipulate
+tags: Uncommon Spell Illusion Visual Arcane Divine Reaction Manipulate
 title: Drop Dead
 type: text/vnd.tiddlywiki
 

@@ -14,12 +14,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-incorporeal: Makes incorporeal creature corporeal and increases Strength.
-modified: 20200809204931962
+modified: 20230726200740966
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Necromancy
+tags: Spell Concentrate Manipulate [[Focus Spell]] Necromancy
 title: Ectoplasmic Interstice
 type: text/vnd.tiddlywiki
 

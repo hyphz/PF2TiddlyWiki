@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200730215848897
+modified: 20230726200948144
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Primal
+tags: Spell Concentrate Manipulate Conjuration Primal
 title: Summon Plant or Fungus
 type: text/vnd.tiddlywiki
 

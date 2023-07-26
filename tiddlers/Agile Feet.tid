@@ -14,12 +14,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-difficult_terrain: Ignores difficult terrain.
-modified: 20200804193010672
+modified: 20230726200740936
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
 title: Agile Feet
 type: text/vnd.tiddlywiki
 

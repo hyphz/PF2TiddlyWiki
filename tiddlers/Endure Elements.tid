@@ -1,32 +1,7 @@
-a-crit: 
-a-defense: 
-a-fail: 
-a-fumble: 
-a-hit: 
-created: 20200722192811678
-m-area: 
-m-components: Somatic Verbal
-m-duration: Until the next time you make your [[daily preparations|Rest]]
-m-level: 2
-m-range: Touch
-m-save: 
-m-targets: 1 willing creature
-m-time: 10 minutes
-modified: 20200722193055198
-s-crit: 
-s-fail: 
-s-fumble: 
-s-hit: 
-tags: Abjuration Spell Arcane Divine Primal Somatic Verbal Manipulate Concentrate
+created: 20230726203432221
+modified: 20230726203449390
+tags: 
 title: Endure Elements
 type: text/vnd.tiddlywiki
 
-{{||SpellSummaryTable}}
-
-You shield the target against dangerous temperatures.
-
-Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).
-
-''Heightened (3rd)'' The target is protected from severe cold ''and'' heat.
-
-''Heightened (5th)'' The target is protected from severe cold, severe heat, extreme cold, and extreme heat.
+This spell was renamed [[Environmental Endurance]] in the remaster.

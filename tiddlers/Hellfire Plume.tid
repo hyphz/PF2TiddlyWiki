@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20201102193438827
+modified: 20230726200740990
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evil Evocation Fire Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Evil Evocation Fire Sorcerer
 title: Hellfire Plume
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200809185733580
+modified: 20230726200740964
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Air Conjuration Nonlethal
+tags: Spell Concentrate Manipulate [[Focus Spell]] Air Conjuration Nonlethal
 title: Dust Storm
 turn-stn: Creatures in storm take damage.
 type: text/vnd.tiddlywiki

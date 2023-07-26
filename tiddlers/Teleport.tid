@@ -12,12 +12,12 @@ m-range: 100 miles
 m-save: 
 m-targets: You and up 4 targets touched, either [[Willing]] creatures or objects roughly the size of a creature.
 m-time: 10 minutes
-modified: 20200730223229752
+modified: 20230726200948145
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Teleportation Material Arcane Occult
+tags: Spell Concentrate Manipulate Uncommon Conjuration Teleportation Arcane Occult
 title: Teleport
 type: text/vnd.tiddlywiki
 

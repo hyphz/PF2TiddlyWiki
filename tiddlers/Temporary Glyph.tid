@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220502180014787
+modified: 20230726200948145
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Divine Occult Primal Material
+tags: Spell Concentrate Manipulate Abjuration Arcane Divine Occult Primal
 title: Temporary Glyph
 type: text/vnd.tiddlywiki
 

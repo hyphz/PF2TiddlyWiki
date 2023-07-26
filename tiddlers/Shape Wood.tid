@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: An unworked piece of wood up to 20 cubic feet in volume
 m-time: 
-modified: 20200729205850657
+modified: 20230726200741090
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Plant Transmutation Primal
+tags: Spell Concentrate Manipulate Plant Transmutation Primal
 title: Shape Wood
 type: text/vnd.tiddlywiki
 

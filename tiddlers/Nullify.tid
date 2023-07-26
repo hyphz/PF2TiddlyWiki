@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: The triggering spell
 m-time: 
-modified: 20220418210507806
+modified: 20230726200741034
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Divine Occult Primal Reaction
+tags: Spell Concentrate Manipulate Abjuration Arcane Divine Occult Primal Reaction
 title: Nullify
 type: text/vnd.tiddlywiki
 

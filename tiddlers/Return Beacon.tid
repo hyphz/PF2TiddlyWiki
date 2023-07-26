@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20211205231729201
+modified: 20230726200948139
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Teleportation Arcane Occult Material
+tags: Spell Concentrate Manipulate Uncommon Conjuration Teleportation Arcane Occult
 title: Return Beacon
 type: text/vnd.tiddlywiki
 

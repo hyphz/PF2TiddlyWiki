@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200728203521178
+modified: 20230726200948139
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Evocation Material Arcane Occult
+tags: Spell Concentrate Manipulate Uncommon Evocation Arcane Occult
 title: Reverse Gravity
 type: text/vnd.tiddlywiki
 

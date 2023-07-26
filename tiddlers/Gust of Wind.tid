@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200725151436311
+modified: 20230726200740986
 s-crit: The creature is unaffected.
 s-fail: The creature is knocked [[Prone]]. If it was flying, it suffers the effects of critical failure instead.
 s-fumble: The creature is pushed 30 feet in the wind’s direction, knocked prone, and takes 2d6 bludgeoning damage.
 s-hit: The creature can’t move against the wind.
-tags: Air Evocation Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+tags: Air Evocation Spell Arcane Primal Manipulate Concentrate
 title: Gust of Wind
 turn-eun: Effect ends.
 type: text/vnd.tiddlywiki

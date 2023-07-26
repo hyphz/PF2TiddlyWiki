@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 weapon that is either unattended or wielded by you or a willing ally
 m-time: 
-modified: 20220622205606500
+modified: 20230726200740982
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Transmutation Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Spell Transmutation Arcane Occult Concentrate Manipulate
 title: Ghostly Weapon
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save: Reflex
 m-targets: 
 m-time: 
 mod-counteract: Can't be counteracted by lower or same level effects.
-modified: 20200805230933951
+modified: 20230726200948130
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Force Arcane Occult Material
+tags: Spell Concentrate Manipulate Evocation Force Arcane Occult
 title: Force Cage
 type: text/vnd.tiddlywiki
 

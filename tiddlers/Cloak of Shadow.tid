@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20200805231326499
+modified: 20230726200740946
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Darkness Evocation Shadow
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Darkness Evocation Shadow
 title: Cloak of Shadow
 type: text/vnd.tiddlywiki
 

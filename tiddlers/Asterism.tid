@@ -13,12 +13,12 @@ m-range: 150 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20230305193553563
+modified: 20230726200948125
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Material Evocation Light
+tags: Spell Concentrate Manipulate [[Focus Spell]] Evocation Light
 title: Asterism
 type: text/vnd.tiddlywiki
 virtual-tags: Fire

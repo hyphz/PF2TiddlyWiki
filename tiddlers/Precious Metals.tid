@@ -13,12 +13,12 @@ m-range: [[Range]]
 m-save: 
 m-targets: 1 metal weapon, up to 10 pieces of metal or metal-tipped ammunition, 1 suit of metal armor, or up to 1 bulk of metal material such as coins
 m-time: 
-modified: 20200805213858489
+modified: 20230726200948136
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell [[Focus Spell]] Material Manipulate Uncommon Cleric Transmutation
+tags: Spell [[Focus Spell]] Manipulate Uncommon Cleric Transmutation
 title: Precious Metals
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200728192302679
+modified: 20230726200741052
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Attack Cantrip Evocation Fire Arcane Primal Somatic Verbal Spell Concentrate Manipulate
+tags: Attack Cantrip Evocation Fire Arcane Primal Spell Concentrate Manipulate
 title: Produce Flame
 type: text/vnd.tiddlywiki
 

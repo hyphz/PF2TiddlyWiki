@@ -15,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-ac: +2 circumstance vs ranged.
-modified: 20201017141410057
+modified: 20230726200741200
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Air Evocation Monk Stance Class Feat
+tags: Spell Manipulate [[Focus Spell]] Uncommon Air Evocation Monk Stance Class Feat
 title: Wild Winds Stance
 type: text/vnd.tiddlywiki
 

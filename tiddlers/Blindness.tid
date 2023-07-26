@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200805230146864
+modified: 20230726200740941
 s-crit: The target is unaffected.
 s-fail: The target is blinded for 1 minute.
 s-fumble: The target is blinded permanently.
 s-hit: The target is blinded until its next turn begins.
-tags: Incapacitation Necromancy Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+tags: Incapacitation Necromancy Arcane Divine Occult Primal Manipulate Concentrate
 title: Blindness
 turn-stn: Wears off if the target's save was a success.
 type: text/vnd.tiddlywiki

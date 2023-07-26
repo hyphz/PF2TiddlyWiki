@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Command servant when sustained.
-modified: 20200814204313545
+modified: 20230726200741174
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Arcane Occult
+tags: Spell Concentrate Manipulate Conjuration Arcane Occult
 title: Unseen Servant
 type: text/vnd.tiddlywiki
 

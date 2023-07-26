@@ -12,12 +12,12 @@ m-range: Touch
 m-save: Up to two weapons, each of which must be wielded by you or a willing ally, or else unattended
 m-targets: 
 m-time: 
-modified: 20200722105055410
+modified: 20230726200740955
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Necromancy Positive Spell Somatic Verbal Divine Manipulate Concentrate
+tags: Necromancy Positive Spell Divine Manipulate Concentrate
 title: Disrupting Weapons
 type: text/vnd.tiddlywiki
 

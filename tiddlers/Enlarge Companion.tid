@@ -18,12 +18,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20201031192751276
+modified: 20230726200740969
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Polymorph Ranger Transmutation Class Feat
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Polymorph Ranger Transmutation Class Feat
 title: Enlarge Companion
 type: text/vnd.tiddlywiki
 

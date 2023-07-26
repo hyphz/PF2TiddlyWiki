@@ -13,12 +13,12 @@ m-save: Reflex
 m-targets: 1 object of 1 Bulk or less
 m-time: 
 mod-grapple: Greased targets get +2 circumstance.
-modified: 20200725150548829
+modified: 20230726200740985
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Conjuration Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+tags: Conjuration Spell Arcane Primal Manipulate Concentrate
 title: Grease
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20200805231344513
+modified: 20230726200649298
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Auditory Illusion Visual Scene Arcane Occult Concentrate Verbal
+tags: Auditory Illusion Visual Scene Arcane Occult Concentrate
 title: Illusory Scene
 type: text/vnd.tiddlywiki
 

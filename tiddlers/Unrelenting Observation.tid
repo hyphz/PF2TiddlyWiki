@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: 
 m-targets: 1 creature or object tracked and up to 5 other willing creatures
 m-time: 
-modified: 20200730231227421
+modified: 20230726200741174
 s-crit: The creature or object is unaffected.
 s-fail: As described, and the duration is 1 hour.
 s-fumble: 
 s-hit: As described, and the duration is 1 minute.
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Scrying Arcane Occult
+tags: Spell Concentrate Manipulate Divination Scrying Arcane Occult
 title: Unrelenting Observation
 type: text/vnd.tiddlywiki
 

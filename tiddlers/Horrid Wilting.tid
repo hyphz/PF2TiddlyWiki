@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Fortitude
 m-targets: Any number of living creatures
 m-time: 
-modified: 20200725161257952
+modified: 20230726200740991
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Necromancy Negative Arcane Primal Somatic Verbal Concentrate Manipulate Spell
+tags: Necromancy Negative Arcane Primal Concentrate Manipulate Spell
 title: Horrid Wilting
 type: text/vnd.tiddlywiki
 

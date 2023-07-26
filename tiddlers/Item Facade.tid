@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 object no more than 10 feet by 10 feet by 10 feet
 m-time: 
-modified: 20200726225416113
+modified: 20230726200741002
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Visual Spell Somatic Verbal Arcane Occult Manipulate Concentrate
+tags: Illusion Visual Spell Arcane Occult Manipulate Concentrate
 title: Item Facade
 type: text/vnd.tiddlywiki
 

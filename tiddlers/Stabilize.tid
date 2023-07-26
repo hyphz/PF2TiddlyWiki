@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Dying]] creature
 m-time: 
-modified: 20200730232936920
+modified: 20230726200741117
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Healing Necromancy Positive Divine Primal
+tags: Spell Concentrate Manipulate Cantrip Healing Necromancy Positive Divine Primal
 title: Stabilize
 type: text/vnd.tiddlywiki
 

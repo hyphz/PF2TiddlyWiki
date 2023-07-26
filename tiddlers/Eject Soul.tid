@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 living creature that has a soul
 m-time: 
-modified: 20200809204108305
+modified: 20230726200740966
 s-crit: 
 s-fail: The target is [[Stunned]] 1 as its soul briefly loses its connection to its body.
 s-fumble: The target’s soul exits its body for 1 round. The target’s body becomes [[Stunned]]. While its body is stunned in this way, the target remains fully aware in soul form; it simply can’t consciously move its body (though the body makes basic instinctual defensive movements). The target’s soul has the <<tag Incorporeal>> trait, is [[Invisible]], and has a fly Speed of 60 feet. It can’t attack, cast spells, or attempt any skill checks that require a physical body, and it must always maintain line of effect to its body. When the target’s body ceases being stunned, the target’s soul instantly returns to its body as the target wakes.
 s-hit: The target is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Incapacitation Necromancy
+tags: Spell Concentrate Manipulate [[Focus Spell]] Incapacitation Necromancy
 title: Eject Soul
 type: text/vnd.tiddlywiki
 

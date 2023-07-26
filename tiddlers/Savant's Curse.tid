@@ -17,12 +17,12 @@ mod-lore: Must roll twice and use worse result.
 mod-occultism: Must roll twice and use worse result.
 mod-recall_knowledge: Gain 1 true and 1 false info on hit, and if save vs spell fumbled, demote all.
 mod-society: Must roll twice and use worse result.
-modified: 20210824180804620
+modified: 20230726200741078
 s-crit: The target is unaffected.
 s-fail: As success, but the effect is permanent.
 s-fumble: As failure, and the target treats the outcomes of all checks to [[Recall Knowledge]] as one degree of success worse than the result the target rolled (a critical success becomes a success, a success becomes a failure, and a failure becomes a critical failure).
 s-hit: For 10 minutes, the target must roll twice and use the worse result whenever attempting an [[Arcana]], [[Lore]], [[Occultism]], or [[Society]] check. If the target succeeds at a check to [[Recall Knowledge]], it gains one piece of true knowledge and one piece of erroneous knowledge, but it has no way of knowing which is which (this has no effect if the target critically succeeds at a check to Recall Knowledge).
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Attack Curse Enchantment Mental Misfortune Arcane Occult
+tags: Spell Concentrate Manipulate Uncommon Attack Curse Enchantment Mental Misfortune Arcane Occult
 title: Savant's Curse
 type: text/vnd.tiddlywiki
 

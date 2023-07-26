@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200727210804961
+modified: 20230726200948135
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Conjuration Water Arcane Primal Material Somatic Verbal Concentrate Manipulate
+tags: Spell Conjuration Water Arcane Primal Concentrate Manipulate
 title: Obscuring Mist
 type: text/vnd.tiddlywiki
 

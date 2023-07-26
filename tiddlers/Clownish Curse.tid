@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200814220636354
+modified: 20230726200740946
 s-crit: The target is unaffected.
 s-fail: As success, but the effect is 1 hour.
 s-fumble: As success, except the effect is permanent.
 s-hit: For 1 round, the target must roll twice and use the worse result whenever attempting an [[Acrobatics]], [[Stealth]], or [[Thievery]] check. If the target rolls a failure at an [[Acrobatics]], [[Stealth]], or [[Thievery]] check, it gets a critical failure instead.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Attack Curse Enchantment Mental Misfortune Arcane Occult
+tags: Spell Concentrate Manipulate Uncommon Attack Curse Enchantment Mental Misfortune Arcane Occult
 title: Clownish Curse
 type: text/vnd.tiddlywiki
 

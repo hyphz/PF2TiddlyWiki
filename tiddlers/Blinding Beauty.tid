@@ -14,12 +14,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20201122163125553
+modified: 20230726200740941
 s-crit: The target is unaffected.
 s-fail: The creature is [[Blinded]] until the start of its next turn.
 s-fumble: The creature is [[Blinded]] for 1 minute.
 s-hit: The creature is [[Dazzled]] until the start of its next turn.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Emotion Enchantment Incapacitation Sorcerer Visual
+tags: Spell Manipulate [[Focus Spell]] Uncommon Emotion Enchantment Incapacitation Sorcerer Visual
 title: Blinding Beauty
 turn-stn: Non-crit fail effects wear off.
 type: text/vnd.tiddlywiki

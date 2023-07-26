@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 creature
 m-time: 
 mod-quickened: Only allows Strike and Stride actions.
-modified: 20200725152838549
+modified: 20230726200740988
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Transmutation Spell Arcane Occult Primal Somatic Verbal Concentrate Manipulate
+tags: Transmutation Spell Arcane Occult Primal Concentrate Manipulate
 title: Haste
 type: text/vnd.tiddlywiki
 

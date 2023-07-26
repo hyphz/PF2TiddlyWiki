@@ -15,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Choose an effect when sustained.
-modified: 20211026215452606
+modified: 20230726200740995
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Druid Plant Class Feat
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Druid Plant Class Feat
 title: Impaling Briars
 type: text/vnd.tiddlywiki
 

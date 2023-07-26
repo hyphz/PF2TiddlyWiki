@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20200728203325043
+modified: 20230726200948138
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Occult Material
+tags: Spell Concentrate Manipulate Occult
 title: Retrocognition
 type: text/vnd.tiddlywiki
 

@@ -15,12 +15,12 @@ m-time: 10 minutes
 mod-fortitude: Phantom Steeds fail all saves.
 mod-reflex: Phantom Steeds fail all saves.
 mod-will: Phantom Steeds fail all saves.
-modified: 20200727221344111
+modified: 20230726200741045
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Conjuration Arcane Occult Primal Somatic Verbal Spell Concentrate Manipulate
+tags: Conjuration Arcane Occult Primal Spell Concentrate Manipulate
 title: Phantom Steed
 type: text/vnd.tiddlywiki
 

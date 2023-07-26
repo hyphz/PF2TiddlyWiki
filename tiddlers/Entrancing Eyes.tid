@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200814221913737
+modified: 20230726200740970
 modtag-reaction: Critical failers can't take reactions.
 s-crit: The target is unaffected and becomes immune to this particular casting of the spell.
 s-fail: Until the end of its next turn, the target is [[Stupefied]] 2 and [[Fascinated]].
 s-fumble: Until the end of its next turn, the target is [[Stupefied]] 4, [[Fascinated]], and can't take reactions. In addition, all creatures and objects other than you are [[Concealed]] from the target.
 s-hit: The target is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Enchantment Mental Visual Arcane
+tags: Spell Concentrate Manipulate Uncommon Enchantment Mental Visual Arcane
 title: Entrancing Eyes
 type: text/vnd.tiddlywiki
 

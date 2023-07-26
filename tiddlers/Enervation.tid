@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200801155803616
+modified: 20230726200740969
 s-crit: The creature is unaffected.
 s-fail: The creature takes 4d8 persistent negative damage and becomes [[Drained]] 1.
 s-fumble: The creature takes 4d8 persistent negative damage and becomes [[Drained]] 2 and [[Doomed]] 1.
 s-hit: The creature takes 2d8 [[persistent|Persistent Damage]] negative damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Arcane Divine Occult
+tags: Spell Concentrate Manipulate Necromancy Negative Arcane Divine Occult
 title: Enervation
 type: text/vnd.tiddlywiki
 

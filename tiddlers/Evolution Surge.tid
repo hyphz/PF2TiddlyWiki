@@ -13,12 +13,12 @@ m-range: 100 feet
 m-save: 
 m-targets: Your Eidolon
 m-time: 
-modified: 20221023230533864
+modified: 20230726200740971
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Morph Summoner Transmutation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Morph Summoner Transmutation
 title: Evolution Surge
 type: text/vnd.tiddlywiki
 

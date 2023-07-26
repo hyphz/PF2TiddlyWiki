@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20200730192227872
+modified: 20230726200741109
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Occult
+tags: Spell Concentrate Manipulate Healing Necromancy Divine Occult
 title: Spirit Link
 turn-sun: You transfer hit points to the target.
 type: text/vnd.tiddlywiki

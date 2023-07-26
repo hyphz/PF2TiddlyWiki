@@ -12,12 +12,12 @@ m-range: 15 feet
 m-save: 
 m-targets: Up to 8 creatures
 m-time: 
-modified: 20200801153002392
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Primal Material
+tags: Spell Concentrate Manipulate Illusion Primal
 title: Chameleon Coat
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: Up to 6 creatures
 m-time: 
-modified: 20200727203541444
+modified: 20230726200741023
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Healing Necromancy Divine Primal Somatic Verbal Manipulate Concentrate
+tags: Spell Healing Necromancy Divine Primal Manipulate Concentrate
 title: Moment of Renewal
 type: text/vnd.tiddlywiki
 

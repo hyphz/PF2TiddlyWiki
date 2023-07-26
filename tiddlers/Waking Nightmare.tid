@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200806181332061
+modified: 20230726200741186
 s-crit: The target is unaffected.
 s-fail: The target is [[Frightened]] 2.
 s-fumble: The target is [[Frightened]] 3.
 s-hit: The target is [[Frightened]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Fear Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Fear Mental
 title: Waking Nightmare
 type: text/vnd.tiddlywiki
 

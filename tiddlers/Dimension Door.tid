@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200720211500454
+modified: 20230726200740953
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Conjuration Teleportation Arcane Occult Somatic Verbal Spell Manipulate Concentrate
+tags: Conjuration Teleportation Arcane Occult Spell Manipulate Concentrate
 title: Dimension Door
 type: text/vnd.tiddlywiki
 

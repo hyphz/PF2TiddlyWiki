@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200730212117436
+modified: 20230726200741120
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Sickened]] 1 and [[Slowed]] 1 while in the cloud.
 s-fumble: The creature is [[Sickened]] 2 and [[Slowed]] 1 until it leaves the cloud.
 s-hit: The creature is [[Sickened]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Primal Conjuration Poison
+tags: Spell Concentrate Manipulate Arcane Primal Conjuration Poison
 title: Stinking Cloud
 turn-euc: Creatures inside the mist must save.
 type: text/vnd.tiddlywiki

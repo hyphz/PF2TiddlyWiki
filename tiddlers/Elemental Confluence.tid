@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20211223223819499
+modified: 20230726200948129
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Air Conjuration Earth Fire Water Arcane Primal Material
+tags: Spell Concentrate Manipulate Air Conjuration Earth Fire Water Arcane Primal
 title: Elemental Confluence
 type: text/vnd.tiddlywiki
 

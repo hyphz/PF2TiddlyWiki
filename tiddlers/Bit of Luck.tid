@@ -17,12 +17,12 @@ m-time:
 mod-fortitude: Allows best of 2 rolls.
 mod-reflex: Allows best of 2 rolls.
 mod-will: Allows best of 2 rolls.
-modified: 20200804202800950
+modified: 20230726200740940
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Divination Fortune
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Divination Fortune
 title: Bit of Luck
 type: text/vnd.tiddlywiki
 

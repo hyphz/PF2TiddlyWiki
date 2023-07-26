@@ -16,12 +16,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-athletics: +1 status on rolls, and DCs against athletics actions.
-modified: 20200830154352695
+modified: 20230726200649377
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class [[Focus Spell]]
+tags: Spell Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class [[Focus Spell]]
 title: Song of Strength
 type: text/vnd.tiddlywiki
 

@@ -1,12 +1,12 @@
 created: 20201024145010093
 feat-class: Druid
 feat-level: 12
-mod-refocus: Regain 2 points instead of 1.
-modified: 20201024145043579
+mod-refocus: Refill entire focus pool.
+modified: 20230726181323873
 tags: Feat Class Druid
 title: Primal Focus
 type: text/vnd.tiddlywiki
 
 Your connection to nature is particularly strong, and the spirits of nature flock around you, helping you replenish your focus. 
 
-If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you [[Refocus]] instead of 1.
+{{RemasterFocus}}

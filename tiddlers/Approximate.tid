@@ -12,12 +12,12 @@ m-range: 10 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20210929205905406
+modified: 20230726200740938
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Detection Divination Arcane Divine Occult Primal
+tags: Spell Concentrate Manipulate Cantrip Detection Divination Arcane Divine Occult Primal
 title: Approximate
 type: text/vnd.tiddlywiki
 

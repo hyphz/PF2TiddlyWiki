@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20220418201300934
+modified: 20230726200948135
 modtag-mental: Can trigger Fight with Fear to gain save bonus.
 s-crit: 
 s-fail: The creature is [[Frightened]] 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
 s-fumble: The creature is [[Frightened]] 2 and you're unaffected by the triggering mental effect.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Contingency Emotion Enchantment Fear Mental Arcane Divine Occult Primal Material
+tags: Spell Concentrate Manipulate Contingency Emotion Enchantment Fear Mental Arcane Divine Occult Primal
 title: Mind of Menace
 type: text/vnd.tiddlywiki
 

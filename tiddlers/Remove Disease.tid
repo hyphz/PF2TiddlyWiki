@@ -12,13 +12,13 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200823163829161
+modified: 20230726200948138
 modtag-disease: Can be counteracted by this.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Healing Necromancy Divine Primal Material Somatic Verbal Spell Concentrate Manipulate
+tags: Healing Necromancy Divine Primal Spell Concentrate Manipulate
 title: Remove Disease
 type: text/vnd.tiddlywiki
 

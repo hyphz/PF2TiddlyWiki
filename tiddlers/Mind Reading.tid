@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200727001320401
+modified: 20230726200741019
 s-crit: The target perceives vague surface thoughts from you when you Cast the Spell.
 s-fail: You perceive vague surface thoughts from the target when you Cast the Spell, and you find out whether its Intelligence modifier is higher than, equal to, or lower than yours.
 s-fumble: As failure, and for the duration of the spell, you can Sustain the Spell to detect the target’s surface thoughts again. The target doesn’t receive any additional saves.
 s-hit: You find out whether the target’s [[Intelligence]] modifier is higher than, equal to, or lower than yours.
-tags: Uncommon Detection Divination Mental Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Uncommon Detection Divination Mental Spell Arcane Occult Concentrate Manipulate
 title: Mind Reading
 type: text/vnd.tiddlywiki
 

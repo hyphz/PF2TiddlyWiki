@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 mindless undead creature with a level no greater than bind undead's spell level
 m-time: 
-modified: 20200805230055856
+modified: 20230726200740939
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Necromancy Arcane Divine Occult Somatic Verbal Manipulate Concentrate
+tags: Spell Necromancy Arcane Divine Occult Manipulate Concentrate
 title: Bind Undead
 type: text/vnd.tiddlywiki
 

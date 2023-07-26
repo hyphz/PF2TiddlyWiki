@@ -3,8 +3,8 @@ m-components: Somatic Verbal
 m-level: 1
 m-range: 30 feet
 m-targets: 1 creature
-modified: 20201129003809980
-tags: Spell Cantrip Acid Attack Evocation Arcane Primal Somatic Verbal Concentrate Manipulate
+modified: 20230726200740935
+tags: Spell Cantrip Acid Attack Evocation Arcane Primal Concentrate Manipulate
 title: Acid Splash
 type: text/vnd.tiddlywiki
 

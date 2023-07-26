@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Each ally targeted by the triggering spell
 m-time: 
-modified: 20200806230731438
+modified: 20230726200649421
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell [[Focus Spell]] Reaction Uncommon Abjuration Cleric Fortune Concentrate Verbal
+tags: Spell [[Focus Spell]] Reaction Uncommon Abjuration Cleric Fortune Concentrate
 title: Unity
 type: text/vnd.tiddlywiki
 

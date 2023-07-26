@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: The triggering spell
 m-time: 
-modified: 20200729205225108
+modified: 20230726200649367
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Illusion Shadow Arcane Occult Reaction
+tags: Spell Concentrate Illusion Shadow Arcane Occult Reaction
 title: Shadow Siphon
 type: text/vnd.tiddlywiki
 

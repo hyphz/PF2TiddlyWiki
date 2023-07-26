@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200731175731566
+modified: 20230726200948148
 s-crit: The creature can move through the wall normally this turn.
 s-fail: The wall stops the movement of the flying creature, and any remaining movement from its current action is wasted.
 s-fumble: As failure, and the creature is pushed 10 feet away from the wall.
 s-hit: The flying creature can move through the wall this turn, but the wall is [[Difficult Terrain]].
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Primal Air Evocation Material
+tags: Spell Concentrate Manipulate Arcane Primal Air Evocation
 title: Wall of Wind
 type: text/vnd.tiddlywiki
 

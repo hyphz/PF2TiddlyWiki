@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200728203044930
+modified: 20230726200741070
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Occult Primal
+tags: Spell Concentrate Manipulate Healing Necromancy Divine Occult Primal
 title: Restore Senses
 type: text/vnd.tiddlywiki
 

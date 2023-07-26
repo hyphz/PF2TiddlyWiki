@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200724225654471
+modified: 20230726200740976
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Evocation Fire Divine Somatic Verbal Manipulate Concentrate
+tags: Spell Evocation Fire Divine Manipulate Concentrate
 title: Flame Strike
 type: text/vnd.tiddlywiki
 

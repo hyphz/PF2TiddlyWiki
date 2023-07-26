@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-calm_emotions: Calms down monkeys and reduces spell effect.
 mod-sustain_a_spell: Move monkeys and their mischief activates.
-modified: 20220415180408698
+modified: 20230726200741009
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Primal
+tags: Spell Concentrate Manipulate Conjuration Primal
 title: Mad Monkeys
 type: text/vnd.tiddlywiki
 

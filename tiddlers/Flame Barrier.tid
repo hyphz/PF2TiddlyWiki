@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: 
 m-targets: The creature that could take fire damage
 m-time: 
-modified: 20200805193942166
+modified: 20230726200649282
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration Cleric Reaction
+tags: Spell Concentrate [[Focus Spell]] Uncommon Abjuration Cleric Reaction
 title: Flame Barrier
 type: text/vnd.tiddlywiki
 

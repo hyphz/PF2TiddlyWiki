@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: Any number of creatures
 m-time: 
-modified: 20200731181223116
+modified: 20230726200741197
 s-crit: The target is unaffected.
 s-fail: The target takes full damage and is [[Frightened]] 2.
 s-fumble: The target is so afraid, it might instantly die. It must attempt a [[Fortitude]] saving throw. If the target succeeds, it takes double damage and is [[Frightened]] 2, and it’s also [[Fleeing]] until the end of its next turn unless it critically succeeded. If it fails, it is reduced to 0 Hit Points and dies.
 s-hit: The target takes half damage and is [[Frightened]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate Death Emotion Fear Illusion Mental Arcane Occult
+tags: Spell Concentrate Manipulate Death Emotion Fear Illusion Mental Arcane Occult
 title: Weird
 type: text/vnd.tiddlywiki
 

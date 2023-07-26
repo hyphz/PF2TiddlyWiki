@@ -12,12 +12,12 @@ m-range: 50 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20220423214151698
+modified: 20230726200948136
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Incapacitation Mental Visual Arcane Occult Material
+tags: Spell Concentrate Manipulate Illusion Incapacitation Mental Visual Arcane Occult
 title: Phantom Prison
 type: text/vnd.tiddlywiki
 

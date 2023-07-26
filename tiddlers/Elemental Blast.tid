@@ -13,12 +13,12 @@ m-range: 30 feet (Burst only)
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20211128234506067
+modified: 20230726200740967
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Sorcerer
 title: Elemental Blast
 type: text/vnd.tiddlywiki
 virtual-tags: Air Fire Earth Water

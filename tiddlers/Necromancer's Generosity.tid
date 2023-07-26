@@ -15,12 +15,12 @@ m-time:
 mod-fortitude: Undead gets +2 status vs positive.
 mod-reflex: Undead gets +2 status vs positive.
 mod-will: Undead gets +2 status vs positive.
-modified: 20220418205655385
+modified: 20230726200741029
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Arcane Divine
+tags: Spell Concentrate Manipulate Necromancy Negative Arcane Divine
 title: Necromancer's Generosity
 type: text/vnd.tiddlywiki
 

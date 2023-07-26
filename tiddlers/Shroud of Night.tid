@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200814001312637
+modified: 20230726200741096
 s-crit: 
 s-fail: The target is shrouded in murky darkness. Unless the target has [[Darkvision]], other creatures are [[Concealed]] to it.
 s-fumble: 
 s-hit: The target is unaffected.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cantrip Darkness Evocation Hex Witch
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cantrip Darkness Evocation Hex Witch
 title: Shroud of Night
 type: text/vnd.tiddlywiki
 

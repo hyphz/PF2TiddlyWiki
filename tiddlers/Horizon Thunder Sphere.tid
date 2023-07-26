@@ -12,12 +12,12 @@ m-range: Varies
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20220415174950058
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Electricity Arcane Primal Material
+tags: Spell Concentrate Manipulate Attack Evocation Electricity Arcane Primal
 title: Horizon Thunder Sphere
 type: text/vnd.tiddlywiki
 

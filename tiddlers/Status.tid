@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20220622205506501
+modified: 20230726200741119
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Divine Occult Primal
+tags: Spell Concentrate Manipulate Detection Divination Divine Occult Primal
 title: Status
 type: text/vnd.tiddlywiki
 

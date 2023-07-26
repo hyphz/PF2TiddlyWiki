@@ -12,12 +12,12 @@ m-range: Varies
 m-save: Fortitude
 m-targets: 1 willing living creature or 1 undead creature
 m-time: 
-modified: 20200725153112246
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Healing Necromancy Positive Divine Primal Spell Somatic Verbal Material Concentrate Manipulate
+tags: Healing Necromancy Positive Divine Primal Spell Concentrate Manipulate
 title: Heal
 type: text/vnd.tiddlywiki
 

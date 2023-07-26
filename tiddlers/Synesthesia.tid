@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200730220710497
+modified: 20230726200741150
 s-crit: The target is unaffected.
 s-fail: The target is affected for 1 minute.
 s-fumble: As failure, and the target is [[Stunned]] 2 as it attempts to process the sensory shifts.
 s-hit: The target is affected for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Mental Occult
+tags: Spell Concentrate Manipulate Divination Mental Occult
 title: Synesthesia
 type: text/vnd.tiddlywiki
 

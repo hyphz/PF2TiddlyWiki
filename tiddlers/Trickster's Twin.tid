@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200806230834127
+modified: 20230726200948145
 s-crit: The target is unaffected.
 s-fail: As success, but the target must succeed at a [[Will]] save to disbelieve the illusion when one of the listed events occurs.
 s-fumble: As success, but the target must critically succeed at a [[Will]] save to disbelieve when one of the listed events occurs.
 s-hit: The target believes you’re in the designated location and can’t see you in your actual location. The target automatically disbelieves the illusion when you use an action that doesn’t make sense in the illusion’s position, or if the target attacks, touches, [[Seek]]s, or otherwise engages with the illusion. If you use a [[Hostile Action]] against the target, the spell ends.
-tags: Spell Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual Material
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual
 title: Trickster's Twin
 type: text/vnd.tiddlywiki
 

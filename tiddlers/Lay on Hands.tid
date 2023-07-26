@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 [[Willing]] living creature or 1 <<tag Undead>> creature
 m-time: 
 mod-ac: Maybe +2/-2 status.
-modified: 20200803183306314
+modified: 20230726200741004
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Champion Healing Necromancy Positive
+tags: Spell Manipulate [[Focus Spell]] Uncommon Champion Healing Necromancy Positive
 title: Lay on Hands
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: The triggering creature
 m-time: 
-modified: 20200806171824651
+modified: 20230726200741071
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Cleric Mental Nonlethal Reaction
+tags: Spell Manipulate [[Focus Spell]] Uncommon Abjuration Cleric Mental Nonlethal Reaction
 title: Retributive Pain
 type: text/vnd.tiddlywiki
 

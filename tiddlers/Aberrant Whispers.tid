@@ -13,12 +13,12 @@ m-range:
 m-save: Will
 m-targets: Each foe in the area
 m-time: 
-modified: 20201102193048666
+modified: 20230726200649246
 s-crit: 
 s-fail: The target is [[Stupefied]] 2.
 s-fumble: The target is [[Confused]].
 s-hit: The target is unaffected.
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Auditory Enchantment Mental Sorcerer
+tags: Spell Concentrate [[Focus Spell]] Uncommon Auditory Enchantment Mental Sorcerer
 title: Aberrant Whispers
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-shield_block: Spell-created shield can apply hardness against Magic Missile (specifically).
-modified: 20200828185348000
+modified: 20230726200649371
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Arcane Divine Occult Abjuration Cantrip Force
+tags: Spell Concentrate Arcane Divine Occult Abjuration Cantrip Force
 title: Shield (Spell)
 turn-sun: Shield spell expires.
 type: text/vnd.tiddlywiki

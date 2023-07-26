@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 ally
 m-time: 
-modified: 20200912143150438
+modified: 20230726200740943
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Feat Class Champion
+tags: Spell Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Feat Class Champion
 title: Champion's Sacrifice
 type: text/vnd.tiddlywiki
 

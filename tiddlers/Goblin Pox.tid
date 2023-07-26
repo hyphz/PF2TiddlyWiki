@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200730195856726
+modified: 20230726200740983
 s-crit: The target is unaffected.
 s-fail: The target is afflicted with Goblin Pox at stage 1.
 s-fumble: The target is afflicted with Goblin Pox at stage 2.
 s-hit: The target is [[Sickened]] 1.
-tags: Spell Disease Necromancy Arcane Primal Somatic Verbal Manipulate Concentrate
+tags: Spell Disease Necromancy Arcane Primal Manipulate Concentrate
 title: Goblin Pox
 type: text/vnd.tiddlywiki
 

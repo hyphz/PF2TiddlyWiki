@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200806171522708
+modified: 20230726200741091
 s-crit: You are [[Confused]] for 1 round.
 s-fail: As success, but the target is affected instead of you, spending its first action each turn [[Confused]]. The duration is 1 minute.
 s-fumble: The target is [[Confused]] for 1 minute.
 s-hit: At the start of your next turn, you spend your first action with the [[Confused]] condition, then act normally.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Incapacitation Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Incapacitation Mental
 title: Shared Nightmare
 type: text/vnd.tiddlywiki
 

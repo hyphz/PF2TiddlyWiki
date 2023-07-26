@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20210825010441653
+modified: 20230726200948129
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Mental Necromancy Occult Material
+tags: Spell Concentrate Manipulate Uncommon Mental Necromancy Occult
 title: Ectoplasmic Expulsion
 type: text/vnd.tiddlywiki
 

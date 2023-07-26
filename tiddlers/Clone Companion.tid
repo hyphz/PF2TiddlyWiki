@@ -13,12 +13,12 @@ m-save:
 m-targets: Your companion
 m-time: 
 mod-command_an_animal: Clone follows same commands, but can make decisions differently.
-modified: 20211221220812553
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Primal Material
+tags: Spell Concentrate Manipulate Primal
 title: Clone Companion
 type: text/vnd.tiddlywiki
 

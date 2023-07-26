@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature or object
 m-time: 
-modified: 20200729223254630
+modified: 20230726200741096
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Transmutation Arcane Divine Occult Primal
+tags: Spell Concentrate Manipulate Cantrip Transmutation Arcane Divine Occult Primal
 title: Sigil
 type: text/vnd.tiddlywiki
 

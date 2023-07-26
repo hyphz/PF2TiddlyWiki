@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200731181001463
+modified: 20230726200948148
 s-crit: The creature is unaffected, and it doesn’t need to attempt further Athletics checks or saving throws against the web this turn. If it used an Athletics check, it clears the web from every square it leaves after leaving the square.
 s-fail: The creature takes a –10-foot circumstance penalty to its Speeds until the start of its next turn.
 s-fumble: The creature is [[Immobilized]] until the start of its next turn, after which it takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to [[Escape]] to remove its immobilized condition.
 s-hit: The creature is unaffected during its action. If it used an Athletics check, it clears the web from every square it leaves after leaving the square.
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Arcane Primal Material
+tags: Spell Concentrate Manipulate Conjuration Arcane Primal
 title: Web
 type: text/vnd.tiddlywiki
 

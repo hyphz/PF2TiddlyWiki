@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200728202354854
+modified: 20230726200741106
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate
+tags: Spell Concentrate Manipulate
 title: SpellFieldTemplate
 type: text/vnd.tiddlywiki
 

@@ -12,13 +12,13 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 10 minutes
-modified: 20200814000040258
+modified: 20230726200948138
 modtag-curse: Can be removed with this spell.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Healing Necromancy Divine Occult Material Somatic Verbal Spell Concentrate Manipulate
+tags: Healing Necromancy Divine Occult Spell Concentrate Manipulate
 title: Remove Curse
 type: text/vnd.tiddlywiki
 

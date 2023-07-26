@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-impersonate: 4 status and add level if untrained to impersonate undead you.
 mod-lifesense_sense: Test perceptions vs. spell DC or detect as undead.
-modified: 20220418200921489
+modified: 20230726200741017
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Divine Occult
+tags: Spell Concentrate Manipulate Necromancy Divine Occult
 title: Mimic Undead
 type: text/vnd.tiddlywiki
 

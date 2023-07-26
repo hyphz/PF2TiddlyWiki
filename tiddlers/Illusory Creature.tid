@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200806182950122
+modified: 20230726200740995
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Auditory Illusion Visual Somatic Verbal Concentrate Manipulate Spell
+tags: Auditory Illusion Visual Concentrate Manipulate Spell
 title: Illusory Creature
 type: text/vnd.tiddlywiki
 virtual-tags: Mental

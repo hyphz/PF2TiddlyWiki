@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 [[Willing]] ally and 1 enemy
 m-time: 
-modified: 20211223225023984
+modified: 20230726200948130
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Arcane Divine Occult Primal Material
+tags: Spell Concentrate Manipulate Divination Arcane Divine Occult Primal
 title: Fated Confrontation
 type: text/vnd.tiddlywiki
 virtual-tags: Teleportation

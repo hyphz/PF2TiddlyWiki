@@ -17,12 +17,12 @@ mod-grabbed: Allows auto Escape success against lower level effects.
 mod-immobilized: Allows auto Escape success against lower level effects.
 mod-restrained: Allows auto Escape success against lower level effects.
 mod-speed: Disables circumstance penalties.
-modified: 20200724233234920
+modified: 20230726200740980
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Arcane Divine Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Abjuration Arcane Divine Primal Concentrate Manipulate
 title: Freedom of Movement
 type: text/vnd.tiddlywiki
 

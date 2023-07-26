@@ -15,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-produce_flame: Changes casting time to 1 action.
-modified: 20200811011453666
+modified: 20230726200740976
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
 title: Flaming Fusillade
 type: text/vnd.tiddlywiki
 

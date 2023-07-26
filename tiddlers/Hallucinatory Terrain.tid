@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20200725151949340
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Illusion Arcane Occult Primal Material Somatic Verbal Spell Manipulate Concentrate
+tags: Uncommon Illusion Arcane Occult Primal Spell Manipulate Concentrate
 title: Hallucinatory Terrain
 type: text/vnd.tiddlywiki
 

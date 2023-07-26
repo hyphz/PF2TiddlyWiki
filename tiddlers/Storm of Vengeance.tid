@@ -12,12 +12,12 @@ m-range: 800 feet
 m-save: Fortitude Reflex
 m-targets: 
 m-time: 
-modified: 20200730213014407
+modified: 20230726200948142
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Air Electricity Evocation Primal Material
+tags: Spell Concentrate Manipulate Air Electricity Evocation Primal
 title: Storm of Vengeance
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 cubic foot of contaminated food or water
 m-time: 
-modified: 20200728193359366
+modified: 20230726200741056
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Necromancy Divine Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Necromancy Divine Primal Concentrate Manipulate
 title: Purify Food and Drink
 type: text/vnd.tiddlywiki
 

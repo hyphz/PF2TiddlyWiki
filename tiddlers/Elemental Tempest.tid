@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200808143808475
+modified: 20230726200649273
 modtag-evocation: Acid, Cold, Fire, or Electricity spells create a burst on cast.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation Metamagic Wizard
+tags: Spell Concentrate [[Focus Spell]] Uncommon Evocation Metamagic Wizard
 title: Elemental Tempest
 type: text/vnd.tiddlywiki
 

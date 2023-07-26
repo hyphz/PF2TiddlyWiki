@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200815145909290
+modified: 20230726200741175
 s-crit: The creature takes half collapse damage.
 s-fail: The creature takes the full collapse damage and falls prone.
 s-fumble: The creature takes the full collapse damage and is [[Restrained]] by debris until it successfully [[Escape]]s (DC equal to the spell’s save DC).
 s-hit: The creature takes half the collapse damage and falls [[Prone]].
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Earth Arcane Primal
+tags: Spell Concentrate Manipulate Uncommon Conjuration Earth Arcane Primal
 title: Upheaval
 type: text/vnd.tiddlywiki
 

@@ -1,0 +1,35 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722194807540
+m-area: All squares in a 20-foot radius [[Burst]]
+m-components: Somatic Verbal
+m-duration: 1 minute
+m-level: 2
+m-range: 120 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20230726203008572
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Plant Transmutation Primal Spell Manipulate Concentrate
+title: Entangling Flora
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+__Plants and fungi burst out or quickly grow__, entangle creatures. 
+
+__All surfaces in the area__ are [[Difficult Terrain]]. 
+
+Each round that a creature starts its turn in the area, it must attempt a [[Reflex]] save. 
+
+On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and
+on a critical failure, it is also [[Immobilized]] for 1 round. 
+
+Creatures can attempt to [[Escape]] to remove these effects.

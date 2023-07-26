@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200801183619056
+modified: 20230726200741175
 s-crit: The target is unaffected.
 s-fail: The target is briefly trapped within the vampiric maiden. The target takes full damage and is [[Immobilized]] by the iron maiden for 1 round or until it uses an [[Interact]] action to extricate itself, whichever comes first.
 s-fumble: The target takes double damage and is [[Immobilized]] by the vampiric maiden for 1 round or until it [[Escape]]s (the DC is your spell DC), whichever comes first.
 s-hit: The target takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Arcane Divine Occult
+tags: Spell Concentrate Manipulate Necromancy Negative Arcane Divine Occult
 title: Vampiric Maiden
 type: text/vnd.tiddlywiki
 

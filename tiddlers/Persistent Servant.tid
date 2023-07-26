@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20220423213312300
+modified: 20230726200948136
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Arcane Occult Material
+tags: Spell Concentrate Manipulate Conjuration Arcane Occult
 title: Persistent Servant
 type: text/vnd.tiddlywiki
 

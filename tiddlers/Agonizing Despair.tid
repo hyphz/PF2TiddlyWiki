@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200801145544987
+modified: 20230726200740936
 s-crit: The target is unaffected.
 s-fail: The target takes full damage and becomes [[Frightened]] 2.
 s-fumble: The target takes double damage and becomes [[Frightened]] 3.
 s-hit: The target takes half damage and becomes [[Frightened]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Fear Mental Arcane Divine Occult
+tags: Spell Concentrate Manipulate Emotion Enchantment Fear Mental Arcane Divine Occult
 title: Agonizing Despair
 type: text/vnd.tiddlywiki
 

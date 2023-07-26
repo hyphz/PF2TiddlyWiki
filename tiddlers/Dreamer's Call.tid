@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200805182534085
+modified: 20230726200740963
 s-crit: The target is unaffected.
 s-fail: As success, except that you appear in the dream and give a suggestion. This can be to approach you, run away (as if it had the [[Fleeing]] condition), [[Release]] what it’s holding, [[Drop Prone]], or stand in place. The creature follows this course of action as its first action after you Cast the Spell.
 s-fumble: As failure, but the target follows the course of action for as many actions as possible for the spell’s duration, and it does nothing else.
 s-hit: The target’s attention wavers. It becomes [[Flat-Footed]] and [[Fascinated]] by its daydreams.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Incapacitation Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Incapacitation Mental
 title: Dreamer's Call
 turn-etn: Wears off.
 type: text/vnd.tiddlywiki

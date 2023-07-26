@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 1 creature or object
 m-time: 
-modified: 20200814215836768
+modified: 20230726200741130
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Electricity Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Uncommon Electricity Evocation Arcane Primal
 title: Sudden Bolt
 type: text/vnd.tiddlywiki
 

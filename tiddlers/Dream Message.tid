@@ -12,12 +12,12 @@ m-range: Planetary
 m-save: 
 m-targets: 1 creature you know by name and have met in person
 m-time: 
-modified: 20220622205201902
+modified: 20230726200740963
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Enchantment Mental Arcane Divine Occult Somatic Verbal Manipulate Spell Concentrate
+tags: Enchantment Mental Arcane Divine Occult Manipulate Spell Concentrate
 title: Dream Message
 type: text/vnd.tiddlywiki
 

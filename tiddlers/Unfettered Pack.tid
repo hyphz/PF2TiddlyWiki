@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 10 creatures
 m-time: 
-modified: 20200730230741353
+modified: 20230726200741173
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Primal
+tags: Spell Concentrate Manipulate Abjuration Primal
 title: Unfettered Pack
 type: text/vnd.tiddlywiki
 

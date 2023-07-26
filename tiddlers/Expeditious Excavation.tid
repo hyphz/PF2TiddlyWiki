@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200802224138506
+modified: 20230726200740971
 s-crit: 
 s-fail: The creature falls [[Prone]] in the nearest available space of its choice, or [[falls|Falling]] into the pit if it prefers.
 s-fumble: The creature falls into the pit excavated by the spell and lands [[Prone]], taking [[Falling]] damage as normal.
 s-hit: The creature is unaffected and can choose to either descend the pit without damage or move to the nearest available space of its choice.
-tags: Spell Somatic Verbal Concentrate Manipulate Earth Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Earth Transmutation Arcane Primal
 title: Expeditious Excavation
 type: text/vnd.tiddlywiki
 

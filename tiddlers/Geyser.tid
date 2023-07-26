@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220410154841137
+modified: 20230726200740982
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is pushed 20 feet into the air.
 s-fumble: The creature takes double damage and is pushed 40 feet into the air.
 s-hit: The creature takes half damage and isn't pushed into the air.
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Water Arcane Primal
+tags: Spell Concentrate Manipulate Evocation Fire Water Arcane Primal
 title: Geyser
 type: text/vnd.tiddlywiki
 

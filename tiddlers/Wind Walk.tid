@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: You and up to five creatures touched
 m-time: 10 minutes
-modified: 20200731181441553
+modified: 20230726200948148
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Air Transmutation Primal Material
+tags: Spell Concentrate Manipulate Air Transmutation Primal
 title: Wind Walk
 type: text/vnd.tiddlywiki
 

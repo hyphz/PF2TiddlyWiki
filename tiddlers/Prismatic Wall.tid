@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-counteract: Can't be counteracted by lower or same level effects.
-modified: 20230305193550256
+modified: 20230726200948136
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Abjuration Arcane Occult Material Somatic Verbal Spell Concentrate Manipulate Light
+tags: Abjuration Arcane Occult Spell Concentrate Manipulate Light
 title: Prismatic Wall
 type: text/vnd.tiddlywiki
 

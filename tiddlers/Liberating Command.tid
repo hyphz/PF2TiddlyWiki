@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200802225332339
+modified: 20230726200649307
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Enchantment Mental Occult
+tags: Spell Concentrate Enchantment Mental Occult
 title: Liberating Command
 type: text/vnd.tiddlywiki
 

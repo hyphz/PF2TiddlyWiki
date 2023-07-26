@@ -12,12 +12,12 @@ m-range: 5 feet
 m-save: 
 m-targets: 
 m-time: 1 hour
-modified: 20200728201120030
+modified: 20230726200948138
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Conjuration Arcane Divine Occult Primal Material Somatic Verbal Spell Concentrate Manipulate
+tags: Uncommon Conjuration Arcane Divine Occult Primal Spell Concentrate Manipulate
 title: Remake
 type: text/vnd.tiddlywiki
 

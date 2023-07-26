@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: All creatures in range
 m-time: 
-modified: 20200722195449824
+modified: 20230726200740969
 s-crit: The target is unaffected and notices that you tried to use magic.
 s-fail: The target is [[Fascinated]] with you. It can attempt another Will save if it witnesses actions or speech with which it disagrees. If it succeeds, it’s no longer fascinated and is temporarily immune for 1 hour. If the target is subject to a [[hostile act|Hostile Action]], or if another creature succeeds at a [[Diplomacy]] or [[Intimidation]] check against it, the fascination ends immediately.
 s-fumble: As failure, but the target can’t attempt a save to end the fascination if it disagrees with you.
 s-hit: The target needn’t pay attention but doesn’t notice you tried to use magic (it might notice others are enthralled).
-tags: Auditory Enchantment Emotion Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+tags: Auditory Enchantment Emotion Spell Arcane Occult Manipulate Concentrate
 title: Enthrall
 type: text/vnd.tiddlywiki
 

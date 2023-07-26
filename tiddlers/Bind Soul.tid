@@ -5,19 +5,19 @@ a-fumble:
 a-hit: 
 created: 20200718212853353
 m-area: 
-m-components: Somatic Verbal 
+m-components: Somatic Verbal
 m-duration: Unlimited
 m-level: 9
 m-range: 30 feet
 m-save: 
 m-targets: 1 creature that died within the last minute
 m-time: 
-modified: 20200805225902731
+modified: 20230726200740939
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Uncommon Evil Necromancy Somatic Verbal Concentrate Manipulate Divine Occult
+tags: Spell Uncommon Evil Necromancy Concentrate Manipulate Divine Occult
 title: Bind Soul
 type: text/vnd.tiddlywiki
 

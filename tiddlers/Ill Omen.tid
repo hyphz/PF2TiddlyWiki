@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200801162702262
+modified: 20230726200740994
 s-crit: 
 s-fail: The first time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.
 s-fumble: Every time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.
 s-hit: The target is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Curse Divination Misfortune Occult
+tags: Spell Concentrate Manipulate Curse Divination Misfortune Occult
 title: Ill Omen
 type: text/vnd.tiddlywiki
 

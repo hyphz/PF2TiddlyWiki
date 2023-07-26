@@ -1,13 +1,7 @@
 created: 20200926150155354
-feat-class: Cleric
-feat-fpre: [[Domain Focus]]
-feat-level: 18
-mod-domain_focus: Gain 3 Focus Points, not 2.
-modified: 20200926150241907
-tags: Cleric Feat Class
+modified: 20230726181530231
+tags: 
 title: Domain Wellspring
 type: text/vnd.tiddlywiki
 
-The intensity of your focus grows from the investment you’ve placed in your domains. 
-
-If you have spent at least 3 Focus Points since the last time you [[Refocus]]ed, you recover 3 Focus Points when you Refocus instead of 1.
+{{RemasterWellspringGone}}

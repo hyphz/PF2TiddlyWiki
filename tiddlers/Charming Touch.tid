@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 humanoid creature that could find you attractive
 m-time: 
-modified: 20200805165626202
+modified: 20230726200740944
 s-crit: The target is unaffected and aware you tried to charm it.
 s-fail: The target’s attitude becomes [[Friendly]] toward you. If it was friendly, it becomes [[Helpful]]. It can’t use [[Hostile Action]]s against you.
 s-fumble: The target is [[Helpful]] and can’t use [[Hostile Action]]s against you.
 s-hit: The target is unaffected but thinks your spell was something harmless instead of charming touch, unless it identifies the spell (usually with [[Identify Magic]]).
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Incapacitation Mental
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Incapacitation Mental
 title: Charming Touch
 type: text/vnd.tiddlywiki
 

@@ -15,12 +15,12 @@ m-time:
 mod-fortitude: +4 status.
 mod-reflex: +4 status.
 mod-will: +4 status.
-modified: 20210929211957173
+modified: 20230726200740941
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divine Primal Abjuration
+tags: Spell Concentrate Manipulate Divine Primal Abjuration
 title: Blessing of Defiance
 type: text/vnd.tiddlywiki
 

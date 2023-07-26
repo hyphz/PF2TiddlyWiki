@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: You and up to 9 [[Willing]] creatures touched
 m-time: 
-modified: 20200729205453361
+modified: 20230726200948140
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Shadow Teleportation Material Arcane Occult
+tags: Spell Concentrate Manipulate Uncommon Conjuration Shadow Teleportation Arcane Occult
 title: Shadow Walk
 type: text/vnd.tiddlywiki
 

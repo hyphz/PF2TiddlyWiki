@@ -14,12 +14,12 @@ m-targets: A handful of dirt or mud
 m-time: 
 mod-administer_first_aid: Transmuted mud/dirt counts as healer's tools; +1 item if heightened.
 mod-treat_wounds: Transmuted mud/dirt counts as healer's tools; +1 item if heightened.
-modified: 20220415173106179
+modified: 20230726200740989
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Cantrip Earth Transmutation Primal
+tags: Spell Manipulate Cantrip Earth Transmutation Primal
 title: Healing Plaster
 type: text/vnd.tiddlywiki
 

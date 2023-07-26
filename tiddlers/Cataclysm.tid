@@ -12,12 +12,12 @@ m-range: 1000 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200719201324652
+modified: 20230726200740943
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Acid Air Cold Earth Electricity Evocation Fire Water Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+tags: Acid Air Cold Earth Electricity Evocation Fire Water Spell Arcane Primal Manipulate Concentrate
 title: Cataclysm
 type: text/vnd.tiddlywiki
 

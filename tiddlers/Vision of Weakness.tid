@@ -15,12 +15,12 @@ m-range:
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20210515173007721
+modified: 20230726200741182
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Divination Feat Class Oracle
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cursebound Divination Feat Class Oracle
 title: Vision of Weakness
 turn-euc: Bonus to attack rolls wears off.
 type: text/vnd.tiddlywiki

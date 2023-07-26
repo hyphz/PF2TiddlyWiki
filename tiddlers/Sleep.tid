@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200729224118744
+modified: 20230726200741097
 s-crit: The creature is unaffected.
 s-fail: The creature falls [[Unconscious]]. If it’s still unconscious after 1 minute, it wakes up automatically.
 s-fumble: The creature falls unconscious. If it’s still unconscious after 1 hour, it wakes up automatically.
 s-hit: The creature takes a –1 status penalty to [[Perception]] checks for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Mental Sleep Arcane Occult
+tags: Spell Concentrate Manipulate Enchantment Incapacitation Mental Sleep Arcane Occult
 title: Sleep
 type: text/vnd.tiddlywiki
 

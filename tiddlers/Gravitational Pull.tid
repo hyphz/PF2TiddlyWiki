@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20220410160151906
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Material Evocation Arcane Occult
+tags: Spell Concentrate Manipulate Evocation Arcane Occult
 title: Gravitational Pull
 type: text/vnd.tiddlywiki
 

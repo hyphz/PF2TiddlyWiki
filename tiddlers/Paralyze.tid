@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200727211656534
+modified: 20230726200741039
 s-crit: The target is unaffected.
 s-fail: The target is [[Paralyzed]] for 1 round.
 s-fumble: The target is Paralyzed for 4 rounds. At the end of each of its turn, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
 s-hit: The target is [[Stunned]] 1.
-tags: Enchantment Incapacitation Mental Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Enchantment Incapacitation Mental Arcane Occult Concentrate Manipulate
 title: Paralyze
 turn-etn: Target that fumbled can save to shorten paralysis.
 type: text/vnd.tiddlywiki

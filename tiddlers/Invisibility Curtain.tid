@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220410165245150
+modified: 20230726200948132
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Material Arcane Occult
+tags: Spell Concentrate Manipulate Illusion Arcane Occult
 title: Invisibility Curtain
 type: text/vnd.tiddlywiki
 

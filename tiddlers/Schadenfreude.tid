@@ -14,12 +14,12 @@ m-targets: The triggering foe
 m-time: 
 mod-perception: -1 status.
 mod-will: -1 status.
-modified: 20220424193548966
+modified: 20230726200649363
 s-crit: The creature is unaffected.
 s-fail: The creature is overcome by its amusement and is [[Stupefied]] 1 for 1 round.
 s-fumble: The creature is lost in its amusement and is [[Stupefied]] 2 for 1 round and [[Stunned]] 1.
 s-hit: The creature is distracted by its amusement and takes a -1 status penalty on [[Perception]] checks and [[Will]] saves for 1 round.
-tags: Spell Verbal Concentrate Emotion Enchantment Mental Arcane Divine Occult Reaction
+tags: Spell Concentrate Emotion Enchantment Mental Arcane Divine Occult Reaction
 title: Schadenfreude
 type: text/vnd.tiddlywiki
 

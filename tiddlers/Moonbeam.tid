@@ -13,12 +13,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20230305193551710
+modified: 20230726200741024
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Attack Cleric Evocation Fire Light
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Attack Cleric Evocation Fire Light
 title: Moonbeam
 type: text/vnd.tiddlywiki
 

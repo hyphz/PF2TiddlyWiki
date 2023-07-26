@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20211026220042462
+modified: 20230726200649293
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]]
+tags: Spell Concentrate [[Focus Spell]]
 title: Healer's Blessing
 type: text/vnd.tiddlywiki
 

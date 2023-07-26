@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20211205211350877
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Primal Material Conjuration Extradimensional Arcane Occult
+tags: Spell Concentrate Manipulate Primal Conjuration Extradimensional Arcane Occult
 title: Bottomless Stomach
 type: text/vnd.tiddlywiki
 

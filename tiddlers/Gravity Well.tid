@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200802224958308
+modified: 20230726200740985
 s-crit: The creature is unaffected.
 s-fail: The creature moves 15 feet toward the center.
 s-fumble: The creature moves 30 feet toward the center.
 s-hit: The creature moves 5 feet toward the center.
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult
+tags: Spell Concentrate Manipulate Evocation Arcane Occult
 title: Gravity Well
 type: text/vnd.tiddlywiki
 

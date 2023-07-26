@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200731175200207
+modified: 20230726200948147
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cold Evocation Water Arcane Primal Material
+tags: Spell Concentrate Manipulate Cold Evocation Water Arcane Primal
 title: Wall of Ice
 type: text/vnd.tiddlywiki
 

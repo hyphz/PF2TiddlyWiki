@@ -16,12 +16,12 @@ m-targets:
 m-time: 
 mod-performance: +1 status while holding token.
 mod-will: +1 status while holding token.
-modified: 20201122163101683
+modified: 20230726200741034
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Enchantment Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Enchantment Sorcerer
 title: Nymph's Token
 type: text/vnd.tiddlywiki
 

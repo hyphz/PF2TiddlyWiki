@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20211221221347639
+modified: 20230726200740947
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Primal Conjuration
+tags: Spell Concentrate Manipulate Arcane Primal Conjuration
 title: Coral Eruption
 type: text/vnd.tiddlywiki
 

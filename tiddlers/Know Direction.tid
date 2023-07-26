@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200726225942513
+modified: 20230726200741003
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Cantrip Detection Divination Divine Occult Primal Somatic Verbal Manipulate Concentrate
+tags: Spell Cantrip Detection Divination Divine Occult Primal Manipulate Concentrate
 title: Know Direction
 type: text/vnd.tiddlywiki
 

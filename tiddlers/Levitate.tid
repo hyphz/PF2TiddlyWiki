@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 unattended object or willing creature
 m-time: 
-modified: 20200726231049275
+modified: 20230726200741004
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+tags: Evocation Spell Arcane Occult Manipulate Concentrate
 title: Levitate
 type: text/vnd.tiddlywiki
 

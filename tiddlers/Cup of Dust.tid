@@ -13,12 +13,12 @@ m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
 mod-thirst: Thirst can't be quenched while spell is in effect.
-modified: 20200802223817542
+modified: 20230726200948128
 s-crit: The creature is unaffected and is temporarily immune for 1 hour.
 s-fail: The creature is immediately afflicted by thirst as if it hadn’t had a drink in days. It becomes [[Fatigued]] and takes 1d4 damage each hour that can’t be healed until it quenches its thirst. No amount of drinking can quench the creature’s thirst during the spell’s duration.
 s-fumble: As failure but the creature takes 2d4 damage each hour, twice as much as usual for thirst.
 s-hit: The creature is [[Fatigued]] for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Curse Necromancy Arcane Occult Primal Material
+tags: Spell Concentrate Manipulate Curse Necromancy Arcane Occult Primal
 title: Cup of Dust
 type: text/vnd.tiddlywiki
 

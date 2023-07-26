@@ -15,14 +15,14 @@ m-save:
 m-targets: 
 m-time: 
 mod-fly: Moving upward isn't difficult terrain.
-modified: 20220415181202040
+modified: 20230726200740937
 modtag-attack: Prevents action.
 modtag-manipulate: Prevents action.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Oracle Transmutation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Oracle Transmutation
 title: Ancestral Form
 type: text/vnd.tiddlywiki
 

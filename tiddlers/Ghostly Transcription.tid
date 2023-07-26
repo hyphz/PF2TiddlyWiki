@@ -13,14 +13,14 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200809191344586
+modified: 20230726200948130
 modtag-auditory: Can replace auditory with visual.
 modtag-verbal: Can enable verbal components in silence.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Material
+tags: Spell Manipulate [[Focus Spell]]
 title: Ghostly Transcription
 type: text/vnd.tiddlywiki
 virtual-tags: Visual

@@ -14,12 +14,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20201102193313986
+modified: 20230726200741146
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Sorcerer
 title: Swamp of Sloth
 type: text/vnd.tiddlywiki
 virtual-tags: Poison

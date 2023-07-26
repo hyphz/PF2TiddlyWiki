@@ -13,13 +13,13 @@ m-save:
 m-targets: 
 m-time: 
 mod-strike: On hit, a wisp attacks too.
-modified: 20220214233039603
+modified: 20230726200740976
 modtag-fire: Fire spells add a wisp.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Arcane Primal
+tags: Spell Concentrate Manipulate Evocation Fire Arcane Primal
 title: Flame Wisp
 type: text/vnd.tiddlywiki
 

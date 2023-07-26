@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 1 flying creature
 m-time: 
-modified: 20200722191326807
+modified: 20230726200740965
 s-crit: The target is unaffected.
 s-fail: The target falls safely up to 120 feet. If it hits the ground, it can't [[Fly]], [[Levitate]] or otherwise leave the ground for 1 round.
 s-fumble: The target falls safely up to 120 feet. If it hits the ground, it can’t Fly, levitate, or otherwise leave the ground for 1 minute.
 s-hit: The target falls safely up to 120 feet.
-tags: Spell Transmutation Somatic Verbal Arcane Primal Manipulate Concentrate
+tags: Spell Transmutation Arcane Primal Manipulate Concentrate
 title: Earthbind
 type: text/vnd.tiddlywiki
 

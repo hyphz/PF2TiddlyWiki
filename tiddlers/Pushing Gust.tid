@@ -13,12 +13,12 @@ m-range: 500 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200805222552191
+modified: 20230726200741057
 s-crit: The target is unaffected.
 s-fail: The target is pushed 10 feet away from you.
 s-fumble: The target is pushed 10 feet away from you and knocked [[Prone]].
 s-hit: The target is pushed 5 feet away from you.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Cleric Conjuration
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Air Cleric Conjuration
 title: Pushing Gust
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200814221340534
+modified: 20230726200948136
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Evocation Water Arcane Primal Material
+tags: Spell Concentrate Manipulate Uncommon Evocation Water Arcane Primal
 title: Pillar of Water
 type: text/vnd.tiddlywiki
 

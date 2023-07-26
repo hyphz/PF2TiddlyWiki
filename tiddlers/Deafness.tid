@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200720205404628
+modified: 20230726200740951
 s-crit: The target is unaffected.
 s-fail: The target is [[Deafened]] for 10 minutes.
 s-fumble: The target is [[Deafened]] permanently.
 s-hit: The target is [[Deafened]] for 1 round.
-tags: Necromancy Spell Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+tags: Necromancy Spell Arcane Divine Occult Primal Manipulate Concentrate
 title: Deafness
 type: text/vnd.tiddlywiki
 

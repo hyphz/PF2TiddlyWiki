@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: You and allies in the area
 m-time: 
-modified: 20200807183621866
+modified: 20230726200740940
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Enchantment Mental Spell Divine Occult Somatic Verbal Manipulate Concentrate
+tags: Enchantment Mental Spell Divine Occult Manipulate Concentrate
 title: Bless
 type: text/vnd.tiddlywiki
 

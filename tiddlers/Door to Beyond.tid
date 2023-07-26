@@ -13,12 +13,12 @@ m-range: 5 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200809213022782
+modified: 20230726200740956
 s-crit: 
 s-fail: The creature is pulled 10 feet toward the door.
 s-fumble: The creature is pulled 20 feet toward the door.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Conjuration
+tags: Spell Concentrate Manipulate [[Focus Spell]] Conjuration
 title: Door to Beyond
 turn-etc: Creatures on door take damage.
 type: text/vnd.tiddlywiki

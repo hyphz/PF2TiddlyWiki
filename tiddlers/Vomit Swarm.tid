@@ -12,12 +12,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200801183738976
+modified: 20230726200741184
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult Primal
+tags: Spell Concentrate Manipulate Evocation Arcane Occult Primal
 title: Vomit Swarm
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature or object
 m-time: 
-modified: 20220418195714006
+modified: 20230726200741011
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Attack Evocation Arcane Primal
 title: Magnetic Acceleration
 type: text/vnd.tiddlywiki
 

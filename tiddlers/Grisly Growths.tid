@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Fortitude Will
 m-targets: 1 corporeal creature
 m-time: 
-modified: 20200806182322071
+modified: 20230726200740986
 s-crit: 
 s-fail: The creature is [[Sickened]] 1.
 s-fumble: The creature is [[Sickened]] 2.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Transmutation Arcane Primal
 title: Grisly Growths
 type: text/vnd.tiddlywiki
 

@@ -16,13 +16,13 @@ m-targets:
 m-time: 
 mod-perception: -1/2 status penalty.
 mod-will: -1/2 status penalty.
-modified: 20210710162447856
+modified: 20230726200740972
 modtag-reaction: Can't be used while affected.
 s-crit: 
 s-fail: The creature can’t use [[Reaction]]s and takes a –2 status penalty to [[Perception]] checks and [[Will]] saves.
 s-fumble: As failure, and the creature also takes a –1 status penalty to Perception checks and Will saves for 1 minute.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Enchantment Mental Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Enchantment Mental Sorcerer
 title: Faerie Dust
 type: text/vnd.tiddlywiki
 

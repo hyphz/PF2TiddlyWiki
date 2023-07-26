@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature or object
 m-time: 
-modified: 20200805230008405
+modified: 20230726200741010
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Auditory Illusion Visual Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+tags: Auditory Illusion Visual Spell Arcane Occult Manipulate Concentrate
 title: Magic Mouth
 type: text/vnd.tiddlywiki
 

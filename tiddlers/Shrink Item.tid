@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk
 m-time: 10 minutes
-modified: 20220622205405694
+modified: 20230726200741096
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane
+tags: Spell Concentrate Manipulate Polymorph Transmutation Arcane
 title: Shrink Item
 type: text/vnd.tiddlywiki
 

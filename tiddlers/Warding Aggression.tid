@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-AC: +1-3 status.
-modified: 20220507212113567
+modified: 20230726200741192
 s-crit: You gain a +3 status bonus to AC against the foe for 1 round, and a +2 status bonus to AC against the foe for the remaining duration.
 s-fail: You gain a +1 status bonus to AC against the foe.
 s-fumble: You gain no additional effect.
 s-hit: You gain a +2 status bonus to AC against the foe.
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Divine Primal
+tags: Spell Concentrate Manipulate Abjuration Arcane Divine Primal
 title: Warding Aggression
 type: text/vnd.tiddlywiki
 

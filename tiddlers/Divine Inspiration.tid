@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 willing creature
 m-time: 
-modified: 20200722110302641
+modified: 20230726200740956
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Enchantment Mental Divine Somatic Verbal Spell Manipulate Concentrate
+tags: Enchantment Mental Divine Spell Manipulate Concentrate
 title: Divine Inspiration
 type: text/vnd.tiddlywiki
 

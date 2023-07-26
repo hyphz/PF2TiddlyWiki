@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200729194935235
+modified: 20230726200741077
 s-crit: Sanctuary ends.
 s-fail: The creature can’t attack the target and wastes the action. It can’t attempt further attacks against the target this turn.
 s-fumble: The creature wastes the action and can’t attempt to attack the target for the rest of sanctuary’s duration.
 s-hit: The creature can attempt its attack and any other attacks against the target this turn.
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Divine Occult
+tags: Spell Concentrate Manipulate Abjuration Divine Occult
 title: Sanctuary
 type: text/vnd.tiddlywiki
 

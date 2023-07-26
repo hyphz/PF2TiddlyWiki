@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 object
 m-time: 1 minute
-modified: 20200728200444139
+modified: 20230726200741060
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cantrip Detection Divination Arcane Divine Occult Primal Spell Somatic Verbal Concentrate Manipulate
+tags: Cantrip Detection Divination Arcane Divine Occult Primal Spell Concentrate Manipulate
 title: Read Aura
 type: text/vnd.tiddlywiki
 

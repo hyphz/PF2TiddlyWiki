@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 <<tag Undead>>creature
 m-time: 
-modified: 20200811010712115
+modified: 20230726200740945
 s-crit: The target is unaffected.
 s-fail: The target becomes [[Controlled]] by you and follows your orders. It (or the creature previously controlling it) can attempt a new Will save at the end of each of its turns, and the spell ends on a success. If you issue an obviously self‑destructive order, the target doesn’t act until you issue a new order.
 s-fumble: As failure, but the target (or the creature previously controlling it) receives a new save only if you give it a new order that is against its nature.
 s-hit: The target is [[Stunned]] 1 as it fights off your commands.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Incapacitation Necromancy Oracle
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Incapacitation Necromancy Oracle
 title: Claim Undead
 type: text/vnd.tiddlywiki
 

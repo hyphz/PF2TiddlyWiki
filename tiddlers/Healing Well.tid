@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220410161442574
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Positive Divine Primal Material
+tags: Spell Concentrate Manipulate Healing Necromancy Positive Divine Primal
 title: Healing Well
 type: text/vnd.tiddlywiki
 

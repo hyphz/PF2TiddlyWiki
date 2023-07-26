@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200730213710064
+modified: 20230726200741132
 s-crit: The target is unaffected and knows you tried to control it.
 s-fail: The target immediately follows your suggestion. The spell has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious negative effects.
 s-fumble: As failure, but the base duration is 1 hour.
 s-hit: The target is unaffected and thinks you were talking to them normally, not casting a spell on them.
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Linguistic Mental Arcane Occult
+tags: Spell Concentrate Manipulate Enchantment Incapacitation Linguistic Mental Arcane Occult
 title: Suggestion
 type: text/vnd.tiddlywiki
 

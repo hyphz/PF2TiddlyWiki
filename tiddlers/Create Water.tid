@@ -12,12 +12,12 @@ m-range: "0 feet" (Touch?)
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200719213850167
+modified: 20230726200740948
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Arcane Divine Primal Spell Conjuration Water Somatic Verbal Manipulate Concentrate
+tags: Arcane Divine Primal Spell Conjuration Water Manipulate Concentrate
 title: Create Water
 type: text/vnd.tiddlywiki
 

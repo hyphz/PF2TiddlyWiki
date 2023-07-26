@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200801151337619
+modified: 20230726200740940
 s-crit: 
 s-fail: The creature is [[Dazzled]] until the end of its next turn.
 s-fumble: The creature is [[Confused]] and [[Dazzled]] until the end of its next turn.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Occult Primal
+tags: Spell Concentrate Manipulate Illusion Occult Primal
 title: Blanket of Stars
 turn-etn: Confusion and Dazzling end.
 type: text/vnd.tiddlywiki

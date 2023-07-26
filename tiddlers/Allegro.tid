@@ -15,12 +15,12 @@ m-save:
 m-targets: 1 ally
 m-time: 
 mod-quickened: Allows Strike, Stride, or Step.
-modified: 20200830151737813
+modified: 20230726200649247
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class
+tags: Spell Concentrate [[Focus Spell]] Uncommon Bard Cantrip Composition Emotion Enchantment Mental Feat Class
 title: Allegro
 type: text/vnd.tiddlywiki
 

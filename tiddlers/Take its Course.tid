@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200806172841383
+modified: 20230726200741150
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Necromancy
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Necromancy
 title: Take its Course
 type: text/vnd.tiddlywiki
 

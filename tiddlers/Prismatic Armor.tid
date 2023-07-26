@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20220423224338899
+modified: 20230726200741050
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Occult
+tags: Spell Concentrate Manipulate Abjuration Arcane Occult
 title: Prismatic Armor
 type: text/vnd.tiddlywiki
 

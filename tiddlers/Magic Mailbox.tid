@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 2 containers, each no larger than 5 feet in any dimension
 m-time: 1 hour
-modified: 20220418195555109
+modified: 20230726200948135
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Teleportation Arcane Divine Occult Material
+tags: Spell Concentrate Manipulate Uncommon Conjuration Teleportation Arcane Divine Occult
 title: Magic Mailbox
 type: text/vnd.tiddlywiki
 

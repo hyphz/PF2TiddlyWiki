@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20211205212317921
+modified: 20230726200740942
 s-crit: The creature is unaffected and is temporarily immune for 24 hours.
 s-fail: The creature is [[Fascinated]] with the tree until the end of its next turn. If it can still see the tree then, it must attempt a save again.
 s-fumble: The creature is [[Fascinated]] with the tree until the spell ends. The tree’s fire damage doesn’t end the fascination; other [[Hostile Action]]s end it, as normal. If the fascination ends, the creature must attempt a new save at the end of its turn if it can still see the tree.
 s-hit: The creature is unaffected, but it must attempt a new save at the end of its turn if it can still see the tree.
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Primal Arcane Enchantment Fire Plant
+tags: Spell Concentrate Manipulate Necromancy Primal Arcane Enchantment Fire Plant
 title: Burning Blossoms
 type: text/vnd.tiddlywiki
 virtual-tags: Emotion Mental Visual

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200725135452748
+modified: 20230726200740982
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Auditory Cantrip Illusion Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Auditory Cantrip Illusion Spell Arcane Occult Concentrate Manipulate
 title: Ghost Sound
 type: text/vnd.tiddlywiki
 

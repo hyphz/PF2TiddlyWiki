@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200805231753983
+modified: 20230726200948131
 s-crit: 
 s-fail: The target is [[Fascinated]] by the pattern.
 s-fumble: The target is fascinated by the pattern. While it remains fascinated, it can’t use reactions.
 s-hit: The target is unaffected.
-tags: Illusion Visual Arcane Occult Material Somatic Spell Manipulate
+tags: Illusion Visual Arcane Occult Spell Manipulate
 title: Hypnotic Pattern
 turn-etc: Must Will save if inside the pattern.
 type: text/vnd.tiddlywiki

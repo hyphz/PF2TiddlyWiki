@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20211026214948127
+modified: 20230726200741046
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cold Evocation Arcane Primal Somatic Verbal Concentrate Manipulate Spell
+tags: Cold Evocation Arcane Primal Concentrate Manipulate Spell
 title: Polar Ray
 type: text/vnd.tiddlywiki
 

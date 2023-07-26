@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200724223602869
+modified: 20230726200740975
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Healing Necromancy Positive Somatic Verbal Divine Primal Concentrate Manipulate
+tags: Spell Healing Necromancy Positive Divine Primal Concentrate Manipulate
 title: Field of Life
 type: text/vnd.tiddlywiki
 

@@ -13,13 +13,13 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-cast_a_spell: Can shut down casting of Divine spells.
-modified: 20200829220348681
+modified: 20230726200740949
 modtag-divine: Can shut down casting of Divine spells.
 s-crit: The target is unaffected.
 s-fail: The target takes full damage; if the target can cast divine spells, it's [[Stupefied]] 1 for 1 round.
 s-fumble: The target takes double damage, is [[Stupefied]] 1 for 1 round, and can't cast divine spells for 1 round.
 s-hit: The target takes half damage.
-tags: Enchantment Mental Spell Divine Somatic Verbal Manipulate Concentrate
+tags: Enchantment Mental Spell Divine Manipulate Concentrate
 title: Crisis of Faith
 turn-eun: Target's stupefaction and blocked casting wear off.
 type: text/vnd.tiddlywiki

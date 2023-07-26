@@ -12,12 +12,12 @@ m-range: Touch
 m-save: Reflex
 m-targets: Cube of stone 10 feet across or smaller
 m-time: 
-modified: 20200729205700114
+modified: 20230726200741090
 s-crit: 
 s-fail: The creature falls [[Prone]] atop the stone.
 s-fumble: The creature falls off the stone (if applicable) and lands prone.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Earth Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Earth Transmutation Arcane Primal
 title: Shape Stone
 type: text/vnd.tiddlywiki
 

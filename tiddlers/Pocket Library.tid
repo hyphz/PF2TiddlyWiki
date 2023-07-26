@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-recall_knowledge: +1-4 status and promote fumbles.
-modified: 20220423214355230
+modified: 20230726200948136
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Extradimensional Arcane Occult Material
+tags: Spell Concentrate Manipulate Divination Extradimensional Arcane Occult
 title: Pocket Library
 type: text/vnd.tiddlywiki
 

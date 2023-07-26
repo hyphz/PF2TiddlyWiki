@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200809190054266
+modified: 20230726200740965
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Abjuration
+tags: Spell Concentrate Manipulate [[Focus Spell]] Abjuration
 title: Dutiful Challenge
 type: text/vnd.tiddlywiki
 

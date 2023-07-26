@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-reflex: All Reflex saves fail in tree form.
-modified: 20200730224836214
+modified: 20230726200741167
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Plant Polymorph Transmutation Primal
+tags: Spell Concentrate Manipulate Plant Polymorph Transmutation Primal
 title: Tree Shape
 type: text/vnd.tiddlywiki
 

@@ -17,12 +17,12 @@ m-save:
 m-targets: You
 m-time: 
 mod-recall_knowledge: Can give best of 2 rolls about a creature.
-modified: 20201031163005566
+modified: 20230726200649296
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Fortune Ranger Free Class Feat
+tags: Spell Concentrate [[Focus Spell]] Uncommon Divination Fortune Ranger Free Class Feat
 title: Hunter's Luck
 type: text/vnd.tiddlywiki
 

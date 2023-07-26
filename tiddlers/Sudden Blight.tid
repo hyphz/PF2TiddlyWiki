@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200801182446712
+modified: 20230726200741128
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Divine Primal
+tags: Spell Concentrate Manipulate Necromancy Negative Divine Primal
 title: Sudden Blight
 type: text/vnd.tiddlywiki
 

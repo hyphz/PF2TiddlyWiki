@@ -14,12 +14,12 @@ m-range: [[Touch]] or 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living <<tag Animal>>creature
 m-time: 
-modified: 20201031193229528
+modified: 20230726200740988
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy Positive Verbal Concentrate Feat Archetype
+tags: Spell Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy Positive Concentrate Feat Archetype
 title: Heal Animal
 type: text/vnd.tiddlywiki
 

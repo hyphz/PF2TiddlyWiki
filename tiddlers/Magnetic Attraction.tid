@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: Up to 10 metal objects with a total bulk of 1 or less
 m-time: 
-modified: 20220418195903845
+modified: 20230726200741012
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Evocation Arcane Primal
 title: Magnetic Attraction
 type: text/vnd.tiddlywiki
 

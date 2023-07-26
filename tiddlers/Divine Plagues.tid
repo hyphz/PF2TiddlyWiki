@@ -13,12 +13,12 @@ m-range: 15 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200809194359471
+modified: 20230726200740956
 s-crit: 
 s-fail: The target is afflicted with divine plague at stage 1.
 s-fumble: The target is afflicted with divine plague at stage 2.
 s-hit: The target is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Disease Necromancy
+tags: Spell Concentrate Manipulate [[Focus Spell]] Disease Necromancy
 title: Divine Plagues
 type: text/vnd.tiddlywiki
 

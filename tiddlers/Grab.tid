@@ -1,14 +1,16 @@
 a-actions: 1
 created: 20200627195314276
-modified: 20200627195509897
+modified: 20230725203314224
 tags: Action
 title: Grab
 type: text/vnd.tiddlywiki
 
-''Requirements'' The monster’s last action was a success with a [[Strike]] that lists Grab in its damage entry, or it has a creature grabbed using this action. 
+''Requirements'' The monster’s last action was a success with a [[Strike]] that lists Grab in its damage entry, or it has a creature [[Grabbed]] __or [[Restrained]]__.
 
-The monster automatically grabs the target until the end of the monster’s next turn. The creature is [[Grabbed]] by whichever body part the monster attacked with, and that body part can’t be used to [[Strike]] creatures until the grab is ended.
+__If used after a Strike, the monster attempts to [[Grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts towards the creature's multiple attack penalty.__
 
-Using Grab extends the duration of the monster’s Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the [[Escape]] action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it.
+__The monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that duration to the end of the monster's next turn.__
 
 //Grab is a monster ability. The more normal equivalent ability for PCs is [[Grapple]].//
+
+//Remaster: changed to use [[Grapple]] instead of automatically granting Grabbed status. Re-using Grab extends the duration for one grabbed creature, not all of them.//

@@ -14,14 +14,14 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-will: -1 status.
-modified: 20200814001703151
+modified: 20230726200741177
 modtag-concentrate: Failers must flat DC 5 or lose the action.
 modtag-sleep: -2 to Will saves against sleep.
 s-crit: The target is unaffected.
 s-fail: As success, and any time the target uses a <<tag Concentrate>> action, it must succeed at a DC 5 flat check or the action is disrupted.
 s-fumble: 
 s-hit: The target takes a -1 status penalty to [[Perception]], attack rolls, and [[Will]] saves. This penalty increases to -2 for Will saves against <<tag Sleep>> effects.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Enchantment Hex Mental Witch
+tags: Spell Manipulate [[Focus Spell]] Uncommon Enchantment Hex Mental Witch
 title: Veil of Dreams
 type: text/vnd.tiddlywiki
 

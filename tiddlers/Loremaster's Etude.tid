@@ -18,12 +18,12 @@ m-save:
 m-targets: You or the triggering ally
 m-time: 
 mod-recall_knowledge: Can use best of 2 rolls.
-modified: 20201212163321927
+modified: 20230726200741007
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Bard Divination Fortune Free Action Feat Class
+tags: Spell Manipulate [[Focus Spell]] Uncommon Bard Divination Fortune Free Action Feat Class
 title: Loremaster's Etude
 type: text/vnd.tiddlywiki
 

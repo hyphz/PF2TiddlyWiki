@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200725153922154
+modified: 20230726200740991
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Good Positive Water Divine Somatic Verbal Spell Manipulate Concentrate
+tags: Evocation Good Positive Water Divine Spell Manipulate Concentrate
 title: Holy Cascade
 type: text/vnd.tiddlywiki
 

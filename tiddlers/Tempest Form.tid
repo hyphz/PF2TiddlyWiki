@@ -14,14 +14,14 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220415181238051
+modified: 20230726200741155
 modtag-attack: Prevents use.
 modtag-manipulate: Prevents use.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Oracle Polymorph Transmutation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Oracle Polymorph Transmutation
 title: Tempest Form
 type: text/vnd.tiddlywiki
 virtual-tags: Air Water Electricity

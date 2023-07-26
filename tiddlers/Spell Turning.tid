@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 1 hour
-modified: 20200730191418384
+modified: 20230726200741106
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Uncommon Abjuration
+tags: Spell Concentrate Manipulate Arcane Uncommon Abjuration
 title: Spell Turning
 type: text/vnd.tiddlywiki
 

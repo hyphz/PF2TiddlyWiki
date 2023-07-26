@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200805230028185
+modified: 20230726200740975
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Death Necromancy Divine Primal Spell Somatic Verbal Manipulate Concentrate
+tags: Death Necromancy Divine Primal Spell Manipulate Concentrate
 title: Finger of Death
 type: text/vnd.tiddlywiki
 

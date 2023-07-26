@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200814220145879
+modified: 20230726200741174
 s-crit: 
 s-fail: The creature is knocked [[Prone]]. If the creature was [[Fly]]ing, it gets a critical failure instead.
 s-fumble: The creature is pushed 30 feet away from the center of the burst, is knocked [[Prone]], and takes 2d6 bludgeoning damage.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Air Uncommon Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Air Uncommon Evocation Arcane Primal
 title: Unseasonable Squall
 turn-sun: Wears off.
 type: text/vnd.tiddlywiki

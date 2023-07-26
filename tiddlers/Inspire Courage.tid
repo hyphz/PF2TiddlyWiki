@@ -14,13 +14,13 @@ m-targets:
 m-time: 
 mod-attack_roll: +1 status.
 mod-damage_roll: +1 status.
-modified: 20200809204158068
+modified: 20230726200649301
 modtag-fear: +1 status on saves.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Cantrip Bard Composition Uncommon Emotion Enchantment Mental
+tags: Spell Concentrate Cantrip Bard Composition Uncommon Emotion Enchantment Mental
 title: Inspire Courage
 type: text/vnd.tiddlywiki
 

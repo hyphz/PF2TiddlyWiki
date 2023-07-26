@@ -14,12 +14,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20201024175516341
+modified: 20230726200740987
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Attack Evocation Wizard Feat Class
+tags: Spell Manipulate [[Focus Spell]] Uncommon Attack Evocation Wizard Feat Class
 title: Hand of the Apprentice
 type: text/vnd.tiddlywiki
 

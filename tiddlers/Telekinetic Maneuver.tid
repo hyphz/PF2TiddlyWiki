@@ -15,12 +15,12 @@ m-time:
 mod-disarm: Use spell attack instead of Athletics.
 mod-shove: Use spell attack instead of Athletics.
 mod-trip: Use spell attack instead of Athletics.
-modified: 20200730222120804
+modified: 20230726200741152
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Force Arcane Occult
+tags: Spell Concentrate Manipulate Attack Evocation Force Arcane Occult
 title: Telekinetic Maneuver
 type: text/vnd.tiddlywiki
 

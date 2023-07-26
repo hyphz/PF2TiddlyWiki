@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200730214621710
+modified: 20230726200948143
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Arcane
+tags: Spell Concentrate Manipulate Conjuration Arcane
 title: Summon Dragon
 type: text/vnd.tiddlywiki
 

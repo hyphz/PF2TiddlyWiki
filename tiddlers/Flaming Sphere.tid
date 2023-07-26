@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20211026215328305
+modified: 20230726200740976
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Fire Arcane Primal Somatic Verbal Concentrate Manipulate Spell
+tags: Evocation Fire Arcane Primal Concentrate Manipulate Spell
 title: Flaming Sphere
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 door, lock, or container
 m-time: 
-modified: 20200726225836412
+modified: 20230726200741003
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Transmutation Arcane Occult Somatic Verbal Manipulate Concentrate
+tags: Spell Transmutation Arcane Occult Manipulate Concentrate
 title: Knock
 type: text/vnd.tiddlywiki
 

@@ -7,12 +7,12 @@ m-level: 10
 m-range: 30 feet
 m-save: Will
 m-targets: Up to 4 dead creatures or up to 4 undead creatures
-modified: 20201010154555370
+modified: 20230726200649378
 s-crit: The undead takes 5d6 positive damage.
 s-fail: The undead takes 100 positive damage and is [[Slowed]] 1 for 1 minute.
 s-fumble: The undead is destroyed.
 s-hit: The undead takes 10d6 positive damage and is [[Slowed]] 1 for 1 round.
-tags: Class Feat Uncommon Bard Composition Necromancy Concentrate Manipulate [[Focus Spell]] Verbal
+tags: Class Feat Uncommon Bard Composition Necromancy Concentrate Manipulate [[Focus Spell]]
 title: Song of the Fallen
 type: text/vnd.tiddlywiki
 

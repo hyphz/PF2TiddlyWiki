@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 1 creature (see text)
 m-time: 
-modified: 20211221223719971
+modified: 20230726200740951
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divine Evocation Force
+tags: Spell Concentrate Manipulate Divine Evocation Force
 title: Deity's Strike
 type: text/vnd.tiddlywiki
 

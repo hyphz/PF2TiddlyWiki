@@ -12,12 +12,12 @@ m-range: Touch
 m-save: Will
 m-targets: 10-foot [[Emanation]] centred on the touched creature
 m-time: 
-modified: 20200719204633404
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Spell Abjuration Divine Occult Material Somatic Verbal Manipulate Concentrate
+tags: Uncommon Spell Abjuration Divine Occult Manipulate Concentrate
 title: Circle of Protection
 type: text/vnd.tiddlywiki
 

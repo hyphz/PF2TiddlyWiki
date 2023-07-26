@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200728192455342
+modified: 20230726200741052
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Mental Arcane Occult Somatic Verbal Spell Concentrate Manipulate
+tags: Illusion Mental Arcane Occult Spell Concentrate Manipulate
 title: Project Image
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 willing creature
 m-time: 
 mod-scent: Prevents a creature emitting any scent.
-modified: 20200727221417778
+modified: 20230726200741032
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Somatic Verbal Arcane Primal Concentrate Manipulate
+tags: Spell Abjuration Arcane Primal Concentrate Manipulate
 title: Negate Aroma
 type: text/vnd.tiddlywiki
 

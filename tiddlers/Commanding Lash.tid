@@ -13,12 +13,12 @@ m-range: 100 feet
 m-save: Will
 m-targets: A target you dealt damage to on your most recent action
 m-time: 
-modified: 20200805230321614
+modified: 20230726200649258
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell [[Focus Spell]] Uncommon Cleric Enchantment Incapacitation Mental Verbal Concentrate
+tags: Spell [[Focus Spell]] Uncommon Cleric Enchantment Incapacitation Mental Concentrate
 title: Commanding Lash
 type: text/vnd.tiddlywiki
 

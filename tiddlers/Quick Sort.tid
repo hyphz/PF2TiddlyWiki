@@ -12,12 +12,12 @@ m-range: 10 feet
 m-save: 
 m-targets: Up to 200 unattended objects in range, each of light Bulk or less
 m-time: 
-modified: 20220423225224451
+modified: 20230726200948137
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Occult Primal Material Transmutation
+tags: Spell Concentrate Manipulate Arcane Divine Occult Primal Transmutation
 title: Quick Sort
 type: text/vnd.tiddlywiki
 

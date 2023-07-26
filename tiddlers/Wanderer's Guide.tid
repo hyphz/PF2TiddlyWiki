@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 1 minute
 mod-difficult_terrain: Ignore in exploration mode if following inspired route.
-modified: 20210830163106600
+modified: 20230726200948148
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divine Material Occult Divination
+tags: Spell Concentrate Manipulate Divine Occult Divination
 title: Wanderer's Guide
 type: text/vnd.tiddlywiki
 

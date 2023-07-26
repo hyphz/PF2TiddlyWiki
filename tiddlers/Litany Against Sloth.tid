@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 <<tag Evil>> creature
 m-time: 
-modified: 20200912142011896
+modified: 20230726200649310
 s-crit: The target is unaffected.
 s-fail: The target can't use Reactions and is [[Slowed]] 1.
 s-fumble: The target can't use Reactions and is [[Slowed]] 2.
 s-hit: The target can't use <<tag Reaction>>s.
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation Good Litany Feat Class Champion
+tags: Spell Concentrate [[Focus Spell]] Uncommon Evocation Good Litany Feat Class Champion
 title: Litany Against Sloth
 type: text/vnd.tiddlywiki
 

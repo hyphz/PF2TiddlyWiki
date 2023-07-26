@@ -15,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-hustle: Hustle for the duration of the spell.
-modified: 20200830165435646
+modified: 20230726200649377
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Enchantment Mental Feat Class [[Focus Spell]]
+tags: Spell Concentrate Uncommon Bard Cantrip Composition Enchantment Mental Feat Class [[Focus Spell]]
 title: Song of Marching
 type: text/vnd.tiddlywiki
 

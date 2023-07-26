@@ -1,12 +1,10 @@
 created: 20200912141651586
 feat-class: Champion
 feat-level: 10
-mod-refocus: Gain 2 Focus points (up to limit).
-modified: 20200912141733287
+mod-refocus: Refill entire focus pool.
+modified: 20230726180936238
 tags: Feat Class Champion
 title: Devoted Focus
 type: text/vnd.tiddlywiki
 
-Your devotion is strong enough to increase your focus to incredible heights. 
-
-If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you [[Refocus]] instead of 1.
+{{RemasterFocus}}

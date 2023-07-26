@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20220507212350094
+modified: 20230726200741194
 s-crit: The target is unaffected.
 s-fail: As success, except the curse damages the target at the end of each of its turns and lasts until the target spends a complete round without intentionally damaging another creature.
 s-fumble: As success, except the curse damages the target at the end of each of its turns and lasts until the target spends 24 hours atoning for its percieved sins.
 s-hit: At the end of its next turn, the target takes 1d8 damage per different creature it intentionally damaged on that turn. The maximum is 4d8 if it damaged 4 different creatures.
-tags: Spell Somatic Verbal Concentrate Manipulate Curse Emotion Enchantment Mental Arcane Divine Occult
+tags: Spell Concentrate Manipulate Curse Emotion Enchantment Mental Arcane Divine Occult
 title: Warrior's Regret
 type: text/vnd.tiddlywiki
 

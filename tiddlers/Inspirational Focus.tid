@@ -1,12 +1,12 @@
 created: 20200830151636869
 feat-class: Bard
 feat-level: 12
-mod-refocus: Gain 2 Focus points, not 1.
-modified: 20200830151709444
+mod-refocus: Refill entire focus pool.
+modified: 20230726181233967
 tags: Bard Class Feat
 title: Inspirational Focus
 type: text/vnd.tiddlywiki
 
 Your connection to your muse has granted you unusual focus.
 
-If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you [[Refocus]] instead of 1.
+{{RemasterFocus}}

@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200719212949631
+modified: 20230726200740947
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Water Arcane Primal Somatic Verbal Manipulate Concentrate Spell
+tags: Evocation Water Arcane Primal Manipulate Concentrate Spell
 title: Control Water
 type: text/vnd.tiddlywiki
 

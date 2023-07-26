@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 1 creature with the <<tag Minion>> trait that you summoned or permanently control
 m-time: 
-modified: 20200801160512004
+modified: 20230726200740975
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Arcane Divine Occult Primal
+tags: Spell Concentrate Manipulate Evocation Fire Arcane Divine Occult Primal
 title: Final Sacrifice
 type: text/vnd.tiddlywiki
 

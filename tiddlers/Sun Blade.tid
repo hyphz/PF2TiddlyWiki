@@ -15,12 +15,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20230305193555739
+modified: 20230726200741146
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Fire Positive Champion Class Feat Light
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Fire Positive Champion Class Feat Light
 title: Sun Blade
 type: text/vnd.tiddlywiki
 

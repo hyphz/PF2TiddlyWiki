@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 1 creature or __unattended__ object
 m-time: 
-modified: 20201129004043967
+modified: 20230726200740993
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Attack Evocation Water Arcane Primal Somatic Verbal Concentrate Manipulate
+tags: Attack Evocation Water Arcane Primal Concentrate Manipulate
 title: Hydraulic Push
 type: text/vnd.tiddlywiki
 

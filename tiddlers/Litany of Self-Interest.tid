@@ -15,12 +15,12 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-aid: Prevents aiding other creatures.
-modified: 20200905194034003
+modified: 20230726200649311
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Litany Evil Enchantment Mental Class Feat
+tags: Spell Concentrate [[Focus Spell]] Uncommon Champion Litany Evil Enchantment Mental Class Feat
 title: Litany of Self-Interest
 type: text/vnd.tiddlywiki
 

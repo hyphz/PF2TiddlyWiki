@@ -13,12 +13,12 @@ m-range:
 m-save: Reflex Fortitude
 m-targets: 
 m-time: 
-modified: 20210710162214365
+modified: 20230726200740957
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Sorcerer
 title: Dragon Breath
 type: text/vnd.tiddlywiki
 virtual-tags: Acid Electricity Fire Poison Cold

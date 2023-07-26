@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 enemy of level 15 or lower
 m-time: 
-modified: 20200722114445857
+modified: 20230726200948129
 s-crit: You fail to create a duplicate.
 s-fail: The duplicate works as described.
 s-fumble: 
 s-hit: The duplicate deals half damage with its Strikes and the duration is reduced to a maximum of 2 rounds.
-tags: Spell Conjuration Arcane Occult Material Somatic Verbal Manipulate Concentrate
+tags: Spell Conjuration Arcane Occult Manipulate Concentrate
 title: Duplicate Foe
 type: text/vnd.tiddlywiki
 

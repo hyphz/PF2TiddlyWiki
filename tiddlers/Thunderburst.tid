@@ -14,12 +14,12 @@ m-range: 100 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200812213522682
+modified: 20230726200741160
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Cursebound Evocation Oracle Sonic
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Air Cursebound Evocation Oracle Sonic
 title: Thunderburst
 type: text/vnd.tiddlywiki
 

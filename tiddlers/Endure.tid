@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200802223936245
+modified: 20230726200740968
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Enchantment Mental Arcane Occult
+tags: Spell Manipulate Enchantment Mental Arcane Occult
 title: Endure
 type: text/vnd.tiddlywiki
 

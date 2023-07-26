@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 10 creatures
 m-time: 
-modified: 20210710162513859
+modified: 20230726200740974
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Illusion Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Illusion Sorcerer
 title: Fey Glamour
 type: text/vnd.tiddlywiki
 

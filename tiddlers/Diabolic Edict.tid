@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20201102193403967
+modified: 20230726200649263
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Enchantment Sorcerer
+tags: Spell Concentrate [[Focus Spell]] Uncommon Enchantment Sorcerer
 title: Diabolic Edict
 type: text/vnd.tiddlywiki
 

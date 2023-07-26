@@ -13,12 +13,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200805164429359
+modified: 20230726200740943
 s-crit: The creature is unaffected and temporarily immune for 1 hour.
 s-fail: The creature is [[Fascinated]] with you.
 s-fumble: The creature is [[Fascinated]] with you, and its attitude toward you improves by one step.
 s-hit: The creature is [[Fascinated]] with you for its next action, then is temporarily immune for 1 hour.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Mental Visual
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Mental Visual
 title: Captivating Adoration
 type: text/vnd.tiddlywiki
 

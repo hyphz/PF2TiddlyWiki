@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20220424194451231
+modified: 20230726200741085
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Flat-Footed]] against the triggering attack and takes full damage from your illusory projectile.
 s-fumble: As failure, but double damage.
 s-hit: The creature is [[Flat-Footed]] against the triggering attack.
-tags: Spell Somatic Manipulate Illusion Shadow Visual Arcane Occult Reaction
+tags: Spell Manipulate Illusion Shadow Visual Arcane Occult Reaction
 title: Shadow Projectile
 type: text/vnd.tiddlywiki
 

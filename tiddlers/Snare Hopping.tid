@@ -16,12 +16,12 @@ m-range: 10 feet
 m-save: 
 m-targets: One snare you built
 m-time: 
-modified: 20201031162632868
+modified: 20230726200741098
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Ranger Teleportation Class Feat
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Conjuration Ranger Teleportation Class Feat
 title: Snare Hopping
 type: text/vnd.tiddlywiki
 

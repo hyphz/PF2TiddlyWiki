@@ -13,12 +13,12 @@ m-range:
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200912170751149
+modified: 20230726200740982
 s-crit: The target is unaffected.
 s-fail: The target takes full damage, is [[Slowed]] 1, and must attempt a [[Fortitude]] save at the end of each of its turns; this ongoing save has the <<tag Incapacitation>> trait. On a failed save, the slowed condition increases by 1 (or 2 on a critical failure), to a maximum of slowed 4. On a success, the slowed condition decreases by 1. If at any point the slowed condition is reduced to 0, the spell ends. Once a creature’s actions are reduced to 0 by this slowed condition, the creature is completely encased in ice. It continues making saves against glacial heart, possibly allowing it to reduce its slowed condition enough that it can act. This ice has Hardness 4 and 8 Hit Points, and its DC to [[Force Open]] is your spell DC. Breaking the ice frees the creature and ends the spell. If someone other than the target breaks the ice from outside, the target is stunned 1 and takes any damage dealt by the breaking effect in excess of the ice’s Hit Points.
 s-fumble: As failure, but the target takes double damage and is initially [[Slowed]] 2.
 s-hit: The target takes half damage and is [[Slowed]] 1 for 1 round. The spell ends.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Rare Evocation Hex Witch
+tags: Spell Concentrate Manipulate [[Focus Spell]] Rare Evocation Hex Witch
 title: Glacial Heart
 type: text/vnd.tiddlywiki
 

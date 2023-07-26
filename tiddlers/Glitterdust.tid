@@ -13,12 +13,12 @@ m-save: Reflex
 m-targets: 
 m-time: 
 mod-invisible: Reduces invisibilty to concealment on targets.
-modified: 20200725143904836
+modified: 20230726200740983
 s-crit: The target is unaffected.
 s-fail: The target is [[Dazzled]] for 1 minute and its invisibility is negated for 1 minute.
 s-fumble: The target is [[Blinded]] for 1 round and dazzled for 10 minutes. Its invisibility is negated for 10 minutes.
 s-hit: The target’s invisibility is negated for 2 rounds.
-tags: Evocation Spell Arcane Primal Somatic Verbal Concentrate Manipulate
+tags: Evocation Spell Arcane Primal Concentrate Manipulate
 title: Glitterdust
 type: text/vnd.tiddlywiki
 

@@ -14,12 +14,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 hinge or latch
 m-time: 
-modified: 20201219174734668
+modified: 20230726200740966
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Rare Electricity Evocation
+tags: Spell Manipulate [[Focus Spell]] Rare Electricity Evocation
 title: Electrified Crystal Ward
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 object
 m-time: 
 mod-sustain_a_spell: Choose a simple effect when sustained.
-modified: 20211128232828507
+modified: 20230726200741049
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cantrip Evocation Arcane Divine Occult Primal Somatic Verbal Spell Concentrate Manipulate
+tags: Cantrip Evocation Arcane Divine Occult Primal Spell Concentrate Manipulate
 title: Prestidigitation
 type: text/vnd.tiddlywiki
 

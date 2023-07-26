@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 flat unattended surface
 m-time: 5 minutes
-modified: 20200802225503209
+modified: 20230726200948135
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Linguistic Mental Arcane Occult Material
+tags: Spell Concentrate Manipulate Divination Linguistic Mental Arcane Occult
 title: Message Rune
 type: text/vnd.tiddlywiki
 

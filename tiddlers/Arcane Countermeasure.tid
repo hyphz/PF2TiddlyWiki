@@ -17,12 +17,12 @@ mod-ac: +2 status vs targeted spell.
 mod-fortitude: +2 status vs target spell.
 mod-reflex: +2 status vs target spell.
 mod-will: +2 status vs target spell.
-modified: 20201122154717661
+modified: 20230726200740938
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Sorcerer
+tags: Spell Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Sorcerer
 title: Arcane Countermeasure
 type: text/vnd.tiddlywiki
 

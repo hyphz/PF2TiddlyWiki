@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20220415174539050
+modified: 20230726200948134
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Contingency Divination Arcane Divine Occult Material
+tags: Spell Concentrate Manipulate Contingency Divination Arcane Divine Occult
 title: Lucky Number
 type: text/vnd.tiddlywiki
 virtual-tags: Fortune

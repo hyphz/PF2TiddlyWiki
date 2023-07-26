@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20211205233222466
+modified: 20230726200740939
 s-crit: The creature sees your actions as they really are and announces them as such. All other creatures in the area gain a +1 circumstance bonus to their Will saves to recognize your actions as they really are.
 s-fail: The creature believes your actions are normal and unworthy of concern.
 s-fumble: The creature believes you are performing other actions entirely, such as helping a local or waving to a noble, as determined by the GM. The creature doesn’t have a chance of remembering events normally.
 s-hit: The creature sees your actions as they really are.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Illusion Mental Arcane Occult
+tags: Spell Concentrate Manipulate Uncommon Illusion Mental Arcane Occult
 title: Aura of the Unremarkable
 type: text/vnd.tiddlywiki
 

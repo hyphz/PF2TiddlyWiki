@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200814215100075
+modified: 20230726200741073
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Cold Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Uncommon Cold Evocation Arcane Primal
 title: Rime Slick
 type: text/vnd.tiddlywiki
 

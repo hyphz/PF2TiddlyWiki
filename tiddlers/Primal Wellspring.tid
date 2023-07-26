@@ -1,13 +1,7 @@
 created: 20201024150807805
-feat-class: Druid
-feat-fpre: [[Primal Focus]]
-feat-level: 18
-mod-primal_focus: Regain 3 Focus points instead of 2.
-modified: 20201128233834796
-tags: Feat Class Druid
+modified: 20230726181637497
+tags: 
 title: Primal Wellspring
 type: text/vnd.tiddlywiki
 
-Your reservoir of Focus Points is a deep wellspring. 
-
-If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you [[Refocus]] instead of 1.
+{{RemasterWellspringGone}}

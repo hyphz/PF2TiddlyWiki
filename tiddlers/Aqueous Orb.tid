@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Move the orb 10 feet when sustained.
-modified: 20220415180654135
+modified: 20230726200740938
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Water Arcane Primal
+tags: Spell Concentrate Manipulate Conjuration Water Arcane Primal
 title: Aqueous Orb
 type: text/vnd.tiddlywiki
 

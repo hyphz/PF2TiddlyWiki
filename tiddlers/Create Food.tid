@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 1 hour
-modified: 20200719213617738
+modified: 20230726200740948
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Arcane Divine Primal Somatic Verbal Conjuration Spell Manipulate Concentrate
+tags: Arcane Divine Primal Conjuration Spell Manipulate Concentrate
 title: Create Food
 type: text/vnd.tiddlywiki
 

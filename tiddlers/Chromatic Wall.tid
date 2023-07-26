@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-counteract: Can't be counteracted normally (at any level).
-modified: 20200731173635601
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Arcane Occult Material Somatic Verbal Concentrate Manipulate
+tags: Spell Abjuration Arcane Occult Concentrate Manipulate
 title: Chromatic Wall
 type: text/vnd.tiddlywiki
 

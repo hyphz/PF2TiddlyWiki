@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200828183446297
+modified: 20230726200741052
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Abjuration Divine Occult
+tags: Spell Concentrate Manipulate Uncommon Abjuration Divine Occult
 title: Protection
 type: text/vnd.tiddlywiki
 virtual-tags: Good Evil Chaos Lawful

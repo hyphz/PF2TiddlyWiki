@@ -13,12 +13,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20201226152016550
+modified: 20230726200649418
 s-crit: 
 s-fail: The creature is pushed 10 feet.
 s-fumble: The creature is pushed 20 feet.
 s-hit: The creature is unaffected.
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Evocation Water
+tags: Spell Concentrate [[Focus Spell]] Uncommon Evocation Water
 title: Unbreaking Wave Advance
 type: text/vnd.tiddlywiki
 

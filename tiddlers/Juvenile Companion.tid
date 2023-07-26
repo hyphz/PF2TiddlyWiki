@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: Your companion
 m-time: 
-modified: 20220410171715614
+modified: 20230726200741003
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Primal
+tags: Spell Concentrate Manipulate Polymorph Transmutation Primal
 title: Juvenile Companion
 type: text/vnd.tiddlywiki
 

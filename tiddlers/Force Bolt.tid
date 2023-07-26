@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20201129004024277
+modified: 20230726200740978
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Force Wizard
+tags: Spell Manipulate [[Focus Spell]] Uncommon Evocation Force Wizard
 title: Force Bolt
 type: text/vnd.tiddlywiki
 

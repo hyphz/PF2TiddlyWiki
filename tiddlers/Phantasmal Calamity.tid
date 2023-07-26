@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200727212724507
+modified: 20230726200741043
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Mental Arcane Occult Somatic Verbal Spell Concentrate Manipulate
+tags: Illusion Mental Arcane Occult Spell Concentrate Manipulate
 title: Phantasmal Calamity
 type: text/vnd.tiddlywiki
 

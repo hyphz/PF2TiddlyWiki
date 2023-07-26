@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 2 creatures or objects
 m-time: 1 minute
-modified: 20200727202643592
+modified: 20230726200741021
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Illusion Arcane Occult Somatic Verbal Manipulate Concentrate
+tags: Spell Illusion Arcane Occult Manipulate Concentrate
 title: Misdirection
 type: text/vnd.tiddlywiki
 

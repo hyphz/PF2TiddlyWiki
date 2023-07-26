@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200805210607576
+modified: 20230726200741038
 s-crit: The target is unaffected.
 s-fail: The target is [[Sickened]] 1.
 s-fumble: The target is [[Sickened]] 2.
 s-hit: The target is [[Sickened]] 1, but if it spends an action to end the condition, it succeeds automatically.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
 title: Overstuff
 type: text/vnd.tiddlywiki
 

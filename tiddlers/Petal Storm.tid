@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220423213451631
+modified: 20230726200741043
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Air Conjuration Plant Primal
+tags: Spell Concentrate Manipulate Air Conjuration Plant Primal
 title: Petal Storm
 type: text/vnd.tiddlywiki
 

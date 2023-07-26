@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature other than you
 m-time: 
-modified: 20200812211551400
+modified: 20230726200741005
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Healing Necromancy Oracle Positive
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cursebound Healing Necromancy Oracle Positive
 title: Life Link
 type: text/vnd.tiddlywiki
 

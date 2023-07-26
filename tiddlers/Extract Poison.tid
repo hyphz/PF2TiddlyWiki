@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 poison on or in an object
 m-time: 
-modified: 20211223224745144
+modified: 20230726200740971
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Primal
+tags: Spell Concentrate Manipulate Abjuration Arcane Primal
 title: Extract Poison
 type: text/vnd.tiddlywiki
 

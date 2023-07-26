@@ -13,12 +13,12 @@ m-save:
 m-targets: Your [[companion|Animal Companions]] or [[Eidolon]]
 m-time: 
 mod-intimidation: +1-4 status for companion or eidolon.
-modified: 20220502180507706
+modified: 20230726200741161
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Mental Occult Primal
+tags: Spell Concentrate Manipulate Enchantment Mental Occult Primal
 title: Thundering Dominance
 type: text/vnd.tiddlywiki
 virtual-tags: Auditory Emotion Fear Flourish Mental Sonic

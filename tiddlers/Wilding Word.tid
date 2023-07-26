@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 animal, fungus, or plant
 m-time: 
-modified: 20200814001942401
+modified: 20230726200649437
 s-crit: The target is unaffected.
 s-fail: As success, but the target also becomes [[Sickened]] 1 each time it damages you.
 s-fumble: As success, but the target also becomes [[Sickened]] 2 each time it damages you.
 s-hit: When the target attempts an attack roll or skill check that would harm you, it takes a –2 status penalty to its roll.
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cantrip Enchantment Hex Witch
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cantrip Enchantment Hex Witch
 title: Wilding Word
 type: text/vnd.tiddlywiki
 

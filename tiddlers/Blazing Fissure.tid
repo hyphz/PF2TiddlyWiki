@@ -12,12 +12,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20210929211702284
+modified: 20230726200740940
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage, and it falls [[Prone]].
 s-fumble: The target takes double damage, and it falls Prone.
 s-hit: The creature takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Earth Evocation Fire Arcane Primal
+tags: Spell Concentrate Manipulate Earth Evocation Fire Arcane Primal
 title: Blazing Fissure
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200801163620976
+modified: 20230726200740997
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Concentrate Manipulate Abjuration Arcane Divine Occult Primal Somatic Verbal
+tags: Spell Concentrate Manipulate Abjuration Arcane Divine Occult Primal
 title: Indestructibility
 turn-sun: Effect wears off.
 type: text/vnd.tiddlywiki

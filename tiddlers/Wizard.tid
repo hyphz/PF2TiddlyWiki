@@ -8,7 +8,7 @@ cls-reflex: T
 cls-tskills: Arcana
 cls-will: E
 created: 20201024164248649
-modified: 20201129001848166
+modified: 20230726182104509
 tags: Class
 title: Wizard
 type: text/vnd.tiddlywiki
@@ -19,29 +19,11 @@ type: text/vnd.tiddlywiki
 
 !! Specialization
 
-If you specialize in an arcane school, rather than studying each school equally (as universalists do), you gain an extra spell slot for each level of spell you can cast. You can prepare only spells of your chosen arcane school in these extra slots. 
+Each day, you can prepare an extra cantrip from your __curriculum__.
 
-In addition, you can prepare an extra cantrip of your chosen school. 
+You gain an extra spell slot __at each spell rank for which you have wizard spell slots__. You can prepare only spells __from your school's curriculum__ in these extra slots. __Any spell listed in your curriculum of a suitable spell rank is eligible to be prepared in each of these extra slots, regardless of how you added the spell to your spellbook.__
 
-You also add another arcane spell of your chosen school to your spellbook. 
-
-You learn a school spell, a special type of spell taught to students of your arcane school. School spells are a type of [[Focus Spell]]. 
-
-| !Specialized School | !School Spell |
-| Abjuration | [[Protective Ward]] |
-| Conjuration | [[Augment Summoning]] |
-| Divination | [[Diviner's Sight]] |
-| Enchantment | [[Charming Words]] |
-| Evocation | [[Force Bolt]] |
-| Illusion | [[Warped Terrain]] |
-| Necromancy | [[Call of the Grave]] |
-| Transmutation | [[Physical Boost]] |
-
-Instead of specializing narrowly in an arcane school, you can become a universalist wizard—by studying all the schools equally, you devote yourself to understanding the full breadth of the arcane arts. 
-
-For each level of spell you can cast, you can use [[Drain Bonded Item]] once per day to recall a spell of that level (instead of using it only once per day in total). 
-
-You gain an extra wizard class feat, and you add one 1st-level spell of your choice to your spellbook.
+__You automatically add some of the spells listed in your school’s curriculum to your spellbook. At 1st level, you add a cantrip and two 1st‑rank spells of your choice. As soon as you gain the ability to cast wizard spells of a new rank, choose one of the spells from your curriculum of that rank to add to your spellbook. A superscript “U” indicates an uncommon spell. Your GM might allow you to swap or add other spells to your curriculum if they strongly fit the theme.__
 
 !! Class Features
 

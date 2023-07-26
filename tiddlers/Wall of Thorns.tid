@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20230104154914728
+modified: 20230726200948148
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Plant Primal Material
+tags: Spell Concentrate Manipulate Conjuration Plant Primal
 title: Wall of Thorns
 type: text/vnd.tiddlywiki
 

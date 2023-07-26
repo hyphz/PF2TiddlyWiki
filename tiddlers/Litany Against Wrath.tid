@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 <<tag Evil>> creature
 m-time: 
-modified: 20200912140324419
+modified: 20230726200649310
 s-crit: The target is unaffected.
 s-fail: Each time the target uses an action that deals damage to at least one good creature, the target takes 3d6 good damage.
 s-fumble: The target is [[Enfeebled]] 2. Each time it uses an action that deals damage to at least one good creature, the target takes 3d6 good damage.
 s-hit: The first time the target uses an action that deals damage to at least one good creature, the target takes 3d6 good damage.
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany Feat Class
+tags: Spell Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany Feat Class
 title: Litany Against Wrath
 type: text/vnd.tiddlywiki
 

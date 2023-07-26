@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 weapon
 m-time: 
-modified: 20211222011212463
+modified: 20230726200740965
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Occult Evocation Sonic
+tags: Spell Concentrate Manipulate Arcane Divine Occult Evocation Sonic
 title: Echoing Weapon
 type: text/vnd.tiddlywiki
 

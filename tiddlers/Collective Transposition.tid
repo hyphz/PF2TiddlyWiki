@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: Up to 2 creatures
 m-time: 
-modified: 20200719205925255
+modified: 20230726200740946
 s-crit: The target can teleport if it wants, but it chooses the destination within range.
 s-fail: You teleport the target and choose its destination.
 s-fumble: 
 s-hit: The target is unaffected.
-tags: Conjuration Teleportation Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+tags: Conjuration Teleportation Spell Arcane Occult Manipulate Concentrate
 title: Collective Transposition
 type: text/vnd.tiddlywiki
 

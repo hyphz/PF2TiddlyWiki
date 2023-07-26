@@ -13,12 +13,12 @@ m-range: 10 feet
 m-save: 
 m-targets: You and the triggering ally
 m-time: 
-modified: 20200806230807029
+modified: 20230726200649442
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Fortune Mental Reaction
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Fortune Mental Reaction
 title: Zeal for Battle
 type: text/vnd.tiddlywiki
 

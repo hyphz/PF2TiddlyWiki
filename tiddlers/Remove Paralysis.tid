@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200728201900865
+modified: 20230726200741067
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Healing Necromancy Divine Occult Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Healing Necromancy Divine Occult Primal Concentrate Manipulate
 title: Remove Paralysis
 type: text/vnd.tiddlywiki
 

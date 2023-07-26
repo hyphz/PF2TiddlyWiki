@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200814000457719
+modified: 20230726200741012
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Hex Shadow Witch
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Hex Shadow Witch
 title: Malicious Shadow
 type: text/vnd.tiddlywiki
 

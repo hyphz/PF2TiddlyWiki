@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200719205703366
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Death Necromancy Poison Material Somatic Verbal Arcane Primal Spell Manipulate Concentrate
+tags: Death Necromancy Poison Arcane Primal Spell Manipulate Concentrate
 title: Cloudkill
 turn-stn: Creatures in the cloud take poison damage.
 type: text/vnd.tiddlywiki

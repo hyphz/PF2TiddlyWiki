@@ -12,13 +12,13 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] creature, __even if not living__
 m-time: 
-modified: 20230104154833022
+modified: 20230726200741100
 modtag-mental: +2 status on saves.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Healing Mental Occult
+tags: Spell Concentrate Manipulate Emotion Enchantment Healing Mental Occult
 title: Soothe
 type: text/vnd.tiddlywiki
 

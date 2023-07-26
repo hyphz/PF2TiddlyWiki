@@ -16,12 +16,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 [[Willing]] living creature or 1 undead creature
 m-time: 
-modified: 20201031163113844
+modified: 20230726200741102
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger Class Feat
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger Class Feat
 title: Soothing Mist
 type: text/vnd.tiddlywiki
 

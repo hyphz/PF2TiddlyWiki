@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200720204703689
+modified: 20230726200740951
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cantrip Spell Enchantment Mental Nonlethal Arcane Divine Occult Somatic Verbal Manipulate Concentrate
+tags: Cantrip Spell Enchantment Mental Nonlethal Arcane Divine Occult Manipulate Concentrate
 title: Daze
 type: text/vnd.tiddlywiki
 

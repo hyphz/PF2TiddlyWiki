@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220502172459623
+modified: 20230726200948143
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Incarnate Divine Material
+tags: Spell Concentrate Manipulate Conjuration Incarnate Divine
 title: Summon Deific Herald
 type: text/vnd.tiddlywiki
 

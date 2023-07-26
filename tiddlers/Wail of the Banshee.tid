@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: Any number of creatures
 m-time: 
-modified: 20200731172913794
+modified: 20230726200741185
 s-crit: The target is unaffected.
 s-fail: The target takes full damage and is [[Drained]] 1d4.
 s-fumble: The target takes full damage and is [[Drained]] 4.
 s-hit: The target takes full damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Auditory Death Necromancy Negative Divine Occult
+tags: Spell Concentrate Manipulate Auditory Death Necromancy Negative Divine Occult
 title: Wail of the Banshee
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200814215357768
+modified: 20230726200741080
 s-crit: 
 s-fail: The creature is [[Dazzled]] for 1 minute or until it uses an [[Interact]] action to get the sand out of its eyes.
 s-fumble: As failure, but the creature is also [[Blinded]] for its next action.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Earth Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Uncommon Earth Evocation Arcane Primal
 title: Scouring Sand
 turn-etc: Creatures in area must save.
 type: text/vnd.tiddlywiki

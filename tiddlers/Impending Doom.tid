@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 living creature
 m-time: 
-modified: 20220410162928277
+modified: 20230726200740996
 s-crit: The creature is unaffected.
 s-fail: The creature is immediately [[Flat-footed]]. On the second round, it becomes [[Frightened]] 2. Finally, on the third round, it also becomes [[Stunned]] 1. At the end of the third round, the creature takes full damage.
 s-fumble: The creature is immediately [[Flat-Footed]] and [[Frightened]] 3. On the second round, it becomes [[Stunned]] 1. Finally, on the third round, it also becomes [[Paralyzed]]. At the end of the third round, the creature takes double damage.
 s-hit: The creature is unaffected for 1 round. On the second round, it becomes [[Flat-Footed]]. Finally, on the third round, it becomes [[Frightened]] 1. At the end of the third round, it takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Emotion Fear Incapacitation Mental Arcane Divine Occult Prediction
+tags: Spell Concentrate Manipulate Divination Emotion Fear Incapacitation Mental Arcane Divine Occult Prediction
 title: Impending Doom
 type: text/vnd.tiddlywiki
 

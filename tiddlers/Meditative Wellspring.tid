@@ -1,13 +1,7 @@
 created: 20201017145210047
-feat-class: Monk
-feat-fpre: [[Meditative Focus]]
-feat-level: 18
-mod-meditative_focus: Recover 3 points instead of 2.
-modified: 20201017145256084
-tags: Feat Class Monk
+modified: 20230726181617196
+tags: 
 title: Meditative Wellspring
 type: text/vnd.tiddlywiki
 
-When you clear your mind, your focus comes flowing back in a powerful rush. 
-
-If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.
+{{RemasterWellspringGone}}

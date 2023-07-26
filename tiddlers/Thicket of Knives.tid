@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-deception: +2 status (?)
 mod-feint: Use untrained, with level added.
-modified: 20220502180207238
+modified: 20230726200741159
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Visual Arcane Occult
+tags: Spell Concentrate Manipulate Illusion Visual Arcane Occult
 title: Thicket of Knives
 type: text/vnd.tiddlywiki
 

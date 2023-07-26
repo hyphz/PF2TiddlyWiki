@@ -14,12 +14,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20201017151640665
+modified: 20230726200741058
 s-crit: The target survives, the spell ends, and the target is then temporarily immune for 24 hours.
 s-fail: The target is [[Stunned]] 3 and takes 80 damage. The spell’s duration continues, but the target is then temporarily immune for 24 hours against being killed by quivering palm.
 s-fumble: The target dies.
 s-hit: The target is [[Stunned]] 1 and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Incapacitation Monk Necromancy Class Feat MonkUnarmedModifier
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Incapacitation Monk Necromancy Class Feat MonkUnarmedModifier
 title: Quivering Palm
 type: text/vnd.tiddlywiki
 

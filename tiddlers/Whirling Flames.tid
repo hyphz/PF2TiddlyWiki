@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200812213849397
+modified: 20230726200741197
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
 title: Whirling Flames
 type: text/vnd.tiddlywiki
 

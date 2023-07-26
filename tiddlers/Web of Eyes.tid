@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 5 [[Willing]] creatures
 m-time: 
-modified: 20220507212903751
+modified: 20230726200741196
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Scrying Arcane Divine Occult Primal
+tags: Spell Concentrate Manipulate Divination Scrying Arcane Divine Occult Primal
 title: Web of Eyes
 type: text/vnd.tiddlywiki
 

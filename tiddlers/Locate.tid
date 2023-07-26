@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 1 specific object or type of object
 m-time: 10 minutes
-modified: 20200726231947809
+modified: 20230726200948134
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Detection Divination Spell Arcane Divine Occult Material Somatic Verbal Manipulate Concentrate
+tags: Uncommon Detection Divination Spell Arcane Divine Occult Manipulate Concentrate
 title: Locate
 type: text/vnd.tiddlywiki
 

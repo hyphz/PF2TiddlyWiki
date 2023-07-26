@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20211222010543284
+modified: 20230726200740958
 s-crit: The target is unaffected.
 s-fail: The target takes full damage, and the penalty.
 s-fumble: The target takes double damage and the status penalty is -2.
 s-hit: The target takes half damage and the penalty. The spell ends at the end of the target's next turn.
-tags: Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Mental Arcane Occult
+tags: Spell Concentrate Manipulate Emotion Enchantment Mental Arcane Occult
 title: Draw Ire
 type: text/vnd.tiddlywiki
 

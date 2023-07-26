@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220424200428672
+modified: 20230726200741116
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Water Arcane Primal Cantrip
+tags: Spell Concentrate Manipulate Evocation Water Arcane Primal Cantrip
 title: Spout
 type: text/vnd.tiddlywiki
 

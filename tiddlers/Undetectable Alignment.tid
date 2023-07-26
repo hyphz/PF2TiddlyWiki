@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature or object
 m-time: 1 minute
-modified: 20200730230045632
+modified: 20230726200948147
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Abjuration Divine Occult Material
+tags: Spell Concentrate Manipulate Uncommon Abjuration Divine Occult
 title: Undetectable Alignment
 type: text/vnd.tiddlywiki
 

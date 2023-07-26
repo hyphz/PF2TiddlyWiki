@@ -12,12 +12,12 @@ m-range: Planetary
 m-save: 
 m-targets: 1 creature you've met
 m-time: 
-modified: 20220410160414507
+modified: 20230726200740986
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Mental Divine Primal
+tags: Spell Concentrate Manipulate Detection Divination Mental Divine Primal
 title: Guiding Star
 type: text/vnd.tiddlywiki
 

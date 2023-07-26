@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220424201353466
+modified: 20230726200948142
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Divine Material
+tags: Spell Concentrate Manipulate Conjuration Divine
 title: Summon Anarch
 type: text/vnd.tiddlywiki
 

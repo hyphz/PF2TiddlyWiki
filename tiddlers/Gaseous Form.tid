@@ -15,14 +15,14 @@ m-time:
 mod-ac: Removes any item bonus to AC.
 mod-attack: Prevents attacking.
 mod-manipulate: Prevents Manipulate actions.
-modified: 20200807015426728
+modified: 20230726200740981
 modtag-attack: Prevents attacking.
 modtag-manipulate: Prevents Manipulate actions.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Polymorph Transmutation Somatic Verbal Manipulate Concentrate Arcane Occult Primal
+tags: Spell Polymorph Transmutation Manipulate Concentrate Arcane Occult Primal
 title: Gaseous Form
 type: text/vnd.tiddlywiki
 

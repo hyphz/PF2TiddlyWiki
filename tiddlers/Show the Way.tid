@@ -13,12 +13,12 @@ m-save:
 m-targets: You and allies in the area
 m-time: 10 minutes
 mod-difficult_terrain: Reduces penalties for long-term overland travel.
-modified: 20200802232056390
+modified: 20230726200948141
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Divine Primal Material
+tags: Spell Concentrate Manipulate Detection Divination Divine Primal
 title: Show the Way
 type: text/vnd.tiddlywiki
 

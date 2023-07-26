@@ -1,14 +1,10 @@
 created: 20200926144454710
 feat-class: Cleric
 feat-level: 12
-mod-refocus: Gain 2 Focus points instead of 1.
-modified: 20200926144606659
+mod-refocus: Refill entire focus pool.
+modified: 20230726180956609
 tags: Cleric Feat Class
 title: Domain Focus
 type: text/vnd.tiddlywiki
 
-''Prerequisites'' one or more domain spells
-
-Your devotion to your deity’s domains grows greater, and so does the power granted to you.
-
-If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you [[Refocus]] instead of 1.
+{{RemasterFocus}}

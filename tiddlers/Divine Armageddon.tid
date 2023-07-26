@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20211222010133374
+modified: 20230726200740955
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Positive Divine
+tags: Spell Concentrate Manipulate Necromancy Negative Positive Divine
 title: Divine Armageddon
 type: text/vnd.tiddlywiki
 

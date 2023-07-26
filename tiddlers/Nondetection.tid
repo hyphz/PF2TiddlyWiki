@@ -12,7 +12,7 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature or object
 m-time: 10 minutes
-modified: 20200808143316161
+modified: 20230726200948135
 modtag-detection: Attempts to counter effects.
 modtag-revelation: Attempts to counter effects.
 modtag-scrying: Attempts to counter effects.
@@ -20,7 +20,7 @@ s-crit:
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Uncommon Abjuration Arcane Occult Primal Material Somatic Verbal Concentrate Manipulate
+tags: Spell Uncommon Abjuration Arcane Occult Primal Concentrate Manipulate
 title: Nondetection
 type: text/vnd.tiddlywiki
 

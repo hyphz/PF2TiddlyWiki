@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: __4 creatures__
 m-time: 
-modified: 20211026215821381
+modified: 20230726200649417
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Divination Fortune Prediction
+tags: Spell Concentrate Divination Fortune Prediction
 title: True Target
 turn-sun: Bonus to attack rolls wears off.
 type: text/vnd.tiddlywiki

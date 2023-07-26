@@ -15,12 +15,12 @@ m-range: 1 mile
 m-save: 
 m-targets: One of your animal companions you can percieve
 m-time: 
-modified: 20220415180000348
+modified: 20230726200740939
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Verbal Concentrate Feat Archetype Divination Mental Uncommon
+tags: Spell Manipulate [[Focus Spell]] Concentrate Feat Archetype Divination Mental Uncommon
 title: Beastmaster Trance
 type: text/vnd.tiddlywiki
 

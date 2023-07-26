@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature affected by a [[Disease]]
 m-time: 
-modified: 20200809194834655
+modified: 20230726200740980
 s-crit: The target receives the benefit of a successful save against the lowest-level disease affecting it.
 s-fail: One randomly chosen disease affecting the target fills the air in a 15-foot [[Emanation]] centered on the target. For the spell’s duration, any creature that enters or ends its turn within the area is exposed to that disease.
 s-fumble: As failure, except the miasma contains all the diseases affecting the target.
 s-hit: The target is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]]
+tags: Spell Concentrate Manipulate [[Focus Spell]]
 title: Foul Miasma
 turn-etc: Creatures inside miasma suffer disease exposure.
 type: text/vnd.tiddlywiki

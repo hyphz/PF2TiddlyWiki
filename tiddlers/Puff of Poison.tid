@@ -12,12 +12,12 @@ m-range: 5 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20220423225101155
+modified: 20230726200741055
 s-crit: The creature is unaffected.
 s-fail: The creature takes full initial and persistent damage.
 s-fumble: The creature takes double initial and persistent damage.
 s-hit: The creature takes half initial and persistent damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Evocation Inhaled Poison Arcane Primal
+tags: Spell Concentrate Manipulate Cantrip Evocation Inhaled Poison Arcane Primal
 title: Puff of Poison
 type: text/vnd.tiddlywiki
 

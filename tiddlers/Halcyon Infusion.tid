@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: One willing creature of lower level than you
 m-time: 10 minutes
-modified: 20220415174607715
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Rare Divination Mental Arcane Primal Material
+tags: Spell Concentrate Manipulate Rare Divination Mental Arcane Primal
 title: Halcyon Infusion
 type: text/vnd.tiddlywiki
 

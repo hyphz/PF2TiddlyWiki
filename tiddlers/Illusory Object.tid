@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200726223331729
+modified: 20230726200740995
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Visual Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Illusion Visual Spell Arcane Occult Concentrate Manipulate
 title: Illusory Object
 type: text/vnd.tiddlywiki
 

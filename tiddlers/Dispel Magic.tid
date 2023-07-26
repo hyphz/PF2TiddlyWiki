@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 spell effect or unattended magic item
 m-time: 
-modified: 20201128232307629
+modified: 20230726200740955
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+tags: Spell Abjuration Arcane Divine Occult Primal Manipulate Concentrate
 title: Dispel Magic
 type: text/vnd.tiddlywiki
 

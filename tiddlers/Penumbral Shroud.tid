@@ -12,13 +12,13 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-modified: 20200809204405789
+modified: 20230726200741040
 modtag-light: +1 status on saves.
 s-crit: The target is unaffected.
 s-fail: The effect lasts its normal duration.
 s-fumble: 
 s-hit: The effect lasts for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult Darkness
+tags: Spell Concentrate Manipulate Evocation Arcane Occult Darkness
 title: Penumbral Shroud
 type: text/vnd.tiddlywiki
 

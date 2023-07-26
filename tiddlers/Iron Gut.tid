@@ -13,12 +13,12 @@ m-save:
 m-targets: You
 m-time: 
 mod-conceal_an_object: +4 circumstance if object hidden in your stomach.
-modified: 20200802225218648
+modified: 20230726200741001
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Transmutation Arcane Primal
 title: Iron Gut
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: Varies
 m-time: 
-modified: 20220415174746421
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Sonic Divine Occult Material
+tags: Spell Concentrate Manipulate Evocation Sonic Divine Occult
 title: Concordant Choir
 type: text/vnd.tiddlywiki
 

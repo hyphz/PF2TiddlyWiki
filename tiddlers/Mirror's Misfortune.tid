@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20220418201809476
+modified: 20230726200741021
 s-crit: 
 s-fail: Within the next hour, the creature must roll its next two attack rolls twice and take the lower result.
 s-fumble: Within the next hour, the creature must roll its next four attack rolls twice and take the lower result.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Arcane Occult
+tags: Spell Concentrate Manipulate Illusion Arcane Occult
 title: Mirror's Misfortune
 type: text/vnd.tiddlywiki
 virtual-tags: Misfortune Curse

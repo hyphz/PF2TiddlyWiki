@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200814000243614
+modified: 20230726200741004
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Healing Hex Necromancy Witch
+tags: Spell Manipulate [[Focus Spell]] Uncommon Healing Hex Necromancy Witch
 title: Life Boost
 type: text/vnd.tiddlywiki
 

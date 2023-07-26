@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20210830164528804
+modified: 20230726200740936
 s-crit: The spell has no effect.
 s-fail: The duration is 2 rounds.
 s-fumble: The duration is 4 rounds.
 s-hit: The duration is 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Mental Nonlethal Arcane Occult
+tags: Spell Concentrate Manipulate Enchantment Mental Nonlethal Arcane Occult
 title: Agitate
 type: text/vnd.tiddlywiki
 

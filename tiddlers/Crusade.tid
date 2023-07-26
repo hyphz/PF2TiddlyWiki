@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: Up to 4 creatures
 m-time: 
-modified: 20200720202150476
+modified: 20230726200740949
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Uncommon Enchantment Linguistic Mental Divine Somatic Verbal Manipulate Concentrate
+tags: Spell Uncommon Enchantment Linguistic Mental Divine Manipulate Concentrate
 title: Crusade
 type: text/vnd.tiddlywiki
 

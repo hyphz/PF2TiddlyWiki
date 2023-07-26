@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20211205203808739
+modified: 20230726200740941
 s-crit: The target is unaffected.
 s-fail: The target takes full damage and is [[Drained]] 2.
 s-fumble: The target takes double damage and is [[Drained]] 3.
 s-hit: The target takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Primal Evocation Fire
+tags: Spell Concentrate Manipulate Primal Evocation Fire
 title: Boil Blood
 type: text/vnd.tiddlywiki
 

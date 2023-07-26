@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 willing sleeping creature
 m-time: 10 minutes
-modified: 20200722113800360
+modified: 20230726200948129
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Enchantment Mental Occult Material Somatic Verbal Spell Manipulate Concentrate
+tags: Enchantment Mental Occult Spell Manipulate Concentrate
 title: Dreaming Potential
 type: text/vnd.tiddlywiki
 

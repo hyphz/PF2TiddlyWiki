@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 5 willing creatures
 m-time: 
-modified: 20200727204719081
+modified: 20230726200741023
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Morph Transmutation Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Morph Transmutation Primal Concentrate Manipulate
 title: Moon Frenzy
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220415180933790
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cold Evocation Arcane Primal Material
+tags: Spell Concentrate Manipulate Cold Evocation Arcane Primal
 title: Ice Storm
 turn-etc: Creatures in the storm take Cold damage.
 type: text/vnd.tiddlywiki

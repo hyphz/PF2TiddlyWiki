@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200726235349862
+modified: 20230726200741015
 s-crit: The target escapes and the spell ends.
 s-fail: The target makes no progress toward escape.
 s-fumble: The target makes no progress toward escape, and if it was on the right path, it no longer is.
 s-hit: The target is on the right path to the exit. If the target was already on the right path, it escapes the maze and the spell ends.
-tags: Conjuration Extradimensional Teleportation Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Conjuration Extradimensional Teleportation Spell Arcane Occult Concentrate Manipulate
 title: Maze
 type: text/vnd.tiddlywiki
 

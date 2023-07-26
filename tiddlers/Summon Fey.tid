@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200730215541344
+modified: 20230726200948143
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Occult Primal
+tags: Spell Concentrate Manipulate Conjuration Occult Primal
 title: Summon Fey
 type: text/vnd.tiddlywiki
 

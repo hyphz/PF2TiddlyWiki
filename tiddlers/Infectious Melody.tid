@@ -14,14 +14,14 @@ m-targets: Enemies in the area
 m-time: 
 mod-intimidation: -2 status if linguistic.
 mod-undetected: Usually can't be undetected while humming along.
-modified: 20220410164557300
+modified: 20230726200740998
 modtag-linguistic: Must Flat 5 if precise speech needed.
 modtag-verbal: Must Flat 5 to complete components.
 s-crit: The creature is unaffected.
 s-fail: The duration is 3 rounds.
 s-fumble: The duration is 1 hour.
 s-hit: The duration is 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Auditory Enchantment Mental Occult
+tags: Spell Concentrate Manipulate Auditory Enchantment Mental Occult
 title: Infectious Melody
 type: text/vnd.tiddlywiki
 

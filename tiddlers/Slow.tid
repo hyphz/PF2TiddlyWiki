@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200729224610243
+modified: 20230726200741098
 s-crit: The target is unaffected.
 s-fail: The target is [[Slowed]] 1 for 1 minute.
 s-fumble: The target is [[Slowed]] 2 for 1 minute.
 s-hit: The target is [[Slowed]] 1 for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Occult Primal
+tags: Spell Concentrate Manipulate Transmutation Arcane Occult Primal
 title: Slow
 type: text/vnd.tiddlywiki
 

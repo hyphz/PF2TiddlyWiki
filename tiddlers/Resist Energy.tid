@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200728202514444
+modified: 20230726200741069
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Occult Primal Abjuration
+tags: Spell Concentrate Manipulate Arcane Divine Occult Primal Abjuration
 title: Resist Energy
 type: text/vnd.tiddlywiki
 

@@ -18,12 +18,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20201031192601825
+modified: 20230726200741010
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Ranger Class Feat
+tags: Spell Manipulate [[Focus Spell]] Uncommon Abjuration Ranger Class Feat
 title: Magic Hide
 type: text/vnd.tiddlywiki
 

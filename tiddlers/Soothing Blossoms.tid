@@ -13,14 +13,14 @@ m-save:
 m-targets: 
 m-time: 
 mod-persistent_damage: In area recovery is assisted at the start of each of caster's turns.
-modified: 20230414223907895
+modified: 20230726200741101
 modtag-disease: Promote save successes in area.
 modtag-poison: Promote save successes in area.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Plant Divine Primal
+tags: Spell Concentrate Manipulate Conjuration Plant Divine Primal
 title: Soothing Blossoms
 type: text/vnd.tiddlywiki
 

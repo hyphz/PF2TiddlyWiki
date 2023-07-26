@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220418205500502
+modified: 20230726200948135
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Plant Poison Transmutation Primal Material
+tags: Spell Concentrate Manipulate Plant Poison Transmutation Primal
 title: Nature's Reprisal
 type: text/vnd.tiddlywiki
 

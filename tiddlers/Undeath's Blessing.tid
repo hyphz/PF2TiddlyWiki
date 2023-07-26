@@ -14,12 +14,12 @@ m-save:
 m-targets: 1 living creature touched
 m-time: 
 mod-harm: Fully affected creature is always healed as undead.
-modified: 20220622210340083
+modified: 20230726200741171
 s-crit: The target is unaffected.
 s-fail: For the duration, [[Harm]] __and [[Heal]]__ spells treat the creature as undead. In addition, [[Harm]] spells gain a +2 status bonus to the Hit Points restored to the target.
 s-fumble: 
 s-hit: The target heals half as much from [[Heal]] and takes half as much damage from [[Harm]] for 1 round.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Necromancy Negative Sorcerer
+tags: Spell Manipulate [[Focus Spell]] Uncommon Necromancy Negative Sorcerer
 title: Undeath's Blessing
 type: text/vnd.tiddlywiki
 

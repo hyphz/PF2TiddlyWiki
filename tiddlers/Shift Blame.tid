@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: The target of the triggering attack or skill check
 m-time: 
-modified: 20220424194931532
+modified: 20230726200741092
 s-crit: The target knows you attempted to alter its memories.
 s-fail: You successfully alter the target's memory. It isn't forced to react to the new memories in a particular way, and it's likely to question them if they contradict other information it knows or are implausible for the situation.
 s-fumble: 
 s-hit: The target doesn't realize you attempted to alter its memories, though it knows you cast a spell.
-tags: Spell Somatic Verbal Concentrate Enchantment Mental Arcane Occult Reaction
+tags: Spell Concentrate Enchantment Mental Arcane Occult Reaction Manipulate
 title: Shift Blame
 type: text/vnd.tiddlywiki
 

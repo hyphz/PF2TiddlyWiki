@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-perception: Gives a circumstance bonus to detect lies.
-modified: 20200720221806958
+modified: 20230726200740954
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Divination Mental Revelation Spell Arcane Divine Occult Somatic Verbal Manipulate Concentrate
+tags: Uncommon Divination Mental Revelation Spell Arcane Divine Occult Manipulate Concentrate
 title: Discern Lies
 type: text/vnd.tiddlywiki
 

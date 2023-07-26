@@ -13,13 +13,13 @@ m-range:
 m-save: 
 m-targets: __You and the triggering ally__
 m-time: 
-modified: 20210830164836126
+modified: 20230726200741091
 modtag-emotion: Can improve save by sharing effect.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Abjuration Mental
+tags: Spell Manipulate [[Focus Spell]] Reaction Abjuration Mental
 title: Share Burden
 type: text/vnd.tiddlywiki
 

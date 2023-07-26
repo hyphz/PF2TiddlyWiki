@@ -15,12 +15,12 @@ m-time:
 mod-cover_tracks: Can't cover tracks while shedding skin.
 mod-persistent_damage: Flat DC is 5 against skin coating effects.
 mod-track: If target shed skin, +2 circumstance to track them.
-modified: 20200802232305706
+modified: 20230726200741097
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Arcane Primal
+tags: Spell Concentrate Manipulate Necromancy Arcane Primal
 title: Slough Skin
 type: text/vnd.tiddlywiki
 

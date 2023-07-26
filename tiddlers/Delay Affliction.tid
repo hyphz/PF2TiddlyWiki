@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200811011017588
+modified: 20230726200740951
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Healing Necromancy Oracle Positive
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Healing Necromancy Oracle Positive
 title: Delay Affliction
 type: text/vnd.tiddlywiki
 

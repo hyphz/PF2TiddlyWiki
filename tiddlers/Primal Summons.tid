@@ -17,12 +17,12 @@ m-targets:
 m-time: 
 mod-summon_animal: Can power up creature you summon.
 mod-summon_plant_or_fungus: Can power up creature you summon.
-modified: 20201024145215273
+modified: 20230726200649343
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Free Uncommon Conjuration Druid Class Feat
+tags: Spell Concentrate [[Focus Spell]] Free Uncommon Conjuration Druid Class Feat
 title: Primal Summons
 type: text/vnd.tiddlywiki
 

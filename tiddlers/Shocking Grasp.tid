@@ -12,12 +12,12 @@ m-range: Reach
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200729213816121
+modified: 20230726200741094
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Electricity Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Attack Electricity Evocation Arcane Primal
 title: Shocking Grasp
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 living creature
 m-time: 
-modified: 20200730224649166
+modified: 20230726200741164
 s-crit: 
 s-fail: The target is [[Stupefied]] 2.
 s-fumble: The target is [[Stupefied]] 4.
 s-hit: The target is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Mental Arcane Occult
+tags: Spell Concentrate Manipulate Enchantment Mental Arcane Occult
 title: Touch of Idiocy
 type: text/vnd.tiddlywiki
 

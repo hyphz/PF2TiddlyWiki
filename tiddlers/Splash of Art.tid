@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200806172243966
+modified: 20230726200741115
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Illusion Visual
 title: Splash of Art
 type: text/vnd.tiddlywiki
 

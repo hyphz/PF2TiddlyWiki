@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-disintegrate: Instantly destroys Spiritual Guardian.
 mod-sustain_a_spell: Choose new attack or guard target.
-modified: 20200730193224770
+modified: 20230726200741114
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Abjuration Force Divine
+tags: Spell Concentrate Manipulate Attack Abjuration Force Divine
 title: Spiritual Guardian
 type: text/vnd.tiddlywiki
 

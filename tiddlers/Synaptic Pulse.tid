@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20220622210014142
+modified: 20230726200741149
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Stunned]] 2.
 s-fumble: The creature is [[Stunned]] for 1 round.
 s-hit: The creature is [[Stunned]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate Occult Enchantment Incapacitation Mental
+tags: Spell Concentrate Manipulate Occult Enchantment Incapacitation Mental
 title: Synaptic Pulse
 type: text/vnd.tiddlywiki
 

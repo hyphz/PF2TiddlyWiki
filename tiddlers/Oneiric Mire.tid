@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20220423211026989
+modified: 20230726200741036
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Mental Visual Arcane Occult Primal
+tags: Spell Concentrate Manipulate Illusion Mental Visual Arcane Occult Primal
 title: Oneiric Mire
 type: text/vnd.tiddlywiki
 

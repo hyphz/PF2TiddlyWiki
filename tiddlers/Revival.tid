@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Dead creatures and living creatures of your choice within range
 m-time: 
-modified: 20200728203729107
+modified: 20230726200741072
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Positive Divine Primal
+tags: Spell Concentrate Manipulate Healing Necromancy Positive Divine Primal
 title: Revival
 type: text/vnd.tiddlywiki
 

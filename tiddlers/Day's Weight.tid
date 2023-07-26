@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20211221223516853
+modified: 20230726200740951
 s-crit: The target is unaffected.
 s-fail: The target is [[Fatigued]] and [[Enfeebled]] 1 for the duration.
 s-fumble: The target is [[Fatigued]] and [[Enfeebled]] 2 for the duration. The fatigued condition doesn’t end when the spell’s duration does (but can still be removed with a night’s rest or by similar means).
 s-hit: The target is [[Fatigued]] and [[Enfeebled]] 1 for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Occult Primal Transmutation
+tags: Spell Concentrate Manipulate Arcane Occult Primal Transmutation
 title: Day's Weight
 type: text/vnd.tiddlywiki
 

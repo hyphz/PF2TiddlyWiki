@@ -15,12 +15,12 @@ m-save: Fortitude
 m-targets: 1 creature
 m-time: 
 mod-sustain_a_spell: Repeats damage on sustain.
-modified: 20220415180549350
+modified: 20230726200740999
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cold Cursebound Evocation Oracle
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cold Cursebound Evocation Oracle
 title: Interstellar Void
 type: text/vnd.tiddlywiki
 

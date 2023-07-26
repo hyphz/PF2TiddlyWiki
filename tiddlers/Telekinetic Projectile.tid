@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200801151734778
+modified: 20230726200741153
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Cantrip Evocation Arcane Occult
+tags: Spell Concentrate Manipulate Attack Cantrip Evocation Arcane Occult
 title: Telekinetic Projectile
 type: text/vnd.tiddlywiki
 

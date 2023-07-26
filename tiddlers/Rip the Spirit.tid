@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20220424192430577
+modified: 20230726200948139
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divine Occult Death Necromancy Negative Material
+tags: Spell Concentrate Manipulate Divine Occult Death Necromancy Negative
 title: Rip the Spirit
 type: text/vnd.tiddlywiki
 

@@ -19,13 +19,13 @@ m-time:
 mod-inspire_courage: Perform to increase bonus to +2/+3.
 mod-inspire_defense: Perform to increase bonus to +2/+3.
 mod-song_of_strength: Perform to increase bonus to +2/+3.
-modified: 20220622210206615
+modified: 20230726200649302
 modified-by: Performance
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Free Uncommon Bard Enchantment Action Feat Class Metamagic
+tags: Spell Concentrate [[Focus Spell]] Free Uncommon Bard Enchantment Action Feat Class Metamagic
 title: Inspire Heroics
 type: text/vnd.tiddlywiki
 

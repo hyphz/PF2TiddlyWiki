@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 metal item or metal creature
 m-time: 
-modified: 20200801162300932
+modified: 20230726200740990
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and the object deals full persistent damage.
 s-fumble: As failure, but the creature takes double damage and the object deals double persistent damage.
 s-hit: The creature takes half damage and the object deals no persistent fire damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Arcane Primal
+tags: Spell Concentrate Manipulate Evocation Fire Arcane Primal
 title: Heat Metal
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save:
 m-targets: You
 m-time: 
 mod-sustain_a_spell: Control your duplicate when Sustained.
-modified: 20200727203000609
+modified: 20230726200741022
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Spell Arcane Occult Concentrate Manipulate
 title: Mislead
 type: text/vnd.tiddlywiki
 

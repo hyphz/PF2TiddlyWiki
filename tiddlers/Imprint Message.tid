@@ -15,12 +15,12 @@ m-time:
 mod-object_reading: Imprinted message is revealed instead of events.
 mod-read_aura: Shows magical modification if of lower level.
 mod-retrocognition: Imprinted message is incldued an vision.
-modified: 20200801163232352
+modified: 20230726200740996
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Occult
+tags: Spell Concentrate Manipulate Divination Occult
 title: Imprint Message
 type: text/vnd.tiddlywiki
 

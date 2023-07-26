@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 <<tag Evil>> creature
 m-time: 
-modified: 20200912150038971
+modified: 20230726200649311
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany Class Feat
+tags: Spell Concentrate [[Focus Spell]] Uncommon Champion Evocation Good Litany Class Feat
 title: Litany of Righteousness
 type: text/vnd.tiddlywiki
 

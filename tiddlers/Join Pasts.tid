@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 2 willing creatures
 m-time: 
-modified: 20200805233136418
+modified: 20230726200741002
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Uncommon Divination Mental Occult Cantrip
+tags: Spell Manipulate Uncommon Divination Mental Occult Cantrip
 title: Join Pasts
 type: text/vnd.tiddlywiki
 

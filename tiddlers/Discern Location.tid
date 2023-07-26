@@ -12,12 +12,12 @@ m-range: Unlimited
 m-save: 
 m-targets: 1 creature or object
 m-time: 10 minutes
-modified: 20200720222021609
+modified: 20230726200948129
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Detection Divination Arcane Divine Occult Material Somatic Verbal Spell Manipulate Concentrate
+tags: Uncommon Detection Divination Arcane Divine Occult Spell Manipulate Concentrate
 title: Discern Location
 type: text/vnd.tiddlywiki
 

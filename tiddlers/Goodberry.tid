@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 ripe berry
 m-time: 
-modified: 20211026214552313
+modified: 20230726200740985
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Druid Healing Necromancy
 title: Goodberry
 type: text/vnd.tiddlywiki
 

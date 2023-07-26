@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 Willing Creature
 m-time: 
-modified: 20200805225834425
+modified: 20230726200740939
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Plant Primal Somatic Verbal Manipulate Concentrate
+tags: Spell Abjuration Plant Primal Manipulate Concentrate
 title: Barkskin
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature that isn't on its home plane
 m-time: 
-modified: 20200805225819375
+modified: 20230726200740939
 s-crit: The target resists being banished and you are [[Stunned]] 1.
 s-fail: The target is banished.
 s-fumble: The target is banished and can’t return by any means to the plane it’s banished from for 1 week.
 s-hit: The target resists being banished.
-tags: Spell Abjuration Incapacitation Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate
+tags: Spell Abjuration Incapacitation Arcane Divine Occult Primal Manipulate Concentrate
 title: Banishment
 type: text/vnd.tiddlywiki
 

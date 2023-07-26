@@ -13,12 +13,12 @@ m-range: 60 foot
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200804202725552
+modified: 20230726200740941
 s-crit: The target is unaffected.
 s-fail: As success, but the penalty is –2.
 s-fumble: The target is overcome with ambition, taking whatever actions would advance its own agenda over those of anyone else, even without attempts to convince it.
 s-hit: The target takes a –1 status penalty to its saving throws and other defenses against attempts to [[Coerce]] it, [[Request]] something of it, or use <<tag Mental>> effects to convince it to do something (such as a suggestion spell). This penalty applies only if the target is being encouraged to advance its own ambitions.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Ehchantment Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Ehchantment Mental
 title: Blind Ambition
 type: text/vnd.tiddlywiki
 

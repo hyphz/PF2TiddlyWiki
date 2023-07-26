@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 1 minute
-modified: 20200728202929926
+modified: 20230726200741069
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Divine Occult Primal
+tags: Spell Concentrate Manipulate Healing Necromancy Divine Occult Primal
 title: Restoration
 type: text/vnd.tiddlywiki
 

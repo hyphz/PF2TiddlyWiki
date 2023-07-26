@@ -13,12 +13,12 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-frightened: Can't reduce frightened.
-modified: 20220418201535722
+modified: 20230726200741021
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Mental Visual Arcane Divine Occult
+tags: Spell Concentrate Manipulate Illusion Mental Visual Arcane Divine Occult
 title: Mirror Malefactors
 type: text/vnd.tiddlywiki
 

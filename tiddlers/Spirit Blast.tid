@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200730192020506
+modified: 20230726200741108
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Force Necromancy Divine Occult
+tags: Spell Concentrate Manipulate Force Necromancy Divine Occult
 title: Spirit Blast
 type: text/vnd.tiddlywiki
 

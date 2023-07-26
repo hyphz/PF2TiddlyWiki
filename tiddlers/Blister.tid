@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200801152031456
+modified: 20230726200740941
 s-crit: The target is unaffected.
 s-fail: As success, but the target grows two blisters.
 s-fumble: As success, but the target grows four blisters.
 s-hit: The target grows one blister. You can spend a single action, which has the <<tag Concentrate>> trait, to pop a blister. The target and each creature in a 15-foot cone originating from the target takes 7d6 acid damage (basic [[Fortitude]] save). You choose the direction of the cone, which can’t include the target. When no blisters are left, the spell ends.
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Arcane Occult Primal
+tags: Spell Concentrate Manipulate Necromancy Arcane Occult Primal
 title: Blister
 type: text/vnd.tiddlywiki
 

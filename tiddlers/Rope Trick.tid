@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 touched piece of rope from 5 to 30 feet long
 m-time: 10 minutes
-modified: 20200728204238608
+modified: 20230726200948139
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Conjuration Extradimensional Material Arcane Occult
+tags: Spell Concentrate Manipulate Uncommon Conjuration Extradimensional Arcane Occult
 title: Rope Trick
 type: text/vnd.tiddlywiki
 

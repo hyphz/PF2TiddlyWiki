@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200814000928698
+modified: 20230726200741042
 s-crit: The target is unaffected.
 s-fail: The target takes 1d6 cold damage and 1d6 persistent cold damage. The persistent cold damage automatically ends when the spell ends. It is [[Concealed]] to other creatures and other creatures are concealed to it.
 s-fumble: As failure, but both the cold damage and the persistent cold damage increase to 2d6.
 s-hit: The target takes 1d6 cold damage, and the spell ends.
-tags: Spell Somatic Manipulate [[Focus Spell]]
+tags: Spell Manipulate [[Focus Spell]]
 title: Personal Blizzard
 type: text/vnd.tiddlywiki
 

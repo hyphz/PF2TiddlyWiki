@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200809185411181
+modified: 20230726200948129
 s-crit: The creature is unaffected by the hazards and no longer needs to attempt Will saves against them.
 s-fail: The target takes full damage and treats the square as difficult terrain.
 s-fumble: The target takes double damage and cannot pass through a square containing a hazard.
 s-hit: The creature realizes the hazards aren’t real but still takes half damage from them; on future Will saves against the hazards, the creature continues to use this result unless it rolls a critical success.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Illusion Mental Visual Material
+tags: Spell Concentrate Manipulate [[Focus Spell]] Illusion Mental Visual
 title: Ephemeral Hazards
 type: text/vnd.tiddlywiki
 virtual-tags: Bludgeoning Slashing Piercing Acid Cold Electricity Fire Sonic

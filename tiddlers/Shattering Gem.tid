@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-modified: 20200802230936009
+modified: 20230726200741092
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Earth Arcane Primal
+tags: Spell Concentrate Manipulate Abjuration Earth Arcane Primal
 title: Shattering Gem
 type: text/vnd.tiddlywiki
 

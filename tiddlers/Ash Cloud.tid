@@ -13,12 +13,12 @@ m-save: Fortitude
 m-targets: 
 m-time: 
 mod-scent: Can't detect using smell inside the cloud.
-modified: 20210929210239513
+modified: 20230726200948125
 s-crit: The target is unaffected.
 s-fail: The target takes full damage and is [[Dazzled]] for 1 round.
 s-fumble: The target takes double damage and is [[Blinded]] for 1 round.
 s-hit: The target takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Air Conjuration Fire Arcane Primal Material
+tags: Spell Concentrate Manipulate Air Conjuration Fire Arcane Primal
 title: Ash Cloud
 type: text/vnd.tiddlywiki
 

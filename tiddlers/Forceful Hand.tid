@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220214235227038
+modified: 20230726200740979
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Force Arcane Occult
+tags: Spell Concentrate Manipulate Evocation Force Arcane Occult
 title: Forceful Hand
 type: text/vnd.tiddlywiki
 

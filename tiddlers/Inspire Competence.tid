@@ -16,12 +16,12 @@ m-save:
 m-targets: 1 ally
 m-time: 
 mod-aid: Aid with Performance and promote non-fumble fails.
-modified: 20200830150502091
+modified: 20230726200649301
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Class Feat [[Focus Spell]]
+tags: Spell Concentrate Uncommon Bard Cantrip Composition Emotion Enchantment Mental Class Feat [[Focus Spell]]
 title: Inspire Competence
 type: text/vnd.tiddlywiki
 

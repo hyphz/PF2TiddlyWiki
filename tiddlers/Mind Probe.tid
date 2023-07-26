@@ -13,12 +13,12 @@ m-save: Will
 m-targets: 1 creature
 m-time: 1 minute
 mod-sustain_a_spell: Ask another question when sustained.
-modified: 20200727001057579
+modified: 20230726200948135
 s-crit: The target is unaffected.
 s-fail: //The spell takes effect.//
 s-fumble: //The spell takes effect// and the target takes a -4 circumstance penalty to Deception checks against your questions.
 s-hit: The target is unaffected.
-tags: Spell Uncommon Divination Linguistic Mental Arcane Occult Material Somatic Verbal Concentrate Manipulate
+tags: Spell Uncommon Divination Linguistic Mental Arcane Occult Concentrate Manipulate
 title: Mind Probe
 type: text/vnd.tiddlywiki
 

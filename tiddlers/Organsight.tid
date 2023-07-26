@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 living or <<tag Undead>> creature that has organs
 m-time: 
 mod-medicine: +2 circumstance working on organs, -2 circumstance working on skin.
-modified: 20220423212642098
+modified: 20230726200741037
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Revelation Arcane Divine Occult Primal
+tags: Spell Concentrate Manipulate Divination Revelation Arcane Divine Occult Primal
 title: Organsight
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range:
 m-save: 
 m-targets: 1 living creature per action spent to cast this spell
 m-time: 
-modified: 20200806171808838
+modified: 20230726200741062
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Healing Necromancy Positive
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Healing Necromancy Positive
 title: Rebuke Death
 type: text/vnd.tiddlywiki
 

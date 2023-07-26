@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-steal: Can steal spells while affected.
-modified: 20220502181546241
+modified: 20230726200741169
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Mental Shadow Arcane Occult
+tags: Spell Concentrate Manipulate Illusion Mental Shadow Arcane Occult
 title: Umbral Extraction
 type: text/vnd.tiddlywiki
 

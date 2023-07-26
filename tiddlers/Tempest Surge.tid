@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-modified: 20200806202711056
+modified: 20230726200741156
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Electricity Evocation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Air Druid Electricity Evocation
 title: Tempest Surge
 type: text/vnd.tiddlywiki
 

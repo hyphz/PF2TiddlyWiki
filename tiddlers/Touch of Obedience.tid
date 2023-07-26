@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 living creature
 m-time: 
-modified: 20200806173513743
+modified: 20230726200741165
 s-crit: The target is unaffected.
 s-fail: The target is [[Stupefied]] 1 until the end of your next turn.
 s-fumble: The target is [[Stupefied]] 1 for 1 minute.
 s-hit: The target is [[Stupefied]] 1 until the end of your current turn.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Mental
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Mental
 title: Touch of Obedience
 turn-euc: Stupefaction of savers wears off.
 turn-eun: Stupefaction of failers wears off.

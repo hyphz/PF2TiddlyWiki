@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200725134921678
+modified: 20230726200740981
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Conjuration Teleportation Arcane Divine Occult Somatic Verbal Concentrate Manipulate
+tags: Uncommon Conjuration Teleportation Arcane Divine Occult Concentrate Manipulate
 title: Gate
 type: text/vnd.tiddlywiki
 

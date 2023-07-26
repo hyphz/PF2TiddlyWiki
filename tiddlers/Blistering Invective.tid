@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200801152745646
+modified: 20230726200740941
 s-crit: The target is unaffected.
 s-fail: The target becomes [[Frightened]] 1 and takes the full persistent fire damage.
 s-fumble: The target becomes [[Frightened]] 2 and takes double the persistent fire damage.
 s-hit: The target takes half the persistent fire damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Auditory Emotion Enchantment Fear Mental Occult
+tags: Spell Concentrate Manipulate Auditory Emotion Enchantment Fear Mental Occult
 title: Blistering Invective
 type: text/vnd.tiddlywiki
 

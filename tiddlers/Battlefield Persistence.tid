@@ -14,13 +14,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200811002247122
+modified: 20230726200649251
 modtag-incapacitation: Can make target treated as 2 levels higher.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cursebound Divination Divine Oracle Reaction
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cursebound Divination Divine Oracle Reaction
 title: Battlefield Persistence
 type: text/vnd.tiddlywiki
 

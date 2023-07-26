@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20210825010333910
+modified: 20230726200740942
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Occult Primal Uncommon Death Necromancy Negative
+tags: Spell Concentrate Manipulate Arcane Occult Primal Uncommon Death Necromancy Negative
 title: Call the Blood
 type: text/vnd.tiddlywiki
 

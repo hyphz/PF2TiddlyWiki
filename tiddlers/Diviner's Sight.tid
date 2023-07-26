@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] living creature
 m-time: 
-modified: 20200808143221677
+modified: 20230726200649266
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Fortune Wizard
+tags: Spell Concentrate [[Focus Spell]] Uncommon Divination Fortune Wizard
 title: Diviner's Sight
 turn-eun: Wears off.
 type: text/vnd.tiddlywiki

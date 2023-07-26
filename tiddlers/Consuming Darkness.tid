@@ -14,12 +14,12 @@ m-range:
 m-save: Reflex
 m-targets: Enemies in the area
 m-time: 
-modified: 20201122163848486
+modified: 20230726200740947
 s-crit: The creature is unaffected.
 s-fail: As success, but the creature takes full damage and a –10-foot circumstance penalty.
 s-fumble: The creature is absorbed into the shadows, where it can be seen below the surface; it takes double damage and is [[Immobilized]] for 1 round or until it [[Escape]]s.
 s-hit: The creature sinks partially into the shadow, taking half damage and a –5-foot circumstance penalty to its Speeds for as long it remains in the area.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Shadow Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Shadow Sorcerer
 title: Consuming Darkness
 type: text/vnd.tiddlywiki
 virtual-tags: Negative

@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 1 minute
-modified: 20220622205216070
+modified: 20230726200948129
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Abjuration Spell Arcane Divine Occult Primal Material Somatic Verbal Manipulate Concentrate
+tags: Abjuration Spell Arcane Divine Occult Primal Manipulate Concentrate
 title: Energy Aegis
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: You and up to 5 [[Willing]] targets
 m-time: 
-modified: 20200727215556684
+modified: 20230726200741049
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Polymorph Transmutation Spell Primal Somatic Verbal Manipulate Concentrate
+tags: Polymorph Transmutation Spell Primal Manipulate Concentrate
 title: Primal Herd
 type: text/vnd.tiddlywiki
 

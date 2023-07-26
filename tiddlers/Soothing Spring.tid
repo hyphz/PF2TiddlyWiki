@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20220424195753136
+modified: 20230726200948141
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Positive Water Divine Primal Material
+tags: Spell Concentrate Manipulate Healing Necromancy Positive Water Divine Primal
 title: Soothing Spring
 type: text/vnd.tiddlywiki
 

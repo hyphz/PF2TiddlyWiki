@@ -17,12 +17,12 @@ mod-high_jump: -1 status in the area.
 mod-long_jump: -1 status in the area.
 mod-track: Destroys tracks in the affected area.
 mod-tumble_through: -1 status in the area.
-modified: 20210830164651708
+modified: 20230726200948141
 s-crit: The creature is unaffected and ignores the area’s difficult terrain and penalty to skill checks until the end of its turn.
 s-fail: The creature is affected normally by the spell this turn.
 s-fumble: The creature becomes [[Immobilized]] within the spell’s area until it [[Escape]]s. If the creature was already immobilized by shifting sands, it also falls [[Prone]].
 s-hit: The creature ignores the area’s penalty to skill checks until the end of its turn.
-tags: Spell Somatic Verbal Concentrate Manipulate Earth Transmutation Arcane Primal Material
+tags: Spell Concentrate Manipulate Earth Transmutation Arcane Primal
 title: Shifting Sand
 turn-stn: Creatures on shifting ground must save.
 type: text/vnd.tiddlywiki

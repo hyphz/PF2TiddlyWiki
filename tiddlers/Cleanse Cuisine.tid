@@ -1,0 +1,34 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200722193547767
+m-area: 1 cubic foot
+m-components: Somatic Verbal
+m-duration: 
+m-level: 1
+m-range: 10 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20230726200948126
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Transmutation Divine Primal Concentrate Manipulate
+title: Cleanse Cuisine
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You transform __all food and beverages in the area__ into delicious fare, changing water into wine or another fine beverage or enhancing the food’s taste and ingredients to make it a gourmet treat.
+
+__You can also choose to remove all toxins and contaminations from the food.__
+
+__This spell doesn't prevent future contamination, natural decay, or spoilage, nor does it make the food any more nutritious.__
+
+''Heightened (+1)'' Add another cubic foot to the area, which must be contigous with the rest.
+
+//Remaster: level lowered to 1, works on an area instead of one item, no longer takes a minute to cast, and always removes poisons instead of trying to counteract them.//

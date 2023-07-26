@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 <<tag Undead>>creature
 m-time: 
-modified: 20200730200037940
+modified: 20230726200740955
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Necromancy Positive Spell Cantrip Divine Primal Somatic Verbal Manipulate Concentrate
+tags: Necromancy Positive Spell Cantrip Divine Primal Manipulate Concentrate
 title: Disrupt Undead
 type: text/vnd.tiddlywiki
 

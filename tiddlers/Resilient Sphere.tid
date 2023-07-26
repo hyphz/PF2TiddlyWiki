@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 Large or smaller creature
 m-time: 
-modified: 20200728202312634
+modified: 20230726200741068
 s-crit: The target disrupts the sphere’s integrity, causing it to collapse entirely.
 s-fail: The sphere has its normal effect.
 s-fumble: 
 s-hit: The sphere functions normally but has only 10 Hit Points instead of 40.
-tags: Arcane Occult Spell Somatic Verbal Abjuration Force Manipulate Concentrate
+tags: Arcane Occult Spell Abjuration Force Manipulate Concentrate
 title: Resilient Sphere
 type: text/vnd.tiddlywiki
 

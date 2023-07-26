@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 humanoid creature
 m-time: 
-modified: 20200725153426782
+modified: 20230726200740990
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Enchantment Mental Divine Occult Somatic Verbal Spell Manipulate Concentrate
+tags: Enchantment Mental Divine Occult Spell Manipulate Concentrate
 title: Heroism
 type: text/vnd.tiddlywiki
 

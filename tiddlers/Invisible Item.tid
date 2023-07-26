@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 object
 m-time: 
-modified: 20200805231842595
+modified: 20230726200948134
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Illusion Arcane Occult Material
+tags: Spell Manipulate Illusion Arcane Occult
 title: Invisible Item
 type: text/vnd.tiddlywiki
 

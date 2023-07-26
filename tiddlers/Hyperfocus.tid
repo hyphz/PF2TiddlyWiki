@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200809184622417
+modified: 20230726200740994
 s-crit: The target is unaffected.
 s-fail: The target is affected for 1 minute.
 s-fumble: As failure, but the target cannot percieve anything beyond a range of 10 feet.
 s-hit: The target is affected for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Divination
+tags: Spell Concentrate Manipulate [[Focus Spell]] Divination
 title: Hyperfocus
 type: text/vnd.tiddlywiki
 

@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20211221222612553
+modified: 20230726200740950
 modtag-death: +2 status to saves.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evil Polymorph Transmutation Arcane Divine
+tags: Spell Concentrate Manipulate Evil Polymorph Transmutation Arcane Divine
 title: Daemon Form
 type: text/vnd.tiddlywiki
 

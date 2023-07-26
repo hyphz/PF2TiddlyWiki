@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] creature that is your [[Animal Companion]] or [[Familiar]]
 m-time: 
-modified: 20200805231444547
+modified: 20230726200741043
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Conjuration Extradimensional Arcane Divine Occult Primal
+tags: Spell Manipulate Conjuration Extradimensional Arcane Divine Occult Primal
 title: Pet Cache
 type: text/vnd.tiddlywiki
 

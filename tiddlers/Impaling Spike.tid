@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-modified: 20200801162917022
+modified: 20230726200740995
 s-crit: The target dodges the spike and is unaffected.
 s-fail: The target is impaled through a leg or another non‑vital body part. The creature takes full damage and, if it’s standing on solid ground, becomes immobilized. It can attempt to Escape (the DC is your spell DC). While it remains impaled, it takes damage from any [[Weakness]] to [[Cold Iron]] it has at the end of each of its turns.
 s-fumble: As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is [[Flat-Footed]] as long as it’s impaled.
 s-hit: The target is struck by the spike and takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Arcane Primal
+tags: Spell Concentrate Manipulate Conjuration Arcane Primal
 title: Impaling Spike
 type: text/vnd.tiddlywiki
 

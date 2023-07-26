@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 door no more than 10 feet tall and 5 feet wide
 m-time: 
-modified: 20220423225837886
+modified: 20230726200948138
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Occult Material
+tags: Spell Concentrate Manipulate Abjuration Arcane Occult
 title: Ravenous Portal
 type: text/vnd.tiddlywiki
 

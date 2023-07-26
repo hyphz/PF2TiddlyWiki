@@ -4,8 +4,8 @@ m-level: 4
 m-range: 30 Feet
 m-save: Will
 m-targets: Triggering Creature
-modified: 20200805223833616
-tags: Spell Divine Enchantment Mental Somatic Verbal Concentrate Manipulate
+modified: 20230726200740937
+tags: Spell Divine Enchantment Mental Concentrate Manipulate
 title: Anathematic Reprisal
 type: text/vnd.tiddlywiki
 

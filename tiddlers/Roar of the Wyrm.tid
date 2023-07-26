@@ -14,12 +14,12 @@ m-save: Will
 m-targets: 
 m-time: 
 mod-diplomacy: +2 circumstance vs dragons that hear the roar.
-modified: 20200822180252593
+modified: 20230726200741074
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Frightened]] 2.
 s-fumble: The creature is [[Frightened]] 3 and [[Fleeing]] for 1 round.
 s-hit: The creature is [[Frightened]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Auditory Emotion Enchantment Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Auditory Emotion Enchantment Mental
 title: Roar of the Wyrm
 type: text/vnd.tiddlywiki
 virtual-tags: Fear

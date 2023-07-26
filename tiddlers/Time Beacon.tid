@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20210830164734488
+modified: 20230726200948145
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Manipulate Divination Arcane Occult Material
+tags: Spell Manipulate Divination Arcane Occult
 title: Time Beacon
 turn-euc: User can choose to rewind time.
 type: text/vnd.tiddlywiki

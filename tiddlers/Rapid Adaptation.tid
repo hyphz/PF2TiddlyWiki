@@ -15,12 +15,12 @@ m-time:
 mod-balance: Promote successes on (Arctic: ice/snow, Desert: sand, Mountain: rubble)
 mod-climb: Mountain: not flat-footed when Climbing.
 mod-temperature_effects: Immune to severe or extreme (Arctic: cold, Desert: heat).
-modified: 20220423225644747
+modified: 20230726200741059
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Transmutation Arcane Primal
 title: Rapid Adaptation
 type: text/vnd.tiddlywiki
 

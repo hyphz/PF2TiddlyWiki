@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: Will
 m-targets: Up to 5 creatures
 m-time: 
-modified: 20200722200112688
+modified: 20230726200948129
 s-crit: The target doesn’t believe the statement, and it knows you tried to trick it.
 s-fail: The target believes the statement for a duration of 1 week.
 s-fumble: The target believes the statement with unlimited duration.
 s-hit: The target doesn’t believe the statement or realize you tried to trick it.
-tags: Enchantment Incapacitation Mental Occult Material Somatic Verbal Concentrate Manipulate Spell
+tags: Enchantment Incapacitation Mental Occult Concentrate Manipulate Spell
 title: Fabricated Truth
 type: text/vnd.tiddlywiki
 

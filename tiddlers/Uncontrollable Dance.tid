@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200730225925015
+modified: 20230726200741169
 s-crit: The target is unaffected.
 s-fail: The spell's duration is 1 minute, and the target must spend at least 2 actions each turn dancing.
 s-fumble: The spell's duration is 1 minute, and the target must spend all its actions each turn dancing.
 s-hit: The spell’s duration is 3 rounds, and the target must spend at least 1 action each turn dancing.
-tags: Spell Concentrate Manipulate Enchantment Incapacitation Mental Somatic Verbal Arcane Occult
+tags: Spell Concentrate Manipulate Enchantment Incapacitation Mental Arcane Occult
 title: Uncontrollable Dance
 type: text/vnd.tiddlywiki
 

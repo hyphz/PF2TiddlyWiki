@@ -13,13 +13,13 @@ m-save:
 m-targets: 
 m-time: 
 mod-acid_splash: Innate version splash damage has 15 foot range.
-modified: 20211221221653611
+modified: 20230726200740948
 modtag-acid: Acid spells deal 1 extra damage die.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Acid Polymorph Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Acid Polymorph Transmutation Arcane Primal
 title: Corrosive Body
 type: text/vnd.tiddlywiki
 

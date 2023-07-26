@@ -12,12 +12,12 @@ m-range: "0 feet" (Touch?)
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20200804200910154
+modified: 20230726200948128
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Conjuration Arcane Primal Somatic Verbal Manipulate Concentrate Material
+tags: Spell Conjuration Arcane Primal Manipulate Concentrate
 title: Creation (Spell)
 type: text/vnd.tiddlywiki
 

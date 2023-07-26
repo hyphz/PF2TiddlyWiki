@@ -4,12 +4,12 @@ m-level: 5
 m-range: Touch
 m-save: Fortitude
 m-targets: 1 creature
-modified: 20200805223706157
+modified: 20230726200740935
 s-crit: The target is unaffected.
 s-fail: The target is afflicted with Abyssal Plague at stage 1.
 s-fumble: The target is afflicted with Abyssal Plague at stage 2.
 s-hit: The target takes 2 [[Evil]] damage per spell level, and takes a -2 status penalty to saves against Abyssal Plague for 1 day or until the target contracts it, whichever comes first.
-tags: Spell Chaotic Disease Evil Necromancy Divine Occult Somatic Verbal Concentrate Manipulate
+tags: Spell Chaotic Disease Evil Necromancy Divine Occult Concentrate Manipulate
 title: Abyssal Plague
 type: text/vnd.tiddlywiki
 

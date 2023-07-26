@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200804193216627
+modified: 20230726200948124
 s-crit: The creature disbelieves the illusion and is unaffected by it.
 s-fail: The creature is [[Fascinated]] by the illusion.
 s-fumble: 
 s-hit: The creature is [[Fascinated]] by the wealth until it has completed its first action on its next turn.
-tags: Spell Verbal Concentrate Manipulate [[Focus Spell]] Material Uncommon Cleric Illusion
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Illusion
 title: Appearance of Wealth
 type: text/vnd.tiddlywiki
 

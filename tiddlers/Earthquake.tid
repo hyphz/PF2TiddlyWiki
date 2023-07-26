@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200722191705413
+modified: 20230726200740965
 s-crit: The creature takes half the collapse damage.
 s-fail: The creature takes the full collapse damage and falls [[Prone]].
 s-fumble: The creature takes the full collapse damage and falls into a fissure.
 s-hit: the creature takes half the collapse damage and falls prone.
-tags: Spell Earth Evocation Arcane Primal Somatic Verbal Manipulate Concentrate
+tags: Spell Earth Evocation Arcane Primal Manipulate Concentrate
 title: Earthquake
 type: text/vnd.tiddlywiki
 

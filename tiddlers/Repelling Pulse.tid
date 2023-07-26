@@ -12,12 +12,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220423230218178
+modified: 20230726200741067
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is pushed 10 feet away from you.
 s-fumble: The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [[Prone]].
 s-hit: The creature takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Force Divine Occult
+tags: Spell Concentrate Manipulate Evocation Force Divine Occult
 title: Repelling Pulse
 type: text/vnd.tiddlywiki
 

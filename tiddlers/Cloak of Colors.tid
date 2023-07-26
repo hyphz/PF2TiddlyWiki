@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200719205416006
+modified: 20230726200740946
 s-crit: 
 s-fail: The attacker is [[Blinded]] for 1 round.
 s-fumble: The attacker is [[Stunned]] for 1 round.
 s-hit: The attacker is unaffected.
-tags: Illusion Visual Spell Arcane Occult Somatic Verbal Manipulate Concentrate Incapacitation
+tags: Illusion Visual Spell Arcane Occult Manipulate Concentrate Incapacitation
 title: Cloak of Colors
 turn-etc: Immunity to the hit effect ends.
 turn-stn: Blinding or Stunning from the hit effect ends.

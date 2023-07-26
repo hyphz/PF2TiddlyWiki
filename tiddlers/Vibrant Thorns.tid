@@ -13,13 +13,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200806182136084
+modified: 20230726200741179
 modtag-positive: Casting positive spell gives temp damage increase.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic [[Focus Spell]] Manipulate
+tags: Spell [[Focus Spell]] Manipulate
 title: Vibrant Thorns
 turn-eun: Boosted thorn damage ends.
 type: text/vnd.tiddlywiki

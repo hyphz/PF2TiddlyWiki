@@ -16,12 +16,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220415180027784
+modified: 20230726200741085
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Auditory Illusion Shadow Visual Feat Archetype Uncommon
+tags: Spell Concentrate Manipulate [[Focus Spell]] Auditory Illusion Shadow Visual Feat Archetype Uncommon
 title: Shadow Illusion
 type: text/vnd.tiddlywiki
 

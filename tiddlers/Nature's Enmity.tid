@@ -13,12 +13,12 @@ m-save:
 m-targets: Up to 5 creatures
 m-time: 
 mod-flat-footed: Swarming creatures can cause flat-footed.
-modified: 20230104152038536
+modified: 20230726200741028
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Enchantment Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Enchantment Primal Concentrate Manipulate
 title: Nature's Enmity
 turn-stn: Target in area must check for swarming insects.
 type: text/vnd.tiddlywiki

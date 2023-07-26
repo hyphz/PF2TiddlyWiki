@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-modified: 20200812224137797
+modified: 20230726200740945
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cantrip Cold Conjuration Hex Witch
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cantrip Cold Conjuration Hex Witch
 title: Clinging Ice
 type: text/vnd.tiddlywiki
 

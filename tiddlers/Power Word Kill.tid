@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200727214906262
+modified: 20230726200649341
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Auditory Death Enchantment Mental Arcane Verbal Spell Concentrate
+tags: Uncommon Auditory Death Enchantment Mental Arcane Spell Concentrate
 title: Power Word Kill
 type: text/vnd.tiddlywiki
 

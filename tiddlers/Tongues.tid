@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200730224449313
+modified: 20230726200741163
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Uncommon Arcane Divine Occult
+tags: Spell Concentrate Manipulate Divination Uncommon Arcane Divine Occult
 title: Tongues
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 willing creature
 m-time: 
-modified: 20200724223332443
+modified: 20230726200740974
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Arcane Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Arcane Primal Concentrate Manipulate
 title: Feet to Fins
 type: text/vnd.tiddlywiki
 

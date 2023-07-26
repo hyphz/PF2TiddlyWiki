@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 unattended object of light Bulk or less
 m-time: 
 mod-sustain_a_spell: Can move the object 20 feet when sustained.
-modified: 20200726232849622
+modified: 20230726200741009
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cantrip Evocation Arcane Occult Somatic Verbal Manipulate Concentrate Spell
+tags: Cantrip Evocation Arcane Occult Manipulate Concentrate Spell
 title: Mage Hand
 type: text/vnd.tiddlywiki
 

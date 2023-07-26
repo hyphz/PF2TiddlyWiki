@@ -19,12 +19,12 @@ m-time:
 mod-concealed: Hunted prey still visible and no flat check.
 mod-darkness: Hunted prey still visible.
 mod-invisible: Hunted prey still visible.
-modified: 20201031164126483
+modified: 20230726200649296
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Ranger Class Feat
+tags: Spell Concentrate [[Focus Spell]] Uncommon Divination Ranger Class Feat
 title: Hunter's Vision
 type: text/vnd.tiddlywiki
 

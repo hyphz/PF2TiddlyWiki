@@ -12,12 +12,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20210830164619875
+modified: 20230726200740944
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and takes a –5-foot status penalty to its Speeds for 2 rounds.
 s-fumble: The creature takes double damage and takes a –10-foot status penalty to its Speeds for 2 rounds.
 s-hit: The creature takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Cold Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Cold Evocation Arcane Primal
 title: Chilling Spray
 type: text/vnd.tiddlywiki
 

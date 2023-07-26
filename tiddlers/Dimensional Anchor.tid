@@ -12,13 +12,13 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200808142622668
+modified: 20230726200740954
 modtag-teleportation: Attempts to counter on target.
 s-crit: The target is unaffected.
 s-fail: The effect's duration is 10 minutes.
 s-fumble: The effect's duration is 1 hour.
 s-hit: The effect's duration is 1 minute.
-tags: Abjuration Spell Arcane Divine Occult Somatic Verbal Manipulate Concentrate
+tags: Abjuration Spell Arcane Divine Occult Manipulate Concentrate
 title: Dimensional Anchor
 type: text/vnd.tiddlywiki
 

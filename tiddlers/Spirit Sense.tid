@@ -15,12 +15,12 @@ m-time:
 mod-fortitude: +1 status vs haunts and spirits.
 mod-reflex: +1 status vs haunts and spirits.
 mod-will: +1 status vs haunts and spirits.
-modified: 20200801182052862
+modified: 20230726200741110
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Detection Divination Mental Divine Occult
+tags: Spell Concentrate Manipulate Detection Divination Mental Divine Occult
 title: Spirit Sense
 type: text/vnd.tiddlywiki
 

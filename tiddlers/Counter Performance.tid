@@ -15,12 +15,12 @@ m-time:
 mod-fortitude: Can use Performance result instead.
 mod-reflex: Can use Performance result instead.
 mod-will: Can use Performance result instead.
-modified: 20200803174946162
+modified: 20230726200740948
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Bard Composition Enchantment Fortune Mental Reaction [[Focus Spell]]
+tags: Spell Concentrate Manipulate Uncommon Bard Composition Enchantment Fortune Mental Reaction [[Focus Spell]]
 title: Counter Performance
 type: text/vnd.tiddlywiki
 

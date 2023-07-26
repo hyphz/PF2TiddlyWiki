@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220415174832514
+modified: 20230726200948130
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Concentrate Manipulate Air Evocation Fire Arcane Primal Material Verbal Somatic
+tags: Spell Concentrate Manipulate Air Evocation Fire Arcane Primal
 title: Flame Vortex
 type: text/vnd.tiddlywiki
 

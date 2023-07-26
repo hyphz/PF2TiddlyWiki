@@ -13,13 +13,13 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200809200010502
+modified: 20230726200741037
 modtag-emotion: May disrupt action on flat check or crit fail.
 s-crit: The creature is unaffected.
 s-fail: While the creature is in the area, any <<tag Emotion>> effects of lower counteract level than overflowing sorrow are suppressed, and whenever the creature attempts to use an emotion action or cast an emotion spell, it must succeed at a DC 11 flat check or the action or spell is disrupted.
 s-fumble: As failure, but the creature cannot use emotion actions or spells.
 s-hit: The creature takes a –1 status penalty to skill checks and [[Perception]] checks as long as it remains in the area.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Emotion Enchantment Incapacitation Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Emotion Enchantment Incapacitation Mental
 title: Overflowing Sorrow
 turn-btn: Must make Will save in area.
 type: text/vnd.tiddlywiki

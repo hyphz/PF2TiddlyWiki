@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200729225602228
+modified: 20230726200741104
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Arcane Occult
+tags: Spell Concentrate Manipulate Necromancy Arcane Occult
 title: Spectral Hand
 type: text/vnd.tiddlywiki
 

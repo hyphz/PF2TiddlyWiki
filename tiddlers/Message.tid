@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200727000149604
+modified: 20230726200649318
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Auditory Cantrip Illusion Linguistic Mental Spell Arcane Divine Occult Verbal Concentrate
+tags: Auditory Cantrip Illusion Linguistic Mental Spell Arcane Divine Occult Concentrate
 title: Message
 turn-etn: Opportunity to respond to the message ends.
 type: text/vnd.tiddlywiki

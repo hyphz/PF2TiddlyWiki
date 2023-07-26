@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 willing __creature__
 m-time: 
-modified: 20200730200403692
+modified: 20230726200741009
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Transmutation Spell Primal Somatic Verbal Concentrate Manipulate
+tags: Transmutation Spell Primal Concentrate Manipulate
 title: Magic Fang
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 object
 m-time: 
-modified: 20200801165600710
+modified: 20230726200741035
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Occult
+tags: Spell Concentrate Manipulate Divination Occult
 title: Object Reading
 type: text/vnd.tiddlywiki
 

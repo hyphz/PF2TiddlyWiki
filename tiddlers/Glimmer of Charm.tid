@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20220415174913960
+modified: 20230726200740982
 s-crit: The creature is unaffected and is aware of the aura.
 s-fail: The creature’s attitude toward you improves by two steps. It can’t take [[Hostile Action]]s against you, though the effect ends as soon as you take a hostile action against the creature or its allies.
 s-fumble: The creature’s attitude becomes [[Helpful]] to you, though the effect ends as soon as you take a [[Hostile Action]] against the creature or its allies. While the creature is helpful, it can’t take hostile actions against you.
 s-hit: The creature’s attitude toward you improves by one step. If that improves its attitude to at least [[Indifferent]], it can’t take [[Hostile Action]]s against you, though the effect ends as soon as you take a hostile action against the creature or its allies.
-tags: Spell Somatic Verbal Concentrate Manipulate Aura Emotion Enchantment Incapacitation Mental Arcane Occult Primal
+tags: Spell Concentrate Manipulate Aura Emotion Enchantment Incapacitation Mental Arcane Occult Primal
 title: Glimmer of Charm
 type: text/vnd.tiddlywiki
 

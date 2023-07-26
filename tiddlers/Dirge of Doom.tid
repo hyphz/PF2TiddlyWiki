@@ -15,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-frightened: Can't reduce to below 1 in dirge's emanation.
-modified: 20200830145327121
+modified: 20230726200649265
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Uncommon Bard Composition Emotion Enchantment Fear Mental Cantrip [[Focus Spell]] Feat Class
+tags: Spell Concentrate Uncommon Bard Composition Emotion Enchantment Fear Mental Cantrip [[Focus Spell]] Feat Class
 title: Dirge of Doom
 type: text/vnd.tiddlywiki
 

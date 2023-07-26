@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20211026215925641
+modified: 20230726200948147
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Auditory Illusion Visual Occult Material
+tags: Spell Concentrate Manipulate Auditory Illusion Visual Occult
 title: Visions of Danger
 type: text/vnd.tiddlywiki
 

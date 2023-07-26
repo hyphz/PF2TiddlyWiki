@@ -15,12 +15,12 @@ m-range: [[Touch]] or 30 feet
 m-save: 
 m-targets: Your animal companion
 m-time: 
-modified: 20220415181301758
+modified: 20230726200740989
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger Feat Class
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Healing Necromancy Positive Ranger Feat Class
 title: Heal Companion
 type: text/vnd.tiddlywiki
 

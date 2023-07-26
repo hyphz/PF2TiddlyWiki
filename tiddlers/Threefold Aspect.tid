@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20200805231534327
+modified: 20230726200948145
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Occult Primal Material
+tags: Spell Concentrate Manipulate Polymorph Transmutation Occult Primal
 title: Threefold Aspect
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-counteract: Can't be counteracted by lower or same level effects.
-modified: 20200801163424093
+modified: 20230726200948147
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Force Arcane Occult Material
+tags: Spell Concentrate Manipulate Evocation Force Arcane Occult
 title: Wall of Force
 type: text/vnd.tiddlywiki
 

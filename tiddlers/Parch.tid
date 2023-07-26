@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200809185246014
+modified: 20230726200741039
 s-crit: The target is unaffected.
 s-fail: The target takes a –1 status penalty to its checks and DCs for 1 minute.
 s-fumble: The target takes a –2 status penalty to its checks and DCs for 1 minute and is [[Dazzled]] as long as it has this penalty.
 s-hit: The target takes a –1 status penalty to its checks and DCs for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Air Evocation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Air Evocation
 title: Parch
 type: text/vnd.tiddlywiki
 

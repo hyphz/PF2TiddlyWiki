@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200801165157948
+modified: 20230726200741033
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Poison Arcane Primal
+tags: Spell Concentrate Manipulate Evocation Poison Arcane Primal
 title: Noxious Vapors
 type: text/vnd.tiddlywiki
 

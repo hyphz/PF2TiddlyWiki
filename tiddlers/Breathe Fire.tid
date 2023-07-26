@@ -1,0 +1,17 @@
+created: 20200719182936267
+m-area: 15 foot [[Cone]]
+m-components: Somatic Verbal
+m-level: 1
+m-save: Reflex
+modified: 20230726200740942
+tags: Evocation Fire Spell Arcane Primal Manipulate Concentrate
+title: Breathe Fire
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+__A gout__ of flame __sprays from your mouth__. 
+
+You deal 2d6 fire damage to creatures in the area __with a basic Reflex save__.
+
+''Heightened (+1)'' The damage increases by 2d6.

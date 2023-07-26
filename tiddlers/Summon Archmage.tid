@@ -13,12 +13,12 @@ m-save: Will
 m-targets: 
 m-time: 
 mod-shield: Initial blast can be blocked as magic missile.
-modified: 20220424201038549
+modified: 20230726200948142
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Incarnate Arcane Material
+tags: Spell Concentrate Manipulate Conjuration Incarnate Arcane
 title: Summon Archmage
 type: text/vnd.tiddlywiki
 virtual-tags: Evocation Abjuration Force

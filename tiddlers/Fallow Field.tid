@@ -15,13 +15,13 @@ m-targets:
 m-time: 
 mod-fast_healing: May block healing if Will save failed.
 mod-regeneration: May block healing if Will save failed.
-modified: 20200809184351947
+modified: 20230726200740972
 modtag-healing: May block healing if Will save failed.
 s-crit: The creature regains the full number of Hit Points that would be restored by the healing effect, and is temporarily immune for 1 minute.
 s-fail: The creature regains only half the number of Hit Points that would be restored.
 s-fumble: The creature does not regain Hit Points from the healing effect.
 s-hit: The creature regains the full number of Hit Points that would be restored.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Necromancy Negative
+tags: Spell Concentrate Manipulate [[Focus Spell]] Necromancy Negative
 title: Fallow Field
 type: text/vnd.tiddlywiki
 

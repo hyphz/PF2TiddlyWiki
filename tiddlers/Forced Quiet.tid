@@ -13,13 +13,13 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200806175530760
+modified: 20230726200948130
 modtag-auditory: Target may have to make a Perception check to hear.
 s-crit: The target is unaffected.
 s-fail: The duration is 1 minute.
 s-fumble: The duration is 10 minutes.
 s-hit: The duration is 1 round.
-tags: Spell Somatic Manipulate [[Focus Spell]] Material Uncommon Abjuration Cleric
+tags: Spell Manipulate [[Focus Spell]] Uncommon Abjuration Cleric
 title: Forced Quiet
 type: text/vnd.tiddlywiki
 

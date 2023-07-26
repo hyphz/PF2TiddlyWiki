@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Your [[Eidolon]], or a creature with the <<tag Minion>> trait under your control
 m-time: 
-modified: 20220423224724959
+modified: 20230726200649345
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Abjuration Cantrip Arcane Divine Occult Primal
+tags: Spell Concentrate Abjuration Cantrip Arcane Divine Occult Primal
 title: Protect Companion
 type: text/vnd.tiddlywiki
 

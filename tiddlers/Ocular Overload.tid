@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 10 minutes
-modified: 20220418211050312
+modified: 20230726200948135
 s-crit: The target is unaffected.
 s-fail: The target is [[Blinded]] until the end of the current turn.
 s-fumble: The target is [[Blinded]] until the end of the current turn and [[Dazzled]] for 1 minute.
 s-hit: The target is [[Dazzled]] until the end of the current turn.
-tags: Spell Somatic Verbal Concentrate Manipulate Contingency Illusion Incapacitation Visual Material
+tags: Spell Concentrate Manipulate Contingency Illusion Incapacitation Visual
 title: Ocular Overload
 type: text/vnd.tiddlywiki
 

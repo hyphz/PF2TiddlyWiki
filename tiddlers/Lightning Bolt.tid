@@ -12,12 +12,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200726231621907
+modified: 20230726200741006
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Electricity Evocation Arcane Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Electricity Evocation Arcane Primal Concentrate Manipulate
 title: Lightning Bolt
 type: text/vnd.tiddlywiki
 

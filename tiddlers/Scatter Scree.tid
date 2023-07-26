@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220424193256484
+modified: 20230726200741078
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Earth Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Cantrip Earth Evocation Arcane Primal
 title: Scatter Scree
 type: text/vnd.tiddlywiki
 

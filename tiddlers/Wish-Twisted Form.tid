@@ -14,12 +14,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20210710162611867
+modified: 20230726200741202
 s-crit: The target is unaffected.
 s-fail: The target takes the penalties for 1 minute.
 s-fumble: As failure, and the target takes a -1 status penalty to [[AC]] for the duration.
 s-hit: The target takes the penalties for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Sorcerer Transmutation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Sorcerer Transmutation
 title: Wish-Twisted Form
 type: text/vnd.tiddlywiki
 

@@ -19,12 +19,12 @@ mod-leap: Low Gravity: Double distance. High Gravity: Half distance.
 mod-long_jump: Low Gravity: Double distance. High Gravity: Half distance.
 mod-reflex: High Gravity: +2 status vs forced movement or prone, forced half distance.
 mod-will: High Gravity: +2 status vs forced movement or prone, forced half distance.
-modified: 20220507211522936
+modified: 20230726200741176
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Occult
+tags: Spell Concentrate Manipulate Transmutation Arcane Occult
 title: Variable Gravity
 type: text/vnd.tiddlywiki
 

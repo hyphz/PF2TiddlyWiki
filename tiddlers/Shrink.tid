@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20200729213941976
+modified: 20230726200741095
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Polymorph Transmutation Arcane Primal
 title: Shrink
 type: text/vnd.tiddlywiki
 

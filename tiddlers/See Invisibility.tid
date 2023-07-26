@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-invisible: Makes invisible things only Concealed.
-modified: 20200729203519508
+modified: 20230726200741082
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Revelation Arcane Divine Occult
+tags: Spell Concentrate Manipulate Divination Revelation Arcane Divine Occult
 title: See Invisibility
 type: text/vnd.tiddlywiki
 

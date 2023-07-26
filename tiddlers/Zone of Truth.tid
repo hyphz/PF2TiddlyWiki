@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200731183932618
+modified: 20230726200741207
 s-crit: The target is unaffected.
 s-fail: The target can’t speak any deliberate and intentional lies, and it takes a –2 status penalty to Deception checks.
 s-fumble: The target can’t speak any deliberate and intentional lies and takes a –4 status penalty to Deception checks.
 s-hit: The target takes a –2 status penalty to [[Deception]] checks.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Enchantment Mental Divine Occult
+tags: Spell Concentrate Manipulate Uncommon Enchantment Mental Divine Occult
 title: Zone of Truth
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 5 creatures
 m-time: 1 minute
-modified: 20200731180105278
+modified: 20230726200741195
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Divine Primal
+tags: Spell Concentrate Manipulate Transmutation Arcane Divine Primal
 title: Water Breathing
 type: text/vnd.tiddlywiki
 

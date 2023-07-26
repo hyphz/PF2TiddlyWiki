@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20220418210102820
+modified: 20230726200741030
 s-crit: The target is unaffected.
 s-fail: The target takes full damage and the debilitation lasts for 1 minute.
 s-fumble: The target takes double damage, and you can pick a second debilitation to apply, in addition to the one you rolled randomly. Both debilitations last for 1 minute.
 s-hit: The target takes half damage and the debilitation lasts until the end of your next turn.
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Negative Arcane Divine Primal
+tags: Spell Concentrate Manipulate Necromancy Negative Arcane Divine Primal
 title: Necrotize
 type: text/vnd.tiddlywiki
 

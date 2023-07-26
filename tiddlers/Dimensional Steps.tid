@@ -12,12 +12,12 @@ m-range: 20 feet
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200808142529397
+modified: 20230726200740954
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Conjuration Teleportation Wizard
+tags: Spell Manipulate [[Focus Spell]] Uncommon Conjuration Teleportation Wizard
 title: Dimensional Steps
 type: text/vnd.tiddlywiki
 

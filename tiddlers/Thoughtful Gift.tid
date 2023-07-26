@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 willing creature
 m-time: 
-modified: 20200801182711372
+modified: 20230726200741160
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Conjuration Teleportation Arcane Divine Occult
+tags: Spell Manipulate Conjuration Teleportation Arcane Divine Occult
 title: Thoughtful Gift
 type: text/vnd.tiddlywiki
 

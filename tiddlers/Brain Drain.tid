@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20210515164337235
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Manipulate [[Focus Spell]] Material Somatic Uncommon Cursebound Enchantment Mental Oracle
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cursebound Enchantment Mental Oracle
 title: Brain Drain
 type: text/vnd.tiddlywiki
 

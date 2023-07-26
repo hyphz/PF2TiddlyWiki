@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 1 minute
-modified: 20220423230711907
+modified: 20230726200948139
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Divine Occult Material
+tags: Spell Concentrate Manipulate Transmutation Arcane Divine Occult
 title: Rewinding Step
 type: text/vnd.tiddlywiki
 

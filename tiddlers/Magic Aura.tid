@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 object of 3 bulk or less
 m-time: 1 minute
-modified: 20211026210122087
+modified: 20230726200948135
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Illusion Arcane Occult Spell Material Somatic Verbal Concentrate Manipulate
+tags: Uncommon Illusion Arcane Occult Spell Concentrate Manipulate
 title: Magic Aura
 type: text/vnd.tiddlywiki
 

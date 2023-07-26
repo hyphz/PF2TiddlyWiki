@@ -13,12 +13,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20211128233213964
+modified: 20230726200948129
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 minute. The creature can spend an [[Interact]] action rubbing its eyes to end the blinded condition.
 s-fumble: The creature is [[Blinded]] for 1 round and [[Dazzled]] for 1 hour.
 s-hit: The creature is [[Dazzled]] for 1 round.
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Material Manipulate
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cleric Manipulate
 title: Dazzling Flash
 type: text/vnd.tiddlywiki
 

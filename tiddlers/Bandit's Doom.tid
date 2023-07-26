@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: 1 item of 2 Bulk or less
 m-time: 30 minutes
-modified: 20210929210612782
+modified: 20230726200948125
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is [[Doomed]] 2.
 s-fumble: The creature takes double damage and is [[Doomed]] 3.
 s-hit: The creature takes half damage and is [[Doomed]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Curse Arcane Divine Occult Material
+tags: Spell Concentrate Manipulate Abjuration Curse Arcane Divine Occult
 title: Bandit's Doom
 type: text/vnd.tiddlywiki
 

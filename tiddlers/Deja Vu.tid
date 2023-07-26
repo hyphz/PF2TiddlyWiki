@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200801155226498
+modified: 20230726200740951
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Enchantment Incapacitation Mental Arcane Occult
+tags: Spell Concentrate Manipulate Enchantment Incapacitation Mental Arcane Occult
 title: Deja Vu
 type: text/vnd.tiddlywiki
 

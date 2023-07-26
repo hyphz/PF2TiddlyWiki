@@ -1,0 +1,35 @@
+created: 20230726204302817
+modified: 20230726210302280
+tags: 
+title: Renamed Spells
+type: text/vnd.tiddlywiki
+
+The following spells were renamed in the remaster:
+
+| !Old Name | !New Name |
+| Barkskin | [[Oaken Resilience]] |
+| Burning Hands | [[Breathe Fire]] |
+| Dimension Door | [[Translocate]] |
+| Endure Elements | [[Environmental Endurance]] |
+| Enhance Victuals | [[Cleanse Cuisine]] |
+| Flesh to Stone | [[Petrify]] |
+| Gaseous Form | [[Vapor Form]] |
+| Gentle Repose | [[Peaceful Rest]] |
+| Know Direction | [[Know the Way]] |
+| Longstrider | [[Tailwind]] |
+| Mage Armor | [[Mystic Armor]] |
+| Mage Hand | [[Telekinetic Hand]] |
+| Magic Fang | [[Runic Body]] |
+| Magic Weapon | [[Runic Weapon]] |
+| Plane Shift | [[Interplanar Teleport]] |
+| Scorching Ray | [[Blazing Bolt]] |
+| Stoneskin | [[Mountain Resilience]] |
+| Tongues | [[Truespeech]] |
+
+These remaster spells also vary in significant ways from their originals:
+
+| See Invisibility | [[See the Unseen]] | Also sees incorporeal creatures within solid objects |
+| Meteor Swarm | [[Falling Stars]] | Can choose element, not always fire |
+| Wish | [[Manifestation]] | Only offers spell duplication effects |
+| Entangle | [[Entangling Flora]] | Doesn't require plants/fungi to be already present |
+

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200801145650248
+modified: 20230726200948124
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Arcane Divine Occult Material
+tags: Spell Concentrate Manipulate Necromancy Arcane Divine Occult
 title: Animate Dead
 type: text/vnd.tiddlywiki
 

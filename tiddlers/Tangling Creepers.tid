@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20211026215627948
+modified: 20230726200948145
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Plant Primal Material
+tags: Spell Concentrate Manipulate Conjuration Plant Primal
 title: Tangling Creepers
 type: text/vnd.tiddlywiki
 

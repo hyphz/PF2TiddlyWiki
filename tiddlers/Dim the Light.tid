@@ -14,14 +14,14 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20201122163752656
+modified: 20230726200740953
 modtag-darkness: Can use after spell to hide.
 modtag-shadow: Can use after spell to hide.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Darkness Evocation Sorcerer
+tags: Spell Manipulate [[Focus Spell]] Reaction Uncommon Darkness Evocation Sorcerer
 title: Dim the Light
 turn-euc: Reaction hiding wears off.
 type: text/vnd.tiddlywiki

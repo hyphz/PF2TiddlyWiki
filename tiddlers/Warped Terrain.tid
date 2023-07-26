@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200808150421471
+modified: 20230726200741193
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Illusion Visual Wizard
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Illusion Visual Wizard
 title: Warped Terrain
 type: text/vnd.tiddlywiki
 

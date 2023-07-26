@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220507211852454
+modified: 20230726200948148
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Water Arcane Primal Material
+tags: Spell Concentrate Manipulate Conjuration Water Arcane Primal
 title: Wall of Water
 type: text/vnd.tiddlywiki
 

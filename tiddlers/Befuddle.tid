@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20210830164607116
+modified: 20230726200740939
 s-crit: The target is unaffected.
 s-fail: The target is [[Clumsy]] 2 and [[Stupefied]] 2.
 s-fumble: The target is [[Clumsy]] 3, [[Stupefied]] 3, and [[Confused]].
 s-hit: The target is [[Clumsy]] 1 and [[Stupefied]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate Emotion Enchantment Mental Arcane Error
+tags: Spell Concentrate Manipulate Emotion Enchantment Mental Arcane Error
 title: Befuddle
 type: text/vnd.tiddlywiki
 

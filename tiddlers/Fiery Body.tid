@@ -13,12 +13,12 @@ m-save:
 m-targets: You
 m-time: 
 mod-produce_flame: Allows to be cast with 1 action as an innate spell.
-modified: 20200724223752691
+modified: 20230726200740975
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Fire Polymorph Transmutation Somatic Verbal Arcane Primal Manipulate Concentrate
+tags: Spell Fire Polymorph Transmutation Arcane Primal Manipulate Concentrate
 title: Fiery Body
 type: text/vnd.tiddlywiki
 

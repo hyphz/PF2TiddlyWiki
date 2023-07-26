@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200814214755776
+modified: 20230726200740942
 s-crit: 
 s-fail: The creature is [[Sickened]] 1.
 s-fumble: The creature is [[Sickened]] 2.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Evocation Fire Primal
+tags: Spell Concentrate Manipulate Uncommon Evocation Fire Primal
 title: Breath of Drought
 type: text/vnd.tiddlywiki
 

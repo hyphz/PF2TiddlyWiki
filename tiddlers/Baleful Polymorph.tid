@@ -5,12 +5,12 @@ m-level: 6
 m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 Creature
-modified: 20200805225801532
+modified: 20230726200740939
 s-crit: The target is unaffected.
 s-fail: The target transforms for 1 minute but keeps its mind. If it spends all its actions on its turn concentrating on its original form, it can attempt a [[Will]] save to end the effect immediately.
 s-fumble: The target is transformed into the chosen harmless animal, body and mind, for an unlimited duration.
 s-hit: The target’s body gains minor features of the harmless animal. Its insides churn as they partially transform, causing it to be [[Sickened]] 1. When it recovers from the sickened condition, its features revert to normal.
-tags: Spell Incapacitation Polymorph Transmutation Somatic Verbal Manipulate Concentrate
+tags: Spell Incapacitation Polymorph Transmutation Manipulate Concentrate
 title: Baleful Polymorph
 type: text/vnd.tiddlywiki
 

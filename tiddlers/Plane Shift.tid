@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 1 willing creature, or up to 8 willing creatures joining hands
 m-time: 10 minutes
-modified: 20200727213853934
+modified: 20230726200948136
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Conjuration Teleportation Arcane Divine Occult Primal Material Somatic Verbal Spell Concentrate Manipulate
+tags: Uncommon Conjuration Teleportation Arcane Divine Occult Primal Spell Concentrate Manipulate
 title: Plane Shift
 type: text/vnd.tiddlywiki
 

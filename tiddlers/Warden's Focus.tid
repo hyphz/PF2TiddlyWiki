@@ -2,12 +2,12 @@ created: 20201031164250695
 feat-class: Ranger
 feat-fpre: [[Warden Spells]]
 feat-level: 12
-mod-refocus: Gain 2 focus points instead of 1.
-modified: 20201031164357181
+mod-refocus: Refill entire focus pool.
+modified: 20230726181344908
 tags: Feat Class Ranger
 title: Warden's Focus
 type: text/vnd.tiddlywiki
 
 Your connection with your surroundings grows deeper as you focus. 
 
-If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you [[Refocus]] instead of 1.
+{{RemasterFocus}}

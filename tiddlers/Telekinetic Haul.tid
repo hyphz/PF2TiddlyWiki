@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 __unattended__ object of up to 80 Bulk with no dimension longer than 20 feet
 m-time: 
 mod-sustain_a_spell: Move your target or choose a new target.
-modified: 20211026214714437
+modified: 20230726200741152
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Arcane Occult
+tags: Spell Concentrate Manipulate Evocation Arcane Occult
 title: Telekinetic Haul
 type: text/vnd.tiddlywiki
 

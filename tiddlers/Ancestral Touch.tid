@@ -14,12 +14,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 living creature
 m-time: 
-modified: 20200811001632291
+modified: 20230726200740937
 s-crit: The target is unaffected.
 s-fail: The target is [[Frightened]] 1 and takes full damage.
 s-fumble: The target is [[Frightened]] 2 and takes double damage.
 s-hit: The target takes half damage.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cursebound Emotion Enchantment Fear Mental Oracle
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cursebound Emotion Enchantment Fear Mental Oracle
 title: Ancestral Touch
 type: text/vnd.tiddlywiki
 

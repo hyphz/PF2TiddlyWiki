@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200731172712203
+modified: 20230726200741183
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Primal
+tags: Spell Concentrate Manipulate Evocation Fire Primal
 title: Volcanic Eruption
 type: text/vnd.tiddlywiki
 

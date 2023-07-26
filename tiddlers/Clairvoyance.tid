@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 10 minutes
-modified: 20200719204927097
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Divination Scrying Spell Arcane Occult Material Somatic Verbal Manipulate Concentrate
+tags: Divination Scrying Spell Arcane Occult Manipulate Concentrate
 title: Clairvoyance
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save:
 m-targets: Your [[Eidolon]]
 m-time: 
 mod-impersonate: +4 status and add level, for eidolon to impersonate summoner.
-modified: 20220502175011145
+modified: 20230726200741145
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Polymorph Transmutation Arcane Divine Occult Primal
+tags: Spell Concentrate Manipulate Polymorph Transmutation Arcane Divine Occult Primal
 title: Summoner's Visage
 type: text/vnd.tiddlywiki
 

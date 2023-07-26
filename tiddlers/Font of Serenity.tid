@@ -13,13 +13,13 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200809195531758
+modified: 20230726200740978
 modtag-emotion: +1 status to saves.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Abjuration Emotion Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Abjuration Emotion Mental
 title: Font of Serenity
 type: text/vnd.tiddlywiki
 

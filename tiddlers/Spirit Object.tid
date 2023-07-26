@@ -4,8 +4,8 @@ m-domain: Necromancy
 m-level: 1
 m-range: 30 feet
 m-targets: 1 unattended object up to 1 Bulk
-modified: 20200912170521640
-tags: Rare [[Focus Spell]] Hex Necromancy Witch Cantrip Spell Somatic Verbal Manipulate Concentrate
+modified: 20230726200741109
+tags: Rare [[Focus Spell]] Hex Necromancy Witch Cantrip Spell Manipulate Concentrate
 title: Spirit Object
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-modified: 20200814214924566
+modified: 20230726200741042
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Evocation Water Arcane Primal
+tags: Spell Concentrate Manipulate Uncommon Evocation Water Arcane Primal
 title: Personal Rain Cloud
 type: text/vnd.tiddlywiki
 

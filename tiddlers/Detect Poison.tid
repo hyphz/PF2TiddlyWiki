@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 object or creature
 m-time: 
-modified: 20200720210815048
+modified: 20230726200740952
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Detection Divination Spell Divine Primal Somatic Verbal Manipulate Concentrate
+tags: Uncommon Detection Divination Spell Divine Primal Manipulate Concentrate
 title: Detect Poison
 type: text/vnd.tiddlywiki
 

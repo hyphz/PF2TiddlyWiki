@@ -14,12 +14,12 @@ m-targets: 1 [[Willing]] <<tag Undead>>creature or 1 living creature
 m-time: 
 mod-ac: Maybe -2 status.
 mod-damage_roll: Maybe +2 status.
-modified: 20200803184515851
+modified: 20230726200741164
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Champion Necromancy Negative
+tags: Spell Manipulate [[Focus Spell]] Uncommon Champion Necromancy Negative
 title: Touch of Corruption
 type: text/vnd.tiddlywiki
 

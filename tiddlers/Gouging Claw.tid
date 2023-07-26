@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20220410155750321
+modified: 20230726200740985
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Cantrip Morph Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Attack Cantrip Morph Transmutation Arcane Primal
 title: Gouging Claw
 type: text/vnd.tiddlywiki
 

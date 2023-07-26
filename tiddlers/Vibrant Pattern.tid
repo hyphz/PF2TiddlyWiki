@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200730232310660
+modified: 20230726200741178
 s-crit: 
 s-fail: The creature is [[Blinded]] by the pattern. If it exits the pattern, it can attempt a new save to recover from the blinded condition at the end of each of its turns, to a maximum duration of 1 minute.
 s-fumble: The creature is blinded for 1 minute.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Incapacitation Visual Arcane Occult
+tags: Spell Concentrate Manipulate Illusion Incapacitation Visual Arcane Occult
 title: Vibrant Pattern
 turn-etc: Must save if inside the pattern.
 type: text/vnd.tiddlywiki

@@ -12,12 +12,12 @@ m-range: Touch
 m-save: Will
 m-targets: 1 living creature that has 0 HP
 m-time: 
-modified: 20200730195836305
+modified: 20230726200740951
 s-crit: The target is unaffected.
 s-fail: The target dies.
 s-fumble: 
 s-hit: The target's [[Dying]] value increases by 1.
-tags: Death Necromancy Spell Divine Occult Somatic Verbal Manipulate Concentrate
+tags: Death Necromancy Spell Divine Occult Manipulate Concentrate
 title: Death Knell
 type: text/vnd.tiddlywiki
 

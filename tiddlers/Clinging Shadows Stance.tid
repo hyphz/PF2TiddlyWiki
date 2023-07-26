@@ -17,12 +17,12 @@ m-targets:
 m-time: 
 mod-escape: +2 circumstance DC to escape from your Grapples.
 mod-grapple: +2 circumstance to Grapple.
-modified: 20201017153512910
+modified: 20230726200740945
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Monk Shadow Stance Feat Class
+tags: Spell Manipulate [[Focus Spell]] Uncommon Evocation Monk Shadow Stance Feat Class
 title: Clinging Shadows Stance
 type: text/vnd.tiddlywiki
 

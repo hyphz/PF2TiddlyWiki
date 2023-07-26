@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200804205717634
+modified: 20230726200741099
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Cold Evocation Water Arcane Primal
+tags: Spell Concentrate Manipulate Attack Cold Evocation Water Arcane Primal
 title: Snowball
 type: text/vnd.tiddlywiki
 

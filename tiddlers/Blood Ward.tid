@@ -16,12 +16,12 @@ m-time:
 mod-fortitude: +1 status vs named creature type.
 mod-reflex: +1 status vs named creature type.
 mod-will: +1 status vs named creature type.
-modified: 20200812223812288
+modified: 20230726200740941
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Hex Witch
+tags: Spell Manipulate [[Focus Spell]] Uncommon Abjuration Hex Witch
 title: Blood Ward
 type: text/vnd.tiddlywiki
 

@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200808145058804
+modified: 20230726200649307
 modtag-necromancy: Caster can use to heal themselves after casting.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Healing Necromancy Wizard Reaction
+tags: Spell Concentrate [[Focus Spell]] Uncommon Healing Necromancy Wizard Reaction
 title: Life Siphon
 type: text/vnd.tiddlywiki
 

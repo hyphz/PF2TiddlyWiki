@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200729195233378
+modified: 20230726200741079
 s-crit: 
 s-fail: The creature is [[Confused]] for 1d4 rounds.
 s-fumble: The creature is [[Stunned]] for 1d4 rounds. After the stunned condition ends, the creature is [[Confused]] for the remaining duration of the spell.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Occult Illusion Incapacitation Visual
+tags: Spell Concentrate Manipulate Arcane Occult Illusion Incapacitation Visual
 title: Scintillating Pattern
 turn-etc: Must make a Will save if inside pattern.
 type: text/vnd.tiddlywiki

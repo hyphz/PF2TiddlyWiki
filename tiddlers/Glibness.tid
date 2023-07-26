@@ -14,12 +14,12 @@ m-targets: You
 m-time: 
 mod-lie: Gives +4 status and halves circumstance penalties.
 mod-perception: Gives +4 status to DCs to sense lies.
-modified: 20200725140705879
+modified: 20230726200740982
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Enchantment Mental Spell Occult Somatic Verbal Concentrate Manipulate
+tags: Uncommon Enchantment Mental Spell Occult Concentrate Manipulate
 title: Glibness
 type: text/vnd.tiddlywiki
 

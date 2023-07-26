@@ -15,12 +15,12 @@ m-range: Touch
 m-save: 
 m-targets: You or one weapon you're wielding
 m-time: 
-modified: 20221023224545992
+modified: 20230726200741075
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Evocation Magus Class Feat
+tags: Spell Manipulate [[Focus Spell]] Uncommon Evocation Magus Class Feat
 title: Runic Impression
 type: text/vnd.tiddlywiki
 

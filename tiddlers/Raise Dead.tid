@@ -12,12 +12,12 @@ m-range: 10 feet
 m-save: 
 m-targets: 1 dead creature of 13th level or lower
 m-time: 10 minutes
-modified: 20200728200514843
+modified: 20230726200948137
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Healing Necromancy Divine Material Somatic Verbal Spell Concentrate Manipulate
+tags: Uncommon Healing Necromancy Divine Spell Concentrate Manipulate
 title: Raise Dead
 type: text/vnd.tiddlywiki
 

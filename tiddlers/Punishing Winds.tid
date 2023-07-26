@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200728193213436
+modified: 20230726200948137
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Air Evocation Primal Material Somatic Verbal Spell Concentrate Manipulate
+tags: Air Evocation Primal Spell Concentrate Manipulate
 title: Punishing Winds
 turn-etc: Descend 20 feet if flying in cyclone.
 type: text/vnd.tiddlywiki

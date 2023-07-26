@@ -15,12 +15,12 @@ m-targets:
 m-time: 
 mod-recall_knowledge: Can give best of 2 rolls.
 mod-seek: Can give best of 2 rolls.
-modified: 20200806171912796
+modified: 20230726200649363
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Reaction Uncommon Cleric Divination Fortune
+tags: Spell Concentrate [[Focus Spell]] Reaction Uncommon Cleric Divination Fortune
 title: Scholarly Recollection
 type: text/vnd.tiddlywiki
 

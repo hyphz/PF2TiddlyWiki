@@ -12,7 +12,7 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20230104154753917
+modified: 20230726200741097
 modtag-auditory: Can't use in affected area.
 modtag-sonic: Can't use attacks in affected area.
 modtag-verbal: Can't cast in affected area.
@@ -20,7 +20,7 @@ s-crit:
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Divine Occult
+tags: Spell Concentrate Manipulate Illusion Divine Occult
 title: Silence
 type: text/vnd.tiddlywiki
 

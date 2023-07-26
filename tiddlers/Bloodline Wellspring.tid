@@ -1,13 +1,7 @@
 created: 20201122154056114
-feat-class: Sorcerer
-feat-fpre: [[Bloodline Focus]]
-feat-level: 18
-mod-refocus: Gain 3 points instead of 1.
-modified: 20201122154137473
-tags: Feat Sorcerer Class Divine
+modified: 20230726181412523
+tags: 
 title: Bloodline Wellspring
 type: text/vnd.tiddlywiki
 
-Your blood’s power replenishes your focus. 
-
-If you have spent at least 3 Focus Points since the last time you [[Refocus]]ed, you recover 3 Focus Points when you Refocus instead of 1.
+{{RemasterWellspringGone}}

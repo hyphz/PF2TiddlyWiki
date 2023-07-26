@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: AC
 m-targets: 1 creature
 m-time: 
-modified: 20200722110742117
+modified: 20230726200740956
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Attack Evocation Somatic Verbal Manipulate Concentrate Spell Cantrip
+tags: Attack Evocation Manipulate Concentrate Spell Cantrip
 title: Divine Lance
 type: text/vnd.tiddlywiki
 

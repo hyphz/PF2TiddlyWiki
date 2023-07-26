@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200912171123088
+modified: 20230726200740938
 s-crit: The target is unaffected.
 s-fail: The target is [[Stupefied]] 2 and moves toward the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way.
 s-fumble: The target is [[Stupefied]] 4 and moves to the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. If the creature reaches the destination, it must remain in that location for 1d4 rounds but can otherwise act normally.
 s-hit: The target is distracted by the tantalizing scents, becoming [[Stupefied]] 1 for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Rare Emotion Enchantment Incapacitation Mental Arcane Occult
+tags: Spell Concentrate Manipulate Rare Emotion Enchantment Incapacitation Mental Arcane Occult
 title: Aromatic Lure
 type: text/vnd.tiddlywiki
 

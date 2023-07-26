@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200814001141142
+modified: 20230726200741070
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Hex Necromancy Witch
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Hex Necromancy Witch
 title: Restorative Moment
 type: text/vnd.tiddlywiki
 

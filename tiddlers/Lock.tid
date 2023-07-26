@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 lock, or a door or container with a latch
 m-time: 
-modified: 20220622205242872
+modified: 20230726200741007
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Abjuration Arcane Divine Occult Somatic Verbal Concentrate Manipulate
+tags: Spell Abjuration Arcane Divine Occult Concentrate Manipulate
 title: Lock
 type: text/vnd.tiddlywiki
 

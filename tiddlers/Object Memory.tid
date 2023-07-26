@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 weapon or tool
 m-time: 
-modified: 20200809212437503
+modified: 20230726200741034
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Divination
+tags: Spell Concentrate Manipulate [[Focus Spell]] Divination
 title: Object Memory
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range: 15 feet
 m-save: 
 m-targets: 1 item or work of art that fits entirely within the range
 m-time: 
-modified: 20200804202328437
+modified: 20230726200948125
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Material Uncommon Cleric Transmutation
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
 title: Artistic Flourish
 type: text/vnd.tiddlywiki
 

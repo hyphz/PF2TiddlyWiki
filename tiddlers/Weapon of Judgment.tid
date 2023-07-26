@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200731180508040
+modified: 20230726200741195
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Force Divine
+tags: Spell Concentrate Manipulate Evocation Force Divine
 title: Weapon of Judgment
 type: text/vnd.tiddlywiki
 

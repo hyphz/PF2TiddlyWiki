@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20220410154534815
+modified: 20230726200740981
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is pushed 5 feet away from you.
 s-fumble: The creature takes double damage and is pushed 10 feet away from you.
 s-hit: The creature takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Air Cantrip Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Air Cantrip Evocation Arcane Primal
 title: Gale Blast
 type: text/vnd.tiddlywiki
 

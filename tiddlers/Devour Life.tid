@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200815144234797
+modified: 20230726200740953
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Death Healing Necromancy Negative Divine Occult
+tags: Spell Concentrate Manipulate Uncommon Death Healing Necromancy Negative Divine Occult
 title: Devour Life
 type: text/vnd.tiddlywiki
 

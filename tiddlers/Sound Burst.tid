@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200801151704918
+modified: 20230726200741103
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is [[Deafened]] for 1 round.
 s-fumble: The creature takes double damage and is [[Deafened]] __for 1 minute__ and [[Stunned]] 1.
 s-hit: The creature takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Divine Occult Evocation Sonic
+tags: Spell Concentrate Manipulate Divine Occult Evocation Sonic
 title: Sound Burst
 type: text/vnd.tiddlywiki
 

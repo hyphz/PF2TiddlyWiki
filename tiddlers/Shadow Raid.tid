@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex Will
 m-targets: 
 m-time: 
-modified: 20220424194715965
+modified: 20230726200948140
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Shadow Arcane Occult Material
+tags: Spell Concentrate Manipulate Illusion Shadow Arcane Occult
 title: Shadow Raid
 type: text/vnd.tiddlywiki
 

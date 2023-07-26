@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 living creature
 m-time: 
-modified: 20200801174025209
+modified: 20230726200741081
 s-crit: The target is unaffected.
 s-fail: As success, but the duration is 1 minute. If the creature is reduced to 0 HP by the chosen damage and its level is 7 or less, it dies.
 s-fumble: As failure, but the duration is unlimited.
 s-hit: The target gains [[Weakness]] 2 to the chosen damage type until the end of your next turn.
-tags: Spell Somatic Verbal Concentrate Manipulate Curse Death Necromancy Arcane Divine Occult
+tags: Spell Concentrate Manipulate Curse Death Necromancy Arcane Divine Occult
 title: Seal Fate
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range: 30 foot
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200805174528146
+modified: 20230726200740952
 s-crit: The target is unaffected.
 s-fail: The duration is 10 minutes.
 s-fumble: The duratian is 24 hours.
 s-hit: The duration is 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Mental
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Mental
 title: Delusional Pride
 turn-etc: Penalty to rolls wears off.
 type: text/vnd.tiddlywiki

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 corporeal creature
 m-time: 
-modified: 20211026215356841
+modified: 20230726200740996
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+tags: Evocation Spell Arcane Primal Manipulate Concentrate
 title: Implosion
 type: text/vnd.tiddlywiki
 

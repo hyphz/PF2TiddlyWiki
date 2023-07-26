@@ -12,12 +12,12 @@ m-range: Range
 m-save: Fortitude
 m-targets: 1 living creature or 1 willing undead creature
 m-time: 
-modified: 20200730200148183
+modified: 20230726200948131
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Necromancy Negative Divine Spell Somatic Verbal Concentrate Material Manipulate
+tags: Necromancy Negative Divine Spell Concentrate Manipulate
 title: Harm
 type: text/vnd.tiddlywiki
 

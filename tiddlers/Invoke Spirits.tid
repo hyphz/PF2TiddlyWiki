@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20220410170934631
+modified: 20230726200741000
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Emotion Fear Mental Necromancy Arcane Divine Occult
+tags: Spell Concentrate Manipulate Emotion Fear Mental Necromancy Arcane Divine Occult
 title: Invoke Spirits
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200730214508863
+modified: 20230726200948142
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Material Arcane Primal
+tags: Spell Concentrate Manipulate Conjuration Arcane Primal
 title: Summon Animal
 type: text/vnd.tiddlywiki
 

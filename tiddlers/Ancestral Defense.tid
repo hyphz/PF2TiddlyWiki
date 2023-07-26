@@ -15,12 +15,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-will: Can allow best of 2 rolls.
-modified: 20200811001109948
+modified: 20230726200740937
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Abjuration Cursebound Fortune Mental Oracle Reaction
+tags: Spell Manipulate [[Focus Spell]] Uncommon Abjuration Cursebound Fortune Mental Oracle Reaction
 title: Ancestral Defense
 type: text/vnd.tiddlywiki
 

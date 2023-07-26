@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 corporeal creature
 m-time: 
-modified: 20210824164544695
+modified: 20230726200741203
 s-crit: The worms writhe away harmlessly and the target takes no damage.
 s-fail: The target takes full initial and persistent damage and is [[Flat-Footed]] due to the pain for as long as it takes persistent damage.
 s-fumble: As failure, but the target takes double the initial damage and is also [[Slowed]] 1 by the pain for as long as it takes persistent damage.
 s-hit: The target takes full initial damage but no persistent damage, and the spell ends immediately.
-tags: Spell Somatic Verbal Concentrate Manipulate Rare Necromancy Occult Primal
+tags: Spell Concentrate Manipulate Rare Necromancy Occult Primal
 title: Worm's Repast
 type: text/vnd.tiddlywiki
 

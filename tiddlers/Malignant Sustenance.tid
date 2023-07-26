@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 [[Willing]] undead creature
 m-time: 
-modified: 20200805202443405
+modified: 20230726200741013
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]]
+tags: Spell Concentrate Manipulate [[Focus Spell]]
 title: Malignant Sustenance
 type: text/vnd.tiddlywiki
 

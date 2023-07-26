@@ -12,12 +12,12 @@ m-range: 100 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220502172721345
+modified: 20230726200948143
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Incarnate Arcane Material
+tags: Spell Concentrate Manipulate Conjuration Incarnate Arcane
 title: Summon Draconic Legion
 type: text/vnd.tiddlywiki
 virtual-tags: Evocation

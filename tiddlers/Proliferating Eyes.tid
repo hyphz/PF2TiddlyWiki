@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20220423224510293
+modified: 20230726200741052
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Scrying Arcane Divine Occult
+tags: Spell Concentrate Manipulate Divination Scrying Arcane Divine Occult
 title: Proliferating Eyes
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200722111440438
+modified: 20230726200740956
 s-crit: The creature is unaffected.
 s-fail: The creatures takes full damage and is [[Sickened]] 1.
 s-fumble: The creature takes full damage and is [[Sickened]] 2. While it is sickened, it is also [[Slowed]] 1.
 s-hit: The creature takes half damage.
-tags: Evocation Spell Divine Somatic Verbal Manipulate Concentrate
+tags: Evocation Spell Divine Manipulate Concentrate
 title: Divine Wrath
 type: text/vnd.tiddlywiki
 

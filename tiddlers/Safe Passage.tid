@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200801172751780
+modified: 20230726200948139
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Primal Material
+tags: Spell Concentrate Manipulate Arcane Divine Primal
 title: Safe Passage
 type: text/vnd.tiddlywiki
 

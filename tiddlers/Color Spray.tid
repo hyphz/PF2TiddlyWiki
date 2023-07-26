@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200719210200052
+modified: 20230726200740946
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Stunned]] 1, [[Blinded]] for 1 round, and [[Dazzled]] for 1 minute.
 s-fumble: The creature is [[Stunned]] for 1 round and [[Blinded]] for 1 minute.
 s-hit: The creature is [[Dazzled]] for 1 round.
-tags: Illusion Incapacitation Visual Spell Arcane Occult Somatic Verbal Manipulate Concentrate
+tags: Illusion Incapacitation Visual Spell Arcane Occult Manipulate Concentrate
 title: Color Spray
 turn-eun: Short-term conditions end.
 type: text/vnd.tiddlywiki

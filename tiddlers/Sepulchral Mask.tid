@@ -14,13 +14,13 @@ m-range:
 m-save: Will
 m-targets: Enemies in the area
 m-time: 
-modified: 20201122163342563
+modified: 20230726200741083
 modtag-emotion: Can give +/-1 status to Will saves.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Divination Emotion Mental Sorcerer Visual
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Divination Emotion Mental Sorcerer Visual
 title: Sepulchral Mask
 type: text/vnd.tiddlywiki
 

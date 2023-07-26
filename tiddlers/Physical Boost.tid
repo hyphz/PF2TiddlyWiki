@@ -16,12 +16,12 @@ mod-acrobatics: +2 status to one check.
 mod-athletics: +2 status to one check.
 mod-fortitude: +2 status to one check.
 mod-reflex: +2 status to one check.
-modified: 20200808145407553
+modified: 20230726200649339
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Transmutation Wizard
+tags: Spell Concentrate [[Focus Spell]] Uncommon Transmutation Wizard
 title: Physical Boost
 turn-etn: Wears off.
 type: text/vnd.tiddlywiki

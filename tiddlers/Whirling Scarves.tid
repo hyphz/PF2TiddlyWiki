@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-concealed: Increases ranged attack flat DC.
-modified: 20200802233207463
+modified: 20230726200741198
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Force Divine Occult
+tags: Spell Concentrate Manipulate Abjuration Force Divine Occult
 title: Whirling Scarves
 type: text/vnd.tiddlywiki
 

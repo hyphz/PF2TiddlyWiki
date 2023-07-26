@@ -12,13 +12,13 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200809204517516
+modified: 20230726200740956
 modtag-spell: +1 status on saves.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Morph Transmutation Polymorph Divine Somatic Verbal Spell Manipulate Concentrate
+tags: Morph Transmutation Polymorph Divine Spell Manipulate Concentrate
 title: Divine Vessel
 type: text/vnd.tiddlywiki
 

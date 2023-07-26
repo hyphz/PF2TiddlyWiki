@@ -15,12 +15,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 weapon without an unholy rune that is unattended or wielded by you or a willing ally
 m-time: 
-modified: 20211027145005224
+modified: 20230726200741146
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Fire Good Feat Archetype
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Evocation Fire Good Feat Archetype
 title: Sun's Fury
 type: text/vnd.tiddlywiki
 

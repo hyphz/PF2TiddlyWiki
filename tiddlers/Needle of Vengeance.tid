@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 enemy
 m-time: 
-modified: 20200814000617208
+modified: 20230726200741031
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Enchantment Hex Mental Witch
+tags: Spell Manipulate [[Focus Spell]] Uncommon Enchantment Hex Mental Witch
 title: Needle of Vengeance
 type: text/vnd.tiddlywiki
 

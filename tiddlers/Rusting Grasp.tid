@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Fortitude Reflex
 m-targets: 1 metal creature, 1 non-magical metal hazard, or 1 non-magical metal item of up to 1 Bulk
 m-time: 
-modified: 20200801172431509
+modified: 20230726200741076
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Primal
+tags: Spell Concentrate Manipulate Transmutation Primal
 title: Rusting Grasp
 type: text/vnd.tiddlywiki
 

@@ -14,12 +14,12 @@ m-targets: 1 creature
 m-time: 
 mod-flanked: Prevents flanking.
 mod-seek: Seek in 30 foot burst or four 15 foot bursts.
-modified: 20200801154113225
+modified: 20230726200740948
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Arcane Occult Primal
+tags: Spell Concentrate Manipulate Divination Arcane Occult Primal
 title: Countless Eyes
 type: text/vnd.tiddlywiki
 

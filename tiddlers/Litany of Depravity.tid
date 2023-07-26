@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 <<tag Good>> creature
 m-time: 
-modified: 20200905200721373
+modified: 20230726200649310
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Champion Evocation Litany Evil Class Feat
+tags: Spell Concentrate [[Focus Spell]] Uncommon Champion Evocation Litany Evil Class Feat
 title: Litany of Depravity
 type: text/vnd.tiddlywiki
 

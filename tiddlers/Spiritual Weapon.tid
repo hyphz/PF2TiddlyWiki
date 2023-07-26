@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Attack again with weapon when sustained.
-modified: 20211026214759431
+modified: 20230726200741114
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Evocation Force Divine Occult
+tags: Spell Concentrate Manipulate Attack Evocation Force Divine Occult
 title: Spiritual Weapon
 type: text/vnd.tiddlywiki
 

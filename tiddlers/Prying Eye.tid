@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 1 minute
 mod-sustain_a_spell: Move eye when sustained.
-modified: 20200728192903824
+modified: 20230726200948137
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Divination Scrying Arcane Divine Occult Material Somatic Verbal Manipulate Concentrate
+tags: Spell Divination Scrying Arcane Divine Occult Manipulate Concentrate
 title: Prying Eye
 type: text/vnd.tiddlywiki
 

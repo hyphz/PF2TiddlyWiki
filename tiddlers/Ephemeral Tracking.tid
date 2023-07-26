@@ -19,12 +19,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-track: Can track through air and water at min DC 30.
-modified: 20201031163443668
+modified: 20230726200740970
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Divination Ranger Class Feat
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Divination Ranger Class Feat
 title: Ephemeral Tracking
 type: text/vnd.tiddlywiki
 

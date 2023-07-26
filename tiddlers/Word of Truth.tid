@@ -14,12 +14,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Speak a new truth and have it endorsed.
-modified: 20200806181828309
+modified: 20230726200649440
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]]
+tags: Spell Concentrate [[Focus Spell]]
 title: Word of Truth
 type: text/vnd.tiddlywiki
 

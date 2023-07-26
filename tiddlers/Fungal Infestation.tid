@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200801161326125
+modified: 20230726200740980
 s-crit: The creature is unaffected.
 s-fail: The target takes the full persistent poison damage. While it is taking this persistent poison damage, it has [[Weakness]] 1 to <<tag Fire>> and weakness 1 to slashing.
 s-fumble: As failure, but double the persistent poison damage. While it is taking this persistent poison damage, it has weakness 2 to fire and weakness 2 to slashing.
 s-hit: The target takes half the persistent poison damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Primal
+tags: Spell Concentrate Manipulate Conjuration Primal
 title: Fungal Infestation
 type: text/vnd.tiddlywiki
 

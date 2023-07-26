@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-counterspell: Can use Quench to counter any fire spell.
 mod-sustain_a_spell: Move the vapor and put out non-magical fires.
-modified: 20220415180437438
+modified: 20230726200741058
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Water Primal
+tags: Spell Concentrate Manipulate Abjuration Water Primal
 title: Quench
 type: text/vnd.tiddlywiki
 

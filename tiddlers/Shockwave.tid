@@ -12,12 +12,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200802231730928
+modified: 20230726200741094
 s-crit: The creature is unaffected.
 s-fail: The creature falls [[Prone]].
 s-fumble: As failure, plus the creature takes 1d6 damage.
 s-hit: The creature is [[Flat-Footed]] until the start of its next turn.
-tags: Spell Somatic Verbal Concentrate Manipulate Earth Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Earth Evocation Arcane Primal
 title: Shockwave
 type: text/vnd.tiddlywiki
 

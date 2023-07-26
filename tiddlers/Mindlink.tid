@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 willing creature
 m-time: 
-modified: 20200727001603474
+modified: 20230726200741019
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Divination Mental Occult Somatic Verbal Concentrate Manipulate
+tags: Spell Divination Mental Occult Concentrate Manipulate
 title: Mindlink
 type: text/vnd.tiddlywiki
 

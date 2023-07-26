@@ -12,13 +12,13 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220622205149354
+modified: 20230726200740954
 modtag-teleportation: Attempts to counter effects.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Abjuration Arcane Divine Occult Somatic Verbal Manipulate Concentrate Spell
+tags: Uncommon Abjuration Arcane Divine Occult Manipulate Concentrate Spell
 title: Dimensional Lock
 type: text/vnd.tiddlywiki
 

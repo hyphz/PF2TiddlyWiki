@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220423224857602
+modified: 20230726200741053
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Plant Primal
+tags: Spell Concentrate Manipulate Conjuration Plant Primal
 title: Protector Tree
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220214233250914
+modified: 20230726200948130
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Poison Arcane Primal Material
+tags: Spell Concentrate Manipulate Conjuration Poison Arcane Primal
 title: Flammable Fumes
 type: text/vnd.tiddlywiki
 

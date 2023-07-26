@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 5-foot-wide, 10-foot-tall, 10-foot-deep section of wooden, plaster, or stone wall
 m-time: 
-modified: 20200727212326657
+modified: 20230726200741040
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Conjuration Earth Arcane Primal Somatic Verbal Concentrate Manipulate Spell
+tags: Uncommon Conjuration Earth Arcane Primal Concentrate Manipulate Spell
 title: Passwall
 type: text/vnd.tiddlywiki
 

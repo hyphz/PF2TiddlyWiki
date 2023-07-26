@@ -14,12 +14,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20210710162556150
+modified: 20230726200740989
 s-crit: The target disbelieves the illusion and is unaffected.
 s-fail: For 1 minute, the target is [[Stupefied]] 2 and can’t use reactions.
 s-fumble: As failure, and all spaces are [[Difficult Terrain]] for the target.
 s-hit: For 1 round, the target is [[Stupefied]] 2 and takes a –2 status penalty to any checks it makes to determine the effects of reactions.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Emotion Illusion Mental Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Emotion Illusion Mental Sorcerer
 title: Heart's Desire
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 magic item
 m-time: 
-modified: 20200720222357480
+modified: 20230726200740954
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Abjuration Arcane Primal Verbal Somatic Spell Concentrate Manipulate
+tags: Uncommon Abjuration Arcane Primal Spell Concentrate Manipulate
 title: Disjunction
 type: text/vnd.tiddlywiki
 

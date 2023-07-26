@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-concealed: Ignores flat check to attack.
 mod-hidden: Ignores flat check to attack.
-modified: 20200730225459403
+modified: 20230726200649416
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Divination Fortune Arcane Occult
+tags: Spell Concentrate Divination Fortune Arcane Occult
 title: True Strike
 turn-euc: Bonus to attack rolls wears off.
 type: text/vnd.tiddlywiki

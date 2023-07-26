@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200830153238150
+modified: 20230726200649280
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Bard Composition Death Emotion Enchantment Mental Feat Class
+tags: Spell Concentrate [[Focus Spell]] Uncommon Bard Composition Death Emotion Enchantment Mental Feat Class
 title: Fatal Aria
 type: text/vnd.tiddlywiki
 

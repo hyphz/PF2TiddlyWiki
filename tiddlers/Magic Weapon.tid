@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 weapon that is unattended or wielded by you or a willing ally
 m-time: 
-modified: 20211026215107665
+modified: 20230726200741011
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Transmutation Arcane Divine Occult Somatic Verbal Concentrate Manipulate
+tags: Spell Transmutation Arcane Divine Occult Concentrate Manipulate
 title: Magic Weapon
 type: text/vnd.tiddlywiki
 

@@ -6,12 +6,12 @@ m-range: Planetary
 m-save: Will
 m-targets: 1 creature
 m-time: 10 minutes
-modified: 20200729195658607
+modified: 20230726200948140
 s-crit: The spell fails and the target is temporarily immune for 1 week. The target also gains a glimpse of you and learns its rough distance and direction from you.
 s-fail: The spell succeeds.
 s-fumble: The spell succeeds, and the eye follows the target if it moves, traveling up to 60 feet per round.
 s-hit: The spell fails and the target is temporarily immune for 1 day.
-tags: Uncommon Divination Arcane Occult Material Somatic Verbal Spell Concentrate Manipulate Scrying
+tags: Uncommon Divination Arcane Occult Spell Concentrate Manipulate Scrying
 title: Scrying
 type: text/vnd.tiddlywiki
 

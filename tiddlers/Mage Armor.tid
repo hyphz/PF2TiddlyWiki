@@ -15,12 +15,12 @@ m-time:
 mod-fortitude: Gives +1/+2/+3 item bonus.
 mod-reflex: Gives +1/+2/+3 item bonus.
 mod-will: Gives +1/+2/+3 item bonus.
-modified: 20200726232628063
+modified: 20230726200741009
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Abjuration Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Abjuration Spell Arcane Occult Concentrate Manipulate
 title: Mage Armor
 type: text/vnd.tiddlywiki
 

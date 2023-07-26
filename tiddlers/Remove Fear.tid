@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200728201536041
+modified: 20230726200741067
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Somatic Verbal Enchantment Divine Occult Primal Spell Concentrate Manipulate
+tags: Enchantment Divine Occult Primal Spell Concentrate Manipulate
 title: Remove Fear
 type: text/vnd.tiddlywiki
 

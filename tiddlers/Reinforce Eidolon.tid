@@ -15,12 +15,12 @@ m-range: 100 feet
 m-save: 
 m-targets: Your Eidolon
 m-time: 
-modified: 20221023231445573
+modified: 20230726200649352
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration Cantrip Summoner Class Feat
+tags: Spell Concentrate [[Focus Spell]] Uncommon Abjuration Cantrip Summoner Class Feat
 title: Reinforce Eidolon
 type: text/vnd.tiddlywiki
 

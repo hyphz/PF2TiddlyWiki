@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Your [[Companion|Animal Companions]] or [[Eidolon]]
 m-time: 
-modified: 20211223224546472
+modified: 20230726200740970
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Primal Necromancy Poison
+tags: Spell Concentrate Manipulate Primal Necromancy Poison
 title: Envenom Companion
 type: text/vnd.tiddlywiki
 

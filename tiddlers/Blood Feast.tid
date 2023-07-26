@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creeature
 m-time: 
-modified: 20200814221611677
+modified: 20230726200740941
 s-crit: The creature takes double damage and 1d8 persistent bleed damage.
 s-fail: You miss and the creature takes no damage.
 s-fumble: 
 s-hit: The creature takes full damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Necromancy Arcane Divine Occult
+tags: Spell Concentrate Manipulate Uncommon Necromancy Arcane Divine Occult
 title: Blood Feast
 type: text/vnd.tiddlywiki
 

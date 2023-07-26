@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 1 creature that is either taller than you or higher in the air than you
 m-time: 
-modified: 20220410154955764
+modified: 20230726200740958
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Primal Electricity Evocation
+tags: Spell Concentrate Manipulate Arcane Primal Electricity Evocation
 title: Draw the Lightning
 type: text/vnd.tiddlywiki
 

@@ -1,5 +1,5 @@
 created: 20200731183338076
-modified: 20220410154920288
+modified: 20230726192242201
 sort-order: m-level
 tag-filter: Spell
 tags: Rule
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 //Spells are magical effects.//
 
-Sort by: <$button set="!!sort-order" setTo="title">Name</$button> <$button set="!!sort-order" setTo="m-level">Level</$button>
+Sort by: <$button set="!!sort-order" setTo="title">Name</$button> <$button set="!!sort-order" setTo="m-level">Rank</$button>
 
 Show:  <$button set="!!tag-filter" setTo="Spell">All</$button>, or only
 <$button set="!!tag-filter" setTo="Arcane">Arcane</$button>
@@ -17,7 +17,7 @@ Show:  <$button set="!!tag-filter" setTo="Spell">All</$button>, or only
 <$button set="!!tag-filter" setTo="Primal">Primal</$button>
 
 <table>
-<tr><th>Spell</th><th>Level</th><th>Arcane</th><th>Divine</th><th>Occult</th><th>Primal</th><th>Focus</th></tr>
+<tr><th>Spell</th><th>Rank</th><th>Arcane</th><th>Divine</th><th>Occult</th><th>Primal</th><th>Focus</th></tr>
 <$list filter="[tag[Spell]tag{!!tag-filter}sortan{!!sort-order}]">
 <tr><th align="left"><$link/></th><td>{{!!m-level}}</td>
 <td><$list filter="[all[current]tag[Arcane]]">✓</$list></td>

@@ -14,12 +14,12 @@ m-targets:
 m-time: 
 mod-charisma: May give +1 status to skill checks vs those who did not see the spell cast.
 mod-will: May give +1 status.
-modified: 20220410164203368
+modified: 20230726200740997
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Emotion Enchantment Mental Arcane Occult
+tags: Spell Concentrate Manipulate Cantrip Emotion Enchantment Mental Arcane Occult
 title: Infectious Enthusiasm
 type: text/vnd.tiddlywiki
 

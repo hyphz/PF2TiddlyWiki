@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200731173216849
+modified: 20230726200948147
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Evocation Fire Material Arcane Primal
+tags: Spell Concentrate Manipulate Evocation Fire Arcane Primal
 title: Wall of Fire
 turn-stn: Take fire damage if inside the wall.
 type: text/vnd.tiddlywiki

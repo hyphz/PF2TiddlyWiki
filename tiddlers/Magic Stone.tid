@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 or 3 non-magical stones or sling bullets
 m-time: 
-modified: 20200801165038000
+modified: 20230726200741010
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Positive Divine Primal
+tags: Spell Concentrate Manipulate Necromancy Positive Divine Primal
 title: Magic Stone
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 5 [[Willing]] creatures who would be harmed by the triggering effect
 m-time: 
-modified: 20200805231456207
+modified: 20230726200741079
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Abjuration Divine Occult Primal Reaction
+tags: Spell Manipulate Abjuration Divine Occult Primal Reaction
 title: Scintillating Safeguard
 type: text/vnd.tiddlywiki
 

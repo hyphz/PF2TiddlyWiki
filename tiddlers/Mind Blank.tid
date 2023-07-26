@@ -12,7 +12,7 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200809204320988
+modified: 20230726200741017
 modtag-detection: Attempts to counter on target.
 modtag-mental: +4 status on saves.
 modtag-revelation: Attempts to counter on target.
@@ -21,7 +21,7 @@ s-crit:
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Arcane Occult Somatic Verbal Concentrate Manipulate Uncommon Abjuration
+tags: Spell Arcane Occult Concentrate Manipulate Uncommon Abjuration
 title: Mind Blank
 type: text/vnd.tiddlywiki
 

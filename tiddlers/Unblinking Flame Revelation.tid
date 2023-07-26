@@ -13,12 +13,12 @@ m-range:
 m-save: 
 m-targets: The creature you hit
 m-time: 
-modified: 20201226151833389
+modified: 20230726200649418
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Abjuration
+tags: Spell Concentrate [[Focus Spell]] Uncommon Abjuration
 title: Unblinking Flame Revelation
 type: text/vnd.tiddlywiki
 

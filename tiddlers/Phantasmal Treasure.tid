@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 1 living creature
 m-time: 
-modified: 20200801170459882
+modified: 20230726200741044
 s-crit: The target is unaffected.
 s-fail: As success, but the duration is 1 minute.
 s-fumble: As success, but the duration is 1 minute. The target finds the treasure so appealing that until the spell ends, it must spend each action focused on it. This can include moving toward the treasure if the target isn’t next to it, and [[Interact]]ing with the treasure if the target is next to it. (If the illusion appears to be a person or the like, the target can also Interact to converse with it.)
 s-hit: The target becomes [[Fascinated]] with the treasure, and the duration is until the end of its turn. The target can also try to disbelieve the illusion if it touches the treasure, [[Seek]]s to examine it, or speaks to it if the illusion appears to be a person or the like. If the target disbelieves the illusion, the spell ends.
-tags: Spell Somatic Verbal Concentrate Manipulate Emotion Illusion Mental Arcane Occult
+tags: Spell Concentrate Manipulate Emotion Illusion Mental Arcane Occult
 title: Phantasmal Treasure
 type: text/vnd.tiddlywiki
 

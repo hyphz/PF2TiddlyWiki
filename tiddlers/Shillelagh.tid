@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 [[Club]] or [[Staff]] you hold
 m-time: 
-modified: 20220622205732105
+modified: 20230726200741093
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Plant Transmutation Primal
+tags: Spell Concentrate Manipulate Plant Transmutation Primal
 title: Shillelagh
 type: text/vnd.tiddlywiki
 

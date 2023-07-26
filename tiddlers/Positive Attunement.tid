@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 living or <<tag Undead>> creature
 m-time: 
-modified: 20220423224126928
+modified: 20230726200741047
 s-crit: The creature is unaffected.
 s-fail: The creature is damage immediately and at the end of each of your turns (so twice in the round you Cast the Spell)
 s-fumble: As failure, and the damage is doubled.
 s-hit: The creature is damaged once and the spell ends.
-tags: Spell Somatic Verbal Concentrate Manipulate Healing Necromancy Positive Divine Primal
+tags: Spell Concentrate Manipulate Healing Necromancy Positive Divine Primal
 title: Positive Attunement
 type: text/vnd.tiddlywiki
 

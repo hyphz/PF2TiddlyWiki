@@ -13,12 +13,12 @@ m-range: 100 feet
 m-save: 
 m-targets: Your Eidolon
 m-time: 
-modified: 20221023231358984
+modified: 20230726200649253
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cantrip Evocation Summoner
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cantrip Evocation Summoner
 title: Boost Eidolon
 type: text/vnd.tiddlywiki
 

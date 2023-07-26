@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Will
 m-targets: 
 m-time: 
-modified: 20200808142711882
+modified: 20230726200948142
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Occult Material
+tags: Spell Concentrate Manipulate Illusion Occult
 title: Strange Geometry
 type: text/vnd.tiddlywiki
 virtual-tags: Teleportation

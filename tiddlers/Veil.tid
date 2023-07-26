@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Up to 10 creatures
 m-time: 
-modified: 20200730231917048
+modified: 20230726200741177
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Illusion Visual Arcane Occult
+tags: Spell Concentrate Manipulate Illusion Visual Arcane Occult
 title: Veil
 type: text/vnd.tiddlywiki
 

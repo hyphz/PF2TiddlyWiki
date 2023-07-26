@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200724225325991
+modified: 20230726200740976
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Fire Spell Arcane Primal Somatic Verbal Manipulate Concentrate
+tags: Evocation Fire Spell Arcane Primal Manipulate Concentrate
 title: Fireball
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20230305193548279
+modified: 20230726200740950
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Cantrip Evocation Spell Arcane Occult Primal Somatic Verbal Manipulate Concentrate Light
+tags: Cantrip Evocation Spell Arcane Occult Primal Manipulate Concentrate Light
 title: Dancing Lights
 type: text/vnd.tiddlywiki
 

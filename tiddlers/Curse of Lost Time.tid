@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 Large or smaller object, <<tag Construct>>, or living creature
 m-time: 
-modified: 20200801154943840
+modified: 20230726200740950
 s-crit: The living creature is unaffected.
 s-fail: As success, with a duration of 1 hour.
 s-fumble: As success, with an unlimited duration.
 s-hit: The living creature briefly ages, becoming [[Clumsy]] 1 and [[Enfeebled]] 1 for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Curse Negative Transmutation Arcane Occult Primal
+tags: Spell Concentrate Manipulate Curse Negative Transmutation Arcane Occult Primal
 title: Curse of Lost Time
 type: text/vnd.tiddlywiki
 

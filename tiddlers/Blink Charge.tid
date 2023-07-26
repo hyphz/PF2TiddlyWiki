@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20211027124733607
+modified: 20230726200740941
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Force Teleportation Arcane Divine Occult
+tags: Spell Concentrate Manipulate Conjuration Force Teleportation Arcane Divine Occult
 title: Blink Charge
 type: text/vnd.tiddlywiki
 

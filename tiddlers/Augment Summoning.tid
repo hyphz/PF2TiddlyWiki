@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature you summoned
 m-time: 
-modified: 20200808141721386
+modified: 20230726200649250
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Conjuration Wizard
+tags: Spell Concentrate [[Focus Spell]] Uncommon Conjuration Wizard
 title: Augment Summoning
 type: text/vnd.tiddlywiki
 

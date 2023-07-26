@@ -17,12 +17,12 @@ mod-fortitude: Gives +1/+2 status.
 mod-reflex: Gives +1/+2 status.
 mod-sustain_a_spell: Aura expands when sustained.
 mod-will: Gives +1/+2 status.
-modified: 20220622190756687
+modified: 20230726200740956
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Abjuration Spell Divine Somatic Verbal Manipulate Concentrate Aura
+tags: Abjuration Spell Divine Manipulate Concentrate Aura
 title: Divine Aura
 type: text/vnd.tiddlywiki
 

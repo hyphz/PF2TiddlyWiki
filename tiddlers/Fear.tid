@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200722201156065
+modified: 20230726200740973
 s-crit: The target is unaffected.
 s-fail: The target is [[Frightened]] 2.
 s-fumble: The target is [[Frightened]] 3 and [[Fleeing]] for 1 round.
 s-hit: The target is [[Frightened]] 1.
-tags: Emotion Enchantment Fear Mental Arcane Divine Occult Primal Somatic Verbal Manipulate Concentrate Spell
+tags: Emotion Enchantment Fear Mental Arcane Divine Occult Primal Manipulate Concentrate Spell
 title: Fear
 type: text/vnd.tiddlywiki
 

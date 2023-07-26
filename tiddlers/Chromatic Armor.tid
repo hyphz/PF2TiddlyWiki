@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20230305193558568
+modified: 20230726200740944
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Occult Light
+tags: Spell Concentrate Manipulate Abjuration Arcane Occult Light
 title: Chromatic Armor
 type: text/vnd.tiddlywiki
 

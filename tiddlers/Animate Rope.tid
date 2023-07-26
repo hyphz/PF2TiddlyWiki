@@ -13,12 +13,12 @@ m-save:
 m-targets: Up to 50 feet of rope or a nonliving rope-like object
 m-time: 
 mod-sustain_a_spell: Give a command to the rope.
-modified: 20200801145926567
+modified: 20230726200740937
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Occult
+tags: Spell Concentrate Manipulate Transmutation Arcane Occult
 title: Animate Rope
 type: text/vnd.tiddlywiki
 

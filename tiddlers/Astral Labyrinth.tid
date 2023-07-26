@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200815143800811
+modified: 20230726200740939
 s-crit: The creature is unaffected.
 s-fail: The creature is [[Stunned]] 1, you are mentally alerted that something has failed its save against this spell, and the creature arrives in the empty space closest to the point you chose instead of its intended destination.
 s-fumble: The creature is [[Stunned]] 3, you get a mental glimpse of its appearance, and the creature arrives in the empty space closest to the point you chose instead of its intended destination.
 s-hit: The creature is [[Stunned]] 1.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Abjuration Incapacitation Arcane Divine Occult
+tags: Spell Concentrate Manipulate Uncommon Abjuration Incapacitation Arcane Divine Occult
 title: Astral Labyrinth
 type: text/vnd.tiddlywiki
 

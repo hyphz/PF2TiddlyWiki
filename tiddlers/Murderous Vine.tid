@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 1 creature adjacent to a flat surface
 m-time: 
-modified: 20220418205256355
+modified: 20230726200741026
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Attack Conjuration Plant Primal
+tags: Spell Concentrate Manipulate Attack Conjuration Plant Primal
 title: Murderous Vine
 type: text/vnd.tiddlywiki
 

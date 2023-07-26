@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200729224711034
+modified: 20230726200948141
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Water Material Arcane Primal
+tags: Spell Concentrate Manipulate Conjuration Water Arcane Primal
 title: Solid Fog
 type: text/vnd.tiddlywiki
 

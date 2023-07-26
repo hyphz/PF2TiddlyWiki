@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 piece of clothing currently worn by you or an ally
 m-time: 1 minute
-modified: 20220423230552274
+modified: 20230726200948138
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Divine Occult Primal Material
+tags: Spell Concentrate Manipulate Transmutation Arcane Divine Occult Primal
 title: Restyle
 type: text/vnd.tiddlywiki
 

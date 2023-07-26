@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200806200229409
+modified: 20230726200741078
 s-crit: The target is unaffected.
 s-fail: The target takes full initial and persistent damage.
 s-fumble: The target takes double initial and persistent damage.
 s-hit: The target takes half damage and no persistent damage.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Mental Nonlethal
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Mental Nonlethal
 title: Savor the Sting
 type: text/vnd.tiddlywiki
 

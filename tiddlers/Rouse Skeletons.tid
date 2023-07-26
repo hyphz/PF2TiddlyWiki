@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20220424192819307
+modified: 20230726200741075
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Occult Necromancy
+tags: Spell Concentrate Manipulate Arcane Divine Occult Necromancy
 title: Rouse Skeletons
 type: text/vnd.tiddlywiki
 

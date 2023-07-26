@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200728200320354
+modified: 20230726200741060
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Attack Cantrip Cold Evocation Somatic Verbal Spell Arcane Primal Concentrate Manipulate
+tags: Attack Cantrip Cold Evocation Spell Arcane Primal Concentrate Manipulate
 title: Ray of Frost
 turn-eun: Critically hit target's speed reduction wears off.
 type: text/vnd.tiddlywiki

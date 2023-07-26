@@ -15,12 +15,12 @@ m-targets:
 m-time: 
 mod-concealed: Negated while trail is in air.
 mod-cover: Reduced by one step while trail is in air.
-modified: 20221023225047390
+modified: 20230726200649373
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Divination Magus
+tags: Spell Concentrate [[Focus Spell]] Uncommon Divination Magus
 title: Shooting Star
 type: text/vnd.tiddlywiki
 

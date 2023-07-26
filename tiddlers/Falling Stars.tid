@@ -1,0 +1,36 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200727000323663
+m-area: 4 40-foot [[Burst]]s
+m-components: Somatic Verbal
+m-duration: 
+m-level: 9
+m-range: 500 feet
+m-save: Reflex
+m-targets: 
+m-time: 
+modified: 20230726204145554
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Evocation Arcane Primal Concentrate Manipulate
+title: Falling Stars
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You reach into the skies and call down an array of falling stars that explode upon colliding with the ground.
+
+__Choose for the falling stars to be airbursts <<tag Sonic>>, asteroids <<tag Fire>>, comets <<tag Cold>>, or plasma <<tag Electricity>>. The spell gains the trait of the falling star type you choose.__
+
+The four stars' central 10-foot bursts can’t overlap, 
+
+Each meteor deals 6d10 <<tag Bludgeoning>>damage to any creatures in the 10-foot burst at the center of its area of effect before exploding, dealing 14d6 __energy damage of the type you chose__ damage to any creatures in its 40-foot burst. //The target makes a single basic [[Reflex]] save against all the damage.//.
+
+A creature __in any of the areas attempts one basic Reflex save against the spell no matter how many overlapping explosions it's caught in, and they can take each type of damage once once.__
+
+''Heightened (+1)'' The bludgeoning damage increases by 1d10, and the __energy__ damage increases by 2d6.

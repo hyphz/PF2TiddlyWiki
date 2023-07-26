@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20211205212956550
+modified: 20230726200740943
 s-crit: The creature is unaffected.
 s-fail: The creature falls into time. When it returns, it takes full damage and is [[Sickened]] 1.
 s-fumble: The creature falls into time. When it returns, it takes double damage and is [[Sickened]] 2.
 s-hit: The creature falls into time. When it returns, it takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Occult Arcane Divination
+tags: Spell Concentrate Manipulate Occult Arcane Divination
 title: Cast into Time
 type: text/vnd.tiddlywiki
 

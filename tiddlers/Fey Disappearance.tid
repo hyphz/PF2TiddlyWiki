@@ -14,12 +14,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-difficult_terrain: Ignore if natural.
-modified: 20210710162500826
+modified: 20230726200740974
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Enchantment Sorcerer
+tags: Spell Manipulate [[Focus Spell]] Uncommon Enchantment Sorcerer
 title: Fey Disappearance
 turn-eun: Wears off.
 type: text/vnd.tiddlywiki

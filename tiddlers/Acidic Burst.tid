@@ -12,12 +12,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200802214854967
+modified: 20230726200740936
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Acid Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Acid Evocation Arcane Primal
 title: Acidic Burst
 type: text/vnd.tiddlywiki
 

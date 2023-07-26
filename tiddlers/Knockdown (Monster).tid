@@ -1,12 +1,14 @@
 a-actions: 1
 created: 20200627195820330
-modified: 20201010135010684
+modified: 20230725203409946
 tags: Action
 title: Knockdown (Monster)
 type: text/vnd.tiddlywiki
 
 ''Requirements'' The monster’s last action was a success with a [[Strike]] that lists Knockdown in its damage entry.
 
-The monster knocks the target [[Prone]].
+The monster __attempts to [[Trip]] the creature. This attempt neither applies nor counts towards the monster's multiple attack penalty.__
 
 //Knockdown is a monster ability. The more normal equivalent ability for PCs is [[Trip]].//
+
+//Remaster: altered to use the Trip rules instead of automatically knocking Prone.//

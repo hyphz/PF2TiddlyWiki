@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 living creature
 m-time: 
-modified: 20200727214614341
+modified: 20230726200741048
 s-crit: The target is unaffected.
 s-fail: You possess the target and take partial control of it. You no longer have a separate turn; instead, you might control the target. At the start of each of the target’s turns, it attempts another [[Will]] save. If it fails, it’s [[Controlled]] by you on that turn; if it succeeds, it chooses its own actions; and if it critically succeeds, it forces you out and the spell ends.
 s-fumble: You possess the target fully, and it can only watch as you manipulate it like a puppet. The target is [[Controlled]] by you.
 s-hit: You possess the target but can’t control it. You ride along in the body while the spell lasts.
-tags: Uncommon Incapacitation Mental Necromancy Possession Spell Occult Somatic Verbal Concentrate Manipulate
+tags: Uncommon Incapacitation Mental Necromancy Possession Spell Occult Concentrate Manipulate
 title: Possession (Spell)
 turn-stn: May need to make a Will save to resist possession.
 type: text/vnd.tiddlywiki

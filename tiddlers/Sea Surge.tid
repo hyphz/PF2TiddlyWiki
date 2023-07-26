@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200814215716416
+modified: 20230726200741081
 s-crit: 
 s-fail: The creature is knocked [[Prone]]. If the creature was [[Swim]]ming, it gets a critical failure instead.
 s-fumble: The creature is pushed 20 feet in the wave’s direction, is knocked [[Prone]], and takes 3d6 bludgeoning damage.
 s-hit: The creature is unaffected.
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Evocation Water Arcane Primal
+tags: Spell Concentrate Manipulate Uncommon Evocation Water Arcane Primal
 title: Sea Surge
 turn-sun: Wave advances 60 feet then disappears.
 type: text/vnd.tiddlywiki

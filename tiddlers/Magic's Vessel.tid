@@ -16,12 +16,12 @@ m-time:
 mod-fortitude: +1 status.
 mod-reflex: +1 status.
 mod-will: +1 status.
-modified: 20200805202325831
+modified: 20230726200741011
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Enchantment
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Enchantment
 title: Magic's Vessel
 type: text/vnd.tiddlywiki
 

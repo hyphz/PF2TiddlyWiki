@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 1 minute
-modified: 20211205211508101
+modified: 20230726200948126
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Primal Material Arcane Occult Divine Abjuration
+tags: Spell Concentrate Manipulate Primal Arcane Occult Divine Abjuration
 title: Breadcrumbs
 type: text/vnd.tiddlywiki
 

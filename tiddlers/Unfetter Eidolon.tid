@@ -15,12 +15,12 @@ m-range: 100 feet
 m-save: 
 m-targets: Your eidolon
 m-time: 
-modified: 20221023231719370
+modified: 20230726200741172
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Class Feat Summoner Abjuration Uncommon
+tags: Spell Concentrate Manipulate [[Focus Spell]] Class Feat Summoner Abjuration Uncommon
 title: Unfetter Eidolon
 type: text/vnd.tiddlywiki
 

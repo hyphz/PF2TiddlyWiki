@@ -14,13 +14,13 @@ m-save:
 m-targets: 
 m-time: 
 mod-frightened: Reduces new conditions by 1.
-modified: 20200806180926376
+modified: 20230726200649425
 modtag-fear: On fumbled save, spell ends and frightened is 1 greater.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Enchantment Mental
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cleric Enchantment Mental
 title: Veil of Confidence
 type: text/vnd.tiddlywiki
 

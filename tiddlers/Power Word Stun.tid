@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200727215027673
+modified: 20230726200649342
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Auditory Enchantment Mental Spell Arcane Verbal Concentrate
+tags: Uncommon Auditory Enchantment Mental Spell Arcane Concentrate
 title: Power Word Stun
 type: text/vnd.tiddlywiki
 

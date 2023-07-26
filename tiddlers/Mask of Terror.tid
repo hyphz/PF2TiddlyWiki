@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200726234628604
+modified: 20230726200741014
 s-crit: The creature is unaffected.
 s-fail: The creature becomes [[Frightened]] 2 before using its action.
 s-fumble: The creature becomes [[Frightened]] 2, and its action fails and is wasted.
 s-hit: The creature is unaffected.
-tags: Emotion Fear Illusion Mental Visual Spell Arcane Occult Primal Somatic Verbal Concentrate Manipulate
+tags: Emotion Fear Illusion Mental Visual Spell Arcane Occult Primal Concentrate Manipulate
 title: Mask of Terror
 type: text/vnd.tiddlywiki
 

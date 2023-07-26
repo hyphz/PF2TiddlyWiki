@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: 
 m-targets: Your familiar
 m-time: 
-modified: 20200814001035688
+modified: 20230726200741045
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Hex Witch
+tags: Spell Manipulate [[Focus Spell]] Reaction Uncommon Abjuration Hex Witch
 title: Phase Familiar
 type: text/vnd.tiddlywiki
 

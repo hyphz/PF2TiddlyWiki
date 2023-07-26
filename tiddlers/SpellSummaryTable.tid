@@ -1,19 +1,11 @@
 created: 20200627214018361
-modified: 20201102192948087
+modified: 20230726201056191
 tags: 
 title: SpellSummaryTable
 type: text/vnd.tiddlywiki
 
 <table>
-<tr><th>Level</th><td>{{!!m-level}}</td></tr>
-<tr><th>Components</th><td>
-<$list filter="[all[current]list[!!m-components]]">
-<$link/> 
-</$list>
-<$list filter = "[all[current]tag[Focus Spell]!tag[Cantrip]]">
-1 Focus Point
-</$list>
-</td></tr>
+<tr><th>Rank</th><td>{{!!m-level}}</td></tr>
 <tr><th>Cast Time</th><td>{{!!m-time}}</td></tr>
 <tr><th>Range</th><td>{{!!m-range}}</td></tr>
 <tr><th>Area</th><td>{{!!m-area}}</td></tr>

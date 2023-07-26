@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Reflex
 m-targets: 1 creature
 m-time: 
-modified: 20200802232748367
+modified: 20230726200741159
 s-crit: The target is unaffected.
 s-fail: The target takes a –10-foot circumstance penalty to its Speed and cannot move more than 30 feet away from you until it Escapes or the spell ends.
 s-fumble: The target is [[Immobilized]] until it Escapes or the spell ends.
 s-hit: The target takes a –5-foot circumstance penalty to its Speed as long as it is within 30 feet of you.
-tags: Spell Somatic Verbal Concentrate Manipulate Abjuration Arcane Primal
+tags: Spell Concentrate Manipulate Abjuration Arcane Primal
 title: Tether
 type: text/vnd.tiddlywiki
 

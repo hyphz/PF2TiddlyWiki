@@ -14,12 +14,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20201122163426264
+modified: 20230726200649371
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Healing Necromancy Sorcerer Reaction
+tags: Spell Concentrate [[Focus Spell]] Uncommon Healing Necromancy Sorcerer Reaction
 title: Shepherd of Souls
 type: text/vnd.tiddlywiki
 

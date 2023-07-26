@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: You and up to 10 willing living allies
 m-time: 
-modified: 20211027134627846
+modified: 20230726200948124
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Rare Necromancy Material Arcane Primal
+tags: Spell Concentrate Manipulate Rare Necromancy Arcane Primal
 title: All is One, One is All
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 living creature
 m-time: 
-modified: 20200808142033839
+modified: 20230726200740942
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Arcane Attack Necromancy Wizard
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Arcane Attack Necromancy Wizard
 title: Call of the Grave
 type: text/vnd.tiddlywiki
 

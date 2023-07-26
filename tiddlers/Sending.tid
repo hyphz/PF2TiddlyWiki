@@ -12,12 +12,12 @@ m-range: Planetary
 m-save: 
 m-targets: 1 creature with whom you are familiar
 m-time: 
-modified: 20200729203613949
+modified: 20230726200948140
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Divination Mental Arcane Divine Occult Material
+tags: Spell Concentrate Manipulate Divination Mental Arcane Divine Occult
 title: Sending
 type: text/vnd.tiddlywiki
 

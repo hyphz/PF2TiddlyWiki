@@ -12,12 +12,12 @@ m-range: 500 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200808150243380
+modified: 20230726200741181
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]]
+tags: Spell Manipulate [[Focus Spell]]
 title: Vigilant Eye
 type: text/vnd.tiddlywiki
 

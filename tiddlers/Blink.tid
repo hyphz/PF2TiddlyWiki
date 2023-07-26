@@ -12,12 +12,12 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200805230202687
+modified: 20230726200740941
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Conjuration Teleportation Arcane Occult Somatic Verbal Manipulate Concentrate MCIR
+tags: Spell Conjuration Teleportation Arcane Occult Manipulate Concentrate MCIR
 title: Blink
 turn-euc: User vanishes and reappears 10' away in a random direction.
 type: text/vnd.tiddlywiki

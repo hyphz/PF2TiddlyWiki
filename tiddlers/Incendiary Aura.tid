@@ -14,13 +14,13 @@ m-range:
 m-save: 
 m-targets: You
 m-time: 
-modified: 20200812210932623
+modified: 20230726200740996
 modtag-fire: Damaged target in aura adds persistent damage.
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle
 title: Incendiary Aura
 type: text/vnd.tiddlywiki
 

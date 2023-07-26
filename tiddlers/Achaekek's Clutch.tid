@@ -14,12 +14,12 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-persistent_damage: Curse causes bleed damage to be taken immediately, on fumble DC to remove bleed is 20.
-modified: 20211027133840354
+modified: 20230726200740935
 s-crit: The target is unaffected.
 s-fail: As success, but the curse has an unlimited duration.
 s-fumble: As failure, but the DC on the target’s flat check to remove persistent bleed damage increases to 20 (15 with particularly effective assistance).
 s-hit: The target is marked by Achaekek’s symbol. For 1 minute, the first time per round that the target gains persistent bleed damage, they immediately take that amount of slashing damage as the mantis claws grow off the symbol and rake them.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Rare Curse Death Necromancy
+tags: Spell Concentrate Manipulate [[Focus Spell]] Rare Curse Death Necromancy
 title: Achaekek's Clutch
 type: text/vnd.tiddlywiki
 

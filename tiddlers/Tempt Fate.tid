@@ -16,12 +16,12 @@ m-time:
 mod-fortitude: +1/2 status, promote successes, demote fails.
 mod-reflex: +1/2 status, promote successes, demote fails.
 mod-will: +1/2 status, promote successes, demote fails.
-modified: 20200806173124567
+modified: 20230726200741157
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Divination Fortune Reaction
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Divination Fortune Reaction
 title: Tempt Fate
 type: text/vnd.tiddlywiki
 

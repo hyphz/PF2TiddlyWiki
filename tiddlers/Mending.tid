@@ -12,12 +12,12 @@ m-range: Touch
 m-save: 
 m-targets: 1 non-magical object of light Bulk or less
 m-time: 10 minutes
-modified: 20200726235904323
+modified: 20230726200741016
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Transmutation Spell Arcane Divine Occult Primal Somatic Verbal Concentrate Manipulate
+tags: Transmutation Spell Arcane Divine Occult Primal Concentrate Manipulate
 title: Mending
 type: text/vnd.tiddlywiki
 

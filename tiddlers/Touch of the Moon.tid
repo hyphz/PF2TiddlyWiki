@@ -19,12 +19,12 @@ mod-damage_roll: +4 status when Waxing or Full.
 mod-fortitude: +1 status when Full or Waning.
 mod-reflex: +1 status when Full or Waning.
 mod-will: +1 status when Full or Waning.
-modified: 20230305193552472
+modified: 20230726200741165
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Light
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Enchantment Light
 title: Touch of the Moon
 turn-etn: Advance current moon phase.
 type: text/vnd.tiddlywiki

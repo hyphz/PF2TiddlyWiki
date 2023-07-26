@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200727214731972
+modified: 20230726200649341
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Auditory Enchantment Mental Arcane Verbal Concentrate Spell
+tags: Uncommon Auditory Enchantment Mental Arcane Concentrate Spell
 title: Power Word Blind
 type: text/vnd.tiddlywiki
 

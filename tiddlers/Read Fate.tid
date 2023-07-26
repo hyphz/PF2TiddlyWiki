@@ -13,12 +13,12 @@ m-range: 10 feet
 m-save: 
 m-targets: 1 creature other than you
 m-time: 1 minute
-modified: 20200805223038926
+modified: 20230726200948138
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Material Uncommon Cleric Divination Prediction
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Divination Prediction
 title: Read Fate
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20210710162708541
+modified: 20230726200740985
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and a –10-foot circumstance penalty to its Speeds for 1 round.
 s-fumble: The creature takes double damage and is [[Immobilized]] for 1 round or until it [[Escape]]s.
 s-hit: The creature takes half damage.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Necromancy Sorcerer
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Necromancy Sorcerer
 title: Grasping Grave
 type: text/vnd.tiddlywiki
 virtual-tags: Slashing

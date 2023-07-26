@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200805230110401
+modified: 20230726200948125
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Conjuration Arcane Occult Material Somatic Verbal Manipulate Concentrate
+tags: Spell Conjuration Arcane Occult Manipulate Concentrate
 title: Black Tentacles
 type: text/vnd.tiddlywiki
 

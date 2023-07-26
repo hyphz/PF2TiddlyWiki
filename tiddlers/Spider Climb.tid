@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200730191708748
+modified: 20230726200741107
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Transmutation Arcane Primal
 title: Spider Climb
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-range: 60 feet
 m-save: 
 m-targets: __1 creature__
 m-time: 
-modified: 20210830164756235
+modified: 20230726200741201
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Attack Cold Evocation
+tags: Spell Concentrate Manipulate [[Focus Spell]] Attack Cold Evocation
 title: Winter Bolt
 type: text/vnd.tiddlywiki
 

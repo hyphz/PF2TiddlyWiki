@@ -14,12 +14,12 @@ m-targets: You
 m-time: 
 mod-coerce: +1 status.
 mod-perform: +1 status for auditory at a large venue.
-modified: 20211205211824403
+modified: 20230726200740942
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Arcane Divine Occult Cantrip Auditory Illusion
+tags: Spell Concentrate Manipulate Arcane Divine Occult Cantrip Auditory Illusion
 title: Bullhorn
 type: text/vnd.tiddlywiki
 

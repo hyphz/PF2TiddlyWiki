@@ -15,12 +15,12 @@ m-targets:
 m-time: 
 mod-athletics: +2 status.
 mod-speed: +10 foot status.
-modified: 20200804194131723
+modified: 20230726200740939
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Transmutation
 title: Athletic Rush
 type: text/vnd.tiddlywiki
 

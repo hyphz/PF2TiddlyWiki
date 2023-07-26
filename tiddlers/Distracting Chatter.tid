@@ -12,14 +12,14 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20211222005906449
+modified: 20230726200740955
 modtag-auditory: DC 5 flat for target to use or be affected by.
 modtag-verbal: DC 5 flat to use.
 s-crit: The creature is unaffected.
 s-fail: The duration is 3 rounds.
 s-fumble: The duration is 1 minute.
 s-hit: The duration is 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate Auditory Illusion Arcane Occult
+tags: Spell Concentrate Manipulate Auditory Illusion Arcane Occult
 title: Distracting Chatter
 type: text/vnd.tiddlywiki
 

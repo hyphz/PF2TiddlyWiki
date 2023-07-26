@@ -14,12 +14,12 @@ m-save: Will
 m-targets: 1 creature
 m-time: 
 mod-frightened: Can't remove while affected and in LoS.
-modified: 20200814000009953
+modified: 20230726200740971
 s-crit: 
 s-fail: The target is [[Frightened]] 1.
 s-fumble: The target is [[Frightened]] 2.
 s-hit: The target is unaffected.
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cantrip Curse Emotion Enchantment Fear Hex Mental Witch
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cantrip Curse Emotion Enchantment Fear Hex Mental Witch
 title: Evil Eye
 type: text/vnd.tiddlywiki
 

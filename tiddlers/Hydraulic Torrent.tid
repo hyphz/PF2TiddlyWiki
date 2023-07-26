@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200725162316687
+modified: 20230726200740993
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Water Spell Primal Somatic Verbal Concentrate Manipulate
+tags: Evocation Water Spell Primal Concentrate Manipulate
 title: Hydraulic Torrent
 type: text/vnd.tiddlywiki
 

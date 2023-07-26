@@ -12,12 +12,12 @@ m-range: 10 feet
 m-save: Will
 m-targets: 1 non-[[Hostile]] domesticated animal
 m-time: 
-modified: 20220502175336410
+modified: 20230726200741151
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Auditory Cantrip Enchantment Mental Occult Primal
+tags: Spell Concentrate Manipulate Auditory Cantrip Enchantment Mental Occult Primal
 title: Tame
 type: text/vnd.tiddlywiki
 

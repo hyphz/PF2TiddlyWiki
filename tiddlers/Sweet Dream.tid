@@ -16,12 +16,12 @@ m-time:
 mod-charisma: +1 status after Glamour dream.
 mod-intelliegence: +1 status after Insight dream.
 mod-speed: +5' status after Voyaging dream.
-modified: 20200806172634792
+modified: 20230726200948144
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Material Uncommon Auditory Cleric Enchantment Linguistic Mental Sleep
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Auditory Cleric Enchantment Linguistic Mental Sleep
 title: Sweet Dream
 type: text/vnd.tiddlywiki
 

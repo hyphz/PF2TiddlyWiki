@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 non-magical object in your possession of 1 Bulk or less
 m-time: 
-modified: 20200801155408933
+modified: 20230726200740955
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Transmutation Arcane Primal
+tags: Spell Concentrate Manipulate Transmutation Arcane Primal
 title: Dismantle
 type: text/vnd.tiddlywiki
 

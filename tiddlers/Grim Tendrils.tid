@@ -12,12 +12,12 @@ m-range:
 m-save: Fortitude
 m-targets: 
 m-time: 
-modified: 20200725150905655
+modified: 20230726200740985
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage.
 s-fumble: The creature takes double negative damage and double persistent bleed damage.
 s-hit: The creature takes half the negative damage and no persistent bleed damage.
-tags: Necromancy Negative Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Necromancy Negative Spell Arcane Occult Concentrate Manipulate
 title: Grim Tendrils
 type: text/vnd.tiddlywiki
 

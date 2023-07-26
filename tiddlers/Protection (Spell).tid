@@ -15,12 +15,12 @@ m-time:
 mod-fortitude: Gives +1 status vs named alignment.
 mod-reflex: Gives +1 status vs named alignment.
 mod-will: Gives +1 status vs named alignment.
-modified: 20200804201657045
+modified: 20230726200741053
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Uncommon Abjuration Divine Occult Somatic Verbal Spell Concentrate Manipulate
+tags: Uncommon Abjuration Divine Occult Spell Concentrate Manipulate
 title: Protection (Spell)
 type: text/vnd.tiddlywiki
 

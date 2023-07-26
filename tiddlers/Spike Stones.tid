@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20200801181826784
+modified: 20230726200948141
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Conjuration Earth Primal Material
+tags: Spell Concentrate Manipulate Conjuration Earth Primal
 title: Spike Stones
 type: text/vnd.tiddlywiki
 

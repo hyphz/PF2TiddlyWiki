@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 creature or object
 m-time: 
-modified: 20200809184039910
+modified: 20230726200741203
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Necromancy Negative
+tags: Spell Concentrate Manipulate [[Focus Spell]] Necromancy Negative
 title: Withering Grasp
 type: text/vnd.tiddlywiki
 

@@ -13,12 +13,12 @@ m-save:
 m-targets: 
 m-time: 
 mod-leap: Can modify leap to a fixed length of 30 feet.
-modified: 20200802231536786
+modified: 20230726200741003
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Move Transmutation Spell Arcane Primal Somatic Manipulate
+tags: Move Transmutation Spell Arcane Primal Manipulate
 title: Jump
 type: text/vnd.tiddlywiki
 

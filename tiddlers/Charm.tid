@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200719202430154
+modified: 20230726200740944
 s-crit: The target is unaffected and aware you tried to charm it.
 s-fail: The target’s attitude becomes [[Friendly]] toward you. If it was friendly, it becomes [[Helpful]]. It can’t use [[Hostile Action]]s against you.
 s-fumble: The target’s attitude becomes helpful toward you, and it can’t use [[Hostile Action]]s against you.
 s-hit: The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell (usually with [[Identify Magic]]).
-tags: Emotion Enchantment Incapacitation Mental Arcane Occult Primal Somatic Verbal Manipulate Concentrate Spell
+tags: Emotion Enchantment Incapacitation Mental Arcane Occult Primal Manipulate Concentrate Spell
 title: Charm
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200730221132633
+modified: 20230726200741151
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Cantrip Conjuration Plant Arcane Primal
+tags: Spell Concentrate Manipulate Cantrip Conjuration Plant Arcane Primal
 title: Tanglefoot
 type: text/vnd.tiddlywiki
 

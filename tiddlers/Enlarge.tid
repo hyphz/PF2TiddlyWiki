@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 willing creature
 m-time: 
-modified: 20200730200113064
+modified: 20230726200740969
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Polymorph Transmutation Arcane Primal Somatic Verbal Concentrate Manipulate
+tags: Spell Polymorph Transmutation Arcane Primal Concentrate Manipulate
 title: Enlarge
 type: text/vnd.tiddlywiki
 

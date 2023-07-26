@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20200802214743794
+modified: 20230726200740935
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Acid Evocation Arcane Primal
+tags: Spell Concentrate Manipulate Acid Evocation Arcane Primal
 title: Acid Storm
 turn-stn: Creatures inside storm take damage.
 type: text/vnd.tiddlywiki

@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200805230345807
+modified: 20230726200740946
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Divination Somatic Verbal Arcane Divine Occult Spell Manipulate Concentrate
+tags: Divination Arcane Divine Occult Spell Manipulate Concentrate
 title: Comprehend Language
 type: text/vnd.tiddlywiki
 

@@ -12,12 +12,12 @@ m-range: 60 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220423213124592
+modified: 20230726200741041
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Divine Occult
+tags: Spell Concentrate Manipulate Necromancy Divine Occult
 title: Pernicious Poltergeist
 type: text/vnd.tiddlywiki
 virtual-tags: Negative Emotion Fear Mental Force

@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 [[Willing]] creature
 m-time: 
-modified: 20200805203055904
+modified: 20230726200741027
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Evocation
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Evocation
 title: Mystic Beacon
 type: text/vnd.tiddlywiki
 

@@ -14,12 +14,12 @@ m-save:
 m-targets: 
 m-time: 1 minute
 mod-sustain_a_spell: Move swarm on sustain.
-modified: 20200809211229848
+modified: 20230726200741147
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Divination
+tags: Spell Concentrate Manipulate [[Focus Spell]] Divination
 title: Swarmsense
 type: text/vnd.tiddlywiki
 

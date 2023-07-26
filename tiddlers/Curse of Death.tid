@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200812224428304
+modified: 20230726200740949
 s-crit: The target is unaffected.
 s-fail: The target is afflicted with the curse of death at stage 1.
 s-fumble: The target is afflicted with the curse of death at stage 2.
 s-hit: The target is afflicted with the curse of death at stage 1, and the stage of the curse can't increase beyond stage 1.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Curse Death Hex Necromancy Witch
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Curse Death Hex Necromancy Witch
 title: Curse of Death
 type: text/vnd.tiddlywiki
 virtual-tags: Negative

@@ -13,12 +13,12 @@ m-save: Will
 m-targets: 1 creature you know by name
 m-time: 10 minutes
 mod-rest: Triggers when its target sleeps.
-modified: 20200727210337907
+modified: 20230726200948135
 s-crit: The target suffers no adverse effects and is temporarily immune for 1 week.
 s-fail: The target experiences the nightmares and awakens [[Fatigued]].
 s-fumble: The target experiences the nightmares, awakens [[Fatigued]], and is [[Drained]] 2 until it is no longer fatigued.
 s-hit: The target experiences the nightmares but suffers no adverse effects other than unpleasant memories.
-tags: Spell Illusion Mental Arcane Occult Somatic Material Verbal Concentrate Manipulate
+tags: Spell Illusion Mental Arcane Occult Concentrate Manipulate
 title: Nightmare
 type: text/vnd.tiddlywiki
 

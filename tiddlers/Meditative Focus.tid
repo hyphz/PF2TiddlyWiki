@@ -1,8 +1,8 @@
 created: 20201017142653135
 feat-class: Monk
 feat-level: 12
-mod-refocus: Regain 2 Focus Points instead of 1.
-modified: 20201017142735500
+mod-refocus: Refill entire focus pool.
+modified: 20230726181256759
 tags: Feat Class Monk
 title: Meditative Focus
 type: text/vnd.tiddlywiki
@@ -11,4 +11,4 @@ type: text/vnd.tiddlywiki
 
 Your meditation is so effective that you can achieve a deep focus. 
 
-If you have spent at least 2 Focus Points since the last time you [[Refocus]]ed, you recover 2 Focus Points when you Refocus instead of 1.
+{{RemasterFocus}}

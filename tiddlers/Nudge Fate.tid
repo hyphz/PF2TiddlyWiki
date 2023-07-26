@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200814000738938
+modified: 20230726200649330
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cantrip Divination Hex Witch
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cantrip Divination Hex Witch
 title: Nudge Fate
 type: text/vnd.tiddlywiki
 

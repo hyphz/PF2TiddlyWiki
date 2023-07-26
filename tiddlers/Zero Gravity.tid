@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 
 m-time: 
-modified: 20220507213558917
+modified: 20230726200948149
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Uncommon Evocation Arcane Occult Material
+tags: Spell Concentrate Manipulate Uncommon Evocation Arcane Occult
 title: Zero Gravity
 type: text/vnd.tiddlywiki
 

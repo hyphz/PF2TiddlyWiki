@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: Petrified creature or human-size stone object
 m-time: 
-modified: 20200730212503743
+modified: 20230726200741122
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Earth Transmutation Divine Primal
+tags: Spell Concentrate Manipulate Earth Transmutation Divine Primal
 title: Stone to Flesh
 type: text/vnd.tiddlywiki
 

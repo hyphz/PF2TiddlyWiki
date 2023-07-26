@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: Will
 m-targets: 1 creature
 m-time: 
-modified: 20200719210449452
+modified: 20230726200740946
 s-crit: 
 s-fail: For the first action on its next turn, the creature must use a single action to do as you command.
 s-fumble: The target must use all its actions on its next turn to obey your command.
 s-hit: The creature is unaffected.
-tags: Auditory Enchantment Linguistic Mental Arcane Divine Occult Somatic Verbal Spell Manipulate Concentrate
+tags: Auditory Enchantment Linguistic Mental Arcane Divine Occult Spell Manipulate Concentrate
 title: Command
 turn-etn: Effect wears off.
 type: text/vnd.tiddlywiki

@@ -13,12 +13,12 @@ m-range:
 m-save: 
 m-targets: The triggering creature
 m-time: 
-modified: 20200811002625198
+modified: 20230726200740952
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Abjuration Reaction
+tags: Spell Manipulate [[Focus Spell]] Abjuration Reaction
 title: Delay Consequence
 type: text/vnd.tiddlywiki
 

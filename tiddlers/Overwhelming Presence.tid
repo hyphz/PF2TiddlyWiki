@@ -12,12 +12,12 @@ m-range:
 m-save: Will
 m-targets: Any number of creatures
 m-time: 
-modified: 20200727211344565
+modified: 20230726200741038
 s-crit: The target is unaffected.
 s-fail: The target must pay tribute six times.
 s-fumble: As failure, and the target must spend all its actions paying tribute if possible.
 s-hit: The target must pay tribute twice.
-tags: Auditory Enchantment Incapacitation Mental Visual Spell Somatic Verbal Divine Occult Concentrate Manipulate
+tags: Auditory Enchantment Incapacitation Mental Visual Spell Divine Occult Concentrate Manipulate
 title: Overwhelming Presence
 type: text/vnd.tiddlywiki
 

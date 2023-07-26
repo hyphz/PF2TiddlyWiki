@@ -12,12 +12,12 @@ m-range: 120 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200726233428926
+modified: 20230726200741010
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Evocation Force Spell Arcane Occult Somatic Verbal Concentrate Manipulate
+tags: Evocation Force Spell Arcane Occult Concentrate Manipulate
 title: Magic Missile
 type: text/vnd.tiddlywiki
 

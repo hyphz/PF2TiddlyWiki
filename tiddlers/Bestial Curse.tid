@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 living Humanoid
 m-time: 
-modified: 20200801151047531
+modified: 20230726200740939
 s-crit: The target is unaffected.
 s-fail: The target transforms into a bestial form for 1 hour. The target becomes [[Clumsy]] 1 and gains [[Weakness]] 1 to silver. It gains a claw, hoof, horn, or jaws [[Strike]] (your choice) that uses the target’s unarmed Strike statistics except that the damage type changes to bludgeoning, piercing, or slashing, as appropriate. Whenever the target attempts to use any <<tag Manipulate>> action, it must succeed at a DC 5 flat check or the action is lost.
 s-fumble: As failure, but the duration is unlimited.
 s-hit: The target’s body gains minor bestial features. Its insides churn as they partially transform, causing it to be [[Clumsy]] 1 for 1 round. When it recovers from the clumsy condition, its features revert to normal and the spell ends.
-tags: Spell Somatic Verbal Concentrate Manipulate Curse Polymorph Transmutation Arcane Occult Primal
+tags: Spell Concentrate Manipulate Curse Polymorph Transmutation Arcane Occult Primal
 title: Bestial Curse
 type: text/vnd.tiddlywiki
 

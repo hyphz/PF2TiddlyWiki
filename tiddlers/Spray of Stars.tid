@@ -14,12 +14,12 @@ m-range:
 m-save: Reflex
 m-targets: 
 m-time: 
-modified: 20230305193554684
+modified: 20230726200741117
 s-crit: The creature is unaffected.
 s-fail: The creature takes full damage and is [[Dazzled]] for 3 rounds.
 s-fumble: The creature takes double damage and is [[Dazzled]] for 1 minute.
 s-hit: The creature takes half damage and is [[Dazzled]] for 1 round.
-tags: Spell Somatic Verbal Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle Light
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cursebound Evocation Fire Oracle Light
 title: Spray of Stars
 type: text/vnd.tiddlywiki
 

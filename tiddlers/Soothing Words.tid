@@ -14,12 +14,12 @@ m-save:
 m-targets: 1 ally
 m-time: 
 mod-will: +1/2 status, and +2/3 vs emotion.
-modified: 20200806175642370
+modified: 20230726200649379
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Mental
+tags: Spell Concentrate [[Focus Spell]] Uncommon Cleric Emotion Enchantment Mental
 title: Soothing Words
 type: text/vnd.tiddlywiki
 

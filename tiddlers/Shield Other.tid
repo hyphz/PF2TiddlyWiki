@@ -12,12 +12,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20200729211806468
+modified: 20230726200741092
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Divine
+tags: Spell Concentrate Manipulate Necromancy Divine
 title: Shield Other
 type: text/vnd.tiddlywiki
 

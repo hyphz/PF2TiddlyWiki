@@ -13,12 +13,12 @@ m-range: [[Touch]]
 m-save: 
 m-targets: 1 weapon you're wielding
 m-time: 
-modified: 20200806230748759
+modified: 20230726200741195
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Cleric Evocation
+tags: Spell Manipulate [[Focus Spell]] Uncommon Cleric Evocation
 title: Weapon Surge
 type: text/vnd.tiddlywiki
 

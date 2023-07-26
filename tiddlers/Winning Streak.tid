@@ -12,12 +12,12 @@ m-range: 20 feet
 m-save: 
 m-targets: 1 creature
 m-time: 
-modified: 20220507213428368
+modified: 20230726200649438
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Verbal Concentrate Divination Arcane Occult
+tags: Spell Concentrate Divination Arcane Occult
 title: Winning Streak
 type: text/vnd.tiddlywiki
 

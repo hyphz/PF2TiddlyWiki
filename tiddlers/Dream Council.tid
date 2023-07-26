@@ -12,12 +12,12 @@ m-range: Planetary
 m-save: 
 m-targets: Up to 12 creatures you know by name and have met in person
 m-time: 10 minutes
-modified: 20200722113524368
+modified: 20230726200740962
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Illusion Mental Sleep Arcane Occult Somatic Verbal Manipulate Concentrate Spell
+tags: Illusion Mental Sleep Arcane Occult Manipulate Concentrate Spell
 title: Dream Council
 type: text/vnd.tiddlywiki
 

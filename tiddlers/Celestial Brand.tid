@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: 1 <<tag Evil>> creature
 m-time: 
-modified: 20201102193234986
+modified: 20230726200740943
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Uncommon Curse Necromancy Sorcerer
+tags: Spell Manipulate [[Focus Spell]] Uncommon Curse Necromancy Sorcerer
 title: Celestial Brand
 type: text/vnd.tiddlywiki
 

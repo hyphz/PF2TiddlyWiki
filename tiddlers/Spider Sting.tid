@@ -12,12 +12,12 @@ m-range: [[Touch]]
 m-save: Fortitude
 m-targets: 1 creature
 m-time: 
-modified: 20200806200238800
+modified: 20230726200741108
 s-crit: The target is unaffected.
 s-fail: The target is afflicted with Spider Venom at stage 1.
 s-fumble: The target is afflicted with Spider Venom at stage 2.
 s-hit: The target takes 1d4 <<tag Poison>>damage.
-tags: Spell Somatic Verbal Concentrate Manipulate Necromancy Poison Arcane Primal
+tags: Spell Concentrate Manipulate Necromancy Poison Arcane Primal
 title: Spider Sting
 type: text/vnd.tiddlywiki
 

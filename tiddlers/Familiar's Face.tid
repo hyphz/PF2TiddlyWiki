@@ -13,12 +13,12 @@ m-save:
 m-targets: 1 [[Willing]] creature that is your [[Animal Companion]] or [[Familiar]]
 m-time: 
 mod-sustain_a_spell: Command animal as part of this.
-modified: 20200801160113103
+modified: 20230726200948130
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate Divination Scrying Arcane Divine Occult Primal Material
+tags: Spell Manipulate Divination Scrying Arcane Divine Occult Primal
 title: Familiar's Face
 type: text/vnd.tiddlywiki
 

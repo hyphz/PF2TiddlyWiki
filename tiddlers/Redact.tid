@@ -13,12 +13,12 @@ m-range: 30 feet
 m-save: 
 m-targets: Unattended written materials of up to 1 Bulk or less
 m-time: 
-modified: 20200809191127733
+modified: 20230726200948138
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Manipulate [[Focus Spell]] Transmutation Material
+tags: Spell Manipulate [[Focus Spell]] Transmutation
 title: Redact
 type: text/vnd.tiddlywiki
 

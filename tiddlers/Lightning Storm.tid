@@ -13,12 +13,12 @@ m-save: Reflex
 m-targets: 
 m-time: 
 mod-sustain_a_spell: Call another lightning bolt on sustain.
-modified: 20220415181049367
+modified: 20230726200948134
 s-crit: 
 s-fail: 
 s-fumble: 
 s-hit: 
-tags: Spell Somatic Verbal Concentrate Manipulate Electricity Evocation Primal Material
+tags: Spell Concentrate Manipulate Electricity Evocation Primal
 title: Lightning Storm
 type: text/vnd.tiddlywiki
 
