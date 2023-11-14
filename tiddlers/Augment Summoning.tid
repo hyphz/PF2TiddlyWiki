@@ -1,28 +1,7 @@
-a-crit: 
-a-defense: 
-a-fail: 
-a-fumble: 
-a-hit: 
-created: 20200808141626315
-m-area: 
-m-components: Verbal
-m-duration: 
-m-level: 1
-m-range: 30 feet
-m-save: 
-m-targets: 1 creature you summoned
-m-time: 
-modified: 20230726200649250
-s-crit: 
-s-fail: 
-s-fumble: 
-s-hit: 
-tags: Spell Concentrate [[Focus Spell]] Uncommon Conjuration Wizard
+created: 20231114012502407
+modified: 20231114012513637
+tags: 
 title: Augment Summoning
 type: text/vnd.tiddlywiki
 
-{{||SpellSummaryTable}}
-
-You augment the abilities of a summoned creature. 
-
-The target gains a +1 status bonus to all checks (this also applies to the creature’s DCs, including its AC) for the duration of its summoning, up to 1 minute.
+This spell was renamed [[Fortify Summoning]] in the remaster.

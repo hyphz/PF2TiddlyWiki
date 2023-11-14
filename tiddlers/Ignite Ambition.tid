@@ -1,0 +1,31 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200804202550759
+m-area: 
+m-components: Somatic Verbal
+m-domain: Ambition
+m-duration: 10 minutes
+m-level: 1
+m-range: 60 foot
+m-save: Will
+m-targets: 1 creature
+m-time: 
+modified: 20231114012937195
+s-crit: The target is unaffected.
+s-fail: As success, but the penalty is –2.
+s-fumble: The target is overcome with ambition, taking whatever actions would advance its own agenda over those of anyone else, even without attempts to convince it.
+s-hit: The target takes a –1 status penalty to its saving throws and other defenses against attempts to [[Coerce]] it, [[Request]] something of it, or use <<tag Mental>> effects to convince it to do something (such as a suggestion spell). This penalty applies only if the target is being encouraged to advance its own ambitions.
+tags: Spell Concentrate Manipulate [[Focus Spell]] Uncommon Cleric Emotion Ehchantment Mental
+title: Ignite Ambition
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+You strengthen a target’s ambition, increase its resentment of allies, and make its allegiances more susceptible to change.
+
+The target must attempt a [[Will]] save.
+
+{{||SaveSuccessTable}}

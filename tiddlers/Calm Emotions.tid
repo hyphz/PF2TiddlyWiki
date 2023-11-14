@@ -1,30 +1,7 @@
-a-crit: 
-a-defense: 
-a-fail: 
-a-fumble: 
-a-hit: 
-created: 20200719200630727
-m-area: 10 foot [[Burst]]
-m-components: Somatic Verbal
-m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
-m-level: 2
-m-range: 120 feet
-m-save: Will
-m-targets: 
-m-time: 
-mod-attack: -1 status for the duration on a failed save.
-modified: 20230726200740942
-modtag-emotion: Can suppress other effects temporarily.
-s-crit: The creature is unaffected.
-s-fail: Any [[Emotion]] effects that would affect the creature are suppressed and the creature can't use [[Hostile Action]]s. If the target is subject to hostility from any other creature, it ceases to be affected by calm emotions.
-s-fumble: As failure, but hostility doesn’t end the effect.
-s-hit: Calming urges impose a -1 status penalty to the creature's attack rolls.
-tags: Emotion Incapacitation Mental Divine Occult Spell Manipulate Concentrate Enchantment
+created: 20231114013329339
+modified: 20231114013342977
+tags: 
 title: Calm Emotions
 type: text/vnd.tiddlywiki
 
-{{||SpellSummaryTable}}
-
-You forcibly calm creatures in the area, soothing them into a nonviolent state; each creature must attempt a [[Will]] save.
-
-{{||SaveSuccessTable}}
+This spell was renamed [[Calm]] in the remaster.

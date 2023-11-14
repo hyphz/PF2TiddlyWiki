@@ -4,7 +4,7 @@ item-hands: 1
 item-level: 6 10 14
 item-price: 2300 9000 40000
 item-variants: Standard Greater Major
-modified: 20210508144849842
+modified: 20231114012626124
 modtag-transmutation: +2 circumstance to identify.
 tags: Item Magical Staff Transmutation
 title: Staff of Transmutation
@@ -21,6 +21,6 @@ A glass orb atop this metal staff contains fine, undulating sand. While wielding
 | Greater | 10 | 9000 | 3rd |[[Feet to Fins]], [[Jump]] |
 |~|~|~| 4rd |[[Gaseous Form]], [[Shape Stone]] |
 | Major | 14 | 40000 | 5th |[[Humanoid Transformation]] |
-|~|~|~| 6th |[[Baleful Polymorph]], [[Dragon Form]], [[Flesh to Stone]] |
+|~|~|~| 6th |[[Cursed Metamorphosis]], [[Dragon Form]], [[Flesh to Stone]] |
 
 //"Humanoid Transformation" is listed here in the 2nd edition book, but not a listed spell.//

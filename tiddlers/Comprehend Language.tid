@@ -1,34 +1,7 @@
-a-crit: 
-a-defense: 
-a-fail: 
-a-fumble: 
-a-hit: 
-created: 20200719210539678
-m-area: 
-m-components: Somatic Verbal
-m-duration: 1 hour
-m-level: 2
-m-range: 30 feet
-m-save: 
-m-targets: 1 creature
-m-time: 
-modified: 20230726200740946
-s-crit: 
-s-fail: 
-s-fumble: 
-s-hit: 
-tags: Divination Arcane Divine Occult Spell Manipulate Concentrate
+created: 20231114014728230
+modified: 20231114014749060
+tags: 
 title: Comprehend Language
 type: text/vnd.tiddlywiki
 
-{{||SpellSummaryTable}}
-
-The target can understand the meaning of a single language it is hearing or reading when you cast the spell. 
-
-This doesn’t let it understand codes, language couched in metaphor, and the like (subject to GM discretion). 
-
-If the target can hear multiple languages and knows that, it can choose which language to understand; otherwise, choose one of the languages randomly.
-
-''Heightened (3rd)'' The target can also speak the language.
-
-''Heightened (4th)'' You can target up to 10 creatures, and targets can also speak the language.
+This spell was renamed [[Translate]] in the remaster.

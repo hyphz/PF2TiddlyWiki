@@ -1,0 +1,32 @@
+a-crit: 
+a-defense: 
+a-fail: 
+a-fumble: 
+a-hit: 
+created: 20200801145518679
+m-area: 
+m-components: Somatic Verbal Material
+m-duration: [[Sustained|Sustain a Spell]] up to 1 minute
+m-level: 1
+m-range: 30 feet
+m-save: 
+m-targets: 
+m-time: 
+modified: 20231114012157869
+s-crit: 
+s-fail: 
+s-fumble: 
+s-hit: 
+tags: Spell Concentrate Manipulate Necromancy Arcane Divine Occult
+title: Summon Undead
+type: text/vnd.tiddlywiki
+
+{{||SpellSummaryTable}}
+
+Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. 
+
+You summon a common creature that has the <<tag Undead>> trait and whose level is –1; this creature gains the <<tag Summoned>> trait. 
+
+Heightening the spell increases the maximum level of creature you can summon.
+
+{{SummonHeightenList}}

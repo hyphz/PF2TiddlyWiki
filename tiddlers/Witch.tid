@@ -8,7 +8,7 @@ cls-reflex: T
 cls-tskills: Per Patron
 cls-will: E
 created: 20210515175904722
-modified: 20211027131400251
+modified: 20231114012343550
 tags: Class
 title: Witch
 type: text/vnd.tiddlywiki
@@ -29,7 +29,7 @@ type: text/vnd.tiddlywiki
 
 | !Lesson | !Level | !Hex | !Familiar Spell |
 | Dreams | Basic | [[Veil of Dreams]] | [[Sleep]] |
-| The Elements | Basic | [[Elemental Betrayal]] | [[Burning Hands]], [[Air Bubble]], [[Hydraulic Push]] or [[Pummeling Rubble]] |
+| The Elements | Basic | [[Elemental Betrayal]] | [[Breathe Fire]], [[Air Bubble]], [[Hydraulic Push]] or [[Pummeling Rubble]] |
 | Life | Basic | [[Life Boost]] | [[Spirit Link]] |
 | Protection | Basic | [[Blood Ward]] | [[Mage Armor]] |
 | Vengeance | Basic | [[Needle of Vengeance]] | [[Phantom Pain]] |

@@ -4,7 +4,7 @@ item-hands: 1
 item-level: 10 14 18
 item-price: 9000 40000 240000
 item-variants: Standard Greater Major
-modified: 20210830162411642
+modified: 20231114013734416
 tags: Item Magical Staff Evocation
 title: Staff of Nature's Vengeance
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ When used as a weapon, a staff of nature’s vengeance permanently has the effec
 |~|~|~| 2nd |[[Flaming Sphere]], [[Vomit Swarm]] |
 |~|~|~| 3rd |[[Earthbind]], [[Wall of Thorns]] |
 |~|~|~| 4th |[[Bestial Curse]], [[Spike Stones]] |
-| Greater | 14 | 40000 | 5th |[[Cloudkill]], [[Control Water]] |
+| Greater | 14 | 40000 | 5th |[[Toxic Cloud]], [[Control Water]] |
 |~|~|~| 6th |[[Purple Worm Sting]], [[Tangling Creepers]] |
 | Major | 18 | 240000 | 7th |[[Sunburst]], [[Volcanic Eruption]] |
 |~|~|~| 8th |[[Earthquake]], [[Punishing Winds]] |

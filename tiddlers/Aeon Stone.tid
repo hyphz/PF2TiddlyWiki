@@ -9,7 +9,7 @@ mod-arcana: Orange Prism in Wayfinder: +2 item if arcane spell enhanced.
 mod-nature: Orange Prism in Wayfinder: +2 item if primal spell enhanced.
 mod-occultism: Orange Prism in Wayfinder: +2 item if occult spell enhanced.
 mod-religion: Orange Prism in Wayfinder: +2 item if divine spell enhanced.
-modified: 20210508164452654
+modified: 20231114014545011
 tags: Magical Item Uncommon Invested Transmutation
 title: Aeon Stone
 type: text/vnd.tiddlywiki
@@ -25,20 +25,20 @@ A stowed or removed stone remains invested, but its effects are suppressed until
 There are various types of aeon stones, each with a different shape, color, and magical effect. Each aeon stone also gains a resonant power when slotted into a special magical item called a [[Wayfinder]].
 
 | !Type | !Level | !Price | !Effect | !Resonant |
-|Clear Spindle | 7 | 3250 |After a week, don't need to eat or drink |[[Air Bubble]] 1/day |
-|Dull Gray | 1 | 90 |Orbits your head |None |
-|Gold Nodule | 6 | 2300 |Know a languge while invested |[[Comprehend Language]] 1/day |
+|Nourishing | 7 | 3250 |After a week, don't need to eat or drink |[[Air Bubble]] 1/day |
+|Consumed | 1 | 90 |Orbits your head |None |
+|Gold Nodule | 6 | 2300 |Know a languge while invested |[[Translate]] 1/day |
 |Lavender and Green Ellipsoid | 19 | 300000 |Counters spells cast on you, then might burn out |[[Read Aura]] at will, [[Detect Magic]] at will |
-|Orange Prism | 16 | 97500 |{{OneAction}} Increase a spell's counteract level by 1 |+2 item to tradition's skill |
+|Amplifying | 16 | 97500 |{{OneAction}} Increase a spell's counteract level by 1 |+2 item to tradition's skill |
 |Pale Lavender Ellipsoid | 13 | 22000 |Counters spells cast on you, then might burn out |[[Read Aura]] at will |
 |Pink Rhomboid | 12 | 19000 |+15 temp HP |[[Stabilize]] at will |
-|Tourmaline Sphere | 7 | 3500 |Saves your life then burns out |[[Heal]] 1/day |
+|Delaying | 7 | 3500 |Saves your life then burns out |[[Heal]] 1/day |
 
-* ''Clear Spindle'': You don’t need to eat or drink while this aeon stone is invested by you. This aeon stone doesn’t function until it has been worn continuously for a week and invested each day therein. If it’s invested by someone else, this interval starts over. The resonant power allows you to cast [[Air Bubble]] as a primal innate spell once per day.
+* ''Nourishing'' (previously Clear Spindle): You don’t need to eat or drink while this aeon stone is invested by you. This aeon stone doesn’t function until it has been worn continuously for a week and invested each day therein. If it’s invested by someone else, this interval starts over. The resonant power allows you to cast [[Air Bubble]] as a primal innate spell once per day.
 
-* ''Dull Gray'': A dull gray aeon stone has lost its special magical properties, sometimes as a result of overusing a tourmaline sphere or pale lavender ellipsoid aeon stone. It still orbits your head like any other aeon stone and can thus serve as a stylish, hands-free option for various spells that target an object, like [[Continual Flame]]. Dull gray aeon stones have no resonant power. 
+* ''Consumed'' (previously Dull Gray): A dull gray aeon stone has lost its special magical properties, sometimes as a result of overusing a tourmaline sphere or pale lavender ellipsoid aeon stone. It still orbits your head like any other aeon stone and can thus serve as a stylish, hands-free option for various spells that target an object, like [[Continual Flame]]. Dull gray aeon stones have no resonant power. 
 
-* ''Gold Nodule'': When a gold nodule aeon stone is created, its creator chooses a language they know to store within the crystal. When you invest the stone, you gain the ability to understand, speak, and write that language. The resonant power allows you to cast [[Comprehend Language]] as an occult innate spell once per day.
+* ''Gold Nodule'': When a gold nodule aeon stone is created, its creator chooses a language they know to store within the crystal. When you invest the stone, you gain the ability to understand, speak, and write that language. The resonant power allows you to cast [[Translate]] as an occult innate spell once per day.
 
 * ''Lavender and Green Ellipsoid'': This functions as a pale lavender ellipsoid aeon stone, but it casts an 8th-level [[Dispel Magic]] spell with a counteract modifier of +31. The resonant power allows you to cast [[Detect Magic]] and [[Read Aura]] as arcane innate spells at will.
 

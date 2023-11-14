@@ -4,7 +4,7 @@ item-hands: 1
 item-level: 6 10 14
 item-price: 2300 9000 40000
 item-variants: Standard Greater Major
-modified: 20210508140413249
+modified: 20231114014706341
 modtag-divination: +2 circumstance to identify.
 tags: Item Magical Staff Divination
 title: Staff of Divination
@@ -17,8 +17,8 @@ Semiprecious gemstones emerge, seemingly at random, from the surface of this gna
 | !Type | !Level | !Price | !Spell Level | !Spells |
 | Standard | 6 | 2300 | Cantrip |[[Detect Magic]] |
 |~|~|~| 1st |[[True Strike]] |
-|~|~|~| 2nd |[[Comprehend Language]], [[Darkvision]], [[See Invisibility]] |
+|~|~|~| 2nd |[[Translate]], [[Darkvision]], [[See Invisibility]] |
 | Greater | 10 | 9000 | 3rd |[[Clairaudience]], [[Darkvision]] |
-|~|~|~| 4rd |[[Clairvoyance]], [[Comprehend Language]], [[Telepathy]] |
+|~|~|~| 4rd |[[Clairvoyance]], [[Translate]], [[Telepathy]] |
 | Major | 14 | 40000 | 5th |[[Prying Eye]], [[Sending]] |
 |~|~|~| 6th |[[Telepathy]], [[True Seeing]] |

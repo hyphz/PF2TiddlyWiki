@@ -1,29 +1,7 @@
-a-crit: 
-a-defense: 
-a-fail: 
-a-fumble: 
-a-hit: 
-created: 20200719205954204
-m-area: 15 foot [[Cone]]
-m-components: Somatic Verbal
-m-duration: 1 or more rounds
-m-level: 1
-m-range: 
-m-save: 
-m-targets: 
-m-time: 
-modified: 20230726200740946
-s-crit: The creature is unaffected.
-s-fail: The creature is [[Stunned]] 1, [[Blinded]] for 1 round, and [[Dazzled]] for 1 minute.
-s-fumble: The creature is [[Stunned]] for 1 round and [[Blinded]] for 1 minute.
-s-hit: The creature is [[Dazzled]] for 1 round.
-tags: Illusion Incapacitation Visual Spell Arcane Occult Manipulate Concentrate
+created: 20231114013842706
+modified: 20231114013854340
+tags: 
 title: Color Spray
-turn-eun: Short-term conditions end.
 type: text/vnd.tiddlywiki
 
-{{||SpellSummaryTable}}
-
-Swirling colors affect viewers based on their [[Will]] saves.
-
-{{||SaveSuccessTable}}
+This spell was renamed [[Dizzying Colors]] in the remaster.

@@ -1,6 +1,6 @@
 created: 20210901222213681
 mod-arcane_cascade: Can change staff grip freely before Strike or at end of turn.
-modified: 20210901223106223
+modified: 20231114013050106
 splat-class: Magus
 tags: Splat Magus
 title: Twisting Tree
@@ -21,4 +21,4 @@ While you’re in [[Arcane Cascade]] stance, you can [[Interact]] or [[Release]]
 | !Slot Level | !Spell |
 | 2nd | [[Magic Mouth]] |
 | 3rd | [[Slow]] |
-| 4th | [[Blink]] |
+| 4th | [[Flicker (Spell)]] |

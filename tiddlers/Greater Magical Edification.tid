@@ -2,13 +2,13 @@ created: 20201212164802871
 feat-arch: Loremaster
 feat-fpre: [[Magical Edification]]
 feat-level: 10
-modified: 20201212164856192
+modified: 20231114014630462
 tags: Feat Archetype Skill
 title: Greater Magical Edification
 type: text/vnd.tiddlywiki
 
 You’ve continued to expand your compendium of tools to compile knowledge. 
 
-You can cast [[Comprehend Language]], [[Mindlink]], and [[Secret Page]] as innate occult spells, each once per day. 
+You can cast [[Translate]], [[Mindlink]], and [[Secret Page]] as innate occult spells, each once per day. 
 
 When you cast secret page, it is automatically heightened to the same spell level as your cantrips from Magical Edification.

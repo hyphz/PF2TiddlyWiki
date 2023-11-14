@@ -1,32 +1,7 @@
-a-crit: 
-a-defense: 
-a-fail: 
-a-fumble: 
-a-hit: 
-created: 20200718212700048
-m-area: 
-m-components: Somatic Verbal
-m-duration: 10 minutes
-m-level: 2
-m-range: Touch
-m-save: 
-m-targets: 1 Willing Creature
-m-time: 
-modified: 20230726200740939
-s-crit: 
-s-fail: 
-s-fumble: 
-s-hit: 
-tags: Spell Abjuration Plant Primal Manipulate Concentrate
+created: 20231114012814643
+modified: 20231114012826795
+tags: 
 title: Barkskin
 type: text/vnd.tiddlywiki
 
-{{||SpellSummaryTable}}
-
-The target’s skin becomes covered in bark. 
-
-The target gains resistance 2 to bludgeoning and piercing damage and weakness 3 to fire. 
-
-After the target takes fire damage, it can [[Dismiss]] the spell as a free action triggered by taking the damage; doing so doesn’t reduce the fire damage the target was dealt. 
-
-''Heightened (+2)'' The resistances increase by 2, and the weakness increases by 3.
+This spell was renamed [[Oaken Resilience]] in the remaster.

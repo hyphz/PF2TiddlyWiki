@@ -1,35 +1,7 @@
-a-crit: 
-a-defense: 
-a-fail: 
-a-fumble: 
-a-hit: 
-created: 20200719175023227
-m-area: 
-m-components: Somatic Verbal
-m-duration: 1 minute
-m-level: 4
-m-range: 
-m-save: 
-m-targets: You
-m-time: 
-modified: 20230726200740941
-s-crit: 
-s-fail: 
-s-fumble: 
-s-hit: 
-tags: Spell Conjuration Teleportation Arcane Occult Manipulate Concentrate MCIR
+created: 20231114013118663
+modified: 20231114013130738
+tags: 
 title: Blink
-turn-euc: User vanishes and reappears 10' away in a random direction.
 type: text/vnd.tiddlywiki
 
-{{||SpellSummaryTable}}
-
-You blink quickly between the Material Plane and the Ethereal Plane. 
-
-You gain resistance 5 to all damage (except force). 
-
-You can [[Sustain the Spell|Sustain a Spell]] to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn’t trigger reactions. 
-
-At the end of your turn, you vanish and reappear as above.
-
-''Heightened (+2)'' The resistance increases by 3.
+This spell was renamed to [[Flicker (Spell)]] in the remaster.

@@ -1,7 +1,7 @@
 created: 20201205161101281
 feat-arch: Wizard
 feat-level: 4
-modified: 20220622191955514
+modified: 20231114013451157
 tags: Feat Archetype
 title: Arcane School Spell
 type: text/vnd.tiddlywiki
@@ -10,9 +10,9 @@ __You gain your school's initial school spell.__
 
 | !School | !School Spell |
 | Abjuration | [[Protective Ward]] |
-| Conjuration | [[Augment Summoning]] |
+| Conjuration | [[Fortify Summoning]] |
 | Divination | [[Diviner's Sight]] |
-| Enchantment | [[Charming Words]] |
+| Enchantment | [[Charming Push]] |
 | Evocation | [[Force Bolt]] |
 | Illusion | [[Warped Terrain]] |
 | Necromancy | [[Call of the Grave]] |

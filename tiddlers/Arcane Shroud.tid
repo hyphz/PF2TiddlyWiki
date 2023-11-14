@@ -3,7 +3,7 @@ created: 20210903200939470
 feat-class: Magus
 feat-fpre: Spellstrike [[Arcane Cascade]]
 feat-level: 14
-modified: 20210903203314448
+modified: 20231114013033343
 tags: Class Feat Magus Action
 title: Arcane Shroud
 type: text/vnd.tiddlywiki
@@ -22,7 +22,7 @@ Using Arcane Shroud again ends any existing spell you gained from Arcane Shroud.
 
 | !School | !Aftereffect Spell |
 | Abjuration | [[Stoneskin]] |
-| Conjuration | [[Blink]] |
+| Conjuration | [[Flicker (Spell)]] |
 | Divination | [[See Invisibility]] |
 | Enchantment | [[Heroism]] |
 | Evocation | [[Fire Shield]] |
